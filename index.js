@@ -26,11 +26,14 @@ async function backup(url, name, type = 'anime', page = 0, ids = {}) {
 		if(json.next) {
 			return await backup(url, name, type, page + 1, ids);
 		} else {
+			if(type === 'anime') {
+				return await backup(url, name, 'manga', 0, ids)
+			}
 			for(item in ids) {
 				await fs.outputFile(`data/${name}/${item}/_index.json`, JSON.stringify(ids[item].sort(), null, 2))
 			}
-			if(type === 'anime') {
-				return await backup(url, name, 'manga')
+			if(name === 'pages') {
+				await fs.outputFile(`data/${name}/_index.json`, JSON.stringify(Object.keys(ids).sort(), null, 2))
 			}
 			return true;
 		}
