@@ -21,5 +21,30 @@
   "createdAt": "2021-06-09T18:34:15.000Z",
   "updatedAt": "2021-06-09T18:34:15.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-dq980899": {
+        "authors": [
+          "Bing Mao",
+          "Yuanyang",
+          "Xin Yeyu"
+        ],
+        "identifier": "manga-dq980899",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Film Emperor's Reincarnation Script",
+        "url": "https://readmanganato.com/manga-dq980899",
+        "image": "https://avt.mkklcdnv6temp.com/45/o/17-1583496905.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 110540,
+        "createdAt": "2021-06-15T15:27:43.000Z",
+        "updatedAt": "2021-06-15T15:27:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }
