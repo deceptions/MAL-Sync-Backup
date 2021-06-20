@@ -6,6 +6,16 @@
     "Furi Kuri Progressive",
     "Fooly Cooly Progressive"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/flcl"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRDK3DD4Y/FLCL"
+    }
+  ],
   "id": 21746,
   "malId": 33010,
   "type": "anime",
@@ -15,7 +25,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:04.000Z",
-  "updatedAt": "2021-05-20T14:43:04.000Z",
+  "updatedAt": "2021-06-17T15:01:40.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -144,25 +154,6 @@
         "aniId": 21746,
         "createdAt": "2020-10-15T11:20:15.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "flcl%20progressive": {
-        "identifier": "flcl%20progressive",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "FLCL Progressive",
-        "url": "https://www.crunchyroll.com/flcl?media_id=786438",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/fb914c97f2894903f87c2f4e4113a0d61558678032_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 33010,
-        "aniId": 21746,
-        "createdAt": "2020-11-05T01:58:42.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

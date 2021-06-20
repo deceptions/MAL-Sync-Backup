@@ -4,6 +4,20 @@
     "ちはやふる",
     "Chihayafull"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/chihayafuru"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/chihayafuru"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GYGG57V3Y/Chihayafuru"
+    }
+  ],
   "id": 10800,
   "malId": 10800,
   "type": "anime",
@@ -13,7 +27,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:39:17.000Z",
-  "updatedAt": "2021-05-20T14:39:17.000Z",
+  "updatedAt": "2021-06-17T12:47:38.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -141,25 +155,6 @@
         "malId": 10800,
         "aniId": 10800,
         "createdAt": "2020-10-15T11:32:02.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "chihayafuru": {
-        "identifier": "chihayafuru",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Chihayafuru",
-        "url": "https://www.crunchyroll.com/chihayafuru?media_id=585274",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/4cbeeb49f733b24951e79711d89e20061317688242_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 10800,
-        "aniId": 10800,
-        "createdAt": "2020-10-27T12:40:59.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

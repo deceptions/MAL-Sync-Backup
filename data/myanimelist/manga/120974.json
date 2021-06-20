@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:05.000Z",
-  "updatedAt": "2021-03-30T10:30:52.000Z",
+  "updatedAt": "2021-06-18T12:52:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,6 +78,28 @@
         "aniId": 110785,
         "createdAt": "2020-12-23T21:27:15.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kv987856": {
+        "authors": [
+          "Yuu Hashimoto"
+        ],
+        "identifier": "manga-kv987856",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "2.5 Dimensional Seduction",
+        "url": "https://manganato.com/manga-kv987856",
+        "image": "https://avt.mkklcdnv6temp.com/14/w/23-1612107526.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120974,
+        "aniId": 110785,
+        "createdAt": "2021-06-18T12:52:08.000Z",
+        "updatedAt": "2021-06-18T13:20:51.000Z",
         "deletedAt": null
       }
     }

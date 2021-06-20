@@ -5,6 +5,20 @@
     "DRRR!!",
     "דורארארה!!"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/durarara"
+    },
+    {
+      "site": "Netflix",
+      "url": "http://www.netflix.com/title/80040119"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/durarara/"
+    }
+  ],
   "id": 6746,
   "malId": 6746,
   "type": "anime",
@@ -14,7 +28,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:38:45.000Z",
-  "updatedAt": "2021-05-20T14:38:45.000Z",
+  "updatedAt": "2021-06-17T11:43:03.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -176,59 +190,6 @@
         "malId": 6746,
         "aniId": 6746,
         "createdAt": "2020-10-15T12:08:28.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "durarara!!%20x2%20(dub)": {
-        "identifier": "durarara!!%20x2%20(dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Durarara!! X2 (Dub)",
-        "url": "https://www.crunchyroll.com/durarara?media_id=677233",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/482c7f022f6aa9508da11d083679d87b1420870379_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 6746,
-        "aniId": 6746,
-        "createdAt": "2020-10-26T23:40:51.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      },
-      "durarara": {
-        "identifier": "durarara",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Durarara",
-        "url": "https://www.crunchyroll.com/durarara?media_id=558890",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/bf353acb4b0122376200cdba4ee541511285040243_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 6746,
-        "aniId": 6746,
-        "createdAt": "2020-10-30T10:42:27.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      },
-      "durarara%20(dub)": {
-        "identifier": "durarara%20(dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Durarara (Dub)",
-        "url": "https://www.crunchyroll.com/durarara?media_id=668537",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/c7920d368ec138286bd08a1ba6c387671420606140_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 6746,
-        "aniId": 6746,
-        "createdAt": "2020-10-30T22:10:45.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

@@ -7,6 +7,28 @@
     "K-on",
     "케이온!"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/k-on"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/k-on-season-1"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/kon"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80003477"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GY8DX2QGY/K-ON-Season-1"
+    }
+  ],
   "id": 5680,
   "malId": 5680,
   "type": "anime",
@@ -16,7 +38,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:37:47.000Z",
-  "updatedAt": "2021-05-20T14:37:47.000Z",
+  "updatedAt": "2021-06-17T11:21:09.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -181,42 +203,6 @@
         "aniId": 5680,
         "createdAt": "2020-12-13T23:48:05.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "k-on!": {
-        "identifier": "k-on!",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "K-ON!",
-        "url": "https://www.crunchyroll.com/k-on?media_id=807556",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/264984ba4a4a76d309d774ff12d3fa731613458509_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 5680,
-        "aniId": 5680,
-        "createdAt": "2021-02-17T17:21:53.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
-        "deletedAt": null
-      },
-      "k-on!%20(german%20dub)": {
-        "identifier": "k-on!%20(german%20dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "K-ON! (German Dub)",
-        "url": "https://www.crunchyroll.com/k-on?media_id=807584",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/264984ba4a4a76d309d774ff12d3fa731613458509_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 5680,
-        "aniId": 5680,
-        "createdAt": "2021-02-18T19:33:39.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

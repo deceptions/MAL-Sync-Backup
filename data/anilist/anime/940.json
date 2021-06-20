@@ -3,6 +3,16 @@
     "Inukami!",
     "いぬかみっ!"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/inukami"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRQWE1K7R/Inukami"
+    }
+  ],
   "id": 940,
   "malId": 940,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:34:51.000Z",
-  "updatedAt": "2021-06-14T21:27:33.000Z",
+  "updatedAt": "2021-06-17T08:41:33.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -88,25 +98,6 @@
         "aniId": 940,
         "createdAt": "2020-10-15T12:55:51.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "inukami!": {
-        "identifier": "inukami!",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Inukami!",
-        "url": "https://www.crunchyroll.com/inukami?media_id=784342",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/1c7da663c60f2d5884da3b9136fc9e331557297247_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 940,
-        "aniId": 940,
-        "createdAt": "2021-01-01T12:29:50.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     }

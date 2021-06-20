@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:30.000Z",
-  "updatedAt": "2021-03-15T12:03:21.000Z",
+  "updatedAt": "2021-06-17T19:28:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -102,6 +102,28 @@
         "aniId": 31101,
         "createdAt": "2021-03-15T12:03:23.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yj956366": {
+        "authors": [
+          "Tabata Yoshiaki"
+        ],
+        "identifier": "manga-yj956366",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Akumetsu",
+        "url": "https://readmanganato.com/manga-yj956366",
+        "image": "https://avt.mkklcdnv6temp.com/12/u/4-1583470187.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1101,
+        "aniId": 31101,
+        "createdAt": "2021-06-17T18:59:56.000Z",
+        "updatedAt": "2021-06-17T19:50:51.000Z",
         "deletedAt": null
       }
     }

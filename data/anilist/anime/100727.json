@@ -1,7 +1,14 @@
 {
   "altTitle": [
     "Yotsuiro Biyori",
-    "鹿楓堂よついろ日和"
+    "鹿楓堂よついろ日和",
+    "鹿枫堂四色日和"
+  ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/Yotsuiro-Biyori"
+    }
   ],
   "id": 100727,
   "malId": 36513,
@@ -12,7 +19,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:28.000Z",
-  "updatedAt": "2021-05-20T14:44:28.000Z",
+  "updatedAt": "2021-06-19T06:20:50.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -87,25 +94,6 @@
         "malId": 36513,
         "aniId": 100727,
         "createdAt": "2020-11-03T05:54:21.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "yotsuiro%20biyori": {
-        "identifier": "yotsuiro%20biyori",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Yotsuiro Biyori",
-        "url": "https://www.crunchyroll.com/yotsuiro-biyori?media_id=769329",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/20f72c4069202b71c243a32169956d3c1523342425_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 36513,
-        "aniId": 100727,
-        "createdAt": "2020-11-22T15:57:08.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }

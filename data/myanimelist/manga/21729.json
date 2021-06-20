@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:58.000Z",
-  "updatedAt": "2021-01-24T15:12:08.000Z",
+  "updatedAt": "2021-06-16T22:58:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -100,6 +100,28 @@
         "aniId": 51729,
         "createdAt": "2021-01-24T15:12:09.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-us955975": {
+        "authors": [
+          "Shiki Seiichi"
+        ],
+        "identifier": "manga-us955975",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fujimura-Kun Meitsu",
+        "url": "https://manganato.com/manga-us955975",
+        "image": "https://avt.mkklcdnv6temp.com/48/b/3-1583469571.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21729,
+        "aniId": 51729,
+        "createdAt": "2021-06-16T22:58:46.000Z",
+        "updatedAt": "2021-06-16T23:27:34.000Z",
         "deletedAt": null
       }
     }

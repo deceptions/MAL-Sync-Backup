@@ -5,6 +5,16 @@
     "Kyousogiga",
     "Kyousou Giga"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/kyousougiga"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GR9PX1316/Kyousougiga"
+    }
+  ],
   "id": 19703,
   "malId": 19703,
   "type": "anime",
@@ -14,7 +24,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:36.000Z",
-  "updatedAt": "2021-05-20T14:40:36.000Z",
+  "updatedAt": "2021-06-17T13:54:06.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -159,25 +169,6 @@
         "malId": 19703,
         "aniId": 19703,
         "createdAt": "2020-10-15T13:04:53.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "kyousougiga": {
-        "identifier": "kyousougiga",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Kyousougiga",
-        "url": "https://www.crunchyroll.com/kyousougiga?media_id=646683",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/c7e75431465f08940b9c52caf3cfda581383265505_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 19703,
-        "aniId": 19703,
-        "createdAt": "2020-10-22T02:39:15.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

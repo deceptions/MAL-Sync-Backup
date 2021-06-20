@@ -3,6 +3,24 @@
     "Another",
     "アナザー"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/another"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/another"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80241072"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GR09X52WR/Another"
+    }
+  ],
   "id": 11111,
   "malId": 11111,
   "type": "anime",
@@ -12,7 +30,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:06.000Z",
-  "updatedAt": "2021-05-20T14:40:06.000Z",
+  "updatedAt": "2021-06-17T12:51:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -175,59 +193,6 @@
         "aniId": 11111,
         "createdAt": "2020-10-15T12:40:44.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "another": {
-        "identifier": "another",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Another",
-        "url": "https://www.crunchyroll.com/another?media_id=589572",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/080faf1eeab820e04500a9c8f91c07ba1325125910_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 11111,
-        "aniId": 11111,
-        "createdAt": "2020-10-22T04:09:09.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      },
-      "another%20(german%20dub)": {
-        "identifier": "another%20(german%20dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Another (German Dub)",
-        "url": "https://www.crunchyroll.com/another?media_id=799336",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/10bd332e915f95931caf0f6fec05c3481606137549_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 11111,
-        "aniId": 11111,
-        "createdAt": "2021-01-18T22:03:13.000Z",
-        "updatedAt": "2021-05-20T15:21:58.000Z",
-        "deletedAt": null
-      },
-      "another%20(german%20europe)": {
-        "identifier": "another%20(german%20europe)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Another (German Europe)",
-        "url": "https://www.crunchyroll.com/another?media_id=799390",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/080faf1eeab820e04500a9c8f91c07ba1325125910_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 11111,
-        "aniId": 11111,
-        "createdAt": "2021-02-12T17:06:16.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     },

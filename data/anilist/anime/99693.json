@@ -5,6 +5,28 @@
     "P5A",
     "ペルソナ5アニメーション"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/persona5-the-animation"
+    },
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/persona5-the-animation"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/persona-5-the-animation"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/persona5-the-animation/"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G6VDWKM76/PERSONA5-the-Animation"
+    }
+  ],
   "id": 99693,
   "malId": 36023,
   "type": "anime",
@@ -14,7 +36,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:25.000Z",
-  "updatedAt": "2021-05-28T01:28:42.000Z",
+  "updatedAt": "2021-06-17T15:35:58.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -177,25 +199,6 @@
         "aniId": 99693,
         "createdAt": "2020-10-15T11:36:13.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "persona5%20the%20animation": {
-        "identifier": "persona5%20the%20animation",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "PERSONA5 the Animation",
-        "url": "https://www.crunchyroll.com/persona5-the-animation?media_id=780776",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/9328e0157235906c83b8a6f60e062fd21546183570_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 36023,
-        "aniId": 99693,
-        "createdAt": "2020-11-18T23:20:44.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

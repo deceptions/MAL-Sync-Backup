@@ -4,6 +4,20 @@
     "ご注文はうさぎですか？",
     "Gochiusa"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/is-the-order-a-rabbit"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/is-the-order-a-rabbit"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GR2P1P2KR/Is-the-Order-a-Rabbit"
+    }
+  ],
   "id": 20517,
   "malId": 21273,
   "type": "anime",
@@ -13,7 +27,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:27.000Z",
-  "updatedAt": "2021-05-20T14:41:27.000Z",
+  "updatedAt": "2021-06-17T14:01:36.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -124,25 +138,6 @@
         "malId": 21273,
         "aniId": 20517,
         "createdAt": "2020-10-15T12:11:38.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "is%20the%20order%20a%20rabbit%3f": {
-        "identifier": "is%20the%20order%20a%20rabbit%3f",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Is the Order a Rabbit?",
-        "url": "https://www.crunchyroll.com/is-the-order-a-rabbit?media_id=653243",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/e8cacf6bf91459ec5f40814708c321bb1397106135_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 2,
-        "malId": 21273,
-        "aniId": 20517,
-        "createdAt": "2020-10-20T20:40:17.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

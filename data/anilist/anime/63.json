@@ -2,6 +2,16 @@
   "altTitle": [
     "ディアーズ"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/dears"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRZXD528Y/DearS"
+    }
+  ],
   "id": 63,
   "malId": 63,
   "type": "anime",
@@ -11,7 +21,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:33:25.000Z",
-  "updatedAt": "2021-05-20T14:33:25.000Z",
+  "updatedAt": "2021-06-17T07:59:26.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -138,42 +148,6 @@
         "aniId": 63,
         "createdAt": "2020-10-15T13:26:55.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "dears%20(dub)": {
-        "identifier": "dears%20(dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "DearS (Dub)",
-        "url": "https://www.crunchyroll.com/dears?media_id=685549",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/ffc77cc9a7a4dede2217bc6318f457181442281187_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 63,
-        "aniId": 63,
-        "createdAt": "2020-10-29T12:42:25.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      },
-      "dears%20(sub)": {
-        "identifier": "dears%20(sub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "DearS (Sub)",
-        "url": "https://www.crunchyroll.com/dears?media_id=685523",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/e27d7946fee66ce819bf595e3dbec15e1442279964_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 63,
-        "aniId": 63,
-        "createdAt": "2020-11-10T17:44:53.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

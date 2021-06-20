@@ -3,6 +3,12 @@
     "You and Me.",
     "君と僕。"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/you-and-me"
+    }
+  ],
   "id": 10460,
   "malId": 10460,
   "type": "anime",
@@ -12,7 +18,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:39:15.000Z",
-  "updatedAt": "2021-05-20T14:39:15.000Z",
+  "updatedAt": "2021-06-17T12:41:27.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -143,25 +149,6 @@
         "aniId": 10460,
         "createdAt": "2020-12-26T15:56:34.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "you%20and%20me": {
-        "identifier": "you%20and%20me",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "You and Me",
-        "url": "https://www.crunchyroll.com/you-and-me?media_id=585224",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/103114b81f907d40ad71d92e13a1e3c41317609013_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 10460,
-        "aniId": 10460,
-        "createdAt": "2021-01-14T16:33:11.000Z",
-        "updatedAt": "2021-05-20T15:21:58.000Z",
         "deletedAt": null
       }
     }

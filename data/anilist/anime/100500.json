@@ -3,6 +3,20 @@
     "Kakuriyo -Bed & Breakfast for Spirits-",
     "かくりよの宿飯"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/kakuriyo-bed-breakfast-for-spirits-"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/kakuriyo-bed-breakfast-for-spirits-/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/kakuriyo-bed-breakfast-for-spirits-"
+    }
+  ],
   "id": 100500,
   "malId": 36754,
   "type": "anime",
@@ -12,7 +26,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:29.000Z",
-  "updatedAt": "2021-05-20T14:44:29.000Z",
+  "updatedAt": "2021-06-17T15:43:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -160,25 +174,6 @@
         "aniId": 100500,
         "createdAt": "2020-11-01T19:15:15.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "kakuriyo%20-bed%20%26%20breakfast%20for%20spirits-": {
-        "identifier": "kakuriyo%20-bed%20%26%20breakfast%20for%20spirits-",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Kakuriyo -Bed & Breakfast for Spirits-",
-        "url": "https://www.crunchyroll.com/kakuriyo-bed-breakfast-for-spirits-?media_id=768007",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9f20cf618f69dea423ca6d98af88254a1522663111_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 36754,
-        "aniId": 100500,
-        "createdAt": "2021-02-27T02:44:25.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

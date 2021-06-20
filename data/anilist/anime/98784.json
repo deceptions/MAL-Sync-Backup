@@ -4,6 +4,16 @@
     "薄暮",
     "Twilight"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/hakubo"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GYNV4Z7JR/Hakubo"
+    }
+  ],
   "id": 98784,
   "malId": 34972,
   "type": "anime",
@@ -13,7 +23,7 @@
   "category": "movie",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:23.000Z",
-  "updatedAt": "2021-05-20T14:43:23.000Z",
+  "updatedAt": "2021-06-17T15:29:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -89,25 +99,6 @@
         "aniId": 98784,
         "createdAt": "2020-10-15T11:57:05.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "hakubo": {
-        "identifier": "hakubo",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Hakubo",
-        "url": "https://www.crunchyroll.com/hakubo?media_id=796809",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9f5c7bda34d71bd308e72820ad14e3271596532933_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 34972,
-        "aniId": 98784,
-        "createdAt": "2021-01-01T12:29:03.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

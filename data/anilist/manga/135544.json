@@ -5,7 +5,12 @@
     "Don't Concern Yourself With That Book  ",
     "请不要为画动情"
   ],
-  "authors": [],
+  "externalLinks": [],
+  "authors": [
+    "Jo-Jo Im",
+    "Si-Hyun Mun",
+    "Si-Hyun Mun"
+  ],
   "id": 135544,
   "malId": null,
   "type": "manga",
@@ -15,7 +20,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-14T07:57:34.000Z",
-  "updatedAt": "2021-06-14T07:57:34.000Z",
+  "updatedAt": "2021-06-18T13:30:43.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-hn985022": {
+        "authors": [
+          "Moon Si Hyeon"
+        ],
+        "identifier": "manga-hn985022",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Don’T Concern Yourself With That Book",
+        "url": "https://manganato.com/manga-hn985022",
+        "image": "https://avt.mkklcdnv6temp.com/48/l/20-1585326481.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 135544,
+        "createdAt": "2021-06-06T19:49:27.000Z",
+        "updatedAt": "2021-06-18T20:29:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

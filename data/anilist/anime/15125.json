@@ -4,6 +4,12 @@
     "てーきゅう",
     "Te-kyuu"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/teekyu"
+    }
+  ],
   "id": 15125,
   "malId": 15125,
   "type": "anime",
@@ -13,7 +19,7 @@
   "category": "tv_short",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:18.000Z",
-  "updatedAt": "2021-05-20T14:40:18.000Z",
+  "updatedAt": "2021-06-17T13:23:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -125,25 +131,6 @@
         "aniId": 15125,
         "createdAt": "2020-10-15T12:12:38.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "teekyu": {
-        "identifier": "teekyu",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Teekyu",
-        "url": "https://www.crunchyroll.com/teekyu?media_id=612533",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9d227934a145120dd93b2f2b3e761b7d1349824779_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 15125,
-        "aniId": 15125,
-        "createdAt": "2020-11-19T11:51:02.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

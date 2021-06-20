@@ -2,6 +2,16 @@
   "altTitle": [
     "リオ レインボーゲート"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/rio-rainbow-gate"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/rio-rainbow-gate"
+    }
+  ],
   "id": 8241,
   "malId": 8241,
   "type": "anime",
@@ -11,7 +21,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:38:55.000Z",
-  "updatedAt": "2021-05-20T14:38:55.000Z",
+  "updatedAt": "2021-06-17T12:06:31.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -83,25 +93,6 @@
         "aniId": 8241,
         "createdAt": "2021-01-12T08:22:05.000Z",
         "updatedAt": "2021-05-20T15:21:58.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "rio%20-%20rainbow%20gate!": {
-        "identifier": "rio%20-%20rainbow%20gate!",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Rio - Rainbow Gate!",
-        "url": "https://www.crunchyroll.com/rio-rainbow-gate?media_id=568372",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/cfc16c43d099bdc8d1a7f7c5ed92462a1293739492_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 8241,
-        "aniId": 8241,
-        "createdAt": "2020-11-06T03:28:26.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

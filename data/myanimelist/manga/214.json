@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:19.000Z",
-  "updatedAt": "2020-12-23T22:56:11.000Z",
+  "updatedAt": "2021-06-16T17:57:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,30 @@
         "aniId": 30214,
         "createdAt": "2020-12-23T22:56:14.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mobile_suit_gundam_the_origin": {
+        "authors": [
+          "Hajime Yatate",
+          "TOMINO Yoshiyuki",
+          "YASUHIKO Yoshikazu"
+        ],
+        "identifier": "mobile_suit_gundam_the_origin",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kidou Senshi Gundam: The Origin",
+        "url": "https://fanfox.net/manga/mobile_suit_gundam_the_origin/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/659/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 214,
+        "aniId": 30214,
+        "createdAt": "2021-06-16T17:57:38.000Z",
+        "updatedAt": "2021-06-16T18:27:34.000Z",
         "deletedAt": null
       }
     }

@@ -3,6 +3,12 @@
     "Seiren",
     "セイレン"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/seiren"
+    }
+  ],
   "id": 97730,
   "malId": 33836,
   "type": "anime",
@@ -12,7 +18,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:12.000Z",
-  "updatedAt": "2021-05-20T14:43:12.000Z",
+  "updatedAt": "2021-06-17T15:10:59.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -126,25 +132,6 @@
         "aniId": 97730,
         "createdAt": "2020-12-23T10:56:25.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "seiren": {
-        "identifier": "seiren",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Seiren",
-        "url": "https://www.crunchyroll.com/seiren?media_id=727447",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/7687166abe3daaeb05f82c9e3ff8da131487988111_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 33836,
-        "aniId": 97730,
-        "createdAt": "2021-01-09T20:51:33.000Z",
-        "updatedAt": "2021-05-20T15:21:58.000Z",
         "deletedAt": null
       }
     }

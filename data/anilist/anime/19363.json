@@ -5,6 +5,28 @@
     "Ginsaji 2",
     "Silver Spoon 2"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/silver-spoon"
+    },
+    {
+      "site": "Netflix",
+      "url": "http://www.netflix.com/title/80041161"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/silver-spoon"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/silver-spoon/"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRZX4GGKY/Silver-Spoon"
+    }
+  ],
   "id": 19363,
   "malId": 19363,
   "type": "anime",
@@ -14,7 +36,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:35.000Z",
-  "updatedAt": "2021-05-20T14:40:35.000Z",
+  "updatedAt": "2021-06-17T13:51:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -90,25 +112,6 @@
         "aniId": 19363,
         "createdAt": "2020-10-12T16:26:50.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "silver%20spoon%20season%202": {
-        "identifier": "silver%20spoon%20season%202",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Silver Spoon Season 2",
-        "url": "https://www.crunchyroll.com/silver-spoon?media_id=649231",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/37e53e8f9a52e8ea21b4fcab864556551389829461_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 19363,
-        "aniId": 19363,
-        "createdAt": "2021-01-02T04:20:23.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

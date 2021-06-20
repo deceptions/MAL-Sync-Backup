@@ -3,6 +3,16 @@
     "WIXOSS DIVA(A)LIVE",
     "WIXOSS DIVA(A)LIVE"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/wixoss-divaalive"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GP5HJ83E1/WIXOSS-DIVAALIVE"
+    }
+  ],
   "id": 116944,
   "malId": 41521,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:46:05.000Z",
-  "updatedAt": "2021-05-20T14:46:05.000Z",
+  "updatedAt": "2021-06-17T17:32:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {
@@ -50,25 +60,6 @@
         "aniId": 116944,
         "createdAt": "2021-01-05T19:58:11.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "wixoss%20diva(a)live": {
-        "identifier": "wixoss%20diva(a)live",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "WIXOSS DIVA(A)LIVE",
-        "url": "https://www.crunchyroll.com/wixoss-divaalive?media_id=801587",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/d89ae63b5b72af3a94e9b3fe91f91d691610125581_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 41521,
-        "aniId": 116944,
-        "createdAt": "2021-01-08T17:51:40.000Z",
-        "updatedAt": "2021-05-20T15:21:58.000Z",
         "deletedAt": null
       }
     },

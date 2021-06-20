@@ -3,6 +3,20 @@
     "ENDRO!",
     "えんどろ〜！"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/endro"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/endro/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/endro"
+    }
+  ],
   "id": 103301,
   "malId": 38062,
   "type": "anime",
@@ -12,7 +26,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:45.000Z",
-  "updatedAt": "2021-05-20T14:44:45.000Z",
+  "updatedAt": "2021-06-17T16:20:23.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -122,25 +136,6 @@
         "aniId": 103301,
         "createdAt": "2020-10-12T16:26:47.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "endro!": {
-        "identifier": "endro!",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "ENDRO!",
-        "url": "https://www.crunchyroll.com/endro?media_id=781484",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/f42cc2efc6f96e9e36b04aeeec5802751547305223_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 38062,
-        "aniId": 103301,
-        "createdAt": "2020-11-19T18:21:05.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

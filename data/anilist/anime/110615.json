@@ -3,6 +3,16 @@
     "ARP Backstage Pass",
     "ARP Backstage Pass"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/arp-backstage-pass"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRQWDD29R/ARP-Backstage-Pass"
+    }
+  ],
   "id": 110615,
   "malId": 40137,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:45:56.000Z",
-  "updatedAt": "2021-05-20T14:45:56.000Z",
+  "updatedAt": "2021-06-17T17:06:32.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -125,25 +135,6 @@
         "malId": 40137,
         "aniId": 110615,
         "createdAt": "2020-12-23T07:00:49.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "arp%20backstage%20pass": {
-        "identifier": "arp%20backstage%20pass",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "ARP Backstage Pass",
-        "url": "https://www.crunchyroll.com/arp-backstage-pass?media_id=792744",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/ba11d989c36f1d62bf84688cc6d2e28d1583153411_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 40137,
-        "aniId": 110615,
-        "createdAt": "2021-01-01T12:30:31.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }

@@ -3,6 +3,12 @@
     "Hanamaru Kindergarten",
     "はなまる幼稚園"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/hanamaru-kindergarten"
+    }
+  ],
   "id": 6574,
   "malId": 6574,
   "type": "anime",
@@ -12,7 +18,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:37:57.000Z",
-  "updatedAt": "2021-05-20T14:37:57.000Z",
+  "updatedAt": "2021-06-17T11:39:37.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -69,25 +75,6 @@
         "aniId": 6574,
         "createdAt": "2020-10-12T16:00:39.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "hanamaru%20kindergarten": {
-        "identifier": "hanamaru%20kindergarten",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Hanamaru Kindergarten",
-        "url": "https://www.crunchyroll.com/hanamaru-kindergarten?media_id=538468",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/d3b4da3ede9d56df16cff8de2a07e4a81262733502_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 6574,
-        "aniId": 6574,
-        "createdAt": "2020-11-19T16:21:30.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

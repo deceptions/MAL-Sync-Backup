@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-27T10:31:30.000Z",
-  "updatedAt": "2021-03-02T23:51:15.000Z",
+  "updatedAt": "2021-06-18T12:52:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,28 @@
         "aniId": 118987,
         "createdAt": "2020-10-12T16:23:27.000Z",
         "updatedAt": "2021-05-20T15:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-io985471": {
+        "authors": [
+          "Hareyama Harezou"
+        ],
+        "identifier": "manga-io985471",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ōkami-Kun Wa Hayakawa-San Ni Katenai",
+        "url": "https://readmanganato.com/manga-io985471",
+        "image": "https://avt.mkklcdnv6temp.com/17/c/21-1590029940.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131294,
+        "aniId": 118987,
+        "createdAt": "2021-06-18T12:52:38.000Z",
+        "updatedAt": "2021-06-18T13:20:51.000Z",
         "deletedAt": null
       }
     }

@@ -10,14 +10,33 @@
   "image": "https://uploads.mangadex.org/covers/e360efe3-87c9-4b99-92c9-586cb1c7c6c2/30ef52de-3fc9-4c90-b20c-60ab42561603.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 131108,
   "createdAt": "2021-03-19T02:04:31.000Z",
-  "updatedAt": "2021-06-08T12:41:05.000Z",
+  "updatedAt": "2021-06-17T14:57:57.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "スロー・ジェットコースター"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Chikako Saku"
+    ],
+    "id": 131108,
+    "malId": null,
+    "type": "manga",
+    "title": "Slow Jet Coaster",
+    "url": "https://anilist.co/manga/131108",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131108-2Bj88yOOPIUQ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-10T20:08:19.000Z",
+    "updatedAt": "2021-06-17T14:57:57.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

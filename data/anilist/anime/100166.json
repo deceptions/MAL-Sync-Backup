@@ -7,6 +7,28 @@
     "我的英雄学院 3",
     "我的英雄学院第三季"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/my-hero-academia"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/my-hero-academia/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/my-hero-academia"
+    },
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/my-hero-academia"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G6NQ5DWZ6/My-Hero-Academia"
+    }
+  ],
   "id": 100166,
   "malId": 36456,
   "type": "anime",
@@ -16,7 +38,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:26.000Z",
-  "updatedAt": "2021-05-20T14:44:26.000Z",
+  "updatedAt": "2021-06-17T15:39:57.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -161,25 +183,6 @@
         "malId": 36456,
         "aniId": 100166,
         "createdAt": "2020-10-15T11:56:45.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "my%20hero%20academia%20season%203": {
-        "identifier": "my%20hero%20academia%20season%203",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "My Hero Academia Season 3",
-        "url": "https://www.crunchyroll.com/my-hero-academia?media_id=768937",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/e9552d8d0030c5bcecd0d867c12a65731523080601_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 2,
-        "malId": 36456,
-        "aniId": 100166,
-        "createdAt": "2020-10-27T23:10:55.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

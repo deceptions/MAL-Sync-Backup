@@ -5,6 +5,28 @@
     "Toriko (TV)",
     "Toriko x One Piece Collabo Special"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/toriko"
+    },
+    {
+      "site": "Funimation",
+      "url": "http://www.funimation.com/shows/toriko/"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/toriko"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRE5MNM06/Toriko"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/toriko"
+    }
+  ],
   "id": 10033,
   "malId": 10033,
   "type": "anime",
@@ -14,7 +36,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:39:12.000Z",
-  "updatedAt": "2021-05-20T14:39:12.000Z",
+  "updatedAt": "2021-06-17T12:33:29.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -124,25 +146,6 @@
         "aniId": 10033,
         "createdAt": "2020-10-12T16:27:22.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "toriko": {
-        "identifier": "toriko",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Toriko",
-        "url": "https://www.crunchyroll.com/toriko?media_id=651515",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/247ecda9f81c66d9867878f1619aaa6b1395389842_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 10033,
-        "aniId": 10033,
-        "createdAt": "2020-11-03T03:25:08.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

@@ -2,6 +2,20 @@
   "altTitle": [
     "アウトブレイク・カンパニー"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/outbreak-company"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/outbreak-company"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/outbreak-company"
+    }
+  ],
   "id": 19369,
   "malId": 19369,
   "type": "anime",
@@ -11,7 +25,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:35.000Z",
-  "updatedAt": "2021-05-20T14:40:35.000Z",
+  "updatedAt": "2021-06-17T13:52:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -140,25 +154,6 @@
         "aniId": 19369,
         "createdAt": "2020-10-15T11:05:24.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "outbreak%20company": {
-        "identifier": "outbreak%20company",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Outbreak Company",
-        "url": "https://www.crunchyroll.com/outbreak-company?media_id=645271",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/d22c7d5c32f3707708451353cb2c7d851380829387_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 19369,
-        "aniId": 19369,
-        "createdAt": "2020-11-03T03:25:01.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

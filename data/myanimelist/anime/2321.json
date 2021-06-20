@@ -11,7 +11,7 @@
   "category": "OVA",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:28.000Z",
-  "updatedAt": "2021-04-27T07:20:11.000Z",
+  "updatedAt": "2021-06-18T12:21:00.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -83,6 +83,25 @@
         "aniId": 2321,
         "createdAt": "2020-10-12T16:00:31.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4400": {
+        "identifier": "4400",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Giant Robo the Animation: Chikyuu ga Seishi Suru Hi",
+        "url": "https://pahe.win/a/4400",
+        "image": "https://i.animepahe.com/posters/09a473c57f6050387063c2053df5a70392be3beee795848e82fef60c9dca9fae.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2321,
+        "aniId": 2321,
+        "createdAt": "2021-06-18T12:20:59.000Z",
+        "updatedAt": "2021-06-18T12:50:49.000Z",
         "deletedAt": null
       }
     }

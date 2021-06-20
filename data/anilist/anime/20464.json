@@ -2,7 +2,30 @@
   "altTitle": [
     "HAIKYU!!",
     "ハイキュー!!",
-    "High Kyuu!!"
+    "High Kyuu!!",
+    "HAIKYÛ !!"
+  ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/haikyu"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/haikyu"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/haikyuu"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80090673"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GY8VM8MWY/Haikyu"
+    }
   ],
   "id": 20464,
   "malId": 20583,
@@ -13,7 +36,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:37.000Z",
-  "updatedAt": "2021-05-20T14:40:37.000Z",
+  "updatedAt": "2021-06-17T13:59:10.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -176,42 +199,6 @@
         "aniId": 20464,
         "createdAt": "2020-10-15T12:17:02.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "haikyu!!": {
-        "identifier": "haikyu!!",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Haikyu!!",
-        "url": "https://www.crunchyroll.com/haikyu?media_id=652941",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/ce6558d0649e3658f0bfb097f197bbde1399795933_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 20583,
-        "aniId": 20464,
-        "createdAt": "2020-10-20T17:09:07.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      },
-      "haikyu!!%20movies": {
-        "identifier": "haikyu!!%20movies",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "HAIKYU!! Movies",
-        "url": "https://www.crunchyroll.com/haikyu?media_id=779531",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/5f465c48f61177f2cc9628388ccdd3d91542092706_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 20583,
-        "aniId": 20464,
-        "createdAt": "2020-11-08T17:25:28.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:34.000Z",
-  "updatedAt": "2021-03-25T10:19:06.000Z",
+  "updatedAt": "2021-06-18T17:21:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -100,6 +100,28 @@
         "aniId": 93006,
         "createdAt": "2021-02-12T02:10:31.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fj952192": {
+        "authors": [
+          "Tagame Gengorou"
+        ],
+        "identifier": "manga-fj952192",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Otouto No Otto",
+        "url": "https://manganato.com/manga-fj952192",
+        "image": "https://avt.mkklcdnv6temp.com/31/a/1-1583464915.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80375,
+        "aniId": 93006,
+        "createdAt": "2021-06-18T17:21:02.000Z",
+        "updatedAt": "2021-06-18T17:50:50.000Z",
         "deletedAt": null
       }
     }

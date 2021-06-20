@@ -3,6 +3,20 @@
     "NEW GAME!",
     "NEW GAME!"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/new-game"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/new-game"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRWE2PQQR/NEW-GAME"
+    }
+  ],
   "id": 21455,
   "malId": 31953,
   "type": "anime",
@@ -12,7 +26,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:42:59.000Z",
-  "updatedAt": "2021-05-20T14:42:59.000Z",
+  "updatedAt": "2021-06-17T14:46:59.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -174,25 +188,6 @@
         "malId": 31953,
         "aniId": 21455,
         "createdAt": "2020-10-15T12:54:41.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "new%20game!": {
-        "identifier": "new%20game!",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "NEW GAME!",
-        "url": "https://www.crunchyroll.com/new-game?media_id=715393",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/1fcd891174c1304ce290b446afd8d18f1467685012_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 31953,
-        "aniId": 21455,
-        "createdAt": "2020-10-22T05:39:09.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

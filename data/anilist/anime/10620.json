@@ -4,6 +4,24 @@
     "未来日記",
     "未来日记"
   ],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "http://www.funimation.com/shows/the-future-diary/"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/the-future-diary"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/the-future-diary"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80132333"
+    }
+  ],
   "id": 10620,
   "malId": 10620,
   "type": "anime",
@@ -13,7 +31,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:39:16.000Z",
-  "updatedAt": "2021-05-20T14:39:16.000Z",
+  "updatedAt": "2021-06-17T12:44:41.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -211,25 +229,6 @@
         "malId": 10620,
         "aniId": 10620,
         "createdAt": "2020-12-17T13:26:33.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "mirai%20nikki": {
-        "identifier": "mirai%20nikki",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Mirai Nikki",
-        "url": "https://www.crunchyroll.com/mirai-nikki?media_id=800705",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/16eafe49b1f6297170480055fa8d35401608583330_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 10620,
-        "aniId": 10620,
-        "createdAt": "2021-01-01T12:30:51.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }

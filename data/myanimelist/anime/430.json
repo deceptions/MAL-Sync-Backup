@@ -1,7 +1,9 @@
 {
   "altTitle": [
     "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
-    "Gekijyouban Hagane no Renkinjutsushi - Shanbara wo Yuku Mono, Fullmetal Alchemist the Movie: Conqueror of Shamballa, FMA Movie",
+    "Gekijyouban Hagane no Renkinjutsushi - Shanbara wo Yuku Mono",
+    "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+    "FMA Movie",
     "劇場版 鋼の錬金術師 シャンバラを征く者"
   ],
   "id": 430,
@@ -12,7 +14,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:04.000Z",
-  "updatedAt": "2021-03-02T00:50:24.000Z",
+  "updatedAt": "2021-06-18T17:21:36.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -89,25 +91,6 @@
         "deletedAt": null
       }
     },
-    "Crunchyroll": {
-      "fullmetal%20alchemist%3a%20the%20conqueror%20of%20shamballa": {
-        "identifier": "fullmetal%20alchemist%3a%20the%20conqueror%20of%20shamballa",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Fullmetal Alchemist: The Conqueror of Shamballa",
-        "url": "https://www.crunchyroll.com/fullmetal-alchemist-the-conqueror-of-shamballa?media_id=719013",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/78903fbfcda190550e4507219075c5ce1472781785_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 430,
-        "aniId": 430,
-        "createdAt": "2020-11-12T13:15:54.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
     "animepahe": {
       "1886": {
         "identifier": "1886",
@@ -143,6 +126,23 @@
         "aniId": 430,
         "createdAt": "2021-03-09T10:40:39.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      },
+      "fullmetal-alchemist-the-conqueror-of-shamballa-dub": {
+        "identifier": "fullmetal-alchemist-the-conqueror-of-shamballa-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fullmetal Alchemist: The Conqueror of Shamballa (Dub)",
+        "url": "https://gogoanime.ai/category/fullmetal-alchemist-the-conqueror-of-shamballa-dub",
+        "image": "https://gogocdn.net/cover/fullmetal-alchemist-the-conqueror-of-shamballa-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 430,
+        "aniId": 430,
+        "createdAt": "2021-06-18T17:21:34.000Z",
+        "updatedAt": "2021-06-18T17:50:49.000Z",
         "deletedAt": null
       }
     }

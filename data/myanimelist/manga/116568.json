@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:48.000Z",
-  "updatedAt": "2021-02-11T02:41:12.000Z",
+  "updatedAt": "2021-06-16T22:58:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -56,6 +56,28 @@
         "aniId": 105261,
         "createdAt": "2020-10-12T16:26:18.000Z",
         "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "giniro-no-genders": {
+        "authors": [
+          "TOMONO Hiro"
+        ],
+        "identifier": "giniro-no-genders",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Giniro no Genders",
+        "url": "https://mangasee123.com/manga/Giniro-No-Genders",
+        "image": "https://cover.nep.li/cover/Giniro-No-Genders.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116568,
+        "aniId": 105261,
+        "createdAt": "2021-06-16T22:57:38.000Z",
+        "updatedAt": "2021-06-16T23:27:34.000Z",
         "deletedAt": null
       }
     }

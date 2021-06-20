@@ -6,6 +6,28 @@
     "שדי טוקיו",
     "东京食种"
   ],
+  "externalLinks": [
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/tokyo-ghoul"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/tokyo-ghoul"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/tokyo-ghoul/"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/en-gb/tokyo-ghoul"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80023687"
+    }
+  ],
   "id": 20605,
   "malId": 22319,
   "type": "anime",
@@ -15,7 +37,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:30.000Z",
-  "updatedAt": "2021-05-20T14:41:30.000Z",
+  "updatedAt": "2021-06-17T14:05:58.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -161,42 +183,6 @@
         "aniId": 20605,
         "createdAt": "2020-10-15T13:16:44.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "tokyo%20ghoul": {
-        "identifier": "tokyo%20ghoul",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Tokyo Ghoul",
-        "url": "https://www.crunchyroll.com/tokyo-ghoul?media_id=798916",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/8b37e1ebd67ee2cfd4519c591e11e3211605655330_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 22319,
-        "aniId": 20605,
-        "createdAt": "2020-12-08T18:40:25.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      },
-      "tokyo%20ghoul%20ova": {
-        "identifier": "tokyo%20ghoul%20ova",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Tokyo Ghoul OVA",
-        "url": "https://www.crunchyroll.com/tokyo-ghoul?media_id=804281",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/634051a0818a5fa384fadd157732e3181611702728_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 22319,
-        "aniId": 20605,
-        "createdAt": "2021-05-02T23:03:36.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     },

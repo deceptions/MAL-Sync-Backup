@@ -2,6 +2,28 @@
   "altTitle": [
     "だがしかし"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/dagashi-kashi"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/dagashi-kashi/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/dagashi-kashi"
+    },
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/series/af63942b-6083-4aec-8b30-d0345a66d185"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GYDQN15K6/Dagashi-Kashi"
+    }
+  ],
   "id": 21365,
   "malId": 31636,
   "type": "anime",
@@ -11,7 +33,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:42:56.000Z",
-  "updatedAt": "2021-05-20T14:42:56.000Z",
+  "updatedAt": "2021-06-17T14:42:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -191,42 +213,6 @@
         "aniId": 21365,
         "createdAt": "2020-10-30T16:42:28.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "dagashi%20kashi%20season%202": {
-        "identifier": "dagashi%20kashi%20season%202",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Dagashi Kashi Season 2",
-        "url": "https://www.crunchyroll.com/dagashi-kashi?media_id=760187",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/f6fc870de7de8ba37e2567ad169f0b8d1515798757_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 31636,
-        "aniId": 21365,
-        "createdAt": "2020-11-19T10:20:44.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      },
-      "dagashi%20kashi%20(german%20dub)": {
-        "identifier": "dagashi%20kashi%20(german%20dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Dagashi Kashi (German Dub)",
-        "url": "https://www.crunchyroll.com/dagashi-kashi?media_id=809253",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/ee7819dc55abd6364bd5cd6622c17b2b1452427706_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 31636,
-        "aniId": 21365,
-        "createdAt": "2021-03-24T18:49:15.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     },

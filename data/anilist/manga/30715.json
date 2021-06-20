@@ -3,6 +3,12 @@
     "Fate/stay night",
     "フェイト/ステイナイト"
   ],
+  "externalLinks": [
+    {
+      "site": "VIZ",
+      "url": "https://www.viz.com/fate-stay-night"
+    }
+  ],
   "authors": [
     "Type-Moon",
     "Datto Nishiwaki",
@@ -18,7 +24,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:35:41.000Z",
-  "updatedAt": "2021-06-03T17:18:57.000Z",
+  "updatedAt": "2021-06-17T08:50:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -107,6 +113,29 @@
         "aniId": 30715,
         "createdAt": "2021-03-21T00:36:32.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dy959507": {
+        "authors": [
+          "Type-Moon",
+          "Nishiwaki Datto"
+        ],
+        "identifier": "manga-dy959507",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fate/stay Night",
+        "url": "https://readmanganato.com/manga-dy959507",
+        "image": "https://avt.mkklcdnv6temp.com/16/h/6-1583474807.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 715,
+        "aniId": 30715,
+        "createdAt": "2021-06-17T22:52:14.000Z",
+        "updatedAt": "2021-06-17T23:20:50.000Z",
         "deletedAt": null
       }
     }

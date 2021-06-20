@@ -5,6 +5,16 @@
     "MuvLuv Alternative Total Eclipse",
     "MLA TE"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/total-eclipse"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/muv-luv-alternative-total-eclipse"
+    }
+  ],
   "id": 11021,
   "malId": 11021,
   "type": "anime",
@@ -14,7 +24,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:06.000Z",
-  "updatedAt": "2021-05-20T14:40:06.000Z",
+  "updatedAt": "2021-06-17T12:50:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -124,25 +134,6 @@
         "aniId": 11021,
         "createdAt": "2020-10-15T13:02:44.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "total%20eclipse": {
-        "identifier": "total%20eclipse",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Total Eclipse",
-        "url": "https://www.crunchyroll.com/total-eclipse?media_id=601589",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/7587433dd4b446b44f381de4fc4beda51340755312_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 2,
-        "malId": 11021,
-        "aniId": 11021,
-        "createdAt": "2021-01-15T23:02:51.000Z",
-        "updatedAt": "2021-05-20T15:21:58.000Z",
         "deletedAt": null
       }
     },

@@ -3,6 +3,20 @@
     "Tokyo Revengers",
     "東京リベンジャーズ"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/tokyo-revengers"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G3KHEVMN1/Tokyo-Revengers"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81442520"
+    }
+  ],
   "id": 120120,
   "malId": 42249,
   "type": "anime",
@@ -12,7 +26,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:46:06.000Z",
-  "updatedAt": "2021-05-20T14:46:06.000Z",
+  "updatedAt": "2021-06-17T17:41:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {
@@ -139,42 +153,6 @@
         "aniId": 120120,
         "createdAt": "2021-06-09T17:04:45.000Z",
         "updatedAt": "2021-06-09T17:34:14.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "tokyo%20revengers": {
-        "identifier": "tokyo%20revengers",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Tokyo Revengers",
-        "url": "https://www.crunchyroll.com/tokyo-revengers?media_id=811109",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/731c46f858c922d6b101b67bf7e96a391618048678_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 42249,
-        "aniId": 120120,
-        "createdAt": "2021-04-10T19:21:03.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
-        "deletedAt": null
-      },
-      "tokyo%20revengers%20(russian)": {
-        "identifier": "tokyo%20revengers%20(russian)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Tokyo Revengers (Russian)",
-        "url": "https://www.crunchyroll.com/tokyo-revengers?media_id=812371",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/4fe62c3d149da954854c5cdda06729281620445305_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 42249,
-        "aniId": 120120,
-        "createdAt": "2021-05-17T19:55:05.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

@@ -3,6 +3,12 @@
     "Saki",
     "咲-Saki-"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/saki"
+    }
+  ],
   "id": 5671,
   "malId": 5671,
   "type": "anime",
@@ -12,7 +18,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:37:47.000Z",
-  "updatedAt": "2021-05-20T14:37:47.000Z",
+  "updatedAt": "2021-06-17T11:20:59.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -88,25 +94,6 @@
         "aniId": 5671,
         "createdAt": "2020-10-12T16:27:14.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "saki": {
-        "identifier": "saki",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Saki",
-        "url": "https://www.crunchyroll.com/saki?media_id=524846",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/597ff62aa8711cd9962f7a7be61ceff91238738607_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 5671,
-        "aniId": 5671,
-        "createdAt": "2020-11-17T00:45:43.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

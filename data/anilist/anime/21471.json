@@ -3,6 +3,20 @@
     "BBK/BRNK",
     "ブブキ・ブランキ"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/bbkbrnk"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/bbkbrnk"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRVNE09QY/BBKBRNK"
+    }
+  ],
   "id": 21471,
   "malId": 32023,
   "type": "anime",
@@ -12,7 +26,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:42:59.000Z",
-  "updatedAt": "2021-05-20T14:42:59.000Z",
+  "updatedAt": "2021-06-17T14:47:39.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -107,25 +121,6 @@
         "aniId": 21471,
         "createdAt": "2020-10-15T12:40:34.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "bbk%2fbrnk": {
-        "identifier": "bbk%2fbrnk",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "BBK/BRNK",
-        "url": "https://www.crunchyroll.com/bbkbrnk?media_id=692367",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/1f0797c5a822520af052a746ac030a1e1452210736_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 32023,
-        "aniId": 21471,
-        "createdAt": "2020-11-10T14:15:38.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

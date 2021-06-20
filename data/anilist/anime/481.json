@@ -6,6 +6,20 @@
     "Yu-Gi-Oh!: Duel Monsters",
     "Yugioh: Duel Monsters"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/yu-gi-oh"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/yu-gi-oh"
+    },
+    {
+      "site": "Netflix",
+      "url": "http://www.netflix.com/title/70177034"
+    }
+  ],
   "id": 481,
   "malId": 481,
   "type": "anime",
@@ -15,7 +29,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:33:44.000Z",
-  "updatedAt": "2021-05-20T14:33:44.000Z",
+  "updatedAt": "2021-06-17T08:12:45.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -177,25 +191,6 @@
         "malId": 481,
         "aniId": 481,
         "createdAt": "2020-11-19T23:51:15.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "yu-gi-oh!%20season%201": {
-        "identifier": "yu-gi-oh!%20season%201",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Yu-Gi-Oh! Season 1",
-        "url": "https://www.crunchyroll.com/yu-gi-oh?media_id=663151",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/a884362087345527480def1cb9bc18951413239755_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 481,
-        "aniId": 481,
-        "createdAt": "2021-01-01T12:31:06.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }

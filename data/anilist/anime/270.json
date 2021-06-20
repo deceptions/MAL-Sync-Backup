@@ -3,6 +3,20 @@
     "Hellsing",
     "Hellsing [ヘルシング]"
   ],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "http://www.funimation.com/shows/hellsing/"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/hellsing"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/hellsing"
+    }
+  ],
   "id": 270,
   "malId": 270,
   "type": "anime",
@@ -12,7 +26,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:33:36.000Z",
-  "updatedAt": "2021-05-20T14:33:36.000Z",
+  "updatedAt": "2021-06-17T08:05:55.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -177,42 +191,6 @@
         "aniId": 270,
         "createdAt": "2020-12-17T06:26:03.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "hellsing%20(german%20dub)": {
-        "identifier": "hellsing%20(german%20dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Hellsing (German Dub)",
-        "url": "https://www.crunchyroll.com/hellsing?media_id=810411",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/8414f75069fa434d36c546bf5a786abe1493099013_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 270,
-        "aniId": 270,
-        "createdAt": "2021-04-01T19:01:02.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
-        "deletedAt": null
-      },
-      "hellsing%20(german%20europe)": {
-        "identifier": "hellsing%20(german%20europe)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Hellsing (German Europe)",
-        "url": "https://www.crunchyroll.com/hellsing?media_id=810385",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/8414f75069fa434d36c546bf5a786abe1493099013_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 270,
-        "aniId": 270,
-        "createdAt": "2021-05-15T02:55:43.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

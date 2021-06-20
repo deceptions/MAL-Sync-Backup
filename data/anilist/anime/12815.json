@@ -5,6 +5,12 @@
     "Polar Bear Cafe",
     "Shirokuma Café"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/polar-bear-cafe"
+    }
+  ],
   "id": 12815,
   "malId": 12815,
   "type": "anime",
@@ -14,7 +20,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:13.000Z",
-  "updatedAt": "2021-05-20T14:40:13.000Z",
+  "updatedAt": "2021-06-17T13:08:28.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -89,25 +95,6 @@
         "malId": 12815,
         "aniId": 12815,
         "createdAt": "2020-12-17T18:55:03.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "polar%20bear%20cafe": {
-        "identifier": "polar%20bear%20cafe",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Polar Bear Cafe",
-        "url": "https://www.crunchyroll.com/polar-bear-cafe?media_id=595187",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/ae6baca891168d026842fa0d5fecbcb91333523692_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 12815,
-        "aniId": 12815,
-        "createdAt": "2020-12-31T19:07:42.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }

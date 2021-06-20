@@ -3,6 +3,12 @@
     "ONIHEI",
     "鬼平"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/onihei"
+    }
+  ],
   "id": 97590,
   "malId": 33983,
   "type": "anime",
@@ -12,7 +18,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:13.000Z",
-  "updatedAt": "2021-05-20T14:43:13.000Z",
+  "updatedAt": "2021-06-17T15:08:06.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -88,25 +94,6 @@
         "aniId": 97590,
         "createdAt": "2020-10-15T12:04:38.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "onihei": {
-        "identifier": "onihei",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "ONIHEI",
-        "url": "https://www.crunchyroll.com/onihei?media_id=802665",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/c8028a3c95495cbf4017b4d3eaf112171611119964_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 33983,
-        "aniId": 97590,
-        "createdAt": "2021-01-21T00:03:25.000Z",
-        "updatedAt": "2021-05-20T15:21:58.000Z",
         "deletedAt": null
       }
     },

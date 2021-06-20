@@ -3,6 +3,28 @@
     "Golden Time",
     "ゴールデンタイム"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/golden-time"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/golden-time"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/golden-time"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/golden-time"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GY49G7K8R/Golden-Time"
+    }
+  ],
   "id": 17895,
   "malId": 17895,
   "type": "anime",
@@ -12,7 +34,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:32.000Z",
-  "updatedAt": "2021-05-20T14:40:32.000Z",
+  "updatedAt": "2021-06-17T13:43:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -140,25 +162,6 @@
         "malId": 17895,
         "aniId": 17895,
         "createdAt": "2020-10-15T12:04:28.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "golden%20time": {
-        "identifier": "golden%20time",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Golden Time",
-        "url": "https://www.crunchyroll.com/golden-time?media_id=645011",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/ef3a39233d50579b26db52ec77328f871381960038_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 2,
-        "malId": 17895,
-        "aniId": 17895,
-        "createdAt": "2020-10-20T09:07:06.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

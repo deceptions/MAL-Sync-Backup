@@ -3,6 +3,16 @@
     "Today's Menu for the Emiya Family",
     "衛宮さんちの今日のごはん"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/todays-menu-for-the-emiya-family"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/todays-menu-for-the-emiya-family/"
+    }
+  ],
   "id": 100855,
   "malId": 37033,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "ona",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:32.000Z",
-  "updatedAt": "2021-05-20T14:44:32.000Z",
+  "updatedAt": "2021-06-17T15:47:22.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -107,25 +117,6 @@
         "aniId": 100855,
         "createdAt": "2020-10-15T11:05:04.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "today's%20menu%20for%20the%20emiya%20family": {
-        "identifier": "today's%20menu%20for%20the%20emiya%20family",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Today's Menu for the Emiya Family",
-        "url": "https://www.crunchyroll.com/todays-menu-for-the-emiya-family?media_id=761795",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/418e0a0b966ce3a3110f7c4cec1836781517481213_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 37033,
-        "aniId": 100855,
-        "createdAt": "2020-11-04T12:28:25.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

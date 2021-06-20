@@ -10,6 +10,12 @@
     "Contos de Terramar",
     "Les Contes de Terremer"
   ],
+  "externalLinks": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/70142821"
+    }
+  ],
   "id": 1829,
   "malId": 1829,
   "type": "anime",
@@ -19,7 +25,7 @@
   "category": "movie",
   "hentai": false,
   "createdAt": "2021-05-20T14:36:02.000Z",
-  "updatedAt": "2021-05-20T14:36:02.000Z",
+  "updatedAt": "2021-06-17T09:31:42.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -127,6 +133,25 @@
         "aniId": 1829,
         "createdAt": "2020-10-15T11:55:16.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "530": {
+        "identifier": "530",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ged Senki",
+        "url": "https://pahe.win/a/530",
+        "image": "https://i.animepahe.com/posters/9cdb401982db29a12263d0df8537d2a9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1829,
+        "aniId": 1829,
+        "createdAt": "2021-06-16T02:27:42.000Z",
+        "updatedAt": "2021-06-16T02:57:33.000Z",
         "deletedAt": null
       }
     }

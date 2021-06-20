@@ -3,6 +3,24 @@
     "Hinomaru Sumo",
     "火ノ丸相撲"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/hinomaru-sumo"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G60X7D34R/Hinomaru-Sumo"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/hinomaru-sumo/#videos"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/hinomaru-sumo"
+    }
+  ],
   "id": 100990,
   "malId": 37007,
   "type": "anime",
@@ -12,7 +30,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:32.000Z",
-  "updatedAt": "2021-05-20T14:44:32.000Z",
+  "updatedAt": "2021-06-17T15:48:42.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -141,25 +159,6 @@
         "aniId": 100990,
         "createdAt": "2020-10-15T12:27:23.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "hinomaru%20sumo": {
-        "identifier": "hinomaru%20sumo",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Hinomaru Sumo",
-        "url": "https://www.crunchyroll.com/hinomaru-sumo?media_id=777724",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/4d6d91410a7b6cc674ab6b12ba23af261538741669_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 37007,
-        "aniId": 100990,
-        "createdAt": "2020-11-04T17:58:47.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

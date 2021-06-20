@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:30.000Z",
-  "updatedAt": "2021-04-29T06:51:01.000Z",
+  "updatedAt": "2021-06-15T17:27:33.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,6 +78,28 @@
         "aniId": 87442,
         "createdAt": "2021-02-22T18:34:13.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bx978606": {
+        "authors": [
+          "Shinohara Kenta"
+        ],
+        "identifier": "manga-bx978606",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kanata No Astra",
+        "url": "https://readmanganato.com/manga-bx978606",
+        "image": "https://avt.mkklcdnv6temp.com/12/k/16-1583493920.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98578,
+        "aniId": 87442,
+        "createdAt": "2021-06-15T17:27:33.000Z",
+        "updatedAt": "2021-06-15T17:57:33.000Z",
         "deletedAt": null
       }
     }

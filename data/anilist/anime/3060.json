@@ -5,6 +5,16 @@
     "Darosu",
     "Battle for Moon Station Dallos"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/dallos"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRWE24VNR/Dallos"
+    }
+  ],
   "id": 3060,
   "malId": 3060,
   "type": "anime",
@@ -14,7 +24,7 @@
   "category": "ova",
   "hentai": false,
   "createdAt": "2021-05-20T14:36:34.000Z",
-  "updatedAt": "2021-05-20T14:36:34.000Z",
+  "updatedAt": "2021-06-17T10:21:20.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -33,25 +43,6 @@
         "aniId": 3060,
         "createdAt": "2020-10-12T15:53:49.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "dallos": {
-        "identifier": "dallos",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Dallos",
-        "url": "https://www.crunchyroll.com/dallos?media_id=679845",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/8305db8be4678e8c4daffe5b4df570d51430171306_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 3060,
-        "aniId": 3060,
-        "createdAt": "2021-01-25T00:42:18.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

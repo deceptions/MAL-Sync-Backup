@@ -3,6 +3,24 @@
     "Tokyo Ghoul:re",
     "東京喰種-トーキョーグール-:re"
   ],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/tokyo-ghoul/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/tokyo-ghoul"
+    },
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/series/tokyo-ghoul-29a2841c-3556-49e5-89b1-84cbe2682fc9"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80023687"
+    }
+  ],
   "id": 100240,
   "malId": 36511,
   "type": "anime",
@@ -12,7 +30,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:28.000Z",
-  "updatedAt": "2021-05-20T14:44:28.000Z",
+  "updatedAt": "2021-06-17T15:40:59.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -177,25 +195,6 @@
         "aniId": 100240,
         "createdAt": "2021-01-04T15:56:46.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "tokyo%20ghoul%3a%20re%20(german%20dub)": {
-        "identifier": "tokyo%20ghoul%3a%20re%20(german%20dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Tokyo Ghoul: re (German Dub)",
-        "url": "https://www.crunchyroll.com/tokyo-ghoul?media_id=800607",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/e358e022cab6100233297154ce88c81e1522764200_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 36511,
-        "aniId": 100240,
-        "createdAt": "2021-02-13T16:05:54.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

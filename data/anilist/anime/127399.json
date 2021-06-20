@@ -5,6 +5,12 @@
     "Shuumatsu no Walkure",
     "معركة راغناروك"
   ],
+  "externalLinks": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81281579"
+    }
+  ],
   "id": 127399,
   "malId": 44942,
   "type": "anime",
@@ -14,7 +20,82 @@
   "category": "ona",
   "hentai": false,
   "createdAt": "2021-05-26T01:38:17.000Z",
-  "updatedAt": "2021-06-03T00:00:51.000Z",
+  "updatedAt": "2021-06-17T12:57:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "9pwx": {
+        "identifier": "9pwx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shuumatsu no Walküre",
+        "url": "https://www12.9anime.to/watch/record-of-ragnarok.9pwx",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/fe/fe2473f37d125f35ff6322f7093df555.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44942,
+        "aniId": 127399,
+        "createdAt": "2021-06-17T09:28:24.000Z",
+        "updatedAt": "2021-06-17T09:57:45.000Z",
+        "deletedAt": null
+      },
+      "2o2wl": {
+        "identifier": "2o2wl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shuumatsu no Walküre (Dub)",
+        "url": "https://www12.9anime.to/watch/record-of-ragnarok-dub.2o2wl",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/4e/4e82aa105fe2c31a22d309607efd974e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44942,
+        "aniId": 127399,
+        "createdAt": "2021-06-17T12:35:32.000Z",
+        "updatedAt": "2021-06-17T12:57:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shuumatsu-no-walkure": {
+        "identifier": "shuumatsu-no-walkure",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shuumatsu no Walküre",
+        "url": "https://gogoanime.ai/category/shuumatsu-no-walkure",
+        "image": "https://gogocdn.net/cover/shuumatsu-no-walkure.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44942,
+        "aniId": 127399,
+        "createdAt": "2021-06-17T16:28:49.000Z",
+        "updatedAt": "2021-06-17T16:57:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4414": {
+        "identifier": "4414",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shuumatsu no Walküre",
+        "url": "https://pahe.win/a/4414",
+        "image": "https://i.animepahe.com/posters/c89aaa5378b51508149fcc168ea89860cdb55711e7a34fa3fe933ea35e9068a0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44942,
+        "aniId": 127399,
+        "createdAt": "2021-06-18T12:24:13.000Z",
+        "updatedAt": "2021-06-18T12:50:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

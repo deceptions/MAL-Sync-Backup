@@ -3,6 +3,24 @@
     "HINAMATSURI",
     "ヒナまつり"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/hinamatsuri"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/hinamatsuri/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/hinamatsuri"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GR79PWJ16/HINAMATSURI"
+    }
+  ],
   "id": 100077,
   "malId": 36296,
   "type": "anime",
@@ -12,7 +30,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:26.000Z",
-  "updatedAt": "2021-05-20T14:44:26.000Z",
+  "updatedAt": "2021-06-17T10:27:50.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -141,25 +159,6 @@
         "aniId": 100077,
         "createdAt": "2020-10-15T11:10:26.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "hinamatsuri": {
-        "identifier": "hinamatsuri",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "HINAMATSURI",
-        "url": "https://www.crunchyroll.com/hinamatsuri?media_id=768969",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/7abfb9dfe607223f6f2fdf006d27590f1523080564_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 36296,
-        "aniId": 100077,
-        "createdAt": "2020-10-22T11:09:19.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }
     },

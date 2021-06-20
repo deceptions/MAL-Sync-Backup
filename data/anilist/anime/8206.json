@@ -4,6 +4,12 @@
     "ひめチェン! おとぎちっくアイドル リルぷりっ",
     "Himechan! Otogitic Idol Lil'Pri"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/lilpri"
+    }
+  ],
   "id": 8206,
   "malId": 8206,
   "type": "anime",
@@ -13,7 +19,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:38:55.000Z",
-  "updatedAt": "2021-05-20T14:38:55.000Z",
+  "updatedAt": "2021-06-17T12:05:29.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -51,25 +57,6 @@
         "aniId": 8206,
         "createdAt": "2020-10-12T17:52:27.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "lilpri": {
-        "identifier": "lilpri",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Lilpri",
-        "url": "https://www.crunchyroll.com/lilpri?media_id=542474",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/53edad795c3ec0714a093fcc26dc137d1274501308_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 8206,
-        "aniId": 8206,
-        "createdAt": "2021-04-18T16:14:59.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

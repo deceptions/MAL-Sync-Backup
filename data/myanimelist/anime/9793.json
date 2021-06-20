@@ -11,7 +11,7 @@
   "category": "OVA",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:03.000Z",
-  "updatedAt": "2021-04-15T16:14:39.000Z",
+  "updatedAt": "2021-06-19T12:10:33.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -49,6 +49,25 @@
         "aniId": 9793,
         "createdAt": "2020-10-15T11:36:44.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "senjou-no-valkyria-3-ova": {
+        "identifier": "senjou-no-valkyria-3-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Senjou no Valkyria 3 OVA",
+        "url": "https://gogoanime.ai/category/senjou-no-valkyria-3-ova",
+        "image": "https://gogocdn.net/cover/senjou-no-valkyria-3-ova.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 9793,
+        "aniId": 5507,
+        "createdAt": "2021-06-05T16:21:44.000Z",
+        "updatedAt": "2021-06-19T12:10:37.000Z",
         "deletedAt": null
       }
     }

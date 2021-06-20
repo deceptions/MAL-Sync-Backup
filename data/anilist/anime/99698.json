@@ -4,6 +4,20 @@
     "王様ゲーム The Animation",
     "国王游戏"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/kings-game"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/kings-game/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/kings-game"
+    }
+  ],
   "id": 99698,
   "malId": 36027,
   "type": "anime",
@@ -13,7 +27,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:25.000Z",
-  "updatedAt": "2021-05-20T14:44:25.000Z",
+  "updatedAt": "2021-06-17T15:36:07.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -159,25 +173,6 @@
         "aniId": 99698,
         "createdAt": "2020-10-15T11:16:46.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "king's%20game": {
-        "identifier": "king's%20game",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "King's Game",
-        "url": "https://www.crunchyroll.com/kings-game?media_id=749293",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/581dc1c7b36c58794491ab8fcd1d3eeb1507163342_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 36027,
-        "aniId": 99698,
-        "createdAt": "2020-11-18T06:51:06.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

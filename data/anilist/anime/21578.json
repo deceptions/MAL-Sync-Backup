@@ -4,6 +4,12 @@
     "DAYS",
     "デイズ"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/days"
+    }
+  ],
   "id": 21578,
   "malId": 32494,
   "type": "anime",
@@ -13,7 +19,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:02.000Z",
-  "updatedAt": "2021-05-20T14:43:02.000Z",
+  "updatedAt": "2021-06-17T08:27:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -127,25 +133,6 @@
         "aniId": 21578,
         "createdAt": "2020-12-31T21:43:54.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "days": {
-        "identifier": "days",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "DAYS",
-        "url": "https://www.crunchyroll.com/days?media_id=722039",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/be2a3296237b5767547cd6f84689f29d1479334757_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 2,
-        "malId": 32494,
-        "aniId": 21578,
-        "createdAt": "2021-01-11T04:21:41.000Z",
-        "updatedAt": "2021-05-20T15:21:58.000Z",
         "deletedAt": null
       }
     }

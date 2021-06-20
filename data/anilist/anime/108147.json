@@ -3,6 +3,16 @@
     "GRANBELM",
     "グランベルム"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/granbelm"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRZJ0M446/GRANBELM"
+    }
+  ],
   "id": 108147,
   "malId": 39417,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:56.000Z",
-  "updatedAt": "2021-05-20T14:44:56.000Z",
+  "updatedAt": "2021-06-17T16:53:00.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -125,25 +135,6 @@
         "malId": 39417,
         "aniId": 108147,
         "createdAt": "2020-12-22T10:56:15.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "granbelm": {
-        "identifier": "granbelm",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "GRANBELM",
-        "url": "https://www.crunchyroll.com/granbelm?media_id=787006",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/52ce8bd8fc2b6c9692c965b6540b444f1562342654_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 39417,
-        "aniId": 108147,
-        "createdAt": "2020-12-31T23:21:41.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }

@@ -14,9 +14,9 @@
   "active": true,
   "actor": 1,
   "malId": 128909,
-  "aniId": null,
+  "aniId": 135842,
   "createdAt": "2020-12-27T10:11:48.000Z",
-  "updatedAt": "2021-06-08T11:11:18.000Z",
+  "updatedAt": "2021-06-19T07:50:50.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -38,6 +38,28 @@
     "updatedAt": "2021-06-08T09:29:17.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "異世界の名探偵",
+      "Detective in Different World",
+      "Isetan"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Souichirou",
+      "Katazoto Kamome"
+    ],
+    "id": 135842,
+    "malId": 128909,
+    "type": "manga",
+    "title": "Isekai no Meitantei",
+    "url": "https://anilist.co/manga/135842",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135842-6avciaypto55.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-18T19:50:50.000Z",
+    "updatedAt": "2021-06-19T07:20:50.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/128909/Isekai_no_Meitantei"
 }

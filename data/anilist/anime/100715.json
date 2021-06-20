@@ -4,6 +4,12 @@
     "魔法少女 俺",
     "Magical Girl Boy"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/magical-girl-ore"
+    }
+  ],
   "id": 100715,
   "malId": 36902,
   "type": "anime",
@@ -13,7 +19,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:32.000Z",
-  "updatedAt": "2021-05-20T14:44:32.000Z",
+  "updatedAt": "2021-06-17T14:27:50.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -108,25 +114,6 @@
         "aniId": 100715,
         "createdAt": "2020-10-15T11:11:27.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "magical%20girl%20ore": {
-        "identifier": "magical%20girl%20ore",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Magical Girl Ore",
-        "url": "https://www.crunchyroll.com/magical-girl-ore?media_id=767433",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/2d5f635985c21ff7597f4edeaa3b40b61522663083_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 36902,
-        "aniId": 100715,
-        "createdAt": "2020-10-29T03:10:55.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }
     },

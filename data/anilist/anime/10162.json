@@ -5,6 +5,20 @@
     "白兔糖",
     "Un drôle de père"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/usagi-drop"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G63VK38ZY/Usagi-Drop"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/bunny-drop/"
+    }
+  ],
   "id": 10162,
   "malId": 10162,
   "type": "anime",
@@ -14,7 +28,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:39:13.000Z",
-  "updatedAt": "2021-06-01T22:01:16.000Z",
+  "updatedAt": "2021-06-17T12:36:03.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -145,25 +159,6 @@
         "aniId": 10162,
         "createdAt": "2021-01-11T10:52:05.000Z",
         "updatedAt": "2021-06-05T08:19:29.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "usagi%20drop": {
-        "identifier": "usagi%20drop",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Usagi Drop",
-        "url": "https://www.crunchyroll.com/usagi-drop?media_id=580582",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/af65b6d3596ee22c2b38e2534edec8291309976462_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 10162,
-        "aniId": 10162,
-        "createdAt": "2021-01-23T18:51:18.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

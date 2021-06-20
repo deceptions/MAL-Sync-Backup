@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:24.000Z",
-  "updatedAt": "2021-03-01T11:15:24.000Z",
+  "updatedAt": "2021-06-18T12:23:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -56,6 +56,28 @@
         "aniId": 124291,
         "createdAt": "2020-10-12T16:26:07.000Z",
         "updatedAt": "2021-05-20T15:25:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jv986756": {
+        "authors": [
+          "Shigure Tokita"
+        ],
+        "identifier": "manga-jv986756",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Rental Girlfriend Tsukita-San",
+        "url": "https://manganato.com/manga-jv986756",
+        "image": "https://avt.mkklcdnv6temp.com/19/q/22-1600772019.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130186,
+        "aniId": 124291,
+        "createdAt": "2021-06-18T12:23:42.000Z",
+        "updatedAt": "2021-06-18T12:50:50.000Z",
         "deletedAt": null
       }
     }

@@ -2,6 +2,12 @@
   "altTitle": [
     "JKめし！"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/jk-meshi"
+    }
+  ],
   "id": 21343,
   "malId": 31578,
   "type": "anime",
@@ -11,7 +17,7 @@
   "category": "tv_short",
   "hentai": false,
   "createdAt": "2021-05-20T14:42:56.000Z",
-  "updatedAt": "2021-05-20T14:42:56.000Z",
+  "updatedAt": "2021-06-17T14:42:03.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,25 +54,6 @@
         "malId": 31578,
         "aniId": 21343,
         "createdAt": "2020-10-24T15:58:58.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "jk-meshi!": {
-        "identifier": "jk-meshi!",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "JK-MESHI!",
-        "url": "https://www.crunchyroll.com/jk-meshi?media_id=686885",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/c5fcc2278a8a191ea31e71af26fdef341444045266_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 31578,
-        "aniId": 21343,
-        "createdAt": "2020-10-30T04:40:38.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

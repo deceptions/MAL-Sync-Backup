@@ -3,6 +3,24 @@
     "A Centaur's Life",
     "セントールの悩み"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/a-centaurs-life"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/a-centaurs-life/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/a-centaurs-life"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GYNQZV50Y/A-Centaurs-Life"
+    }
+  ],
   "id": 98519,
   "malId": 34525,
   "type": "anime",
@@ -12,7 +30,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:17.000Z",
-  "updatedAt": "2021-05-20T14:43:17.000Z",
+  "updatedAt": "2021-06-17T15:24:00.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -141,25 +159,6 @@
         "aniId": 98519,
         "createdAt": "2020-10-15T13:04:31.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "a%20centaur's%20life": {
-        "identifier": "a%20centaur's%20life",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "A Centaur's Life",
-        "url": "https://www.crunchyroll.com/a-centaurs-life?media_id=742023",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/8a3cba9bc8d2d01f6ec009a1b4fbbaff1499595694_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 34525,
-        "aniId": 98519,
-        "createdAt": "2020-11-21T18:53:08.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

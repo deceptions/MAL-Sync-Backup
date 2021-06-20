@@ -5,6 +5,24 @@
     "카우보이 비밥",
     "קאובוי ביבופ"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/cowboy-bebop"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/cowboy-bebop"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/cowboy-bebop"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/cowboy-bebop/"
+    }
+  ],
   "id": 1,
   "malId": 1,
   "type": "anime",
@@ -14,7 +32,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:33:25.000Z",
-  "updatedAt": "2021-05-20T14:33:25.000Z",
+  "updatedAt": "2021-06-17T07:58:05.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -124,25 +142,6 @@
         "aniId": 1,
         "createdAt": "2020-10-12T16:26:43.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "cowboy%20bebop": {
-        "identifier": "cowboy%20bebop",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Cowboy Bebop",
-        "url": "https://www.crunchyroll.com/cowboy-bebop?media_id=719475",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/f007ab7cb899b5ca83b8e8d07a1067d51473125168_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 1,
-        "aniId": 1,
-        "createdAt": "2020-11-06T06:28:50.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

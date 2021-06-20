@@ -2,6 +2,12 @@
   "altTitle": [
     "けものフレンズ"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/kemono-friends"
+    }
+  ],
   "id": 87496,
   "malId": 33089,
   "type": "anime",
@@ -11,7 +17,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:06.000Z",
-  "updatedAt": "2021-05-20T14:43:06.000Z",
+  "updatedAt": "2021-06-17T15:07:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -140,25 +146,6 @@
         "aniId": 87496,
         "createdAt": "2020-10-15T13:11:22.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "kemono%20friends": {
-        "identifier": "kemono%20friends",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Kemono Friends",
-        "url": "https://www.crunchyroll.com/kemono-friends?media_id=728259",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/9c15f083d95a08b08949c8a5825392b01484061708_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 33089,
-        "aniId": 87496,
-        "createdAt": "2020-11-15T06:45:37.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

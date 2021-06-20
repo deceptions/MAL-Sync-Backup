@@ -2,6 +2,12 @@
   "altTitle": [
     "ヘボット!"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/heybot"
+    }
+  ],
   "id": 21848,
   "malId": 33434,
   "type": "anime",
@@ -11,7 +17,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:09.000Z",
-  "updatedAt": "2021-05-20T14:43:09.000Z",
+  "updatedAt": "2021-06-17T09:27:52.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -49,25 +55,6 @@
         "aniId": 21848,
         "createdAt": "2020-10-12T16:00:42.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "heybot!": {
-        "identifier": "heybot!",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "HEYBOT!",
-        "url": "https://www.crunchyroll.com/heybot?media_id=727151",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/519d62f663257089c9668711dd6933671485640329_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 33434,
-        "aniId": 21848,
-        "createdAt": "2021-02-08T01:20:04.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

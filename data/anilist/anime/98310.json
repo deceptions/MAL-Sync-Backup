@@ -4,6 +4,12 @@
     "アイドルマスター SideM",
     "The Idolmaster Side M"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/the-idolmster-side-m"
+    }
+  ],
   "id": 98310,
   "malId": 34915,
   "type": "anime",
@@ -13,7 +19,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:23.000Z",
-  "updatedAt": "2021-05-20T14:43:23.000Z",
+  "updatedAt": "2021-06-17T15:20:26.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -108,25 +114,6 @@
         "aniId": 98310,
         "createdAt": "2020-10-15T12:08:48.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "the%20idolm%40ster%20side%20m": {
-        "identifier": "the%20idolm%40ster%20side%20m",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "THE IDOLM@STER Side M",
-        "url": "https://www.crunchyroll.com/the-idolmster-side-m?media_id=754031",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/1d0c39f9fff5cae986d2453050f797e11511599743_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 34915,
-        "aniId": 98310,
-        "createdAt": "2020-11-23T02:56:40.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

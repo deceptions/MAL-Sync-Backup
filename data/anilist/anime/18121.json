@@ -4,6 +4,12 @@
     "てーきゅう2",
     "Te-kyuu 2"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/teekyu"
+    }
+  ],
   "id": 18121,
   "malId": 18121,
   "type": "anime",
@@ -13,7 +19,7 @@
   "category": "tv_short",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:32.000Z",
-  "updatedAt": "2021-05-20T14:40:32.000Z",
+  "updatedAt": "2021-06-17T13:44:36.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -108,25 +114,6 @@
         "aniId": 18121,
         "createdAt": "2020-12-25T15:26:35.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "teekyu%202": {
-        "identifier": "teekyu%202",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Teekyu 2",
-        "url": "https://www.crunchyroll.com/teekyu?media_id=627815",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/961c41fb24c09c764017b3c4aefe64971373175235_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 18121,
-        "aniId": 18121,
-        "createdAt": "2021-04-29T17:19:32.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

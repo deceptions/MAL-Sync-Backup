@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-05T05:27:27.000Z",
-  "updatedAt": "2021-02-28T23:44:24.000Z",
+  "updatedAt": "2021-06-16T07:57:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 126292,
         "createdAt": "2021-03-01T12:44:26.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kk987519": {
+        "authors": [
+          "Shio Usui"
+        ],
+        "identifier": "manga-kk987519",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Onna Tomodachi To Kekkon Shitemita",
+        "url": "https://manganato.com/manga-kk987519",
+        "image": "https://avt.mkklcdnv6temp.com/1/b/22-1609732205.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131607,
+        "aniId": 126292,
+        "createdAt": "2021-06-16T07:57:44.000Z",
+        "updatedAt": "2021-06-16T08:27:33.000Z",
         "deletedAt": null
       }
     }

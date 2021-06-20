@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:01.000Z",
-  "updatedAt": "2021-05-05T15:03:02.000Z",
+  "updatedAt": "2021-06-17T03:58:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -100,6 +100,29 @@
         "aniId": 108817,
         "createdAt": "2021-05-05T15:03:05.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-eu981455": {
+        "authors": [
+          "Ryouji Hirano",
+          "Koyoharu Gotouge"
+        ],
+        "identifier": "manga-eu981455",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kimetsu No Yaiba: Tomioka Giyuu Gaiden",
+        "url": "https://readmanganato.com/manga-eu981455",
+        "image": "https://avt.mkklcdnv6temp.com/15/k/18-1583497684.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119974,
+        "aniId": 108817,
+        "createdAt": "2021-06-17T03:57:45.000Z",
+        "updatedAt": "2021-06-17T04:27:35.000Z",
         "deletedAt": null
       }
     }

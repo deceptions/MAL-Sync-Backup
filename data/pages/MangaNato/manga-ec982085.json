@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 111590,
   "createdAt": "2021-05-31T09:06:48.000Z",
-  "updatedAt": "2021-05-31T09:06:48.000Z",
+  "updatedAt": "2021-06-17T14:59:42.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "이차원 용병",
+      "Two-Dimensional Mercenary",
+      "Dimensional Mercenary"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Jae-Hwan Kim"
+    ],
+    "id": 111590,
+    "malId": null,
+    "type": "manga",
+    "title": "Ichawon Yongbyeong",
+    "url": "https://anilist.co/manga/111590",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111590-eZtxpwtbuOq2.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-26T15:08:18.000Z",
+    "updatedAt": "2021-06-17T12:32:15.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

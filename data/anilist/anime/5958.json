@@ -3,6 +3,20 @@
     "Heaven's Lost Property",
     "そらのおとしもの"
   ],
+  "externalLinks": [
+    {
+      "site": "Netflix",
+      "url": "http://movies.netflix.com/WiMovie/Heaven_s_Lost_Property/70266999"
+    },
+    {
+      "site": "Funimation",
+      "url": "http://www.funimation.com/shows/heavens-lost-property/"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/heavens-lost-property"
+    }
+  ],
   "id": 5958,
   "malId": 5958,
   "type": "anime",
@@ -12,7 +26,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:37:53.000Z",
-  "updatedAt": "2021-05-20T14:37:53.000Z",
+  "updatedAt": "2021-06-17T11:28:21.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -160,25 +174,6 @@
         "aniId": 5958,
         "createdAt": "2021-01-12T14:22:55.000Z",
         "updatedAt": "2021-05-20T15:21:58.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "angeloid%20-%20sora%20no%20otoshimono%20(german%20dub)": {
-        "identifier": "angeloid%20-%20sora%20no%20otoshimono%20(german%20dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Angeloid - Sora no Otoshimono (German Dub)",
-        "url": "https://www.crunchyroll.com/sora-no-otoshimono?media_id=810582",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/ff8cd741d24b36c0f80c2e73ecc0c7fa1519606126_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 2,
-        "malId": 5958,
-        "aniId": 5958,
-        "createdAt": "2021-05-02T22:33:42.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

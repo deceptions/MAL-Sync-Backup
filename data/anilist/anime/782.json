@@ -2,6 +2,20 @@
   "altTitle": [
     "ガサラキ"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/gasaraki"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/gasaraki"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRNQ5322R/Gasaraki"
+    }
+  ],
   "id": 782,
   "malId": 782,
   "type": "anime",
@@ -11,7 +25,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:34:44.000Z",
-  "updatedAt": "2021-05-20T14:34:44.000Z",
+  "updatedAt": "2021-06-17T08:37:12.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -66,25 +80,6 @@
         "aniId": 782,
         "createdAt": "2020-10-12T16:00:29.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "gasaraki%20(sub)": {
-        "identifier": "gasaraki%20(sub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Gasaraki (Sub)",
-        "url": "https://www.crunchyroll.com/gasaraki?media_id=730175",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/fa01872439bc94b94608262ac851f8961487005699_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 782,
-        "aniId": 782,
-        "createdAt": "2020-10-27T23:41:27.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }
     }

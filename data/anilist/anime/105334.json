@@ -7,6 +7,28 @@
     "Fruba",
     "フルバ"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/fruits-basket"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/fruits-basket/"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G6ZJMGEXY/Fruits-Basket"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/fruits-basket"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80987063"
+    }
+  ],
   "id": 105334,
   "malId": 38680,
   "type": "anime",
@@ -16,7 +38,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:52.000Z",
-  "updatedAt": "2021-05-20T14:44:52.000Z",
+  "updatedAt": "2021-06-17T16:38:38.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -145,25 +167,6 @@
         "aniId": 105334,
         "createdAt": "2020-10-15T12:47:13.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "fruits%20basket": {
-        "identifier": "fruits%20basket",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Fruits Basket",
-        "url": "https://www.crunchyroll.com/fruits-basket?media_id=782868",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/5d8a475bc0715a33901f24254078d0e41554461602_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 38680,
-        "aniId": 105334,
-        "createdAt": "2020-11-19T23:51:05.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

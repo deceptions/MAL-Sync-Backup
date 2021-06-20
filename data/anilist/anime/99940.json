@@ -3,6 +3,20 @@
     "Junji Ito Collection",
     "伊藤潤二「コレクション」"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/junji-ito-collection"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/junji-ito-collection/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/junji-ito-collection"
+    }
+  ],
   "id": 99940,
   "malId": 36124,
   "type": "anime",
@@ -12,7 +26,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:25.000Z",
-  "updatedAt": "2021-05-20T14:44:25.000Z",
+  "updatedAt": "2021-06-17T15:27:52.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -158,42 +172,6 @@
         "aniId": 99940,
         "createdAt": "2020-10-15T11:34:32.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "junji%20ito%20collection": {
-        "identifier": "junji%20ito%20collection",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Junji Ito Collection",
-        "url": "https://www.crunchyroll.com/junji-ito-collection?media_id=776930",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/7160f043e47b2a722e16c1096dcf0cd71536191474_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 36124,
-        "aniId": 99940,
-        "createdAt": "2020-11-10T05:43:27.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      },
-      "junji%20ito%20collection%20(russian)": {
-        "identifier": "junji%20ito%20collection%20(russian)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Junji Ito Collection (Russian)",
-        "url": "https://www.crunchyroll.com/junji-ito-collection?media_id=774397",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/4bc1f13b0bcb391d6664a41c95ed6f201518177738_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 36124,
-        "aniId": 99940,
-        "createdAt": "2021-01-17T00:02:45.000Z",
-        "updatedAt": "2021-05-20T15:21:58.000Z",
         "deletedAt": null
       }
     },

@@ -4,6 +4,20 @@
     "新機動戦記ガンダムW",
     "New Mobile Report Gundam Wing"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/mobile-suit-gundam-wing"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G63VP3PMY/Mobile-Suit-Gundam-Wing"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/mobile-suit-gundam-wing"
+    }
+  ],
   "id": 90,
   "malId": 90,
   "type": "anime",
@@ -13,7 +27,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:33:26.000Z",
-  "updatedAt": "2021-05-20T14:33:26.000Z",
+  "updatedAt": "2021-06-17T08:00:16.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -142,25 +156,6 @@
         "aniId": 90,
         "createdAt": "2020-10-15T12:31:23.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "mobile%20suit%20gundam%20wing": {
-        "identifier": "mobile%20suit%20gundam%20wing",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Mobile Suit Gundam Wing",
-        "url": "https://www.crunchyroll.com/mobile-suit-gundam-wing?media_id=732803",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/2b94f419bde2139067b54557c749d8701490008914_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 90,
-        "aniId": 90,
-        "createdAt": "2020-11-06T02:28:26.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     }

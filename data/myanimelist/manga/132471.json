@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-03-28T09:49:26.000Z",
-  "updatedAt": "2021-05-13T13:55:20.000Z",
+  "updatedAt": "2021-06-18T07:51:30.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaSee": {
@@ -37,6 +37,29 @@
         "aniId": 127816,
         "createdAt": "2021-03-28T09:49:27.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ix986332": {
+        "authors": [
+          "Kawachino Bontenmaru",
+          "荒井空真"
+        ],
+        "identifier": "manga-ix986332",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Class-Goto Shuudan Teni Shimashita Ga, Ichiban Tsuyoi Ore Wa Saijaku No Shounin Ni Gisouchuu",
+        "url": "https://manganato.com/manga-ix986332",
+        "image": "https://avt.mkklcdnv6temp.com/2/l/22-1598123360.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132471,
+        "aniId": 127816,
+        "createdAt": "2021-06-18T07:51:10.000Z",
+        "updatedAt": "2021-06-18T08:20:50.000Z",
         "deletedAt": null
       }
     }

@@ -4,6 +4,20 @@
     "まおゆう魔王勇者",
     "Maoyu Maou Yusha"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/maoyu-archenemy-and-hero"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/maoyu"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80220729"
+    }
+  ],
   "id": 14833,
   "malId": 14833,
   "type": "anime",
@@ -13,7 +27,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:18.000Z",
-  "updatedAt": "2021-05-20T14:40:18.000Z",
+  "updatedAt": "2021-06-17T13:21:56.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -127,25 +141,6 @@
         "aniId": 14833,
         "createdAt": "2020-12-17T02:56:06.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "maoyu": {
-        "identifier": "maoyu",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Maoyu",
-        "url": "https://www.crunchyroll.com/maoyu?media_id=617175",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/0bfb35da302c071c0f2b634084d9ef0b1356732679_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 14833,
-        "aniId": 14833,
-        "createdAt": "2021-02-06T23:50:31.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

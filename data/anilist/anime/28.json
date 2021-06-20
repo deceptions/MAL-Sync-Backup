@@ -3,6 +3,16 @@
     "焼きたて!! ジャぱん",
     "Freshly Baked!! Ja-pan!"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/yakitate-japan"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/yakitate-japan/"
+    }
+  ],
   "id": 28,
   "malId": 28,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:33:25.000Z",
-  "updatedAt": "2021-05-20T14:33:25.000Z",
+  "updatedAt": "2021-06-17T07:58:35.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -88,25 +98,6 @@
         "aniId": 28,
         "createdAt": "2020-10-12T16:27:25.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "yakitate!!%20japan": {
-        "identifier": "yakitate!!%20japan",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Yakitate!! Japan",
-        "url": "https://www.crunchyroll.com/yakitate-japan?media_id=688041",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/8eb8d0157b1e4b4839ce1ef0a6f64d281446854086_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 28,
-        "aniId": 28,
-        "createdAt": "2020-10-30T21:42:37.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }
     },

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:59.000Z",
-  "updatedAt": "2021-04-03T16:08:16.000Z",
+  "updatedAt": "2021-06-18T17:21:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 99232,
         "createdAt": "2020-10-12T16:10:44.000Z",
         "updatedAt": "2021-06-05T03:00:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xi975217": {
+        "authors": [
+          "Kiriyu Kiyoi"
+        ],
+        "identifier": "manga-xi975217",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shishi Mo Kobamazu",
+        "url": "https://manganato.com/manga-xi975217",
+        "image": "https://avt.mkklcdnv6temp.com/6/n/15-1583491702.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105484,
+        "aniId": 99232,
+        "createdAt": "2021-06-18T17:21:21.000Z",
+        "updatedAt": "2021-06-18T17:50:50.000Z",
         "deletedAt": null
       }
     }

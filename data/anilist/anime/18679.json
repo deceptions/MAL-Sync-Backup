@@ -4,6 +4,32 @@
     "キルラキル",
     "Kiru Ra Kiru"
   ],
+  "externalLinks": [
+    {
+      "site": "Netflix",
+      "url": "http://www.netflix.com/WiMovie/70305217"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/kill-la-kill"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/kill-la-kill"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GY8VM43GY/Kill-la-Kill"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/kill-la-kill"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/kill-la-kill/"
+    }
+  ],
   "id": 18679,
   "malId": 18679,
   "type": "anime",
@@ -13,7 +39,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:33.000Z",
-  "updatedAt": "2021-05-20T14:40:33.000Z",
+  "updatedAt": "2021-06-17T13:47:56.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -123,42 +149,6 @@
         "aniId": 18679,
         "createdAt": "2020-10-12T16:27:00.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "kill%20la%20kill": {
-        "identifier": "kill%20la%20kill",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Kill la Kill",
-        "url": "https://www.crunchyroll.com/kill-la-kill?media_id=644309",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/1f56639b227c2bc31de1257ccb4e07c81383158512_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 18679,
-        "aniId": 18679,
-        "createdAt": "2020-10-20T23:09:00.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      },
-      "kill%20la%20kill%20(english%20dub)": {
-        "identifier": "kill%20la%20kill%20(english%20dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Kill la Kill (English Dub)",
-        "url": "https://www.crunchyroll.com/kill-la-kill?media_id=764445",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/da305d8ebcb1b0e039058e1d07eee02e1519197675_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 18679,
-        "aniId": 18679,
-        "createdAt": "2020-11-02T07:12:08.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

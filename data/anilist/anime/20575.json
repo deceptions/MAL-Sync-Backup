@@ -4,6 +4,24 @@
     "ハナヤマタ",
     "Hana Yamata"
   ],
+  "externalLinks": [
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/hanayamata"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/hanayamata"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/hanayamata"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GYMEDJG36/Hanayamata"
+    }
+  ],
   "id": 20575,
   "malId": 21681,
   "type": "anime",
@@ -13,7 +31,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:28.000Z",
-  "updatedAt": "2021-05-20T14:41:28.000Z",
+  "updatedAt": "2021-06-17T13:27:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -104,25 +122,6 @@
         "aniId": 20575,
         "createdAt": "2020-10-12T16:00:40.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "hanayamata": {
-        "identifier": "hanayamata",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "HaNaYaMaTa",
-        "url": "https://www.crunchyroll.com/hanayamata?media_id=657003",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/f14fd3a6c198308c8de53f3e438e40221404732529_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 21681,
-        "aniId": 20575,
-        "createdAt": "2020-10-22T20:39:05.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }
     },

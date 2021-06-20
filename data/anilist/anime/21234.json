@@ -6,6 +6,32 @@
     "Desaparecido",
     "Miasto beze mnie"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/erased"
+    },
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/series/erased-40cf1997-7291-4764-a80c-c264294fa691"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GYGG92K7Y"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/erased"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/erased/"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80114225"
+    }
+  ],
   "id": 21234,
   "malId": 31043,
   "type": "anime",
@@ -15,7 +41,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:56.000Z",
-  "updatedAt": "2021-05-20T14:41:56.000Z",
+  "updatedAt": "2021-06-17T14:36:41.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -161,25 +187,6 @@
         "aniId": 21234,
         "createdAt": "2020-10-15T11:37:55.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "erased": {
-        "identifier": "erased",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "ERASED",
-        "url": "https://www.crunchyroll.com/erased?media_id=691793",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/f5c1ffdbc113193c3082fcfa8cdd9d251452164264_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 31043,
-        "aniId": 21234,
-        "createdAt": "2020-11-03T04:23:56.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 128416,
-  "aniId": null,
+  "aniId": 114071,
   "createdAt": "2020-10-12T16:20:35.000Z",
-  "updatedAt": "2021-06-08T00:53:04.000Z",
+  "updatedAt": "2021-06-17T03:27:35.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,25 @@
     "updatedAt": "2021-06-08T00:51:57.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "仁義なき婿取り"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Airi Sano"
+    ],
+    "id": 114071,
+    "malId": 128416,
+    "type": "manga",
+    "title": "Jingi naki Mukotori",
+    "url": "https://anilist.co/manga/114071",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114071-rJP299YIaSWQ.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-17T02:57:35.000Z",
+    "updatedAt": "2021-06-18T07:35:40.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/128416/Jingi_Naki_Mukotori"
 }

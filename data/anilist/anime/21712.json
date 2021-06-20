@@ -3,6 +3,16 @@
     "ISLAND",
     "アイランド"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/island"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GYW4E1GE6/ISLAND"
+    }
+  ],
   "id": 21712,
   "malId": 33012,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:04.000Z",
-  "updatedAt": "2021-05-20T14:43:04.000Z",
+  "updatedAt": "2021-06-17T14:59:58.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -141,42 +151,6 @@
         "aniId": 21712,
         "createdAt": "2020-10-15T12:01:54.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "island": {
-        "identifier": "island",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "ISLAND",
-        "url": "https://www.crunchyroll.com/island?media_id=774618",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/bb039f9a2fc9521caa3d8a9a8a33e25e1530437701_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 33012,
-        "aniId": 21712,
-        "createdAt": "2020-11-23T08:56:13.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      },
-      "island%20(russian)": {
-        "identifier": "island%20(russian)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "ISLAND (Russian)",
-        "url": "https://www.crunchyroll.com/island?media_id=776358",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/bb039f9a2fc9521caa3d8a9a8a33e25e1530437701_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 33012,
-        "aniId": 21712,
-        "createdAt": "2021-05-15T14:26:05.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     },

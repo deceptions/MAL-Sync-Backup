@@ -6,6 +6,20 @@
     "Soranowoto",
     "Sora no Woto"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/soranowoto"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRDQKZN4Y"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/sound-of-the-sky/"
+    }
+  ],
   "id": 6802,
   "malId": 6802,
   "type": "anime",
@@ -15,7 +29,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:38:45.000Z",
-  "updatedAt": "2021-05-20T14:38:45.000Z",
+  "updatedAt": "2021-06-17T11:44:05.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -108,25 +122,6 @@
         "aniId": 6802,
         "createdAt": "2020-10-12T16:27:18.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "sound%20of%20the%20sky": {
-        "identifier": "sound%20of%20the%20sky",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Sound of the Sky",
-        "url": "https://www.crunchyroll.com/sound-of-the-sky?media_id=538576",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/c51ddc2a03492a07b4630921f1fa3c9b1265055177_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 6802,
-        "aniId": 6802,
-        "createdAt": "2020-10-27T05:42:32.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }
     },

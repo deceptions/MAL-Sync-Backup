@@ -4,6 +4,20 @@
     "このはな綺譚",
     "此花绮谭"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/konohana-kitan"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/konohana-kitan/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/konohana-kitan"
+    }
+  ],
   "id": 98506,
   "malId": 35241,
   "type": "anime",
@@ -13,7 +27,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:25.000Z",
-  "updatedAt": "2021-05-20T14:43:25.000Z",
+  "updatedAt": "2021-06-17T15:23:20.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -160,25 +174,6 @@
         "malId": 35241,
         "aniId": 98506,
         "createdAt": "2020-12-19T13:56:45.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "konohana%20kitan": {
-        "identifier": "konohana%20kitan",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "KONOHANA KITAN",
-        "url": "https://www.crunchyroll.com/konohana-kitan?media_id=749195",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/55bd51c3e49a8ae6848535237b8216021507105931_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 35241,
-        "aniId": 98506,
-        "createdAt": "2021-01-01T12:29:54.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }

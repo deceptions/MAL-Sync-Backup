@@ -3,6 +3,20 @@
     "DOUBLE DECKER! DOUG & KIRILL",
     "DOUBLE DECKER! ダグ＆キリル"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/double-decker-doug-kirill"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/double-decker-doug-kirill/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/double-decker-doug-kirill"
+    }
+  ],
   "id": 101318,
   "malId": 37496,
   "type": "anime",
@@ -12,7 +26,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:36.000Z",
-  "updatedAt": "2021-05-20T14:44:36.000Z",
+  "updatedAt": "2021-06-17T15:53:30.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -139,25 +153,6 @@
         "aniId": 101318,
         "createdAt": "2020-10-15T12:31:44.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "double%20decker!%20doug%20%26%20kirill": {
-        "identifier": "double%20decker!%20doug%20%26%20kirill",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "DOUBLE DECKER! DOUG & KIRILL",
-        "url": "https://www.crunchyroll.com/double-decker-doug-kirill?media_id=777047",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/f28f72c462c8cbdf84bf30a9438c46fb1535897813_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 37496,
-        "aniId": 101318,
-        "createdAt": "2020-11-15T06:45:34.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

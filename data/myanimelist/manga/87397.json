@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:54.000Z",
-  "updatedAt": "2021-02-04T03:44:39.000Z",
+  "updatedAt": "2021-06-19T03:51:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -105,6 +105,29 @@
         "aniId": 86036,
         "createdAt": "2021-02-04T03:44:41.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nj952666": {
+        "authors": [
+          "Machida Kazuya",
+          "Osada Yu-Ko"
+        ],
+        "identifier": "manga-nj952666",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shiori Experience - Jimi Na Watashi To Hen Na Oji-San",
+        "url": "https://manganato.com/manga-nj952666",
+        "image": "https://avt.mkklcdnv6temp.com/47/l/1-1583465574.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87397,
+        "aniId": 86036,
+        "createdAt": "2021-06-19T03:51:00.000Z",
+        "updatedAt": "2021-06-19T04:20:50.000Z",
         "deletedAt": null
       }
     }

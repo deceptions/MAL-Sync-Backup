@@ -1,7 +1,10 @@
 {
   "altTitle": [
     "Mr Mini Mart",
-    "Konbini-kun., Convenience Store-kun, Shounen Scrub, Youthful Love",
+    "Konbini-kun.",
+    "Convenience Store-kun",
+    "Shounen Scrub",
+    "Youthful Love",
     "コンビニくん。"
   ],
   "authors": [
@@ -15,7 +18,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:25.000Z",
-  "updatedAt": "2021-05-04T09:33:49.000Z",
+  "updatedAt": "2021-06-18T12:58:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +40,28 @@
         "aniId": 56324,
         "createdAt": "2020-10-12T16:03:01.000Z",
         "updatedAt": "2021-06-02T11:10:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "konbini_kun": {
+        "authors": [
+          "Junko"
+        ],
+        "identifier": "konbini_kun",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Konbini-kun",
+        "url": "https://fanfox.net/manga/konbini_kun/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9357/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26324,
+        "aniId": 56324,
+        "createdAt": "2021-06-18T12:58:08.000Z",
+        "updatedAt": "2021-06-18T13:20:51.000Z",
         "deletedAt": null
       }
     }

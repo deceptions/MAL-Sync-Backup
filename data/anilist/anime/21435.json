@@ -3,6 +3,12 @@
     "This Boy is a Professional Wizard",
     "この男子、魔法がお仕事です。"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/wizard-boy"
+    }
+  ],
   "id": 21435,
   "malId": 31815,
   "type": "anime",
@@ -12,7 +18,7 @@
   "category": "tv_short",
   "hentai": false,
   "createdAt": "2021-05-20T14:42:57.000Z",
-  "updatedAt": "2021-05-20T14:42:57.000Z",
+  "updatedAt": "2021-06-17T14:46:07.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -69,25 +75,6 @@
         "aniId": 21435,
         "createdAt": "2020-11-01T19:15:26.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "this%20boy%20is%20a%20professional%20wizard": {
-        "identifier": "this%20boy%20is%20a%20professional%20wizard",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "This Boy is a Professional Wizard",
-        "url": "https://www.crunchyroll.com/this-boy-is-a-professional-wizard?media_id=693111",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/b03ede389ce21a10cc715505551cc02b1454365080_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 31815,
-        "aniId": 21435,
-        "createdAt": "2020-12-06T19:10:27.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

@@ -2,6 +2,12 @@
   "altTitle": [
     "ヒーローバンク"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/herobank"
+    }
+  ],
   "id": 20655,
   "malId": 22099,
   "type": "anime",
@@ -11,7 +17,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:30.000Z",
-  "updatedAt": "2021-05-20T14:41:30.000Z",
+  "updatedAt": "2021-06-17T14:08:40.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -49,25 +55,6 @@
         "aniId": 20655,
         "createdAt": "2020-10-12T16:00:42.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "herobank": {
-        "identifier": "herobank",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "HEROBANK",
-        "url": "https://www.crunchyroll.com/herobank?media_id=652353",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/e6b67f12146f30f2d51a3400c0fda4bb1396839165_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 22099,
-        "aniId": 20655,
-        "createdAt": "2021-02-16T13:36:52.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

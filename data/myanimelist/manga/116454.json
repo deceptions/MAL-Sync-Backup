@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:46.000Z",
-  "updatedAt": "2021-02-19T09:33:50.000Z",
+  "updatedAt": "2021-06-16T06:27:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -99,6 +99,28 @@
         "aniId": 104713,
         "createdAt": "2021-02-19T09:33:50.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cf980088": {
+        "authors": [
+          "Umitsuki Reona"
+        ],
+        "identifier": "manga-cf980088",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ponkotsu Ga Tensei Shitara Zongai Saikyou",
+        "url": "https://manganato.com/manga-cf980088",
+        "image": "https://avt.mkklcdnv6temp.com/15/q/17-1583495826.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116454,
+        "aniId": 104713,
+        "createdAt": "2021-06-16T06:27:45.000Z",
+        "updatedAt": "2021-06-16T06:57:33.000Z",
         "deletedAt": null
       }
     }

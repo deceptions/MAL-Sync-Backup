@@ -3,6 +3,16 @@
     "UzaMaid!",
     "うちのメイドがウザすぎる！"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/uzamaid"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81145679"
+    }
+  ],
   "id": 101506,
   "malId": 37722,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:38.000Z",
-  "updatedAt": "2021-05-20T14:44:38.000Z",
+  "updatedAt": "2021-06-17T15:55:11.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -125,25 +135,6 @@
         "malId": 37722,
         "aniId": 101506,
         "createdAt": "2020-11-01T20:17:20.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "uzamaid!": {
-        "identifier": "uzamaid!",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "UzaMaid!",
-        "url": "https://www.crunchyroll.com/uzamaid?media_id=777691",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/813799b88118a6f69b5c0fe39956f7b11539949706_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 37722,
-        "aniId": 101506,
-        "createdAt": "2020-11-23T11:56:37.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }

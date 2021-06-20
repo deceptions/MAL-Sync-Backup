@@ -3,6 +3,20 @@
     "elDLIVE",
     "エルドライブ 【ēlDLIVE】"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/eldlive"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/eldlive/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/eldlive"
+    }
+  ],
   "id": 21677,
   "malId": 32878,
   "type": "anime",
@@ -12,7 +26,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:03.000Z",
-  "updatedAt": "2021-05-20T14:43:03.000Z",
+  "updatedAt": "2021-06-17T14:57:57.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -141,25 +155,6 @@
         "aniId": 21677,
         "createdAt": "2021-01-02T19:49:31.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "%c4%93ldlive": {
-        "identifier": "%c4%93ldlive",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "ēlDLIVE",
-        "url": "https://www.crunchyroll.com/eldlive?media_id=728683",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/0e144aa3badb7c93321150e0d796df8c1483889469_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 32878,
-        "aniId": 21677,
-        "createdAt": "2021-02-02T06:02:18.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

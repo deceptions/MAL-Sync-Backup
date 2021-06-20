@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:10.000Z",
-  "updatedAt": "2021-03-15T01:10:02.000Z",
+  "updatedAt": "2021-06-16T04:29:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 53486,
         "createdAt": "2021-03-15T01:10:11.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qt967702": {
+        "authors": [
+          "Morio Masahiro"
+        ],
+        "identifier": "manga-qt967702",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tennen Kakutou Shoujo Chihiro-Chan",
+        "url": "https://manganato.com/manga-qt967702",
+        "image": "https://avt.mkklcdnv6temp.com/34/w/11-1583485266.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23486,
+        "aniId": 53486,
+        "createdAt": "2021-06-16T04:29:16.000Z",
+        "updatedAt": "2021-06-16T04:57:33.000Z",
         "deletedAt": null
       }
     }

@@ -4,6 +4,12 @@
     "つうかあ",
     "Tsuuka"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/twocar"
+    }
+  ],
   "id": 99672,
   "malId": 36009,
   "type": "anime",
@@ -13,7 +19,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:25.000Z",
-  "updatedAt": "2021-05-20T14:44:25.000Z",
+  "updatedAt": "2021-06-17T15:35:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -124,25 +130,6 @@
         "malId": 36009,
         "aniId": 99672,
         "createdAt": "2020-10-15T11:24:35.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "twocar": {
-        "identifier": "twocar",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "TWOCAR",
-        "url": "https://www.crunchyroll.com/twocar?media_id=749807",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/6b920352897c5f1e685d10ec516a9c251507364963_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 36009,
-        "aniId": 99672,
-        "createdAt": "2020-10-27T03:12:42.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

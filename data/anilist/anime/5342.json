@@ -2,6 +2,20 @@
   "altTitle": [
     "アスラクライン"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/asura-cryin"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G6NVGJ12Y/Asura-Cryin"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/asura-cryin"
+    }
+  ],
   "id": 5342,
   "malId": 5342,
   "type": "anime",
@@ -11,7 +25,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:37:46.000Z",
-  "updatedAt": "2021-05-20T14:37:46.000Z",
+  "updatedAt": "2021-06-17T11:17:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -71,25 +85,6 @@
         "deletedAt": null
       }
     },
-    "Crunchyroll": {
-      "asura%20cryin'": {
-        "identifier": "asura%20cryin'",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Asura Cryin'",
-        "url": "https://www.crunchyroll.com/asura-cryin?media_id=534218",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/0a1e04fecad481d48fcbb073f67efe8d1253291473_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 5342,
-        "aniId": 5342,
-        "createdAt": "2021-01-21T02:34:27.000Z",
-        "updatedAt": "2021-05-20T15:21:58.000Z",
-        "deletedAt": null
-      }
-    },
     "Gogoanime": {
       "asura-cryin": {
         "identifier": "asura-cryin",
@@ -106,6 +101,23 @@
         "aniId": 5342,
         "createdAt": "2021-05-31T09:34:13.000Z",
         "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      },
+      "asura-cryin-2": {
+        "identifier": "asura-cryin-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Asura Cryin 2",
+        "url": "https://gogoanime.ai/category/asura-cryin-2",
+        "image": "https://gogocdn.net/images/upload/50897.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5342,
+        "aniId": 5342,
+        "createdAt": "2021-06-18T12:50:50.000Z",
+        "updatedAt": "2021-06-18T13:20:50.000Z",
         "deletedAt": null
       }
     }

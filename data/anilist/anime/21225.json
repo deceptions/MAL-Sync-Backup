@@ -2,6 +2,12 @@
   "altTitle": [
     "影鰐 -KAGEWANI-"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/kagewani"
+    }
+  ],
   "id": 21225,
   "malId": 30524,
   "type": "anime",
@@ -11,7 +17,7 @@
   "category": "tv_short",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:55.000Z",
-  "updatedAt": "2021-05-20T14:41:55.000Z",
+  "updatedAt": "2021-06-17T14:36:13.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -49,25 +55,6 @@
         "aniId": 21225,
         "createdAt": "2020-10-12T16:00:54.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "kagewani": {
-        "identifier": "kagewani",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "KAGEWANI",
-        "url": "https://www.crunchyroll.com/kagewani?media_id=686237",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/658accea096c1cfbf860e5b8f8fc4dd11443819146_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 30524,
-        "aniId": 21225,
-        "createdAt": "2020-10-20T09:06:53.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }
     },

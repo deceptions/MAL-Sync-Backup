@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:27.000Z",
-  "updatedAt": "2020-12-25T04:56:47.000Z",
+  "updatedAt": "2021-06-19T08:51:12.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaNelo": {
@@ -58,6 +58,28 @@
         "aniId": 97006,
         "createdAt": "2020-12-25T04:56:47.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "grimore_x_reverse_tensei_kishin_roumantan": {
+        "authors": [
+          "AIFUJI Yuu"
+        ],
+        "identifier": "grimore_x_reverse_tensei_kishin_roumantan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Grimore x Reverse - Tensei Kishin Roumantan",
+        "url": "https://fanfox.net/manga/grimore_x_reverse_tensei_kishin_roumantan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21053/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 97330,
+        "aniId": 97006,
+        "createdAt": "2021-06-19T08:51:03.000Z",
+        "updatedAt": "2021-06-19T12:20:50.000Z",
         "deletedAt": null
       }
     }

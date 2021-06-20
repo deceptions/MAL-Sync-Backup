@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:33.000Z",
-  "updatedAt": "2021-01-19T13:33:56.000Z",
+  "updatedAt": "2021-06-19T08:21:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -77,6 +77,28 @@
         "aniId": 92844,
         "createdAt": "2020-12-25T22:56:31.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-aj954044": {
+        "authors": [
+          "Inamitsu Shinji"
+        ],
+        "identifier": "manga-aj954044",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Seishokuki",
+        "url": "https://manganato.com/manga-aj954044",
+        "image": "https://avt.mkklcdnv6temp.com/44/r/2-1583467410.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 79403,
+        "aniId": 92844,
+        "createdAt": "2021-06-19T08:20:49.000Z",
+        "updatedAt": "2021-06-19T08:50:50.000Z",
         "deletedAt": null
       }
     }

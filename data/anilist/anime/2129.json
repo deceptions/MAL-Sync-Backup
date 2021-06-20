@@ -5,6 +5,16 @@
     "トゥルーティアーズ",
     "トゥルーティアーズ The Animation"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/true-tears"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/true-tears"
+    }
+  ],
   "id": 2129,
   "malId": 2129,
   "type": "anime",
@@ -14,7 +24,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:36:12.000Z",
-  "updatedAt": "2021-05-20T14:36:12.000Z",
+  "updatedAt": "2021-06-17T09:44:21.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -127,25 +137,6 @@
         "malId": 2129,
         "aniId": 2129,
         "createdAt": "2021-01-29T04:19:32.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "true%20tears": {
-        "identifier": "true%20tears",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "True Tears",
-        "url": "https://www.crunchyroll.com/true-tears?media_id=738429",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/00021806d542a3f65ccc705d94f747561496987383_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 2129,
-        "aniId": 2129,
-        "createdAt": "2021-02-17T21:21:40.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }

@@ -9,6 +9,32 @@
     "我的英雄学院 2",
     "我的英雄学院第二季"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/my-hero-academia"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/my-hero-academia"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/my-hero-academia/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/my-hero-academia"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80135674"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G6NQ5DWZ6/My-Hero-Academia"
+    }
+  ],
   "id": 21856,
   "malId": 33486,
   "type": "anime",
@@ -18,7 +44,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:09.000Z",
-  "updatedAt": "2021-05-20T14:43:09.000Z",
+  "updatedAt": "2021-06-17T09:27:52.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -164,25 +190,6 @@
         "aniId": 21856,
         "createdAt": "2020-10-15T11:19:35.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "my%20hero%20academia%20season%202": {
-        "identifier": "my%20hero%20academia%20season%202",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "My Hero Academia Season 2",
-        "url": "https://www.crunchyroll.com/my-hero-academia?media_id=733223",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/f8fa7f42f08a736cdfd53579e5fe025b1492830154_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 2,
-        "malId": 33486,
-        "aniId": 21856,
-        "createdAt": "2020-10-28T15:43:59.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }
     },

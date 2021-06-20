@@ -3,6 +3,24 @@
     "SCHOOL-LIVE!",
     "がっこうぐらし!"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/school-live"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/school-live"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/gakko-gurashi"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G609GQ4P6/SCHOOL-LIVE"
+    }
+  ],
   "id": 20754,
   "malId": 24765,
   "type": "anime",
@@ -12,7 +30,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:37.000Z",
-  "updatedAt": "2021-05-20T14:41:37.000Z",
+  "updatedAt": "2021-06-17T14:13:39.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -158,25 +176,6 @@
         "aniId": 20754,
         "createdAt": "2020-10-15T12:26:51.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "school-live!": {
-        "identifier": "school-live!",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "SCHOOL-LIVE!",
-        "url": "https://www.crunchyroll.com/school-live?media_id=682351",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/03fc5e9b0555213c0fc27292fe1e86871437510663_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 24765,
-        "aniId": 20754,
-        "createdAt": "2020-11-03T12:24:43.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

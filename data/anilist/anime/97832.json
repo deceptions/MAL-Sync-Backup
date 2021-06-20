@@ -3,6 +3,28 @@
     "Citrus",
     "citrus"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/citrus"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/citrus/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/citrus"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GY5V74MPY/citrus"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80231942"
+    }
+  ],
   "id": 97832,
   "malId": 34382,
   "type": "anime",
@@ -12,7 +34,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:16.000Z",
-  "updatedAt": "2021-05-20T14:43:16.000Z",
+  "updatedAt": "2021-06-17T15:12:01.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -158,25 +180,6 @@
         "aniId": 97832,
         "createdAt": "2020-11-21T21:23:54.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "citrus": {
-        "identifier": "citrus",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "citrus",
-        "url": "https://www.crunchyroll.com/citrus?media_id=758989",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/c75c7cd918cb768b47fc4ad7e2daa93d1516406613_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 34382,
-        "aniId": 97832,
-        "createdAt": "2020-10-22T19:39:12.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }
     },

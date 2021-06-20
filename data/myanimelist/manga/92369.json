@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:09.000Z",
-  "updatedAt": "2021-03-20T18:05:44.000Z",
+  "updatedAt": "2021-06-18T12:56:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -77,6 +77,28 @@
         "aniId": 108828,
         "createdAt": "2021-03-20T18:05:46.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dt981276": {
+        "authors": [
+          "Watanabe Jun"
+        ],
+        "identifier": "manga-dt981276",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kudan No Gotoshi",
+        "url": "https://manganato.com/manga-dt981276",
+        "image": "https://avt.mkklcdnv6temp.com/8/x/18-1583497426.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92369,
+        "aniId": 108828,
+        "createdAt": "2021-06-18T12:56:00.000Z",
+        "updatedAt": "2021-06-18T13:20:51.000Z",
         "deletedAt": null
       }
     }

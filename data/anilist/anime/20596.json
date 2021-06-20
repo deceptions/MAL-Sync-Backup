@@ -4,6 +4,24 @@
     "アオハライド",
     "Aoharaido"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/blue-spring-ride"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/blue-spring-ride"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/blue-spring-ride"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRWEZ9XER/Blue-Spring-Ride"
+    }
+  ],
   "id": 20596,
   "malId": 21995,
   "type": "anime",
@@ -13,7 +31,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:30.000Z",
-  "updatedAt": "2021-05-20T14:41:30.000Z",
+  "updatedAt": "2021-06-17T14:05:27.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -127,25 +145,6 @@
         "aniId": 20596,
         "createdAt": "2020-11-01T19:18:56.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "blue%20spring%20ride": {
-        "identifier": "blue%20spring%20ride",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Blue Spring Ride",
-        "url": "https://www.crunchyroll.com/blue-spring-ride?media_id=657031",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/f389caa668e453ee6ceb8dab23a959cd1404732964_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 21995,
-        "aniId": 20596,
-        "createdAt": "2020-11-15T18:43:51.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     }

@@ -3,6 +3,24 @@
     "Waiting in the Summer",
     "あの夏で待ってる"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/ano-natsu-de-matteru"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/waiting-in-the-summer"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/stream/waiting-in-the-summer"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G69PV983Y/Ano-Natsu-de-Matteru"
+    }
+  ],
   "id": 11433,
   "malId": 11433,
   "type": "anime",
@@ -12,7 +30,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:07.000Z",
-  "updatedAt": "2021-05-20T14:40:07.000Z",
+  "updatedAt": "2021-06-17T12:53:20.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -194,25 +212,6 @@
         "aniId": 11433,
         "createdAt": "2020-11-01T20:14:20.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "ano%20natsu%20de%20matteru": {
-        "identifier": "ano%20natsu%20de%20matteru",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Ano Natsu de Matteru",
-        "url": "https://www.crunchyroll.com/ano-natsu-de-matteru?media_id=590014",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/d8ee8db607408fc6fabd02ce6fd18c341326253276_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 11433,
-        "aniId": 11433,
-        "createdAt": "2021-01-01T12:31:28.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     }

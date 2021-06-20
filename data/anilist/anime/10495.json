@@ -3,6 +3,24 @@
     "YuruYuri",
     "ゆるゆり"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/yuruyuri"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/yuruyuri"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/yuru-yuri"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GY19XDNQR/YuruYuri"
+    }
+  ],
   "id": 10495,
   "malId": 10495,
   "type": "anime",
@@ -12,7 +30,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:39:15.000Z",
-  "updatedAt": "2021-05-20T14:39:15.000Z",
+  "updatedAt": "2021-06-17T12:42:09.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -141,25 +159,6 @@
         "aniId": 10495,
         "createdAt": "2020-10-15T11:18:36.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "yuruyuri%20season%201": {
-        "identifier": "yuruyuri%20season%201",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "YuruYuri Season 1",
-        "url": "https://www.crunchyroll.com/yuruyuri?media_id=580684",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/ac9930b3b6d32ca3a2a1614da81742901309847306_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 2,
-        "malId": 10495,
-        "aniId": 10495,
-        "createdAt": "2020-10-26T17:41:24.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }
     },

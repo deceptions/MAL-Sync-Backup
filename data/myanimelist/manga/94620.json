@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:20.000Z",
-  "updatedAt": "2021-03-02T04:21:56.000Z",
+  "updatedAt": "2021-06-17T19:29:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 96447,
         "createdAt": "2021-03-02T04:21:58.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vm973069": {
+        "authors": [
+          "Hirasaka Yomi"
+        ],
+        "identifier": "manga-vm973069",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Imouto Sae Ireba Ii. @ Comic",
+        "url": "https://manganato.com/manga-vm973069",
+        "image": "https://avt.mkklcdnv6temp.com/26/w/14-1583490697.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94620,
+        "aniId": 96447,
+        "createdAt": "2021-06-17T19:29:28.000Z",
+        "updatedAt": "2021-06-17T19:50:51.000Z",
         "deletedAt": null
       }
     }

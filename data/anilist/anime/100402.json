@@ -3,6 +3,16 @@
     "Tsurune",
     "ツルネ ―風舞高校弓道部―"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/tsurune"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/tsurune"
+    }
+  ],
   "id": 100402,
   "malId": 36653,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:28.000Z",
-  "updatedAt": "2021-05-20T14:44:28.000Z",
+  "updatedAt": "2021-06-17T15:43:03.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -140,25 +150,6 @@
         "malId": 36653,
         "aniId": 100402,
         "createdAt": "2020-10-15T12:23:34.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "tsurune": {
-        "identifier": "tsurune",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Tsurune",
-        "url": "https://www.crunchyroll.com/tsurune?media_id=778234",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/1aeaacdb09a0a8b35bd9a96cbe34b95f1540112324_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 36653,
-        "aniId": 100402,
-        "createdAt": "2020-10-30T03:12:47.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

@@ -3,6 +3,16 @@
     "W’ｚ《ウィズ》",
     "wìð"
   ],
+  "externalLinks": [
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/wz"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/wz"
+    }
+  ],
   "id": 101337,
   "malId": 37509,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:36.000Z",
-  "updatedAt": "2021-05-20T14:44:36.000Z",
+  "updatedAt": "2021-06-17T15:53:31.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -88,25 +98,6 @@
         "aniId": 101337,
         "createdAt": "2020-10-12T16:27:24.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "w'z": {
-        "identifier": "w'z",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "W'z",
-        "url": "https://www.crunchyroll.com/wz?media_id=782095",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/6a2413ba73601e0758b916092b3d27a81549059973_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 37509,
-        "aniId": 101337,
-        "createdAt": "2020-12-31T11:10:53.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

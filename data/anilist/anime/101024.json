@@ -3,6 +3,24 @@
     "RADIANT",
     "ラディアン"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/radiant"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/radiant/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/radiant"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G6W4MEZ0R/RADIANT"
+    }
+  ],
   "id": 101024,
   "malId": 37202,
   "type": "anime",
@@ -12,7 +30,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:33.000Z",
-  "updatedAt": "2021-05-20T14:44:33.000Z",
+  "updatedAt": "2021-06-17T15:49:13.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -158,59 +176,6 @@
         "aniId": 101024,
         "createdAt": "2020-10-15T11:24:15.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "radiant": {
-        "identifier": "radiant",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "RADIANT",
-        "url": "https://www.crunchyroll.com/radiant?media_id=777751",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/e4abd8e9dbfc5c2a87ffe747cf284ab61538819891_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 37202,
-        "aniId": 101024,
-        "createdAt": "2020-10-24T03:59:11.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      },
-      "radiant%20(spanish%20dub)": {
-        "identifier": "radiant%20(spanish%20dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "RADIANT (Spanish Dub)",
-        "url": "https://www.crunchyroll.com/radiant?media_id=804075",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/e4abd8e9dbfc5c2a87ffe747cf284ab61538819891_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 37202,
-        "aniId": 101024,
-        "createdAt": "2021-01-31T17:02:04.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
-        "deletedAt": null
-      },
-      "radiant%20(portuguese%20dub)": {
-        "identifier": "radiant%20(portuguese%20dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "RADIANT (Portuguese Dub)",
-        "url": "https://www.crunchyroll.com/radiant?media_id=804058",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/38da3fa04eba49e3ab518dbc5f4f49881539421215_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 37202,
-        "aniId": 101024,
-        "createdAt": "2021-02-01T18:02:27.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     },

@@ -4,6 +4,24 @@
     "フェイト/ステイナイト",
     "Fate - Stay Night"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/fate-stay-night"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/fate-stay-night"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/fate--stay-night"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRXJ1XJ8Y/FateStay-Night"
+    }
+  ],
   "id": 356,
   "malId": 356,
   "type": "anime",
@@ -13,7 +31,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:33:39.000Z",
-  "updatedAt": "2021-05-20T14:33:39.000Z",
+  "updatedAt": "2021-06-17T08:08:45.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -141,25 +159,6 @@
         "malId": 356,
         "aniId": 356,
         "createdAt": "2020-10-15T13:13:01.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "fate%2fstay%20night": {
-        "identifier": "fate%2fstay%20night",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Fate/stay night",
-        "url": "https://www.crunchyroll.com/fatestay-night?media_id=664463",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9226667a0b227b8b01f16928ba9412601417240464_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 356,
-        "aniId": 356,
-        "createdAt": "2020-10-26T22:43:20.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

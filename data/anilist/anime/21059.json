@@ -3,6 +3,12 @@
     "Danchigai",
     "だんちがい"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/danchigai"
+    }
+  ],
   "id": 21059,
   "malId": 30127,
   "type": "anime",
@@ -12,7 +18,7 @@
   "category": "tv_short",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:52.000Z",
-  "updatedAt": "2021-05-20T14:41:52.000Z",
+  "updatedAt": "2021-06-17T08:27:45.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -107,25 +113,6 @@
         "aniId": 21059,
         "createdAt": "2020-10-15T13:03:13.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "danchigai": {
-        "identifier": "danchigai",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Danchigai",
-        "url": "https://www.crunchyroll.com/danchigai?media_id=682481",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/def996188c5cfdc04f07fd7e9ae7d0771441393471_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 30127,
-        "aniId": 21059,
-        "createdAt": "2020-11-08T10:17:25.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

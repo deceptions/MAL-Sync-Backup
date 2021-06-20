@@ -6,6 +6,32 @@
     "סטיינס;גייט",
     "命运石之门"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/steinsgate"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/steinsgate"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/78219/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/steinsgate"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80005874"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GYWE7W5GY/STEINSGATE"
+    }
+  ],
   "id": 9253,
   "malId": 9253,
   "type": "anime",
@@ -15,7 +41,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:39:03.000Z",
-  "updatedAt": "2021-05-20T14:39:03.000Z",
+  "updatedAt": "2021-06-17T12:20:35.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -160,25 +186,6 @@
         "malId": 9253,
         "aniId": 9253,
         "createdAt": "2020-10-15T12:56:01.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "steins%3bgate": {
-        "identifier": "steins%3bgate",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "STEINS;GATE",
-        "url": "https://www.crunchyroll.com/steinsgate?media_id=573382",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/5b45600ea630f84863be018ed4f441681301790416_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 9253,
-        "aniId": 9253,
-        "createdAt": "2020-10-24T00:58:47.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

@@ -3,6 +3,16 @@
     "School Days",
     "スクールデイズ"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/school-days"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G62P4MG76/School-Days"
+    }
+  ],
   "id": 2476,
   "malId": 2476,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:36:17.000Z",
-  "updatedAt": "2021-05-20T14:36:17.000Z",
+  "updatedAt": "2021-06-17T10:01:41.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -105,25 +115,6 @@
         "aniId": 2476,
         "createdAt": "2020-10-12T16:27:15.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "school%20days": {
-        "identifier": "school%20days",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "School Days",
-        "url": "https://www.crunchyroll.com/school-days?media_id=526032",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/6849cbf242f2a62a592e85de28201ed01240620369_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 2476,
-        "aniId": 2476,
-        "createdAt": "2020-11-18T06:50:57.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

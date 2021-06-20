@@ -14,9 +14,9 @@
   "active": true,
   "actor": 2,
   "malId": 125204,
-  "aniId": null,
+  "aniId": 112967,
   "createdAt": "2020-10-12T16:18:51.000Z",
-  "updatedAt": "2021-06-07T20:58:30.000Z",
+  "updatedAt": "2021-06-16T03:57:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,27 @@
     "updatedAt": "2021-06-07T20:55:44.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "小説の神様",
+      "Shosetsu no Kamisama"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sako Aizawa",
+      "Saho Tenamachi"
+    ],
+    "id": 112967,
+    "malId": 125204,
+    "type": "manga",
+    "title": "Shousetsu no Kami-sama",
+    "url": "https://anilist.co/manga/112967",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112967-aUZIldSZZyTV.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-16T03:27:35.000Z",
+    "updatedAt": "2021-06-18T07:25:00.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/125204/Shousetsu_no_Kamisama"
 }

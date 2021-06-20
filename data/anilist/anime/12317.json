@@ -3,6 +3,16 @@
     "Upotte!!",
     "うぽって!!"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/upotte"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/upotte"
+    }
+  ],
   "id": 12317,
   "malId": 12317,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "ona",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:10.000Z",
-  "updatedAt": "2021-05-20T14:40:10.000Z",
+  "updatedAt": "2021-06-17T13:04:08.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -121,25 +131,6 @@
         "malId": 12317,
         "aniId": 12317,
         "createdAt": "2021-02-07T14:50:06.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "upotte!!": {
-        "identifier": "upotte!!",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Upotte!!",
-        "url": "https://www.crunchyroll.com/upotte?media_id=594867",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/19398fd0d5a849ff7f31a917234d6afd1333805907_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 12317,
-        "aniId": 12317,
-        "createdAt": "2021-03-12T16:39:48.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }

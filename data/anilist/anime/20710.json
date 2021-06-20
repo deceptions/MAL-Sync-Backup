@@ -4,6 +4,12 @@
     "デンキ街の本屋さん",
     "Electric Town Bookstore Worker"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/denkigai"
+    }
+  ],
   "id": 20710,
   "malId": 24031,
   "type": "anime",
@@ -13,7 +19,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:35.000Z",
-  "updatedAt": "2021-05-20T14:41:35.000Z",
+  "updatedAt": "2021-06-17T14:11:33.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -70,25 +76,6 @@
         "aniId": 20710,
         "createdAt": "2020-10-12T16:26:45.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "denki-gai": {
-        "identifier": "denki-gai",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "DENKI-GAI",
-        "url": "https://www.crunchyroll.com/denki-gai?media_id=661387",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/52b02739508754b89b1a3a4906e135c31412187651_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 24031,
-        "aniId": 20710,
-        "createdAt": "2021-01-01T12:30:42.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     }

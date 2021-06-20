@@ -7,6 +7,12 @@
     "Poyopoyo Observation Diary",
     "Yorinuki Poyopoyo Kansatsu Nikki"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/poyopoyo"
+    }
+  ],
   "id": 12021,
   "malId": 12021,
   "type": "anime",
@@ -16,7 +22,7 @@
   "category": "tv_short",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:10.000Z",
-  "updatedAt": "2021-05-20T14:40:10.000Z",
+  "updatedAt": "2021-06-17T13:01:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -35,25 +41,6 @@
         "aniId": 12021,
         "createdAt": "2020-10-12T15:50:37.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "poyopoyo": {
-        "identifier": "poyopoyo",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Poyopoyo",
-        "url": "https://www.crunchyroll.com/poyopoyo?media_id=589388",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/3b28cc11c98542b81a7b36dc8ea9b63c1325793384_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 12021,
-        "aniId": 12021,
-        "createdAt": "2021-01-15T23:02:56.000Z",
-        "updatedAt": "2021-05-20T15:21:58.000Z",
         "deletedAt": null
       }
     }

@@ -4,6 +4,28 @@
     "オーバーロードⅡ",
     "Over Lord 2"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/overlord"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/overlord/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/overlord"
+    },
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/overlord"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G69PZ5PDY/Overlord"
+    }
+  ],
   "id": 98437,
   "malId": 35073,
   "type": "anime",
@@ -13,7 +35,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:25.000Z",
-  "updatedAt": "2021-05-20T14:43:25.000Z",
+  "updatedAt": "2021-06-17T15:21:27.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -159,25 +181,6 @@
         "aniId": 98437,
         "createdAt": "2020-10-15T10:57:35.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "overlord%20ii": {
-        "identifier": "overlord%20ii",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Overlord II",
-        "url": "https://www.crunchyroll.com/overlord?media_id=759343",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/b88008a90c0b96c8c3769525bd59c6341515511412_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 35073,
-        "aniId": 98437,
-        "createdAt": "2020-10-20T20:40:23.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }
     },

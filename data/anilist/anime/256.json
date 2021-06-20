@@ -3,6 +3,12 @@
     "Voices of a Distant Star",
     "ほしのこえ"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/voices-of-a-distant-star"
+    }
+  ],
   "id": 256,
   "malId": 256,
   "type": "anime",
@@ -12,7 +18,7 @@
   "category": "ova",
   "hentai": false,
   "createdAt": "2021-05-20T14:33:36.000Z",
-  "updatedAt": "2021-05-20T14:33:36.000Z",
+  "updatedAt": "2021-06-17T08:05:26.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -105,25 +111,6 @@
         "aniId": 256,
         "createdAt": "2020-10-12T16:26:55.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "voices%20of%20a%20distant%20star": {
-        "identifier": "voices%20of%20a%20distant%20star",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Voices of a Distant Star",
-        "url": "https://www.crunchyroll.com/voices-of-a-distant-star?media_id=521660",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/7f24b672c3b97265ef1b37ae65c78e631235456067_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 256,
-        "aniId": 256,
-        "createdAt": "2020-12-09T10:09:55.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

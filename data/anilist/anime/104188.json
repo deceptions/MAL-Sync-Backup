@@ -5,6 +5,12 @@
     "Anime Monster Strike",
     "モンストアニメ"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/monster-strike"
+    }
+  ],
   "id": 104188,
   "malId": 38022,
   "type": "anime",
@@ -14,7 +20,7 @@
   "category": "ona",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:45.000Z",
-  "updatedAt": "2021-05-20T14:44:45.000Z",
+  "updatedAt": "2021-06-17T16:31:55.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {
@@ -33,25 +39,6 @@
         "aniId": 104188,
         "createdAt": "2020-10-12T15:57:52.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "monster%20strike%20the%20animation": {
-        "identifier": "monster%20strike%20the%20animation",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Monster Strike the Animation",
-        "url": "https://www.crunchyroll.com/monster-strike?media_id=774975",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/821854d5ca16ffd4e559b4e17bef62661531040822_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 38022,
-        "aniId": 104188,
-        "createdAt": "2020-11-16T13:15:02.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     }

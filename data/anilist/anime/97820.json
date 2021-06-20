@@ -4,6 +4,12 @@
     "スタミュ 2",
     "High School Star Musical 2"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/starmyu-season-2"
+    }
+  ],
   "id": 97820,
   "malId": 33362,
   "type": "anime",
@@ -13,7 +19,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:07.000Z",
-  "updatedAt": "2021-05-20T14:43:07.000Z",
+  "updatedAt": "2021-06-17T15:12:01.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -70,25 +76,6 @@
         "aniId": 97820,
         "createdAt": "2020-10-12T16:01:58.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "starmyu%20season%202": {
-        "identifier": "starmyu%20season%202",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "STARMYU Season 2",
-        "url": "https://www.crunchyroll.com/starmyu?media_id=733459",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/b2b5c29af65947d28cbc87ffd8c12b6d1491212072_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 33362,
-        "aniId": 97820,
-        "createdAt": "2020-11-20T03:51:13.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

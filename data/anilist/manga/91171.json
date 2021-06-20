@@ -3,8 +3,15 @@
     "Yo-kai Watch",
     "妖怪ウォッチ"
   ],
+  "externalLinks": [
+    {
+      "site": "VIZ",
+      "url": "https://www.viz.com/yo-kai-watch"
+    }
+  ],
   "authors": [
-    "Noriyuki Konishi"
+    "Noriyuki Konishi",
+    "Fernando Mucioli"
   ],
   "id": 91171,
   "malId": 70401,
@@ -15,7 +22,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:51:31.000Z",
-  "updatedAt": "2021-05-20T14:51:31.000Z",
+  "updatedAt": "2021-06-17T23:53:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +44,28 @@
         "aniId": 91171,
         "createdAt": "2020-10-12T16:08:06.000Z",
         "updatedAt": "2021-06-04T07:33:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "youkai-watch": {
+        "authors": [
+          "KONISHI Noriyuki"
+        ],
+        "identifier": "youkai-watch",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "YO-KAI WATCH",
+        "url": "https://mangasee123.com/manga/Youkai-Watch",
+        "image": "https://cover.nep.li/cover/Youkai-Watch.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70401,
+        "aniId": 91171,
+        "createdAt": "2021-06-15T20:27:50.000Z",
+        "updatedAt": "2021-06-15T20:57:33.000Z",
         "deletedAt": null
       }
     }

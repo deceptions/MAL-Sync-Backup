@@ -3,6 +3,16 @@
     "Berserk 2",
     "ベルセルク 2"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/berserk"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GYX04955R/Berserk"
+    }
+  ],
   "id": 97643,
   "malId": 34055,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:13.000Z",
-  "updatedAt": "2021-05-20T14:43:13.000Z",
+  "updatedAt": "2021-06-17T15:09:58.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -103,42 +113,6 @@
         "aniId": 97643,
         "createdAt": "2020-10-27T17:40:51.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "berserk%20(season%202)": {
-        "identifier": "berserk%20(season%202)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Berserk (Season 2)",
-        "url": "https://www.crunchyroll.com/berserk?media_id=734291",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/20cce4be263d4d2c3c82b75dc5dc6dd71491557321_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 2,
-        "malId": 34055,
-        "aniId": 97643,
-        "createdAt": "2020-12-07T16:10:15.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      },
-      "berserk%20(season%202)%20(english%20dub)": {
-        "identifier": "berserk%20(season%202)%20(english%20dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Berserk (Season 2) (English Dub)",
-        "url": "https://www.crunchyroll.com/berserk?media_id=779795",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/0979755ba6124a2a92fd9874c6adabdf1495180325_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 34055,
-        "aniId": 97643,
-        "createdAt": "2021-01-01T12:28:26.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

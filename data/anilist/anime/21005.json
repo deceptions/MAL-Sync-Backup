@@ -4,6 +4,16 @@
     "グリザイアの迷宮",
     "Le Labyrinthe De La Grisaia"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/the-fruit-of-grisaia"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/the-labyrinth-of-grisaia"
+    }
+  ],
   "id": 21005,
   "malId": 29093,
   "type": "anime",
@@ -13,7 +23,7 @@
   "category": "special",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:46.000Z",
-  "updatedAt": "2021-05-20T14:41:46.000Z",
+  "updatedAt": "2021-06-17T14:25:49.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -108,25 +118,6 @@
         "aniId": 21005,
         "createdAt": "2020-10-15T11:59:06.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "the%20labyrinth%20of%20grisaia": {
-        "identifier": "the%20labyrinth%20of%20grisaia",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "The Labyrinth of Grisaia",
-        "url": "https://www.crunchyroll.com/the-fruit-of-grisaia?media_id=678007",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/c0c3eef365f7a4db95294be657ff5b741428802191_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 29093,
-        "aniId": 21005,
-        "createdAt": "2020-11-07T21:29:49.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

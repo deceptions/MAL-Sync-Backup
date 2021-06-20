@@ -3,6 +3,24 @@
     "Ahiru no Sora",
     "あひるの空"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/ahiru-no-sora"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/ahiru-no-sora"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G6NVGNJGY/Ahiru-no-Sora"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80245713"
+    }
+  ],
   "id": 101239,
   "malId": 37403,
   "type": "anime",
@@ -12,7 +30,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:35.000Z",
-  "updatedAt": "2021-05-20T14:44:35.000Z",
+  "updatedAt": "2021-06-17T15:52:19.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -140,25 +158,6 @@
         "malId": 37403,
         "aniId": 101239,
         "createdAt": "2020-10-15T11:22:55.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "ahiru%20no%20sora": {
-        "identifier": "ahiru%20no%20sora",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Ahiru no Sora",
-        "url": "https://www.crunchyroll.com/ahiru-no-sora?media_id=796176",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/e2196853ee38432c8cdc99a0dd09aba81599021733_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 37403,
-        "aniId": 101239,
-        "createdAt": "2020-10-31T21:44:59.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

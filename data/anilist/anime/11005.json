@@ -2,6 +2,16 @@
   "altTitle": [
     "Holy Knight (ホーリーナイト)"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/holy-knight"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/holy-knight"
+    }
+  ],
   "id": 11005,
   "malId": 11005,
   "type": "anime",
@@ -11,7 +21,7 @@
   "category": "ova",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:06.000Z",
-  "updatedAt": "2021-05-20T14:40:06.000Z",
+  "updatedAt": "2021-06-17T12:50:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -138,25 +148,6 @@
         "aniId": 11005,
         "createdAt": "2020-10-15T11:44:45.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "holy%20knight": {
-        "identifier": "holy%20knight",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Holy Knight",
-        "url": "https://www.crunchyroll.com/holy-knight?media_id=669677",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/d69380fe91baf69905aa7ba74176e6811424647686_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 11005,
-        "aniId": 11005,
-        "createdAt": "2020-12-07T16:39:53.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:03.000Z",
-  "updatedAt": "2021-01-26T15:40:00.000Z",
+  "updatedAt": "2021-06-16T02:58:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +81,29 @@
         "aniId": 109809,
         "createdAt": "2021-01-26T15:40:05.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ey981681": {
+        "authors": [
+          "Kasumi Morino",
+          "Misaki Saginomiya"
+        ],
+        "identifier": "manga-ey981681",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Bizarre Love Triangle",
+        "url": "https://manganato.com/manga-ey981681",
+        "image": "https://avt.mkklcdnv6temp.com/23/x/18-1583498026.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120456,
+        "aniId": 109809,
+        "createdAt": "2021-06-16T02:57:43.000Z",
+        "updatedAt": "2021-06-16T03:27:33.000Z",
         "deletedAt": null
       }
     }

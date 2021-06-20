@@ -3,6 +3,24 @@
     "Level E",
     "レベルE"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/level-e"
+    },
+    {
+      "site": "Funimation",
+      "url": "http://www.funimation.com/shows/level-e/"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/level-e"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/level-e"
+    }
+  ],
   "id": 9834,
   "malId": 9834,
   "type": "anime",
@@ -12,7 +30,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:39:07.000Z",
-  "updatedAt": "2021-05-20T14:39:07.000Z",
+  "updatedAt": "2021-06-17T12:29:08.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -86,25 +104,6 @@
         "aniId": 9834,
         "createdAt": "2020-10-12T16:01:06.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "level%20e": {
-        "identifier": "level%20e",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Level E",
-        "url": "https://www.crunchyroll.com/level-e?media_id=568484",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/26e67edf8601ebd61a830bf1e684f36d1293744608_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 9834,
-        "aniId": 9834,
-        "createdAt": "2021-04-08T19:21:04.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

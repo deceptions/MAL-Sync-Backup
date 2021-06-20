@@ -1,7 +1,22 @@
 {
   "altTitle": [
     "Hikaru no Go",
-    "ヒカルの碁"
+    "ヒカルの碁",
+    "히카루의 바둑"
+  ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/hikaru-no-go"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/hikaru-no-go"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRW4W1E3Y/Hikaru-no-Go"
+    }
   ],
   "id": 135,
   "malId": 135,
@@ -12,7 +27,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:33:27.000Z",
-  "updatedAt": "2021-05-20T14:33:27.000Z",
+  "updatedAt": "2021-06-18T06:50:50.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -140,25 +155,6 @@
         "malId": 135,
         "aniId": 135,
         "createdAt": "2020-10-15T12:28:43.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "hikaru%20no%20go%20(dub)": {
-        "identifier": "hikaru%20no%20go%20(dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Hikaru no Go (Dub)",
-        "url": "https://www.crunchyroll.com/hikaru-no-go?media_id=791730",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/37bf5a27a27c40d13f2a6d762e535f111576129747_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 135,
-        "aniId": 135,
-        "createdAt": "2020-10-30T04:44:09.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

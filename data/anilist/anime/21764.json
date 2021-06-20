@@ -3,6 +3,12 @@
     "WWW.WAGNARIA!!",
     "WWW.WORKING!!"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/wwwwagnaria"
+    }
+  ],
   "id": 21764,
   "malId": 33094,
   "type": "anime",
@@ -12,7 +18,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:06.000Z",
-  "updatedAt": "2021-05-20T14:43:06.000Z",
+  "updatedAt": "2021-06-17T15:02:28.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -123,25 +129,6 @@
         "malId": 33094,
         "aniId": 21764,
         "createdAt": "2020-12-26T17:56:43.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "www%2ewagnaria!!": {
-        "identifier": "www%2ewagnaria!!",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "WWW.WAGNARIA!!",
-        "url": "https://www.crunchyroll.com/wwwwagnaria?media_id=721191",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/23fc55192d6baa47b4a9bba39eed68e71475320061_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 33094,
-        "aniId": 21764,
-        "createdAt": "2021-01-01T12:30:53.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }

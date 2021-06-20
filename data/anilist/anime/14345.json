@@ -3,6 +3,28 @@
     "BTOOOM!",
     "BTOOOM！"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/btooom"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/btooom"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/btooom"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80052713"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GYGGV94PY/BTOOOM"
+    }
+  ],
   "id": 14345,
   "malId": 14345,
   "type": "anime",
@@ -12,7 +34,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:17.000Z",
-  "updatedAt": "2021-05-20T14:40:17.000Z",
+  "updatedAt": "2021-06-17T13:19:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -175,25 +197,6 @@
         "aniId": 14345,
         "createdAt": "2020-10-15T11:13:15.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "btooom!": {
-        "identifier": "btooom!",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "BTOOOM!",
-        "url": "https://www.crunchyroll.com/btooom?media_id=612063",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/f0a6548cbbbdb940fd94c6f140420c331349283156_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 14345,
-        "aniId": 14345,
-        "createdAt": "2020-11-02T16:54:53.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

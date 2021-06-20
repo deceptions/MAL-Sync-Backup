@@ -3,6 +3,16 @@
     "Kaiba",
     "カイバ"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/kaiba"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G6P50M4G6/Kaiba"
+    }
+  ],
   "id": 3701,
   "malId": 3701,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:37:26.000Z",
-  "updatedAt": "2021-05-20T14:37:26.000Z",
+  "updatedAt": "2021-06-17T10:46:02.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -124,25 +134,6 @@
         "aniId": 3701,
         "createdAt": "2021-01-14T20:32:53.000Z",
         "updatedAt": "2021-05-20T15:21:58.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "kaiba": {
-        "identifier": "kaiba",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Kaiba",
-        "url": "https://www.crunchyroll.com/kaiba?media_id=784200",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/a7fbc304abd817cf1dca770c2e2079931557275352_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 3701,
-        "aniId": 3701,
-        "createdAt": "2021-02-20T04:03:44.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

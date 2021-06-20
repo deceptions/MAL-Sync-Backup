@@ -6,6 +6,32 @@
     "HxH",
     "全职猎人"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/hunter-x-hunter"
+    },
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/hunter-x-hunter"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/70300472"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GY3VKX1MR/Hunter-x-Hunter"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/hunter-x-hunter"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/hunter-x-hunter/"
+    }
+  ],
   "id": 11061,
   "malId": 11061,
   "type": "anime",
@@ -15,7 +41,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:06.000Z",
-  "updatedAt": "2021-05-20T14:40:06.000Z",
+  "updatedAt": "2021-06-17T12:50:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -194,25 +220,6 @@
         "malId": 11061,
         "aniId": 11061,
         "createdAt": "2020-10-15T12:27:13.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "hunter%20x%20hunter": {
-        "identifier": "hunter%20x%20hunter",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Hunter x Hunter",
-        "url": "https://www.crunchyroll.com/hunter-x-hunter?media_id=646077",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/eaacee3e87ffdf2873410d24e1b135ca1391462668_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 11061,
-        "aniId": 11061,
-        "createdAt": "2020-10-21T19:40:14.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

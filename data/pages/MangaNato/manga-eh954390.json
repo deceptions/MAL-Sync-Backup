@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 32833,
-  "aniId": null,
+  "aniId": 62833,
   "createdAt": "2021-06-15T15:28:34.000Z",
-  "updatedAt": "2021-06-15T15:28:34.000Z",
+  "updatedAt": "2021-06-15T15:57:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-06-03T11:19:38.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ひめゴト",
+      "Hime Goto"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Norio Tsukudani"
+    ],
+    "id": 62833,
+    "malId": 32833,
+    "type": "manga",
+    "title": "Himegoto",
+    "url": "https://anilist.co/manga/62833",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx62833-6UI8eMJAsJgk.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:47:52.000Z",
+    "updatedAt": "2021-06-17T19:04:16.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/32833/Himegoto"
 }

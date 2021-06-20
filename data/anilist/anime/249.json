@@ -5,6 +5,32 @@
     "Inu Yasha",
     "이누야샤"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/inuyasha"
+    },
+    {
+      "site": "Netflix",
+      "url": "http://www.netflix.com/title/70204995"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/inuyasha"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/inuyasha"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/inuyasha/"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G6DKW52DR/Inuyasha"
+    }
+  ],
   "id": 249,
   "malId": 249,
   "type": "anime",
@@ -14,7 +40,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:33:36.000Z",
-  "updatedAt": "2021-05-20T14:33:36.000Z",
+  "updatedAt": "2021-06-17T08:05:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -160,42 +186,6 @@
         "aniId": 249,
         "createdAt": "2020-10-15T12:04:29.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "inuyasha%20(sub)": {
-        "identifier": "inuyasha%20(sub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Inuyasha (Sub)",
-        "url": "https://www.crunchyroll.com/inuyasha?media_id=791027",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/b68e79efd7e4a8dc004a1fc151c0ab301575495305_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 249,
-        "aniId": 249,
-        "createdAt": "2020-10-23T17:58:49.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      },
-      "inuyasha%20(dub)": {
-        "identifier": "inuyasha%20(dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Inuyasha (Dub)",
-        "url": "https://www.crunchyroll.com/inuyasha?media_id=791194",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/6cb397771b79414f1fc77d404513957b1575608470_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 249,
-        "aniId": 249,
-        "createdAt": "2020-11-08T03:15:48.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

@@ -2,6 +2,20 @@
   "altTitle": [
     "博多豚骨ラーメンズ"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/hakata-tonkotsu-ramens"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/hakata-tonkotsu-ramens/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/hakata-tonkotsu-ramens"
+    }
+  ],
   "id": 99483,
   "malId": 35889,
   "type": "anime",
@@ -11,7 +25,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:24.000Z",
-  "updatedAt": "2021-05-20T14:44:24.000Z",
+  "updatedAt": "2021-06-17T15:34:08.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -159,42 +173,6 @@
         "aniId": 99483,
         "createdAt": "2020-12-30T10:56:27.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "hakata%20tonkotsu%20ramens%20(russian)": {
-        "identifier": "hakata%20tonkotsu%20ramens%20(russian)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Hakata Tonkotsu Ramens (Russian)",
-        "url": "https://www.crunchyroll.com/hakata-tonkotsu-ramens?media_id=773909",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/68952afdc35ccffd6247c6c51e2fae7c1515763301_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 35889,
-        "aniId": 99483,
-        "createdAt": "2021-01-05T12:26:56.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      },
-      "hakata%20tonkotsu%20ramens": {
-        "identifier": "hakata%20tonkotsu%20ramens",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Hakata Tonkotsu Ramens",
-        "url": "https://www.crunchyroll.com/hakata-tonkotsu-ramens?media_id=759983",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/68952afdc35ccffd6247c6c51e2fae7c1515763301_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 35889,
-        "aniId": 99483,
-        "createdAt": "2021-02-03T03:32:09.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

@@ -2,6 +2,20 @@
   "altTitle": [
     "ギャングスタ"
   ],
+  "externalLinks": [
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/gangsta"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/gangsta"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/gangsta/#videos"
+    }
+  ],
   "id": 20773,
   "malId": 25183,
   "type": "anime",
@@ -11,7 +25,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:37.000Z",
-  "updatedAt": "2021-05-20T14:41:37.000Z",
+  "updatedAt": "2021-06-17T14:14:35.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -176,25 +190,6 @@
         "aniId": 20773,
         "createdAt": "2020-12-18T09:24:30.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "gangsta%2e": {
-        "identifier": "gangsta%2e",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Gangsta.",
-        "url": "https://www.crunchyroll.com/gangsta?media_id=682685",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/354071830b9eaad3d51a4d585eaf4f8f1436683314_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 25183,
-        "aniId": 20773,
-        "createdAt": "2021-02-21T15:04:23.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

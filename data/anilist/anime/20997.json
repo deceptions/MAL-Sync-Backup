@@ -2,6 +2,32 @@
   "altTitle": [
     "Charlotte(シャーロット)"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/charlotte"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/charlotte"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/charlotte"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/charlotte/"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80142917"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GYGG99WDY/Charlotte"
+    }
+  ],
   "id": 20997,
   "malId": 28999,
   "type": "anime",
@@ -11,7 +37,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:46.000Z",
-  "updatedAt": "2021-05-20T14:41:46.000Z",
+  "updatedAt": "2021-06-17T14:25:39.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -157,25 +183,6 @@
         "aniId": 20997,
         "createdAt": "2020-10-15T12:05:28.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "charlotte": {
-        "identifier": "charlotte",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Charlotte",
-        "url": "https://www.crunchyroll.com/charlotte?media_id=682171",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/e8021046afa531841c12e4e8891cc49d1437690619_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 28999,
-        "aniId": 20997,
-        "createdAt": "2020-11-02T22:54:24.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

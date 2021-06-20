@@ -2,6 +2,16 @@
   "altTitle": [
     "ヒャッコ"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/hyakko"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/hyakko"
+    }
+  ],
   "id": 4550,
   "malId": 4550,
   "type": "anime",
@@ -11,7 +21,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:37:36.000Z",
-  "updatedAt": "2021-05-20T14:37:36.000Z",
+  "updatedAt": "2021-06-17T11:04:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -49,25 +59,6 @@
         "aniId": 4550,
         "createdAt": "2020-10-12T16:00:47.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "hyakko": {
-        "identifier": "hyakko",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Hyakko",
-        "url": "https://www.crunchyroll.com/hyakko?media_id=531916",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/016ea4aea909e905ba3aa37e3edd03c71248317944_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 4550,
-        "aniId": 4550,
-        "createdAt": "2021-05-12T08:54:54.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     },

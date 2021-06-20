@@ -11,6 +11,28 @@
     "카드캡터 체리",
     "魔卡少女樱"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/cardcaptor-sakura"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/cardcaptor-sakura"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRNQP873R/Cardcaptor-Sakura"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/cardcaptor-sakura/"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/70309056"
+    }
+  ],
   "id": 232,
   "malId": 232,
   "type": "anime",
@@ -20,7 +42,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:33:36.000Z",
-  "updatedAt": "2021-05-20T14:33:36.000Z",
+  "updatedAt": "2021-06-17T08:04:36.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -149,42 +171,6 @@
         "aniId": 232,
         "createdAt": "2020-10-15T10:54:23.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "cardcaptor%20sakura%20(dub)": {
-        "identifier": "cardcaptor%20sakura%20(dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Cardcaptor Sakura (Dub)",
-        "url": "https://www.crunchyroll.com/cardcaptor-sakura?media_id=659031",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/b96254c49e452797918e308f6af5258a1407119368_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 232,
-        "aniId": 232,
-        "createdAt": "2020-11-08T00:28:31.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      },
-      "cardcaptor%20sakura%20(sub)": {
-        "identifier": "cardcaptor%20sakura%20(sub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Cardcaptor Sakura (Sub)",
-        "url": "https://www.crunchyroll.com/cardcaptor-sakura?media_id=659167",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/5b12d7f7b5ddd182f3ac237eb75a9b6a1407119791_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 232,
-        "aniId": 232,
-        "createdAt": "2020-11-23T11:56:38.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

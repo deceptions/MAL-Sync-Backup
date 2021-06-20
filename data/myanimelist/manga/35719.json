@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:59.000Z",
-  "updatedAt": "2020-12-20T16:55:02.000Z",
+  "updatedAt": "2021-06-15T22:58:55.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -100,6 +100,28 @@
         "aniId": 65719,
         "createdAt": "2020-12-21T17:26:05.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ur953452": {
+        "authors": [
+          "Morishita Suu"
+        ],
+        "identifier": "manga-ur953452",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hibi Chouchou",
+        "url": "https://manganato.com/manga-ur953452",
+        "image": "https://avt.mkklcdnv6temp.com/23/t/2-1583466622.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35719,
+        "aniId": 65719,
+        "createdAt": "2021-06-15T22:58:45.000Z",
+        "updatedAt": "2021-06-15T23:27:33.000Z",
         "deletedAt": null
       }
     }

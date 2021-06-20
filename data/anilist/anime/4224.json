@@ -6,6 +6,24 @@
     "龙与虎",
     "النمر والتنين"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/toradora"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80049275"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/toradora/"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G6P8PXJW6/Toradora"
+    }
+  ],
   "id": 4224,
   "malId": 4224,
   "type": "anime",
@@ -15,7 +33,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:37:34.000Z",
-  "updatedAt": "2021-05-26T05:38:17.000Z",
+  "updatedAt": "2021-06-17T10:59:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -160,42 +178,6 @@
         "malId": 4224,
         "aniId": 4224,
         "createdAt": "2020-10-15T13:12:01.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "toradora!%20(subtitled)": {
-        "identifier": "toradora!%20(subtitled)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Toradora! (Subtitled)",
-        "url": "https://www.crunchyroll.com/toradora?media_id=656751",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/e7a9ac6a774983c9f33d00a32db44b311404422752_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 4224,
-        "aniId": 4224,
-        "createdAt": "2020-10-20T17:39:09.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      },
-      "toradora!%20(dubbed)": {
-        "identifier": "toradora!%20(dubbed)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Toradora! (Dubbed)",
-        "url": "https://www.crunchyroll.com/toradora?media_id=656817",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/e94ba3d6edec321574d9ec35dbff6a5b1404433194_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 4224,
-        "aniId": 4224,
-        "createdAt": "2020-10-28T15:40:37.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

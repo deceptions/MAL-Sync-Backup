@@ -12,13 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 126872,
+  "aniId": 117962,
   "createdAt": "2020-10-12T16:19:09.000Z",
-  "updatedAt": "2021-06-07T21:26:48.000Z",
+  "updatedAt": "2021-06-18T15:20:50.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "最速無双のB級魔法使い 一発撃たれる前に千発撃ち返す!"
+    ],
+    "authors": [
+      "CK",
+      "Yamaura, Shuu"
+    ],
+    "id": 126872,
+    "type": "manga",
+    "title": "Saisoku Musou no B-kyuu Mahoutsukai: Ippatsu Utareru Mae ni Senpatsu Uchikaesu!",
+    "url": "https://myanimelist.net/manga/126872/Saisoku_Musou_no_B-kyuu_Mahoutsukai__Ippatsu_Utareru_Mae_ni_Senpatsu_Uchikaesu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/244741.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-01-19T08:34:14.000Z",
+    "updatedAt": "2021-06-08T01:21:06.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "最速無双のB級魔法使い 一発撃たれる前に千発撃ち返す!",
+      "The Speediest Second-rated Magician – I’ll Get a Thousand Strikes in Before I’m Hit!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "CK",
+      "Chako Abeno",
+      "Hiiragi Yamaura"
+    ],
+    "id": 117962,
+    "malId": 126872,
+    "type": "manga",
+    "title": "Saisoku Musou no B-kyuu Mahou Tsukai: Ippatsu Utareru Mae ni Senpatsu Uchikaesu!",
+    "url": "https://anilist.co/manga/117962",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117962-HZ9HuS28On1I.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:15.000Z",
+    "updatedAt": "2021-06-18T08:53:51.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/126872/Saisoku_Musou_no_B-kyuu_Mahoutsukai__Ippatsu_Utareru_Mae_ni_Senpatsu_Uchikaesu"
 }

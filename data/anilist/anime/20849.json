@@ -3,6 +3,28 @@
     "God Eater",
     "ゴッドイーター"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/god-eater"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/god-eater"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80145805"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/god-eater/"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRDQNDVZY/God-Eater"
+    }
+  ],
   "id": 20849,
   "malId": 27631,
   "type": "anime",
@@ -12,7 +34,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:42.000Z",
-  "updatedAt": "2021-05-20T14:41:42.000Z",
+  "updatedAt": "2021-06-17T14:18:51.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -158,25 +180,6 @@
         "aniId": 20849,
         "createdAt": "2020-10-15T11:12:24.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "god%20eater": {
-        "identifier": "god%20eater",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "God Eater",
-        "url": "https://www.crunchyroll.com/god-eater?media_id=684475",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/28711a4ac52068249f2faf53b122b6701439302823_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 27631,
-        "aniId": 20849,
-        "createdAt": "2020-11-17T21:51:18.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

@@ -2,6 +2,12 @@
   "altTitle": [
     "かなめも"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/kanamemo"
+    }
+  ],
   "id": 5914,
   "malId": 5914,
   "type": "anime",
@@ -11,7 +17,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:37:51.000Z",
-  "updatedAt": "2021-05-20T14:37:51.000Z",
+  "updatedAt": "2021-06-17T11:23:18.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,25 +54,6 @@
         "malId": 5914,
         "aniId": 5914,
         "createdAt": "2020-10-15T12:12:28.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "kanamemo": {
-        "identifier": "kanamemo",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Kanamemo",
-        "url": "https://www.crunchyroll.com/kanamemo?media_id=531248",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/72d51d30432289a5a89b611e00d729421246489849_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 5914,
-        "aniId": 5914,
-        "createdAt": "2020-10-20T20:39:12.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

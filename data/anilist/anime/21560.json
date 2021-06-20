@@ -4,6 +4,24 @@
     "ベルセルク",
     "Berserk (2016)"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/berserk"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/berserk-2016"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GYX04955R/Berserk"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80146743"
+    }
+  ],
   "id": 21560,
   "malId": 32379,
   "type": "anime",
@@ -13,7 +31,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:00.000Z",
-  "updatedAt": "2021-05-20T14:43:00.000Z",
+  "updatedAt": "2021-06-17T14:51:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -176,42 +194,6 @@
         "aniId": 21560,
         "createdAt": "2020-10-15T12:56:51.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "berserk": {
-        "identifier": "berserk",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Berserk",
-        "url": "https://www.crunchyroll.com/berserk?media_id=714981",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/26eab4134e05cc20d452f317ba6fef601467375288_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 32379,
-        "aniId": 21560,
-        "createdAt": "2020-10-26T18:13:24.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      },
-      "berserk%20(english%20dub)": {
-        "identifier": "berserk%20(english%20dub)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Berserk (English Dub)",
-        "url": "https://www.crunchyroll.com/berserk?media_id=779106",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/26eab4134e05cc20d452f317ba6fef601467375288_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 32379,
-        "aniId": 21560,
-        "createdAt": "2021-01-01T12:28:25.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

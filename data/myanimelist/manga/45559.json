@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:21.000Z",
-  "updatedAt": "2021-04-22T07:57:29.000Z",
+  "updatedAt": "2021-06-17T12:31:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -121,6 +121,28 @@
         "aniId": 75559,
         "createdAt": "2021-04-22T07:57:30.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ue951561": {
+        "authors": [
+          "Kanzaki Shiden"
+        ],
+        "identifier": "manga-ue951561",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Black Bullet",
+        "url": "https://readmanganato.com/manga-ue951561",
+        "image": "https://avt.mkklcdnv6temp.com/9/b/1-1583464022.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45559,
+        "aniId": 75559,
+        "createdAt": "2021-06-17T12:31:42.000Z",
+        "updatedAt": "2021-06-17T12:57:45.000Z",
         "deletedAt": null
       }
     }

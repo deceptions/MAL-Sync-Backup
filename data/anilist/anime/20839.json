@@ -2,6 +2,20 @@
   "altTitle": [
     "トリアージX"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/triage-x"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/triage-x"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/triage-x"
+    }
+  ],
   "id": 20839,
   "malId": 26443,
   "type": "anime",
@@ -11,7 +25,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:42.000Z",
-  "updatedAt": "2021-05-20T14:41:42.000Z",
+  "updatedAt": "2021-06-17T14:18:20.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -123,42 +137,6 @@
         "aniId": 20839,
         "createdAt": "2020-10-15T11:04:25.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "triage%20x": {
-        "identifier": "triage%20x",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Triage X",
-        "url": "https://www.crunchyroll.com/triage-x?media_id=678403",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/f8ee2534aee78606ac706c949942cac91430155459_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 26443,
-        "aniId": 20839,
-        "createdAt": "2020-10-21T01:39:03.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      },
-      "triage%20x%20(german%20europe)": {
-        "identifier": "triage%20x%20(german%20europe)",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Triage X (German Europe)",
-        "url": "https://www.crunchyroll.com/triage-x?media_id=809982",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/e586848739bdc04ce2d77917de09bdfd1428366231_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 26443,
-        "aniId": 20839,
-        "createdAt": "2021-03-28T01:49:17.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     },

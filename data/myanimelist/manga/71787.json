@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:19.000Z",
-  "updatedAt": "2021-05-10T13:17:45.000Z",
+  "updatedAt": "2021-06-18T12:21:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,6 +78,28 @@
         "aniId": 86632,
         "createdAt": "2021-02-01T18:31:55.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hd952212": {
+        "authors": [
+          "Nakamura Uzuki"
+        ],
+        "identifier": "manga-hd952212",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hiai Mousou",
+        "url": "https://manganato.com/manga-hd952212",
+        "image": "https://avt.mkklcdnv6temp.com/31/s/1-1583464942.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71787,
+        "aniId": 86632,
+        "createdAt": "2021-06-18T12:21:21.000Z",
+        "updatedAt": "2021-06-18T12:50:50.000Z",
         "deletedAt": null
       }
     }

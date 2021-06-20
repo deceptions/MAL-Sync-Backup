@@ -3,13 +3,14 @@
     "ハズレポーションが醤油だったので料理することにしました",
     "I decided to cook because the potion was soy sauce"
   ],
+  "externalLinks": [],
   "authors": [
     "Tomato Fuji",
     "Risuno",
     "Yuichi Murakami"
   ],
   "id": 131879,
-  "malId": null,
+  "malId": 133639,
   "type": "manga",
   "title": "Hazure Potion ga Shouyu datta no de Ryouri suru Koto ni Shimashita",
   "url": "https://anilist.co/manga/131879",
@@ -17,7 +18,77 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-04T22:18:58.000Z",
-  "updatedAt": "2021-06-04T22:18:58.000Z",
+  "updatedAt": "2021-06-18T01:20:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "1fb6e5d7-35b8-4741-9fca-2426f6c37e31": {
+        "authors": [
+          "Risuno",
+          "Fuji Tomato"
+        ],
+        "identifier": "1fb6e5d7-35b8-4741-9fca-2426f6c37e31",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hazure Potion ga Shouyu datta no de Ryouri suru koto ni shimashita",
+        "url": "https://mangadex.org/title/1fb6e5d7-35b8-4741-9fca-2426f6c37e31",
+        "image": "https://uploads.mangadex.org/covers/1fb6e5d7-35b8-4741-9fca-2426f6c37e31/458782b0-c574-4aab-921c-d34092f0e0b5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 133639,
+        "aniId": 131879,
+        "createdAt": "2020-11-12T23:51:42.000Z",
+        "updatedAt": "2021-06-18T01:50:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNelo": {
+      "ca925056": {
+        "authors": [
+          "Risuno"
+        ],
+        "identifier": "ca925056",
+        "type": "manga",
+        "page": "MangaNelo",
+        "title": "Hazure Potion Ga Shouyu Datta No De Ryouri Suru Koto Ni Shimashita",
+        "url": "https://manganelo.com/manga/ca925056",
+        "image": "https://avt.mkklcdnv6temp.com/1/h/22-1609734996.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133639,
+        "aniId": 131879,
+        "createdAt": "2021-01-04T13:26:46.000Z",
+        "updatedAt": "2021-06-18T01:50:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kq987525": {
+        "authors": [
+          "Risuno",
+          "Murakami Yuichi",
+          "Fuji Tomato"
+        ],
+        "identifier": "manga-kq987525",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hazure Potion Ga Shouyu Datta No De Ryouri Suru Koto Ni Shimashita",
+        "url": "https://manganato.com/manga-kq987525",
+        "image": "https://avt.mkklcdnv6temp.com/1/h/22-1609734996.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133639,
+        "aniId": 131879,
+        "createdAt": "2021-06-16T14:27:33.000Z",
+        "updatedAt": "2021-06-18T01:50:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

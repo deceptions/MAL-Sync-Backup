@@ -11,7 +11,27 @@
   "category": "ONA",
   "hentai": false,
   "createdAt": "2021-02-20T05:33:30.000Z",
-  "updatedAt": "2021-02-20T05:33:30.000Z",
+  "updatedAt": "2021-06-19T12:04:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "65nz": {
+        "identifier": "65nz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Three Swordsman Half Face",
+        "url": "https://9anime.to/watch/three-swordsman-half-face.65nz",
+        "image": "https://static.akacdn.ru/files/images/2020/04/a1155921a7225454d81ca4ac604208c9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 42183,
+        "aniId": 20627,
+        "createdAt": "2020-10-12T15:50:41.000Z",
+        "updatedAt": "2021-06-19T12:04:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

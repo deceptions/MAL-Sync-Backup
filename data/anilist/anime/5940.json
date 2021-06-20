@@ -5,6 +5,24 @@
     "Seiken no Katanakaji",
     "La Espada Sagrada"
   ],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "http://www.funimation.com/shows/the-sacred-blacksmith/"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/the-sacred-blacksmith"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/the-sacred-blacksmith"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/the-sacred-blacksmith"
+    }
+  ],
   "id": 5940,
   "malId": 5940,
   "type": "anime",
@@ -14,7 +32,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:37:51.000Z",
-  "updatedAt": "2021-05-20T14:37:51.000Z",
+  "updatedAt": "2021-06-17T11:28:00.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -143,42 +161,6 @@
         "aniId": 5940,
         "createdAt": "2020-10-15T11:16:34.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "the%20sacred%20blacksmith": {
-        "identifier": "the%20sacred%20blacksmith",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "The Sacred Blacksmith",
-        "url": "https://www.crunchyroll.com/the-sacred-blacksmith?media_id=765157",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/4985ee8c6d0a56ea8285b746573dd89b1520024526_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 5940,
-        "aniId": 5940,
-        "createdAt": "2021-02-07T02:50:27.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
-        "deletedAt": null
-      },
-      "seiken%20no%20blacksmith": {
-        "identifier": "seiken%20no%20blacksmith",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Seiken no Blacksmith",
-        "url": "https://www.crunchyroll.com/seiken-no-blacksmith?media_id=643273",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/57b41519f51bf19c4c9be88baac46f4b1375402042_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 5940,
-        "aniId": 5940,
-        "createdAt": "2021-02-18T06:21:11.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     },

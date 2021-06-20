@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 94445,
-  "aniId": null,
+  "aniId": 135787,
   "createdAt": "2020-10-12T16:11:32.000Z",
-  "updatedAt": "2021-06-05T09:47:24.000Z",
+  "updatedAt": "2021-06-17T22:50:50.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -47,6 +47,37 @@
     "updatedAt": "2021-06-05T09:19:27.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Comicリリィ",
+      "ComicLily"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tarahi Rakuji",
+      "Misono Izumiya",
+      "Nagi Gouda",
+      "Komoda",
+      "Nagako Sakaki",
+      "Kei Hiiragi",
+      "Ranchi Okosama",
+      "Asu Tsubaki",
+      "Kaname Uchimura",
+      "Yamato",
+      "TSUNE (chotto matte)",
+      "TSUNE"
+    ],
+    "id": 135787,
+    "malId": 94445,
+    "type": "manga",
+    "title": "Comic Lily",
+    "url": "https://anilist.co/manga/135787",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135787-ffJKufYnfiqR.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-17T21:20:50.000Z",
+    "updatedAt": "2021-06-17T23:50:50.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/94445/Comic_Lily"
 }

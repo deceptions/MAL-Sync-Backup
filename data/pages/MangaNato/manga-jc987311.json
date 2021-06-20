@@ -11,13 +11,50 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 131623,
+  "aniId": 109909,
   "createdAt": "2021-05-28T18:54:34.000Z",
-  "updatedAt": "2021-05-28T18:54:34.000Z",
+  "updatedAt": "2021-06-15T19:27:33.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "餓獣"
+    ],
+    "authors": [
+      "Koike, Nokuto"
+    ],
+    "id": 131623,
+    "type": "manga",
+    "title": "Gajuu",
+    "url": "https://myanimelist.net/manga/131623/Gajuu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/237838.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-11-29T18:52:37.000Z",
+    "updatedAt": "2021-06-15T16:27:44.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "餓獣",
+      "Gaju"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Nokuto Koike"
+    ],
+    "id": 109909,
+    "malId": 131623,
+    "type": "manga",
+    "title": "Gajuu",
+    "url": "https://anilist.co/manga/109909",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109909-6wInAS0T2iKF.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T15:00:04.000Z",
+    "updatedAt": "2021-06-18T06:23:12.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/131623/Gajuu"
 }

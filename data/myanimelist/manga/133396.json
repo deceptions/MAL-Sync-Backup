@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-23T21:25:37.000Z",
-  "updatedAt": "2021-03-14T06:09:30.000Z",
+  "updatedAt": "2021-06-19T01:21:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -62,6 +62,29 @@
         "aniId": 128609,
         "createdAt": "2021-01-06T15:05:40.000Z",
         "updatedAt": "2021-06-05T10:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ja986683": {
+        "authors": [
+          "Aneko Yusagi",
+          "Chihiro"
+        ],
+        "identifier": "manga-ja986683",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Was Invited To Join The Country As An Otherworldly Warrior, But I Refused And Decided To Start As A Soldier",
+        "url": "https://manganato.com/manga-ja986683",
+        "image": "https://avt.mkklcdnv6temp.com/16/o/22-1600500916.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 133396,
+        "aniId": 128609,
+        "createdAt": "2021-05-31T13:31:26.000Z",
+        "updatedAt": "2021-06-19T12:04:51.000Z",
         "deletedAt": null
       }
     }

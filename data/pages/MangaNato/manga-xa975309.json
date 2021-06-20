@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 102516,
-  "aniId": null,
+  "aniId": 99395,
   "createdAt": "2021-06-15T15:27:43.000Z",
-  "updatedAt": "2021-06-15T15:27:43.000Z",
+  "updatedAt": "2021-06-15T15:57:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,29 @@
     "updatedAt": "2021-05-17T16:55:13.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Liquor & Cigarettes",
+      "リカー&シガレット",
+      "Liquor and Cigarette",
+      "Alkohol i papierosy",
+      "Ликёр и Сигареты"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ranmaru Zaria"
+    ],
+    "id": 99395,
+    "malId": 102516,
+    "type": "manga",
+    "title": "Liquor & Cigarette",
+    "url": "https://anilist.co/manga/99395",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99395-3DkqwKcR6r6Y.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:54:59.000Z",
+    "updatedAt": "2021-06-18T02:28:19.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/102516/Liquor___Cigarette"
 }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-04-05T00:38:41.000Z",
-  "updatedAt": "2021-05-16T18:25:14.000Z",
+  "updatedAt": "2021-06-19T01:21:11.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaNelo": {
@@ -61,6 +61,29 @@
         "aniId": 129882,
         "createdAt": "2021-04-05T00:38:43.000Z",
         "updatedAt": "2021-06-05T11:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jn987096": {
+        "authors": [
+          "Tetta Enji",
+          "Hamuo"
+        ],
+        "identifier": "manga-jn987096",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hell Mode: Yarikomi Suki No Gamer Wa Hai Settei No Isekai De Musou Suru",
+        "url": "https://manganato.com/manga-jn987096",
+        "image": "https://avt.mkklcdnv6temp.com/33/n/22-1604080648.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 134870,
+        "aniId": 129882,
+        "createdAt": "2021-05-28T21:55:04.000Z",
+        "updatedAt": "2021-06-19T12:05:16.000Z",
         "deletedAt": null
       }
     }

@@ -3,6 +3,20 @@
     "Meiji Tokyo Renka",
     "明治東亰恋伽"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/meiji-tokyo-renka"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/meiji-tokyo-renka"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/meiji-tokyo-renka"
+    }
+  ],
   "id": 99000,
   "malId": 34209,
   "type": "anime",
@@ -12,7 +26,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:15.000Z",
-  "updatedAt": "2021-05-20T14:43:15.000Z",
+  "updatedAt": "2021-06-17T15:31:21.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -122,25 +136,6 @@
         "aniId": 99000,
         "createdAt": "2020-10-12T16:27:05.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "meiji%20tokyo%20renka": {
-        "identifier": "meiji%20tokyo%20renka",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Meiji Tokyo Renka",
-        "url": "https://www.crunchyroll.com/meiji-tokyo-renka?media_id=781133",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/19f98b9b2aa0a3ab16a923bf3d267a241547034914_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 34209,
-        "aniId": 99000,
-        "createdAt": "2021-01-01T12:29:31.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     }

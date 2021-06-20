@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:22.000Z",
-  "updatedAt": "2021-04-23T20:27:08.000Z",
+  "updatedAt": "2021-06-18T07:51:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 119580,
         "createdAt": "2020-10-12T16:18:56.000Z",
         "updatedAt": "2021-06-07T20:58:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-iu985955": {
+        "authors": [
+          "Gyokuto"
+        ],
+        "identifier": "manga-iu985955",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Revenge Of The Soul Eater",
+        "url": "https://manganato.com/manga-iu985955",
+        "image": "https://avt.mkklcdnv6temp.com/37/r/21-1595619638.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126987,
+        "aniId": 119580,
+        "createdAt": "2021-06-18T07:50:51.000Z",
+        "updatedAt": "2021-06-18T08:20:50.000Z",
         "deletedAt": null
       }
     }

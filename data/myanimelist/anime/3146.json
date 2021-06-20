@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:35.000Z",
-  "updatedAt": "2021-04-27T17:49:10.000Z",
+  "updatedAt": "2021-06-18T16:21:01.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +30,25 @@
         "aniId": 3146,
         "createdAt": "2020-10-12T15:50:01.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4402": {
+        "identifier": "4402",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "GR: Giant Robo",
+        "url": "https://pahe.win/a/4402",
+        "image": "https://i.animepahe.com/posters/1f5429f0e19762ee78ed37a9954abe06a6999a5d5a96b45f4a8eaee59e71ba0d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3146,
+        "aniId": 3146,
+        "createdAt": "2021-06-18T16:20:52.000Z",
+        "updatedAt": "2021-06-18T16:50:49.000Z",
         "deletedAt": null
       }
     }

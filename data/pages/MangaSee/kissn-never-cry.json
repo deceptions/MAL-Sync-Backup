@@ -11,13 +11,51 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 3388,
+  "aniId": 33388,
   "createdAt": "2021-05-26T15:38:27.000Z",
-  "updatedAt": "2021-05-26T15:38:27.000Z",
+  "updatedAt": "2021-06-18T12:50:50.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Kiss and Never Cry",
+      "キス&ネバークライ"
+    ],
+    "authors": [
+      "Ogawa, Yayoi"
+    ],
+    "id": 3388,
+    "type": "manga",
+    "title": "Kiss & Never Cry",
+    "url": "https://myanimelist.net/manga/3388/Kiss___Never_Cry",
+    "image": "https://cdn.myanimelist.net/images/manga/1/3755.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:50.000Z",
+    "updatedAt": "2021-06-10T09:38:29.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "キス&ネバークライ",
+      "Kiss & Never Cry"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yayoi Ogawa"
+    ],
+    "id": 33388,
+    "malId": 3388,
+    "type": "manga",
+    "title": "Kiss and Never Cry",
+    "url": "https://anilist.co/manga/33388",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3388.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:38:08.000Z",
+    "updatedAt": "2021-06-17T10:41:01.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/3388/Kiss___Never_Cry"
 }

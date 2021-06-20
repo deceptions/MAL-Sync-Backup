@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:34.000Z",
-  "updatedAt": "2021-05-07T19:47:32.000Z",
+  "updatedAt": "2021-06-18T15:51:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 79969,
         "createdAt": "2020-10-12T16:06:14.000Z",
         "updatedAt": "2021-06-03T18:11:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mv963656": {
+        "authors": [
+          "Koshigaya Osamu"
+        ],
+        "identifier": "manga-mv963656",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kaidan Tochuu No Big Noise",
+        "url": "https://manganato.com/manga-mv963656",
+        "image": "https://avt.mkklcdnv6temp.com/5/y/9-1583480326.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49969,
+        "aniId": 79969,
+        "createdAt": "2021-06-18T15:51:11.000Z",
+        "updatedAt": "2021-06-18T16:20:50.000Z",
         "deletedAt": null
       }
     }

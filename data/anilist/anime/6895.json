@@ -5,6 +5,7 @@
     "Hakuoki",
     "Hakuouki Shinsengumi Kitan"
   ],
+  "externalLinks": [],
   "id": 6895,
   "malId": 6895,
   "type": "anime",
@@ -14,7 +15,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:38:46.000Z",
-  "updatedAt": "2021-05-20T14:38:46.000Z",
+  "updatedAt": "2021-06-17T11:45:17.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -141,6 +142,23 @@
         "aniId": 6895,
         "createdAt": "2021-01-04T01:56:47.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      },
+      "hakuouki": {
+        "identifier": "hakuouki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hakuouki",
+        "url": "https://gogoanime.ai/category/hakuouki",
+        "image": "https://gogocdn.net/cover/hakuouki.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6895,
+        "aniId": 6895,
+        "createdAt": "2021-06-16T04:27:34.000Z",
+        "updatedAt": "2021-06-16T04:57:33.000Z",
         "deletedAt": null
       }
     }

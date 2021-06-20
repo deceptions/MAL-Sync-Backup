@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:47.000Z",
-  "updatedAt": "2021-04-09T04:51:33.000Z",
+  "updatedAt": "2021-06-17T04:27:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -97,6 +97,28 @@
         "aniId": 33044,
         "createdAt": "2021-04-09T04:51:40.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "working": {
+        "authors": [
+          "TAKATSU Karino"
+        ],
+        "identifier": "working",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Working!!",
+        "url": "https://mangasee123.com/manga/Working",
+        "image": "https://cover.nep.li/cover/Working.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3044,
+        "aniId": 33044,
+        "createdAt": "2021-06-17T04:27:38.000Z",
+        "updatedAt": "2021-06-17T04:57:35.000Z",
         "deletedAt": null
       }
     }

@@ -3,6 +3,16 @@
     "Amanchu! ~Advance~",
     "あまんちゅ！～あどばんす～"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/amanchu"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GYZXDEXX6/Amanchu"
+    }
+  ],
   "id": 100532,
   "malId": 36800,
   "type": "anime",
@@ -12,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:29.000Z",
-  "updatedAt": "2021-05-20T14:44:29.000Z",
+  "updatedAt": "2021-06-17T15:44:05.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -107,25 +117,6 @@
         "aniId": 100532,
         "createdAt": "2020-10-15T11:19:15.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "amanchu!%20~advance~": {
-        "identifier": "amanchu!%20~advance~",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Amanchu! ~Advance~",
-        "url": "https://www.crunchyroll.com/amanchu?media_id=768887",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/ba4a6043f439959d073f9503c28135f51524312405_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 36800,
-        "aniId": 100532,
-        "createdAt": "2020-10-29T03:10:58.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }
     },

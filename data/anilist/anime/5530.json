@@ -3,6 +3,20 @@
     "パンドラハーツ",
     "PandoraHearts"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/pandorahearts"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/pandora-hearts"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/pandorahearts/"
+    }
+  ],
   "id": 5530,
   "malId": 5530,
   "type": "anime",
@@ -12,7 +26,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:37:46.000Z",
-  "updatedAt": "2021-05-20T14:37:46.000Z",
+  "updatedAt": "2021-06-17T11:19:59.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -140,25 +154,6 @@
         "malId": 5530,
         "aniId": 5530,
         "createdAt": "2020-12-22T01:26:15.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "pandorahearts": {
-        "identifier": "pandorahearts",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "PandoraHearts",
-        "url": "https://www.crunchyroll.com/pandorahearts?media_id=612631",
-        "image": "https://img1.ak.crunchyroll.com/i/spire2-tmb/0902bfabf990785ebef469b717c928f31349731327_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 5530,
-        "aniId": 5530,
-        "createdAt": "2021-01-04T00:26:20.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }

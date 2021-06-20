@@ -3,6 +3,24 @@
     "Yuri!!! on ICE",
     "ユーリ!!! on ICE"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/yuri-on-ice"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/yuri-on-ice/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/yuri-on-ice"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GY2PEJ0MY/Yuri-on-ICE"
+    }
+  ],
   "id": 21709,
   "malId": 32995,
   "type": "anime",
@@ -12,7 +30,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:04.000Z",
-  "updatedAt": "2021-05-20T14:43:04.000Z",
+  "updatedAt": "2021-06-17T14:59:48.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -158,25 +176,6 @@
         "aniId": 21709,
         "createdAt": "2020-10-15T11:28:35.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "yuri!!!%20on%20ice": {
-        "identifier": "yuri!!!%20on%20ice",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Yuri!!! on ICE",
-        "url": "https://www.crunchyroll.com/yuri-on-ice?media_id=721627",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/bac1a2097370fe7f3862a871e7bbe1901477508040_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 32995,
-        "aniId": 21709,
-        "createdAt": "2020-11-15T21:45:22.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

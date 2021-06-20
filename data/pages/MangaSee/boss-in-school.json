@@ -11,14 +11,37 @@
   "image": "https://cover.nep.li/cover/Boss-in-School.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 110645,
   "createdAt": "2021-03-23T22:15:32.000Z",
-  "updatedAt": "2021-04-26T15:13:30.000Z",
+  "updatedAt": "2021-06-19T11:50:54.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Boss in School",
+      "보스 인 스쿨",
+      "極道高校生",
+      "Gokudo Koukousei"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ui-Gwon Kim",
+      "Hoon Young Lee"
+    ],
+    "id": 110645,
+    "malId": null,
+    "type": "manga",
+    "title": "Boss in School",
+    "url": "https://anilist.co/manga/110645",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b110645-GFzx1xEfmtFK.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-24T18:08:17.000Z",
+    "updatedAt": "2021-06-18T06:31:00.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

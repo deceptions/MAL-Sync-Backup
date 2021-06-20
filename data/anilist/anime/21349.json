@@ -4,6 +4,24 @@
     "ALL OUT!!",
     "オールアウト!!"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/all-out"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/all-out/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/all-out"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GR8VJVX7R/ALL-OUT"
+    }
+  ],
   "id": 21349,
   "malId": 31588,
   "type": "anime",
@@ -13,7 +31,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:42:56.000Z",
-  "updatedAt": "2021-05-20T14:42:56.000Z",
+  "updatedAt": "2021-06-17T14:42:14.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -104,25 +122,6 @@
         "aniId": 21349,
         "createdAt": "2020-10-12T15:59:49.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "all%20out!!": {
-        "identifier": "all%20out!!",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "ALL OUT!!",
-        "url": "https://www.crunchyroll.com/all-out?media_id=727927",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/9c5da7c4933d3b60f353ba48d7e46d091484237067_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 31588,
-        "aniId": 21349,
-        "createdAt": "2020-11-06T10:58:20.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

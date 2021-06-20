@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:31.000Z",
-  "updatedAt": "2021-03-27T00:49:17.000Z",
+  "updatedAt": "2021-06-19T08:51:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,6 +78,28 @@
         "aniId": 92645,
         "createdAt": "2021-03-27T00:49:19.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "cronos_haze_2014": {
+        "authors": [
+          "TAKANO Masayuki"
+        ],
+        "identifier": "cronos_haze_2014",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cronos Haze (2014)",
+        "url": "https://fanfox.net/manga/cronos_haze_2014/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14160/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 78351,
+        "aniId": 92645,
+        "createdAt": "2021-06-19T08:51:45.000Z",
+        "updatedAt": "2021-06-19T09:20:50.000Z",
         "deletedAt": null
       }
     }

@@ -4,6 +4,28 @@
     "ニセコイ",
     "Nisekoi: False Love"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/nisekoi"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/nisekoi"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/nisekoi-false-love"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/nisekoi/"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GR19NK216/Nisekoi"
+    }
+  ],
   "id": 18897,
   "malId": 18897,
   "type": "anime",
@@ -13,7 +35,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:33.000Z",
-  "updatedAt": "2021-05-20T14:40:33.000Z",
+  "updatedAt": "2021-06-17T13:49:09.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -124,25 +146,6 @@
         "malId": 18897,
         "aniId": 18897,
         "createdAt": "2020-10-15T12:42:31.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "nisekoi": {
-        "identifier": "nisekoi",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Nisekoi",
-        "url": "https://www.crunchyroll.com/nisekoi?media_id=649339",
-        "image": "https://img1.ak.crunchyroll.com/i/spire4-tmb/3fbd105c561e7eb15f8c0b2b4e661f691395461183_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 18897,
-        "aniId": 18897,
-        "createdAt": "2020-10-21T01:09:25.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }

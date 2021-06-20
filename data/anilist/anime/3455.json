@@ -7,6 +7,32 @@
     "ToLoveRu Trouble",
     "To-LOVE-Ru"
   ],
+  "externalLinks": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/to-loveru"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/to-love-ru"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/toloveru"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/to-love-ru"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GY2PE557Y/To-Love-Ru"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GY1X03J2Y/To-Love-Ru"
+    }
+  ],
   "id": 3455,
   "malId": 3455,
   "type": "anime",
@@ -16,7 +42,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:33:24.000Z",
-  "updatedAt": "2021-05-20T14:33:24.000Z",
+  "updatedAt": "2021-06-17T10:39:30.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -164,25 +190,6 @@
         "aniId": 3455,
         "createdAt": "2020-12-19T07:26:11.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "to%20love%20ru": {
-        "identifier": "to%20love%20ru",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "To Love Ru",
-        "url": "https://www.crunchyroll.com/to-love-ru?media_id=683483",
-        "image": "https://img1.ak.crunchyroll.com/i/spire3-tmb/a4a19cb4d6bbffa11806cee173e0c8321437092647_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 3455,
-        "aniId": 3455,
-        "createdAt": "2021-02-08T07:20:22.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
     }

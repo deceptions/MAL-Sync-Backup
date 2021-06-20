@@ -5,6 +5,24 @@
     "Alice and Zouroku",
     " Alice & Zôroku"
   ],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/alice-zoroku"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/alice-zoroku/"
+    },
+    {
+      "site": "AnimeLab",
+      "url": "https://www.animelab.com/shows/alice-zoroku"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GYNQ5N80Y/Alice-Zoroku"
+    }
+  ],
   "id": 97821,
   "malId": 34350,
   "type": "anime",
@@ -14,7 +32,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:16.000Z",
-  "updatedAt": "2021-06-01T22:01:16.000Z",
+  "updatedAt": "2021-06-17T13:27:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -160,25 +178,6 @@
         "aniId": 97821,
         "createdAt": "2020-10-15T13:01:33.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "Crunchyroll": {
-      "alice%20%26%20zoroku": {
-        "identifier": "alice%20%26%20zoroku",
-        "type": "anime",
-        "page": "Crunchyroll",
-        "title": "Alice & Zoroku",
-        "url": "https://www.crunchyroll.com/alice-zoroku?media_id=733425",
-        "image": "https://img1.ak.crunchyroll.com/i/spire1-tmb/1e3ec25e19819f8668f615507b529fb91491139771_full.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 34350,
-        "aniId": 97821,
-        "createdAt": "2020-11-03T11:24:32.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
         "deletedAt": null
       }
     },

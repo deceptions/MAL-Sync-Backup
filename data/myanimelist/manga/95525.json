@@ -14,7 +14,7 @@
   "category": "Doujinshi",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:22.000Z",
-  "updatedAt": "2021-05-15T13:54:54.000Z",
+  "updatedAt": "2021-06-18T12:54:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 103891,
         "createdAt": "2020-10-12T16:13:19.000Z",
         "updatedAt": "2021-06-05T20:27:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "aiiro_ningyo": {
+        "authors": [
+          "Mira"
+        ],
+        "identifier": "aiiro_ningyo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Aiiro Ningyo",
+        "url": "https://fanfox.net/manga/aiiro_ningyo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18179/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95525,
+        "aniId": 103891,
+        "createdAt": "2021-06-18T12:53:58.000Z",
+        "updatedAt": "2021-06-18T13:20:51.000Z",
         "deletedAt": null
       }
     }
