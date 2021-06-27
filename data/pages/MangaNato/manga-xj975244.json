@@ -11,13 +11,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 90973,
+  "aniId": 95392,
   "createdAt": "2021-05-31T09:44:44.000Z",
-  "updatedAt": "2021-05-31T09:44:44.000Z",
+  "updatedAt": "2021-06-25T15:19:19.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Chi Chi Chi Chi, Chichichichi",
+      "チチチチ"
+    ],
+    "authors": [
+      "Cool-kyou Shinja"
+    ],
+    "id": 90973,
+    "type": "manga",
+    "title": "Chichi Chichi",
+    "url": "https://myanimelist.net/manga/90973/Chichi_Chichi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/159848.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:46:06.000Z",
+    "updatedAt": "2021-05-31T09:44:43.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "チチチチ",
+      "Chi Chi Chi Chi",
+      "Chichichichi",
+      "치치치치"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Cool-kyou Shinja"
+    ],
+    "id": 95392,
+    "malId": 90973,
+    "type": "manga",
+    "title": "Chichi Chichi",
+    "url": "https://anilist.co/manga/95392",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx95392-WyijkxOac977.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:53:07.000Z",
+    "updatedAt": "2021-06-18T00:58:00.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/90973/Chichi_Chichi"
 }

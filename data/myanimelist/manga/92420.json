@@ -13,7 +13,7 @@
   "category": "Manhua",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:09.000Z",
-  "updatedAt": "2021-03-24T10:49:44.000Z",
+  "updatedAt": "2021-06-24T22:45:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,26 +38,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "tiger_x_crane": {
-        "authors": [],
-        "identifier": "tiger_x_crane",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Tiger X Crane",
-        "url": "https://manganelo.com/manga/tiger_x_crane",
-        "image": "https://avt.mkklcdnv6.com/25/d/1-1583464683.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 92420,
-        "aniId": 86682,
-        "createdAt": "2020-10-12T16:25:44.000Z",
-        "updatedAt": "2021-05-20T15:25:52.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "tiger_x_crane": {
         "authors": [
@@ -77,6 +57,28 @@
         "aniId": 86682,
         "createdAt": "2021-03-24T10:49:44.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tiger-x-crane": {
+        "authors": [
+          "Huang Xiao da"
+        ],
+        "identifier": "tiger-x-crane",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tiger x Crane",
+        "url": "https://mangasee123.com/manga/Tiger-X-Crane",
+        "image": "https://cover.nep.li/cover/Tiger-X-Crane.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 92420,
+        "aniId": 86682,
+        "createdAt": "2021-06-24T22:45:29.000Z",
+        "updatedAt": "2021-06-25T15:19:19.000Z",
         "deletedAt": null
       }
     }

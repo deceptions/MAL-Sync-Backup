@@ -14,13 +14,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 135838,
   "createdAt": "2021-06-11T08:38:40.000Z",
-  "updatedAt": "2021-06-11T08:38:40.000Z",
+  "updatedAt": "2021-06-25T18:45:49.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "악녀지만 여주인공이 되겠습니다",
+      "Even Though I’m the Villainess, I’ll Become the Heroine!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Rin-Hae Yoo",
+      "Dwaeji Cake"
+    ],
+    "id": 135838,
+    "malId": null,
+    "type": "manga",
+    "title": "Angnyeojiman Yeojuingongi Doegetseumnida",
+    "url": "https://anilist.co/manga/135838",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135838-VIe0RH4qsxO3.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-18T17:50:50.000Z",
+    "updatedAt": "2021-06-21T18:59:02.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

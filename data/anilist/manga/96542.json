@@ -43,28 +43,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "hotarubi_no_tomoru_koro_ni": {
-        "authors": [
-          "Ryukishi07"
-        ],
-        "identifier": "hotarubi_no_tomoru_koro_ni",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Hotarubi No Tomoru Koro Ni",
-        "url": "https://manganelo.com/manga/hotarubi_no_tomoru_koro_ni",
-        "image": "https://avt.mkklcdnv6.com/27/a/13-1583488713.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 95059,
-        "aniId": 96542,
-        "createdAt": "2020-11-06T12:28:16.000Z",
-        "updatedAt": "2021-05-20T15:25:52.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-tl970394": {
         "authors": [
@@ -84,6 +62,29 @@
         "aniId": 96542,
         "createdAt": "2021-06-18T12:24:41.000Z",
         "updatedAt": "2021-06-18T12:50:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hotarubi-no-tomoru-koro-ni": {
+        "authors": [
+          "KOIKE Nokuto",
+          "Ryukishi07"
+        ],
+        "identifier": "hotarubi-no-tomoru-koro-ni",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hotarubi no Tomoru Koro ni",
+        "url": "https://mangasee123.com/manga/Hotarubi-No-Tomoru-Koro-Ni",
+        "image": "https://cover.nep.li/cover/Hotarubi-No-Tomoru-Koro-Ni.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95059,
+        "aniId": 96542,
+        "createdAt": "2021-06-24T14:14:56.000Z",
+        "updatedAt": "2021-06-24T14:44:53.000Z",
         "deletedAt": null
       }
     }

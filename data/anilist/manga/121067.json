@@ -40,29 +40,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "ql926003": {
-        "authors": [
-          "Urushino",
-          "Rihito"
-        ],
-        "identifier": "ql926003",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Witch Guild Fantasia",
-        "url": "https://manganelo.com/manga/ql926003",
-        "image": "https://avt.mkklcdnv6temp.com/40/f/23-1615509970.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 118695,
-        "aniId": 121067,
-        "createdAt": "2021-03-12T05:09:27.000Z",
-        "updatedAt": "2021-05-20T15:40:31.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "witch_guild_fantasia": {
         "authors": [
@@ -82,6 +59,28 @@
         "aniId": 121067,
         "createdAt": "2021-03-22T22:04:43.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lp988472": {
+        "authors": [
+          "Urushino Rihito"
+        ],
+        "identifier": "manga-lp988472",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Witch Guild Fantasia",
+        "url": "https://manganato.com/manga-lp988472",
+        "image": "https://avt.mkklcdnv6temp.com/40/f/23-1615509970.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118695,
+        "aniId": 121067,
+        "createdAt": "2021-06-22T14:15:01.000Z",
+        "updatedAt": "2021-06-22T14:44:53.000Z",
         "deletedAt": null
       }
     }

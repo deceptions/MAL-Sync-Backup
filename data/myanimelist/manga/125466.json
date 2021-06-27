@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-01T05:01:47.000Z",
-  "updatedAt": "2021-03-09T13:40:34.000Z",
+  "updatedAt": "2021-06-21T10:21:55.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,32 +39,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "ij925043": {
-        "authors": [
-          "Idumi",
-          "Rei",
-          "(Idumiya",
-          "No",
-          "Hon)"
-        ],
-        "identifier": "ij925043",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Fukinoshita-San Is Small",
-        "url": "https://manganelo.com/manga/ij925043",
-        "image": "https://avt.mkklcdnv6.com/50/t/22-1609691300.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 125466,
-        "aniId": 128305,
-        "createdAt": "2021-01-03T23:55:57.000Z",
-        "updatedAt": "2021-05-20T15:29:23.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "fukinoshita_san_wa_se_ga_chiisai": {
         "authors": [
@@ -84,6 +58,28 @@
         "aniId": 128305,
         "createdAt": "2021-01-28T10:20:23.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kd987512": {
+        "authors": [
+          "Idumi Rei (Idumiya No Hon)"
+        ],
+        "identifier": "manga-kd987512",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fukinoshita-San Is Small",
+        "url": "https://manganato.com/manga-kd987512",
+        "image": "https://avt.mkklcdnv6temp.com/50/t/22-1609691300.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125466,
+        "aniId": 128305,
+        "createdAt": "2021-06-21T10:21:53.000Z",
+        "updatedAt": "2021-06-21T10:50:50.000Z",
         "deletedAt": null
       }
     }

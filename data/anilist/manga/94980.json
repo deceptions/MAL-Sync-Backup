@@ -41,23 +41,47 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "oh920168": {
-        "authors": [],
-        "identifier": "oh920168",
+    "MangaNato": {
+      "manga-fc982637": {
+        "authors": [
+          "Osamu Akimoto"
+        ],
+        "identifier": "manga-fc982637",
         "type": "manga",
-        "page": "MangaNelo",
+        "page": "MangaNato",
         "title": "Black Tiger",
-        "url": "https://manganelo.com/manga/oh920168",
-        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1568-oh920168.jpg",
+        "url": "https://readmanganato.com/manga-fc982637",
+        "image": "https://avt.mkklcdnv6temp.com/8/z/19-1583499428.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 101828,
         "aniId": 94980,
-        "createdAt": "2020-10-12T16:24:38.000Z",
-        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "createdAt": "2021-06-21T07:43:31.000Z",
+        "updatedAt": "2021-06-21T07:50:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "black_tiger": {
+        "authors": [
+          "AKIMOTO Osamu"
+        ],
+        "identifier": "black_tiger",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Black Tiger",
+        "url": "https://fanfox.net/manga/black_tiger/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31145/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101828,
+        "aniId": 94980,
+        "createdAt": "2021-06-21T20:44:51.000Z",
+        "updatedAt": "2021-06-21T21:14:51.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-13T19:36:04.000Z",
-  "updatedAt": "2021-04-02T13:30:57.000Z",
+  "updatedAt": "2021-06-25T16:19:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,29 @@
         "aniId": 113774,
         "createdAt": "2021-04-02T13:31:05.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-it985802": {
+        "authors": [
+          "Yamada Touko",
+          "Ooniwa Soto"
+        ],
+        "identifier": "manga-it985802",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Shut-In Lady Is An Understanding Sacred Beast Caretaker",
+        "url": "https://readmanganato.com/manga-it985802",
+        "image": "https://avt.mkklcdnv6temp.com/31/l/21-1592888421.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132855,
+        "aniId": 113774,
+        "createdAt": "2021-06-25T16:19:29.000Z",
+        "updatedAt": "2021-06-25T16:49:19.000Z",
         "deletedAt": null
       }
     }

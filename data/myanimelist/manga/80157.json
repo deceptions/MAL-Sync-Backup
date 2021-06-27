@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:34.000Z",
-  "updatedAt": "2021-05-11T15:18:05.000Z",
+  "updatedAt": "2021-06-24T04:15:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 85571,
         "createdAt": "2020-10-12T16:07:53.000Z",
         "updatedAt": "2021-06-04T05:59:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "rock-me-amadeus": {
+        "authors": [
+          "INABE Kazu"
+        ],
+        "identifier": "rock-me-amadeus",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Rock Me Amadeus",
+        "url": "https://mangasee123.com/manga/Rock-Me-Amadeus",
+        "image": "https://cover.nep.li/cover/Rock-Me-Amadeus.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80157,
+        "aniId": 85571,
+        "createdAt": "2021-06-24T04:15:36.000Z",
+        "updatedAt": "2021-06-24T04:44:53.000Z",
         "deletedAt": null
       }
     }

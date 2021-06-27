@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:57.000Z",
-  "updatedAt": "2021-05-03T07:32:58.000Z",
+  "updatedAt": "2021-06-24T13:46:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 51472,
         "createdAt": "2020-10-12T16:04:36.000Z",
         "updatedAt": "2021-06-02T22:10:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kodomo-no-niwa": {
+        "authors": [
+          "IKUEMI Ryou"
+        ],
+        "identifier": "kodomo-no-niwa",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kodomo no Niwa",
+        "url": "https://mangasee123.com/manga/Kodomo-No-Niwa",
+        "image": "https://cover.nep.li/cover/Kodomo-No-Niwa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21472,
+        "aniId": 51472,
+        "createdAt": "2021-06-24T13:45:10.000Z",
+        "updatedAt": "2021-06-24T14:14:53.000Z",
         "deletedAt": null
       }
     }

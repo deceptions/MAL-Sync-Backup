@@ -41,26 +41,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "kq922078": {
-        "authors": [],
-        "identifier": "kq922078",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Hayasegawa-Kun To Megami Na Onee-San",
-        "url": "https://manganelo.com/manga/kq922078",
-        "image": "https://avt.mkklcdnv6.com/30/g/20-1583502191.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 124320,
-        "aniId": 111763,
-        "createdAt": "2020-10-12T16:24:00.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "hayasegawa_kun_to_megami_na_onee_san": {
         "authors": [
@@ -80,6 +60,28 @@
         "aniId": 111763,
         "createdAt": "2021-02-19T10:33:29.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hm984547": {
+        "authors": [
+          "Chikuwa."
+        ],
+        "identifier": "manga-hm984547",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hayasegawa-Kun To Megami Na Onee-San",
+        "url": "https://manganato.com/manga-hm984547",
+        "image": "https://avt.mkklcdnv6temp.com/30/g/20-1583502191.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124320,
+        "aniId": 111763,
+        "createdAt": "2021-06-24T05:14:53.000Z",
+        "updatedAt": "2021-06-24T05:44:53.000Z",
         "deletedAt": null
       }
     }

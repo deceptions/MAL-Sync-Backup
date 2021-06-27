@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:38.000Z",
-  "updatedAt": "2021-03-03T04:20:15.000Z",
+  "updatedAt": "2021-06-21T07:31:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,44 +40,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "read_akuma_to_love_song": {
-        "authors": [],
-        "identifier": "read_akuma_to_love_song",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Akuma To Love Song",
-        "url": "https://manganelo.com/manga/read_akuma_to_love_song",
-        "image": "https://avt.mkklcdnv6.com/28/e/2-1583466789.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 1896,
-        "aniId": 31896,
-        "createdAt": "2020-10-12T16:25:03.000Z",
-        "updatedAt": "2021-05-20T15:25:51.000Z",
-        "deletedAt": null
-      },
-      "zm920265": {
-        "authors": [],
-        "identifier": "zm920265",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "The Hand of God or Devil",
-        "url": "https://manganelo.com/manga/zm920265",
-        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1665-zm920265.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 1896,
-        "aniId": 31896,
-        "createdAt": "2020-10-12T16:26:32.000Z",
-        "updatedAt": "2021-05-20T15:25:52.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "akuma-to-love-song": {
         "authors": [
@@ -97,6 +59,28 @@
         "aniId": 31896,
         "createdAt": "2021-03-03T04:20:15.000Z",
         "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wx953580": {
+        "authors": [
+          "Tomori Miyoshi"
+        ],
+        "identifier": "manga-wx953580",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Akuma To Love Song",
+        "url": "https://readmanganato.com/manga-wx953580",
+        "image": "https://avt.mkklcdnv6temp.com/28/e/2-1583466789.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1896,
+        "aniId": 31896,
+        "createdAt": "2021-06-21T07:31:05.000Z",
+        "updatedAt": "2021-06-21T07:50:58.000Z",
         "deletedAt": null
       }
     }

@@ -43,29 +43,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "yb924599": {
-        "authors": [
-          "Yoshitaka",
-          "Hana"
-        ],
-        "identifier": "yb924599",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Seijo No Hazu Ga, Douyara Nottoraremashita",
-        "url": "https://manganelo.com/manga/yb924599",
-        "image": "https://avt.mkklcdnv6temp.com/32/m/22-1603767735.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 131397,
-        "aniId": 124813,
-        "createdAt": "2020-10-27T03:42:52.000Z",
-        "updatedAt": "2021-05-20T15:25:52.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "seijo_no_hazu_ga_douyara_nottoraremashita": {
         "authors": [
@@ -108,6 +85,29 @@
         "aniId": 124813,
         "createdAt": "2021-01-23T18:51:19.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jl987068": {
+        "authors": [
+          "Yoshitaka Hana",
+          "Jisama"
+        ],
+        "identifier": "manga-jl987068",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Seijo No Hazu Ga, Douyara Nottoraremashita",
+        "url": "https://manganato.com/manga-jl987068",
+        "image": "https://avt.mkklcdnv6temp.com/32/m/22-1603767735.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131397,
+        "aniId": 124813,
+        "createdAt": "2021-06-21T18:44:51.000Z",
+        "updatedAt": "2021-06-21T19:14:51.000Z",
         "deletedAt": null
       }
     }

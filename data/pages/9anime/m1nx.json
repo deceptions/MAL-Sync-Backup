@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 30210,
-  "aniId": null,
+  "aniId": 103452,
   "createdAt": "2021-06-04T08:19:39.000Z",
-  "updatedAt": "2021-06-04T08:19:39.000Z",
+  "updatedAt": "2021-06-21T21:44:51.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -30,6 +30,23 @@
     "updatedAt": "2021-06-04T08:19:08.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Well, That's Glasses",
+      "そういう眼鏡"
+    ],
+    "externalLinks": [],
+    "id": 103452,
+    "malId": 30210,
+    "type": "anime",
+    "title": "Souiu Megane",
+    "url": "https://anilist.co/anime/103452",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103452-hSPcmqhLHI5m.jpg",
+    "category": "movie",
+    "hentai": false,
+    "createdAt": "2021-06-21T21:14:51.000Z",
+    "updatedAt": "2021-06-21T21:14:51.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/30210/Souiu_Megane"
 }

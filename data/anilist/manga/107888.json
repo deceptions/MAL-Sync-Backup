@@ -41,26 +41,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "pm918454": {
-        "authors": [],
-        "identifier": "pm918454",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Monsters Can't Clean",
-        "url": "https://manganelo.com/manga/pm918454",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/22098-pm918454.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 118197,
-        "aniId": 107888,
-        "createdAt": "2020-10-12T16:24:52.000Z",
-        "updatedAt": "2021-05-20T15:25:51.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "mamono_tachi_wa_katazuke_rarenai": {
         "authors": [
@@ -80,6 +60,28 @@
         "aniId": 107888,
         "createdAt": "2021-02-16T09:06:20.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mamonotachi-wa-katazuke-rarenai": {
+        "authors": [
+          "TAKANO Yuuya"
+        ],
+        "identifier": "mamonotachi-wa-katazuke-rarenai",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mamonotachi wa Katazuke Rarenai",
+        "url": "https://mangasee123.com/manga/Mamonotachi-wa-Katazuke-Rarenai",
+        "image": "https://cover.nep.li/cover/Mamonotachi-wa-Katazuke-Rarenai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118197,
+        "aniId": 107888,
+        "createdAt": "2021-06-25T09:45:22.000Z",
+        "updatedAt": "2021-06-25T10:14:56.000Z",
         "deletedAt": null
       }
     }

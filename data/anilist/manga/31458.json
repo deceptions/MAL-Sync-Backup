@@ -105,6 +105,28 @@
         "updatedAt": "2021-05-20T15:25:53.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "golden-boy": {
+        "authors": [
+          "EGAWA Tatsuya"
+        ],
+        "identifier": "golden-boy",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Golden Boy",
+        "url": "https://mangasee123.com/manga/Golden-Boy",
+        "image": "https://cover.nep.li/cover/Golden-Boy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 1458,
+        "aniId": 31458,
+        "createdAt": "2021-02-17T05:49:48.000Z",
+        "updatedAt": "2021-06-25T15:19:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

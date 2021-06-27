@@ -20,7 +20,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T00:12:58.000Z",
-  "updatedAt": "2021-06-18T04:26:00.000Z",
+  "updatedAt": "2021-06-21T13:51:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,29 @@
         "aniId": 104271,
         "createdAt": "2020-10-12T16:13:34.000Z",
         "updatedAt": "2021-06-06T00:22:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "peerless_dad": {
+        "authors": [
+          "Kyoungchan No",
+          "No Kyoung Chan"
+        ],
+        "identifier": "peerless_dad",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Peerless Dad",
+        "url": "https://fanfox.net/manga/peerless_dad/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27894/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 104271,
+        "createdAt": "2021-01-18T22:32:14.000Z",
+        "updatedAt": "2021-06-24T18:14:55.000Z",
         "deletedAt": null
       }
     }

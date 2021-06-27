@@ -11,13 +11,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 118712,
+  "aniId": 107445,
   "createdAt": "2021-01-02T09:50:21.000Z",
-  "updatedAt": "2021-01-02T09:50:21.000Z",
+  "updatedAt": "2021-06-22T16:19:45.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Yankee-kun and the White Cane Girl, Yan-Garu",
+      "ヤンキー君と白杖ガール"
+    ],
+    "authors": [
+      "Kodama, Jun"
+    ],
+    "id": 118712,
+    "type": "manga",
+    "title": "Yankee-kun to Hakujou Girl",
+    "url": "https://myanimelist.net/manga/118712/Yankee-kun_to_Hakujou_Girl",
+    "image": "https://cdn.myanimelist.net/images/manga/1/217297.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:54.000Z",
+    "updatedAt": "2021-05-31T13:24:06.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ヤンキー君と白杖ガール",
+      "Yan-Garu",
+      "Yankee-kun and the White Cane Girl",
+      "Yankee-kun to Hakujou Gaaru"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Uoyama"
+    ],
+    "id": 107445,
+    "malId": 118712,
+    "type": "manga",
+    "title": "Yankee-kun to Hakujou Girl",
+    "url": "https://anilist.co/manga/107445",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx107445-9Y91podh1R8v.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:58:05.000Z",
+    "updatedAt": "2021-06-18T05:29:12.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/118712/Yankee-kun_to_Hakujou_Girl"
 }

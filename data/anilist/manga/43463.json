@@ -65,26 +65,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "watashi_ni_xx_shinasai": {
-        "authors": [],
-        "identifier": "watashi_ni_xx_shinasai",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Watashi ni xx Shinasai!",
-        "url": "https://manganelo.com/manga/watashi_ni_xx_shinasai",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/1518-watashi_ni_xx_shinasai.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 13463,
-        "aniId": 43463,
-        "createdAt": "2020-10-12T16:26:07.000Z",
-        "updatedAt": "2021-05-20T15:25:52.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "watashi_ni_xx_shinasai": {
         "authors": [
@@ -126,6 +106,28 @@
         "aniId": 43463,
         "createdAt": "2021-04-19T20:14:26.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qt953054": {
+        "authors": [
+          "Tooyama Ema"
+        ],
+        "identifier": "manga-qt953054",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Watashi Ni Xx Shinasai!",
+        "url": "https://manganato.com/manga-qt953054",
+        "image": "https://avt.mkklcdnv6temp.com/10/k/2-1583466103.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13463,
+        "aniId": 43463,
+        "createdAt": "2021-06-22T22:46:04.000Z",
+        "updatedAt": "2021-06-22T23:14:52.000Z",
         "deletedAt": null
       }
     }

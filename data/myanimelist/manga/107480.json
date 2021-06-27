@@ -1,7 +1,9 @@
 {
   "altTitle": [
     "Cross Account",
-    "Haru yo, Koi!, Gachipin., Gesu no Ongaeshi",
+    "Haru yo, Koi!",
+    "Gachipin.",
+    "Gesu no Ongaeshi",
     "クロスアカウント"
   ],
   "authors": [
@@ -15,7 +17,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:06.000Z",
-  "updatedAt": "2021-02-12T16:05:45.000Z",
+  "updatedAt": "2021-06-23T05:14:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,26 +42,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "cross_account": {
-        "authors": [],
-        "identifier": "cross_account",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Cross account",
-        "url": "https://manganelo.com/manga/cross_account",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/19259-cross_account.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 107480,
-        "aniId": 99219,
-        "createdAt": "2020-10-12T16:22:32.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "cross-account": {
         "authors": [
@@ -79,6 +61,28 @@
         "aniId": 99219,
         "createdAt": "2021-02-12T16:05:47.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zv977304": {
+        "authors": [
+          "Date Tsunehiro"
+        ],
+        "identifier": "manga-zv977304",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Cross Account",
+        "url": "https://readmanganato.com/manga-zv977304",
+        "image": "https://avt.mkklcdnv6temp.com/40/d/15-1583493108.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107480,
+        "aniId": 99219,
+        "createdAt": "2021-06-23T05:14:52.000Z",
+        "updatedAt": "2021-06-23T05:44:51.000Z",
         "deletedAt": null
       }
     }

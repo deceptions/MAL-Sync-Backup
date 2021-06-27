@@ -38,26 +38,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "cigarette_cherry": {
-        "authors": [],
-        "identifier": "cigarette_cherry",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Cigarette & Cherry",
-        "url": "https://manganelo.com/manga/cigarette_cherry",
-        "image": "https://avt.mkklcdnv6.com/50/b/16-1583495267.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 112347,
-        "aniId": 102215,
-        "createdAt": "2020-10-12T16:22:29.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "cigarette-and-cherry": {
         "authors": [
@@ -99,6 +79,28 @@
         "aniId": 102215,
         "createdAt": "2021-05-29T01:12:33.000Z",
         "updatedAt": "2021-05-29T01:42:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "cigarette_cherry": {
+        "authors": [
+          "KAWAKAMI Daishirou"
+        ],
+        "identifier": "cigarette_cherry",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cigarette & Cherry",
+        "url": "https://fanfox.net/manga/cigarette_cherry/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27310/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112347,
+        "aniId": 102215,
+        "createdAt": "2021-06-21T07:50:58.000Z",
+        "updatedAt": "2021-06-21T08:20:50.000Z",
         "deletedAt": null
       }
     }

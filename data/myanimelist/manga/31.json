@@ -1,7 +1,8 @@
 {
   "altTitle": [
     "Love★Com",
-    "Love Com Plus, Lovely Complex Plus",
+    "Love Com Plus",
+    "Lovely Complex Plus",
     "ラブ★コン"
   ],
   "authors": [
@@ -15,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:17.000Z",
-  "updatedAt": "2021-05-21T14:13:07.000Z",
+  "updatedAt": "2021-06-22T13:15:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,47 +58,6 @@
         "aniId": 30031,
         "createdAt": "2021-02-10T09:10:50.000Z",
         "updatedAt": "2021-06-08T11:06:17.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNelo": {
-      "lovely_complex": {
-        "authors": [],
-        "identifier": "lovely_complex",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Lovely Complex",
-        "url": "https://manganelo.com/manga/lovely_complex",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/6119-lovely_complex.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 31,
-        "aniId": 30031,
-        "createdAt": "2020-10-12T16:24:11.000Z",
-        "updatedAt": "2021-05-20T15:25:51.000Z",
-        "deletedAt": null
-      },
-      "lovely_complex_plus": {
-        "authors": [
-          "Nakahara",
-          "Aya"
-        ],
-        "identifier": "lovely_complex_plus",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Lovely Complex Plus",
-        "url": "https://manganelo.com/manga/lovely_complex_plus",
-        "image": "https://avt.mkklcdnv6temp.com/37/c/5-1583473349.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 31,
-        "aniId": 30031,
-        "createdAt": "2021-05-21T14:13:07.000Z",
-        "updatedAt": "2021-05-21T14:42:56.000Z",
         "deletedAt": null
       }
     },
@@ -162,6 +122,28 @@
         "aniId": 30031,
         "createdAt": "2021-04-01T12:32:23.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vu958729": {
+        "authors": [
+          "Nakahara Aya"
+        ],
+        "identifier": "manga-vu958729",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Lovely Complex",
+        "url": "https://readmanganato.com/manga-vu958729",
+        "image": "https://avt.mkklcdnv6temp.com/37/d/5-1583473350.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31,
+        "aniId": 30031,
+        "createdAt": "2021-06-22T13:14:53.000Z",
+        "updatedAt": "2021-06-22T13:44:51.000Z",
         "deletedAt": null
       }
     }

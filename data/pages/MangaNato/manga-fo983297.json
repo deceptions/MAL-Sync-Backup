@@ -12,13 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 122649,
+  "aniId": 110342,
   "createdAt": "2021-05-29T01:42:36.000Z",
-  "updatedAt": "2021-05-29T01:42:36.000Z",
+  "updatedAt": "2021-06-21T16:44:51.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "継母の連れ子が元カノだった"
+    ],
+    "authors": [
+      "Kusakabe, Rei",
+      "Kamishiro, Kyousuke"
+    ],
+    "id": 122649,
+    "type": "manga",
+    "title": "Mamahaha no Tsurego ga Motokano datta",
+    "url": "https://myanimelist.net/manga/122649/Mamahaha_no_Tsurego_ga_Motokano_datta",
+    "image": "https://cdn.myanimelist.net/images/manga/1/228509.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:48:09.000Z",
+    "updatedAt": "2021-06-18T04:51:00.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "継母の連れ子が元カノだった",
+      "Mamakano"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Rei Kusakabe",
+      "TakayaKi",
+      " Kyousuke Kamishiro"
+    ],
+    "id": 110342,
+    "malId": 122649,
+    "type": "manga",
+    "title": "Mamahaha no Tsurego ga Moto Kano datta.",
+    "url": "https://anilist.co/manga/110342",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110342-xoJH0oMIf868.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:58:29.000Z",
+    "updatedAt": "2021-06-18T06:28:00.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/122649/Mamahaha_no_Tsurego_ga_Motokano_datta"
 }

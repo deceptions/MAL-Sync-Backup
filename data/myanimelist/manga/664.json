@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:24.000Z",
-  "updatedAt": "2021-05-11T07:12:32.000Z",
+  "updatedAt": "2021-06-26T22:19:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,44 +59,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "akira": {
-        "authors": [],
-        "identifier": "akira",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Akira",
-        "url": "https://manganelo.com/manga/akira",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/7864-akira.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 664,
-        "aniId": 30664,
-        "createdAt": "2020-10-12T16:22:03.000Z",
-        "updatedAt": "2021-05-20T15:25:49.000Z",
-        "deletedAt": null
-      },
-      "on919866": {
-        "authors": [],
-        "identifier": "on919866",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Dankira!!!",
-        "url": "https://manganelo.com/manga/on919866",
-        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1270-on919866.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 664,
-        "aniId": 30664,
-        "createdAt": "2020-10-12T16:24:41.000Z",
-        "updatedAt": "2021-05-20T15:25:51.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "akira": {
         "authors": [
@@ -138,6 +100,28 @@
         "aniId": 30664,
         "createdAt": "2021-03-22T20:05:06.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nn960522": {
+        "authors": [
+          "Otomo Katsuhiro"
+        ],
+        "identifier": "manga-nn960522",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Akira",
+        "url": "https://readmanganato.com/manga-nn960522",
+        "image": "https://avt.mkklcdnv6temp.com/4/s/7-1583476471.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 664,
+        "aniId": 30664,
+        "createdAt": "2021-06-26T22:19:19.000Z",
+        "updatedAt": "2021-06-26T22:49:20.000Z",
         "deletedAt": null
       }
     }

@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 132947,
-  "aniId": null,
+  "aniId": 125591,
   "createdAt": "2020-10-25T17:06:55.000Z",
-  "updatedAt": "2021-06-08T06:36:56.000Z",
+  "updatedAt": "2021-06-22T17:44:51.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,26 @@
     "updatedAt": "2021-06-08T06:20:16.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "花とくちづけ",
+      "Kissing the Flower In Bloom"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Samako Natsu"
+    ],
+    "id": 125591,
+    "malId": 132947,
+    "type": "manga",
+    "title": "Hana to Kuchizuke",
+    "url": "https://anilist.co/manga/125591",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125591-NOaWwgynkvEW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-22T17:14:52.000Z",
+    "updatedAt": "2021-06-22T17:14:52.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/132947/Hana_to_Kuchizuke"
 }

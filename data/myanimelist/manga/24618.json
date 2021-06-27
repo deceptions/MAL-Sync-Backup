@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:14.000Z",
-  "updatedAt": "2021-01-09T04:52:43.000Z",
+  "updatedAt": "2021-06-21T07:43:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,44 +38,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "efxm7411572231779": {
-        "authors": [],
-        "identifier": "efxm7411572231779",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Imori 201",
-        "url": "https://manganelo.com/manga/efxm7411572231779",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/670-imori_201.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 24618,
-        "aniId": 54618,
-        "createdAt": "2020-10-12T16:22:47.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
-        "deletedAt": null
-      },
-      "imori_201": {
-        "authors": [],
-        "identifier": "imori_201",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Imori 201",
-        "url": "https://manganelo.com/manga/imori_201",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/670-imori_201.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 24618,
-        "aniId": 54618,
-        "createdAt": "2020-10-12T16:23:33.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "imori201": {
         "authors": [
@@ -95,6 +57,28 @@
         "aniId": 54618,
         "createdAt": "2021-01-09T04:52:44.000Z",
         "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wp952098": {
+        "authors": [
+          "Imai Yuu"
+        ],
+        "identifier": "manga-wp952098",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Imori 201",
+        "url": "https://manganato.com/manga-wp952098",
+        "image": "https://avt.mkklcdnv6temp.com/27/r/1-1583464779.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24618,
+        "aniId": 54618,
+        "createdAt": "2021-06-21T07:42:50.000Z",
+        "updatedAt": "2021-06-21T07:50:58.000Z",
         "deletedAt": null
       }
     }

@@ -28,29 +28,5 @@
   "createdAt": "2021-05-20T14:40:50.000Z",
   "updatedAt": "2021-06-17T12:57:50.000Z",
   "deletedAt": null,
-  "Pages": {
-    "MangaNelo": {
-      "read_ai_ore_manga_online": {
-        "authors": [
-          "Shinjo",
-          "Mayu"
-        ],
-        "identifier": "read_ai_ore_manga_online",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Ai Ore!",
-        "url": "https://manganelo.com/manga/read_ai_ore_manga_online",
-        "image": "https://avt.mkklcdnv6.com/43/n/3-1583469384.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 8771,
-        "aniId": 38771,
-        "createdAt": "2020-12-27T09:42:10.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      }
-    }
-  }
+  "Pages": {}
 }

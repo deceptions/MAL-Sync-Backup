@@ -8,13 +8,28 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 1,
+  "malId": 49236,
   "aniId": 135866,
   "createdAt": "2021-06-19T17:50:52.000Z",
-  "updatedAt": "2021-06-19T17:50:52.000Z",
+  "updatedAt": "2021-06-21T07:43:15.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "altTitle": [
+      "Saga of Tanya the Evil: Operation Desert Pasta",
+      "幼女戦記 砂漠のパスタ大作戦"
+    ],
+    "id": 49236,
+    "type": "anime",
+    "title": "Youjo Senki: Sabaku no Pasta Daisakusen",
+    "url": "https://myanimelist.net/anime/49236/Youjo_Senki__Sabaku_no_Pasta_Daisakusen",
+    "image": "https://cdn.myanimelist.net/images/anime/1281/115945.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "createdAt": "2021-06-21T07:22:35.000Z",
+    "updatedAt": "2021-06-21T07:22:35.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "Saga of Tanya the Evil: Operation Desert Pasta",
@@ -31,7 +46,7 @@
       }
     ],
     "id": 135866,
-    "malId": null,
+    "malId": 49236,
     "type": "anime",
     "title": "Youjo Senki: Sabaku no Pasta Daisakusen",
     "url": "https://anilist.co/anime/135866",
@@ -42,5 +57,5 @@
     "updatedAt": "2021-06-19T15:50:50.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/anime/49236/Youjo_Senki__Sabaku_no_Pasta_Daisakusen"
 }

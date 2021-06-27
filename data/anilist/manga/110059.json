@@ -47,25 +47,49 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "qs919538": {
+    "MangaSee": {
+      "insos-law": {
         "authors": [
-          "Yuhan"
+          "A Hyeon",
+          "YU Han Ryeo"
         ],
-        "identifier": "qs919538",
+        "identifier": "insos-law",
         "type": "manga",
-        "page": "MangaNelo",
+        "page": "MangaSee",
         "title": "Inso's Law",
-        "url": "https://manganelo.com/manga/qs919538",
+        "url": "https://mangasee123.com/manga/Insos-Law",
+        "image": "https://cover.nep.li/cover/Insos-Law.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 127559,
+        "aniId": 110059,
+        "createdAt": "2020-12-19T11:56:18.000Z",
+        "updatedAt": "2021-06-21T07:50:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ey982007": {
+        "authors": [
+          "Yuhan",
+          "Ahyun"
+        ],
+        "identifier": "manga-ey982007",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Inso's Law",
+        "url": "https://readmanganato.com/manga-ey982007",
         "image": "https://avt.mkklcdnv6temp.com/35/r/18-1583498481.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
+        "actor": 1,
         "malId": 127559,
         "aniId": 110059,
-        "createdAt": "2020-10-12T16:25:00.000Z",
-        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "createdAt": "2021-06-04T06:19:59.000Z",
+        "updatedAt": "2021-06-24T11:02:08.000Z",
         "deletedAt": null
       }
     }

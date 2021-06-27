@@ -33,11 +33,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
-        "malId": 6933,
+        "actor": 1,
+        "malId": null,
         "aniId": 106475,
         "createdAt": "2020-10-12T16:03:03.000Z",
-        "updatedAt": "2021-06-02T11:32:12.000Z",
+        "updatedAt": "2021-06-21T07:57:53.000Z",
         "deletedAt": null
       },
       "529d28c3-cd3e-44dd-b265-6366f86438a0": {
@@ -53,11 +53,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
-        "malId": 6933,
+        "actor": 1,
+        "malId": null,
         "aniId": 106475,
         "createdAt": "2020-10-12T16:03:03.000Z",
-        "updatedAt": "2021-06-02T11:32:32.000Z",
+        "updatedAt": "2021-06-21T07:57:50.000Z",
         "deletedAt": null
       },
       "86f2b731-aec3-4596-9f87-5573a201d561": {
@@ -138,26 +138,6 @@
         "aniId": 106475,
         "createdAt": "2020-10-12T16:09:52.000Z",
         "updatedAt": "2021-06-19T12:14:07.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNelo": {
-      "children_cant_choose_their_parents": {
-        "authors": [],
-        "identifier": "children_cant_choose_their_parents",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Children Can't Choose Their Parents",
-        "url": "https://manganelo.com/manga/children_cant_choose_their_parents",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/18894-children_cant_choose_their_parents.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 6933,
-        "aniId": 106475,
-        "createdAt": "2020-10-12T16:22:27.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
         "deletedAt": null
       }
     }

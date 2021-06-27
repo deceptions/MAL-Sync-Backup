@@ -44,26 +44,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "gto_shonan_14_days": {
-        "authors": [],
-        "identifier": "gto_shonan_14_days",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "GTO: Shonan 14 Days",
-        "url": "https://manganelo.com/manga/gto_shonan_14_days",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/4665-gto_shonan_14_days.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 14531,
-        "aniId": 44531,
-        "createdAt": "2020-10-12T16:23:10.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "g-t-o-shonan14-days": {
         "authors": [
@@ -105,6 +85,28 @@
         "aniId": 44531,
         "createdAt": "2021-06-02T14:32:02.000Z",
         "updatedAt": "2021-06-02T15:00:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "gto_shonan_14_days": {
+        "authors": [
+          "FUJISAWA Tohru"
+        ],
+        "identifier": "gto_shonan_14_days",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "GTO: Shonan 14 Days",
+        "url": "https://fanfox.net/manga/gto_shonan_14_days/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6099/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14531,
+        "aniId": 44531,
+        "createdAt": "2021-06-24T10:45:56.000Z",
+        "updatedAt": "2021-06-24T11:14:53.000Z",
         "deletedAt": null
       }
     }

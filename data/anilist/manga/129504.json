@@ -11,7 +11,7 @@
     "Bin Sakamoto"
   ],
   "id": 129504,
-  "malId": null,
+  "malId": 133469,
   "type": "manga",
   "title": "Gyakkou Shita Akuyaku Reijou wa, Naze ka Maryoku wo Ushinattanode Shinsou no Reijou ni Narimasu",
   "url": "https://anilist.co/manga/129504",
@@ -19,7 +19,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-26T01:08:18.000Z",
-  "updatedAt": "2021-06-18T11:37:33.000Z",
+  "updatedAt": "2021-06-21T17:20:02.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "2022a7a1-59fb-446b-a37c-8bb3fed9a632": {
+        "authors": [
+          "Aoi",
+          "Sakamotobin"
+        ],
+        "identifier": "2022a7a1-59fb-446b-a37c-8bb3fed9a632",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Villainess Who Traveled Back in Time Inexplicably Lost Her Magic, so She Went Into Seclusion",
+        "url": "https://mangadex.org/title/2022a7a1-59fb-446b-a37c-8bb3fed9a632",
+        "image": "https://uploads.mangadex.org/covers/2022a7a1-59fb-446b-a37c-8bb3fed9a632/d9cec654-4cb3-4618-a73a-b427436b2e5d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 133469,
+        "aniId": 129504,
+        "createdAt": "2021-02-05T22:50:05.000Z",
+        "updatedAt": "2021-06-21T17:44:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

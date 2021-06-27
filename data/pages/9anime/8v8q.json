@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 8677,
-  "aniId": null,
+  "aniId": 8677,
   "createdAt": "2021-05-23T13:43:49.000Z",
-  "updatedAt": "2021-05-23T13:43:49.000Z",
+  "updatedAt": "2021-06-22T10:14:51.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -30,6 +30,25 @@
     "updatedAt": "2021-05-23T13:43:18.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "三国志",
+      "Romance of the Three Kingdoms",
+      "Sangokushi I",
+      "Sangokushi (special)"
+    ],
+    "externalLinks": [],
+    "id": 8677,
+    "malId": 8677,
+    "type": "anime",
+    "title": "Sangokushi",
+    "url": "https://anilist.co/anime/8677",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8677-luDOmZo7bRb1.png",
+    "category": "special",
+    "hentai": false,
+    "createdAt": "2021-06-22T09:44:52.000Z",
+    "updatedAt": "2021-06-22T09:44:52.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/8677/Sangokushi_1985"
 }

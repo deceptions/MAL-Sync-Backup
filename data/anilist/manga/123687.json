@@ -42,26 +42,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "bu924312": {
-        "authors": [],
-        "identifier": "bu924312",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "From The Red Fog",
-        "url": "https://manganelo.com/manga/bu924312",
-        "image": "https://avt.mkklcdnv6.com/20/q/22-1601270602.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 129984,
-        "aniId": 123687,
-        "createdAt": "2020-10-12T16:22:22.000Z",
-        "updatedAt": "2021-05-20T15:25:49.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "from-the-red-fog": {
         "authors": [
@@ -103,6 +83,28 @@
         "aniId": 123687,
         "createdAt": "2021-02-01T16:02:36.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jy986781": {
+        "authors": [
+          "Nohara Mosae"
+        ],
+        "identifier": "manga-jy986781",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "From The Red Fog",
+        "url": "https://manganato.com/manga-jy986781",
+        "image": "https://avt.mkklcdnv6temp.com/20/q/22-1601270602.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129984,
+        "aniId": 123687,
+        "createdAt": "2021-06-22T08:46:02.000Z",
+        "updatedAt": "2021-06-22T09:14:51.000Z",
         "deletedAt": null
       }
     }

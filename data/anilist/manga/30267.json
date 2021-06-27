@@ -43,26 +43,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "jzde76471556853820": {
-        "authors": [],
-        "identifier": "jzde76471556853820",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Hellsing",
-        "url": "https://manganelo.com/manga/jzde76471556853820",
-        "image": "https://avt.mkklcdnv6.com/47/x/5-1583473765.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 267,
-        "aniId": 30267,
-        "createdAt": "2020-10-12T16:23:48.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "hellsing": {
         "authors": [
@@ -82,6 +62,28 @@
         "aniId": 30267,
         "createdAt": "2021-01-31T09:02:08.000Z",
         "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yv959004": {
+        "authors": [
+          "Hirano Kouta"
+        ],
+        "identifier": "manga-yv959004",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hellsing",
+        "url": "https://manganato.com/manga-yv959004",
+        "image": "https://avt.mkklcdnv6temp.com/47/x/5-1583473765.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 267,
+        "aniId": 30267,
+        "createdAt": "2021-06-21T07:39:31.000Z",
+        "updatedAt": "2021-06-21T07:50:58.000Z",
         "deletedAt": null
       }
     }

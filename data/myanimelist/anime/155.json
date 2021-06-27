@@ -1,7 +1,8 @@
 {
   "altTitle": [
     "X - The Movie",
-    "X 1999, X (1996)",
+    "X 1999",
+    "X (1996)",
     "エックス, X/1999"
   ],
   "id": 155,
@@ -12,7 +13,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:00.000Z",
-  "updatedAt": "2021-04-12T19:15:37.000Z",
+  "updatedAt": "2021-06-21T07:41:09.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +49,25 @@
         "aniId": 155,
         "createdAt": "2020-10-12T19:04:47.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "x1999-movie": {
+        "identifier": "x1999-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "X/1999 Movie",
+        "url": "https://gogoanime.ai/category/x1999-movie",
+        "image": "https://gogocdn.net/images/anime/X/X-1999-movie.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 155,
+        "aniId": 155,
+        "createdAt": "2020-10-12T16:02:16.000Z",
+        "updatedAt": "2021-06-21T08:50:50.000Z",
         "deletedAt": null
       }
     }

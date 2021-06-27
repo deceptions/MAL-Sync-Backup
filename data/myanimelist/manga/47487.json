@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:29.000Z",
-  "updatedAt": "2021-05-07T10:17:51.000Z",
+  "updatedAt": "2021-06-20T05:21:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,23 +38,25 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "momo_no_musume": {
-        "authors": [],
-        "identifier": "momo_no_musume",
+    "MangaNato": {
+      "manga-ho957271": {
+        "authors": [
+          "Boichi"
+        ],
+        "identifier": "manga-ho957271",
         "type": "manga",
-        "page": "MangaNelo",
-        "title": "Momo no Musume!",
-        "url": "https://manganelo.com/manga/momo_no_musume",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/4898-momo_no_musume.jpg",
+        "page": "MangaNato",
+        "title": "Momo No Musume!",
+        "url": "https://manganato.com/manga-ho957271",
+        "image": "https://avt.mkklcdnv6temp.com/40/b/4-1583471335.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 47487,
         "aniId": 77487,
-        "createdAt": "2020-10-12T16:24:21.000Z",
-        "updatedAt": "2021-05-20T15:25:51.000Z",
+        "createdAt": "2021-06-20T05:21:01.000Z",
+        "updatedAt": "2021-06-20T05:50:50.000Z",
         "deletedAt": null
       }
     }

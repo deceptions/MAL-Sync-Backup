@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:24.000Z",
-  "updatedAt": "2021-05-19T17:01:34.000Z",
+  "updatedAt": "2021-06-21T07:21:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,29 +39,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "ae924058": {
-        "authors": [
-          "Watanabe",
-          "Shizumu"
-        ],
-        "identifier": "ae924058",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Tricks Dedicated To Witches",
-        "url": "https://manganelo.com/manga/ae924058",
-        "image": "https://avt.mkklcdnv6.com/10/m/22-1599501923.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 2,
-        "malId": 129431,
-        "aniId": 123067,
-        "createdAt": "2020-10-12T16:22:01.000Z",
-        "updatedAt": "2021-05-20T15:25:49.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "tricks-dedicated-to-witches": {
         "authors": [
@@ -81,6 +58,28 @@
         "aniId": 123067,
         "createdAt": "2021-02-12T22:35:53.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-js986527": {
+        "authors": [
+          "Watanabe Shizumu"
+        ],
+        "identifier": "manga-js986527",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tricks Dedicated To Witches",
+        "url": "https://manganato.com/manga-js986527",
+        "image": "https://avt.mkklcdnv6temp.com/10/m/22-1599501923.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129431,
+        "aniId": 123067,
+        "createdAt": "2021-06-25T14:49:29.000Z",
+        "updatedAt": "2021-06-25T15:19:19.000Z",
         "deletedAt": null
       }
     }

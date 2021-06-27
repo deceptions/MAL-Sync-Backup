@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:28.000Z",
-  "updatedAt": "2021-05-11T06:12:11.000Z",
+  "updatedAt": "2021-06-22T04:15:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,23 +39,25 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "ayame_14": {
-        "authors": [],
-        "identifier": "ayame_14",
+    "MangaNato": {
+      "manga-uf961188": {
+        "authors": [
+          "Amano Shuninta"
+        ],
+        "identifier": "manga-uf961188",
         "type": "manga",
-        "page": "MangaNelo",
+        "page": "MangaNato",
         "title": "Ayame 14",
-        "url": "https://manganelo.com/manga/ayame_14",
-        "image": "https://avt.mkklcdnv6.com/28/u/7-1583477353.jpg",
+        "url": "https://manganato.com/manga-uf961188",
+        "image": "https://avt.mkklcdnv6temp.com/28/u/7-1583477353.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 77523,
         "aniId": 85427,
-        "createdAt": "2020-10-12T16:22:11.000Z",
-        "updatedAt": "2021-05-20T15:25:49.000Z",
+        "createdAt": "2021-06-22T04:14:51.000Z",
+        "updatedAt": "2021-06-22T04:44:51.000Z",
         "deletedAt": null
       }
     }

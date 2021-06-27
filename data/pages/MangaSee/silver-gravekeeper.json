@@ -11,14 +11,37 @@
   "image": "https://cover.nep.li/cover/Silver-Gravekeeper.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 87140,
   "createdAt": "2021-01-06T04:56:46.000Z",
-  "updatedAt": "2021-01-06T04:56:46.000Z",
+  "updatedAt": "2021-06-22T20:15:59.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Last Tomb Keeper",
+      "银之守墓人",
+      "Silver Gravekeeper",
+      "The Silver Guardian"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Zero League",
+      "Yuebing"
+    ],
+    "id": 87140,
+    "malId": null,
+    "type": "manga",
+    "title": "Yin Zhi Shoumuren",
+    "url": "https://anilist.co/manga/87140",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/57140-uVyduAVosgbw.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-02T00:01:16.000Z",
+    "updatedAt": "2021-06-21T13:21:45.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

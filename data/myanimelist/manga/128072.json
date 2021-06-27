@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:23.000Z",
-  "updatedAt": "2021-03-16T03:32:51.000Z",
+  "updatedAt": "2021-06-24T21:45:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 120545,
         "createdAt": "2021-03-16T03:32:51.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-it985902": {
+        "authors": [
+          "Kakitsubata Waka"
+        ],
+        "identifier": "manga-it985902",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Zense Coupling",
+        "url": "https://manganato.com/manga-it985902",
+        "image": "https://avt.mkklcdnv6temp.com/35/p/21-1595565059.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128072,
+        "aniId": 120545,
+        "createdAt": "2021-06-24T21:45:04.000Z",
+        "updatedAt": "2021-06-24T22:14:53.000Z",
         "deletedAt": null
       }
     }

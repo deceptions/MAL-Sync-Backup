@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:42.000Z",
-  "updatedAt": "2021-04-27T13:20:31.000Z",
+  "updatedAt": "2021-06-25T16:49:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 32334,
         "createdAt": "2020-10-12T16:03:15.000Z",
         "updatedAt": "2021-06-02T12:43:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tr955874": {
+        "authors": [
+          "Ando Keishuu"
+        ],
+        "identifier": "manga-tr955874",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ultimate!! Hentai Kamen",
+        "url": "https://manganato.com/manga-tr955874",
+        "image": "https://avt.mkklcdnv6temp.com/44/l/3-1583469424.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 2334,
+        "aniId": 32334,
+        "createdAt": "2021-06-25T16:49:30.000Z",
+        "updatedAt": "2021-06-26T09:49:19.000Z",
         "deletedAt": null
       }
     }

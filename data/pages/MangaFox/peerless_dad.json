@@ -11,14 +11,38 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/27894/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 104271,
   "createdAt": "2021-01-18T22:32:14.000Z",
-  "updatedAt": "2021-04-19T08:14:18.000Z",
+  "updatedAt": "2021-06-24T18:14:55.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Father, Unrivaled",
+      "아비무쌍",
+      "Abyssinian",
+      "Peerless Dad",
+      "Matchless Dad"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gyeong-Chan No",
+      "Hyeon-Seok Lee"
+    ],
+    "id": 104271,
+    "malId": null,
+    "type": "manga",
+    "title": "Abimussang",
+    "url": "https://anilist.co/manga/104271",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104271-FOwN1FxG6upG.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T00:12:58.000Z",
+    "updatedAt": "2021-06-21T13:51:43.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

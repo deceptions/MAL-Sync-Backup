@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:16.000Z",
-  "updatedAt": "2021-04-13T18:45:38.000Z",
+  "updatedAt": "2021-06-20T05:21:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,26 +61,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "xezm40331572013415": {
-        "authors": [],
-        "identifier": "xezm40331572013415",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Joshiraku",
-        "url": "https://manganelo.com/manga/xezm40331572013415",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/3483-joshiraku.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 16104,
-        "aniId": 46104,
-        "createdAt": "2020-10-12T16:26:14.000Z",
-        "updatedAt": "2021-05-20T15:25:52.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "joshiraku": {
         "authors": [
@@ -100,6 +80,28 @@
         "aniId": 46104,
         "createdAt": "2021-04-13T18:45:39.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-oh955390": {
+        "authors": [
+          "Kumeta Kouji"
+        ],
+        "identifier": "manga-oh955390",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Joshiraku",
+        "url": "https://readmanganato.com/manga-oh955390",
+        "image": "https://avt.mkklcdnv6temp.com/35/z/3-1583469090.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16104,
+        "aniId": 46104,
+        "createdAt": "2021-06-20T05:21:11.000Z",
+        "updatedAt": "2021-06-20T05:50:50.000Z",
         "deletedAt": null
       }
     }

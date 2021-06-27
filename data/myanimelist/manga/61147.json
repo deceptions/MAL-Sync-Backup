@@ -1,6 +1,10 @@
 {
   "altTitle": [
-    "Fate/Extra CCC FoxTail, Fate/Extra: Miko-n! Cas-ko-chan!?, Fate/Extra: Mikoon! Kyasuko-chan!?, Fate/Extra: Mikoon! Caster Kitsune-chan!?, Miko-n! Casko-chan!?",
+    "Fate/Extra CCC FoxTail",
+    "Fate/Extra: Miko-n! Cas-ko-chan!?",
+    "Fate/Extra: Mikoon! Kyasuko-chan!?",
+    "Fate/Extra: Mikoon! Caster Kitsune-chan!?",
+    "Miko-n! Casko-chan!?",
     "Fate/EXTRA CCC FoxTail"
   ],
   "authors": [
@@ -15,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:00.000Z",
-  "updatedAt": "2021-03-21T00:34:51.000Z",
+  "updatedAt": "2021-06-25T16:20:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,62 +45,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "fateextra": {
-        "authors": [],
-        "identifier": "fateextra",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Fate/extra",
-        "url": "https://manganelo.com/manga/fateextra",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/10097-fateextra.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 61147,
-        "aniId": 87200,
-        "createdAt": "2020-10-12T16:22:53.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
-        "deletedAt": null
-      },
-      "fateextra_ccc_foxtail": {
-        "authors": [],
-        "identifier": "fateextra_ccc_foxtail",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Fate/Extra CCC - Foxtail",
-        "url": "https://manganelo.com/manga/fateextra_ccc_foxtail",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/16968-fateextra_ccc_foxtail.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 61147,
-        "aniId": 87200,
-        "createdAt": "2020-10-12T16:22:53.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
-        "deletedAt": null
-      },
-      "zx922286": {
-        "authors": [],
-        "identifier": "zx922286",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Foxtail",
-        "url": "https://manganelo.com/manga/zx922286",
-        "image": "https://avt.mkklcdnv6.com/38/f/20-1583502515.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 61147,
-        "aniId": 87200,
-        "createdAt": "2020-10-12T16:26:34.000Z",
-        "updatedAt": "2021-05-20T15:25:52.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "fate_extra_ccc_foxtail": {
         "authors": [
@@ -116,6 +64,29 @@
         "aniId": 87200,
         "createdAt": "2021-03-21T00:34:51.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-uh971842": {
+        "authors": [
+          "Type-Moon",
+          "Takenoko Seijin"
+        ],
+        "identifier": "manga-uh971842",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fate/extra Ccc - Foxtail",
+        "url": "https://manganato.com/manga-uh971842",
+        "image": "https://avt.mkklcdnv6temp.com/3/a/14-1583489794.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61147,
+        "aniId": 87200,
+        "createdAt": "2021-06-25T16:20:01.000Z",
+        "updatedAt": "2021-06-25T16:49:19.000Z",
         "deletedAt": null
       }
     }

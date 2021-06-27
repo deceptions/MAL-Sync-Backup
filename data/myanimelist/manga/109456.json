@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:15.000Z",
-  "updatedAt": "2021-01-29T10:26:48.000Z",
+  "updatedAt": "2021-06-25T02:45:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,29 +39,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "back_to_the_kaasan": {
-        "authors": [
-          "Furumoto",
-          "Takeru"
-        ],
-        "identifier": "back_to_the_kaasan",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Back To The Kaasan",
-        "url": "https://manganelo.com/manga/back_to_the_kaasan",
-        "image": "https://avt.mkklcdnv6.com/2/n/17-1583495351.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 109456,
-        "aniId": 100763,
-        "createdAt": "2020-11-19T18:21:00.000Z",
-        "updatedAt": "2021-05-20T15:25:52.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "back_to_the_kaasan": {
         "authors": [
@@ -81,6 +58,28 @@
         "aniId": 100763,
         "createdAt": "2020-12-23T16:26:04.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "back-to-the-kaasan": {
+        "authors": [
+          "FURUMOTO Takeru"
+        ],
+        "identifier": "back-to-the-kaasan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Back to the Kaasan",
+        "url": "https://mangasee123.com/manga/Back-To-The-Kaasan",
+        "image": "https://cover.nep.li/cover/Back-To-The-Kaasan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109456,
+        "aniId": 100763,
+        "createdAt": "2021-06-25T02:45:12.000Z",
+        "updatedAt": "2021-06-25T03:14:54.000Z",
         "deletedAt": null
       }
     }

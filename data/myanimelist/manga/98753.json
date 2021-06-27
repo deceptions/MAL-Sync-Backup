@@ -40,26 +40,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "jc918701": {
-        "authors": [],
-        "identifier": "jc918701",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Adachi to Shimamura",
-        "url": "https://manganelo.com/manga/jc918701",
-        "image": "https://avt.mkklcdnv3.com/avatar_225_new/110-jc918701.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 98753,
-        "aniId": 98797,
-        "createdAt": "2020-10-12T16:23:40.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "adachi_to_shimamura": {
         "authors": [
@@ -122,6 +102,27 @@
         "aniId": 98797,
         "createdAt": "2021-06-03T14:49:38.000Z",
         "updatedAt": "2021-06-03T15:18:57.000Z",
+        "deletedAt": null
+      },
+      "manga-fo982449": {
+        "authors": [
+          "Hitoma Iruma",
+          "Moke Yuzuhara"
+        ],
+        "identifier": "manga-fo982449",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Adachi To Shimamura (Moke Yuzuhara)",
+        "url": "https://manganato.com/manga-fo982449",
+        "image": "https://avt.mkklcdnv6temp.com/2/f/19-1583499149.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98753,
+        "aniId": 98797,
+        "createdAt": "2021-06-25T11:45:13.000Z",
+        "updatedAt": "2021-06-25T12:14:56.000Z",
         "deletedAt": null
       }
     }

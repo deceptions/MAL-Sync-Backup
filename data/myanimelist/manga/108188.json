@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:08.000Z",
-  "updatedAt": "2021-04-24T01:56:58.000Z",
+  "updatedAt": "2021-06-21T07:30:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,23 +38,25 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "tu919164": {
-        "authors": [],
-        "identifier": "tu919164",
+    "MangaNato": {
+      "manga-ey981633": {
+        "authors": [
+          "Suzu Yuuma"
+        ],
+        "identifier": "manga-ey981633",
         "type": "manga",
-        "page": "MangaNelo",
+        "page": "MangaNato",
         "title": "Koi Ni Koisuru Yukari-Chan",
-        "url": "https://manganelo.com/manga/tu919164",
-        "image": "https://avt.mkklcdnv6.com/22/e/18-1583497963.jpg",
+        "url": "https://manganato.com/manga-ey981633",
+        "image": "https://avt.mkklcdnv6temp.com/22/e/18-1583497963.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 108188,
         "aniId": 99550,
-        "createdAt": "2020-10-12T16:25:51.000Z",
-        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "createdAt": "2021-06-21T07:29:52.000Z",
+        "updatedAt": "2021-06-21T07:50:58.000Z",
         "deletedAt": null
       }
     }

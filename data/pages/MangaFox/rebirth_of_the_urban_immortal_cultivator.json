@@ -10,14 +10,36 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/31956/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 110744,
   "createdAt": "2020-11-05T17:59:27.000Z",
-  "updatedAt": "2021-05-17T09:24:50.000Z",
+  "updatedAt": "2021-06-25T02:15:10.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Rebirth Of The Urban Immortal Cultivator",
+      "重生之都市修仙",
+      "Rebirth: City Cultivation"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shili Jianshen",
+      "Uncle Zhong"
+    ],
+    "id": 110744,
+    "malId": null,
+    "type": "manga",
+    "title": "Chongsheng Zhi Dushi Xiuxian",
+    "url": "https://anilist.co/manga/110744",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b110744-ctiHh0o1FHQ5.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T21:12:57.000Z",
+    "updatedAt": "2021-06-21T14:26:12.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

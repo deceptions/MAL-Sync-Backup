@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-17T21:20:50.000Z",
-  "updatedAt": "2021-06-17T21:20:50.000Z",
+  "updatedAt": "2021-06-21T16:27:21.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "90edb7ef-a812-48e4-bc72-164f703f2027": {
+        "authors": [
+          "Yoon Choa",
+          "Kim Su Yeon"
+        ],
+        "identifier": "90edb7ef-a812-48e4-bc72-164f703f2027",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My younger bad man",
+        "url": "https://mangadex.org/title/90edb7ef-a812-48e4-bc72-164f703f2027",
+        "image": "https://uploads.mangadex.org/covers/90edb7ef-a812-48e4-bc72-164f703f2027/1e406e13-3a9d-432d-a8cc-a3740c40f902.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 124834,
+        "createdAt": "2021-06-25T22:19:22.000Z",
+        "updatedAt": "2021-06-26T09:29:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

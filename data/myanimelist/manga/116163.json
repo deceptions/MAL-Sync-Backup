@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:42.000Z",
-  "updatedAt": "2021-03-12T10:39:06.000Z",
+  "updatedAt": "2021-06-25T08:15:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,26 +40,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "cp917620": {
-        "authors": [],
-        "identifier": "cp917620",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Do You Like The Otaku School Nurse?",
-        "url": "https://manganelo.com/manga/cp917620",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/21240-cp917620.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 116163,
-        "aniId": 104605,
-        "createdAt": "2020-10-12T16:22:31.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "hokenshitsu-no-otaku-onee-san-wa-suki-desu-ka": {
         "authors": [
@@ -79,6 +59,28 @@
         "aniId": 104605,
         "createdAt": "2021-03-12T10:39:07.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cg980089": {
+        "authors": [
+          "Arata Kawabata"
+        ],
+        "identifier": "manga-cg980089",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Do You Like The Otaku School Nurse?",
+        "url": "https://manganato.com/manga-cg980089",
+        "image": "https://avt.mkklcdnv6temp.com/15/r/17-1583495827.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116163,
+        "aniId": 104605,
+        "createdAt": "2021-06-25T08:15:06.000Z",
+        "updatedAt": "2021-06-25T08:44:56.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T18:05:10.000Z",
-  "updatedAt": "2021-01-02T06:51:02.000Z",
+  "updatedAt": "2021-06-20T16:21:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,29 +39,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "ik924434": {
-        "authors": [
-          "Nogizaka",
-          "Tarou"
-        ],
-        "identifier": "ik924434",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Natsume Arata No Kekkon",
-        "url": "https://manganelo.com/manga/ik924434",
-        "image": "https://avt.mkklcdnv6.com/25/q/22-1601955850.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 130277,
-        "aniId": 121817,
-        "createdAt": "2020-10-12T18:21:17.000Z",
-        "updatedAt": "2021-05-20T15:25:52.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "natsume-arata-no-kekkon": {
         "authors": [
@@ -81,6 +58,28 @@
         "aniId": 121817,
         "createdAt": "2021-01-02T06:51:03.000Z",
         "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ju986903": {
+        "authors": [
+          "Nogizaka Tarou"
+        ],
+        "identifier": "manga-ju986903",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Natsume Arata No Kekkon",
+        "url": "https://readmanganato.com/manga-ju986903",
+        "image": "https://avt.mkklcdnv6temp.com/25/q/22-1601955850.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130277,
+        "aniId": 121817,
+        "createdAt": "2021-06-20T16:21:00.000Z",
+        "updatedAt": "2021-06-20T16:50:50.000Z",
         "deletedAt": null
       }
     }

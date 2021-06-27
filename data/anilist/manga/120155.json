@@ -8,7 +8,7 @@
     "Kou Nikaidou"
   ],
   "id": 120155,
-  "malId": null,
+  "malId": 132736,
   "type": "manga",
   "title": "Nikaidou Kou Tanpenshuu: Arigatou tte Itte",
   "url": "https://anilist.co/manga/120155",
@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-08T01:52:48.000Z",
-  "updatedAt": "2021-06-18T09:25:41.000Z",
+  "updatedAt": "2021-06-21T15:48:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,48 @@
         "aniId": 120155,
         "createdAt": "2020-10-12T16:21:09.000Z",
         "updatedAt": "2021-06-08T06:58:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "nikaidou_kou_tanpenshuu_arigatou_tte_itte": {
+        "authors": [
+          "NIKAIDOU Kou"
+        ],
+        "identifier": "nikaidou_kou_tanpenshuu_arigatou_tte_itte",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Nikaidou Kou Tanpenshuu: Arigatou tte Itte",
+        "url": "https://fanfox.net/manga/nikaidou_kou_tanpenshuu_arigatou_tte_itte/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37279/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132736,
+        "aniId": 120155,
+        "createdAt": "2021-01-15T16:02:40.000Z",
+        "updatedAt": "2021-06-21T16:14:51.000Z",
+        "deletedAt": null
+      },
+      "nikaidou_kou_tanpenshuu_arigatou_te_itte": {
+        "authors": [
+          "NIKAIDOU Kou"
+        ],
+        "identifier": "nikaidou_kou_tanpenshuu_arigatou_te_itte",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Nikaidou Kou Tanpenshuu Arigatou Te Itte",
+        "url": "https://fanfox.net/manga/nikaidou_kou_tanpenshuu_arigatou_te_itte/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36084/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132736,
+        "aniId": 120155,
+        "createdAt": "2021-05-17T02:55:26.000Z",
+        "updatedAt": "2021-06-21T16:14:51.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-16T04:06:38.000Z",
-  "updatedAt": "2021-04-19T03:44:23.000Z",
+  "updatedAt": "2021-06-25T00:45:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,28 +39,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "bl919749": {
-        "authors": [
-          "Rasupe"
-        ],
-        "identifier": "bl919749",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "The Troubles Of A Fortune Teller",
-        "url": "https://manganelo.com/manga/bl919749",
-        "image": "https://avt.mkklcdnv6temp.com/43/m/18-1583498786.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 131887,
-        "aniId": 113064,
-        "createdAt": "2020-10-12T16:22:17.000Z",
-        "updatedAt": "2021-05-20T15:25:49.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "the_troubles_of_a_fortune_teller": {
         "authors": [
@@ -80,6 +58,28 @@
         "aniId": 113064,
         "createdAt": "2021-04-19T03:44:23.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ej982218": {
+        "authors": [
+          "Rasupe"
+        ],
+        "identifier": "manga-ej982218",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Troubles Of A Fortune Teller",
+        "url": "https://manganato.com/manga-ej982218",
+        "image": "https://avt.mkklcdnv6temp.com/43/m/18-1583498786.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131887,
+        "aniId": 113064,
+        "createdAt": "2021-06-25T00:45:03.000Z",
+        "updatedAt": "2021-06-25T01:14:53.000Z",
         "deletedAt": null
       }
     }

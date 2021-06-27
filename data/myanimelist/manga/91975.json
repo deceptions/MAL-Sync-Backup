@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:08.000Z",
-  "updatedAt": "2021-03-16T15:03:37.000Z",
+  "updatedAt": "2021-06-23T06:15:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,26 +36,6 @@
         "aniId": 98802,
         "createdAt": "2020-10-12T16:08:48.000Z",
         "updatedAt": "2021-06-04T12:50:28.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNelo": {
-      "senpai_sore_hitokuchi_kudasai": {
-        "authors": [],
-        "identifier": "senpai_sore_hitokuchi_kudasai",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Senpai, Sore Hitokuchi Kudasai!",
-        "url": "https://manganelo.com/manga/senpai_sore_hitokuchi_kudasai",
-        "image": "https://avt.mkklcdnv6.com/24/i/2-1583466643.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 91975,
-        "aniId": 98802,
-        "createdAt": "2020-10-12T16:25:22.000Z",
-        "updatedAt": "2021-05-20T15:25:51.000Z",
         "deletedAt": null
       }
     },
@@ -100,6 +80,28 @@
         "aniId": 98802,
         "createdAt": "2021-03-16T15:03:38.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vk953467": {
+        "authors": [
+          "Mizu Asato"
+        ],
+        "identifier": "manga-vk953467",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Senpai, Sore Hitokuchi Kudasai!",
+        "url": "https://manganato.com/manga-vk953467",
+        "image": "https://avt.mkklcdnv6temp.com/24/i/2-1583466643.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91975,
+        "aniId": 98802,
+        "createdAt": "2021-06-23T06:14:58.000Z",
+        "updatedAt": "2021-06-23T06:44:51.000Z",
         "deletedAt": null
       }
     }

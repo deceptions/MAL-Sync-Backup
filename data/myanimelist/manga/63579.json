@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:05.000Z",
-  "updatedAt": "2021-02-26T20:26:29.000Z",
+  "updatedAt": "2021-06-24T07:45:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,26 +36,6 @@
         "aniId": 85262,
         "createdAt": "2020-10-12T16:07:00.000Z",
         "updatedAt": "2021-06-03T23:36:58.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNelo": {
-      "aizawasan_zoushoku": {
-        "authors": [],
-        "identifier": "aizawasan_zoushoku",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Aizawa-San Zoushoku",
-        "url": "https://manganelo.com/manga/aizawasan_zoushoku",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/1004-aizawasan_zoushoku.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 63579,
-        "aniId": 85262,
-        "createdAt": "2020-10-12T16:22:02.000Z",
-        "updatedAt": "2021-05-20T15:25:49.000Z",
         "deletedAt": null
       }
     },
@@ -100,6 +80,28 @@
         "aniId": 85262,
         "createdAt": "2021-02-26T20:26:29.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lp952472": {
+        "authors": [
+          "Shiki Seiichi"
+        ],
+        "identifier": "manga-lp952472",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Aizawa-San Zoushoku",
+        "url": "https://manganato.com/manga-lp952472",
+        "image": "https://avt.mkklcdnv6temp.com/40/n/1-1583465299.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63579,
+        "aniId": 85262,
+        "createdAt": "2021-06-24T07:45:03.000Z",
+        "updatedAt": "2021-06-24T08:14:53.000Z",
         "deletedAt": null
       }
     }

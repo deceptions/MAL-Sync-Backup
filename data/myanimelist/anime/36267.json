@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:56.000Z",
-  "updatedAt": "2021-05-01T05:03:22.000Z",
+  "updatedAt": "2021-06-21T07:54:41.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -83,6 +83,25 @@
         "aniId": 100009,
         "createdAt": "2020-10-12T16:02:11.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2486": {
+        "identifier": "2486",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Uchuu Senkan Tiramisù",
+        "url": "https://pahe.win/a/2486",
+        "image": "https://i.animepahe.com/posters/6db7786d518ef949b056b9fa128f954cfdb89002e4da179bc0b01915c9c37298.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36267,
+        "aniId": 100009,
+        "createdAt": "2021-06-21T07:54:39.000Z",
+        "updatedAt": "2021-06-21T08:20:50.000Z",
         "deletedAt": null
       }
     }

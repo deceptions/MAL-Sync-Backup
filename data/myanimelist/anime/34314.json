@@ -10,7 +10,7 @@
   "category": "ONA",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:49.000Z",
-  "updatedAt": "2021-05-01T01:31:51.000Z",
+  "updatedAt": "2021-06-21T07:26:18.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +48,25 @@
         "aniId": 98093,
         "createdAt": "2020-11-04T01:54:23.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2112": {
+        "identifier": "2112",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Crayon Shin-chan Gaiden: Omocha Wars",
+        "url": "https://pahe.win/a/2112",
+        "image": "https://i.animepahe.com/posters/efab3ea617cefba97cb5dbc56439e483.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34314,
+        "aniId": 98093,
+        "createdAt": "2021-06-21T07:26:10.000Z",
+        "updatedAt": "2021-06-21T07:50:51.000Z",
         "deletedAt": null
       }
     }

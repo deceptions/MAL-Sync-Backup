@@ -44,26 +44,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "kuzumikun_kuuki_yometemasu_ka": {
-        "authors": [],
-        "identifier": "kuzumikun_kuuki_yometemasu_ka",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Kuzumi-kun, Kuuki Yometemasu ka?",
-        "url": "https://manganelo.com/manga/kuzumikun_kuuki_yometemasu_ka",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/17010-kuzumikun_kuuki_yometemasu_ka.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 96050,
-        "aniId": 87468,
-        "createdAt": "2020-10-12T16:24:03.000Z",
-        "updatedAt": "2021-05-20T15:25:51.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "kusumi-kun-kuuki-yometemasu-ka": {
         "authors": [
@@ -83,6 +63,48 @@
         "aniId": 87468,
         "createdAt": "2021-01-09T05:52:14.000Z",
         "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-uy971933": {
+        "authors": [
+          "Mosuko"
+        ],
+        "identifier": "manga-uy971933",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kuzumi-Kun, Kuuki Yometemasu Ka?",
+        "url": "https://manganato.com/manga-uy971933",
+        "image": "https://avt.mkklcdnv6temp.com/4/q/14-1583489851.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 96050,
+        "aniId": 87468,
+        "createdAt": "2021-06-07T03:20:21.000Z",
+        "updatedAt": "2021-06-23T14:44:52.000Z",
+        "deletedAt": null
+      },
+      "manga-ud971938": {
+        "authors": [
+          "Mosuko"
+        ],
+        "identifier": "manga-ud971938",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kusumi-Kun, Kuuki Yometemasu Ka?",
+        "url": "https://manganato.com/manga-ud971938",
+        "image": "https://avt.mkklcdnv6temp.com/4/t/14-1583489855.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 96050,
+        "aniId": 87468,
+        "createdAt": "2021-06-11T20:09:02.000Z",
+        "updatedAt": "2021-06-23T14:44:52.000Z",
         "deletedAt": null
       }
     }

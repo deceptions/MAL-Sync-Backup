@@ -41,26 +41,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "yq919040": {
-        "authors": [],
-        "identifier": "yq919040",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Monster Partner Of The Vast Sea Of Trees",
-        "url": "https://manganelo.com/manga/yq919040",
-        "image": "https://avt.mkklcdnv6.com/17/l/18-1583497766.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 118418,
-        "aniId": 123662,
-        "createdAt": "2020-10-12T16:26:25.000Z",
-        "updatedAt": "2021-05-20T15:25:52.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "monster_partner_of_the_vast_sea_of_trees": {
         "authors": [
@@ -80,6 +60,28 @@
         "aniId": 123662,
         "createdAt": "2021-02-08T04:20:17.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ea981509": {
+        "authors": [
+          "Fujimura Yuta"
+        ],
+        "identifier": "manga-ea981509",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Monster Partner Of The Vast Sea Of Trees",
+        "url": "https://manganato.com/manga-ea981509",
+        "image": "https://avt.mkklcdnv6temp.com/17/l/18-1583497766.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118418,
+        "aniId": 123662,
+        "createdAt": "2021-06-21T11:51:44.000Z",
+        "updatedAt": "2021-06-21T12:20:50.000Z",
         "deletedAt": null
       }
     }

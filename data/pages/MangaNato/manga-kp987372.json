@@ -12,13 +12,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 123455,
+  "aniId": 127307,
   "createdAt": "2021-05-29T01:42:43.000Z",
-  "updatedAt": "2021-05-29T01:42:43.000Z",
+  "updatedAt": "2021-06-21T17:21:54.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "三大陸英雄記"
+    ],
+    "authors": [
+      "Sakuragi, Sakura",
+      "Kamiya, Yuu"
+    ],
+    "id": 123455,
+    "type": "manga",
+    "title": "Santairiku Eiyuuki",
+    "url": "https://myanimelist.net/manga/123455/Santairiku_Eiyuuki",
+    "image": "https://cdn.myanimelist.net/images/manga/3/235799.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-01-06T08:28:25.000Z",
+    "updatedAt": "2021-06-21T17:21:50.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "三大陸英雄記",
+      "Heroic Chronicles of the Three Continents",
+      "Santairiku Eiyuuki",
+      "Heroic Chronicles of The Three Continents: Chronicles of Empire Rebuilding with Modern Knowledge",
+      "三大陸英雄記 ~現代知識による帝国再建記~",
+      "三大陸英雄"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yuu Kamiya",
+      "Sakura Sakuragi",
+      "Kaito Shibano"
+    ],
+    "id": 127307,
+    "malId": 123455,
+    "type": "manga",
+    "title": "San Tairiku Eiyuuki",
+    "url": "https://anilist.co/manga/127307",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127307-2JDZUFzTX48q.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:00.000Z",
+    "updatedAt": "2021-06-18T11:06:41.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/123455/Santairiku_Eiyuuki"
 }

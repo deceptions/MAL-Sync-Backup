@@ -42,26 +42,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "naisho_no_otome_revolver": {
-        "authors": [],
-        "identifier": "naisho_no_otome_revolver",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Naisho No Otome Revolver",
-        "url": "https://manganelo.com/manga/naisho_no_otome_revolver",
-        "image": "https://avt.mkklcdnv6.com/19/a/12-1583486518.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 31399,
-        "aniId": 61399,
-        "createdAt": "2020-10-12T16:24:27.000Z",
-        "updatedAt": "2021-05-20T15:25:51.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "naisho_no_otome_revolver": {
         "authors": [
@@ -81,6 +61,28 @@
         "aniId": 61399,
         "createdAt": "2021-03-26T16:19:25.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "secret-maiden-revolver": {
+        "authors": [
+          "SORASE Haruyuki"
+        ],
+        "identifier": "secret-maiden-revolver",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Secret Maiden Revolver",
+        "url": "https://mangasee123.com/manga/Secret-Maiden-Revolver",
+        "image": "https://cover.nep.li/cover/Secret-Maiden-Revolver.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31399,
+        "aniId": 61399,
+        "createdAt": "2021-06-23T16:14:55.000Z",
+        "updatedAt": "2021-06-23T16:44:51.000Z",
         "deletedAt": null
       }
     }

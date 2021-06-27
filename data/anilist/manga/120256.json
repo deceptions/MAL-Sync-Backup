@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-21T05:44:39.000Z",
-  "updatedAt": "2021-06-18T09:26:50.000Z",
+  "updatedAt": "2021-06-21T15:49:25.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-hr984700": {
+        "authors": [
+          "Maple Leaf (Original) + Chaoyu Animation"
+        ],
+        "identifier": "manga-hr984700",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Strongest Cultivation System",
+        "url": "https://readmanganato.com/manga-hr984700",
+        "image": "https://avt.mkklcdnv6temp.com/36/c/20-1583502427.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 120256,
+        "createdAt": "2021-06-24T02:44:53.000Z",
+        "updatedAt": "2021-06-24T02:44:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

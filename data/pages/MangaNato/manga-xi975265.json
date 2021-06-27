@@ -10,14 +10,35 @@
   "image": "https://avt.mkklcdnv6temp.com/7/i/15-1583491729.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 98600,
   "createdAt": "2021-06-04T17:20:58.000Z",
-  "updatedAt": "2021-06-04T17:20:58.000Z",
+  "updatedAt": "2021-06-22T15:15:14.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Strongest Girl",
+      "최강그녀",
+      "最強彼女"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Team Sae-Mi"
+    ],
+    "id": 98600,
+    "malId": null,
+    "type": "manga",
+    "title": "Choegang Geunyeo",
+    "url": "https://anilist.co/manga/98600",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx98600-EC0UjLRm11Fs.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-27T20:28:43.000Z",
+    "updatedAt": "2021-06-21T13:25:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

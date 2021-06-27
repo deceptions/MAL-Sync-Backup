@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-08T19:43:23.000Z",
-  "updatedAt": "2021-04-27T13:49:49.000Z",
+  "updatedAt": "2021-06-25T20:20:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,25 +41,26 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "bu924666": {
+    "MangaNato": {
+      "manga-ja987135": {
         "authors": [
-          "Puni-Chan"
+          "Puni-Chan",
+          "Hinata Mizuiro"
         ],
-        "identifier": "bu924666",
+        "identifier": "manga-ja987135",
         "type": "manga",
-        "page": "MangaNelo",
+        "page": "MangaNato",
         "title": "The Small Village Of The Young Lady Without Blessing",
-        "url": "https://manganelo.com/manga/bu924666",
+        "url": "https://manganato.com/manga-ja987135",
         "image": "https://avt.mkklcdnv6temp.com/35/c/22-1604675953.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
+        "actor": null,
         "malId": 130789,
         "aniId": 122772,
-        "createdAt": "2020-11-08T19:43:24.000Z",
-        "updatedAt": "2021-05-20T15:25:52.000Z",
+        "createdAt": "2021-06-25T20:19:20.000Z",
+        "updatedAt": "2021-06-25T20:49:19.000Z",
         "deletedAt": null
       }
     }

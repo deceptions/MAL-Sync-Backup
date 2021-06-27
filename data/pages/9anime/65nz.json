@@ -10,9 +10,9 @@
   "active": true,
   "actor": 2,
   "malId": 42183,
-  "aniId": 20627,
+  "aniId": null,
   "createdAt": "2020-10-12T15:50:41.000Z",
-  "updatedAt": "2021-06-19T12:04:40.000Z",
+  "updatedAt": "2021-06-21T07:08:38.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -30,40 +30,6 @@
     "updatedAt": "2021-06-19T12:04:35.000Z",
     "deletedAt": null
   },
-  "Anilist": {
-    "altTitle": [
-      "World Break: Aria of Curse for a Holy Swordsman",
-      "聖剣使いの禁呪詠唱＜ワールドブレイク＞"
-    ],
-    "externalLinks": [
-      {
-        "site": "Crunchyroll",
-        "url": "http://www.crunchyroll.com/worldbreak"
-      },
-      {
-        "site": "Funimation",
-        "url": "http://www.funimation.com/shows/world-break/"
-      },
-      {
-        "site": "Hulu",
-        "url": "http://www.hulu.com/world-break-aria-of-curse-for-a-holy-swordsman"
-      },
-      {
-        "site": "AnimeLab",
-        "url": "https://www.animelab.com/shows/world-break-aria-of-curse-for-a-holy-swordsman"
-      }
-    ],
-    "id": 20627,
-    "malId": 22663,
-    "type": "anime",
-    "title": "Seiken Tsukai no World Break",
-    "url": "https://anilist.co/anime/20627",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20627-qAzYOBmxk5iS.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:31.000Z",
-    "updatedAt": "2021-06-17T14:06:59.000Z",
-    "deletedAt": null
-  },
+  "Anilist": null,
   "malUrl": "https://myanimelist.net/anime/42183/San_Jian_Hao_Zhi_Ban_Mian_Ren"
 }

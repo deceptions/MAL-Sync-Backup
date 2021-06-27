@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:49.000Z",
-  "updatedAt": "2021-04-28T01:50:31.000Z",
+  "updatedAt": "2021-06-21T16:45:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 33287,
         "createdAt": "2021-05-11T15:18:05.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ll951394": {
+        "authors": [
+          "Saruwatari Tetsuya"
+        ],
+        "identifier": "manga-ll951394",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tough",
+        "url": "https://manganato.com/manga-ll951394",
+        "image": "https://avt.mkklcdnv6temp.com/3/h/1-1583463794.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3287,
+        "aniId": 33287,
+        "createdAt": "2021-06-21T16:45:14.000Z",
+        "updatedAt": "2021-06-21T17:14:51.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,7 @@
     }
   ],
   "id": 135866,
-  "malId": null,
+  "malId": 49236,
   "type": "anime",
   "title": "Youjo Senki: Sabaku no Pasta Daisakusen",
   "url": "https://anilist.co/anime/135866",
@@ -25,6 +25,25 @@
   "updatedAt": "2021-06-19T15:50:50.000Z",
   "deletedAt": null,
   "Pages": {
+    "9anime": {
+      "llpnn": {
+        "identifier": "llpnn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saga of Tanya the Evil - Operation Desert Pasta",
+        "url": "https://www12.9anime.to/watch/saga-of-tanya-the-evil-operation-desert-pasta.llpnn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/fe/fee39d9fc37a3875504e0435af2d6d65.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 49236,
+        "aniId": 135866,
+        "createdAt": "2021-06-19T16:21:03.000Z",
+        "updatedAt": "2021-06-21T07:41:27.000Z",
+        "deletedAt": null
+      }
+    },
     "Gogoanime": {
       "youjo-senki-sabaku-no-pasta-dai-sakusen": {
         "identifier": "youjo-senki-sabaku-no-pasta-dai-sakusen",
@@ -36,11 +55,30 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
-        "malId": null,
+        "actor": 1,
+        "malId": 49236,
         "aniId": 135866,
         "createdAt": "2021-06-19T17:50:52.000Z",
-        "updatedAt": "2021-06-19T17:50:52.000Z",
+        "updatedAt": "2021-06-21T07:43:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4415": {
+        "identifier": "4415",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Youjo Senki - Sabaku no Pasta Dai Sakusen",
+        "url": "https://pahe.win/a/4415",
+        "image": "",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49236,
+        "aniId": 135866,
+        "createdAt": "2021-06-20T00:20:59.000Z",
+        "updatedAt": "2021-06-21T08:50:50.000Z",
         "deletedAt": null
       }
     }

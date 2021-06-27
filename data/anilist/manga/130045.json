@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-25T06:08:18.000Z",
-  "updatedAt": "2021-06-18T11:53:40.000Z",
+  "updatedAt": "2021-06-21T17:23:22.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "pyramid-game": {
+        "authors": [
+          "Dalgonyak"
+        ],
+        "identifier": "pyramid-game",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Pyramid Game",
+        "url": "https://mangasee123.com/manga/Pyramid-Game",
+        "image": "https://cover.nep.li/cover/Pyramid-Game.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 130045,
+        "createdAt": "2021-03-25T23:49:46.000Z",
+        "updatedAt": "2021-06-24T03:15:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:36.000Z",
-  "updatedAt": "2021-03-11T14:09:32.000Z",
+  "updatedAt": "2021-06-21T07:52:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,23 +38,25 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
+    "MangaFox": {
       "in_the_room": {
-        "authors": [],
+        "authors": [
+          "Yasuda Kousuke"
+        ],
         "identifier": "in_the_room",
         "type": "manga",
-        "page": "MangaNelo",
-        "title": "In The Room",
-        "url": "https://manganelo.com/manga/in_the_room",
-        "image": "https://avt.mkklcdnv6.com/2/g/17-1583495341.jpg",
+        "page": "MangaFox",
+        "title": "In the Room",
+        "url": "https://fanfox.net/manga/in_the_room/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28358/cover.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 114824,
         "aniId": 104020,
-        "createdAt": "2020-10-12T16:23:33.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
+        "createdAt": "2021-06-21T07:52:20.000Z",
+        "updatedAt": "2021-06-21T08:20:50.000Z",
         "deletedAt": null
       }
     }

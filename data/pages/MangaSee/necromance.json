@@ -11,13 +11,50 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 121456,
+  "aniId": 111239,
   "createdAt": "2021-01-10T13:21:31.000Z",
-  "updatedAt": "2021-01-10T13:21:31.000Z",
+  "updatedAt": "2021-06-21T07:26:53.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "ネクロマンス"
+    ],
+    "authors": [
+      "Doumoto, Yuuki"
+    ],
+    "id": 121456,
+    "type": "manga",
+    "title": "Necromance",
+    "url": "https://myanimelist.net/manga/121456/Necromance",
+    "image": "https://cdn.myanimelist.net/images/manga/1/223944.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:48:07.000Z",
+    "updatedAt": "2021-05-31T09:21:12.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Necromance",
+      "ネクロマンス"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yuuki Doumoto"
+    ],
+    "id": 111239,
+    "malId": 121456,
+    "type": "manga",
+    "title": "Necromance",
+    "url": "https://anilist.co/manga/111239",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111239-oZ7b3LLRaxPX.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:58:23.000Z",
+    "updatedAt": "2021-06-18T06:52:33.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/121456/Necromance"
 }

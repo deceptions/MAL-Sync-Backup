@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:28.000Z",
-  "updatedAt": "2021-04-26T14:43:09.000Z",
+  "updatedAt": "2021-06-21T23:45:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 30937,
         "createdAt": "2020-10-12T16:05:13.000Z",
         "updatedAt": "2021-06-03T11:01:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "full-metal-panic-overload": {
+        "authors": [
+          "GATOU Shouji",
+          "NAGAI Tomohiro"
+        ],
+        "identifier": "full-metal-panic-overload",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Full Metal Panic! Overload!",
+        "url": "https://mangasee123.com/manga/Full-Metal-Panic-Overload",
+        "image": "https://cover.nep.li/cover/Full-Metal-Panic-Overload.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 937,
+        "aniId": 30937,
+        "createdAt": "2021-06-21T23:45:24.000Z",
+        "updatedAt": "2021-06-22T00:14:51.000Z",
         "deletedAt": null
       }
     }

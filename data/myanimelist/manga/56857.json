@@ -40,26 +40,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "ten_count": {
-        "authors": [],
-        "identifier": "ten_count",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Ten Count",
-        "url": "https://manganelo.com/manga/ten_count",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/1248-ten_count.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 56857,
-        "aniId": 85555,
-        "createdAt": "2020-10-12T16:25:39.000Z",
-        "updatedAt": "2021-05-20T15:25:52.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "ten_count": {
         "authors": [
@@ -79,6 +59,28 @@
         "aniId": 85555,
         "createdAt": "2021-01-24T16:43:08.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nf952740": {
+        "authors": [
+          "Takarai Rihito"
+        ],
+        "identifier": "manga-nf952740",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ten Count",
+        "url": "https://readmanganato.com/manga-nf952740",
+        "image": "https://avt.mkklcdnv6temp.com/49/z/1-1583465677.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56857,
+        "aniId": 85555,
+        "createdAt": "2021-06-22T12:44:51.000Z",
+        "updatedAt": "2021-06-22T12:44:52.000Z",
         "deletedAt": null
       }
     }

@@ -53,26 +53,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "cn917581": {
-        "authors": [],
-        "identifier": "cn917581",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Jibaku Shounen Hanako-kun",
-        "url": "https://manganelo.com/manga/cn917581",
-        "image": "https://avt.mkklcdnv3.com/avatar_225/21201-cn917581.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 105084,
-        "aniId": 98842,
-        "createdAt": "2020-10-12T16:22:30.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "jibaku-shounen-hanako-kun": {
         "authors": [
@@ -114,6 +94,28 @@
         "aniId": 98842,
         "createdAt": "2021-02-24T03:56:13.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cp980050": {
+        "authors": [
+          "Aida Iro"
+        ],
+        "identifier": "manga-cp980050",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Jibaku Shounen Hanako-Kun",
+        "url": "https://readmanganato.com/manga-cp980050",
+        "image": "https://avt.mkklcdnv6temp.com/14/e/17-1583495776.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 105084,
+        "aniId": 98842,
+        "createdAt": "2021-05-29T00:13:13.000Z",
+        "updatedAt": "2021-06-21T07:20:50.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:08.000Z",
-  "updatedAt": "2021-04-19T15:44:34.000Z",
+  "updatedAt": "2021-06-21T07:24:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,29 +36,6 @@
         "aniId": 95749,
         "createdAt": "2020-10-12T16:08:44.000Z",
         "updatedAt": "2021-06-04T12:24:38.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNelo": {
-      "neko_no_kohana": {
-        "authors": [
-          "Fujisawa",
-          "Kamiya"
-        ],
-        "identifier": "neko_no_kohana",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Neko No Kohana",
-        "url": "https://manganelo.com/manga/neko_no_kohana",
-        "image": "https://avt.mkklcdnv6.com/40/b/22-1606097060.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 92031,
-        "aniId": 95749,
-        "createdAt": "2021-01-04T04:27:31.000Z",
-        "updatedAt": "2021-05-20T15:33:41.000Z",
         "deletedAt": null
       }
     },
@@ -103,6 +80,28 @@
         "aniId": 95749,
         "createdAt": "2021-04-19T17:44:27.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jt987254": {
+        "authors": [
+          "Fujisawa Kamiya"
+        ],
+        "identifier": "manga-jt987254",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Neko No Kohana",
+        "url": "https://manganato.com/manga-jt987254",
+        "image": "https://avt.mkklcdnv6temp.com/40/b/22-1606097060.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92031,
+        "aniId": 95749,
+        "createdAt": "2021-06-21T07:24:47.000Z",
+        "updatedAt": "2021-06-21T07:50:58.000Z",
         "deletedAt": null
       }
     }

@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 120420,
   "createdAt": "2021-05-31T13:26:18.000Z",
-  "updatedAt": "2021-05-31T13:26:18.000Z",
+  "updatedAt": "2021-06-21T07:56:58.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "第一战神",
+      "First God of War"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ali Wenxue"
+    ],
+    "id": 120420,
+    "malId": null,
+    "type": "manga",
+    "title": "Di Yi Zhan Shen",
+    "url": "https://anilist.co/manga/120420",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120420-Wnb4jPWsGjHj.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-21T07:50:59.000Z",
+    "updatedAt": "2021-06-21T15:51:03.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

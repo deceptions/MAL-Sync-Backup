@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T15:12:58.000Z",
-  "updatedAt": "2021-06-18T04:32:50.000Z",
+  "updatedAt": "2021-06-21T13:53:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,29 @@
         "aniId": 104896,
         "createdAt": "2020-10-12T16:14:00.000Z",
         "updatedAt": "2021-06-06T10:28:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cb979884": {
+        "authors": [
+          "Takeoka Hazuki",
+          "Tiv"
+        ],
+        "identifier": "manga-cb979884",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Masamune-Kun No Revenge After School",
+        "url": "https://manganato.com/manga-cb979884",
+        "image": "https://avt.mkklcdnv6temp.com/8/f/17-1583495561.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 104896,
+        "createdAt": "2021-06-22T03:15:38.000Z",
+        "updatedAt": "2021-06-22T03:15:38.000Z",
         "deletedAt": null
       }
     }

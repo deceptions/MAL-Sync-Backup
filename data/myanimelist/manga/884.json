@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-29T18:14:05.000Z",
-  "updatedAt": "2021-04-29T18:19:41.000Z",
+  "updatedAt": "2021-06-21T19:15:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 30884,
         "createdAt": "2020-10-29T18:14:06.000Z",
         "updatedAt": "2021-06-08T06:03:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "doubt": {
+        "authors": [
+          "IZUMI Kaneyoshi"
+        ],
+        "identifier": "doubt",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Doubt!!",
+        "url": "https://mangasee123.com/manga/Doubt",
+        "image": "https://cover.nep.li/cover/Doubt.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 884,
+        "aniId": 30884,
+        "createdAt": "2021-06-21T19:15:29.000Z",
+        "updatedAt": "2021-06-21T19:44:51.000Z",
         "deletedAt": null
       }
     }

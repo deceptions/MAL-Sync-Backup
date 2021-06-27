@@ -39,26 +39,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "jn923927": {
-        "authors": [],
-        "identifier": "jn923927",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Burn The Witch",
-        "url": "https://manganelo.com/manga/jn923927",
-        "image": "https://avt.mkklcdnv6.com/5/g/22-1598624873.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 129370,
-        "aniId": 116827,
-        "createdAt": "2020-10-12T16:23:44.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "burn-the-witch": {
         "authors": [
@@ -100,6 +80,28 @@
         "aniId": 116827,
         "createdAt": "2021-02-28T12:15:50.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jn986396": {
+        "authors": [
+          "Kubo Tite"
+        ],
+        "identifier": "manga-jn986396",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Burn The Witch",
+        "url": "https://readmanganato.com/manga-jn986396",
+        "image": "https://avt.mkklcdnv6temp.com/5/g/22-1598624873.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129370,
+        "aniId": 116827,
+        "createdAt": "2021-06-23T03:15:04.000Z",
+        "updatedAt": "2021-06-23T03:44:51.000Z",
         "deletedAt": null
       }
     }

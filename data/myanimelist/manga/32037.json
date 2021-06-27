@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:44.000Z",
-  "updatedAt": "2021-05-05T04:03:12.000Z",
+  "updatedAt": "2021-06-21T07:51:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 62037,
         "createdAt": "2020-10-12T16:04:21.000Z",
         "updatedAt": "2021-06-02T20:26:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "drugn-drop": {
+        "authors": [
+          "CLAMP"
+        ],
+        "identifier": "drugn-drop",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Drug & Drop",
+        "url": "https://mangasee123.com/manga/Drugn-Drop",
+        "image": "https://cover.nep.li/cover/Drugn-Drop.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32037,
+        "aniId": 62037,
+        "createdAt": "2021-06-21T07:51:35.000Z",
+        "updatedAt": "2021-06-21T08:20:50.000Z",
         "deletedAt": null
       }
     }

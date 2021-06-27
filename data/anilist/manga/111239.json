@@ -41,29 +41,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "ps920348": {
-        "authors": [
-          "Yuuki",
-          "Doumotov"
-        ],
-        "identifier": "ps920348",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "Necromance",
-        "url": "https://manganelo.com/manga/ps920348",
-        "image": "https://avt.mkklcdnv6temp.com/15/l/19-1583499687.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 121456,
-        "aniId": 111239,
-        "createdAt": "2020-10-12T16:24:54.000Z",
-        "updatedAt": "2021-05-20T15:25:51.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "necromance_doumoto_yuuki": {
         "authors": [
@@ -83,6 +60,28 @@
         "aniId": 111239,
         "createdAt": "2020-12-21T08:26:53.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "necromance": {
+        "authors": [
+          "DOMOTO Yuki"
+        ],
+        "identifier": "necromance",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Necromance",
+        "url": "https://mangasee123.com/manga/Necromance",
+        "image": "https://cover.nep.li/cover/Necromance.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 121456,
+        "aniId": 111239,
+        "createdAt": "2021-01-10T13:21:31.000Z",
+        "updatedAt": "2021-06-21T07:26:53.000Z",
         "deletedAt": null
       }
     },

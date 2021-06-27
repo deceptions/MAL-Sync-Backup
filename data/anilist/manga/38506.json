@@ -43,26 +43,6 @@
         "deletedAt": null
       }
     },
-    "MangaNelo": {
-      "hk920016": {
-        "authors": [],
-        "identifier": "hk920016",
-        "type": "manga",
-        "page": "MangaNelo",
-        "title": "The Rapeman",
-        "url": "https://manganelo.com/manga/hk920016",
-        "image": "https://avt.mkklcdnv3.com/avatar_225_new/1419-hk920016.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 8506,
-        "aniId": 38506,
-        "createdAt": "2020-10-12T16:23:22.000Z",
-        "updatedAt": "2021-05-20T15:25:50.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-fc982485": {
         "authors": [
@@ -83,6 +63,28 @@
         "aniId": 38506,
         "createdAt": "2021-06-15T00:28:06.000Z",
         "updatedAt": "2021-06-15T00:57:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_rapeman": {
+        "authors": [
+          "AISAKI Keiko"
+        ],
+        "identifier": "the_rapeman",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Rapeman",
+        "url": "https://fanfox.net/manga/the_rapeman/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31051/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8506,
+        "aniId": 38506,
+        "createdAt": "2021-06-21T07:27:50.000Z",
+        "updatedAt": "2021-06-21T07:50:58.000Z",
         "deletedAt": null
       }
     }
