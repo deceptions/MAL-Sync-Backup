@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:33.000Z",
-  "updatedAt": "2021-03-10T03:10:30.000Z",
+  "updatedAt": "2021-06-30T10:21:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 31400,
         "createdAt": "2021-01-26T22:09:19.000Z",
         "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-on960622": {
+        "authors": [
+          "Nihei Tsutomu"
+        ],
+        "identifier": "manga-on960622",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Abara",
+        "url": "https://readmanganato.com/manga-on960622",
+        "image": "https://avt.mkklcdnv6temp.com/8/m/7-1583476617.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1400,
+        "aniId": 31400,
+        "createdAt": "2021-06-30T10:21:15.000Z",
+        "updatedAt": "2021-06-30T10:50:03.000Z",
         "deletedAt": null
       }
     }

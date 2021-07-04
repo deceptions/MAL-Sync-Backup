@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:35.000Z",
-  "updatedAt": "2021-03-23T19:47:13.000Z",
+  "updatedAt": "2021-06-29T08:22:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 31600,
         "createdAt": "2021-01-15T05:01:50.000Z",
         "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cl959420": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "manga-cl959420",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Black Jack",
+        "url": "https://readmanganato.com/manga-cl959420",
+        "image": "https://avt.mkklcdnv6temp.com/13/a/6-1583474644.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1600,
+        "aniId": 31600,
+        "createdAt": "2021-06-29T08:22:44.000Z",
+        "updatedAt": "2021-06-29T08:49:24.000Z",
         "deletedAt": null
       }
     }

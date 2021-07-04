@@ -16,7 +16,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2021-04-29T10:50:10.000Z",
-  "updatedAt": "2021-05-28T22:24:13.000Z",
+  "updatedAt": "2021-06-29T08:30:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,29 @@
         "aniId": 119521,
         "createdAt": "2020-10-12T16:19:51.000Z",
         "updatedAt": "2021-06-08T00:35:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "legend-of-the-northern-blade": {
+        "authors": [
+          "Hae-Min",
+          "Woo-Gak"
+        ],
+        "identifier": "legend-of-the-northern-blade",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Legend of the Northern Blade",
+        "url": "https://mangasee123.com/manga/Legend-of-the-Northern-Blade",
+        "image": "https://cover.nep.li/cover/Legend-of-the-Northern-Blade.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 134744,
+        "aniId": 119521,
+        "createdAt": "2020-12-31T16:38:16.000Z",
+        "updatedAt": "2021-06-29T09:19:24.000Z",
         "deletedAt": null
       }
     },

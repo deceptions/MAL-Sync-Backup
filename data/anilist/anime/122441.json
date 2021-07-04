@@ -3,7 +3,16 @@
     "Peach Boy Riverside",
     "ピーチボーイリバーサイド"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/GG5H5XM84"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GG5H5XM84"
+    }
+  ],
   "id": 122441,
   "malId": 42627,
   "type": "anime",
@@ -13,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:46:08.000Z",
-  "updatedAt": "2021-06-22T18:44:52.000Z",
+  "updatedAt": "2021-07-01T13:20:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -51,6 +60,25 @@
         "aniId": 122441,
         "createdAt": "2021-02-20T12:04:57.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4442": {
+        "identifier": "4442",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Peach Boy Riverside",
+        "url": "https://pahe.win/a/4442",
+        "image": "https://i.animepahe.com/posters/b2e86de364ee2e1b3fb7d82d040b031246731b706ec87a5482f5b487a26a1c2f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42627,
+        "aniId": 122441,
+        "createdAt": "2021-07-01T18:50:28.000Z",
+        "updatedAt": "2021-07-01T19:20:03.000Z",
         "deletedAt": null
       }
     }

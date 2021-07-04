@@ -42,6 +42,28 @@
         "updatedAt": "2021-06-05T18:56:51.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "barbara": {
+        "authors": [
+          "TEZUKA Osamu"
+        ],
+        "identifier": "barbara",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Barbara",
+        "url": "https://mangasee123.com/manga/Barbara",
+        "image": "https://cover.nep.li/cover/Barbara.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5402,
+        "aniId": 35402,
+        "createdAt": "2021-06-30T10:51:00.000Z",
+        "updatedAt": "2021-06-30T11:20:02.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:17.000Z",
-  "updatedAt": "2021-03-04T09:50:55.000Z",
+  "updatedAt": "2021-06-30T05:51:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 116993,
         "createdAt": "2021-03-04T09:50:55.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hp984924": {
+        "authors": [
+          "Takatou Rui"
+        ],
+        "identifier": "manga-hp984924",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hagure Idol Jigokuhen Gaiden - Princess Sarah",
+        "url": "https://manganato.com/manga-hp984924",
+        "image": "https://avt.mkklcdnv6temp.com/44/q/20-1584233853.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109903,
+        "aniId": 116993,
+        "createdAt": "2021-06-30T05:50:02.000Z",
+        "updatedAt": "2021-06-30T06:20:01.000Z",
         "deletedAt": null
       }
     }

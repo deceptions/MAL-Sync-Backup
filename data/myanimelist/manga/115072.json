@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:37.000Z",
-  "updatedAt": "2021-05-22T09:12:57.000Z",
+  "updatedAt": "2021-06-28T20:19:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,29 @@
         "aniId": 101128,
         "createdAt": "2020-10-12T16:13:24.000Z",
         "updatedAt": "2021-06-05T21:02:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-be979213": {
+        "authors": [
+          "Futami Sui",
+          "Nakaso Neko"
+        ],
+        "identifier": "manga-be979213",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yotsukoto",
+        "url": "https://manganato.com/manga-be979213",
+        "image": "https://avt.mkklcdnv6temp.com/32/z/16-1583494654.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115072,
+        "aniId": 101128,
+        "createdAt": "2021-06-28T20:19:21.000Z",
+        "updatedAt": "2021-06-28T20:49:21.000Z",
         "deletedAt": null
       }
     }

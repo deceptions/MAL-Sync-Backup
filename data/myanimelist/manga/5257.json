@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:04.000Z",
-  "updatedAt": "2021-03-18T20:04:30.000Z",
+  "updatedAt": "2021-06-29T10:13:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 35257,
         "createdAt": "2020-10-12T16:04:59.000Z",
         "updatedAt": "2021-06-03T09:25:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "yuuhi-romance": {
+        "authors": [
+          "KATOU Haruaki"
+        ],
+        "identifier": "yuuhi-romance",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yuuhi Romance",
+        "url": "https://mangasee123.com/manga/Yuuhi-Romance",
+        "image": "https://cover.nep.li/cover/Yuuhi-Romance.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5257,
+        "aniId": 35257,
+        "createdAt": "2021-06-29T10:12:57.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
     }

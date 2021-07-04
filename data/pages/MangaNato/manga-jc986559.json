@@ -11,13 +11,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 127084,
+  "aniId": 117675,
   "createdAt": "2021-05-29T05:16:39.000Z",
-  "updatedAt": "2021-05-29T05:16:39.000Z",
+  "updatedAt": "2021-07-02T19:03:56.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Cuprum's Bride",
+      "クプルムの花嫁"
+    ],
+    "authors": [
+      "namo"
+    ],
+    "id": 127084,
+    "type": "manga",
+    "title": "Cuprum no Hanayome",
+    "url": "https://myanimelist.net/manga/127084/Cuprum_no_Hanayome",
+    "image": "https://cdn.myanimelist.net/images/manga/1/239731.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:48:22.000Z",
+    "updatedAt": "2021-07-02T15:35:43.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "クプルムの花嫁",
+      "Cuproom's Bride",
+      "Cuprum's Bride"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "namo"
+    ],
+    "id": 117675,
+    "malId": 127084,
+    "type": "manga",
+    "title": "Cuprum no Hanayome",
+    "url": "https://anilist.co/manga/117675",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117675-PLrG5CGO4Xs0.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:18.000Z",
+    "updatedAt": "2021-06-18T08:36:52.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/127084/Cuprum_no_Hanayome"
 }

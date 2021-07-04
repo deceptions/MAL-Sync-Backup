@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:36.000Z",
-  "updatedAt": "2021-05-02T18:03:01.000Z",
+  "updatedAt": "2021-06-29T19:21:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 48594,
         "createdAt": "2020-10-12T16:05:36.000Z",
         "updatedAt": "2021-06-03T13:43:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "samurai-drive": {
+        "authors": [
+          "KOSUMI Fujiko"
+        ],
+        "identifier": "samurai-drive",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Samurai Drive",
+        "url": "https://mangasee123.com/manga/Samurai-Drive",
+        "image": "https://cover.nep.li/cover/Samurai-Drive.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18594,
+        "aniId": 48594,
+        "createdAt": "2021-06-29T19:21:05.000Z",
+        "updatedAt": "2021-06-29T19:50:03.000Z",
         "deletedAt": null
       }
     }

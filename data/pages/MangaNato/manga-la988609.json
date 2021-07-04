@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 127447,
   "createdAt": "2021-05-31T09:41:54.000Z",
-  "updatedAt": "2021-05-31T09:41:54.000Z",
+  "updatedAt": "2021-07-01T05:44:46.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Wanderer",
+      "소요유"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Soon-Tae Kim"
+    ],
+    "id": 127447,
+    "malId": null,
+    "type": "manga",
+    "title": "Soyoyu",
+    "url": "https://anilist.co/manga/127447",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127447-VVuLWOOl338D.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-24T00:08:37.000Z",
+    "updatedAt": "2021-06-21T16:53:42.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -1,9 +1,18 @@
 {
   "altTitle": [
-    "ヴァニタスの手記",
-    "The Case Study of Vanitas"
+    "The Case Study of Vanitas",
+    "ヴァニタスの手記"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/the-case-study-of-vanitas/"
+    },
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/series/the-case-study-of-vanitas-1df7cad6-b21c-4635-ac24-a49101556dc5"
+    }
+  ],
   "id": 131646,
   "malId": 48580,
   "type": "anime",
@@ -13,7 +22,46 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-21T00:12:57.000Z",
-  "updatedAt": "2021-06-17T18:15:14.000Z",
+  "updatedAt": "2021-07-03T00:03:57.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "p3l9": {
+        "identifier": "p3l9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Vanitas no Carte",
+        "url": "https://www12.9anime.to/watch/vanitas-no-carte.p3l9",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/f7/f788c05005b1f19eec239577b6ad56a1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48580,
+        "aniId": 131646,
+        "createdAt": "2021-07-02T17:34:27.000Z",
+        "updatedAt": "2021-07-02T18:03:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4431": {
+        "identifier": "4431",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Vanitas no Carte",
+        "url": "https://pahe.win/a/4431",
+        "image": "https://i.animepahe.com/posters/b9c3c87ad4089ed8857dd14ab5d31fbd7b94bdf5e7779ff92d18d5c29847173b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48580,
+        "aniId": 131646,
+        "createdAt": "2021-07-03T04:34:02.000Z",
+        "updatedAt": "2021-07-03T05:03:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

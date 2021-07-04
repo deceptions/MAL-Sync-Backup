@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:29.000Z",
-  "updatedAt": "2021-05-14T02:25:13.000Z",
+  "updatedAt": "2021-06-29T10:14:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 97128,
         "createdAt": "2021-05-14T02:25:13.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wv974356": {
+        "authors": [
+          "Kobashiko"
+        ],
+        "identifier": "manga-wv974356",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kabe Ni Mary.com",
+        "url": "https://manganato.com/manga-wv974356",
+        "image": "https://avt.mkklcdnv6temp.com/43/m/14-1583491255.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98035,
+        "aniId": 97128,
+        "createdAt": "2021-06-29T10:14:03.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
     }

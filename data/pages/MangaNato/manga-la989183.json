@@ -12,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 136012,
   "createdAt": "2021-06-18T07:50:50.000Z",
-  "updatedAt": "2021-06-18T07:50:50.000Z",
+  "updatedAt": "2021-07-02T11:35:37.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "아 하세요, 금수저 들어갑니다"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yu-Seong Sin",
+      "Poreutopino"
+    ],
+    "id": 136012,
+    "malId": null,
+    "type": "manga",
+    "title": "A Haseyo, Geumsujeo Deureogamnida",
+    "url": "https://anilist.co/manga/136012",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136012-qSOqYOib7lhQ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-24T04:44:54.000Z",
+    "updatedAt": "2021-06-28T11:19:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

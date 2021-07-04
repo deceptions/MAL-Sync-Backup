@@ -13,13 +13,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 118652,
+  "aniId": 107695,
   "createdAt": "2021-06-03T20:49:28.000Z",
-  "updatedAt": "2021-06-03T20:49:28.000Z",
+  "updatedAt": "2021-07-01T05:50:05.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "The world is full of monsters now, therefore I want to live as I wish.",
+      "The World Is Overflowing with Monster, I'm Taking a Liking to This Life",
+      "モンスターがあふれる世界になったので、好きに生きたいと思います"
+    ],
+    "authors": [
+      "Larsan",
+      "Yosshaa!"
+    ],
+    "id": 118652,
+    "type": "manga",
+    "title": "Monster ga Afureru Sekai ni Natta node, Suki ni Ikitai to Omoimasu",
+    "url": "https://myanimelist.net/manga/118652/Monster_ga_Afureru_Sekai_ni_Natta_node_Suki_ni_Ikitai_to_Omoimasu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/216414.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:53.000Z",
+    "updatedAt": "2021-07-01T04:20:33.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "モンスターがあふれる世界になったので、好きに生きたいと思います",
+      "The World is Full of Monsters Now, Therefor I Want to Live as I With",
+      "The World Is Overflowing with Monster, I’m Taking a Liking to This Life"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "yosshaa!",
+      "Koruse",
+      "Rarusan "
+    ],
+    "id": 107695,
+    "malId": 118652,
+    "type": "manga",
+    "title": "Monster ga Afureru Sekai ni Natta node, Suki ni Ikitai to Omoimasu",
+    "url": "https://anilist.co/manga/107695",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107695-ZR3FU5ROCZMj.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:58:05.000Z",
+    "updatedAt": "2021-06-18T05:31:43.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/118652/Monster_ga_Afureru_Sekai_ni_Natta_node_Suki_ni_Ikitai_to_Omoimasu"
 }

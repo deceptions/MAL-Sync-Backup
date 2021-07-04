@@ -18,5 +18,28 @@
   "createdAt": "2021-05-25T02:08:18.000Z",
   "updatedAt": "2021-06-18T12:25:10.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-da980435": {
+        "authors": [
+          "Hatta Akari"
+        ],
+        "identifier": "manga-da980435",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hajimete Otsukiai",
+        "url": "https://manganato.com/manga-da980435",
+        "image": "https://avt.mkklcdnv6temp.com/28/p/17-1583496284.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135867,
+        "aniId": 132986,
+        "createdAt": "2021-06-30T18:20:32.000Z",
+        "updatedAt": "2021-06-30T18:50:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

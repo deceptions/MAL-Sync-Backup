@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-04T07:55:55.000Z",
-  "updatedAt": "2021-04-21T01:57:09.000Z",
+  "updatedAt": "2021-07-01T11:20:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 127404,
         "createdAt": "2021-01-04T08:26:48.000Z",
         "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ks987527": {
+        "authors": [
+          "Turbo Engine"
+        ],
+        "identifier": "manga-ks987527",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Take Off Your Mask, Ishikawa",
+        "url": "https://manganato.com/manga-ks987527",
+        "image": "https://avt.mkklcdnv6temp.com/1/j/22-1609735548.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132249,
+        "aniId": 127404,
+        "createdAt": "2021-07-01T11:20:06.000Z",
+        "updatedAt": "2021-07-01T11:50:01.000Z",
         "deletedAt": null
       }
     }

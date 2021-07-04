@@ -17,5 +17,28 @@
   "createdAt": "2021-05-31T06:12:13.000Z",
   "updatedAt": "2021-06-18T05:52:34.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-dp981098": {
+        "authors": [
+          "Sanbu Bebe"
+        ],
+        "identifier": "manga-dp981098",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Pikari-Chan Wa Nakanaka Shinanai!",
+        "url": "https://manganato.com/manga-dp981098",
+        "image": "https://avt.mkklcdnv6temp.com/2/o/18-1583497173.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127251,
+        "aniId": 108293,
+        "createdAt": "2021-06-27T05:19:29.000Z",
+        "updatedAt": "2021-06-27T05:49:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

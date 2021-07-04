@@ -13,7 +13,31 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:43.000Z",
-  "updatedAt": "2021-05-02T21:32:11.000Z",
+  "updatedAt": "2021-06-29T17:51:55.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "love-plus-nene-days": {
+        "authors": [
+          "Konami Digital Entertainment",
+          "KUGATSU Takaaki"
+        ],
+        "identifier": "love-plus-nene-days",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "LovePlus: Nene Days",
+        "url": "https://mangasee123.com/manga/Love-Plus-Nene-Days",
+        "image": "https://cover.nep.li/cover/Love-Plus-Nene-Days.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19295,
+        "aniId": null,
+        "createdAt": "2021-06-29T17:51:04.000Z",
+        "updatedAt": "2021-06-29T17:51:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

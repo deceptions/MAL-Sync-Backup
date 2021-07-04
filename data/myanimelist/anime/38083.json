@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:04.000Z",
-  "updatedAt": "2021-05-28T18:25:13.000Z",
+  "updatedAt": "2021-07-01T18:51:05.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -88,6 +88,25 @@
         "aniId": 104103,
         "createdAt": "2020-10-15T12:32:23.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2842": {
+        "identifier": "2842",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ken En Ken: Aoki Kagayaki",
+        "url": "https://pahe.win/a/2842",
+        "image": "https://i.animepahe.com/posters/5189005b4b98591fda3d0492b34e1c29ba1bcc450bc996b011cbf7c57caf755a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38083,
+        "aniId": 104103,
+        "createdAt": "2021-07-01T18:50:57.000Z",
+        "updatedAt": "2021-07-01T19:20:03.000Z",
         "deletedAt": null
       }
     }

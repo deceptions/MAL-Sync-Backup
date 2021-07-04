@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:37.000Z",
-  "updatedAt": "2021-05-29T13:13:25.000Z",
+  "updatedAt": "2021-06-30T13:50:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,6 +82,28 @@
         "aniId": 81023,
         "createdAt": "2021-01-05T07:57:12.000Z",
         "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bh954090": {
+        "authors": [
+          "Hiiragiboshi Takumi"
+        ],
+        "identifier": "manga-bh954090",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Absolute Duo",
+        "url": "https://manganato.com/manga-bh954090",
+        "image": "https://avt.mkklcdnv6temp.com/46/j/2-1583467474.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51023,
+        "aniId": 81023,
+        "createdAt": "2021-06-30T13:50:15.000Z",
+        "updatedAt": "2021-06-30T14:20:01.000Z",
         "deletedAt": null
       }
     }

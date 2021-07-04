@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:02.000Z",
-  "updatedAt": "2021-02-21T12:33:49.000Z",
+  "updatedAt": "2021-06-29T08:35:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,30 @@
         "aniId": 110504,
         "createdAt": "2021-02-21T12:33:49.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-es982327": {
+        "authors": [
+          "Yui Kikuta",
+          "Yui",
+          "Shiina Satsuki"
+        ],
+        "identifier": "manga-es982327",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Princess Bibliophile",
+        "url": "https://readmanganato.com/manga-es982327",
+        "image": "https://avt.mkklcdnv6temp.com/47/q/18-1583498954.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120083,
+        "aniId": 110504,
+        "createdAt": "2021-06-29T08:35:15.000Z",
+        "updatedAt": "2021-06-29T08:49:24.000Z",
         "deletedAt": null
       }
     }

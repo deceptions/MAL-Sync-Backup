@@ -106,6 +106,28 @@
         "updatedAt": "2021-05-20T15:40:04.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "legend_of_tyr": {
+        "authors": [
+          "Ra In-Soo"
+        ],
+        "identifier": "legend_of_tyr",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Legend of Tyr",
+        "url": "https://fanfox.net/manga/legend_of_tyr/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8386/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19135,
+        "aniId": 49135,
+        "createdAt": "2021-07-03T19:05:10.000Z",
+        "updatedAt": "2021-07-03T19:33:56.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

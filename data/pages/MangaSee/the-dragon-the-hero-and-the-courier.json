@@ -11,13 +11,50 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 99787,
+  "aniId": 114187,
   "createdAt": "2021-01-28T18:53:28.000Z",
-  "updatedAt": "2021-01-28T18:53:28.000Z",
+  "updatedAt": "2021-06-29T08:49:24.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "竜と勇者と配達人"
+    ],
+    "authors": [
+      "Yamada, Gregorious"
+    ],
+    "id": 99787,
+    "type": "manga",
+    "title": "Ryuu to Yuusha to Haitatsunin",
+    "url": "https://myanimelist.net/manga/99787/Ryuu_to_Yuusha_to_Haitatsunin",
+    "image": "https://cdn.myanimelist.net/images/manga/2/191164.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:46:34.000Z",
+    "updatedAt": "2021-06-25T19:49:21.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "竜と勇者と配達人",
+      "The Dragon, the Hero, and the Courier"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yamada Gregorius"
+    ],
+    "id": 114187,
+    "malId": 99787,
+    "type": "manga",
+    "title": "Ryuu to Yuusha to Haitatsunin",
+    "url": "https://anilist.co/manga/114187",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114187-EYp73Bd1dngQ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:54:44.000Z",
+    "updatedAt": "2021-06-18T07:36:20.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/99787/Ryuu_to_Yuusha_to_Haitatsunin"
 }

@@ -11,13 +11,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 105921,
+  "aniId": 102029,
   "createdAt": "2021-06-03T20:49:17.000Z",
-  "updatedAt": "2021-06-03T20:49:17.000Z",
+  "updatedAt": "2021-07-03T21:24:26.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "The Old Knight in Frontier Bard Loen",
+      "辺境の老騎士 バルド・ローエン"
+    ],
+    "authors": [
+      "Kikuishi, Morio",
+      "Shienbis"
+    ],
+    "id": 105921,
+    "type": "manga",
+    "title": "Henkyou no Roukishi Bard Loen",
+    "url": "https://myanimelist.net/manga/105921/Henkyou_no_Roukishi_Bard_Loen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/193916.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:01.000Z",
+    "updatedAt": "2021-07-03T21:24:10.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "辺境の老騎士 バルド・ローエン",
+      "The Old Knight in the Border: Bard Loen",
+      "Old Knight in Frontier"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shien BIS",
+      "Morio Kikuishi"
+    ],
+    "id": 102029,
+    "malId": 105921,
+    "type": "manga",
+    "title": "Henkyou no Roukishi: Bard Loen",
+    "url": "https://anilist.co/manga/102029",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx102029-JTWQ57AeDvoG.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:55:44.000Z",
+    "updatedAt": "2021-06-18T03:51:00.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/105921/Henkyou_no_Roukishi_Bard_Loen"
 }

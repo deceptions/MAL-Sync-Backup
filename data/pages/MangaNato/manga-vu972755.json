@@ -13,13 +13,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 98174,
+  "aniId": 97153,
   "createdAt": "2021-05-31T13:34:37.000Z",
-  "updatedAt": "2021-05-31T13:34:37.000Z",
+  "updatedAt": "2021-07-01T05:50:05.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Knight's & Magic",
+      "Knight's and Magic",
+      "ナイツ＆マジック"
+    ],
+    "authors": [
+      "Katou, Takuji",
+      "Amazake-no, Hisago"
+    ],
+    "id": 98174,
+    "type": "manga",
+    "title": "Knight's & Magic",
+    "url": "https://myanimelist.net/manga/98174/Knights___Magic",
+    "image": "https://cdn.myanimelist.net/images/manga/3/183735.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:46:30.000Z",
+    "updatedAt": "2021-06-27T01:20:39.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Knight's & Magic",
+      "ナイツ＆マジック"
+    ],
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/comics/manga/knights-magic/volumes"
+      }
+    ],
+    "authors": [
+      "Amazake no Hisago",
+      "Takuji Katou"
+    ],
+    "id": 97153,
+    "malId": 98174,
+    "type": "manga",
+    "title": "Knights & Magic",
+    "url": "https://anilist.co/manga/97153",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx97153-ritL0GzUr9Qz.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:54:11.000Z",
+    "updatedAt": "2021-06-17T18:27:55.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/98174/Knights___Magic"
 }

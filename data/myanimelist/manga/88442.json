@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:57.000Z",
-  "updatedAt": "2021-04-24T07:57:00.000Z",
+  "updatedAt": "2021-06-30T22:21:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -79,6 +79,28 @@
         "aniId": 86490,
         "createdAt": "2021-03-14T20:09:35.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kk952367": {
+        "authors": [
+          "Yokota Takuma"
+        ],
+        "identifier": "manga-kk952367",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Seshiji O Pin! To - Shikakou Kyougi Dance-Bu E Youkoso",
+        "url": "https://manganato.com/manga-kk952367",
+        "image": "https://avt.mkklcdnv6temp.com/36/v/1-1583465145.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88442,
+        "aniId": 86490,
+        "createdAt": "2021-06-30T22:20:11.000Z",
+        "updatedAt": "2021-06-30T22:50:02.000Z",
         "deletedAt": null
       }
     }

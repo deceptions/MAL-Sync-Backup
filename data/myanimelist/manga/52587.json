@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:43.000Z",
-  "updatedAt": "2021-01-12T11:51:52.000Z",
+  "updatedAt": "2021-07-03T15:33:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 82587,
         "createdAt": "2021-01-12T11:51:52.000Z",
         "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kb952358": {
+        "authors": [
+          "Ozaki Akira"
+        ],
+        "identifier": "manga-kb952358",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Haru X Kiyo",
+        "url": "https://manganato.com/manga-kb952358",
+        "image": "https://avt.mkklcdnv6temp.com/36/m/1-1583465132.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 52587,
+        "aniId": 82587,
+        "createdAt": "2021-07-03T15:33:56.000Z",
+        "updatedAt": "2021-07-03T16:03:56.000Z",
         "deletedAt": null
       }
     }

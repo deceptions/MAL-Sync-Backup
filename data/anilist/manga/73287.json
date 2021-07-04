@@ -42,6 +42,28 @@
         "updatedAt": "2021-06-04T04:05:09.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "gt_r": {
+        "authors": [
+          "FUJISAWA Tooru"
+        ],
+        "identifier": "gt_r",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "GT-R",
+        "url": "https://fanfox.net/manga/gt_r/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13964/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43287,
+        "aniId": 73287,
+        "createdAt": "2021-06-29T08:34:01.000Z",
+        "updatedAt": "2021-06-29T08:49:24.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -59,6 +59,28 @@
         "updatedAt": "2021-06-07T19:03:57.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kansen_rettou": {
+        "authors": [
+          "KAKIZAKI Masasumi"
+        ],
+        "identifier": "kansen_rettou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kansen Rettou",
+        "url": "https://fanfox.net/manga/kansen_rettou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10051/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17222,
+        "aniId": 47222,
+        "createdAt": "2021-07-02T14:04:49.000Z",
+        "updatedAt": "2021-07-02T14:33:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

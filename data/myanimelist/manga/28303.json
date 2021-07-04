@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:30.000Z",
-  "updatedAt": "2021-03-30T05:30:50.000Z",
+  "updatedAt": "2021-06-28T07:49:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +81,28 @@
         "aniId": 58303,
         "createdAt": "2021-03-30T05:30:51.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qa960757": {
+        "authors": [
+          "Oshimi Shuzo"
+        ],
+        "identifier": "manga-qa960757",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hyouryuu Net Cafe",
+        "url": "https://manganato.com/manga-qa960757",
+        "image": "https://avt.mkklcdnv6temp.com/13/p/7-1583476794.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28303,
+        "aniId": 58303,
+        "createdAt": "2021-06-28T07:49:29.000Z",
+        "updatedAt": "2021-06-28T08:19:19.000Z",
         "deletedAt": null
       }
     }

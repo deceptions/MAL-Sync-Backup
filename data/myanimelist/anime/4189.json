@@ -1,6 +1,8 @@
 {
   "altTitle": [
-    "Winter Sonata, Winter Ballad, Winter Love Story",
+    "Winter Sonata",
+    "Winter Ballad",
+    "Winter Love Story",
     "冬のソナタ"
   ],
   "id": 4189,
@@ -11,7 +13,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:42.000Z",
-  "updatedAt": "2021-04-28T02:18:51.000Z",
+  "updatedAt": "2021-06-29T08:28:35.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +32,25 @@
         "aniId": 4189,
         "createdAt": "2020-10-12T15:52:08.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "winter-sonata": {
+        "identifier": "winter-sonata",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Winter Sonata",
+        "url": "https://gogoanime.ai/category/winter-sonata",
+        "image": "https://gogocdn.net/images/anime/W/winter-sonata.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4189,
+        "aniId": 4189,
+        "createdAt": "2021-06-29T08:28:26.000Z",
+        "updatedAt": "2021-06-29T08:49:23.000Z",
         "deletedAt": null
       }
     }

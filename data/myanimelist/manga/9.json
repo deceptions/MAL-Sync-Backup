@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:16.000Z",
-  "updatedAt": "2021-05-28T21:56:24.000Z",
+  "updatedAt": "2021-06-29T08:26:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -101,6 +101,28 @@
         "aniId": 30009,
         "createdAt": "2021-03-26T22:20:20.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ab956610": {
+        "authors": [
+          "Clamp"
+        ],
+        "identifier": "manga-ab956610",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tsubasa: Reservoir Chronicle",
+        "url": "https://readmanganato.com/manga-ab956610",
+        "image": "https://avt.mkklcdnv6temp.com/21/g/4-1583470540.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9,
+        "aniId": 30009,
+        "createdAt": "2021-06-29T08:26:17.000Z",
+        "updatedAt": "2021-06-29T08:49:24.000Z",
         "deletedAt": null
       }
     }

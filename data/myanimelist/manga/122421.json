@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:09.000Z",
-  "updatedAt": "2021-05-24T18:38:58.000Z",
+  "updatedAt": "2021-06-27T18:19:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,50 @@
         "aniId": 113510,
         "createdAt": "2020-10-12T16:19:16.000Z",
         "updatedAt": "2021-06-07T21:33:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ie985439": {
+        "authors": [
+          "Ogino Jun"
+        ],
+        "identifier": "manga-ie985439",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Semelparous",
+        "url": "https://manganato.com/manga-ie985439",
+        "image": "https://avt.mkklcdnv6temp.com/15/t/21-1589855715.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122421,
+        "aniId": 113510,
+        "createdAt": "2021-06-27T18:19:43.000Z",
+        "updatedAt": "2021-06-27T18:49:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "semelparous": {
+        "authors": [
+          "OGINO Jun"
+        ],
+        "identifier": "semelparous",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Semelparous",
+        "url": "https://fanfox.net/manga/semelparous/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33690/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122421,
+        "aniId": 113510,
+        "createdAt": "2021-06-29T10:01:23.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
     }

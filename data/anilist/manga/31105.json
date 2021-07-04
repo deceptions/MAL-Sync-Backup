@@ -60,6 +60,72 @@
         "updatedAt": "2021-06-07T12:28:40.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "red_eyes": {
+        "authors": [
+          "SHINDO Jun"
+        ],
+        "identifier": "red_eyes",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Red Eyes",
+        "url": "https://fanfox.net/manga/red_eyes/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/366/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1105,
+        "aniId": 31105,
+        "createdAt": "2021-06-27T22:19:21.000Z",
+        "updatedAt": "2021-06-27T22:49:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kv961756": {
+        "authors": [
+          "Shindo Jun"
+        ],
+        "identifier": "manga-kv961756",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Red Eyes",
+        "url": "https://manganato.com/manga-kv961756",
+        "image": "https://avt.mkklcdnv6temp.com/48/w/7-1583478131.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1105,
+        "aniId": 31105,
+        "createdAt": "2021-06-29T08:33:23.000Z",
+        "updatedAt": "2021-06-29T08:49:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "red-eyes": {
+        "authors": [
+          "SHINDO Jun"
+        ],
+        "identifier": "red-eyes",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Red Eyes",
+        "url": "https://mangasee123.com/manga/Red-Eyes",
+        "image": "https://cover.nep.li/cover/Red-Eyes.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1105,
+        "aniId": 31105,
+        "createdAt": "2021-06-29T08:47:29.000Z",
+        "updatedAt": "2021-06-29T08:49:24.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

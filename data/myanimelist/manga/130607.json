@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-23T09:29:06.000Z",
-  "updatedAt": "2021-04-23T09:56:58.000Z",
+  "updatedAt": "2021-07-03T20:34:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 124242,
         "createdAt": "2020-10-12T16:21:40.000Z",
         "updatedAt": "2021-06-08T02:56:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ja986783": {
+        "authors": [
+          "Nakano",
+          "Zawa"
+        ],
+        "identifier": "manga-ja986783",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Houjou Urara No Renai Shousetsu O Kaki Nasai!",
+        "url": "https://manganato.com/manga-ja986783",
+        "image": "https://avt.mkklcdnv6temp.com/20/t/22-1601271578.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130607,
+        "aniId": 124242,
+        "createdAt": "2021-07-03T20:34:33.000Z",
+        "updatedAt": "2021-07-03T21:03:56.000Z",
         "deletedAt": null
       }
     }

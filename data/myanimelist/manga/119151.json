@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:55.000Z",
-  "updatedAt": "2021-05-26T06:08:50.000Z",
+  "updatedAt": "2021-06-27T15:50:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,6 +64,29 @@
         "aniId": 107856,
         "createdAt": "2021-01-09T19:52:44.000Z",
         "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dc980937": {
+        "authors": [
+          "Bunsaburo Nagano",
+          "Shibuya Daikon"
+        ],
+        "identifier": "manga-dc980937",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sen No Sukiru O Motsu Otoko",
+        "url": "https://manganato.com/manga-dc980937",
+        "image": "https://avt.mkklcdnv6temp.com/46/x/17-1583496955.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 119151,
+        "aniId": 107856,
+        "createdAt": "2021-05-29T22:42:22.000Z",
+        "updatedAt": "2021-06-27T19:49:19.000Z",
         "deletedAt": null
       }
     }

@@ -61,6 +61,28 @@
         "updatedAt": "2021-05-20T15:38:31.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "memesis": {
+        "authors": [
+          "YAGYUU Takuya"
+        ],
+        "identifier": "memesis",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Memesis",
+        "url": "https://fanfox.net/manga/memesis/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27723/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112657,
+        "aniId": 101451,
+        "createdAt": "2021-07-03T19:04:59.000Z",
+        "updatedAt": "2021-07-03T19:33:56.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

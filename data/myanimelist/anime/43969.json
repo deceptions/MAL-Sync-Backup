@@ -10,7 +10,46 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-11-21T01:50:54.000Z",
-  "updatedAt": "2021-04-21T02:27:29.000Z",
+  "updatedAt": "2021-06-29T09:52:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "animepahe": {
+      "4430": {
+        "identifier": "4430",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kanojo mo Kanojo",
+        "url": "https://pahe.win/a/4430",
+        "image": "https://i.animepahe.com/posters/5b64ea78422359b293ac6e1c15467bdb15b3b3a66e909ff2539a6aeb705cf0f7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43969,
+        "aniId": 126192,
+        "createdAt": "2021-07-02T07:20:21.000Z",
+        "updatedAt": "2021-07-02T07:50:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "629p": {
+        "identifier": "629p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kanojo mo Kanojo",
+        "url": "https://www12.9anime.to/watch/kanojo-mo-kanojo.629p",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a2/a20a64f8704ad1cbef817e56793f1b2b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43969,
+        "aniId": 126192,
+        "createdAt": "2021-07-02T19:04:27.000Z",
+        "updatedAt": "2021-07-02T19:33:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

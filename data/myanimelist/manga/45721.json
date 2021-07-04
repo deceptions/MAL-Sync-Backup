@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:22.000Z",
-  "updatedAt": "2021-03-23T18:15:37.000Z",
+  "updatedAt": "2021-06-28T03:50:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 75721,
         "createdAt": "2021-03-23T18:15:37.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nb955310": {
+        "authors": [
+          "Oshikiri Rensuke"
+        ],
+        "identifier": "manga-nb955310",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Misu Misou",
+        "url": "https://manganato.com/manga-nb955310",
+        "image": "https://avt.mkklcdnv6temp.com/34/e/3-1583469024.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45721,
+        "aniId": 75721,
+        "createdAt": "2021-06-28T03:49:41.000Z",
+        "updatedAt": "2021-06-28T04:19:19.000Z",
         "deletedAt": null
       }
     }

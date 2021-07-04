@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:12.000Z",
-  "updatedAt": "2021-03-07T12:32:47.000Z",
+  "updatedAt": "2021-07-01T22:51:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,28 @@
         "aniId": 86526,
         "createdAt": "2021-01-16T14:02:44.000Z",
         "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kd952438": {
+        "authors": [
+          "Ohba Tsugumi"
+        ],
+        "identifier": "manga-kd952438",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Platina End",
+        "url": "https://readmanganato.com/manga-kd952438",
+        "image": "https://avt.mkklcdnv6temp.com/39/i/1-1583465248.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93180,
+        "aniId": 86526,
+        "createdAt": "2021-05-29T16:43:43.000Z",
+        "updatedAt": "2021-07-02T11:35:29.000Z",
         "deletedAt": null
       }
     }

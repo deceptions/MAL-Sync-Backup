@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 117769,
   "createdAt": "2021-05-29T13:42:43.000Z",
-  "updatedAt": "2021-05-29T13:42:43.000Z",
+  "updatedAt": "2021-07-01T11:21:37.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "100日後に結婚する二人",
+      "These Two Will Be Married In 100 Day",
+      "100nichigo ni Kekkon Suru Futari"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kenjiro Hata"
+    ],
+    "id": 117769,
+    "malId": null,
+    "type": "manga",
+    "title": "100-nichi Go ni Kekkon Suru Futari",
+    "url": "https://anilist.co/manga/117769",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117769-rAgFxGv1rFwq.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-03T01:00:51.000Z",
+    "updatedAt": "2021-06-21T15:22:43.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

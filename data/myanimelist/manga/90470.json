@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:04.000Z",
-  "updatedAt": "2021-05-13T22:25:00.000Z",
+  "updatedAt": "2021-06-30T02:51:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 107223,
         "createdAt": "2020-10-12T16:08:40.000Z",
         "updatedAt": "2021-06-04T11:51:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wt953654": {
+        "authors": [
+          "Fujisaki Hikari"
+        ],
+        "identifier": "manga-wt953654",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Nozoemon",
+        "url": "https://manganato.com/manga-wt953654",
+        "image": "https://avt.mkklcdnv6temp.com/30/t/2-1583466885.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90470,
+        "aniId": 107223,
+        "createdAt": "2021-06-30T02:50:44.000Z",
+        "updatedAt": "2021-06-30T03:20:01.000Z",
         "deletedAt": null
       }
     }

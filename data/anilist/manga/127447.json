@@ -18,5 +18,28 @@
   "createdAt": "2021-05-24T00:08:37.000Z",
   "updatedAt": "2021-06-21T16:53:42.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-la988609": {
+        "authors": [
+          "Soon Tae Kim"
+        ],
+        "identifier": "manga-la988609",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Wanderer",
+        "url": "https://readmanganato.com/manga-la988609",
+        "image": "https://avt.mkklcdnv6temp.com/45/w/23-1616989496.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 127447,
+        "createdAt": "2021-05-31T09:41:54.000Z",
+        "updatedAt": "2021-07-01T05:44:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

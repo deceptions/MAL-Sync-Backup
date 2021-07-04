@@ -3,7 +3,12 @@
     "RE-MAIN",
     "RE-MAIN（リメイン）"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/re-main/"
+    }
+  ],
   "id": 130549,
   "malId": 48406,
   "type": "anime",
@@ -13,7 +18,46 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-25T15:38:17.000Z",
-  "updatedAt": "2021-06-19T15:50:50.000Z",
+  "updatedAt": "2021-07-03T16:33:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "animepahe": {
+      "4447": {
+        "identifier": "4447",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Re-Main",
+        "url": "https://pahe.win/a/4447",
+        "image": "https://i.animepahe.com/posters/dda99a90391da4644eac92ae11a12e5b9b60e8cd6979ce6336ecf46c55f1461a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48406,
+        "aniId": 130549,
+        "createdAt": "2021-07-01T18:51:20.000Z",
+        "updatedAt": "2021-07-01T19:20:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "3wny": {
+        "identifier": "3wny",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Re-Main",
+        "url": "https://www12.9anime.to/watch/re-main.3wny",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/75/751a5c6b6aaf8d61a4c44d41d4f866b4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48406,
+        "aniId": 130549,
+        "createdAt": "2021-07-03T18:04:01.000Z",
+        "updatedAt": "2021-07-03T18:33:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

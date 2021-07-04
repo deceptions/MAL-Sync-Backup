@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:09.000Z",
-  "updatedAt": "2021-03-29T15:01:27.000Z",
+  "updatedAt": "2021-07-03T20:05:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 44856,
         "createdAt": "2021-01-19T04:35:35.000Z",
         "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zr959152": {
+        "authors": [
+          "Hanazawa Kengo"
+        ],
+        "identifier": "manga-zr959152",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Boys On The Run",
+        "url": "https://manganato.com/manga-zr959152",
+        "image": "https://avt.mkklcdnv6temp.com/3/k/6-1583474224.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14856,
+        "aniId": 44856,
+        "createdAt": "2021-07-03T20:04:39.000Z",
+        "updatedAt": "2021-07-03T20:33:57.000Z",
         "deletedAt": null
       }
     }

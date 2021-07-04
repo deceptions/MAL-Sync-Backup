@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:27.000Z",
-  "updatedAt": "2021-04-30T20:50:59.000Z",
+  "updatedAt": "2021-07-03T20:04:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 40442,
         "createdAt": "2020-10-12T16:02:59.000Z",
         "updatedAt": "2021-06-02T10:51:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pk966619": {
+        "authors": [
+          "Aoi"
+        ],
+        "identifier": "manga-pk966619",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kanojoiro No Kanojo",
+        "url": "https://manganato.com/manga-pk966619",
+        "image": "https://avt.mkklcdnv6temp.com/48/j/10-1583483919.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10442,
+        "aniId": 40442,
+        "createdAt": "2021-07-03T20:03:56.000Z",
+        "updatedAt": "2021-07-03T20:33:57.000Z",
         "deletedAt": null
       }
     }

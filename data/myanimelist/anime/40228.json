@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:11.000Z",
-  "updatedAt": "2021-01-18T22:32:47.000Z",
+  "updatedAt": "2021-06-30T08:21:02.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -87,6 +87,25 @@
         "aniId": 110881,
         "createdAt": "2020-10-12T16:26:39.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3502": {
+        "identifier": "3502",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bananya: Fushigi na Nakama-tachi",
+        "url": "https://pahe.win/a/3502",
+        "image": "https://i.animepahe.com/posters/e8c9c37f0b42614ab25f3e11e909b81b699668f13bb5b1bd22b15628c0b716b1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40228,
+        "aniId": 110881,
+        "createdAt": "2021-06-30T08:20:05.000Z",
+        "updatedAt": "2021-06-30T08:50:00.000Z",
         "deletedAt": null
       }
     }

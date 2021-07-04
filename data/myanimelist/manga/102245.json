@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:44.000Z",
-  "updatedAt": "2021-05-17T14:55:15.000Z",
+  "updatedAt": "2021-06-27T08:19:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 109274,
         "createdAt": "2020-10-12T16:11:09.000Z",
         "updatedAt": "2021-06-05T06:06:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "red-riding-hood-and-the-big-sad-wolf": {
+        "authors": [
+          "HACHIJOU Shin"
+        ],
+        "identifier": "red-riding-hood-and-the-big-sad-wolf",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Red Riding Hood and the Big Sad Wolf",
+        "url": "https://mangasee123.com/manga/Red-Riding-Hood-and-the-Big-Sad-Wolf",
+        "image": "https://cover.nep.li/cover/Red-Riding-Hood-and-the-Big-Sad-Wolf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102245,
+        "aniId": 109274,
+        "createdAt": "2021-06-27T08:19:23.000Z",
+        "updatedAt": "2021-06-27T08:49:19.000Z",
         "deletedAt": null
       }
     }

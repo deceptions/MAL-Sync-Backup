@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:11.000Z",
-  "updatedAt": "2021-03-04T23:21:57.000Z",
+  "updatedAt": "2021-06-28T15:49:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 87407,
         "createdAt": "2021-03-04T23:21:57.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tb970536": {
+        "authors": [
+          "Mikamoto Rei"
+        ],
+        "identifier": "manga-tb970536",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Chimamire Sukeban Chainsaw",
+        "url": "https://manganato.com/manga-tb970536",
+        "image": "https://avt.mkklcdnv6temp.com/29/l/13-1583488793.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92933,
+        "aniId": 87407,
+        "createdAt": "2021-06-28T15:49:32.000Z",
+        "updatedAt": "2021-06-28T16:19:21.000Z",
         "deletedAt": null
       }
     }

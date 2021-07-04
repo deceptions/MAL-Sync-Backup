@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:18.000Z",
-  "updatedAt": "2021-03-07T08:32:47.000Z",
+  "updatedAt": "2021-07-02T15:04:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,6 +78,28 @@
         "aniId": 30090,
         "createdAt": "2021-01-17T02:02:41.000Z",
         "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kg961563": {
+        "authors": [
+          "Kouga Yun"
+        ],
+        "identifier": "manga-kg961563",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Loveless",
+        "url": "https://readmanganato.com/manga-kg961563",
+        "image": "https://avt.mkklcdnv6temp.com/42/r/7-1583477893.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90,
+        "aniId": 30090,
+        "createdAt": "2021-07-02T15:04:19.000Z",
+        "updatedAt": "2021-07-02T15:33:56.000Z",
         "deletedAt": null
       }
     }

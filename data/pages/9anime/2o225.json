@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 48942,
-  "aniId": null,
+  "aniId": 133869,
   "createdAt": "2021-06-17T01:58:25.000Z",
-  "updatedAt": "2021-06-17T01:58:25.000Z",
+  "updatedAt": "2021-06-29T19:50:01.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -30,6 +30,23 @@
     "updatedAt": "2021-06-07T21:23:35.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "狂神魔尊",
+      "Mad Demon Lord"
+    ],
+    "externalLinks": [],
+    "id": 133869,
+    "malId": 48942,
+    "type": "anime",
+    "title": "Kuang Shenmo Zun",
+    "url": "https://anilist.co/anime/133869",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133869-SByvjedZez51.png",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-06-29T19:20:01.000Z",
+    "updatedAt": "2021-06-29T19:20:01.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/48942/Kuang_Shen_Mo_Zun"
 }

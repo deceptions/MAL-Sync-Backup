@@ -10,14 +10,56 @@
   "image": "https://avt.mkklcdnv6temp.com/28/t/16-1583494500.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actor": 1,
+  "malId": 115501,
+  "aniId": 102861,
   "createdAt": "2021-05-29T16:43:03.000Z",
-  "updatedAt": "2021-05-29T16:43:03.000Z",
+  "updatedAt": "2021-07-01T05:50:05.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Dropout Braver",
+      "勇者、辞めます"
+    ],
+    "authors": [
+      "Kazato, Nori",
+      "Quantum"
+    ],
+    "id": 115501,
+    "type": "manga",
+    "title": "Yuusha, Yamemasu",
+    "url": "https://myanimelist.net/manga/115501/Yuusha_Yamemasu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/212662.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:38.000Z",
+    "updatedAt": "2021-07-01T04:51:02.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "勇者、辞めます",
+      "I Will Quit Being the Hero",
+      "Yamemasu Tsugi No Shokuba Ha Mao Jo"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Quantum",
+      "Nori Kazato",
+      "Hana Amano"
+    ],
+    "id": 102861,
+    "malId": 115501,
+    "type": "manga",
+    "title": "Yuusha, Yamemasu",
+    "url": "https://anilist.co/manga/102861",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx102861-eTbJIgIZ7InK.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:57:18.000Z",
+    "updatedAt": "2021-06-18T03:57:29.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/115501/Yuusha_Yamemasu"
 }

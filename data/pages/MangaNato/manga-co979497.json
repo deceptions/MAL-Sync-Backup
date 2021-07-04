@@ -12,13 +12,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 114742,
+  "aniId": 103816,
   "createdAt": "2021-06-02T16:00:52.000Z",
-  "updatedAt": "2021-06-02T16:00:52.000Z",
+  "updatedAt": "2021-07-01T05:50:05.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Dungeon master wants to sleep now and forever...",
+      "Lazy Dungeon Master, I absolutely don't want to work as a dungeon master until I indulge in my laziness",
+      "絶対に働きたくないダンジョンマスターが惰眠をむさぼるまで"
+    ],
+    "authors": [
+      "Nanaroku",
+      "Onikage, Spanner"
+    ],
+    "id": 114742,
+    "type": "manga",
+    "title": "Zettai ni Hatarakitakunai Dungeon Master ga Damin wo Musaboru made",
+    "url": "https://myanimelist.net/manga/114742/Zettai_ni_Hatarakitakunai_Dungeon_Master_ga_Damin_wo_Musaboru_made",
+    "image": "https://cdn.myanimelist.net/images/manga/1/217470.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:36.000Z",
+    "updatedAt": "2021-07-01T03:50:22.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "絶対に働きたくないダンジョンマスターが惰眠をむさぼるまで",
+      "Dungeon master wants to sleep now and forever...",
+      "Lazy Dungeon Master",
+      "I absolutely don't want to work as a dungeon master until I indulge in my laziness"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Spanner Onikage",
+      "Nanaroku",
+      "Youta"
+    ],
+    "id": 103816,
+    "malId": 114742,
+    "type": "manga",
+    "title": "Zettai ni Hatarakitakunai Dungeon Master ga Damin wo Musaboru made",
+    "url": "https://anilist.co/manga/103816",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103816-NcTINbbTZxMp.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:57:11.000Z",
+    "updatedAt": "2021-06-18T04:07:20.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/114742/Zettai_ni_Hatarakitakunai_Dungeon_Master_ga_Damin_wo_Musaboru_made"
 }

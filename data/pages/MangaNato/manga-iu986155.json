@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 123869,
   "createdAt": "2021-05-28T19:24:14.000Z",
-  "updatedAt": "2021-05-28T19:24:14.000Z",
+  "updatedAt": "2021-06-29T08:55:36.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "붉은 꽃의 정원",
+      "The Garden of Red Flowers",
+      "붉은 꽃의 정원"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mar"
+    ],
+    "id": 123869,
+    "malId": null,
+    "type": "manga",
+    "title": "Bulgeun Kkochui Jeongwon",
+    "url": "https://anilist.co/manga/123869",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123869-VZKuR6J9DOIW.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-31T05:12:14.000Z",
+    "updatedAt": "2021-06-21T16:23:03.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

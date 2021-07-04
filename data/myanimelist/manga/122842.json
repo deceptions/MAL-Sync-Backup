@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:10.000Z",
-  "updatedAt": "2021-05-14T14:15:18.000Z",
+  "updatedAt": "2021-06-29T09:52:12.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 114003,
         "createdAt": "2020-10-12T16:17:44.000Z",
         "updatedAt": "2021-06-07T10:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "run_away_with_me_girl": {
+        "authors": [
+          "Battan"
+        ],
+        "identifier": "run_away_with_me_girl",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Run Away With Me, Girl",
+        "url": "https://fanfox.net/manga/run_away_with_me_girl/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32083/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122842,
+        "aniId": 114003,
+        "createdAt": "2021-06-29T09:52:11.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
     }

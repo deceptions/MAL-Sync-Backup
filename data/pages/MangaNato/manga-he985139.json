@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 129796,
   "createdAt": "2021-06-02T19:31:33.000Z",
-  "updatedAt": "2021-06-02T19:31:33.000Z",
+  "updatedAt": "2021-06-30T07:25:20.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Villain Duke's Precious One",
+      "악당 대공님의 귀하디귀한 여동생",
+      "The Precious Sister of the Villainous Grand Duke"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Eclair  ",
+      "LUNAHENG",
+      "Kkam-Nu Lee"
+    ],
+    "id": 129796,
+    "malId": null,
+    "type": "manga",
+    "title": "Akdang Daegongnimui Gwihadigwihan Yeodongsaeng",
+    "url": "https://anilist.co/manga/129796",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129796-g4pZBaitx99U.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T22:42:58.000Z",
+    "updatedAt": "2021-06-21T17:21:42.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

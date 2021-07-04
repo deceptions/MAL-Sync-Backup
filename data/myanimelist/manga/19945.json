@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:46.000Z",
-  "updatedAt": "2021-03-22T01:35:26.000Z",
+  "updatedAt": "2021-06-29T08:19:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 49945,
         "createdAt": "2021-03-22T01:35:26.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bu952155": {
+        "authors": [
+          "Yoshibe Akuro"
+        ],
+        "identifier": "manga-bu952155",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Zettai Reiiki",
+        "url": "https://manganato.com/manga-bu952155",
+        "image": "https://avt.mkklcdnv6temp.com/29/t/1-1583464865.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19945,
+        "aniId": 49945,
+        "createdAt": "2021-06-29T08:19:39.000Z",
+        "updatedAt": "2021-06-29T08:49:24.000Z",
         "deletedAt": null
       }
     }

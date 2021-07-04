@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:04.000Z",
-  "updatedAt": "2021-03-27T18:20:29.000Z",
+  "updatedAt": "2021-07-02T12:04:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 108351,
         "createdAt": "2021-03-27T18:20:30.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-eo981549": {
+        "authors": [
+          "Makoto Kudou"
+        ],
+        "identifier": "manga-eo981549",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Want To Cry With You On Thursday.",
+        "url": "https://manganato.com/manga-eo981549",
+        "image": "https://avt.mkklcdnv6temp.com/18/z/18-1583497833.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120557,
+        "aniId": 108351,
+        "createdAt": "2021-07-02T12:04:17.000Z",
+        "updatedAt": "2021-07-02T12:33:58.000Z",
         "deletedAt": null
       }
     }

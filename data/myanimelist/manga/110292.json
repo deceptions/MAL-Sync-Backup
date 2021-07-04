@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:18.000Z",
-  "updatedAt": "2021-03-27T14:19:46.000Z",
+  "updatedAt": "2021-06-29T08:28:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,6 +78,28 @@
         "aniId": 103081,
         "createdAt": "2021-03-27T14:19:46.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bk978693": {
+        "authors": [
+          "Hamuro Kei"
+        ],
+        "identifier": "manga-bk978693",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tsurezure Biyori",
+        "url": "https://manganato.com/manga-bk978693",
+        "image": "https://avt.mkklcdnv6temp.com/13/v/16-1583493971.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110292,
+        "aniId": 103081,
+        "createdAt": "2021-06-29T08:28:05.000Z",
+        "updatedAt": "2021-06-29T08:49:24.000Z",
         "deletedAt": null
       }
     }

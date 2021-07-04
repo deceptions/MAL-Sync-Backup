@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:29.000Z",
-  "updatedAt": "2021-05-29T20:43:24.000Z",
+  "updatedAt": "2021-06-29T10:14:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,6 +78,50 @@
         "aniId": 97113,
         "createdAt": "2021-06-07T23:54:15.000Z",
         "updatedAt": "2021-06-08T00:20:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mermaid-boys": {
+        "authors": [
+          "SARACHI Yomi"
+        ],
+        "identifier": "mermaid-boys",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mermaid Boys",
+        "url": "https://mangasee123.com/manga/Mermaid-Boys",
+        "image": "https://cover.nep.li/cover/Mermaid-Boys.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97944,
+        "aniId": 97113,
+        "createdAt": "2021-06-27T08:19:48.000Z",
+        "updatedAt": "2021-06-27T08:49:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mermaid_boys": {
+        "authors": [
+          "SARACHI Yomi"
+        ],
+        "identifier": "mermaid_boys",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mermaid Boys",
+        "url": "https://fanfox.net/manga/mermaid_boys/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/24783/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97944,
+        "aniId": 97113,
+        "createdAt": "2021-07-01T20:50:08.000Z",
+        "updatedAt": "2021-07-01T21:20:05.000Z",
         "deletedAt": null
       }
     }

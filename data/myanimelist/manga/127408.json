@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:23.000Z",
-  "updatedAt": "2021-05-25T12:38:18.000Z",
+  "updatedAt": "2021-06-29T09:50:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 110185,
         "createdAt": "2020-10-12T16:16:27.000Z",
         "updatedAt": "2021-06-06T22:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-im985669": {
+        "authors": [
+          "Shawn Tanaka",
+          "Meiji"
+        ],
+        "identifier": "manga-im985669",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Negawakuba No Konote Ni Koufuku Wo",
+        "url": "https://manganato.com/manga-im985669",
+        "image": "https://avt.mkklcdnv6temp.com/25/w/21-1591716551.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127408,
+        "aniId": 110185,
+        "createdAt": "2021-06-29T09:49:34.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
     }

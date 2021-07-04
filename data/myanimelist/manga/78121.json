@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:31.000Z",
-  "updatedAt": "2021-04-29T12:52:15.000Z",
+  "updatedAt": "2021-06-29T10:10:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,29 @@
         "aniId": 85506,
         "createdAt": "2021-04-29T12:52:15.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vb951836": {
+        "authors": [
+          "Kurando Yukiaki",
+          "Nomura Yuusuke"
+        ],
+        "identifier": "manga-vb951836",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dolly Kill Kill",
+        "url": "https://manganato.com/manga-vb951836",
+        "image": "https://avt.mkklcdnv6temp.com/18/d/1-1583464402.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 78121,
+        "aniId": 85506,
+        "createdAt": "2021-06-29T10:10:20.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
     }

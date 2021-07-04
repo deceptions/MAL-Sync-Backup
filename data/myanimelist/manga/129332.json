@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:24.000Z",
-  "updatedAt": "2021-05-25T15:08:57.000Z",
+  "updatedAt": "2021-07-01T22:20:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 114965,
         "createdAt": "2020-10-12T16:18:30.000Z",
         "updatedAt": "2021-06-07T17:25:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hu984603": {
+        "authors": [
+          "Bota Mochito"
+        ],
+        "identifier": "manga-hu984603",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Coffee Moon",
+        "url": "https://readmanganato.com/manga-hu984603",
+        "image": "https://avt.mkklcdnv6temp.com/32/j/20-1583502274.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129332,
+        "aniId": 114965,
+        "createdAt": "2021-07-01T22:20:05.000Z",
+        "updatedAt": "2021-07-01T22:50:04.000Z",
         "deletedAt": null
       }
     }

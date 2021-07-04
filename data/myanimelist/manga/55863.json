@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:47.000Z",
-  "updatedAt": "2021-02-13T07:36:15.000Z",
+  "updatedAt": "2021-06-29T09:59:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,6 +84,28 @@
         "aniId": 86038,
         "createdAt": "2021-02-13T07:36:16.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mj952644": {
+        "authors": [
+          "Yamagata Ishio"
+        ],
+        "identifier": "manga-mj952644",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Rokka No Yuusha",
+        "url": "https://manganato.com/manga-mj952644",
+        "image": "https://avt.mkklcdnv6temp.com/46/r/1-1583465544.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55863,
+        "aniId": 86038,
+        "createdAt": "2021-06-29T09:59:30.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
     }

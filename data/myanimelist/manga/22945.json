@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:08.000Z",
-  "updatedAt": "2021-05-03T14:32:06.000Z",
+  "updatedAt": "2021-07-02T14:34:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 52945,
         "createdAt": "2020-10-12T16:04:56.000Z",
         "updatedAt": "2021-06-03T00:34:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "conductor": {
+        "authors": [
+          "KAMINAGA Manabu",
+          "Nokiya"
+        ],
+        "identifier": "conductor",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Conductor",
+        "url": "https://mangasee123.com/manga/Conductor",
+        "image": "https://cover.nep.li/cover/Conductor.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22945,
+        "aniId": 52945,
+        "createdAt": "2021-07-02T14:34:17.000Z",
+        "updatedAt": "2021-07-02T15:03:56.000Z",
         "deletedAt": null
       }
     }

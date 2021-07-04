@@ -18,5 +18,28 @@
   "createdAt": "2021-05-31T13:07:50.000Z",
   "updatedAt": "2021-06-21T17:27:12.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lq988999": {
+        "authors": [
+          "Kim Jaehan"
+        ],
+        "identifier": "manga-lq988999",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Daddy Goes To School",
+        "url": "https://readmanganato.com/manga-lq988999",
+        "image": "https://avt.mkklcdnv6temp.com/11/x/24-1620230557.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 130717,
+        "createdAt": "2021-05-31T09:44:24.000Z",
+        "updatedAt": "2021-07-01T05:44:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

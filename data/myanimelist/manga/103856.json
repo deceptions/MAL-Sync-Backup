@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:54.000Z",
-  "updatedAt": "2021-03-23T18:15:47.000Z",
+  "updatedAt": "2021-06-29T08:28:55.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 98388,
         "createdAt": "2021-03-23T18:15:50.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yg975815": {
+        "authors": [
+          "Iwashita Keiko"
+        ],
+        "identifier": "manga-yg975815",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Living No Matsunaga-San",
+        "url": "https://manganato.com/manga-yg975815",
+        "image": "https://avt.mkklcdnv6temp.com/17/x/15-1583492108.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103856,
+        "aniId": 98388,
+        "createdAt": "2021-06-29T08:28:45.000Z",
+        "updatedAt": "2021-06-29T08:49:24.000Z",
         "deletedAt": null
       }
     }

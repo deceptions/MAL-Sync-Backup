@@ -110,6 +110,50 @@
         "updatedAt": "2021-05-20T15:39:23.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-mr955200": {
+        "authors": [
+          "Samura Hiroaki"
+        ],
+        "identifier": "manga-mr955200",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mugen No Juunin",
+        "url": "https://manganato.com/manga-mr955200",
+        "image": "https://avt.mkklcdnv6temp.com/31/b/3-1583468901.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 658,
+        "aniId": 30658,
+        "createdAt": "2021-06-29T10:08:28.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "blade_of_the_immortal": {
+        "authors": [
+          "SAMURA Hiroaki"
+        ],
+        "identifier": "blade_of_the_immortal",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mugen no Juunin",
+        "url": "https://fanfox.net/manga/blade_of_the_immortal/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/123/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 658,
+        "aniId": 30658,
+        "createdAt": "2021-06-29T10:15:03.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

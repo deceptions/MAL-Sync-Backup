@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:09.000Z",
-  "updatedAt": "2021-05-27T11:28:46.000Z",
+  "updatedAt": "2021-06-29T10:12:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 44922,
         "createdAt": "2021-05-27T11:28:47.000Z",
         "updatedAt": "2021-05-27T11:58:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-oe965787": {
+        "authors": [
+          "Naomura Tooru"
+        ],
+        "identifier": "manga-oe965787",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shitsurakuen",
+        "url": "https://manganato.com/manga-oe965787",
+        "image": "https://avt.mkklcdnv6temp.com/19/t/10-1583482873.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14922,
+        "aniId": 44922,
+        "createdAt": "2021-06-29T10:12:23.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
     }

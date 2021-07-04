@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:06.000Z",
-  "updatedAt": "2021-05-29T20:42:33.000Z",
+  "updatedAt": "2021-06-29T09:54:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 101591,
         "createdAt": "2020-12-22T08:26:36.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bq979125": {
+        "authors": [
+          "Yuto"
+        ],
+        "identifier": "manga-bq979125",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Asmodeus Wa Akiramenai",
+        "url": "https://readmanganato.com/manga-bq979125",
+        "image": "https://avt.mkklcdnv6temp.com/29/u/16-1583494539.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 107405,
+        "aniId": 101591,
+        "createdAt": "2021-05-29T20:42:33.000Z",
+        "updatedAt": "2021-06-27T10:03:21.000Z",
         "deletedAt": null
       }
     }

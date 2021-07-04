@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:06.000Z",
-  "updatedAt": "2021-03-14T09:40:08.000Z",
+  "updatedAt": "2021-06-30T22:21:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 69867,
         "createdAt": "2021-03-14T09:40:08.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ct956802": {
+        "authors": [
+          "Yokota Takuma"
+        ],
+        "identifier": "manga-ct956802",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Koganeiro",
+        "url": "https://manganato.com/manga-ct956802",
+        "image": "https://avt.mkklcdnv6temp.com/26/u/4-1583470785.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39867,
+        "aniId": 69867,
+        "createdAt": "2021-06-30T22:21:20.000Z",
+        "updatedAt": "2021-06-30T22:50:02.000Z",
         "deletedAt": null
       }
     }

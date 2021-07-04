@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:30.000Z",
-  "updatedAt": "2021-05-15T04:26:03.000Z",
+  "updatedAt": "2021-06-27T01:20:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,7 +84,31 @@
         "malId": 98174,
         "aniId": 97153,
         "createdAt": "2021-01-28T18:53:48.000Z",
-        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "updatedAt": "2021-06-27T01:20:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vu972755": {
+        "authors": [
+          "Amazake No Hisago",
+          "Katou Takuji",
+          "Kurogin"
+        ],
+        "identifier": "manga-vu972755",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Knights & Magic",
+        "url": "https://readmanganato.com/manga-vu972755",
+        "image": "https://avt.mkklcdnv6temp.com/20/d/14-1583490466.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 98174,
+        "aniId": 97153,
+        "createdAt": "2021-05-31T13:34:37.000Z",
+        "updatedAt": "2021-07-01T05:50:05.000Z",
         "deletedAt": null
       }
     }

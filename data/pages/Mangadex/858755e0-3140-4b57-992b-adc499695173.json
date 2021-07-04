@@ -13,9 +13,9 @@
   "active": true,
   "actor": 2,
   "malId": 123148,
-  "aniId": null,
+  "aniId": 104844,
   "createdAt": "2020-10-12T16:15:43.000Z",
-  "updatedAt": "2021-06-06T16:27:14.000Z",
+  "updatedAt": "2021-06-30T06:50:01.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -35,6 +35,25 @@
     "updatedAt": "2021-06-06T16:20:19.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "服従都市"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hiroshi Nakanishi"
+    ],
+    "id": 104844,
+    "malId": 123148,
+    "type": "manga",
+    "title": "Fukujuu Toshi",
+    "url": "https://anilist.co/manga/104844",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104844-VMWuou9Oj4yF.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-30T06:20:01.000Z",
+    "updatedAt": "2021-06-30T06:20:01.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/123148/Fukujuu_Toshi"
 }

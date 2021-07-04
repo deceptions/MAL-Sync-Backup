@@ -17,5 +17,28 @@
   "createdAt": "2021-05-22T19:12:58.000Z",
   "updatedAt": "2021-06-18T08:06:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "hitori_to_hitori_no_3650nichi": {
+        "authors": [
+          "hitomi"
+        ],
+        "identifier": "hitori_to_hitori_no_3650nichi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hitori to Hitori no 3650nichi",
+        "url": "https://fanfox.net/manga/hitori_to_hitori_no_3650nichi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35681/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124888,
+        "aniId": 115965,
+        "createdAt": "2021-07-04T00:04:19.000Z",
+        "updatedAt": "2021-07-04T00:33:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

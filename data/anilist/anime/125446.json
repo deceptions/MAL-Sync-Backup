@@ -1,9 +1,15 @@
 {
   "altTitle": [
+    "Kageki Shojo!!",
     "かげきしょうじょ!!",
     "Opera Girl!!"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/kageki-shojo/"
+    }
+  ],
   "id": 125446,
   "malId": 43691,
   "type": "anime",
@@ -13,7 +19,46 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-22T11:12:57.000Z",
-  "updatedAt": "2021-06-17T17:54:49.000Z",
+  "updatedAt": "2021-07-02T11:03:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "animepahe": {
+      "4452": {
+        "identifier": "4452",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kageki Shoujo!!",
+        "url": "https://pahe.win/a/4452",
+        "image": "https://i.animepahe.com/posters/b5f8f4441b7ead8f5e331bb6f43470c9d615782fb0294d575fe4ea22867c4eef.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43691,
+        "aniId": 125446,
+        "createdAt": "2021-07-03T15:34:02.000Z",
+        "updatedAt": "2021-07-03T16:03:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "wlzl": {
+        "identifier": "wlzl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kageki Shoujo!!",
+        "url": "https://www12.9anime.to/watch/kageki-shojo.wlzl",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/85/858d1644e590501ea369c4395186fe23.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43691,
+        "aniId": 125446,
+        "createdAt": "2021-07-03T17:04:28.000Z",
+        "updatedAt": "2021-07-03T17:33:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

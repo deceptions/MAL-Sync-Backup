@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:10.000Z",
-  "updatedAt": "2021-03-27T22:49:21.000Z",
+  "updatedAt": "2021-06-29T10:14:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 86507,
         "createdAt": "2021-03-27T22:49:21.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nh952690": {
+        "authors": [
+          "Kobashiko"
+        ],
+        "identifier": "manga-nh952690",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hazuki Kanon Wa Amakunai.",
+        "url": "https://manganato.com/manga-nh952690",
+        "image": "https://avt.mkklcdnv6temp.com/48/h/1-1583465605.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92526,
+        "aniId": 86507,
+        "createdAt": "2021-06-29T10:14:35.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
     }

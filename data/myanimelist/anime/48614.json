@@ -13,5 +13,44 @@
   "createdAt": "2021-03-31T10:31:01.000Z",
   "updatedAt": "2021-06-21T11:21:02.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "kqrr": {
+        "identifier": "kqrr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Wonder Egg Priority Special",
+        "url": "https://www12.9anime.to/watch/wonder-egg-priority-special.kqrr",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/24/245151abe19f405e94565b01235ce3d3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48614,
+        "aniId": 131773,
+        "createdAt": "2021-06-30T01:20:34.000Z",
+        "updatedAt": "2021-06-30T01:50:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4427": {
+        "identifier": "4427",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Wonder Egg Priority Special",
+        "url": "https://pahe.win/a/4427",
+        "image": "https://i.animepahe.com/posters/77e1b742a03d96bafcf4170ab8575cd82d774e3f8d4ec02f39571a5066690840.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48614,
+        "aniId": 131773,
+        "createdAt": "2021-07-01T18:50:16.000Z",
+        "updatedAt": "2021-07-01T19:20:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

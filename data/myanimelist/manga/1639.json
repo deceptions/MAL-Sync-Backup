@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:36.000Z",
-  "updatedAt": "2021-01-27T19:10:47.000Z",
+  "updatedAt": "2021-07-03T21:04:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 31639,
         "createdAt": "2021-01-27T19:10:47.000Z",
         "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jj951366": {
+        "authors": [
+          "Ishinomori Shotaro"
+        ],
+        "identifier": "manga-jj951366",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Cyborg 009",
+        "url": "https://manganato.com/manga-jj951366",
+        "image": "https://avt.mkklcdnv6temp.com/2/h/1-1583463754.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1639,
+        "aniId": 31639,
+        "createdAt": "2021-07-03T21:04:20.000Z",
+        "updatedAt": "2021-07-03T21:33:57.000Z",
         "deletedAt": null
       }
     }

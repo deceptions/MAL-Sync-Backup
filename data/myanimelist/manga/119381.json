@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:56.000Z",
-  "updatedAt": "2021-05-23T20:38:37.000Z",
+  "updatedAt": "2021-06-30T03:51:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,29 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "the-banished-villainess-living-the-leisurely-life-of-a-nun-making-revolutionary-church-food": {
+        "authors": [
+          "YOSHIMURA Tsumuji",
+          "YUZUHARA Teiru"
+        ],
+        "identifier": "the-banished-villainess-living-the-leisurely-life-of-a-nun-making-revolutionary-church-food",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Akuyaku Reijou no Tsuihougo!",
+        "url": "https://mangasee123.com/manga/The-Banished-Villainess-Living-the-Leisurely-Life-of-a-Nun-Making-Revolutionary-Church-Food",
+        "image": "https://cover.nep.li/cover/The-Banished-Villainess-Living-the-Leisurely-Life-of-a-Nun-Making-Revolutionary-Church-Food.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 119381,
+        "aniId": 108089,
+        "createdAt": "2020-12-26T21:57:21.000Z",
+        "updatedAt": "2021-06-30T07:50:01.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-dz981008": {
         "authors": [
@@ -60,6 +83,28 @@
         "aniId": 108089,
         "createdAt": "2021-06-06T07:19:18.000Z",
         "updatedAt": "2021-06-06T07:49:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_banished_villainess_living_the_leisurely_life_of_a_nun_making_revolutionary_church_food": {
+        "authors": [
+          "YUZUHARA Teiru"
+        ],
+        "identifier": "the_banished_villainess_living_the_leisurely_life_of_a_nun_making_revolutionary_church_food",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Banished Villainess! Living the Leisurely Life of a Nun Making Revolutionary Church Food",
+        "url": "https://fanfox.net/manga/the_banished_villainess_living_the_leisurely_life_of_a_nun_making_revolutionary_church_food/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29955/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119381,
+        "aniId": 108089,
+        "createdAt": "2021-06-30T09:51:05.000Z",
+        "updatedAt": "2021-06-30T10:20:01.000Z",
         "deletedAt": null
       }
     }

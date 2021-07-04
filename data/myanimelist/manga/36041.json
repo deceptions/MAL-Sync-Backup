@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:00.000Z",
-  "updatedAt": "2021-01-28T04:39:16.000Z",
+  "updatedAt": "2021-06-29T09:56:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 66041,
         "createdAt": "2021-01-28T04:39:16.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tm958495": {
+        "authors": [
+          "Kakei Hidetaka"
+        ],
+        "identifier": "manga-tm958495",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sexless Friend",
+        "url": "https://manganato.com/manga-tm958495",
+        "image": "https://avt.mkklcdnv6temp.com/28/h/5-1583472958.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36041,
+        "aniId": 66041,
+        "createdAt": "2021-06-29T09:56:50.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
     }

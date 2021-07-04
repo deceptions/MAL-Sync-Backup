@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:50.000Z",
-  "updatedAt": "2021-05-08T08:48:32.000Z",
+  "updatedAt": "2021-06-29T08:43:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 107275,
         "createdAt": "2021-05-08T08:48:32.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kyuujitsu_no_warumono_san": {
+        "authors": [
+          "MORIKAWA Yutaka"
+        ],
+        "identifier": "kyuujitsu_no_warumono_san",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kyuujitsu no Warumono-san",
+        "url": "https://fanfox.net/manga/kyuujitsu_no_warumono_san/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29646/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117549,
+        "aniId": 107275,
+        "createdAt": "2021-06-29T08:43:37.000Z",
+        "updatedAt": "2021-06-29T08:49:24.000Z",
         "deletedAt": null
       }
     }

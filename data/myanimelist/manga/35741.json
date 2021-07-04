@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:59.000Z",
-  "updatedAt": "2021-04-22T19:57:08.000Z",
+  "updatedAt": "2021-07-03T23:35:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 65741,
         "createdAt": "2021-04-22T19:57:09.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ln960348": {
+        "authors": [
+          "Kozaki Ai"
+        ],
+        "identifier": "manga-ln960348",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Asahinagu",
+        "url": "https://manganato.com/manga-ln960348",
+        "image": "https://avt.mkklcdnv6temp.com/48/d/6-1583476195.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35741,
+        "aniId": 65741,
+        "createdAt": "2021-07-03T23:34:49.000Z",
+        "updatedAt": "2021-07-04T00:03:57.000Z",
         "deletedAt": null
       }
     }

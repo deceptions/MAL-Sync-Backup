@@ -3,7 +3,10 @@
     "아 하세요, 금수저 들어갑니다"
   ],
   "externalLinks": [],
-  "authors": [],
+  "authors": [
+    "Yu-Seong Sin",
+    "Poreutopino"
+  ],
   "id": 136012,
   "malId": null,
   "type": "manga",
@@ -13,7 +16,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-24T04:44:54.000Z",
-  "updatedAt": "2021-06-24T04:44:54.000Z",
+  "updatedAt": "2021-06-28T11:19:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-la989183": {
+        "authors": [
+          "신유성",
+          "포르토피노"
+        ],
+        "identifier": "manga-la989183",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Say Ah, The Golden Spoon Is Entering",
+        "url": "https://manganato.com/manga-la989183",
+        "image": "https://avt.mkklcdnv6temp.com/19/w/24-1623994056.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 136012,
+        "createdAt": "2021-06-18T07:50:50.000Z",
+        "updatedAt": "2021-07-02T11:35:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -85,6 +85,28 @@
         "updatedAt": "2021-06-24T08:44:55.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kono_healer_mendokusai": {
+        "authors": [
+          "Tannen Ni Hakkou"
+        ],
+        "identifier": "kono_healer_mendokusai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kono Healer Mendokusai",
+        "url": "https://fanfox.net/manga/kono_healer_mendokusai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32909/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125180,
+        "aniId": 116091,
+        "createdAt": "2021-07-01T20:50:15.000Z",
+        "updatedAt": "2021-07-01T21:20:05.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

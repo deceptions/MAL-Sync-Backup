@@ -1,6 +1,12 @@
 {
   "altTitle": [
-    "Kimiiro Shoujo, Suki no Kyori, Kore wa, Nisemono, Kuchibiru ni Himitsu wo, Ichinichi Hakushi, Kono Machi ni Ningyo wa Inai, Kore wa, Sotsugyou Kinen",
+    "Kimiiro Shoujo",
+    "Suki no Kyori",
+    "Kore wa, Nisemono",
+    "Kuchibiru ni Himitsu wo",
+    "Ichinichi Hakushi",
+    "Kono Machi ni Ningyo wa Inai",
+    "Kore wa, Sotsugyou Kinen",
     "キミイロ少女"
   ],
   "authors": [
@@ -14,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:33.000Z",
-  "updatedAt": "2021-05-11T14:12:11.000Z",
+  "updatedAt": "2021-07-01T05:51:55.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +42,28 @@
         "aniId": 86728,
         "createdAt": "2020-10-12T16:13:18.000Z",
         "updatedAt": "2021-06-05T20:24:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kimiiro_shoujo": {
+        "authors": [
+          "Miman"
+        ],
+        "identifier": "kimiiro_shoujo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimiiro Shoujo",
+        "url": "https://fanfox.net/manga/kimiiro_shoujo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18639/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 79707,
+        "aniId": 86728,
+        "createdAt": "2021-07-01T05:51:45.000Z",
+        "updatedAt": "2021-07-01T06:20:04.000Z",
         "deletedAt": null
       }
     }

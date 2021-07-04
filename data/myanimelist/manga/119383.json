@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:56.000Z",
-  "updatedAt": "2021-05-23T20:38:37.000Z",
+  "updatedAt": "2021-06-29T10:10:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 116621,
         "createdAt": "2021-06-02T15:31:21.000Z",
         "updatedAt": "2021-06-02T16:00:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "what_i_get_for_marrying_a_demon_bride": {
+        "authors": [
+          "Yamato Nadeshiko"
+        ],
+        "identifier": "what_i_get_for_marrying_a_demon_bride",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "What I Get for Marrying a Demon Bride",
+        "url": "https://fanfox.net/manga/what_i_get_for_marrying_a_demon_bride/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29323/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119383,
+        "aniId": 116621,
+        "createdAt": "2021-06-29T10:10:00.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
     }

@@ -14,9 +14,9 @@
   "active": true,
   "actor": 1,
   "malId": 118909,
-  "aniId": null,
+  "aniId": 97680,
   "createdAt": "2020-10-12T16:11:01.000Z",
-  "updatedAt": "2021-06-05T08:49:09.000Z",
+  "updatedAt": "2021-06-30T03:50:01.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,26 @@
     "updatedAt": "2021-06-05T05:20:30.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "통"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Meen",
+      "Seung-Hoon Baek"
+    ],
+    "id": 97680,
+    "malId": 118909,
+    "type": "manga",
+    "title": "Tong",
+    "url": "https://anilist.co/manga/97680",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx97680-0cqTL46fDCvZ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-30T03:20:03.000Z",
+    "updatedAt": "2021-06-30T03:20:03.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/118909/Tong"
 }

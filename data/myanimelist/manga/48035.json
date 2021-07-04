@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:30.000Z",
-  "updatedAt": "2021-01-13T10:39:26.000Z",
+  "updatedAt": "2021-07-02T08:51:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,50 @@
         "aniId": 78035,
         "createdAt": "2021-01-13T10:39:26.000Z",
         "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ay956581": {
+        "authors": [
+          "Kuraishi Yuu"
+        ],
+        "identifier": "manga-ay956581",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Wagatsuma-San Wa Ore No Yome",
+        "url": "https://readmanganato.com/manga-ay956581",
+        "image": "https://avt.mkklcdnv6temp.com/20/f/4-1583470500.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48035,
+        "aniId": 78035,
+        "createdAt": "2021-07-02T08:50:07.000Z",
+        "updatedAt": "2021-07-02T09:18:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "wagatsuma_san_wa_ore_no_yome": {
+        "authors": [
+          "KURAISHI Yuu"
+        ],
+        "identifier": "wagatsuma_san_wa_ore_no_yome",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Wagatsuma-san wa Ore no Yome",
+        "url": "https://fanfox.net/manga/wagatsuma_san_wa_ore_no_yome/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11861/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48035,
+        "aniId": 78035,
+        "createdAt": "2021-07-02T08:51:17.000Z",
+        "updatedAt": "2021-07-02T09:18:16.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:09.000Z",
-  "updatedAt": "2021-05-02T00:02:21.000Z",
+  "updatedAt": "2021-06-29T08:46:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,29 @@
         "aniId": 44857,
         "createdAt": "2020-10-12T16:03:15.000Z",
         "updatedAt": "2021-06-02T12:39:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "inorihime-wa-sora-ni-warau": {
+        "authors": [
+          "KAEDE Tooru",
+          "MIZUTANI Yuzu"
+        ],
+        "identifier": "inorihime-wa-sora-ni-warau",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Inorihime wa Sora ni Warau",
+        "url": "https://mangasee123.com/manga/Inorihime-Wa-Sora-Ni-Warau",
+        "image": "https://cover.nep.li/cover/Inorihime-Wa-Sora-Ni-Warau.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14857,
+        "aniId": 44857,
+        "createdAt": "2021-06-29T08:46:10.000Z",
+        "updatedAt": "2021-06-29T08:49:24.000Z",
         "deletedAt": null
       }
     }

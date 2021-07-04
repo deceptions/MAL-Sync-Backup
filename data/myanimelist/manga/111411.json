@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:22.000Z",
-  "updatedAt": "2021-03-28T10:20:58.000Z",
+  "updatedAt": "2021-06-28T08:19:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 105428,
         "createdAt": "2021-03-28T10:20:59.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jw986779": {
+        "authors": [
+          "Kirishima Rira"
+        ],
+        "identifier": "manga-jw986779",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ijiwaru Killer Tune",
+        "url": "https://manganato.com/manga-jw986779",
+        "image": "https://avt.mkklcdnv6temp.com/20/o/22-1601269771.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111411,
+        "aniId": 105428,
+        "createdAt": "2021-06-28T08:19:22.000Z",
+        "updatedAt": "2021-06-28T08:49:19.000Z",
         "deletedAt": null
       }
     }

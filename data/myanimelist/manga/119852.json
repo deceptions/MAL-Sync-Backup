@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:58.000Z",
-  "updatedAt": "2021-04-23T23:27:34.000Z",
+  "updatedAt": "2021-06-30T03:50:33.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,29 @@
         "aniId": 109512,
         "createdAt": "2021-04-23T23:27:37.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ei981791": {
+        "authors": [
+          "Haruichi Furudate",
+          "Kyouhei Miyajima"
+        ],
+        "identifier": "manga-ei981791",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Haikyuu-Bu!!",
+        "url": "https://readmanganato.com/manga-ei981791",
+        "image": "https://avt.mkklcdnv6temp.com/28/a/18-1583498170.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119852,
+        "aniId": 109512,
+        "createdAt": "2021-06-30T03:50:23.000Z",
+        "updatedAt": "2021-06-30T04:20:01.000Z",
         "deletedAt": null
       }
     }

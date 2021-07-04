@@ -12,7 +12,7 @@
   "category": "OVA",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:27.000Z",
-  "updatedAt": "2021-05-17T19:25:22.000Z",
+  "updatedAt": "2021-06-27T12:20:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -67,6 +67,23 @@
         "aniId": 2263,
         "createdAt": "2020-10-12T16:01:55.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      },
+      "sonic-the-hedgehog-dub": {
+        "identifier": "sonic-the-hedgehog-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sonic the Hedgehog (Dub)",
+        "url": "https://gogoanime.ai/category/sonic-the-hedgehog-dub",
+        "image": "https://gogocdn.net/cover/sonic-the-hedgehog-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2263,
+        "aniId": 2263,
+        "createdAt": "2021-06-27T12:19:20.000Z",
+        "updatedAt": "2021-06-27T12:49:19.000Z",
         "deletedAt": null
       }
     }
