@@ -14,10 +14,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-02T14:13:58.000Z",
-  "updatedAt": "2021-03-18T06:32:54.000Z",
+  "updatedAt": "2021-07-05T18:00:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
+      "64edb636-7dd5-406e-90ae-98796f38f00a": {
+        "authors": [
+          "Nikaidou Ko"
+        ],
+        "identifier": "64edb636-7dd5-406e-90ae-98796f38f00a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ame to Kimi to (Webcomic)",
+        "url": "https://mangadex.org/title/64edb636-7dd5-406e-90ae-98796f38f00a",
+        "image": "https://uploads.mangadex.org/covers/64edb636-7dd5-406e-90ae-98796f38f00a/c81806ba-a6cd-438c-8d01-bdb968e3b90b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 129418,
+        "aniId": 119936,
+        "createdAt": "2020-10-12T16:19:37.000Z",
+        "updatedAt": "2021-07-09T07:45:41.000Z",
+        "deletedAt": null
+      },
       "193f91a0-51ef-4653-b3d7-a3f75c42ee9b": {
         "authors": [
           "Nikaidou Ko"
@@ -58,6 +78,28 @@
         "aniId": 123004,
         "createdAt": "2021-03-18T06:32:54.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ir985400": {
+        "authors": [
+          "Nikaidou Kou"
+        ],
+        "identifier": "manga-ir985400",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ame To Kimi To",
+        "url": "https://manganato.com/manga-ir985400",
+        "image": "https://avt.mkklcdnv6temp.com/14/c/21-1589564861.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129418,
+        "aniId": 123004,
+        "createdAt": "2021-07-05T18:00:32.000Z",
+        "updatedAt": "2021-07-05T18:29:51.000Z",
         "deletedAt": null
       }
     }

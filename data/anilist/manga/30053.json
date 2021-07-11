@@ -96,6 +96,28 @@
         "updatedAt": "2021-06-25T11:44:56.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "yu_yu_hakusho": {
+        "authors": [
+          "TOGASHI Yoshihiro"
+        ],
+        "identifier": "yu_yu_hakusho",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yu Yu Hakusho",
+        "url": "https://fanfox.net/manga/yu_yu_hakusho/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/70/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 53,
+        "aniId": 30053,
+        "createdAt": "2021-07-07T11:59:53.000Z",
+        "updatedAt": "2021-07-07T12:29:52.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

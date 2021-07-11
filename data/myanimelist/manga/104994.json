@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:58.000Z",
-  "updatedAt": "2021-05-18T15:01:13.000Z",
+  "updatedAt": "2021-07-09T21:43:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,29 @@
         "aniId": 111275,
         "createdAt": "2020-10-12T16:16:51.000Z",
         "updatedAt": "2021-06-07T02:34:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kt987676": {
+        "authors": [
+          "Tanaka Yoshiki",
+          "Fukuda Ikumi"
+        ],
+        "identifier": "manga-kt987676",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Chronicle Of Seven Cities",
+        "url": "https://manganato.com/manga-kt987676",
+        "image": "https://avt.mkklcdnv6temp.com/7/o/23-1610851325.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104994,
+        "aniId": 111275,
+        "createdAt": "2021-07-09T21:43:33.000Z",
+        "updatedAt": "2021-07-09T22:13:16.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:26.000Z",
-  "updatedAt": "2021-01-30T00:56:22.000Z",
+  "updatedAt": "2021-07-10T14:44:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 56448,
         "createdAt": "2021-01-30T00:56:22.000Z",
         "updatedAt": "2021-06-08T10:38:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cs980275": {
+        "authors": [
+          "Yuuga Takauchi"
+        ],
+        "identifier": "manga-cs980275",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mangaranai.",
+        "url": "https://readmanganato.com/manga-cs980275",
+        "image": "https://avt.mkklcdnv6temp.com/22/n/17-1583496067.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26448,
+        "aniId": 56448,
+        "createdAt": "2021-07-10T14:43:28.000Z",
+        "updatedAt": "2021-07-10T15:13:18.000Z",
         "deletedAt": null
       }
     }

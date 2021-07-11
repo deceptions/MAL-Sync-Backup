@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Soramochi",
-    "Senki Anten"
+    "Senki Anten",
+    "Soramochi"
   ],
   "identifier": "72b28da7-eb5d-4dee-a5ca-2f18197deb02",
   "type": "manga",
@@ -12,13 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 2,
+  "malId": 129402,
   "aniId": null,
   "createdAt": "2020-10-12T16:21:14.000Z",
-  "updatedAt": "2021-06-08T01:56:02.000Z",
+  "updatedAt": "2021-07-08T15:49:49.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "altTitle": [
+      "姉が剣聖で妹が賢者で"
+    ],
+    "authors": [
+      "Sora, Mochi",
+      "Senki, Anten"
+    ],
+    "id": 129402,
+    "type": "manga",
+    "title": "Ane ga Kensei de Imouto ga Kenja de",
+    "url": "https://myanimelist.net/manga/129402/Ane_ga_Kensei_de_Imouto_ga_Kenja_de",
+    "image": "https://cdn.myanimelist.net/images/manga/3/245007.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-03-16T16:33:33.000Z",
+    "updatedAt": "2021-07-08T08:43:37.000Z",
+    "deletedAt": null
+  },
   "Anilist": null,
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/129402/Ane_ga_Kensei_de_Imouto_ga_Kenja_de"
 }

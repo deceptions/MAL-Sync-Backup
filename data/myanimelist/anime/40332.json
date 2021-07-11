@@ -11,7 +11,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:12.000Z",
-  "updatedAt": "2021-05-28T15:53:56.000Z",
+  "updatedAt": "2021-07-05T11:31:53.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -75,7 +75,7 @@
         "type": "anime",
         "page": "Gogoanime",
         "title": "Kyochuu Rettou Movie",
-        "url": "https://gogoanime.video/category/kyochuu-rettou-movie",
+        "url": "https://gogoanime.vc/category/kyochuu-rettou-movie",
         "image": "https://cdnimg.xyz/cover/kyochuu-rettou-movie.png",
         "hentai": false,
         "sticky": false,
@@ -92,7 +92,7 @@
         "type": "anime",
         "page": "Gogoanime",
         "title": "Kyochuu Rettou Movie (Dub)",
-        "url": "https://gogoanime.ai/category/kyochuu-rettou-movie-dub",
+        "url": "https://gogoanime.vc/category/kyochuu-rettou-movie-dub",
         "image": "https://gogocdn.net/cover/kyochuu-rettou-movie-dub.png",
         "hentai": false,
         "sticky": false,
@@ -121,6 +121,25 @@
         "aniId": 107880,
         "createdAt": "2020-11-07T15:27:27.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "3717": {
+        "identifier": "3717",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kyochuu Rettou Movie",
+        "url": "https://pahe.win/a/3717",
+        "image": "https://i.animepahe.com/posters/e92f1df157842e845d729a8ff8c22531aa788439b93e1a61efbad56d6ae7e59e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40332,
+        "aniId": 107880,
+        "createdAt": "2021-07-05T11:31:50.000Z",
+        "updatedAt": "2021-07-05T11:59:51.000Z",
         "deletedAt": null
       }
     }

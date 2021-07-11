@@ -43,6 +43,28 @@
         "updatedAt": "2021-06-04T00:32:29.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "boys_be": {
+        "authors": [
+          "Itabashi Masahiro"
+        ],
+        "identifier": "boys_be",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Boys Be",
+        "url": "https://fanfox.net/manga/boys_be/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/328/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 152,
+        "aniId": 30152,
+        "createdAt": "2021-07-08T10:14:19.000Z",
+        "updatedAt": "2021-07-08T10:43:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

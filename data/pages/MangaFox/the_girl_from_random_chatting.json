@@ -10,14 +10,36 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/28996/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 105429,
   "createdAt": "2021-01-12T23:21:55.000Z",
-  "updatedAt": "2021-01-12T23:21:55.000Z",
+  "updatedAt": "2021-07-04T03:38:38.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Random Chat",
+      "랜덤채팅의 그녀!",
+      "Raendeomchaetingui Geunyeo!",
+      "The Girl from Random Chatting!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Eunhyuk Park"
+    ],
+    "id": 105429,
+    "malId": null,
+    "type": "manga",
+    "title": "Random Chatting Geunyeo!",
+    "url": "https://anilist.co/manga/105429",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx105429-D1j9UTuApGRs.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-24T09:08:18.000Z",
+    "updatedAt": "2021-06-21T13:54:23.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

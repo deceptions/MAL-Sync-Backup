@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 114976,
   "createdAt": "2021-05-29T14:43:14.000Z",
-  "updatedAt": "2021-05-29T14:43:14.000Z",
+  "updatedAt": "2021-07-05T10:14:40.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "罗小黑战记·蓝溪镇",
+      "The Legend of Luo Xiaohei: Lanxi Town",
+      "Luo Xiao Hei Zhan Ji: Lanxi Zhen"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "MTJJ",
+      "Gua Sun"
+    ],
+    "id": 114976,
+    "malId": null,
+    "type": "manga",
+    "title": "Luo Xiaohei Zhan Ji: Lanxi Zhen",
+    "url": "https://anilist.co/manga/114976",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114976-uTrVJFPAXUty.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-07T09:50:43.000Z",
+    "updatedAt": "2021-06-21T14:56:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -104,6 +104,28 @@
         "updatedAt": "2021-06-08T01:50:16.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "inu_yashiki": {
+        "authors": [
+          "OKU Hiroya"
+        ],
+        "identifier": "inu_yashiki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Inu Yashiki",
+        "url": "https://fanfox.net/manga/inu_yashiki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13636/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64465,
+        "aniId": 85226,
+        "createdAt": "2021-07-04T08:00:52.000Z",
+        "updatedAt": "2021-07-04T08:29:50.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:10.000Z",
-  "updatedAt": "2021-04-07T16:51:19.000Z",
+  "updatedAt": "2021-07-09T06:13:33.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,6 +78,28 @@
         "aniId": 101519,
         "createdAt": "2020-12-31T18:33:20.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bd978760": {
+        "authors": [
+          "Hino Haruto"
+        ],
+        "identifier": "manga-bd978760",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Takunomi.",
+        "url": "https://readmanganato.com/manga-bd978760",
+        "image": "https://avt.mkklcdnv6temp.com/16/a/16-1583494047.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108731,
+        "aniId": 101519,
+        "createdAt": "2021-07-09T06:13:31.000Z",
+        "updatedAt": "2021-07-09T06:43:16.000Z",
         "deletedAt": null
       }
     }

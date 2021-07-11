@@ -61,6 +61,28 @@
         "updatedAt": "2021-05-20T15:39:39.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "nyan-koi": {
+        "authors": [
+          "FUJIWARA Sato"
+        ],
+        "identifier": "nyan-koi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Nyan Koi!",
+        "url": "https://mangasee123.com/manga/Nyan-Koi",
+        "image": "https://cover.nep.li/cover/Nyan-Koi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15469,
+        "aniId": 45469,
+        "createdAt": "2021-07-04T16:00:06.000Z",
+        "updatedAt": "2021-07-04T16:29:50.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -11,13 +11,49 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 122026,
+  "aniId": 111160,
   "createdAt": "2021-03-08T12:40:33.000Z",
-  "updatedAt": "2021-06-08T12:13:05.000Z",
+  "updatedAt": "2021-07-10T13:13:17.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "JKくのいちは全てを捧げたい"
+    ],
+    "authors": [
+      "Umechazuke"
+    ],
+    "id": 122026,
+    "type": "manga",
+    "title": "JK Kunoichi wa Subete wo Sasagetai",
+    "url": "https://myanimelist.net/manga/122026/JK_Kunoichi_wa_Subete_wo_Sasagetai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/244276.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-03-08T12:40:29.000Z",
+    "updatedAt": "2021-07-10T08:13:37.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "JKくのいちは全てを捧げたい"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Umechazuke"
+    ],
+    "id": 111160,
+    "malId": 122026,
+    "type": "manga",
+    "title": "JK Kunoichi wa Subete wo Sasagetai",
+    "url": "https://anilist.co/manga/111160",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111160-uMduMVwrk5D1.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-18T11:20:51.000Z",
+    "updatedAt": "2021-06-18T11:20:51.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/122026/JK_Kunoichi_wa_Subete_wo_Sasagetai"
 }

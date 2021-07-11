@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:06.000Z",
-  "updatedAt": "2021-04-06T22:38:16.000Z",
+  "updatedAt": "2021-07-08T04:13:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -79,6 +79,28 @@
         "aniId": 99340,
         "createdAt": "2021-04-06T22:38:18.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-za976983": {
+        "authors": [
+          "Shikishiro Konomi"
+        ],
+        "identifier": "manga-za976983",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gaishu-Isshoku",
+        "url": "https://readmanganato.com/manga-za976983",
+        "image": "https://avt.mkklcdnv6temp.com/33/b/15-1583492766.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107383,
+        "aniId": 99340,
+        "createdAt": "2021-07-08T04:13:23.000Z",
+        "updatedAt": "2021-07-08T04:43:16.000Z",
         "deletedAt": null
       }
     }

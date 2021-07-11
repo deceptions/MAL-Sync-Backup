@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-21T14:39:14.000Z",
-  "updatedAt": "2021-06-03T14:50:08.000Z",
+  "updatedAt": "2021-07-09T07:14:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,28 @@
         "aniId": 117988,
         "createdAt": "2021-06-03T14:50:08.000Z",
         "updatedAt": "2021-06-03T15:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "succubus_hitman": {
+        "authors": [
+          "FUKAMI Makoto"
+        ],
+        "identifier": "succubus_hitman",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Succubus & Hitman",
+        "url": "https://fanfox.net/manga/succubus_hitman/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34398/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126653,
+        "aniId": 117988,
+        "createdAt": "2021-07-09T07:14:00.000Z",
+        "updatedAt": "2021-07-09T07:43:16.000Z",
         "deletedAt": null
       }
     }

@@ -13,9 +13,9 @@
   "active": true,
   "actor": 2,
   "malId": 111055,
-  "aniId": null,
+  "aniId": 107312,
   "createdAt": "2020-10-12T16:12:39.000Z",
-  "updatedAt": "2021-06-05T16:10:46.000Z",
+  "updatedAt": "2021-07-06T14:59:51.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,27 @@
     "updatedAt": "2021-06-05T15:49:47.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "真夜中のオルフェ",
+      "Orpheus of Midnight",
+      "Mayonaka no Orpheus"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Billy Balibally"
+    ],
+    "id": 107312,
+    "malId": 111055,
+    "type": "manga",
+    "title": "Mayonaka no Orphe",
+    "url": "https://anilist.co/manga/107312",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx107312-A1ReNTnAUfWV.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-06T14:29:52.000Z",
+    "updatedAt": "2021-07-06T14:29:52.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/111055/Mayonaka_no_Orphée"
 }

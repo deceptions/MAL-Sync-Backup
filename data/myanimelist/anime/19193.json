@@ -12,7 +12,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:21.000Z",
-  "updatedAt": "2021-04-25T19:27:01.000Z",
+  "updatedAt": "2021-07-04T03:40:26.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -57,7 +57,7 @@
         "type": "anime",
         "page": "Gogoanime",
         "title": "Ghost in the Shell: Arise - Border:3 Ghost Tears (Dub)",
-        "url": "https://gogoanime.so/category/ghost-in-the-shell-arise-border3-ghost-tears-dub",
+        "url": "https://gogoanime.vc/category/ghost-in-the-shell-arise-border3-ghost-tears-dub",
         "image": "https://gogocdn.net/cover/ghost-in-the-shell-arise-border3-ghost-tears-dub.png",
         "hentai": false,
         "sticky": false,
@@ -86,6 +86,25 @@
         "aniId": 19193,
         "createdAt": "2020-11-01T10:44:41.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2191": {
+        "identifier": "2191",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears",
+        "url": "https://pahe.win/a/2191",
+        "image": "https://i.animepahe.com/posters/150ab81fcf3614dd9cf1018344b3aec4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19193,
+        "aniId": 19193,
+        "createdAt": "2021-07-04T03:40:22.000Z",
+        "updatedAt": "2021-07-04T03:59:50.000Z",
         "deletedAt": null
       }
     }

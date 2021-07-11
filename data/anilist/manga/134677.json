@@ -22,5 +22,29 @@
   "createdAt": "2021-05-27T03:28:43.000Z",
   "updatedAt": "2021-06-26T18:19:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "c468420f-9a90-4f22-b766-64e3be56cd6c": {
+        "authors": [
+          "Bul-sa",
+          "Jaerim"
+        ],
+        "identifier": "c468420f-9a90-4f22-b766-64e3be56cd6c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Surely A Happy Ending",
+        "url": "https://mangadex.org/title/c468420f-9a90-4f22-b766-64e3be56cd6c",
+        "image": "",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 134677,
+        "createdAt": "2021-07-08T00:13:28.000Z",
+        "updatedAt": "2021-07-08T00:13:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

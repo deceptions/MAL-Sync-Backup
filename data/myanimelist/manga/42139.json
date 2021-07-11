@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:15.000Z",
-  "updatedAt": "2021-05-04T00:33:08.000Z",
+  "updatedAt": "2021-07-06T02:30:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,28 @@
         "aniId": 72139,
         "createdAt": "2021-05-04T00:33:09.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vf956088": {
+        "authors": [
+          "Tachibana Koushi"
+        ],
+        "identifier": "manga-vf956088",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Date A Origami",
+        "url": "https://manganato.com/manga-vf956088",
+        "image": "https://avt.mkklcdnv6temp.com/2/g/4-1583469742.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42139,
+        "aniId": 72139,
+        "createdAt": "2021-07-06T02:30:05.000Z",
+        "updatedAt": "2021-07-06T02:59:51.000Z",
         "deletedAt": null
       }
     }

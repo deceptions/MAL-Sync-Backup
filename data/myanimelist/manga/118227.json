@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:52.000Z",
-  "updatedAt": "2021-06-06T10:19:18.000Z",
+  "updatedAt": "2021-07-09T06:44:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 107442,
         "createdAt": "2020-10-12T16:15:02.000Z",
         "updatedAt": "2021-06-06T10:19:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-db980836": {
+        "authors": [
+          "Yuu Fujisaki"
+        ],
+        "identifier": "manga-db980836",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Chinchin Kemokemo",
+        "url": "https://manganato.com/manga-db980836",
+        "image": "https://avt.mkklcdnv6temp.com/43/k/17-1583496822.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118227,
+        "aniId": 107442,
+        "createdAt": "2021-07-09T06:44:18.000Z",
+        "updatedAt": "2021-07-09T07:13:17.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:43.000Z",
-  "updatedAt": "2021-03-19T23:34:40.000Z",
+  "updatedAt": "2021-07-04T03:33:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 61029,
         "createdAt": "2021-01-28T18:52:18.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lc988411": {
+        "authors": [
+          "Ryukishi07"
+        ],
+        "identifier": "manga-lc988411",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Higurashi No Naku Koro Ni Rei - Saikoroshi-Hen",
+        "url": "https://manganato.com/manga-lc988411",
+        "image": "https://avt.mkklcdnv6temp.com/37/r/23-1614878415.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31029,
+        "aniId": 61029,
+        "createdAt": "2021-07-04T03:33:52.000Z",
+        "updatedAt": "2021-07-04T03:59:50.000Z",
         "deletedAt": null
       }
     }

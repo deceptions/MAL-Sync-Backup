@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-24T17:26:01.000Z",
-  "updatedAt": "2021-06-08T07:55:51.000Z",
+  "updatedAt": "2021-07-09T02:43:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -44,6 +44,35 @@
         "aniId": null,
         "createdAt": "2020-11-23T16:25:01.000Z",
         "updatedAt": "2021-06-08T08:40:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dekiai_reijou_wa_danna_sama_kara_nigeraremasen_anthology_comic": {
+        "authors": [
+          "AKANE Sumire",
+          "[Add]",
+          "OUYA Saki",
+          "[Add]",
+          "TACHIBANA Itsuki",
+          "[Add]",
+          "USUI Katsura",
+          "[Add]"
+        ],
+        "identifier": "dekiai_reijou_wa_danna_sama_kara_nigeraremasen_anthology_comic",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dekiai Reijou wa Danna-sama kara Nigeraremasen... Anthology Comic",
+        "url": "https://fanfox.net/manga/dekiai_reijou_wa_danna_sama_kara_nigeraremasen_anthology_comic/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37049/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132499,
+        "aniId": null,
+        "createdAt": "2021-07-09T02:43:25.000Z",
+        "updatedAt": "2021-07-09T02:43:34.000Z",
         "deletedAt": null
       }
     }

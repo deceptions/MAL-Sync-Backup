@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-24T09:55:47.000Z",
-  "updatedAt": "2021-06-07T12:05:58.000Z",
+  "updatedAt": "2021-07-08T09:43:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 121685,
         "createdAt": "2020-12-29T05:52:45.000Z",
         "updatedAt": "2021-06-08T03:20:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jt986728": {
+        "authors": [
+          "Kou Takahashi"
+        ],
+        "identifier": "manga-jt986728",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ora, Yomekko Sa Ikuda! ~ Kosupure Jk No Himitsu No Aijou ~",
+        "url": "https://manganato.com/manga-jt986728",
+        "image": "https://avt.mkklcdnv6temp.com/18/k/22-1600622384.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128665,
+        "aniId": 121685,
+        "createdAt": "2021-07-08T09:43:27.000Z",
+        "updatedAt": "2021-07-08T10:13:16.000Z",
         "deletedAt": null
       }
     }

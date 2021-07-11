@@ -1,6 +1,8 @@
 {
   "altTitle": [
-    "L' étranger du plage, L'étranger de la plage, The Stranger by the Beach",
+    "L' étranger du plage",
+    "L'étranger de la plage",
+    "The Stranger by the Beach",
     "海辺のエトランゼ"
   ],
   "id": 40615,
@@ -11,7 +13,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:13.000Z",
-  "updatedAt": "2021-03-15T16:03:22.000Z",
+  "updatedAt": "2021-07-10T08:14:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {
@@ -50,6 +52,23 @@
         "createdAt": "2021-02-27T15:47:52.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
+      },
+      "llp46": {
+        "identifier": "llp46",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Umibe no Étranger (Dub)",
+        "url": "https://www12.9anime.to/watch/umibe-no-etranger-dub.llp46",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/8c/8ca9f6c5a3b97562ec7c703b32bef2e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40615,
+        "aniId": 112788,
+        "createdAt": "2021-07-10T08:14:08.000Z",
+        "updatedAt": "2021-07-10T08:43:17.000Z",
+        "deletedAt": null
       }
     },
     "Gogoanime": {
@@ -58,7 +77,7 @@
         "type": "anime",
         "page": "Gogoanime",
         "title": "Umibe no Étranger",
-        "url": "https://www2.gogoanime.sh/category/umibe-no-etranger",
+        "url": "https://gogoanime.vc/category/umibe-no-etranger",
         "image": "https://gogocdn.net/cover/umibe-no-etranger.png",
         "hentai": false,
         "sticky": false,
@@ -68,6 +87,23 @@
         "aniId": 112788,
         "createdAt": "2021-03-03T08:51:17.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      },
+      "umibe-no-etranger-dub": {
+        "identifier": "umibe-no-etranger-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Umibe no Étranger (Dub)",
+        "url": "https://gogoanime.pe/category/umibe-no-etranger-dub",
+        "image": "https://gogocdn.net/cover/umibe-no-etranger-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40615,
+        "aniId": 112788,
+        "createdAt": "2021-07-10T11:44:59.000Z",
+        "updatedAt": "2021-07-10T12:13:16.000Z",
         "deletedAt": null
       }
     },

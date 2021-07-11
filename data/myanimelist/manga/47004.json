@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-03T15:49:47.000Z",
-  "updatedAt": "2021-06-03T15:49:47.000Z",
+  "updatedAt": "2021-07-09T08:14:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 77004,
         "createdAt": "2020-10-12T16:05:52.000Z",
         "updatedAt": "2021-06-03T16:19:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "takeru": {
+        "authors": [
+          "TERASAWA Buichi"
+        ],
+        "identifier": "takeru",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Takeru",
+        "url": "https://mangasee123.com/manga/Takeru",
+        "image": "https://cover.nep.li/cover/Takeru.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47004,
+        "aniId": 77004,
+        "createdAt": "2021-07-09T08:13:20.000Z",
+        "updatedAt": "2021-07-09T08:43:17.000Z",
         "deletedAt": null
       }
     }

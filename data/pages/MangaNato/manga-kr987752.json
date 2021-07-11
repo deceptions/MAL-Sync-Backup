@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 129705,
   "createdAt": "2021-06-01T15:46:52.000Z",
-  "updatedAt": "2021-06-01T15:46:52.000Z",
+  "updatedAt": "2021-07-07T17:11:34.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "착하게 살자 시즌1",
+      "Second life of a Gangster",
+      "Let's live a good life"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sa-Yeol",
+      "Sang-Gi Hong",
+      "Gi-Su Oh"
+    ],
+    "id": 129705,
+    "malId": null,
+    "type": "manga",
+    "title": "Chakage Salja Season 1",
+    "url": "https://anilist.co/manga/129705",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129705-1ufyzLYGIcdF.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T02:12:58.000Z",
+    "updatedAt": "2021-06-21T17:21:02.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -12,11 +12,11 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 123042,
-  "aniId": 111722,
+  "actor": 1,
+  "malId": 131840,
+  "aniId": 126770,
   "createdAt": "2021-02-15T20:36:06.000Z",
-  "updatedAt": "2021-05-20T15:40:31.000Z",
+  "updatedAt": "2021-07-09T08:13:17.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -26,39 +26,40 @@
       "Kasama, Sanshirou",
       "Uesugi, Hikaru"
     ],
-    "id": 123042,
+    "id": 131840,
     "type": "manga",
     "title": "Deadpool: Samurai",
-    "url": "https://myanimelist.net/manga/123042/Deadpool__Samurai",
-    "image": "https://cdn.myanimelist.net/images/manga/3/224615.jpg",
-    "category": "One-shot",
+    "url": "https://myanimelist.net/manga/131840/Deadpool__Samurai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/242625.jpg",
+    "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-12-10T04:48:25.000Z",
-    "updatedAt": "2021-03-02T07:51:16.000Z",
+    "createdAt": "2020-12-19T19:26:04.000Z",
+    "updatedAt": "2021-07-09T04:15:06.000Z",
     "deletedAt": null
   },
   "Anilist": {
     "altTitle": [
+      "Deadpool: Samurai",
       "デッドプール：SAMURAI"
     ],
     "externalLinks": [],
     "authors": [
       "Sanshirou Kasama",
+      "Rob Liefeld",
       "Uesugi Hikari",
-      "Fabien Nicieza",
-      "Rob Liefeld"
+      "Fabien Nicieza"
     ],
-    "id": 111722,
-    "malId": 123042,
+    "id": 126770,
+    "malId": 131840,
     "type": "manga",
     "title": "Deadpool: Samurai",
-    "url": "https://anilist.co/manga/111722",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111722-Gex51hD2jKLm.jpg",
-    "category": "one_shot",
+    "url": "https://anilist.co/manga/126770",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126770-tEQu6MPQGfKn.jpg",
+    "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:58.000Z",
-    "updatedAt": "2021-06-18T06:59:23.000Z",
+    "createdAt": "2021-05-20T15:00:04.000Z",
+    "updatedAt": "2021-06-18T11:02:00.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/123042/Deadpool__Samurai"
+  "malUrl": "https://myanimelist.net/manga/131840/Deadpool__Samurai"
 }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:20.000Z",
-  "updatedAt": "2021-04-22T07:27:28.000Z",
+  "updatedAt": "2021-07-08T12:13:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -101,6 +101,28 @@
         "aniId": 30320,
         "createdAt": "2021-04-22T07:27:29.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fu957077": {
+        "authors": [
+          "Higuchi Tachibana"
+        ],
+        "identifier": "manga-fu957077",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gakuen Alice",
+        "url": "https://readmanganato.com/manga-fu957077",
+        "image": "https://avt.mkklcdnv6temp.com/34/n/4-1583471103.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 320,
+        "aniId": 30320,
+        "createdAt": "2021-07-10T09:43:39.000Z",
+        "updatedAt": "2021-07-10T10:13:17.000Z",
         "deletedAt": null
       }
     }

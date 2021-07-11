@@ -3,7 +3,12 @@
     "Love Live! Superstar!!",
     "ラブライブ!スーパースター!!"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/love-live-superstar/"
+    }
+  ],
   "id": 114979,
   "malId": 41169,
   "type": "anime",
@@ -13,7 +18,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:46:03.000Z",
-  "updatedAt": "2021-07-04T01:03:56.000Z",
+  "updatedAt": "2021-07-10T12:43:18.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -32,6 +37,25 @@
         "aniId": 114979,
         "createdAt": "2020-10-12T15:50:28.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4448": {
+        "identifier": "4448",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Love Live! Superstar!!",
+        "url": "https://pahe.win/a/4448",
+        "image": "https://i.animepahe.com/posters/439a9e75edcbe738408e6734ef8d3b64834ce08117d9a6a3ade39051516c5eb3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41169,
+        "aniId": 114979,
+        "createdAt": "2021-07-09T18:44:00.000Z",
+        "updatedAt": "2021-07-09T19:13:16.000Z",
         "deletedAt": null
       }
     }

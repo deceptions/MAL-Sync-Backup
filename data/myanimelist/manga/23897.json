@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:11.000Z",
-  "updatedAt": "2021-03-02T17:20:04.000Z",
+  "updatedAt": "2021-07-09T18:44:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 53897,
         "createdAt": "2021-03-02T17:20:05.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "space_chef_caisar": {
+        "authors": [
+          "Boichi"
+        ],
+        "identifier": "space_chef_caisar",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Space Chef Caisar",
+        "url": "https://fanfox.net/manga/space_chef_caisar/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8960/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23897,
+        "aniId": 53897,
+        "createdAt": "2021-07-09T18:44:33.000Z",
+        "updatedAt": "2021-07-09T19:13:17.000Z",
         "deletedAt": null
       }
     }

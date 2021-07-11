@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:57.000Z",
-  "updatedAt": "2021-03-22T11:35:13.000Z",
+  "updatedAt": "2021-07-06T14:02:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 34215,
         "createdAt": "2021-03-22T11:35:13.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ko962149": {
+        "authors": [
+          "Inoue Junya"
+        ],
+        "identifier": "manga-ko962149",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Otogi Matsuri",
+        "url": "https://manganato.com/manga-ko962149",
+        "image": "https://avt.mkklcdnv6temp.com/10/p/8-1583478579.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4215,
+        "aniId": 34215,
+        "createdAt": "2021-07-06T14:01:56.000Z",
+        "updatedAt": "2021-07-06T14:29:51.000Z",
         "deletedAt": null
       }
     }

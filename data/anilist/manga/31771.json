@@ -68,6 +68,28 @@
         "updatedAt": "2021-05-31T09:30:42.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "jungle_taitei": {
+        "authors": [
+          "TEZUKA Osamu"
+        ],
+        "identifier": "jungle_taitei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Jungle Taitei",
+        "url": "https://fanfox.net/manga/jungle_taitei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14974/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1771,
+        "aniId": 31771,
+        "createdAt": "2021-07-10T13:43:39.000Z",
+        "updatedAt": "2021-07-10T14:13:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

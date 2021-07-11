@@ -3,7 +3,12 @@
     "HELLO WORLD",
     "ハロー・ワールド"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81295070"
+    }
+  ],
   "id": 106240,
   "malId": 38816,
   "type": "anime",
@@ -13,7 +18,7 @@
   "category": "movie",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:53.000Z",
-  "updatedAt": "2021-06-17T08:27:46.000Z",
+  "updatedAt": "2021-07-05T15:29:51.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -60,7 +65,7 @@
         "type": "anime",
         "page": "Gogoanime",
         "title": "Hello World",
-        "url": "https://www17.gogoanime.io/category/hello-world",
+        "url": "https://gogoanime.vc/category/hello-world",
         "image": "https://gogocdn.net/cover/hello-world.png",
         "hentai": false,
         "sticky": false,

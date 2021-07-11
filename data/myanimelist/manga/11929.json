@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:42.000Z",
-  "updatedAt": "2021-05-16T03:26:16.000Z",
+  "updatedAt": "2021-07-04T18:30:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,6 +82,28 @@
         "aniId": 41929,
         "createdAt": "2021-05-16T03:26:16.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ij957418": {
+        "authors": [
+          "Zun"
+        ],
+        "identifier": "manga-ij957418",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Touhou Sangetsusei: Strange And Bright Nature Deity",
+        "url": "https://manganato.com/manga-ij957418",
+        "image": "https://avt.mkklcdnv6temp.com/44/p/4-1583471554.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11929,
+        "aniId": 41929,
+        "createdAt": "2021-07-04T18:29:52.000Z",
+        "updatedAt": "2021-07-04T18:59:50.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-21T11:08:58.000Z",
-  "updatedAt": "2021-03-16T17:02:54.000Z",
+  "updatedAt": "2021-07-09T21:14:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,29 @@
         "aniId": 121537,
         "createdAt": "2020-12-19T13:56:54.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jg986989": {
+        "authors": [
+          "Kanemori Chikai",
+          "Yama Tomohiro"
+        ],
+        "identifier": "manga-jg986989",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Want To Become The Hero's Bride (￣∇￣)ゞ",
+        "url": "https://manganato.com/manga-jg986989",
+        "image": "https://avt.mkklcdnv6temp.com/29/e/22-1603099543.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125882,
+        "aniId": 121537,
+        "createdAt": "2021-07-09T21:13:17.000Z",
+        "updatedAt": "2021-07-09T21:43:16.000Z",
         "deletedAt": null
       }
     }

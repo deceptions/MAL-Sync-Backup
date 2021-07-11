@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:20.000Z",
-  "updatedAt": "2021-01-17T15:32:42.000Z",
+  "updatedAt": "2021-07-04T03:14:00.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +48,25 @@
         "aniId": 1721,
         "createdAt": "2021-01-17T15:32:44.000Z",
         "updatedAt": "2021-05-20T15:21:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hitohira": {
+        "identifier": "hitohira",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hitohira",
+        "url": "https://gogoanime.pe/category/hitohira",
+        "image": "https://gogocdn.net/images/anime/H/hitohira.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1721,
+        "aniId": 1721,
+        "createdAt": "2021-07-04T03:13:51.000Z",
+        "updatedAt": "2021-07-04T03:29:50.000Z",
         "deletedAt": null
       }
     }

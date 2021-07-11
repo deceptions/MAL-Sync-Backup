@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-05T19:54:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "dorothy_of_oz": {
+        "authors": [
+          "Son Hee-Joon"
+        ],
+        "identifier": "dorothy_of_oz",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dorothy of Oz",
+        "url": "https://fanfox.net/manga/dorothy_of_oz/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7417/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4771,
+        "aniId": 34771,
+        "createdAt": "2021-07-08T10:43:47.000Z",
+        "updatedAt": "2021-07-08T11:13:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

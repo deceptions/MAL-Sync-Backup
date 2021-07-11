@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:07.000Z",
-  "updatedAt": "2021-05-02T13:03:31.000Z",
+  "updatedAt": "2021-07-08T17:43:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,50 @@
         "aniId": 104726,
         "createdAt": "2021-05-02T13:03:31.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cd980086": {
+        "authors": [
+          "Tsutsumi Kakeru"
+        ],
+        "identifier": "manga-cd980086",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Furare Girl",
+        "url": "https://manganato.com/manga-cd980086",
+        "image": "https://avt.mkklcdnv6temp.com/15/o/17-1583495824.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121745,
+        "aniId": 104726,
+        "createdAt": "2021-07-08T17:43:47.000Z",
+        "updatedAt": "2021-07-08T18:13:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "furare_girl": {
+        "authors": [
+          "TSUTSUMI Kakeru"
+        ],
+        "identifier": "furare_girl",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Furare Girl",
+        "url": "https://fanfox.net/manga/furare_girl/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28931/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121745,
+        "aniId": 104726,
+        "createdAt": "2021-07-10T11:13:16.000Z",
+        "updatedAt": "2021-07-10T11:43:16.000Z",
         "deletedAt": null
       }
     }

@@ -86,27 +86,6 @@
         "updatedAt": "2021-05-20T15:29:23.000Z",
         "deletedAt": null
       },
-      "martial_inverse": {
-        "authors": [
-          "ICiyuan dongman",
-          "yi lu mao"
-        ],
-        "identifier": "martial_inverse",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Martial Inverse",
-        "url": "https://fanfox.net/manga/martial_inverse/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/34708/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 116897,
-        "aniId": 86624,
-        "createdAt": "2021-01-21T18:32:53.000Z",
-        "updatedAt": "2021-05-20T15:38:31.000Z",
-        "deletedAt": null
-      },
       "martial_movement_upheaval": {
         "authors": [
           "Tian Can Tu Dou"
@@ -124,7 +103,7 @@
         "malId": 116897,
         "aniId": 86624,
         "createdAt": "2021-03-27T17:19:25.000Z",
-        "updatedAt": "2021-05-20T15:40:31.000Z",
+        "updatedAt": "2021-07-05T14:02:34.000Z",
         "deletedAt": null
       },
       "wu_dong_qian_kun_novel": {
@@ -140,11 +119,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
-        "malId": 116897,
+        "actor": 2,
+        "malId": null,
         "aniId": 86624,
         "createdAt": "2021-06-29T23:21:35.000Z",
-        "updatedAt": "2021-06-29T23:50:01.000Z",
+        "updatedAt": "2021-07-05T15:48:46.000Z",
         "deletedAt": null
       }
     },

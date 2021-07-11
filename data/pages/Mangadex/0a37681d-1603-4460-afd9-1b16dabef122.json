@@ -1,7 +1,7 @@
 {
   "authors": [
-    "LUNAHENG",
-    "Eclair"
+    "Eclair",
+    "LUNAHENG"
   ],
   "identifier": "0a37681d-1603-4460-afd9-1b16dabef122",
   "type": "manga",
@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 121332,
   "createdAt": "2020-10-12T16:19:10.000Z",
-  "updatedAt": "2021-06-07T21:28:20.000Z",
+  "updatedAt": "2021-07-08T06:48:42.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "악당 대공님의 귀하디귀한 여동생",
+      "The Precious Sister of the Villainous Grand Duke"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Eclair  ",
+      "LUNAHENG",
+      "Dob"
+    ],
+    "id": 121332,
+    "malId": null,
+    "type": "manga",
+    "title": "Akdang Daegongnimui Gwihadigwihan Yeodongsaeng",
+    "url": "https://anilist.co/manga/121332",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121332-ZiHYLEBKYdoK.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-06-02T21:01:23.000Z",
+    "updatedAt": "2021-06-21T15:55:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

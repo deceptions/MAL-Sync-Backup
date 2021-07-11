@@ -11,14 +11,53 @@
   "image": "https://cover.nep.li/cover/The-Mutant-Wants-to-Kiss-His-Human-Girlfriend.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actor": 1,
+  "malId": 136878,
+  "aniId": 132854,
   "createdAt": "2021-07-03T22:35:11.000Z",
-  "updatedAt": "2021-07-03T22:35:11.000Z",
+  "updatedAt": "2021-07-04T03:29:51.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "ミュータントは人間の彼女とキスがしたい"
+    ],
+    "authors": [
+      "Maki",
+      "Giba-chan"
+    ],
+    "id": 136878,
+    "type": "manga",
+    "title": "Mutant wa Ningen no Kanojo to Kiss ga Shitai",
+    "url": "https://myanimelist.net/manga/136878/Mutant_wa_Ningen_no_Kanojo_to_Kiss_ga_Shitai",
+    "image": "https://cdn.myanimelist.net/images/manga/1/245137.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-07-03T22:35:13.000Z",
+    "updatedAt": "2021-07-03T22:35:13.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ミュータントは人間の彼女とキスがしたい",
+      "The Mutant Wants to Kiss His Human Girlfriend"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Giba-chan",
+      "Maki"
+    ],
+    "id": 132854,
+    "malId": 136878,
+    "type": "manga",
+    "title": "Mutant wa Ningen no Kanojo to Kiss ga Shitai",
+    "url": "https://anilist.co/manga/132854",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132854-6yK7E0pS9NVC.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-25T06:38:17.000Z",
+    "updatedAt": "2021-06-18T12:24:30.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/136878/Mutant_wa_Ningen_no_Kanojo_to_Kiss_ga_Shitai"
 }

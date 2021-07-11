@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:06.000Z",
-  "updatedAt": "2021-04-05T22:08:49.000Z",
+  "updatedAt": "2021-07-05T10:01:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -62,6 +62,30 @@
         "aniId": 110902,
         "createdAt": "2021-04-05T22:08:50.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fx982380": {
+        "authors": [
+          "Tsubasa Nanaki",
+          "Nanao Yamashita",
+          "Momotomoe"
+        ],
+        "identifier": "manga-fx982380",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "31St Consort",
+        "url": "https://manganato.com/manga-fx982380",
+        "image": "https://avt.mkklcdnv6temp.com/49/q/18-1583499040.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121362,
+        "aniId": 110902,
+        "createdAt": "2021-07-05T10:01:03.000Z",
+        "updatedAt": "2021-07-05T10:29:50.000Z",
         "deletedAt": null
       }
     }

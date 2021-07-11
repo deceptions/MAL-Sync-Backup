@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 130627,
   "createdAt": "2021-05-30T11:42:22.000Z",
-  "updatedAt": "2021-05-30T11:42:22.000Z",
+  "updatedAt": "2021-07-04T03:50:50.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "로드 오브 머니",
+      "The Lord of Money"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ju-Hwan Son",
+      "Mujang"
+    ],
+    "id": 130627,
+    "malId": null,
+    "type": "manga",
+    "title": "Lord of Money",
+    "url": "https://anilist.co/manga/130627",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130627-JIdMwsr86WP4.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T19:12:57.000Z",
+    "updatedAt": "2021-06-21T15:14:52.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

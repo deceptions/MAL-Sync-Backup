@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:43.000Z",
-  "updatedAt": "2021-03-29T07:49:29.000Z",
+  "updatedAt": "2021-07-09T17:43:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 60961,
         "createdAt": "2021-03-29T07:49:37.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "blood-parade": {
+        "authors": [
+          "KARASAWA Kazuyoshi"
+        ],
+        "identifier": "blood-parade",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Blood Parade",
+        "url": "https://mangasee123.com/manga/Blood-Parade",
+        "image": "https://cover.nep.li/cover/Blood-Parade.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30961,
+        "aniId": 60961,
+        "createdAt": "2021-07-09T17:43:20.000Z",
+        "updatedAt": "2021-07-09T18:13:16.000Z",
         "deletedAt": null
       }
     }

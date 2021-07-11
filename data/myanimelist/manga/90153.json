@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:02.000Z",
-  "updatedAt": "2021-01-05T00:28:28.000Z",
+  "updatedAt": "2021-07-05T00:31:12.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 98210,
         "createdAt": "2021-01-05T00:28:29.000Z",
         "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vn972596": {
+        "authors": [
+          "Sassa Taiga"
+        ],
+        "identifier": "manga-vn972596",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fushigi No Kuni No Bird",
+        "url": "https://manganato.com/manga-vn972596",
+        "image": "https://avt.mkklcdnv6temp.com/16/w/14-1583490354.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90153,
+        "aniId": 98210,
+        "createdAt": "2021-07-08T09:43:27.000Z",
+        "updatedAt": "2021-07-08T10:13:16.000Z",
         "deletedAt": null
       }
     }

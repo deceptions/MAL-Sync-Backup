@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T18:17:03.000Z",
-  "updatedAt": "2021-01-09T23:21:30.000Z",
+  "updatedAt": "2021-07-09T00:43:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 123800,
         "createdAt": "2020-10-12T16:21:28.000Z",
         "updatedAt": "2021-06-08T02:26:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ji987117": {
+        "authors": [
+          "Nagashii Kouhei"
+        ],
+        "identifier": "manga-ji987117",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Beast No. 6",
+        "url": "https://manganato.com/manga-ji987117",
+        "image": "https://avt.mkklcdnv6temp.com/34/k/22-1604503751.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130215,
+        "aniId": 123800,
+        "createdAt": "2021-07-09T00:43:38.000Z",
+        "updatedAt": "2021-07-09T01:13:16.000Z",
         "deletedAt": null
       }
     }

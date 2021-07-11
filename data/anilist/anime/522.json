@@ -59,7 +59,7 @@
         "type": "anime",
         "page": "Gogoanime",
         "title": "Metropolis",
-        "url": "https://www6.gogoanime.io/category/metropolis",
+        "url": "https://gogoanime.vc/category/metropolis",
         "image": "https://cdnimg.xyz/images/anime/M/Metropolis.jpg",
         "hentai": false,
         "sticky": false,
@@ -124,6 +124,25 @@
         "aniId": 522,
         "createdAt": "2021-02-01T19:32:41.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Twistmoe": {
+      "metropolis": {
+        "identifier": "metropolis",
+        "type": "anime",
+        "page": "Twistmoe",
+        "title": "Metropolis",
+        "url": "https://twist.moe/a/metropolis/1",
+        "image": null,
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 522,
+        "aniId": 522,
+        "createdAt": "2021-07-09T20:13:27.000Z",
+        "updatedAt": "2021-07-09T20:43:16.000Z",
         "deletedAt": null
       }
     }

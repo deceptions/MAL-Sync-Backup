@@ -44,6 +44,29 @@
         "updatedAt": "2021-06-03T12:05:07.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "barcode_geass_hanbai_no_lelouch": {
+        "authors": [
+          "OKOUCHI Ichiro",
+          "TANIGUCHI Goro"
+        ],
+        "identifier": "barcode_geass_hanbai_no_lelouch",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Barcode Geass: Hanbai no Lelouch",
+        "url": "https://fanfox.net/manga/barcode_geass_hanbai_no_lelouch/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11138/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25854,
+        "aniId": 55854,
+        "createdAt": "2021-07-04T03:39:05.000Z",
+        "updatedAt": "2021-07-04T03:59:50.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

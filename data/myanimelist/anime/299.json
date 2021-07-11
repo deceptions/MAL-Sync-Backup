@@ -12,7 +12,7 @@
   "category": "OVA",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:02.000Z",
-  "updatedAt": "2021-03-10T17:40:47.000Z",
+  "updatedAt": "2021-07-08T20:44:59.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -57,7 +57,7 @@
         "type": "anime",
         "page": "Gogoanime",
         "title": ".hack//Liminality",
-        "url": "https://www10.gogoanime.io/category/hackliminality",
+        "url": "https://gogoanime.vc/category/hackliminality",
         "image": "https://cdnimg.xyz/images/anime/A/hackliminality.jpg",
         "hentai": false,
         "sticky": false,
@@ -67,6 +67,23 @@
         "aniId": 299,
         "createdAt": "2020-10-12T16:00:37.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "hackliminality-dub": {
+        "identifier": "hackliminality-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": ".hack//Liminality (Dub)",
+        "url": "https://gogoanime.pe/category/hackliminality-dub",
+        "image": "https://gogocdn.net/cover/hackliminality-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 299,
+        "aniId": 299,
+        "createdAt": "2021-07-08T20:44:01.000Z",
+        "updatedAt": "2021-07-08T21:13:16.000Z",
         "deletedAt": null
       }
     },

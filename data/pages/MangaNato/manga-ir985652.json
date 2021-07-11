@@ -12,13 +12,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 129129,
+  "aniId": 122873,
   "createdAt": "2021-07-03T23:34:08.000Z",
-  "updatedAt": "2021-07-03T23:34:19.000Z",
+  "updatedAt": "2021-07-04T03:59:50.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "The Former Structural Analyst's Otherworldly Adventure Story",
+      "元構造解析研究者の異世界冒険譚"
+    ],
+    "authors": [
+      "Kirisawa, Juuzou",
+      "Inuya, Mamoru"
+    ],
+    "id": 129129,
+    "type": "manga",
+    "title": "Moto Kouzou Kaiseki Kenkyuusho no Isekai Boukentan",
+    "url": "https://myanimelist.net/manga/129129/Moto_Kouzou_Kaiseki_Kenkyuusho_no_Isekai_Boukentan",
+    "image": "https://cdn.myanimelist.net/images/manga/1/236623.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-11-03T17:22:41.000Z",
+    "updatedAt": "2021-07-04T03:31:25.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "元構造解析研究者の異世界冒険譚",
+      "Adventures of a Former Structural Analyst",
+      "The Former Structural Researcher's Otherworldly Adventure Story",
+      "The Former Structural Analyst's Otherworldly Adventure Story"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mamoru Inuya",
+      "Juuzo Kirisawa",
+      "Yoshimoto"
+    ],
+    "id": 122873,
+    "malId": 129129,
+    "type": "manga",
+    "title": "Moto Kouzou Kaiseki Kenkyuusho no Isekai Boukentan",
+    "url": "https://anilist.co/manga/122873",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122873-amsL1wrcDsja.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:23.000Z",
+    "updatedAt": "2021-06-18T10:06:03.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/129129/Moto_Kouzou_Kaiseki_Kenkyuusho_no_Isekai_Boukentan"
 }

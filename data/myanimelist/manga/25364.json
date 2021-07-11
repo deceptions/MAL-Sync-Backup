@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:17.000Z",
-  "updatedAt": "2021-02-18T19:33:40.000Z",
+  "updatedAt": "2021-07-04T06:31:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 55364,
         "createdAt": "2021-02-18T19:33:40.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zq953951": {
+        "authors": [
+          "Osada Yoshimi"
+        ],
+        "identifier": "manga-zq953951",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Bamora!",
+        "url": "https://manganato.com/manga-zq953951",
+        "image": "https://avt.mkklcdnv6temp.com/41/j/2-1583467289.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25364,
+        "aniId": 55364,
+        "createdAt": "2021-07-04T06:31:45.000Z",
+        "updatedAt": "2021-07-04T06:59:50.000Z",
         "deletedAt": null
       }
     }

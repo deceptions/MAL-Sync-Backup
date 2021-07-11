@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 116843,
   "createdAt": "2021-05-31T09:09:47.000Z",
-  "updatedAt": "2021-05-31T09:09:47.000Z",
+  "updatedAt": "2021-07-08T15:51:08.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Bring the Love",
+      "브링 더 러브",
+      "Beuling Deo Leobeu"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Zestkyo"
+    ],
+    "id": 116843,
+    "malId": null,
+    "type": "manga",
+    "title": "Bring the Love",
+    "url": "https://anilist.co/manga/116843",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116843-qhHpdRwZQNc1.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-25T20:38:37.000Z",
+    "updatedAt": "2021-06-21T15:18:33.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

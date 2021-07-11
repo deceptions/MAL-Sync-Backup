@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-05T19:57:32.000Z",
-  "updatedAt": "2021-06-01T15:40:29.000Z",
+  "updatedAt": "2021-07-04T03:43:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,29 @@
         "aniId": 125337,
         "createdAt": "2021-05-29T17:13:04.000Z",
         "updatedAt": "2021-06-01T15:51:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-slave-of-the-black-knights": {
+        "authors": [
+          "HAMU Fukurou",
+          "Jiou"
+        ],
+        "identifier": "the-slave-of-the-black-knights",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Slave of the Black Knights",
+        "url": "https://mangasee123.com/manga/The-Slave-of-the-Black-Knights",
+        "image": "https://cover.nep.li/cover/The-Slave-of-the-Black-Knights.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 130658,
+        "aniId": 125337,
+        "createdAt": "2021-06-29T08:28:03.000Z",
+        "updatedAt": "2021-07-04T03:59:50.000Z",
         "deletedAt": null
       }
     }

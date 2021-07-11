@@ -14,9 +14,9 @@
   "active": true,
   "actor": 2,
   "malId": 119951,
-  "aniId": null,
+  "aniId": 111897,
   "createdAt": "2020-10-12T16:15:54.000Z",
-  "updatedAt": "2021-06-06T18:55:57.000Z",
+  "updatedAt": "2021-07-09T14:43:16.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -41,6 +41,30 @@
     "updatedAt": "2021-06-06T18:19:10.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "アウトサイダー",
+      "The Outsider",
+      "The House with the Mezzanine",
+      "Twenty-six Men and a Girl",
+      "Ju-ga"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gou Tanabe",
+      "H. P. Lovecraft"
+    ],
+    "id": 111897,
+    "malId": 119951,
+    "type": "manga",
+    "title": "Outsider",
+    "url": "https://anilist.co/manga/111897",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111897-s2hKfE1YSIdF.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-09T14:13:17.000Z",
+    "updatedAt": "2021-07-09T14:13:17.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/119951/Outsider"
 }

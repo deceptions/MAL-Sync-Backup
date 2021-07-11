@@ -12,11 +12,11 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": 129808,
-  "aniId": 111025,
+  "aniId": 130222,
   "createdAt": "2021-03-16T00:03:22.000Z",
-  "updatedAt": "2021-05-20T15:40:31.000Z",
+  "updatedAt": "2021-07-09T07:46:14.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -40,27 +40,25 @@
   },
   "Anilist": {
     "altTitle": [
-      "Mookhyang: Dark Lady",
-      "묵향 다크레이디",
-      "Mook Hyang: Dark Lady",
-      "Mukhyang Dakeureidi"
+      "묵향 디 오리진",
+      "Mook-Hyang: The Origin"
     ],
     "externalLinks": [],
     "authors": [
-      "Jae-Heon Lee",
       "Dong-Jo Jeon",
-      "Gugit"
+      "Silva",
+      "REDZIN"
     ],
-    "id": 111025,
-    "malId": 129808,
+    "id": 130222,
+    "malId": null,
     "type": "manga",
-    "title": "Muk-Hyang: Dark Lady",
-    "url": "https://anilist.co/manga/111025",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111025-GZRFDNTWFKyA.png",
+    "title": "Muk-Hyang: The Origin",
+    "url": "https://anilist.co/manga/130222",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130222-CvrkzrGe6TS2.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:59:29.000Z",
-    "updatedAt": "2021-06-17T15:27:53.000Z",
+    "createdAt": "2021-05-23T15:38:28.000Z",
+    "updatedAt": "2021-06-21T17:24:22.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/129808/Mookhyang__Dark_Lady"

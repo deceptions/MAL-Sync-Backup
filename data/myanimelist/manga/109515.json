@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:16.000Z",
-  "updatedAt": "2021-04-10T20:51:58.000Z",
+  "updatedAt": "2021-07-05T11:31:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -63,6 +63,29 @@
         "aniId": 114506,
         "createdAt": "2021-04-10T20:51:58.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-be979013": {
+        "authors": [
+          "Tsuzuki Maki",
+          "Kawakami Shuichi"
+        ],
+        "identifier": "manga-be979013",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Magical Girl Lyrical Nanoha Reflection The Comics",
+        "url": "https://manganato.com/manga-be979013",
+        "image": "https://avt.mkklcdnv6temp.com/25/m/16-1583494385.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109515,
+        "aniId": 114506,
+        "createdAt": "2021-07-05T11:31:15.000Z",
+        "updatedAt": "2021-07-05T11:59:51.000Z",
         "deletedAt": null
       }
     }

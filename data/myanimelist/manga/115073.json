@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:37.000Z",
-  "updatedAt": "2021-03-08T22:10:29.000Z",
+  "updatedAt": "2021-07-08T20:43:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 101127,
         "createdAt": "2021-03-08T22:10:29.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cb979784": {
+        "authors": [
+          "Moroko Kurasaki"
+        ],
+        "identifier": "manga-cb979784",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Nijiiro Photograph",
+        "url": "https://manganato.com/manga-cb979784",
+        "image": "https://avt.mkklcdnv6temp.com/4/o/17-1583495425.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115073,
+        "aniId": 101127,
+        "createdAt": "2021-07-08T20:43:16.000Z",
+        "updatedAt": "2021-07-08T21:13:16.000Z",
         "deletedAt": null
       }
     }

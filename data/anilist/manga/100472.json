@@ -91,6 +91,28 @@
         "updatedAt": "2021-05-31T09:30:42.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mujirushi": {
+        "authors": [
+          "URASAWA Naoki"
+        ],
+        "identifier": "mujirushi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mujirushi",
+        "url": "https://fanfox.net/manga/mujirushi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26805/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110313,
+        "aniId": 100472,
+        "createdAt": "2021-07-10T11:43:17.000Z",
+        "updatedAt": "2021-07-10T12:13:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

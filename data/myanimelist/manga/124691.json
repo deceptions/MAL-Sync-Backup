@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:14.000Z",
-  "updatedAt": "2021-05-17T06:55:05.000Z",
+  "updatedAt": "2021-07-04T03:31:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,29 @@
         "aniId": 106132,
         "createdAt": "2021-05-17T06:55:06.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fq982473": {
+        "authors": [
+          "Mitsuno Hachi",
+          "Sancha"
+        ],
+        "identifier": "manga-fq982473",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Am Troubled That My Fiance Is A Villain",
+        "url": "https://manganato.com/manga-fq982473",
+        "image": "https://avt.mkklcdnv6temp.com/3/d/19-1583499192.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124691,
+        "aniId": 106132,
+        "createdAt": "2021-07-04T03:31:14.000Z",
+        "updatedAt": "2021-07-04T03:59:50.000Z",
         "deletedAt": null
       }
     }

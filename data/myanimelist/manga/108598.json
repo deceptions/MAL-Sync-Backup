@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:09.000Z",
-  "updatedAt": "2021-06-01T15:34:11.000Z",
+  "updatedAt": "2021-07-04T03:35:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 99776,
         "createdAt": "2020-10-12T16:10:53.000Z",
         "updatedAt": "2021-06-05T04:03:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yasei_no_last_boss_ga_arawareta": {
+        "authors": [
+          "Hazuki Tsubasa"
+        ],
+        "identifier": "yasei_no_last_boss_ga_arawareta",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yasei no Last Boss ga Arawareta!",
+        "url": "https://fanfox.net/manga/yasei_no_last_boss_ga_arawareta/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26101/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 108598,
+        "aniId": 99776,
+        "createdAt": "2020-12-17T08:56:39.000Z",
+        "updatedAt": "2021-07-04T03:59:50.000Z",
         "deletedAt": null
       }
     },

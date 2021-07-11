@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:48.000Z",
-  "updatedAt": "2021-02-04T18:49:57.000Z",
+  "updatedAt": "2021-07-04T03:43:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -50,6 +50,43 @@
         "aniId": 119118,
         "createdAt": "2020-10-12T16:10:34.000Z",
         "updatedAt": "2021-06-05T01:40:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yk975445": {
+        "authors": [
+          "Akiba Ruiki",
+          "Ameno",
+          "Hayase Reku",
+          "Horiguchi Reo",
+          "Itagaki Hako",
+          "Katsura Ichiho",
+          "Kayashima Kan",
+          "Kirai Yuu",
+          "Koichi",
+          "Mochizuki Kazuomi",
+          "Mutou Tamura",
+          "Ririo (Ii)",
+          "Runia",
+          "Uchida Temo",
+          "Yoneda",
+          "Zicca"
+        ],
+        "identifier": "manga-yk975445",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tales Of Berseria Comic Anthology",
+        "url": "https://manganato.com/manga-yk975445",
+        "image": "https://avt.mkklcdnv6temp.com/10/c/15-1583491825.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103322,
+        "aniId": 119118,
+        "createdAt": "2021-07-04T03:43:16.000Z",
+        "updatedAt": "2021-07-04T03:59:50.000Z",
         "deletedAt": null
       }
     }

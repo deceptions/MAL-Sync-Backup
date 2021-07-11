@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:14.000Z",
-  "updatedAt": "2021-04-01T12:32:32.000Z",
+  "updatedAt": "2021-07-08T15:43:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 54743,
         "createdAt": "2021-04-01T12:32:33.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kc961485": {
+        "authors": [
+          "Nishino Katsumi"
+        ],
+        "identifier": "manga-kc961485",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Juukinzoku Kanojo",
+        "url": "https://manganato.com/manga-kc961485",
+        "image": "https://avt.mkklcdnv6temp.com/39/u/7-1583477779.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24743,
+        "aniId": 54743,
+        "createdAt": "2021-07-08T15:43:40.000Z",
+        "updatedAt": "2021-07-08T16:13:16.000Z",
         "deletedAt": null
       }
     }

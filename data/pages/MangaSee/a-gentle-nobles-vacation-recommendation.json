@@ -14,9 +14,9 @@
   "active": true,
   "actor": null,
   "malId": 121342,
-  "aniId": null,
+  "aniId": 111080,
   "createdAt": "2021-05-13T17:55:33.000Z",
-  "updatedAt": "2021-05-13T17:55:33.000Z",
+  "updatedAt": "2021-07-07T18:59:54.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -39,6 +39,31 @@
     "updatedAt": "2021-06-02T08:23:36.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "A Gentle Noble's Vacation Recommendation",
+      "穏やか貴族の休暇のすすめ。",
+      "A Mild Noble's Vacation Suggestion",
+      "Vacation Recommendations by the Nobility"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Momoti",
+      "8KEY",
+      "Sando",
+      "Misaki"
+    ],
+    "id": 111080,
+    "malId": 121342,
+    "type": "manga",
+    "title": "Odayaka Kizoku no Kyuuka no Susume.",
+    "url": "https://anilist.co/manga/111080",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111080-HkGTZFBKFu6K.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-07T01:19:28.000Z",
+    "updatedAt": "2021-07-07T18:29:55.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/121342/Odayaka_Kizoku_no_Kyuuka_no_Susume_comic"
 }

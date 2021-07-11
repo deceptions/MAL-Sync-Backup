@@ -52,6 +52,44 @@
         "updatedAt": "2021-05-20T15:25:21.000Z",
         "deletedAt": null
       }
+    },
+    "animepahe": {
+      "4440": {
+        "identifier": "4440",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Tsuki ga Michibiku Isekai Douchuu",
+        "url": "https://pahe.win/a/4440",
+        "image": "https://i.animepahe.com/posters/e2f0689a5c5420e4ff6552468744095903cd273005c45672aa3a7eb028411703.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43523,
+        "aniId": 125206,
+        "createdAt": "2021-07-07T14:30:44.000Z",
+        "updatedAt": "2021-07-07T14:59:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tsuki-ga-michibiku-isekai-douchuu": {
+        "identifier": "tsuki-ga-michibiku-isekai-douchuu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tsuki ga Michibiku Isekai Douchuu",
+        "url": "https://gogoanime.pe/category/tsuki-ga-michibiku-isekai-douchuu",
+        "image": "https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43523,
+        "aniId": 125206,
+        "createdAt": "2021-07-07T15:29:53.000Z",
+        "updatedAt": "2021-07-07T15:59:52.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

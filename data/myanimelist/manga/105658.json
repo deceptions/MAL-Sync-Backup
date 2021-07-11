@@ -82,6 +82,28 @@
         "updatedAt": "2021-06-27T08:49:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "now_loading": {
+        "authors": [
+          "Mikanuji"
+        ],
+        "identifier": "now_loading",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Now Loading!",
+        "url": "https://fanfox.net/manga/now_loading/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/24683/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105658,
+        "aniId": 98533,
+        "createdAt": "2021-07-10T00:13:18.000Z",
+        "updatedAt": "2021-07-10T00:43:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

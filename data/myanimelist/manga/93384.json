@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:13.000Z",
-  "updatedAt": "2021-05-05T10:33:20.000Z",
+  "updatedAt": "2021-07-04T03:34:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,29 @@
         "aniId": 96096,
         "createdAt": "2021-05-05T10:33:21.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vr972752": {
+        "authors": [
+          "Togashi Seiya",
+          "Watanabe Una"
+        ],
+        "identifier": "manga-vr972752",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yuusha-Sama Ni Ikinari Kyuukonsareta No Desu Ga",
+        "url": "https://manganato.com/manga-vr972752",
+        "image": "https://avt.mkklcdnv6temp.com/20/b/14-1583490463.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93384,
+        "aniId": 96096,
+        "createdAt": "2021-07-04T03:34:36.000Z",
+        "updatedAt": "2021-07-04T03:59:50.000Z",
         "deletedAt": null
       }
     }

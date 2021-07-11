@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:59.000Z",
-  "updatedAt": "2021-03-23T23:16:02.000Z",
+  "updatedAt": "2021-07-06T14:02:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -99,6 +99,28 @@
         "aniId": 52049,
         "createdAt": "2021-03-23T23:16:02.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ko961497": {
+        "authors": [
+          "Yui Toshiki"
+        ],
+        "identifier": "manga-ko961497",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "My Doll House",
+        "url": "https://manganato.com/manga-ko961497",
+        "image": "https://avt.mkklcdnv6temp.com/40/g/7-1583477797.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22049,
+        "aniId": 52049,
+        "createdAt": "2021-07-06T14:02:47.000Z",
+        "updatedAt": "2021-07-06T14:29:51.000Z",
         "deletedAt": null
       }
     }

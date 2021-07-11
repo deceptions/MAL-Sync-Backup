@@ -43,6 +43,51 @@
         "updatedAt": "2021-06-06T22:38:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-jn986496": {
+        "authors": [
+          "Itoh Sei",
+          "Tanaka Yoshiki"
+        ],
+        "identifier": "manga-jn986496",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Chronicle Of The Searing Winds Of Tianzhu",
+        "url": "https://manganato.com/manga-jn986496",
+        "image": "https://avt.mkklcdnv6temp.com/9/g/22-1599290455.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 107254,
+        "aniId": 108335,
+        "createdAt": "2021-07-08T18:43:28.000Z",
+        "updatedAt": "2021-07-09T08:13:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tenjiku_neppuuroku": {
+        "authors": [
+          "TANAKA Yoshiki (田中芳樹)"
+        ],
+        "identifier": "tenjiku_neppuuroku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tenjiku Neppuuroku",
+        "url": "https://fanfox.net/manga/tenjiku_neppuuroku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35500/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107254,
+        "aniId": 108335,
+        "createdAt": "2021-07-08T20:14:22.000Z",
+        "updatedAt": "2021-07-08T20:43:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

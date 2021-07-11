@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:22.000Z",
-  "updatedAt": "2021-04-08T13:51:41.000Z",
+  "updatedAt": "2021-07-09T07:43:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,29 @@
         "aniId": 120793,
         "createdAt": "2021-04-08T13:51:41.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jd986786": {
+        "authors": [
+          "Suzuki Izo",
+          "Senoo Terasu"
+        ],
+        "identifier": "manga-jd986786",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Deathbound Duke's Daughter And Seven Noblemen",
+        "url": "https://manganato.com/manga-jd986786",
+        "image": "https://avt.mkklcdnv6temp.com/20/w/22-1601284084.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127016,
+        "aniId": 120793,
+        "createdAt": "2021-07-09T07:43:26.000Z",
+        "updatedAt": "2021-07-09T08:13:17.000Z",
         "deletedAt": null
       }
     }

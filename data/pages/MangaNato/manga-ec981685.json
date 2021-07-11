@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 111416,
   "createdAt": "2021-06-01T15:45:12.000Z",
-  "updatedAt": "2021-06-01T15:45:12.000Z",
+  "updatedAt": "2021-07-04T03:52:47.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Returning from the Immortal World",
+      "仙界归来",
+      "Back from Immortal World",
+      "Return of the World of the Celestials"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mobius",
+      "Jing Ye Ji Si"
+    ],
+    "id": 111416,
+    "malId": null,
+    "type": "manga",
+    "title": "Xian Jie Gui Lai",
+    "url": "https://anilist.co/manga/111416",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111416-iFjE7GrGXVlD.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-06T16:50:19.000Z",
+    "updatedAt": "2021-06-21T14:30:02.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

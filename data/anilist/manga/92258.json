@@ -83,6 +83,28 @@
         "updatedAt": "2021-05-31T09:30:42.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "gunjou_senki": {
+        "authors": [
+          "KASAHARA Masaki"
+        ],
+        "identifier": "gunjou_senki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Gunjou Senki",
+        "url": "https://fanfox.net/manga/gunjou_senki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13985/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75903,
+        "aniId": 92258,
+        "createdAt": "2021-07-09T07:13:40.000Z",
+        "updatedAt": "2021-07-09T07:43:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

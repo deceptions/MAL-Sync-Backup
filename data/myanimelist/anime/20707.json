@@ -10,7 +10,27 @@
   "category": "Music",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:23.000Z",
-  "updatedAt": "2021-04-29T23:18:43.000Z",
+  "updatedAt": "2021-07-08T23:13:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "25rl": {
+        "identifier": "25rl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "\"0\"",
+        "url": "https://www12.9anime.to/watch/0.25rl",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/03/c7b9144d8f708915f787d60e77d9b6af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 20707,
+        "aniId": 102416,
+        "createdAt": "2020-10-12T15:49:24.000Z",
+        "updatedAt": "2021-07-09T08:13:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

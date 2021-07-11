@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:58.000Z",
-  "updatedAt": "2021-05-18T15:00:54.000Z",
+  "updatedAt": "2021-07-08T20:14:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 100929,
         "createdAt": "2020-10-12T16:17:42.000Z",
         "updatedAt": "2021-06-07T10:03:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-iy986207": {
+        "authors": [
+          "Murayama Kei"
+        ],
+        "identifier": "manga-iy986207",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kouya No Hanayome",
+        "url": "https://manganato.com/manga-iy986207",
+        "image": "https://avt.mkklcdnv6temp.com/47/p/21-1597051842.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104963,
+        "aniId": 100929,
+        "createdAt": "2021-07-08T20:14:22.000Z",
+        "updatedAt": "2021-07-08T20:43:16.000Z",
         "deletedAt": null
       }
     }

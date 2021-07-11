@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-19T03:06:20.000Z",
-  "updatedAt": "2021-02-19T03:06:20.000Z",
+  "updatedAt": "2021-07-09T11:14:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,29 @@
         "aniId": 117835,
         "createdAt": "2020-10-12T16:20:04.000Z",
         "updatedAt": "2021-06-07T23:24:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jo986497": {
+        "authors": [
+          "Yamada J-Ta",
+          "Koga Shinichi"
+        ],
+        "identifier": "manga-jo986497",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Eko Eko Azaraku: Reborn",
+        "url": "https://readmanganato.com/manga-jo986497",
+        "image": "https://avt.mkklcdnv6temp.com/9/h/22-1599290861.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132760,
+        "aniId": 117835,
+        "createdAt": "2021-07-09T11:14:17.000Z",
+        "updatedAt": "2021-07-09T11:43:16.000Z",
         "deletedAt": null
       }
     }

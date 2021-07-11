@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:21.000Z",
-  "updatedAt": "2021-05-25T09:38:39.000Z",
+  "updatedAt": "2021-07-04T06:00:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 105337,
         "createdAt": "2020-10-12T16:18:55.000Z",
         "updatedAt": "2021-06-07T20:58:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hc985011": {
+        "authors": [
+          "Kiuchi Ramune"
+        ],
+        "identifier": "manga-hc985011",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tsuki No Oki Ni Mesu Mama",
+        "url": "https://manganato.com/manga-hc985011",
+        "image": "https://avt.mkklcdnv6temp.com/48/a/20-1585278267.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125785,
+        "aniId": 105337,
+        "createdAt": "2021-07-04T06:00:23.000Z",
+        "updatedAt": "2021-07-04T06:29:50.000Z",
         "deletedAt": null
       }
     }

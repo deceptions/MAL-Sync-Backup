@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-03T17:22:41.000Z",
-  "updatedAt": "2021-02-26T19:57:59.000Z",
+  "updatedAt": "2021-07-04T03:31:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,29 @@
         "aniId": 122873,
         "createdAt": "2021-01-30T00:25:22.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ir985652": {
+        "authors": [
+          "Inuya Mamoru",
+          "Kirisawa Juuzou"
+        ],
+        "identifier": "manga-ir985652",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Former Structural Researcher's Story Of Otherworldly Adventure",
+        "url": "https://readmanganato.com/manga-ir985652",
+        "image": "https://avt.mkklcdnv6temp.com/25/e/21-1591590550.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 129129,
+        "aniId": 122873,
+        "createdAt": "2021-07-03T23:34:08.000Z",
+        "updatedAt": "2021-07-04T03:59:50.000Z",
         "deletedAt": null
       }
     }

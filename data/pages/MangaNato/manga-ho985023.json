@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 117536,
   "createdAt": "2021-05-28T21:57:13.000Z",
-  "updatedAt": "2021-06-29T08:42:30.000Z",
+  "updatedAt": "2021-07-09T07:45:51.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "킬더히어로"
+    ],
+    "externalLinks": [],
+    "authors": [
+      " D-Dart",
+      "Manhwa Insaeng"
+    ],
+    "id": 117536,
+    "malId": null,
+    "type": "manga",
+    "title": "Kill the Hero",
+    "url": "https://anilist.co/manga/117536",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117536-kpE3zKMG2rCk.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-24T13:08:19.000Z",
+    "updatedAt": "2021-06-21T13:45:41.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

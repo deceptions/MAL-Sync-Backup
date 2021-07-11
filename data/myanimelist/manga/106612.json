@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:04.000Z",
-  "updatedAt": "2021-04-13T07:45:29.000Z",
+  "updatedAt": "2021-07-04T03:39:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 101553,
         "createdAt": "2021-04-13T07:45:29.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bk978793": {
+        "authors": [
+          "Nozawa Yukiko"
+        ],
+        "identifier": "manga-bk978793",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Eguchi-Kun Wa Minogasanai",
+        "url": "https://manganato.com/manga-bk978793",
+        "image": "https://avt.mkklcdnv6temp.com/17/h/16-1583494095.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106612,
+        "aniId": 101553,
+        "createdAt": "2021-07-04T03:38:56.000Z",
+        "updatedAt": "2021-07-04T03:59:50.000Z",
         "deletedAt": null
       }
     }

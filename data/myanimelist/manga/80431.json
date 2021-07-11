@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:34.000Z",
-  "updatedAt": "2021-04-15T22:14:48.000Z",
+  "updatedAt": "2021-07-06T14:03:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 86381,
         "createdAt": "2021-04-15T22:14:48.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yr952126": {
+        "authors": [
+          "Okita Ryuji"
+        ],
+        "identifier": "manga-yr952126",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sumarin Kanojo-Tachi",
+        "url": "https://manganato.com/manga-yr952126",
+        "image": "https://avt.mkklcdnv6temp.com/28/q/1-1583464815.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80431,
+        "aniId": 86381,
+        "createdAt": "2021-07-06T14:03:07.000Z",
+        "updatedAt": "2021-07-06T14:29:51.000Z",
         "deletedAt": null
       }
     }

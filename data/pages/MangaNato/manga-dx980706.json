@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 125080,
   "createdAt": "2021-06-08T17:56:04.000Z",
-  "updatedAt": "2021-06-08T17:56:04.000Z",
+  "updatedAt": "2021-07-04T03:52:57.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "비질란테"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gyu-Sam Kim",
+      "CRG"
+    ],
+    "id": 125080,
+    "malId": null,
+    "type": "manga",
+    "title": "Vigilante",
+    "url": "https://anilist.co/manga/125080",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125080-CXwcl0G3ko31.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-03T11:18:58.000Z",
+    "updatedAt": "2021-06-21T16:28:12.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:19.000Z",
-  "updatedAt": "2021-06-07T07:34:41.000Z",
+  "updatedAt": "2021-07-08T03:44:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -56,6 +56,50 @@
         "aniId": 128997,
         "createdAt": "2020-10-12T16:21:10.000Z",
         "updatedAt": "2021-06-08T06:41:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ochikazuki_ni_naritai_miyazen_san": {
+        "authors": [
+          "Akitaka"
+        ],
+        "identifier": "ochikazuki_ni_naritai_miyazen_san",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ochikazuki ni naritai Miyazen-san",
+        "url": "https://fanfox.net/manga/ochikazuki_ni_naritai_miyazen_san/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35452/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125256,
+        "aniId": 128997,
+        "createdAt": "2021-07-08T03:44:02.000Z",
+        "updatedAt": "2021-07-08T04:13:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ex982132": {
+        "authors": [
+          "Akitaka"
+        ],
+        "identifier": "manga-ex982132",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "O Chikadzuki Ni Naritai Manga",
+        "url": "https://readmanganato.com/manga-ex982132",
+        "image": "https://avt.mkklcdnv6temp.com/40/j/18-1583498666.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125256,
+        "aniId": 128997,
+        "createdAt": "2021-07-09T04:43:34.000Z",
+        "updatedAt": "2021-07-09T05:13:16.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:18.000Z",
-  "updatedAt": "2021-01-23T12:33:50.000Z",
+  "updatedAt": "2021-07-04T21:31:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,29 @@
         "aniId": 85634,
         "createdAt": "2021-01-23T12:34:06.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-sf951540": {
+        "authors": [
+          "Oomori Fujino",
+          "Yagi Takashi"
+        ],
+        "identifier": "manga-sf951540",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dungeon Ni Deai O Motomeru No Wa Machigatte Iru Darou Ka Gaiden - Sword Oratoria",
+        "url": "https://readmanganato.com/manga-sf951540",
+        "image": "https://avt.mkklcdnv6temp.com/8/i/1-1583463995.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71253,
+        "aniId": 85634,
+        "createdAt": "2021-07-04T21:31:03.000Z",
+        "updatedAt": "2021-07-04T21:59:50.000Z",
         "deletedAt": null
       }
     }

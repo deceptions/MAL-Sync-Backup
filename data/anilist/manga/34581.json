@@ -81,6 +81,28 @@
         "updatedAt": "2021-05-20T15:39:23.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "bibi": {
+        "authors": [
+          "CHOI Kyung-ah"
+        ],
+        "identifier": "bibi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bibi",
+        "url": "https://fanfox.net/manga/bibi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/474/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4581,
+        "aniId": 34581,
+        "createdAt": "2021-07-04T03:37:47.000Z",
+        "updatedAt": "2021-07-04T03:59:50.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

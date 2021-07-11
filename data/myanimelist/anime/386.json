@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:03.000Z",
-  "updatedAt": "2021-04-26T01:57:54.000Z",
+  "updatedAt": "2021-07-04T03:38:56.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -29,6 +29,25 @@
         "aniId": 386,
         "createdAt": "2020-10-12T15:52:16.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "h2-tv": {
+        "identifier": "h2-tv",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "H2 TV",
+        "url": "https://gogoanime.pe/category/h2-tv",
+        "image": "https://gogocdn.net/images/anime/H/h2-TV.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 386,
+        "aniId": 386,
+        "createdAt": "2020-10-12T16:00:37.000Z",
+        "updatedAt": "2021-07-04T09:59:50.000Z",
         "deletedAt": null
       }
     }

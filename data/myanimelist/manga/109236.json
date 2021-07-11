@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:12.000Z",
-  "updatedAt": "2021-06-07T12:36:01.000Z",
+  "updatedAt": "2021-07-08T22:14:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 100029,
         "createdAt": "2021-06-07T12:36:05.000Z",
         "updatedAt": "2021-06-07T13:05:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-aj977444": {
+        "authors": [
+          "Endou Okito"
+        ],
+        "identifier": "manga-aj977444",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Otohime Diver",
+        "url": "https://manganato.com/manga-aj977444",
+        "image": "https://avt.mkklcdnv6temp.com/43/a/15-1583493206.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109236,
+        "aniId": 100029,
+        "createdAt": "2021-07-08T22:13:18.000Z",
+        "updatedAt": "2021-07-08T22:43:16.000Z",
         "deletedAt": null
       }
     }

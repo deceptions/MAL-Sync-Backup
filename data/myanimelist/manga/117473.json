@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:50.000Z",
-  "updatedAt": "2021-06-03T22:20:30.000Z",
+  "updatedAt": "2021-07-04T03:36:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 105706,
         "createdAt": "2020-12-19T14:26:45.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gu983929": {
+        "authors": [
+          "Fuyu Amakura"
+        ],
+        "identifier": "manga-gu983929",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Heroine Hajimemashita",
+        "url": "https://manganato.com/manga-gu983929",
+        "image": "https://avt.mkklcdnv6temp.com/7/c/20-1583501295.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117473,
+        "aniId": 105706,
+        "createdAt": "2021-07-04T03:36:48.000Z",
+        "updatedAt": "2021-07-04T03:59:50.000Z",
         "deletedAt": null
       }
     }

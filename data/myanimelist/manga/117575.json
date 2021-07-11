@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:50.000Z",
-  "updatedAt": "2021-06-07T17:35:47.000Z",
+  "updatedAt": "2021-07-09T09:13:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,28 @@
         "aniId": 107552,
         "createdAt": "2021-06-07T17:35:48.000Z",
         "updatedAt": "2021-06-07T18:03:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "undine_of_the_desert_world": {
+        "authors": [
+          "Misu Shinya"
+        ],
+        "identifier": "undine_of_the_desert_world",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Undine of the Desert World",
+        "url": "https://fanfox.net/manga/undine_of_the_desert_world/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29840/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117575,
+        "aniId": 107552,
+        "createdAt": "2021-07-09T09:13:50.000Z",
+        "updatedAt": "2021-07-09T09:43:19.000Z",
         "deletedAt": null
       }
     }

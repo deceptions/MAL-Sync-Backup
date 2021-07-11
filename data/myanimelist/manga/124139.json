@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:12.000Z",
-  "updatedAt": "2021-05-29T11:12:33.000Z",
+  "updatedAt": "2021-07-08T09:13:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -85,6 +85,28 @@
         "aniId": 115979,
         "createdAt": "2021-05-29T11:12:33.000Z",
         "updatedAt": "2021-05-29T11:42:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "maydare_tensei_monogatari": {
+        "authors": [
+          "YUUMA Midori"
+        ],
+        "identifier": "maydare_tensei_monogatari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Maydare Tensei Monogatari",
+        "url": "https://fanfox.net/manga/maydare_tensei_monogatari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34225/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 124139,
+        "aniId": 115979,
+        "createdAt": "2021-07-08T09:13:48.000Z",
+        "updatedAt": "2021-07-08T16:13:16.000Z",
         "deletedAt": null
       }
     }

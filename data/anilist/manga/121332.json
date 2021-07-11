@@ -20,5 +20,29 @@
   "createdAt": "2021-06-02T21:01:23.000Z",
   "updatedAt": "2021-06-21T15:55:34.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "0a37681d-1603-4460-afd9-1b16dabef122": {
+        "authors": [
+          "Eclair",
+          "LUNAHENG"
+        ],
+        "identifier": "0a37681d-1603-4460-afd9-1b16dabef122",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Precious Sister of the Villainous Grand Duke (PROMO)",
+        "url": "https://mangadex.org/title/0a37681d-1603-4460-afd9-1b16dabef122",
+        "image": "https://uploads.mangadex.org/covers/0a37681d-1603-4460-afd9-1b16dabef122/255d95cc-6d2f-4777-ab6c-5bcbd368f8e6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 121332,
+        "createdAt": "2020-10-12T16:19:10.000Z",
+        "updatedAt": "2021-07-08T06:48:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

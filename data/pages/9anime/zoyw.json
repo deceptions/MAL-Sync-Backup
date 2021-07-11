@@ -4,7 +4,7 @@
   "page": "9anime",
   "title": "Seirei Gensouki",
   "url": "https://www12.9anime.to/watch/spirit-chronicles.zoyw",
-  "image": "//static.bunnycdn.ru/i/cache/images/4/40/4041b3eb94e7d265e35367af75f8da1c.jpg",
+  "image": "https://static.bunnycdn.ru/i/cache/images/4/40/4041b3eb94e7d265e35367af75f8da1c.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
@@ -12,7 +12,7 @@
   "malId": 44203,
   "aniId": 126546,
   "createdAt": "2020-12-09T14:07:11.000Z",
-  "updatedAt": "2021-05-20T15:21:57.000Z",
+  "updatedAt": "2021-07-05T20:00:22.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,7 +36,16 @@
       "精霊幻想記",
       "精灵幻想记吧"
     ],
-    "externalLinks": [],
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://crunchyroll.com/series/G0XHWM380/seirei-gensouki-spirit-chronicles"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/G0XHWM380/Seirei-Gensouki-Spirit-Chronicles"
+      }
+    ],
     "id": 126546,
     "malId": 44203,
     "type": "anime",
@@ -46,7 +55,7 @@
     "category": "tv",
     "hentai": false,
     "createdAt": "2021-05-20T14:46:13.000Z",
-    "updatedAt": "2021-07-03T20:33:57.000Z",
+    "updatedAt": "2021-07-05T18:59:50.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/anime/44203/Seirei_Gensouki"

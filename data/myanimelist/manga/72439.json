@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:19.000Z",
-  "updatedAt": "2021-06-05T21:18:59.000Z",
+  "updatedAt": "2021-07-07T03:29:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,50 @@
         "aniId": 91616,
         "createdAt": "2021-04-24T18:57:26.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ff982488": {
+        "authors": [
+          "Kadzuya Konomoto"
+        ],
+        "identifier": "manga-ff982488",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Seto Utsumi",
+        "url": "https://readmanganato.com/manga-ff982488",
+        "image": "https://avt.mkklcdnv6temp.com/3/r/19-1583499212.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72439,
+        "aniId": 91616,
+        "createdAt": "2021-07-07T03:29:51.000Z",
+        "updatedAt": "2021-07-07T03:59:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "setoutsumi": {
+        "authors": [
+          "KONOMOTO Kazuya"
+        ],
+        "identifier": "setoutsumi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Setoutsumi",
+        "url": "https://fanfox.net/manga/setoutsumi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29575/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72439,
+        "aniId": 91616,
+        "createdAt": "2021-07-09T00:43:31.000Z",
+        "updatedAt": "2021-07-09T01:13:16.000Z",
         "deletedAt": null
       }
     }

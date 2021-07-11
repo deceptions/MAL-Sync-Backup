@@ -4,7 +4,16 @@
     "精霊幻想記",
     "精灵幻想记吧"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://crunchyroll.com/series/G0XHWM380/seirei-gensouki-spirit-chronicles"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G0XHWM380/Seirei-Gensouki-Spirit-Chronicles"
+    }
+  ],
   "id": 126546,
   "malId": 44203,
   "type": "anime",
@@ -14,7 +23,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:46:13.000Z",
-  "updatedAt": "2021-07-03T20:33:57.000Z",
+  "updatedAt": "2021-07-05T18:59:50.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -24,7 +33,7 @@
         "page": "9anime",
         "title": "Seirei Gensouki",
         "url": "https://www12.9anime.to/watch/spirit-chronicles.zoyw",
-        "image": "//static.bunnycdn.ru/i/cache/images/4/40/4041b3eb94e7d265e35367af75f8da1c.jpg",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/40/4041b3eb94e7d265e35367af75f8da1c.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
@@ -32,7 +41,45 @@
         "malId": 44203,
         "aniId": 126546,
         "createdAt": "2020-12-09T14:07:11.000Z",
-        "updatedAt": "2021-05-20T15:21:57.000Z",
+        "updatedAt": "2021-07-05T20:00:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4439": {
+        "identifier": "4439",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Seirei Gensouki",
+        "url": "https://pahe.win/a/4439",
+        "image": "https://i.animepahe.com/posters/0fb8226675114c4f0dff293387ca7640305a55fd60d33d4ce6fc5eebe37e7c2b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44203,
+        "aniId": 126546,
+        "createdAt": "2021-07-04T01:04:07.000Z",
+        "updatedAt": "2021-07-04T01:33:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "seirei-gensouki": {
+        "identifier": "seirei-gensouki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Seirei Gensouki",
+        "url": "https://gogoanime.pe/category/seirei-gensouki",
+        "image": "https://gogocdn.net/cover/seirei-gensouki.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44203,
+        "aniId": 126546,
+        "createdAt": "2021-07-05T18:59:51.000Z",
+        "updatedAt": "2021-07-05T19:29:50.000Z",
         "deletedAt": null
       }
     }

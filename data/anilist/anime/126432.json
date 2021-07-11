@@ -18,5 +18,44 @@
   "createdAt": "2021-06-15T13:57:33.000Z",
   "updatedAt": "2021-07-03T03:33:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "6l919": {
+        "identifier": "6l919",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sou Xuan Lu Zhi Chen Ling Ji",
+        "url": "https://www12.9anime.to/watch/the-gerent-saga.6l919",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/b0/b02bbea29828478e3753d33b8a7fd97b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44075,
+        "aniId": 126432,
+        "createdAt": "2021-07-08T03:15:58.000Z",
+        "updatedAt": "2021-07-08T03:43:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sou-xuan-lu-zhi-chen-ling-ji": {
+        "identifier": "sou-xuan-lu-zhi-chen-ling-ji",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sou Xuan Lu Zhi Chen Ling Ji",
+        "url": "https://gogoanime.pe/category/sou-xuan-lu-zhi-chen-ling-ji",
+        "image": "https://gogocdn.net/cover/sou-xuan-lu-zhi-chen-ling-ji.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44075,
+        "aniId": 126432,
+        "createdAt": "2021-07-10T17:13:27.000Z",
+        "updatedAt": "2021-07-10T17:43:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

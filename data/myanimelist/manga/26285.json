@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:25.000Z",
-  "updatedAt": "2021-02-26T20:26:07.000Z",
+  "updatedAt": "2021-07-08T20:14:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 56285,
         "createdAt": "2021-02-26T20:26:08.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "d-c-d": {
+        "authors": [
+          "TAGUCHI Kenji"
+        ],
+        "identifier": "d-c-d",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Diamond Cut Diamond",
+        "url": "https://mangasee123.com/manga/D-C-D",
+        "image": "https://cover.nep.li/cover/D-C-D.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26285,
+        "aniId": 56285,
+        "createdAt": "2021-07-08T20:14:46.000Z",
+        "updatedAt": "2021-07-08T20:43:16.000Z",
         "deletedAt": null
       }
     }

@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:07.000Z",
-  "updatedAt": "2021-05-06T08:02:31.000Z",
+  "updatedAt": "2021-07-05T21:00:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 70437,
         "createdAt": "2020-10-12T16:06:04.000Z",
         "updatedAt": "2021-06-03T16:55:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "giant-robo": {
+        "authors": [
+          "YOKOYAMA Mitsuteru"
+        ],
+        "identifier": "giant-robo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Giant Robo",
+        "url": "https://mangasee123.com/manga/Giant-Robo",
+        "image": "https://cover.nep.li/cover/Giant-Robo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40437,
+        "aniId": 70437,
+        "createdAt": "2021-07-05T21:00:29.000Z",
+        "updatedAt": "2021-07-05T21:29:50.000Z",
         "deletedAt": null
       }
     }

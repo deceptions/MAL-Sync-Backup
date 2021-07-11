@@ -84,6 +84,28 @@
         "updatedAt": "2021-06-02T16:00:50.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "w_x_y": {
+        "authors": [
+          "MADOKA Machiko"
+        ],
+        "identifier": "w_x_y",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "W x Y",
+        "url": "https://fanfox.net/manga/w_x_y/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14553/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58029,
+        "aniId": 88539,
+        "createdAt": "2021-07-10T00:14:33.000Z",
+        "updatedAt": "2021-07-10T00:43:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

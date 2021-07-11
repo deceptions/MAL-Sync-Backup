@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:59.000Z",
-  "updatedAt": "2021-05-18T18:31:04.000Z",
+  "updatedAt": "2021-07-08T03:44:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,50 @@
         "aniId": 98869,
         "createdAt": "2020-10-12T16:10:12.000Z",
         "updatedAt": "2021-06-04T23:04:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yq975373": {
+        "authors": [
+          "Ono Haruka"
+        ],
+        "identifier": "manga-yq975373",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dousei Sensei Wa Renai Ga Wakaranai.",
+        "url": "https://manganato.com/manga-yq975373",
+        "image": "https://avt.mkklcdnv6temp.com/8/x/15-1583491783.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 105455,
+        "aniId": 98869,
+        "createdAt": "2021-07-08T03:44:12.000Z",
+        "updatedAt": "2021-07-08T07:13:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dousei_sensei_wa_renai_ga_wakaranai": {
+        "authors": [
+          "ONO Haruka"
+        ],
+        "identifier": "dousei_sensei_wa_renai_ga_wakaranai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dousei Sensei wa Renai ga Wakaranai.",
+        "url": "https://fanfox.net/manga/dousei_sensei_wa_renai_ga_wakaranai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/24435/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 105455,
+        "aniId": 98869,
+        "createdAt": "2021-07-08T09:13:39.000Z",
+        "updatedAt": "2021-07-08T16:13:16.000Z",
         "deletedAt": null
       }
     }

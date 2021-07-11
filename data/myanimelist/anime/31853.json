@@ -11,7 +11,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:40.000Z",
-  "updatedAt": "2021-05-19T23:01:14.000Z",
+  "updatedAt": "2021-07-08T12:13:40.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -66,6 +66,25 @@
         "aniId": 21464,
         "createdAt": "2020-10-15T12:59:04.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "biohazard-vendetta-dub": {
+        "identifier": "biohazard-vendetta-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Biohazard: Vendetta (Dub)",
+        "url": "https://gogoanime.pe/category/biohazard-vendetta-dub",
+        "image": "https://gogocdn.net/cover/biohazard-vendetta-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31853,
+        "aniId": 21464,
+        "createdAt": "2021-07-08T12:13:37.000Z",
+        "updatedAt": "2021-07-08T12:43:16.000Z",
         "deletedAt": null
       }
     }

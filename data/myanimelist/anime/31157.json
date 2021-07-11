@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:38.000Z",
-  "updatedAt": "2021-04-30T14:48:44.000Z",
+  "updatedAt": "2021-07-04T21:31:38.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -49,6 +49,25 @@
         "aniId": 21250,
         "createdAt": "2020-10-12T15:57:58.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1377": {
+        "identifier": "1377",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "ClassicaLoid",
+        "url": "https://pahe.win/a/1377",
+        "image": "https://i.animepahe.com/posters/1635ebd4192d00f470c090a768f19774.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31157,
+        "aniId": 21250,
+        "createdAt": "2021-07-04T21:31:35.000Z",
+        "updatedAt": "2021-07-04T21:59:50.000Z",
         "deletedAt": null
       }
     }

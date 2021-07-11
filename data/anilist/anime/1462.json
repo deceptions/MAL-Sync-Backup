@@ -65,7 +65,7 @@
         "type": "anime",
         "page": "Gogoanime",
         "title": "Memories",
-        "url": "https://www17.gogoanime.io/category/memories",
+        "url": "https://gogoanime.vc/category/memories",
         "image": "https://gogocdn.net/images/anime/M/Memories.jpg",
         "hentai": false,
         "sticky": false,
@@ -75,6 +75,23 @@
         "aniId": 1462,
         "createdAt": "2020-10-12T16:01:16.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "memories-dub": {
+        "identifier": "memories-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Memories (Dub)",
+        "url": "https://gogoanime.pe/category/memories-dub",
+        "image": "https://gogocdn.net/cover/memories-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1462,
+        "aniId": 1462,
+        "createdAt": "2021-07-09T02:15:07.000Z",
+        "updatedAt": "2021-07-09T02:43:16.000Z",
         "deletedAt": null
       }
     },

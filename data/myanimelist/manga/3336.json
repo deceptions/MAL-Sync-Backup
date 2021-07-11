@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:50.000Z",
-  "updatedAt": "2021-04-28T02:50:22.000Z",
+  "updatedAt": "2021-07-04T06:30:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 33336,
         "createdAt": "2021-05-04T03:33:28.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bd956712": {
+        "authors": [
+          "Kamio Youko"
+        ],
+        "identifier": "manga-bd956712",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Matsuri Special",
+        "url": "https://manganato.com/manga-bd956712",
+        "image": "https://avt.mkklcdnv6temp.com/24/x/4-1583470711.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3336,
+        "aniId": 33336,
+        "createdAt": "2021-07-04T06:30:25.000Z",
+        "updatedAt": "2021-07-04T06:59:50.000Z",
         "deletedAt": null
       }
     }

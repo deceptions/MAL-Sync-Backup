@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:13.000Z",
-  "updatedAt": "2021-04-29T13:19:31.000Z",
+  "updatedAt": "2021-07-05T23:00:12.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -84,6 +84,25 @@
         "aniId": 1136,
         "createdAt": "2021-04-29T13:19:41.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "betterman": {
+        "identifier": "betterman",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Betterman",
+        "url": "https://gogoanime.pe/category/betterman",
+        "image": "https://gogocdn.net/cover/betterman.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1136,
+        "aniId": 1136,
+        "createdAt": "2021-07-05T23:00:03.000Z",
+        "updatedAt": "2021-07-05T23:29:50.000Z",
         "deletedAt": null
       }
     }

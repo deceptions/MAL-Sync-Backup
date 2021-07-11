@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 130511,
   "createdAt": "2021-05-28T21:23:46.000Z",
-  "updatedAt": "2021-06-29T08:29:25.000Z",
+  "updatedAt": "2021-07-05T13:32:52.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "레벨업 못하는 플레이어",
+      "The Player That Can't Level Up",
+      " Player Who Can’t Level Up"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Bin-Ji Ga",
+      "Jeong-Jae Park",
+      "Aengmusae"
+    ],
+    "id": 130511,
+    "malId": null,
+    "type": "manga",
+    "title": "Level-Up Motaneun Player",
+    "url": "https://anilist.co/manga/130511",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130511-4O6dF8oaiVJh.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T18:44:31.000Z",
+    "updatedAt": "2021-06-21T13:45:32.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

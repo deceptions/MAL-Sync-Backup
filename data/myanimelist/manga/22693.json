@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:07.000Z",
-  "updatedAt": "2021-01-13T19:09:57.000Z",
+  "updatedAt": "2021-07-07T14:01:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 52693,
         "createdAt": "2020-10-12T16:02:42.000Z",
         "updatedAt": "2021-06-02T08:52:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nz964908": {
+        "authors": [
+          "Horikita Aoi"
+        ],
+        "identifier": "manga-nz964908",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Maomarimo",
+        "url": "https://manganato.com/manga-nz964908",
+        "image": "https://avt.mkklcdnv6temp.com/44/t/9-1583481973.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22693,
+        "aniId": 52693,
+        "createdAt": "2021-07-07T14:01:40.000Z",
+        "updatedAt": "2021-07-07T14:29:55.000Z",
         "deletedAt": null
       }
     }

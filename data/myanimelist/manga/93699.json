@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:16.000Z",
-  "updatedAt": "2021-06-04T12:51:28.000Z",
+  "updatedAt": "2021-07-09T06:13:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -79,6 +79,28 @@
         "aniId": 87217,
         "createdAt": "2021-06-04T12:51:28.000Z",
         "updatedAt": "2021-06-04T13:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ug971763": {
+        "authors": [
+          "Sakamoto Shinichi"
+        ],
+        "identifier": "manga-ug971763",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Innocent Rouge",
+        "url": "https://manganato.com/manga-ug971763",
+        "image": "https://avt.mkklcdnv6temp.com/1/t/13-1583489748.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93699,
+        "aniId": 87217,
+        "createdAt": "2021-07-09T06:13:38.000Z",
+        "updatedAt": "2021-07-09T06:43:16.000Z",
         "deletedAt": null
       }
     }

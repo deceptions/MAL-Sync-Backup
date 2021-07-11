@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:00.000Z",
-  "updatedAt": "2021-04-28T21:20:21.000Z",
+  "updatedAt": "2021-07-06T07:01:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 34599,
         "createdAt": "2020-10-12T16:05:10.000Z",
         "updatedAt": "2021-06-03T10:39:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hv954704": {
+        "authors": [
+          "Satou Daisuke"
+        ],
+        "identifier": "manga-hv954704",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Koukoku No Shugosha",
+        "url": "https://manganato.com/manga-hv954704",
+        "image": "https://avt.mkklcdnv6temp.com/16/b/3-1583468277.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4599,
+        "aniId": 34599,
+        "createdAt": "2021-07-06T07:01:31.000Z",
+        "updatedAt": "2021-07-06T07:29:51.000Z",
         "deletedAt": null
       }
     }

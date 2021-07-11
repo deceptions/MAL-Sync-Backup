@@ -9,11 +9,34 @@
   "type": "manga",
   "title": "JK Kunoichi wa Subete wo Sasagetai",
   "url": "https://myanimelist.net/manga/122026/JK_Kunoichi_wa_Subete_wo_Sasagetai",
-  "image": "https://cdn.myanimelist.net/images/manga/2/222408.jpg",
+  "image": "https://cdn.myanimelist.net/images/manga/1/244276.jpg",
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-03-08T12:40:29.000Z",
-  "updatedAt": "2021-03-08T12:40:29.000Z",
+  "updatedAt": "2021-07-10T08:13:37.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "aeb1eeac-d166-46d9-be1f-33eeb569268c": {
+        "authors": [
+          "Umechazuke"
+        ],
+        "identifier": "aeb1eeac-d166-46d9-be1f-33eeb569268c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "JK Kunoichi wa subete o sasagetai",
+        "url": "https://mangadex.org/title/aeb1eeac-d166-46d9-be1f-33eeb569268c",
+        "image": "https://uploads.mangadex.org/covers/aeb1eeac-d166-46d9-be1f-33eeb569268c/ecf3405c-1bbb-4ab8-b417-ed6c1ed8ee58.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 122026,
+        "aniId": 111160,
+        "createdAt": "2021-03-08T12:40:33.000Z",
+        "updatedAt": "2021-07-10T13:13:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

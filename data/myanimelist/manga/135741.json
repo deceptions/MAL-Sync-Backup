@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-09T08:11:38.000Z",
-  "updatedAt": "2021-06-09T08:11:38.000Z",
+  "updatedAt": "2021-07-10T03:44:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 126066,
         "createdAt": "2020-10-12T16:21:53.000Z",
         "updatedAt": "2021-06-09T08:11:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kh987690": {
+        "authors": [
+          "Satou Tsutomu",
+          "Takeda Hazumi"
+        ],
+        "identifier": "manga-kh987690",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mahouka Koukou No Rettousei - Shizoku Kaigi-Hen",
+        "url": "https://manganato.com/manga-kh987690",
+        "image": "https://avt.mkklcdnv6temp.com/8/e/23-1611110689.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135741,
+        "aniId": 126066,
+        "createdAt": "2021-07-10T03:44:31.000Z",
+        "updatedAt": "2021-07-10T04:13:16.000Z",
         "deletedAt": null
       }
     }

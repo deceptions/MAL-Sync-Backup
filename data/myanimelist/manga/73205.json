@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:20.000Z",
-  "updatedAt": "2021-02-14T08:36:04.000Z",
+  "updatedAt": "2021-07-10T11:44:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,31 @@
         "aniId": 91764,
         "createdAt": "2020-10-12T16:07:23.000Z",
         "updatedAt": "2021-06-04T02:30:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bx978806": {
+        "authors": [
+          "Sagara Sou",
+          "Kashi (華",
+          "師",
+          ")"
+        ],
+        "identifier": "manga-bx978806",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hentai Ouji To Warawanai Neko. Nya!",
+        "url": "https://manganato.com/manga-bx978806",
+        "image": "https://avt.mkklcdnv6temp.com/17/u/16-1583494113.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73205,
+        "aniId": 91764,
+        "createdAt": "2021-07-10T11:44:00.000Z",
+        "updatedAt": "2021-07-10T12:13:16.000Z",
         "deletedAt": null
       }
     }

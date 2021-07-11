@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:02.000Z",
-  "updatedAt": "2021-04-29T01:20:02.000Z",
+  "updatedAt": "2021-07-04T06:32:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 34999,
         "createdAt": "2020-10-12T16:05:14.000Z",
         "updatedAt": "2021-06-03T11:08:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gs957227": {
+        "authors": [
+          "Wakatsuki Senju"
+        ],
+        "identifier": "manga-gs957227",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Samurai Baby",
+        "url": "https://manganato.com/manga-gs957227",
+        "image": "https://avt.mkklcdnv6temp.com/38/v/4-1583471281.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4999,
+        "aniId": 34999,
+        "createdAt": "2021-07-04T06:32:00.000Z",
+        "updatedAt": "2021-07-04T06:59:50.000Z",
         "deletedAt": null
       }
     }

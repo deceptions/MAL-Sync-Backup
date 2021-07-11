@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:25.000Z",
-  "updatedAt": "2021-05-26T17:39:13.000Z",
+  "updatedAt": "2021-07-04T17:32:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 30744,
         "createdAt": "2021-05-26T17:39:13.000Z",
         "updatedAt": "2021-05-26T18:08:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-oh958016": {
+        "authors": [
+          "Kojima Akira"
+        ],
+        "identifier": "manga-oh958016",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mahoraba",
+        "url": "https://manganato.com/manga-oh958016",
+        "image": "https://avt.mkklcdnv6temp.com/12/t/5-1583472348.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 744,
+        "aniId": 30744,
+        "createdAt": "2021-07-04T17:32:19.000Z",
+        "updatedAt": "2021-07-04T17:59:51.000Z",
         "deletedAt": null
       }
     }

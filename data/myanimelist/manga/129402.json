@@ -14,7 +14,31 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-03-16T16:33:33.000Z",
-  "updatedAt": "2021-05-29T09:44:03.000Z",
+  "updatedAt": "2021-07-08T08:43:37.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "72b28da7-eb5d-4dee-a5ca-2f18197deb02": {
+        "authors": [
+          "Senki Anten",
+          "Soramochi"
+        ],
+        "identifier": "72b28da7-eb5d-4dee-a5ca-2f18197deb02",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ane ga Kensei de Imouto ga Kenja de",
+        "url": "https://mangadex.org/title/72b28da7-eb5d-4dee-a5ca-2f18197deb02",
+        "image": "https://uploads.mangadex.org/covers/72b28da7-eb5d-4dee-a5ca-2f18197deb02/e206b658-e943-46d2-8673-e897555e1ac2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 129402,
+        "aniId": null,
+        "createdAt": "2020-10-12T16:21:14.000Z",
+        "updatedAt": "2021-07-08T15:49:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

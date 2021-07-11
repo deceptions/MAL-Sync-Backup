@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-12-21T20:56:40.000Z",
-  "updatedAt": "2021-02-07T10:20:18.000Z",
+  "updatedAt": "2021-07-04T21:00:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 113775,
         "createdAt": "2020-10-12T16:18:52.000Z",
         "updatedAt": "2021-06-07T20:54:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "cheat_shoujo_ga_boukun_seiou_ni_dekiai_sa_resoudesuga_ima_wa_mahou_ni_muchuu_nandesu": {
+        "authors": [
+          "NATSUNO Chiyori",
+          "[Add]"
+        ],
+        "identifier": "cheat_shoujo_ga_boukun_seiou_ni_dekiai_sa_resoudesuga_ima_wa_mahou_ni_muchuu_nandesu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cheat shoujo ga boukun seiou ni dekiai sa resoudesuga, ima wa mahou ni muchuu nandesu!!!",
+        "url": "https://fanfox.net/manga/cheat_shoujo_ga_boukun_seiou_ni_dekiai_sa_resoudesuga_ima_wa_mahou_ni_muchuu_nandesu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33260/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125881,
+        "aniId": 113775,
+        "createdAt": "2021-07-04T20:59:54.000Z",
+        "updatedAt": "2021-07-04T21:29:50.000Z",
         "deletedAt": null
       }
     }

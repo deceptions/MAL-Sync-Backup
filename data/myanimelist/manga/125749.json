@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-18T10:33:02.000Z",
-  "updatedAt": "2021-06-07T23:23:50.000Z",
+  "updatedAt": "2021-07-08T04:44:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,51 @@
         "aniId": 114680,
         "createdAt": "2020-10-12T16:19:54.000Z",
         "updatedAt": "2021-06-08T00:46:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-in985548": {
+        "authors": [
+          "Uguisu Sachiko",
+          "Hiyodori Sachiko"
+        ],
+        "identifier": "manga-in985548",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tokimeki No Ikenie",
+        "url": "https://readmanganato.com/manga-in985548",
+        "image": "https://avt.mkklcdnv6temp.com/20/r/21-1590681107.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125749,
+        "aniId": 114680,
+        "createdAt": "2021-07-08T04:43:26.000Z",
+        "updatedAt": "2021-07-08T05:13:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tokimeki_no_ikenie": {
+        "authors": [
+          "UGUISU Sachiko"
+        ],
+        "identifier": "tokimeki_no_ikenie",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tokimeki no ikenie",
+        "url": "https://fanfox.net/manga/tokimeki_no_ikenie/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34129/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125749,
+        "aniId": 114680,
+        "createdAt": "2021-07-08T12:44:50.000Z",
+        "updatedAt": "2021-07-08T13:13:17.000Z",
         "deletedAt": null
       }
     }

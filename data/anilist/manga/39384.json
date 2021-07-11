@@ -44,6 +44,28 @@
         "updatedAt": "2021-06-07T13:51:02.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hensoukyoku": {
+        "authors": [
+          "TAKEMIYA Keiko"
+        ],
+        "identifier": "hensoukyoku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hensoukyoku",
+        "url": "https://fanfox.net/manga/hensoukyoku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32456/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9384,
+        "aniId": 39384,
+        "createdAt": "2021-07-10T08:14:33.000Z",
+        "updatedAt": "2021-07-10T08:43:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

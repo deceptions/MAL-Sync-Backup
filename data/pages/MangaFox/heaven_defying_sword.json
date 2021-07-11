@@ -10,14 +10,34 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/32328/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 116361,
   "createdAt": "2021-03-04T10:51:08.000Z",
-  "updatedAt": "2021-03-04T10:51:08.000Z",
+  "updatedAt": "2021-07-08T20:45:00.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Heaven Defying Sword",
+      "剑逆苍穹"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Fen Qi Dongman"
+    ],
+    "id": 116361,
+    "malId": null,
+    "type": "manga",
+    "title": "Jian ni Cangqiong",
+    "url": "https://anilist.co/manga/116361",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b116361-jeppPeWVom6y.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T17:13:17.000Z",
+    "updatedAt": "2021-06-21T15:15:22.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

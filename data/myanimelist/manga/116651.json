@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-05T12:50:11.000Z",
-  "updatedAt": "2021-03-08T19:41:45.000Z",
+  "updatedAt": "2021-07-08T18:43:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 101951,
         "createdAt": "2020-10-12T16:12:04.000Z",
         "updatedAt": "2021-06-05T13:06:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bc979111": {
+        "authors": [
+          "Maruyama Kugane"
+        ],
+        "identifier": "manga-bc979111",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Overlord The Undead King Oh!",
+        "url": "https://readmanganato.com/manga-bc979111",
+        "image": "https://avt.mkklcdnv6temp.com/29/g/16-1583494519.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 116651,
+        "aniId": 101951,
+        "createdAt": "2021-07-08T18:43:39.000Z",
+        "updatedAt": "2021-07-09T19:13:17.000Z",
         "deletedAt": null
       }
     }

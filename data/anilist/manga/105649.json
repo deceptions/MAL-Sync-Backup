@@ -20,5 +20,28 @@
   "createdAt": "2021-06-19T08:20:50.000Z",
   "updatedAt": "2021-06-21T13:54:54.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lo989271": {
+        "authors": [
+          "Yodeng"
+        ],
+        "identifier": "manga-lo989271",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "After Midnight",
+        "url": "https://manganato.com/manga-lo989271",
+        "image": "https://avt.mkklcdnv6temp.com/23/n/24-1625632765.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 105649,
+        "createdAt": "2021-07-10T01:44:21.000Z",
+        "updatedAt": "2021-07-10T01:44:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

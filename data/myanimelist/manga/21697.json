@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:58.000Z",
-  "updatedAt": "2021-06-02T11:01:43.000Z",
+  "updatedAt": "2021-07-05T07:29:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 51697,
         "createdAt": "2021-02-03T01:01:44.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ur961174": {
+        "authors": [
+          "Egawa Tatsuya"
+        ],
+        "identifier": "manga-ur961174",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Golden Boy",
+        "url": "https://manganato.com/manga-ur961174",
+        "image": "https://avt.mkklcdnv6temp.com/28/h/7-1583477333.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21697,
+        "aniId": 51697,
+        "createdAt": "2021-07-05T07:29:51.000Z",
+        "updatedAt": "2021-07-05T07:59:50.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:49.000Z",
-  "updatedAt": "2021-06-04T13:52:20.000Z",
+  "updatedAt": "2021-07-04T15:02:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,28 @@
         "aniId": 85889,
         "createdAt": "2021-06-04T13:52:20.000Z",
         "updatedAt": "2021-06-04T14:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "floor_ni_maou_ga_imasu": {
+        "authors": [
+          "Hato"
+        ],
+        "identifier": "floor_ni_maou_ga_imasu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Floor ni Maou ga Imasu",
+        "url": "https://fanfox.net/manga/floor_ni_maou_ga_imasu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15163/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86417,
+        "aniId": 85889,
+        "createdAt": "2021-07-04T15:02:33.000Z",
+        "updatedAt": "2021-07-04T15:29:51.000Z",
         "deletedAt": null
       }
     }
