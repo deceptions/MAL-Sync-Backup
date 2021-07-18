@@ -21,5 +21,30 @@
   "createdAt": "2021-07-04T11:29:51.000Z",
   "updatedAt": "2021-07-04T11:29:51.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "7025b71b-20ee-4f88-81fa-f545cc6a4a1f": {
+        "authors": [
+          "jjwxc.net",
+          "Su Jingxian",
+          "Yu Dazhuang"
+        ],
+        "identifier": "7025b71b-20ee-4f88-81fa-f545cc6a4a1f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "They Say I'm Broke",
+        "url": "https://mangadex.org/title/7025b71b-20ee-4f88-81fa-f545cc6a4a1f",
+        "image": "https://uploads.mangadex.org/covers/7025b71b-20ee-4f88-81fa-f545cc6a4a1f/afff8a6d-ed10-48ce-990e-39e40df68525.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 128679,
+        "createdAt": "2021-07-16T10:03:06.000Z",
+        "updatedAt": "2021-07-16T10:03:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

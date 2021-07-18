@@ -12,13 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 131395,
+  "aniId": 132657,
   "createdAt": "2020-10-12T16:21:15.000Z",
-  "updatedAt": "2021-06-08T01:57:59.000Z",
+  "updatedAt": "2021-07-13T14:50:49.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "The Demon King of the Frontier Life, Reincarnated to Become the Strongest Mage",
+      "辺境ぐらしの魔王、転生して最強の魔術師になる"
+    ],
+    "authors": [
+      "Sengetsu, Sakaki",
+      "Muraichi"
+    ],
+    "id": 131395,
+    "type": "manga",
+    "title": "Henkyougurashi no Maou, Tensei shite Saikyou no Majutsushi ni Naru",
+    "url": "https://myanimelist.net/manga/131395/Henkyougurashi_no_Maou_Tensei_shite_Saikyou_no_Majutsushi_ni_Naru",
+    "image": "https://cdn.myanimelist.net/images/manga/1/242734.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-05-05T03:33:02.000Z",
+    "updatedAt": "2021-07-12T01:46:44.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "辺境ぐらしの魔王、転生して最強の魔術師になる ",
+      "The Demon King of the Frontier Life, Reincarnated To Become the Strongest Mage ~The Former Demon King Who Grows up While Being Loved, Wants To Know Humans~"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Muraichi",
+      "Sakaki Sengetsu",
+      "Yoshitake"
+    ],
+    "id": 132657,
+    "malId": 131395,
+    "type": "manga",
+    "title": "Henkyougurashi no Maou, Tensei shite Saikyou no Majutsushi ni Naru",
+    "url": "https://anilist.co/manga/132657",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132657-nrGtaEEa12L0.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:35.000Z",
+    "updatedAt": "2021-06-18T12:23:21.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/131395/Henkyougurashi_no_Maou_Tensei_shite_Saikyou_no_Majutsushi_ni_Naru"
 }

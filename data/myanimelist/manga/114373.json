@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:35.000Z",
-  "updatedAt": "2021-01-24T16:42:08.000Z",
+  "updatedAt": "2021-07-15T04:21:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 103141,
         "createdAt": "2020-10-12T16:14:38.000Z",
         "updatedAt": "2021-06-06T06:54:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yuki_to_matsu": {
+        "authors": [
+          "TAKAHASHI Hidebu"
+        ],
+        "identifier": "yuki_to_matsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yuki to Matsu",
+        "url": "https://fanfox.net/manga/yuki_to_matsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29526/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114373,
+        "aniId": 103141,
+        "createdAt": "2021-07-15T04:20:51.000Z",
+        "updatedAt": "2021-07-15T04:50:49.000Z",
         "deletedAt": null
       }
     }

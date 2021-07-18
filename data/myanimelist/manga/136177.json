@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-05-07T07:48:13.000Z",
-  "updatedAt": "2021-06-08T12:08:10.000Z",
+  "updatedAt": "2021-07-13T06:16:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 116825,
         "createdAt": "2021-05-07T07:48:13.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kf988240": {
+        "authors": [
+          "Tsumu Yatsumi"
+        ],
+        "identifier": "manga-kf988240",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Island Manager",
+        "url": "https://manganato.com/manga-kf988240",
+        "image": "https://avt.mkklcdnv6temp.com/30/m/23-1613961648.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136177,
+        "aniId": 116825,
+        "createdAt": "2021-07-13T06:16:13.000Z",
+        "updatedAt": "2021-07-13T06:45:01.000Z",
         "deletedAt": null
       }
     }

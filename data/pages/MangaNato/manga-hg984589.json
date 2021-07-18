@@ -11,13 +11,49 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 124365,
+  "aniId": 115356,
   "createdAt": "2021-05-31T09:49:23.000Z",
-  "updatedAt": "2021-05-31T09:49:23.000Z",
+  "updatedAt": "2021-07-16T19:02:20.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "黒ギャルさんが来る！"
+    ],
+    "authors": [
+      "Tamagorou"
+    ],
+    "id": 124365,
+    "type": "manga",
+    "title": "Kuro Gal-san ga Kuru!",
+    "url": "https://myanimelist.net/manga/124365/Kuro_Gal-san_ga_Kuru",
+    "image": "https://cdn.myanimelist.net/images/manga/3/245886.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:48:13.000Z",
+    "updatedAt": "2021-07-16T18:02:34.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "黒ギャルさんが来る！"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tamagorou"
+    ],
+    "id": 115356,
+    "malId": 124365,
+    "type": "manga",
+    "title": "Kuro Gal-san ga Kuru!",
+    "url": "https://anilist.co/manga/115356",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115356-8q9VH81hVlBZ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:04.000Z",
+    "updatedAt": "2021-06-18T04:20:50.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/124365/Kuro_Gal-san_ga_Kuru"
 }

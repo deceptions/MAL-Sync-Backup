@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:22.000Z",
-  "updatedAt": "2021-05-04T00:03:19.000Z",
+  "updatedAt": "2021-07-14T22:22:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 101155,
         "createdAt": "2020-10-12T16:11:18.000Z",
         "updatedAt": "2021-06-05T07:13:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cu980077": {
+        "authors": [
+          "Puyo"
+        ],
+        "identifier": "manga-cu980077",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Urushiha Sarara Wa Koi Nado Shinai",
+        "url": "https://manganato.com/manga-cu980077",
+        "image": "https://avt.mkklcdnv6temp.com/15/f/17-1583495812.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111377,
+        "aniId": 101155,
+        "createdAt": "2021-07-14T22:22:44.000Z",
+        "updatedAt": "2021-07-14T22:50:49.000Z",
         "deletedAt": null
       }
     }

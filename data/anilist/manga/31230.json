@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-05T07:08:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "tokyo_akazukin": {
+        "authors": [
+          "TAMAOKI Benkyo"
+        ],
+        "identifier": "tokyo_akazukin",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tokyo Akazukin",
+        "url": "https://fanfox.net/manga/tokyo_akazukin/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/424/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1230,
+        "aniId": 31230,
+        "createdAt": "2021-07-16T22:02:22.000Z",
+        "updatedAt": "2021-07-16T22:32:20.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

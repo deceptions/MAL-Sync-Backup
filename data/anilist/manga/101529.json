@@ -64,6 +64,28 @@
         "updatedAt": "2021-07-08T00:43:16.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "rivnes": {
+        "authors": [
+          "Doumoto Yuuki"
+        ],
+        "identifier": "rivnes",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Rivnes",
+        "url": "https://fanfox.net/manga/rivnes/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28284/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90854,
+        "aniId": 101529,
+        "createdAt": "2021-07-11T16:46:47.000Z",
+        "updatedAt": "2021-07-11T17:15:01.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

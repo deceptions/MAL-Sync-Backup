@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 131262,
   "createdAt": "2021-06-03T06:30:55.000Z",
-  "updatedAt": "2021-07-10T20:14:18.000Z",
+  "updatedAt": "2021-07-13T14:26:16.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Protection of Lariensa Gelinus",
+      "마릴린은 라리엔사를 너무 좋아해!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Jiyesu",
+      "MeonJi"
+    ],
+    "id": 131262,
+    "malId": null,
+    "type": "manga",
+    "title": "Marilyn-eun Lariensa-reul Neomu Joahae!",
+    "url": "https://anilist.co/manga/131262",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131262-wqgJ60yHk4Zi.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T19:12:58.000Z",
+    "updatedAt": "2021-06-21T17:30:22.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

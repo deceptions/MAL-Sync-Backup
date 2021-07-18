@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:20.000Z",
-  "updatedAt": "2021-02-28T14:14:21.000Z",
+  "updatedAt": "2021-07-13T17:22:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 75179,
         "createdAt": "2020-10-12T16:07:07.000Z",
         "updatedAt": "2021-06-04T00:28:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kg962215": {
+        "authors": [
+          "Tendou Kirin"
+        ],
+        "identifier": "manga-kg962215",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Soshite, Hare Ni Naru",
+        "url": "https://manganato.com/manga-kg962215",
+        "image": "https://avt.mkklcdnv6temp.com/12/p/8-1583478661.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45179,
+        "aniId": 75179,
+        "createdAt": "2021-07-13T17:22:02.000Z",
+        "updatedAt": "2021-07-13T17:50:49.000Z",
         "deletedAt": null
       }
     }

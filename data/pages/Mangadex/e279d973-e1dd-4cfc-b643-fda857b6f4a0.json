@@ -12,13 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 133650,
+  "aniId": 130868,
   "createdAt": "2020-10-12T16:21:24.000Z",
-  "updatedAt": "2021-07-10T22:43:42.000Z",
+  "updatedAt": "2021-07-13T14:50:49.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "I'm Not Even an Otome Game Mob Character",
+      "乙女ゲーのモブですらないんだが"
+    ],
+    "authors": [
+      "Gyokuro",
+      "Himeno, Meno"
+    ],
+    "id": 133650,
+    "type": "manga",
+    "title": "Otomege no Mob desura Nai n da ga",
+    "url": "https://myanimelist.net/manga/133650/Otomege_no_Mob_desura_Nai_n_da_ga",
+    "image": "https://cdn.myanimelist.net/images/manga/2/246042.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-06-17T12:33:40.000Z",
+    "updatedAt": "2021-06-17T12:33:40.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "乙女ゲーのモブですらないんだが",
+      "I’m Not Even an Otome Game Mob Character"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gyokuro",
+      "Meno Himeno"
+    ],
+    "id": 130868,
+    "malId": 133650,
+    "type": "manga",
+    "title": "Otome Game no Mob desura naindaga ",
+    "url": "https://anilist.co/manga/130868",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130868-Szs6huAXxJyG.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-21T03:12:57.000Z",
+    "updatedAt": "2021-06-21T17:28:03.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/133650/Otomege_no_Mob_desura_Nai_n_da_ga"
 }

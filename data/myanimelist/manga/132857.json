@@ -16,5 +16,29 @@
   "createdAt": "2021-07-10T20:14:27.000Z",
   "updatedAt": "2021-07-10T20:14:27.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ld988360": {
+        "authors": [
+          "Tsubasa Nanaki",
+          "Yamanagi"
+        ],
+        "identifier": "manga-ld988360",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Will Be Selfish In A Different World! The Story Of A Selfish Saint Candidate",
+        "url": "https://manganato.com/manga-ld988360",
+        "image": "https://avt.mkklcdnv6temp.com/35/q/23-1614572863.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 132857,
+        "aniId": 133042,
+        "createdAt": "2021-05-31T09:08:17.000Z",
+        "updatedAt": "2021-07-13T14:50:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -11,13 +11,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 663,
+  "aniId": 30663,
   "createdAt": "2020-12-21T23:56:15.000Z",
-  "updatedAt": "2021-06-22T00:15:43.000Z",
+  "updatedAt": "2021-07-15T13:32:21.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Rec: Yume no Kiroku",
+      "Silver Street Romance",
+      "Gin no Machi Romantic",
+      "●REC"
+    ],
+    "authors": [
+      "Hanamizawa, Q-tarou"
+    ],
+    "id": 663,
+    "type": "manga",
+    "title": "●Rec",
+    "url": "https://myanimelist.net/manga/663/●Rec",
+    "image": "https://cdn.myanimelist.net/images/manga/1/188843.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:24.000Z",
+    "updatedAt": "2021-07-15T06:20:50.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "レック",
+      "Rec: Yume no Kiroku",
+      "Silver Street Romance"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Q-taro Hanamizawa"
+    ],
+    "id": 30663,
+    "malId": 663,
+    "type": "manga",
+    "title": "Rec",
+    "url": "https://anilist.co/manga/30663",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30663-8JXKq5BVU1BZ.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:35:41.000Z",
+    "updatedAt": "2021-06-17T08:49:03.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/663/●Rec"
 }

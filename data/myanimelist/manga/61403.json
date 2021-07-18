@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:02.000Z",
-  "updatedAt": "2021-05-29T14:12:57.000Z",
+  "updatedAt": "2021-07-13T19:21:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 85327,
         "createdAt": "2021-05-29T14:12:57.000Z",
         "updatedAt": "2021-05-29T14:42:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shirogane-no-nina": {
+        "authors": [
+          "Itokatsu"
+        ],
+        "identifier": "shirogane-no-nina",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shirogane no Nina",
+        "url": "https://mangasee123.com/manga/Shirogane-No-Nina",
+        "image": "https://cover.nep.li/cover/Shirogane-No-Nina.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61403,
+        "aniId": 85327,
+        "createdAt": "2021-07-13T19:21:49.000Z",
+        "updatedAt": "2021-07-13T19:50:49.000Z",
         "deletedAt": null
       }
     }

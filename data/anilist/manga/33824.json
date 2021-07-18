@@ -69,6 +69,28 @@
         "updatedAt": "2021-05-20T15:39:23.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "blue_spring": {
+        "authors": [
+          "MATSUMOTO Taiyo"
+        ],
+        "identifier": "blue_spring",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Blue Spring",
+        "url": "https://fanfox.net/manga/blue_spring/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/481/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3824,
+        "aniId": 33824,
+        "createdAt": "2021-07-11T13:43:18.000Z",
+        "updatedAt": "2021-07-11T14:13:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Kouji Miura",
-    "Kasama Sanshirou"
+    "Kasama Sanshirou",
+    "Kouji Miura"
   ],
   "identifier": "c83c9b90-f328-493b-9f7d-562d2eba23af",
   "type": "manga",
@@ -12,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 128179,
   "createdAt": "2021-01-19T12:33:45.000Z",
-  "updatedAt": "2021-06-08T10:06:17.000Z",
+  "updatedAt": "2021-07-14T09:05:48.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "学校一可愛い女子が俺のこと好きかもしれない漫画"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sanshirou Kasama",
+      "Kouji Miura"
+    ],
+    "id": 128179,
+    "malId": null,
+    "type": "manga",
+    "title": "Gakkou Ichi Kawaii Joshi ga Ore no Koto Suki Kamoshirenai Manga",
+    "url": "https://anilist.co/manga/128179",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128179-ajBTkrsmogpo.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-21T01:20:51.000Z",
+    "updatedAt": "2021-06-21T16:56:42.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:10.000Z",
-  "updatedAt": "2021-02-10T20:40:35.000Z",
+  "updatedAt": "2021-07-12T01:46:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 100571,
         "createdAt": "2020-10-12T16:11:07.000Z",
         "updatedAt": "2021-06-05T05:57:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-av977904": {
+        "authors": [
+          "Sakou Sakae"
+        ],
+        "identifier": "manga-av977904",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Toji No Miko",
+        "url": "https://readmanganato.com/manga-av977904",
+        "image": "https://avt.mkklcdnv6temp.com/3/e/16-1583493579.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108865,
+        "aniId": 100571,
+        "createdAt": "2021-07-12T01:45:03.000Z",
+        "updatedAt": "2021-07-12T02:15:01.000Z",
         "deletedAt": null
       }
     }

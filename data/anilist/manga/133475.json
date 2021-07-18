@@ -21,5 +21,28 @@
   "createdAt": "2021-06-23T05:14:52.000Z",
   "updatedAt": "2021-06-23T05:14:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ko987371": {
+        "authors": [
+          "Shidai Manwang"
+        ],
+        "identifier": "manga-ko987371",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Prince Charming’S Lovely Gaze",
+        "url": "https://manganato.com/manga-ko987371",
+        "image": "https://avt.mkklcdnv6temp.com/45/b/22-1607748474.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 133475,
+        "createdAt": "2021-07-12T18:15:52.000Z",
+        "updatedAt": "2021-07-13T14:25:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

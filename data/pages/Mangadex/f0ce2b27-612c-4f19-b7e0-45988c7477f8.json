@@ -11,13 +11,50 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 137833,
+  "aniId": 135734,
   "createdAt": "2021-07-07T16:29:54.000Z",
-  "updatedAt": "2021-07-07T16:29:54.000Z",
+  "updatedAt": "2021-07-13T14:50:49.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "We're All Doing It.",
+      "僕らはみんなやっている。"
+    ],
+    "authors": [
+      "Hiiragi, Yuuichi"
+    ],
+    "id": 137833,
+    "type": "manga",
+    "title": "Bokura wa Minna Yatteiru.",
+    "url": "https://myanimelist.net/manga/137833/Bokura_wa_Minna_Yatteiru",
+    "image": "https://cdn.myanimelist.net/images/manga/2/246949.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "createdAt": "2021-07-07T16:29:54.000Z",
+    "updatedAt": "2021-07-07T16:29:54.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "僕らはみんなやっている。"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yuuichi Hiiragi"
+    ],
+    "id": 135734,
+    "malId": 137833,
+    "type": "manga",
+    "title": "Bokura wa Minna Yatteiru.",
+    "url": "https://anilist.co/manga/135734",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135734-ofC5JsvG30OX.png",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-06-16T21:27:35.000Z",
+    "updatedAt": "2021-06-25T03:44:54.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/137833/Bokura_wa_Minna_Yatteiru"
 }

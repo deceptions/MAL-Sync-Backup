@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:37.000Z",
-  "updatedAt": "2021-04-28T17:21:00.000Z",
+  "updatedAt": "2021-07-17T17:32:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 113505,
         "createdAt": "2021-04-28T17:21:12.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ga984309": {
+        "authors": [
+          "Fushimi Tsukasa"
+        ],
+        "identifier": "manga-ga984309",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Eromanga-Sensei: Yamada Elf-Daisensei No Koi Suru Junshin Gohan",
+        "url": "https://readmanganato.com/manga-ga984309",
+        "image": "https://avt.mkklcdnv6temp.com/21/j/20-1583501841.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115013,
+        "aniId": 113505,
+        "createdAt": "2021-07-17T17:32:24.000Z",
+        "updatedAt": "2021-07-17T18:02:20.000Z",
         "deletedAt": null
       }
     }

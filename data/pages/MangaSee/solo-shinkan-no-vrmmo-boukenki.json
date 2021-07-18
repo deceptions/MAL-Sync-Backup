@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 134292,
   "createdAt": "2021-03-08T20:41:09.000Z",
-  "updatedAt": "2021-03-08T20:41:09.000Z",
+  "updatedAt": "2021-07-15T13:24:15.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ソロ神官のVRMMO冒険記 ～どこから見ても狂戦士です本当にありがとうございました～"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gensho",
+      "Takayuki Matsunaga",
+      "Heiro"
+    ],
+    "id": 134292,
+    "malId": null,
+    "type": "manga",
+    "title": "Soro Shinkan no VRMMO Boukenki: Doko kara Mite mo Berserker desu Hontou ni Arigatou Gozaimashita",
+    "url": "https://anilist.co/manga/134292",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134292-HfSBPBM4CK2n.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-14T23:51:10.000Z",
+    "updatedAt": "2021-07-14T23:51:10.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

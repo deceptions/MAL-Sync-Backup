@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:51.000Z",
-  "updatedAt": "2021-06-06T16:18:59.000Z",
+  "updatedAt": "2021-07-17T04:03:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 109705,
         "createdAt": "2020-10-12T16:15:44.000Z",
         "updatedAt": "2021-06-06T16:25:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gp983524": {
+        "authors": [
+          "Masakazu Ooi"
+        ],
+        "identifier": "manga-gp983524",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Foie Gras & Beef Bowl",
+        "url": "https://manganato.com/manga-gp983524",
+        "image": "https://avt.mkklcdnv6temp.com/41/w/19-1583500696.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 117644,
+        "aniId": 109705,
+        "createdAt": "2021-07-17T04:03:11.000Z",
+        "updatedAt": "2021-07-17T14:32:20.000Z",
         "deletedAt": null
       }
     }

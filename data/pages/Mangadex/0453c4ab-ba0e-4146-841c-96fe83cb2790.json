@@ -11,13 +11,49 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 135926,
+  "aniId": 129409,
   "createdAt": "2021-02-21T13:33:45.000Z",
-  "updatedAt": "2021-06-08T11:35:47.000Z",
+  "updatedAt": "2021-07-16T16:02:20.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "落ちこぼれ魔女と恋を知らない天才魔術師"
+    ],
+    "authors": [
+      "Amefuri, Ameri"
+    ],
+    "id": 135926,
+    "type": "manga",
+    "title": "Ochikobore Majo to Koi wo Shiranai Tensai Majutsushi",
+    "url": "https://myanimelist.net/manga/135926/Ochikobore_Majo_to_Koi_wo_Shiranai_Tensai_Majutsushi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/243752.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-07-16T15:33:24.000Z",
+    "updatedAt": "2021-07-16T15:33:24.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "落ちこぼれ魔女と恋を知らない天才魔術師"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ameri Amefuri"
+    ],
+    "id": 129409,
+    "malId": 135926,
+    "type": "manga",
+    "title": "Ochikobore Majo to Koi wo Shiranai Tensai Majutsushi",
+    "url": "https://anilist.co/manga/129409",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129409-0yeCXkdon1lV.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-24T07:08:17.000Z",
+    "updatedAt": "2021-06-18T11:36:53.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/135926/Ochikobore_Majo_to_Koi_wo_Shiranai_Tensai_Majutsushi"
 }

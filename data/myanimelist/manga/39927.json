@@ -17,5 +17,28 @@
   "createdAt": "2020-10-12T15:44:06.000Z",
   "updatedAt": "2021-06-28T06:19:40.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-vd972712": {
+        "authors": [
+          "Sansyoku Amido"
+        ],
+        "identifier": "manga-vd972712",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "1/8 Kanojo",
+        "url": "https://manganato.com/manga-vd972712",
+        "image": "https://avt.mkklcdnv6temp.com/19/g/14-1583490436.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 39927,
+        "aniId": 69927,
+        "createdAt": "2021-06-28T06:19:29.000Z",
+        "updatedAt": "2021-07-13T14:50:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

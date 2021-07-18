@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:08.000Z",
-  "updatedAt": "2021-02-26T14:56:06.000Z",
+  "updatedAt": "2021-07-15T23:33:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,29 @@
         "aniId": 112216,
         "createdAt": "2021-02-26T14:56:09.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lj988418": {
+        "authors": [
+          "Satou Sakura",
+          "Inuzuka Hiro"
+        ],
+        "identifier": "manga-lj988418",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Madou No Keifu",
+        "url": "https://manganato.com/manga-lj988418",
+        "image": "https://avt.mkklcdnv6temp.com/37/z/23-1615045678.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122016,
+        "aniId": 112216,
+        "createdAt": "2021-07-15T23:33:21.000Z",
+        "updatedAt": "2021-07-16T00:02:20.000Z",
         "deletedAt": null
       }
     }

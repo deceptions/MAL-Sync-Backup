@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:34.000Z",
-  "updatedAt": "2021-05-08T08:17:22.000Z",
+  "updatedAt": "2021-07-13T20:22:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 80205,
         "createdAt": "2021-05-08T08:17:22.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mirai_nikki_redial": {
+        "authors": [
+          "ESUNO Sakae"
+        ],
+        "identifier": "mirai_nikki_redial",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mirai Nikki Redial",
+        "url": "https://fanfox.net/manga/mirai_nikki_redial/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12303/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50205,
+        "aniId": 80205,
+        "createdAt": "2021-07-13T20:22:14.000Z",
+        "updatedAt": "2021-07-13T20:50:49.000Z",
         "deletedAt": null
       }
     }

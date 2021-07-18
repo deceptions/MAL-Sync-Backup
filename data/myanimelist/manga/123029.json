@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:10.000Z",
-  "updatedAt": "2021-04-12T02:51:14.000Z",
+  "updatedAt": "2021-07-14T22:22:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 113500,
         "createdAt": "2021-04-16T04:44:19.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gz983608": {
+        "authors": [
+          "Taishou Akatsuka"
+        ],
+        "identifier": "manga-gz983608",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Muto And Sato",
+        "url": "https://readmanganato.com/manga-gz983608",
+        "image": "https://avt.mkklcdnv6temp.com/44/y/19-1583500811.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123029,
+        "aniId": 113500,
+        "createdAt": "2021-07-14T22:22:34.000Z",
+        "updatedAt": "2021-07-14T22:50:49.000Z",
         "deletedAt": null
       }
     }

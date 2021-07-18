@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:22.000Z",
-  "updatedAt": "2021-03-08T22:10:41.000Z",
+  "updatedAt": "2021-07-14T19:50:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 111610,
         "createdAt": "2020-10-12T16:19:58.000Z",
         "updatedAt": "2021-06-07T23:02:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ir985626": {
+        "authors": [
+          "Sumiyoshi Yukiko",
+          "Oomori Mikan"
+        ],
+        "identifier": "manga-ir985626",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Plain And Unnoticeable Me Is No More",
+        "url": "https://manganato.com/manga-ir985626",
+        "image": "https://avt.mkklcdnv6temp.com/24/c/21-1591287810.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127101,
+        "aniId": 111610,
+        "createdAt": "2021-07-14T19:50:49.000Z",
+        "updatedAt": "2021-07-14T20:20:49.000Z",
         "deletedAt": null
       }
     }

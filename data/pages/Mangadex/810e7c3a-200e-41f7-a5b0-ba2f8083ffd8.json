@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 130464,
-  "aniId": null,
+  "aniId": 136553,
   "createdAt": "2021-03-01T11:44:21.000Z",
-  "updatedAt": "2021-06-08T12:04:43.000Z",
+  "updatedAt": "2021-07-12T09:15:01.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-03-01T11:44:21.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "さよならエデン",
+      "Goodbye Eden"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Zero Ainan"
+    ],
+    "id": 136553,
+    "malId": 130464,
+    "type": "manga",
+    "title": "Sayonara Eden",
+    "url": "https://anilist.co/manga/136553",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136553-xEwLYkP0sqXp.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-11T14:43:17.000Z",
+    "updatedAt": "2021-07-12T08:45:02.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/130464/Sayonara_Eden"
 }

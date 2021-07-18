@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:24.000Z",
-  "updatedAt": "2021-04-26T09:58:53.000Z",
+  "updatedAt": "2021-07-13T13:46:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 30665,
         "createdAt": "2020-10-12T16:04:51.000Z",
         "updatedAt": "2021-06-02T23:52:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "meru-puri": {
+        "authors": [
+          "HINO Matsuri"
+        ],
+        "identifier": "meru-puri",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "MeruPuri",
+        "url": "https://mangasee123.com/manga/Meru-Puri",
+        "image": "https://cover.nep.li/cover/Meru-Puri.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 665,
+        "aniId": 30665,
+        "createdAt": "2021-07-13T13:46:32.000Z",
+        "updatedAt": "2021-07-13T14:15:01.000Z",
         "deletedAt": null
       }
     }

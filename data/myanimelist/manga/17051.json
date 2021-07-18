@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:25.000Z",
-  "updatedAt": "2021-05-06T22:47:21.000Z",
+  "updatedAt": "2021-07-13T20:21:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 47051,
         "createdAt": "2021-05-06T22:47:24.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wr953652": {
+        "authors": [
+          "Yoshino Satsuki"
+        ],
+        "identifier": "manga-wr953652",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Barakamon",
+        "url": "https://readmanganato.com/manga-wr953652",
+        "image": "https://avt.mkklcdnv6temp.com/30/r/2-1583466882.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17051,
+        "aniId": 47051,
+        "createdAt": "2021-07-13T20:20:49.000Z",
+        "updatedAt": "2021-07-13T20:50:49.000Z",
         "deletedAt": null
       }
     }

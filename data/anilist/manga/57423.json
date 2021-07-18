@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-02T22:03:23.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "love-all": {
+        "authors": [
+          "SAKOU Watari"
+        ],
+        "identifier": "love-all",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Love All!",
+        "url": "https://mangasee123.com/manga/Love-All",
+        "image": "https://cover.nep.li/cover/Love-All.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27423,
+        "aniId": 57423,
+        "createdAt": "2021-07-17T02:02:23.000Z",
+        "updatedAt": "2021-07-17T02:32:20.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

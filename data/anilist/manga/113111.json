@@ -39,6 +39,50 @@
         "updatedAt": "2021-06-07T21:02:17.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-it986202": {
+        "authors": [
+          "Sasaki Masahito"
+        ],
+        "identifier": "manga-it986202",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hachuurui-Chan Wa Natsukanai",
+        "url": "https://manganato.com/manga-it986202",
+        "image": "https://avt.mkklcdnv6temp.com/47/k/21-1597050449.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122647,
+        "aniId": 113111,
+        "createdAt": "2021-07-11T18:15:29.000Z",
+        "updatedAt": "2021-07-11T18:45:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hachuurui_chan_wa_natsukanai": {
+        "authors": [
+          "Masahito Sasaki"
+        ],
+        "identifier": "hachuurui_chan_wa_natsukanai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hachuurui-chan wa Natsukanai",
+        "url": "https://fanfox.net/manga/hachuurui_chan_wa_natsukanai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33457/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122647,
+        "aniId": 113111,
+        "createdAt": "2021-07-11T22:15:24.000Z",
+        "updatedAt": "2021-07-11T22:45:01.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-13T19:52:50.000Z",
-  "updatedAt": "2021-04-02T07:00:53.000Z",
+  "updatedAt": "2021-07-12T15:46:06.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaFox": {
@@ -36,6 +36,28 @@
         "aniId": 34456,
         "createdAt": "2021-04-02T07:00:54.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "suzunari": {
+        "authors": [
+          "IWAMI Shouko"
+        ],
+        "identifier": "suzunari",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Suzunari",
+        "url": "https://mangasee123.com/manga/Suzunari",
+        "image": "https://cover.nep.li/cover/Suzunari.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4456,
+        "aniId": 34456,
+        "createdAt": "2021-07-12T15:46:04.000Z",
+        "updatedAt": "2021-07-12T16:15:01.000Z",
         "deletedAt": null
       }
     }

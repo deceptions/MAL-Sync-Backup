@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-02T08:24:41.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mirai_nikki_mosaic": {
+        "authors": [
+          "ESUNO Sakae"
+        ],
+        "identifier": "mirai_nikki_mosaic",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mirai Nikki Mosaic",
+        "url": "https://fanfox.net/manga/mirai_nikki_mosaic/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5003/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1543,
+        "aniId": 31543,
+        "createdAt": "2021-07-13T20:22:22.000Z",
+        "updatedAt": "2021-07-13T20:50:49.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

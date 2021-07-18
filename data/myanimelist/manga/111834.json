@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:24.000Z",
-  "updatedAt": "2021-06-12T04:39:12.000Z",
+  "updatedAt": "2021-07-15T04:22:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -56,6 +56,28 @@
         "aniId": 101107,
         "createdAt": "2020-10-12T16:18:14.000Z",
         "updatedAt": "2021-06-07T15:12:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shuukan-shounen-hachi": {
+        "authors": [
+          "MASUDA Eiji"
+        ],
+        "identifier": "shuukan-shounen-hachi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shuukan Shounen Hachi",
+        "url": "https://mangasee123.com/manga/Shuukan-Shounen-Hachi",
+        "image": "https://cover.nep.li/cover/Shuukan-Shounen-Hachi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111834,
+        "aniId": 101107,
+        "createdAt": "2021-07-15T04:22:08.000Z",
+        "updatedAt": "2021-07-15T04:50:49.000Z",
         "deletedAt": null
       }
     }

@@ -1,7 +1,10 @@
 {
   "altTitle": [
     "Kurogane Communication",
-    "Tetsu Komyunikeishon, Iron Communication, kc, kurocomm",
+    "Tetsu Komyunikeishon",
+    "Iron Communication",
+    "kc",
+    "kurocomm",
     "鉄コミュニケイション"
   ],
   "id": 1660,
@@ -12,7 +15,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:20.000Z",
-  "updatedAt": "2021-05-26T21:58:46.000Z",
+  "updatedAt": "2021-07-11T20:45:23.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +51,25 @@
         "aniId": 1660,
         "createdAt": "2020-10-12T15:56:58.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kurogane-communication-dub": {
+        "identifier": "kurogane-communication-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kurogane Communication (Dub)",
+        "url": "https://gogoanime.pe/category/kurogane-communication-dub",
+        "image": "https://gogocdn.net/cover/kurogane-communication-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1660,
+        "aniId": 1660,
+        "createdAt": "2021-07-11T20:45:21.000Z",
+        "updatedAt": "2021-07-11T21:15:01.000Z",
         "deletedAt": null
       }
     }

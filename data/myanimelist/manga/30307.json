@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:41.000Z",
-  "updatedAt": "2021-01-28T16:49:00.000Z",
+  "updatedAt": "2021-07-14T16:22:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 60307,
         "createdAt": "2021-01-28T16:49:00.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kitakubu_katsudou_kiroku": {
+        "authors": [
+          "Kuroha"
+        ],
+        "identifier": "kitakubu_katsudou_kiroku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kitakubu Katsudou Kiroku",
+        "url": "https://fanfox.net/manga/kitakubu_katsudou_kiroku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12832/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30307,
+        "aniId": 60307,
+        "createdAt": "2021-07-14T16:22:46.000Z",
+        "updatedAt": "2021-07-14T16:50:49.000Z",
         "deletedAt": null
       }
     }

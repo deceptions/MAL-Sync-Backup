@@ -20,5 +20,28 @@
   "createdAt": "2021-06-25T13:19:20.000Z",
   "updatedAt": "2021-07-06T01:59:51.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "kyuukyoku-shinka-shita-full-dive-rpg": {
+        "authors": [
+          "Tsuchihi Light"
+        ],
+        "identifier": "kyuukyoku-shinka-shita-full-dive-rpg",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kyuukyoku Shinka Shita Full Dive RPG",
+        "url": "https://mangasee123.com/manga/Kyuukyoku-Shinka-Shita-Full-Dive-RPG",
+        "image": "https://cover.nep.li/cover/Kyuukyoku-Shinka-Shita-Full-Dive-RPG.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 134039,
+        "aniId": 127668,
+        "createdAt": "2021-07-15T10:20:53.000Z",
+        "updatedAt": "2021-07-15T13:32:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

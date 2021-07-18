@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:57.000Z",
-  "updatedAt": "2021-02-01T12:31:54.000Z",
+  "updatedAt": "2021-07-11T04:45:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -62,6 +62,28 @@
         "aniId": 99609,
         "createdAt": "2021-02-01T12:31:56.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zf977214": {
+        "authors": [
+          "Sumino Yoru"
+        ],
+        "identifier": "manga-zf977214",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kimi No Suizou Wo Tabetai",
+        "url": "https://readmanganato.com/manga-zf977214",
+        "image": "https://avt.mkklcdnv6temp.com/37/w/15-1583492936.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104538,
+        "aniId": 99609,
+        "createdAt": "2021-07-11T04:45:32.000Z",
+        "updatedAt": "2021-07-11T05:13:17.000Z",
         "deletedAt": null
       }
     }

@@ -11,11 +11,11 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": 32375,
-  "aniId": 62375,
+  "aniId": 123519,
   "createdAt": "2020-10-12T16:18:13.000Z",
-  "updatedAt": "2021-06-07T14:52:40.000Z",
+  "updatedAt": "2021-07-15T13:24:07.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -38,27 +38,23 @@
   },
   "Anilist": {
     "altTitle": [
-      "フェイク!",
-      "Lost Princess",
-      "Kekkaishi",
-      "Birthday",
-      "Yami no Taka",
-      "田辺イエロウ短編集 フェイク!"
+      "Lost Princess  ",
+      "로스트 프린세스"
     ],
     "externalLinks": [],
     "authors": [
-      "Yellow Tanabe"
+      "KATINO"
     ],
-    "id": 62375,
-    "malId": 32375,
+    "id": 123519,
+    "malId": null,
     "type": "manga",
-    "title": "Fake!",
-    "url": "https://anilist.co/manga/62375",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx62375-dENRCnmidTkN.jpg",
+    "title": "Lost Princess",
+    "url": "https://anilist.co/manga/123519",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123519-ift86HefsCAV.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:47:49.000Z",
-    "updatedAt": "2021-06-17T19:02:56.000Z",
+    "createdAt": "2021-05-22T00:12:58.000Z",
+    "updatedAt": "2021-06-21T16:21:32.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/32375/Fake"

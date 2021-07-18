@@ -11,13 +11,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 118401,
+  "aniId": 108299,
   "createdAt": "2021-06-03T05:30:51.000Z",
-  "updatedAt": "2021-06-03T05:30:51.000Z",
+  "updatedAt": "2021-07-13T14:50:49.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Fate/Grand Order: Abyssal Cyber Paradise, SE.RA.PH",
+      "Fate/Grand Order ‐Epic of Remnant‐ 亜種特異点EX 深海電脳楽土 SE.RA.PH"
+    ],
+    "authors": [
+      "Nishide, Kengoro"
+    ],
+    "id": 118401,
+    "type": "manga",
+    "title": "Fate/Grand Order: Epic of Remnant - Ashu Tokuiten EX - Shinkai Dennou Rakudo SE.RA.PH",
+    "url": "https://myanimelist.net/manga/118401/Fate_Grand_Order__Epic_of_Remnant_-_Ashu_Tokuiten_EX_-_Shinkai_Dennou_Rakudo_SERAPH",
+    "image": "https://cdn.myanimelist.net/images/manga/1/226275.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:53.000Z",
+    "updatedAt": "2021-07-12T04:46:42.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Fate/Grand Order -Epic of Remnant- 深海電脳楽土 SE.RA.PH",
+      "Fate/Grand Order: Epic of Remnant - Deep Sea Cyber-Paradise SE.RA.PH"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Type-Moon",
+      "Kengoro Nishide"
+    ],
+    "id": 108299,
+    "malId": 118401,
+    "type": "manga",
+    "title": "Fate/Grand Order: Epic of Remnant - Shinkai Dennou Rakudo SE.RA.PH",
+    "url": "https://anilist.co/manga/108299",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108299-fmX65nMgGGfp.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:58:03.000Z",
+    "updatedAt": "2021-06-18T05:52:34.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/118401/Fate_Grand_Order__Epic_of_Remnant_-_Ashu_Tokuiten_EX_-_Shinkai_Dennou_Rakudo_SERAPH"
 }

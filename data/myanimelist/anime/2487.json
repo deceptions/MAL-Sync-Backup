@@ -1,6 +1,7 @@
 {
   "altTitle": [
-    "Dino Adventure Jurassic Tripper, Kyoryu Bokenki Jura Tripper",
+    "Dino Adventure Jurassic Tripper",
+    "Kyoryu Bokenki Jura Tripper",
     "恐竜冒険記ジュラトリッパー"
   ],
   "id": 2487,
@@ -11,7 +12,27 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:29.000Z",
-  "updatedAt": "2021-04-27T09:19:10.000Z",
+  "updatedAt": "2021-07-16T08:02:42.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "kyouryuu-boukenki-jura-tripper": {
+        "identifier": "kyouryuu-boukenki-jura-tripper",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kyouryuu Boukenki Jura Tripper",
+        "url": "https://gogoanime.pe/category/kyouryuu-boukenki-jura-tripper",
+        "image": "https://gogocdn.net/cover/kyouryuu-boukenki-jura-tripper.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2487,
+        "aniId": null,
+        "createdAt": "2021-07-16T08:02:33.000Z",
+        "updatedAt": "2021-07-16T08:02:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

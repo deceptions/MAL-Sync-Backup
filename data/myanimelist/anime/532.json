@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:05.000Z",
-  "updatedAt": "2021-05-19T01:01:15.000Z",
+  "updatedAt": "2021-07-14T20:21:11.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -86,6 +86,25 @@
         "aniId": 532,
         "createdAt": "2020-11-19T00:51:04.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sailor-moon-s": {
+        "identifier": "sailor-moon-s",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sailor Moon S",
+        "url": "https://gogoanime.pe/category/sailor-moon-s",
+        "image": "https://gogocdn.net/images/Sailor Moon S.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 532,
+        "aniId": 532,
+        "createdAt": "2021-07-14T20:21:02.000Z",
+        "updatedAt": "2021-07-14T20:50:49.000Z",
         "deletedAt": null
       }
     }

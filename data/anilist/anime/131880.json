@@ -1,9 +1,15 @@
 {
   "altTitle": [
     "Obey Me!",
+    "Obey Me!",
     "おべいみー"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/obey-me/"
+    }
+  ],
   "id": 131880,
   "malId": 48641,
   "type": "anime",
@@ -13,7 +19,46 @@
   "category": "ona",
   "hentai": false,
   "createdAt": "2021-05-21T18:12:56.000Z",
-  "updatedAt": "2021-07-05T11:29:51.000Z",
+  "updatedAt": "2021-07-17T00:02:21.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "obey-me": {
+        "identifier": "obey-me",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Obey Me!",
+        "url": "https://gogoanime.pe/category/obey-me",
+        "image": "https://gogocdn.net/cover/obey-me.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48641,
+        "aniId": 131880,
+        "createdAt": "2021-07-16T18:32:22.000Z",
+        "updatedAt": "2021-07-16T19:02:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "4qrwk": {
+        "identifier": "4qrwk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Obey Me!",
+        "url": "https://www12.9anime.to/watch/obey-me.4qrwk",
+        "image": "https://static.bunnycdn.ru/i/cache/images/1/1e/1ef085384381a58c95641df42e9be329.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48641,
+        "aniId": 131880,
+        "createdAt": "2021-07-16T18:33:57.000Z",
+        "updatedAt": "2021-07-16T19:02:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

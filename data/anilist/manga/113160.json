@@ -41,7 +41,7 @@
         "malId": 122707,
         "aniId": 113160,
         "createdAt": "2020-10-12T16:17:39.000Z",
-        "updatedAt": "2021-06-07T09:36:32.000Z",
+        "updatedAt": "2021-07-11T01:13:47.000Z",
         "deletedAt": null
       }
     },
@@ -65,6 +65,28 @@
         "aniId": 113160,
         "createdAt": "2021-06-08T02:51:29.000Z",
         "updatedAt": "2021-06-08T03:20:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kubi_o_kiraneba_wakarumai": {
+        "authors": [
+          "MONMA Tsukasa"
+        ],
+        "identifier": "kubi_o_kiraneba_wakarumai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kubi o Kiraneba Wakarumai",
+        "url": "https://fanfox.net/manga/kubi_o_kiraneba_wakarumai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38823/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122707,
+        "aniId": 113160,
+        "createdAt": "2021-07-12T00:15:02.000Z",
+        "updatedAt": "2021-07-12T00:45:01.000Z",
         "deletedAt": null
       }
     }

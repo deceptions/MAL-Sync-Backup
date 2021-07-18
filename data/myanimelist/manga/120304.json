@@ -39,6 +39,50 @@
         "updatedAt": "2021-06-07T13:48:22.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-ka987483": {
+        "authors": [
+          "Fujita Kakuji"
+        ],
+        "identifier": "manga-ka987483",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tokugawa No Saru",
+        "url": "https://manganato.com/manga-ka987483",
+        "image": "https://avt.mkklcdnv6temp.com/49/o/22-1609257011.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120304,
+        "aniId": 117795,
+        "createdAt": "2021-07-12T00:45:53.000Z",
+        "updatedAt": "2021-07-12T01:15:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tokugawa_no_saru": {
+        "authors": [
+          "FUJITA Kakuji"
+        ],
+        "identifier": "tokugawa_no_saru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tokugawa no Saru",
+        "url": "https://fanfox.net/manga/tokugawa_no_saru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34998/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120304,
+        "aniId": 117795,
+        "createdAt": "2021-07-12T06:16:15.000Z",
+        "updatedAt": "2021-07-12T06:45:01.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

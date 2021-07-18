@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:41.000Z",
-  "updatedAt": "2021-03-10T02:41:00.000Z",
+  "updatedAt": "2021-07-14T14:21:11.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +48,25 @@
         "aniId": 21474,
         "createdAt": "2021-03-10T02:41:01.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hakuouki-otogisoushi": {
+        "identifier": "hakuouki-otogisoushi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hakuouki: Otogisoushi",
+        "url": "https://gogoanime.pe/category/hakuouki-otogisoushi",
+        "image": "https://gogocdn.net/cover/hakuouki-otogisoushi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32011,
+        "aniId": 21474,
+        "createdAt": "2021-07-14T14:21:00.000Z",
+        "updatedAt": "2021-07-14T14:50:49.000Z",
         "deletedAt": null
       }
     }

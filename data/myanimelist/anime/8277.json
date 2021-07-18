@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:58.000Z",
-  "updatedAt": "2021-05-23T14:12:58.000Z",
+  "updatedAt": "2021-07-11T05:13:48.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -175,6 +175,25 @@
         "aniId": 8277,
         "createdAt": "2020-10-15T12:15:03.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "215": {
+        "identifier": "215",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Hyakka Ryouran: Samurai Girls",
+        "url": "https://pahe.win/a/215",
+        "image": "https://i.animepahe.com/posters/612a2a5b935d9077311fefd64932f5b1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8277,
+        "aniId": 8277,
+        "createdAt": "2021-07-11T05:13:47.000Z",
+        "updatedAt": "2021-07-11T05:43:16.000Z",
         "deletedAt": null
       }
     }

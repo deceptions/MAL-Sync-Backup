@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:42.000Z",
-  "updatedAt": "2021-06-01T08:52:58.000Z",
+  "updatedAt": "2021-07-16T19:02:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,6 +78,50 @@
         "aniId": 49008,
         "createdAt": "2021-03-16T05:32:59.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "bambino_secondo": {
+        "authors": [
+          "SEKIYA Tetsuji"
+        ],
+        "identifier": "bambino_secondo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bambino! Secondo",
+        "url": "https://fanfox.net/manga/bambino_secondo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13500/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19008,
+        "aniId": 49008,
+        "createdAt": "2021-07-16T19:02:43.000Z",
+        "updatedAt": "2021-07-16T19:32:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ro953149": {
+        "authors": [
+          "Sekiya Tetsuji"
+        ],
+        "identifier": "manga-ro953149",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Bambino! Secondo",
+        "url": "https://manganato.com/manga-ro953149",
+        "image": "https://avt.mkklcdnv6temp.com/13/j/2-1583466217.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19008,
+        "aniId": 49008,
+        "createdAt": "2021-07-17T03:02:22.000Z",
+        "updatedAt": "2021-07-17T03:32:20.000Z",
         "deletedAt": null
       }
     }

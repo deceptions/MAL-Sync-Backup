@@ -1,7 +1,8 @@
 {
   "altTitle": [
     "Into Darkness",
-    "Towards the Darkness, AX: A Collection of Alternative Manga",
+    "Towards the Darkness",
+    "AX: A Collection of Alternative Manga",
     "闇の方へ"
   ],
   "authors": [
@@ -15,7 +16,7 @@
   "category": "One-shot",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:11.000Z",
-  "updatedAt": "2021-05-02T02:32:51.000Z",
+  "updatedAt": "2021-07-11T08:13:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +38,28 @@
         "aniId": 45404,
         "createdAt": "2020-10-12T16:06:29.000Z",
         "updatedAt": "2021-06-03T19:56:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "towards_the_darkness": {
+        "authors": [
+          "YAMAMOTO Takato"
+        ],
+        "identifier": "towards_the_darkness",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Towards the Darkness",
+        "url": "https://fanfox.net/manga/towards_the_darkness/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8175/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15404,
+        "aniId": 45404,
+        "createdAt": "2021-07-11T08:13:52.000Z",
+        "updatedAt": "2021-07-11T08:43:17.000Z",
         "deletedAt": null
       }
     }

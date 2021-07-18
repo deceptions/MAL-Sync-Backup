@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:02.000Z",
-  "updatedAt": "2021-05-05T23:32:06.000Z",
+  "updatedAt": "2021-07-11T23:45:24.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 67561,
         "createdAt": "2020-10-12T16:04:35.000Z",
         "updatedAt": "2021-06-02T22:07:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ad959238": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "manga-ad959238",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Devilman Grimoire",
+        "url": "https://manganato.com/manga-ad959238",
+        "image": "https://avt.mkklcdnv6temp.com/6/p/6-1583474363.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37561,
+        "aniId": 67561,
+        "createdAt": "2021-07-11T23:45:22.000Z",
+        "updatedAt": "2021-07-12T00:15:02.000Z",
         "deletedAt": null
       }
     }

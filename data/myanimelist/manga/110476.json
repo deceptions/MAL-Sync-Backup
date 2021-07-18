@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:19.000Z",
-  "updatedAt": "2021-05-20T13:31:15.000Z",
+  "updatedAt": "2021-07-12T08:15:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 99927,
         "createdAt": "2020-10-12T16:10:55.000Z",
         "updatedAt": "2021-06-05T04:20:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "genjuu-chousain": {
+        "authors": [
+          "AYASATO Keishi",
+          "HOSHINO Kouichirou"
+        ],
+        "identifier": "genjuu-chousain",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mythical Beast Investigator",
+        "url": "https://mangasee123.com/manga/Genjuu-Chousain",
+        "image": "https://cover.nep.li/cover/Genjuu-Chousain.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110476,
+        "aniId": 99927,
+        "createdAt": "2021-07-12T08:15:49.000Z",
+        "updatedAt": "2021-07-12T08:45:01.000Z",
         "deletedAt": null
       }
     }

@@ -43,6 +43,52 @@
         "updatedAt": "2021-06-08T02:01:40.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-jo987271": {
+        "authors": [
+          "Murata Shinya",
+          "Watanabe Tsuyoshi",
+          "Akashiro Aoi"
+        ],
+        "identifier": "manga-jo987271",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shinigami Musume Ha Peropero Shitai",
+        "url": "https://manganato.com/manga-jo987271",
+        "image": "https://avt.mkklcdnv6temp.com/40/v/22-1606458526.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129897,
+        "aniId": 125523,
+        "createdAt": "2021-07-13T20:22:42.000Z",
+        "updatedAt": "2021-07-13T20:50:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shinigami_musume_ha_peropero_shitai": {
+        "authors": [
+          "Akashiro Aoi"
+        ],
+        "identifier": "shinigami_musume_ha_peropero_shitai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shinigami Musume ha Peropero Shitai",
+        "url": "https://fanfox.net/manga/shinigami_musume_ha_peropero_shitai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36642/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129897,
+        "aniId": 125523,
+        "createdAt": "2021-07-15T04:22:11.000Z",
+        "updatedAt": "2021-07-15T04:50:49.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

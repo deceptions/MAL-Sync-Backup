@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:28.000Z",
-  "updatedAt": "2021-06-04T15:21:58.000Z",
+  "updatedAt": "2021-07-16T19:32:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,6 +84,28 @@
         "aniId": 57615,
         "createdAt": "2021-06-04T15:22:08.000Z",
         "updatedAt": "2021-06-04T15:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "papa_no_iu_koto_o_kikinasai": {
+        "authors": [
+          "MATSU Tomohiro"
+        ],
+        "identifier": "papa_no_iu_koto_o_kikinasai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Papa no Iu Koto o Kikinasai!",
+        "url": "https://fanfox.net/manga/papa_no_iu_koto_o_kikinasai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9554/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27615,
+        "aniId": 57615,
+        "createdAt": "2021-07-16T19:32:20.000Z",
+        "updatedAt": "2021-07-16T20:02:20.000Z",
         "deletedAt": null
       }
     }

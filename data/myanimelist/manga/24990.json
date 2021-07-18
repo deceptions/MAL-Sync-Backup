@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:15.000Z",
-  "updatedAt": "2021-04-24T18:57:32.000Z",
+  "updatedAt": "2021-07-13T01:15:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 54990,
         "createdAt": "2021-04-24T18:57:32.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ck956819": {
+        "authors": [
+          "Watanabe Shizumu"
+        ],
+        "identifier": "manga-ck956819",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kono Kanojo Wa Fiction Desu",
+        "url": "https://manganato.com/manga-ck956819",
+        "image": "https://avt.mkklcdnv6temp.com/27/h/4-1583470808.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24990,
+        "aniId": 54990,
+        "createdAt": "2021-07-13T01:15:21.000Z",
+        "updatedAt": "2021-07-13T01:45:01.000Z",
         "deletedAt": null
       }
     }

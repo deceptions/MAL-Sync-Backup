@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:14.000Z",
-  "updatedAt": "2021-05-10T15:43:44.000Z",
+  "updatedAt": "2021-07-17T11:32:33.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 87151,
         "createdAt": "2021-05-11T15:18:46.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ft951928": {
+        "authors": [
+          "Yukimura Alto"
+        ],
+        "identifier": "manga-ft951928",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Colette Wa Shinu Koto Ni Shita",
+        "url": "https://readmanganato.com/manga-ft951928",
+        "image": "https://avt.mkklcdnv6temp.com/21/o/1-1583464545.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68883,
+        "aniId": 87151,
+        "createdAt": "2021-07-17T11:32:31.000Z",
+        "updatedAt": "2021-07-17T12:02:20.000Z",
         "deletedAt": null
       }
     }

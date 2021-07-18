@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:30.000Z",
-  "updatedAt": "2021-01-29T21:56:45.000Z",
+  "updatedAt": "2021-07-14T13:22:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 31102,
         "createdAt": "2021-01-29T21:56:45.000Z",
         "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ks957575": {
+        "authors": [
+          "Segawa Hajime"
+        ],
+        "identifier": "manga-ks957575",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ga-Rei",
+        "url": "https://manganato.com/manga-ks957575",
+        "image": "https://avt.mkklcdnv6temp.com/50/n/4-1583471822.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1102,
+        "aniId": 31102,
+        "createdAt": "2021-07-14T13:22:08.000Z",
+        "updatedAt": "2021-07-14T13:50:49.000Z",
         "deletedAt": null
       }
     }

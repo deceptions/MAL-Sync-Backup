@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 3087,
-  "aniId": null,
+  "aniId": 33087,
   "createdAt": "2021-07-11T00:44:21.000Z",
-  "updatedAt": "2021-07-11T00:44:21.000Z",
+  "updatedAt": "2021-07-11T01:13:20.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,27 @@
     "updatedAt": "2021-07-09T20:43:48.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "機動新世紀ガンダムX -UNDER the MOONLIGHT-",
+      "After War Gundam X: Under the Moonlight"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yutaka Akatsu",
+      "Chitose Ohshima"
+    ],
+    "id": 33087,
+    "malId": 3087,
+    "type": "manga",
+    "title": "Kidou Shin Seiki Gundam X: Under the Moonlight",
+    "url": "https://anilist.co/manga/33087",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b33087-1zTtZDXxj884.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:38:04.000Z",
+    "updatedAt": "2021-06-17T10:29:11.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/3087/After_War_Gundam_X__Under_the_Moonlight"
 }

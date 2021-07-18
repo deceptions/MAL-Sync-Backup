@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:27.000Z",
-  "updatedAt": "2021-01-20T03:09:01.000Z",
+  "updatedAt": "2021-07-14T16:22:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -77,6 +77,28 @@
         "aniId": 30915,
         "createdAt": "2021-01-20T03:09:02.000Z",
         "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-db956936": {
+        "authors": [
+          "Morita Masanori"
+        ],
+        "identifier": "manga-db956936",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Rookies",
+        "url": "https://manganato.com/manga-db956936",
+        "image": "https://avt.mkklcdnv6temp.com/30/n/4-1583470944.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 915,
+        "aniId": 30915,
+        "createdAt": "2021-07-14T16:22:25.000Z",
+        "updatedAt": "2021-07-14T16:50:49.000Z",
         "deletedAt": null
       }
     }

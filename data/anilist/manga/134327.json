@@ -21,5 +21,28 @@
   "createdAt": "2021-05-21T01:43:39.000Z",
   "updatedAt": "2021-06-21T17:56:42.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "990k-ex-life-hunter": {
+        "authors": [
+          "Do-Seon Baek"
+        ],
+        "identifier": "990k-ex-life-hunter",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "990k Ex-Life Hunter",
+        "url": "https://mangasee123.com/manga/990k-Ex-Life-Hunter",
+        "image": "https://cover.nep.li/cover/990k-Ex-Life-Hunter.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 134327,
+        "createdAt": "2021-06-14T16:27:50.000Z",
+        "updatedAt": "2021-07-13T14:24:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

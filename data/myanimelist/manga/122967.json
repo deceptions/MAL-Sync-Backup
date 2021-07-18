@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:10.000Z",
-  "updatedAt": "2021-05-24T21:38:48.000Z",
+  "updatedAt": "2021-07-14T02:23:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,29 @@
         "aniId": 111371,
         "createdAt": "2020-10-12T16:14:01.000Z",
         "updatedAt": "2021-06-06T01:53:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ci979917": {
+        "authors": [
+          "Fujisawa Naoyuki",
+          "Yuuichirou Takeda"
+        ],
+        "identifier": "manga-ci979917",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hakaiou ~Gaogaigar Vs Betterman~ The Comic",
+        "url": "https://manganato.com/manga-ci979917",
+        "image": "https://avt.mkklcdnv6temp.com/9/l/17-1583495604.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122967,
+        "aniId": 111371,
+        "createdAt": "2021-07-14T02:22:59.000Z",
+        "updatedAt": "2021-07-14T02:50:49.000Z",
         "deletedAt": null
       }
     }

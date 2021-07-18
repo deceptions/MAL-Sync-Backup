@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:42.000Z",
-  "updatedAt": "2021-04-30T19:19:07.000Z",
+  "updatedAt": "2021-07-14T17:21:11.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -87,6 +87,25 @@
         "aniId": 21597,
         "createdAt": "2020-10-12T16:27:19.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1374": {
+        "identifier": "1374",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Stella no Mahou",
+        "url": "https://pahe.win/a/1374",
+        "image": "https://i.animepahe.com/posters/fef25fb7304846e00dcf3ed079da66d1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32555,
+        "aniId": 21597,
+        "createdAt": "2021-07-14T17:21:05.000Z",
+        "updatedAt": "2021-07-14T17:50:49.000Z",
         "deletedAt": null
       }
     }

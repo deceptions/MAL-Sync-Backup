@@ -18,5 +18,28 @@
   "createdAt": "2021-05-27T01:28:43.000Z",
   "updatedAt": "2021-06-18T09:05:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "quality-assurance-in-another-world": {
+        "authors": [
+          "SATOU Masamichi"
+        ],
+        "identifier": "quality-assurance-in-another-world",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Quality Assurance in Another World",
+        "url": "https://mangasee123.com/manga/Quality-Assurance-in-Another-World",
+        "image": "https://cover.nep.li/cover/Quality-Assurance-in-Another-World.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130364,
+        "aniId": 119286,
+        "createdAt": "2021-07-17T16:04:18.000Z",
+        "updatedAt": "2021-07-17T16:32:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -18,5 +18,28 @@
   "createdAt": "2021-06-08T19:25:21.000Z",
   "updatedAt": "2021-06-18T03:54:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "72ff7504-dd77-439c-bd5a-5c9da017e302": {
+        "authors": [
+          "Kube Toshihisa"
+        ],
+        "identifier": "72ff7504-dd77-439c-bd5a-5c9da017e302",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Magnum Lily",
+        "url": "https://mangadex.org/title/72ff7504-dd77-439c-bd5a-5c9da017e302",
+        "image": "https://uploads.mangadex.org/covers/72ff7504-dd77-439c-bd5a-5c9da017e302/7561dcc2-be2e-4810-9965-9ff86d3bce9b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111079,
+        "aniId": 102269,
+        "createdAt": "2021-07-14T17:21:13.000Z",
+        "updatedAt": "2021-07-14T17:50:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

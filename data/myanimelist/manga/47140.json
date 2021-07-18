@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:28.000Z",
-  "updatedAt": "2021-03-22T02:04:53.000Z",
+  "updatedAt": "2021-07-14T15:51:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 77140,
         "createdAt": "2021-03-22T02:04:53.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "waltz_no_ojikan": {
+        "authors": [
+          "ANDOU Natsumi"
+        ],
+        "identifier": "waltz_no_ojikan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Waltz no Ojikan",
+        "url": "https://fanfox.net/manga/waltz_no_ojikan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13651/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47140,
+        "aniId": 77140,
+        "createdAt": "2021-07-14T15:50:51.000Z",
+        "updatedAt": "2021-07-14T16:20:49.000Z",
         "deletedAt": null
       }
     }

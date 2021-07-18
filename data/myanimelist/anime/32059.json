@@ -11,7 +11,7 @@
   "category": "ONA",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:41.000Z",
-  "updatedAt": "2021-04-30T18:19:16.000Z",
+  "updatedAt": "2021-07-13T04:45:53.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +30,25 @@
         "aniId": 102101,
         "createdAt": "2020-10-12T15:50:11.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "master-of-torque-3": {
+        "identifier": "master-of-torque-3",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Master of Torque 3",
+        "url": "https://gogoanime.pe/category/master-of-torque-3",
+        "image": "https://gogocdn.net/cover/master-of-torque-3.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32059,
+        "aniId": 102101,
+        "createdAt": "2021-07-13T04:45:01.000Z",
+        "updatedAt": "2021-07-13T05:15:01.000Z",
         "deletedAt": null
       }
     }

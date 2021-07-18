@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-19T03:33:42.000Z",
-  "updatedAt": "2021-02-19T03:33:42.000Z",
+  "updatedAt": "2021-07-12T18:45:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,29 @@
         "aniId": 117276,
         "createdAt": "2021-02-19T22:34:01.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gj984144": {
+        "authors": [
+          "Terae Kichijou",
+          "Rinta"
+        ],
+        "identifier": "manga-gj984144",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kamisama Ni Kago 2 Nin Bun Moraimashita",
+        "url": "https://manganato.com/manga-gj984144",
+        "image": "https://avt.mkklcdnv6temp.com/15/c/20-1583501608.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132740,
+        "aniId": 117276,
+        "createdAt": "2021-07-12T18:45:01.000Z",
+        "updatedAt": "2021-07-12T19:15:01.000Z",
         "deletedAt": null
       }
     }

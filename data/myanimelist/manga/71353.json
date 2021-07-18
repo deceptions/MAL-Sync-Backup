@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:18.000Z",
-  "updatedAt": "2021-02-02T22:31:54.000Z",
+  "updatedAt": "2021-07-13T03:45:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 85343,
         "createdAt": "2021-02-15T02:35:46.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ve953487": {
+        "authors": [
+          "Kobori Makoto"
+        ],
+        "identifier": "manga-ve953487",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Doukyuusei No Maccho-Kun",
+        "url": "https://manganato.com/manga-ve953487",
+        "image": "https://avt.mkklcdnv6temp.com/24/z/2-1583466669.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71353,
+        "aniId": 85343,
+        "createdAt": "2021-07-13T03:45:01.000Z",
+        "updatedAt": "2021-07-13T04:15:01.000Z",
         "deletedAt": null
       }
     }

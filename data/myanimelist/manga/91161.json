@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:06.000Z",
-  "updatedAt": "2021-03-04T20:51:30.000Z",
+  "updatedAt": "2021-07-13T09:45:33.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 120196,
         "createdAt": "2021-03-04T20:51:31.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bu954155": {
+        "authors": [
+          "Nagami Yuu"
+        ],
+        "identifier": "manga-bu954155",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Daitai Konna N De?",
+        "url": "https://manganato.com/manga-bu954155",
+        "image": "https://avt.mkklcdnv6temp.com/48/q/2-1583467573.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91161,
+        "aniId": 120196,
+        "createdAt": "2021-07-13T09:45:24.000Z",
+        "updatedAt": "2021-07-13T10:15:01.000Z",
         "deletedAt": null
       }
     }

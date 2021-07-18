@@ -10,14 +10,35 @@
   "image": "https://cover.nep.li/cover/Kase-san-and-Yamada.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 98777,
   "createdAt": "2021-05-12T08:54:43.000Z",
-  "updatedAt": "2021-05-12T08:54:43.000Z",
+  "updatedAt": "2021-07-11T01:13:45.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Kase-san and Yamada",
+      "山田と加瀬さん。"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hiromi Takashima",
+      "Jocelyne Allen"
+    ],
+    "id": 98777,
+    "malId": null,
+    "type": "manga",
+    "title": "Yamada to Kase-san.",
+    "url": "https://anilist.co/manga/98777",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98777-VTc0WwZmoOcM.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-05T02:49:28.000Z",
+    "updatedAt": "2021-06-21T13:26:26.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

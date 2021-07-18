@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:30.000Z",
-  "updatedAt": "2021-06-02T08:23:35.000Z",
+  "updatedAt": "2021-07-17T07:32:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 58226,
         "createdAt": "2020-10-12T16:02:50.000Z",
         "updatedAt": "2021-06-02T09:47:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "bonnouji": {
+        "authors": [
+          "AKI Eda"
+        ],
+        "identifier": "bonnouji",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bonnouji",
+        "url": "https://mangasee123.com/manga/Bonnouji",
+        "image": "https://cover.nep.li/cover/Bonnouji.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 28226,
+        "aniId": 58226,
+        "createdAt": "2021-04-03T11:08:04.000Z",
+        "updatedAt": "2021-07-17T15:02:20.000Z",
         "deletedAt": null
       }
     }

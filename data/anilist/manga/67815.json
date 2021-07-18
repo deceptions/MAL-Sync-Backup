@@ -61,6 +61,50 @@
         "updatedAt": "2021-05-20T15:40:04.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-yr953826": {
+        "authors": [
+          "Adachi Mitsuru"
+        ],
+        "identifier": "manga-yr953826",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mix",
+        "url": "https://manganato.com/manga-yr953826",
+        "image": "https://avt.mkklcdnv6temp.com/36/x/2-1583467118.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37815,
+        "aniId": 67815,
+        "createdAt": "2021-07-11T23:45:58.000Z",
+        "updatedAt": "2021-07-12T00:15:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mix": {
+        "authors": [
+          "ADACHI Mitsuru"
+        ],
+        "identifier": "mix",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mix",
+        "url": "https://fanfox.net/manga/mix/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11199/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37815,
+        "aniId": 67815,
+        "createdAt": "2021-07-15T01:21:59.000Z",
+        "updatedAt": "2021-07-15T01:50:50.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

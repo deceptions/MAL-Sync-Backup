@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-08T06:43:01.000Z",
-  "updatedAt": "2021-06-08T06:43:01.000Z",
+  "updatedAt": "2021-07-12T20:45:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 117347,
         "createdAt": "2020-10-12T16:21:05.000Z",
         "updatedAt": "2021-06-08T06:43:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jc986711": {
+        "authors": [
+          "Mito"
+        ],
+        "identifier": "manga-jc986711",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tamamo No Koi",
+        "url": "https://manganato.com/manga-jc986711",
+        "image": "https://avt.mkklcdnv6temp.com/17/o/22-1600507655.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136546,
+        "aniId": 117347,
+        "createdAt": "2021-07-12T20:45:12.000Z",
+        "updatedAt": "2021-07-12T21:15:02.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:05.000Z",
-  "updatedAt": "2021-03-28T22:19:26.000Z",
+  "updatedAt": "2021-07-11T22:15:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,28 @@
         "aniId": 98935,
         "createdAt": "2021-03-28T22:19:33.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yd976186": {
+        "authors": [
+          "Okita En"
+        ],
+        "identifier": "manga-yd976186",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Boku Wa Nando Demo, Kimi Ni Hajimete No Koi Wo Suru.",
+        "url": "https://manganato.com/manga-yd976186",
+        "image": "https://avt.mkklcdnv6temp.com/22/g/15-1583492257.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107154,
+        "aniId": 98935,
+        "createdAt": "2021-07-11T22:15:01.000Z",
+        "updatedAt": "2021-07-11T22:45:01.000Z",
         "deletedAt": null
       }
     }

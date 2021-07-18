@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:06.000Z",
-  "updatedAt": "2021-04-26T04:57:56.000Z",
+  "updatedAt": "2021-07-12T10:15:27.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +48,25 @@
         "aniId": 621,
         "createdAt": "2020-10-12T15:53:56.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nightwalker-the-midnight-detective-dub": {
+        "identifier": "nightwalker-the-midnight-detective-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nightwalker: The Midnight Detective (Dub)",
+        "url": "https://gogoanime.pe/category/nightwalker-the-midnight-detective-dub",
+        "image": "https://gogocdn.net/cover/nightwalker-the-midnight-detective-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 621,
+        "aniId": 621,
+        "createdAt": "2021-07-12T10:15:15.000Z",
+        "updatedAt": "2021-07-12T10:45:01.000Z",
         "deletedAt": null
       }
     }

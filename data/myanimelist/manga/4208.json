@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:57.000Z",
-  "updatedAt": "2021-04-02T14:30:55.000Z",
+  "updatedAt": "2021-07-15T11:20:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,28 @@
         "aniId": 34208,
         "createdAt": "2021-04-02T14:30:58.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-of966240": {
+        "authors": [
+          "Age"
+        ],
+        "identifier": "manga-of966240",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Muvluv",
+        "url": "https://manganato.com/manga-of966240",
+        "image": "https://avt.mkklcdnv6temp.com/35/i/10-1583483447.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 4208,
+        "aniId": 34208,
+        "createdAt": "2021-07-15T11:20:49.000Z",
+        "updatedAt": "2021-07-15T13:32:21.000Z",
         "deletedAt": null
       }
     }

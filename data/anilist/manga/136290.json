@@ -21,11 +21,34 @@
   "type": "manga",
   "title": "Neru: Bugei Dougyou",
   "url": "https://anilist.co/manga/136290",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b136290-FE8fRBueRGK7.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136290-nVfHhNRD6dFP.jpg",
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-01T21:50:05.000Z",
-  "updatedAt": "2021-07-04T20:00:02.000Z",
+  "updatedAt": "2021-07-13T21:50:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "neru-way-of-the-martial-artist": {
+        "authors": [
+          "HIRAGA Minya"
+        ],
+        "identifier": "neru-way-of-the-martial-artist",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Neru: Way of the Martial Artist",
+        "url": "https://mangasee123.com/manga/Neru-Way-of-the-Martial-Artist",
+        "image": "https://cover.nep.li/cover/Neru-Way-of-the-Martial-Artist.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 138268,
+        "aniId": 136290,
+        "createdAt": "2021-07-14T18:21:08.000Z",
+        "updatedAt": "2021-07-14T18:50:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:39.000Z",
-  "updatedAt": "2021-05-05T17:32:47.000Z",
+  "updatedAt": "2021-07-16T20:32:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 86817,
         "createdAt": "2021-05-05T17:32:47.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "fat_cinderella": {
+        "authors": [
+          "RiSe"
+        ],
+        "identifier": "fat_cinderella",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fat Cinderella!!",
+        "url": "https://fanfox.net/manga/fat_cinderella/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15305/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83373,
+        "aniId": 86817,
+        "createdAt": "2021-07-16T20:32:20.000Z",
+        "updatedAt": "2021-07-16T21:02:20.000Z",
         "deletedAt": null
       }
     }

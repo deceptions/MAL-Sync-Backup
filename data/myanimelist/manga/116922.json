@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:49.000Z",
-  "updatedAt": "2021-05-29T10:44:05.000Z",
+  "updatedAt": "2021-07-14T10:37:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 103554,
         "createdAt": "2020-10-12T16:13:31.000Z",
         "updatedAt": "2021-06-05T22:00:49.000Z",
+        "deletedAt": null
+      },
+      "5ad23128-34e8-408c-a08f-004be955e5e1": {
+        "authors": [
+          "Kotobuki Yasukiyo",
+          "Nishino Ryuu",
+          "Maneki"
+        ],
+        "identifier": "5ad23128-34e8-408c-a08f-004be955e5e1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Around 40 Kenja no Isekai Seikatsu Nikki ~ Kimana na Isekai Kyoushi Raifu ~",
+        "url": "https://mangadex.org/title/5ad23128-34e8-408c-a08f-004be955e5e1",
+        "image": "https://uploads.mangadex.org/covers/5ad23128-34e8-408c-a08f-004be955e5e1/ab2a1ba4-10b8-4b76-a340-e5b5f1b9e5f2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 116922,
+        "aniId": 103554,
+        "createdAt": "2020-10-12T16:16:37.000Z",
+        "updatedAt": "2021-07-14T10:50:49.000Z",
         "deletedAt": null
       }
     },

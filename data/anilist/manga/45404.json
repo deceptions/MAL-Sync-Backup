@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-03T19:56:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "towards_the_darkness": {
+        "authors": [
+          "YAMAMOTO Takato"
+        ],
+        "identifier": "towards_the_darkness",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Towards the Darkness",
+        "url": "https://fanfox.net/manga/towards_the_darkness/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8175/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15404,
+        "aniId": 45404,
+        "createdAt": "2021-07-11T08:13:52.000Z",
+        "updatedAt": "2021-07-11T08:43:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

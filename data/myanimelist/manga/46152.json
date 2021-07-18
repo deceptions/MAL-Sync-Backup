@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:24.000Z",
-  "updatedAt": "2021-03-30T11:31:20.000Z",
+  "updatedAt": "2021-07-11T05:43:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 76152,
         "createdAt": "2021-03-30T11:31:21.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "neko_to_watashi_no_kinyoubi": {
+        "authors": [
+          "TANEMURA Arina"
+        ],
+        "identifier": "neko_to_watashi_no_kinyoubi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Neko to Watashi no Kinyoubi",
+        "url": "https://fanfox.net/manga/neko_to_watashi_no_kinyoubi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11936/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46152,
+        "aniId": 76152,
+        "createdAt": "2021-07-11T05:43:27.000Z",
+        "updatedAt": "2021-07-11T06:13:17.000Z",
         "deletedAt": null
       }
     }

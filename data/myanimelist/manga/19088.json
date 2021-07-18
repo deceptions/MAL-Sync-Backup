@@ -17,7 +17,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:42.000Z",
-  "updatedAt": "2021-04-28T16:20:52.000Z",
+  "updatedAt": "2021-07-16T21:32:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -51,6 +51,40 @@
         "aniId": 49088,
         "createdAt": "2020-10-12T16:11:48.000Z",
         "updatedAt": "2021-06-05T11:08:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ch980064": {
+        "authors": [
+          "Nekojiru",
+          "Ebisu Yoshikazu",
+          "Nemoto Takashi",
+          "Maruo Suehiro",
+          "Hino Hideshi",
+          "Kazuichi Hanawa",
+          "Pan Migiwa",
+          "Carol Shimoda",
+          "Yasuji Tanioka",
+          "Masakazu Toma",
+          "Muddy Wehara",
+          "Hanako Yamada",
+          "Hajime Yamano"
+        ],
+        "identifier": "manga-ch980064",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Comics Underground Japan",
+        "url": "https://manganato.com/manga-ch980064",
+        "image": "https://avt.mkklcdnv6temp.com/14/s/17-1583495795.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19088,
+        "aniId": 49088,
+        "createdAt": "2021-07-16T21:32:30.000Z",
+        "updatedAt": "2021-07-16T22:02:20.000Z",
         "deletedAt": null
       }
     }

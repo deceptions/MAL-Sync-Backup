@@ -9,6 +9,10 @@
     {
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/thunderbolt-fantasy"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GY75KE906/Thunderbolt-Fantasy"
     }
   ],
   "id": 98143,
@@ -20,7 +24,27 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-23T10:12:57.000Z",
-  "updatedAt": "2021-06-17T15:18:21.000Z",
+  "updatedAt": "2021-07-14T23:20:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "x2v8": {
+        "identifier": "x2v8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Thunderbolt Fantasy: Touri-ken Yuuki",
+        "url": "https://www12.9anime.to/watch/thunderbolt-fantasy-touri-ken-yuuki.x2v8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/04/9b3e49428328b14a904b1b2c7c7b5ccd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 98143,
+        "createdAt": "2021-01-16T10:34:26.000Z",
+        "updatedAt": "2021-07-14T15:51:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

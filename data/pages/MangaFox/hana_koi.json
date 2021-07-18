@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 5895,
-  "aniId": null,
+  "aniId": 35895,
   "createdAt": "2021-06-04T01:20:29.000Z",
-  "updatedAt": "2021-06-04T01:20:29.000Z",
+  "updatedAt": "2021-07-16T03:02:20.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,29 @@
     "updatedAt": "2021-06-04T01:20:29.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Flower Love",
+      "ハナコイ",
+      "Hana Koi",
+      "Hanakoi",
+      "Flower Love"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Nabako Kamo"
+    ],
+    "id": 35895,
+    "malId": 5895,
+    "type": "manga",
+    "title": "Hana*Koi",
+    "url": "https://anilist.co/manga/35895",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/5895.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-16T02:32:21.000Z",
+    "updatedAt": "2021-07-16T02:32:21.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/5895/HanaKoi"
 }

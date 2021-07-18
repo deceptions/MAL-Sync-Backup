@@ -11,14 +11,37 @@
   "image": "https://cover.nep.li/cover/Aideen.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 126384,
   "createdAt": "2021-03-13T05:39:11.000Z",
-  "updatedAt": "2021-05-17T08:24:48.000Z",
+  "updatedAt": "2021-07-14T16:22:19.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "아이딘",
+      "Aydin",
+      "Aidin"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Myeong Rang",
+      "Ju-eun Choe",
+      "Hwideulian"
+    ],
+    "id": 126384,
+    "malId": null,
+    "type": "manga",
+    "title": "Aideen",
+    "url": "https://anilist.co/manga/126384",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126384-jkpbSvIVCMRs.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T19:12:57.000Z",
+    "updatedAt": "2021-06-21T16:47:21.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

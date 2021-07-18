@@ -14,9 +14,9 @@
   "active": true,
   "actor": null,
   "malId": 531,
-  "aniId": null,
+  "aniId": 30531,
   "createdAt": "2021-06-15T10:59:22.000Z",
-  "updatedAt": "2021-06-15T10:59:23.000Z",
+  "updatedAt": "2021-07-11T08:13:19.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -38,6 +38,32 @@
     "updatedAt": "2021-06-15T10:59:23.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Someday's Dreamers: Spellbound",
+      "魔法遣いに大切なこと 太陽と風の坂道"
+    ],
+    "externalLinks": [
+      {
+        "site": "VIZ",
+        "url": "https://www.viz.com/someday-s-dreamers"
+      }
+    ],
+    "authors": [
+      "Norie Yamada",
+      "Kumichi Yoshizuki"
+    ],
+    "id": 30531,
+    "malId": 531,
+    "type": "manga",
+    "title": "Mahoutsukai ni Taisetsu na Koto: Taiyou to Kaze no Sakamichi",
+    "url": "https://anilist.co/manga/30531",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30531-fQRgVBd1eIFA.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-11T07:43:17.000Z",
+    "updatedAt": "2021-07-11T07:43:17.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/531/Mahoutsukai_ni_Taisetsu_na_Koto__Taiyou_to_Kaze_no_Sakamichi"
 }

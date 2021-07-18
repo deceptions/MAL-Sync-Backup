@@ -20,5 +20,29 @@
   "createdAt": "2021-06-05T05:18:58.000Z",
   "updatedAt": "2021-06-21T18:29:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "fe18fe91-fa82-441c-9d87-66414d59a622": {
+        "authors": [
+          "Inoue Takehiko",
+          "Yoshikawa Eiji"
+        ],
+        "identifier": "fe18fe91-fa82-441c-9d87-66414d59a622",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Vagabond: The LAST Manga Exhibition Complete Catalogue",
+        "url": "https://mangadex.org/title/fe18fe91-fa82-441c-9d87-66414d59a622",
+        "image": "https://uploads.mangadex.org/covers/fe18fe91-fa82-441c-9d87-66414d59a622/030763b8-0aae-459c-8c82-4985222e9167.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 135129,
+        "createdAt": "2020-11-25T23:31:39.000Z",
+        "updatedAt": "2021-07-13T14:26:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

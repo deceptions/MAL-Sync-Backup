@@ -11,7 +11,27 @@
   "category": "ONA",
   "hentai": false,
   "createdAt": "2021-03-02T21:20:55.000Z",
-  "updatedAt": "2021-03-27T06:49:37.000Z",
+  "updatedAt": "2021-07-11T17:45:53.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "vvn2l": {
+        "identifier": "vvn2l",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Fei Ren Xueyuan",
+        "url": "https://www12.9anime.to/watch/non-human-academy.vvn2l",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/69/69ffac2c8c8dec7500ced4ddb6dd7c0c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39223,
+        "aniId": null,
+        "createdAt": "2021-07-11T17:45:34.000Z",
+        "updatedAt": "2021-07-11T17:45:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

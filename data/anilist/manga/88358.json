@@ -86,6 +86,28 @@
         "updatedAt": "2021-06-13T17:08:18.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "magical_change": {
+        "authors": [
+          "Homerun Ken"
+        ],
+        "identifier": "magical_change",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Magical Change",
+        "url": "https://fanfox.net/manga/magical_change/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12961/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57131,
+        "aniId": 88358,
+        "createdAt": "2021-07-12T00:45:03.000Z",
+        "updatedAt": "2021-07-12T01:15:01.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

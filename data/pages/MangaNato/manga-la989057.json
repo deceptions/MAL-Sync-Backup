@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 136672,
   "createdAt": "2021-05-29T05:45:15.000Z",
-  "updatedAt": "2021-05-29T05:45:15.000Z",
+  "updatedAt": "2021-07-14T19:47:14.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "식사하고 가세요!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gi-Yeong In",
+      "Elga",
+      "Ring Kim",
+      "Ga-Nik",
+      "p.P"
+    ],
+    "id": 136672,
+    "malId": null,
+    "type": "manga",
+    "title": "Siksahago Gaseyo!",
+    "url": "https://anilist.co/manga/136672",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136672-kFAsqFAlpiIa.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-14T10:20:51.000Z",
+    "updatedAt": "2021-07-14T10:50:50.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

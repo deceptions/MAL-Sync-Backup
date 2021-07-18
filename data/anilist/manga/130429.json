@@ -28,9 +28,9 @@
     "Mangadex": {
       "f89ed57a-e4c0-48f5-b664-8ef88aa87fd9": {
         "authors": [
-          "Gammon",
           "Ant Studio",
-          "Kim Roah"
+          "Kim Roah",
+          "Gammon"
         ],
         "identifier": "f89ed57a-e4c0-48f5-b664-8ef88aa87fd9",
         "type": "manga",
@@ -41,11 +41,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": null,
         "aniId": 130429,
         "createdAt": "2021-01-13T02:31:10.000Z",
-        "updatedAt": "2021-06-08T10:36:52.000Z",
+        "updatedAt": "2021-07-13T20:50:49.000Z",
         "deletedAt": null
       }
     },

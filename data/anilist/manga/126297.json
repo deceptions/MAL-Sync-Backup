@@ -36,11 +36,34 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": null,
         "aniId": 126297,
         "createdAt": "2020-11-08T02:16:48.000Z",
-        "updatedAt": "2021-06-08T07:26:04.000Z",
+        "updatedAt": "2021-07-13T21:20:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mercenary-enrollment": {
+        "authors": [
+          "Rakhyun",
+          "YC"
+        ],
+        "identifier": "mercenary-enrollment",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Teenage Mercenary",
+        "url": "https://mangasee123.com/manga/Mercenary-Enrollment",
+        "image": "https://cover.nep.li/cover/Mercenary-Enrollment.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 126297,
+        "createdAt": "2021-01-21T23:33:50.000Z",
+        "updatedAt": "2021-07-13T14:26:47.000Z",
         "deletedAt": null
       }
     },

@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 54313,
-  "aniId": null,
+  "aniId": 84313,
   "createdAt": "2021-07-09T13:43:26.000Z",
-  "updatedAt": "2021-07-09T13:44:17.000Z",
+  "updatedAt": "2021-07-13T07:45:01.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,27 @@
     "updatedAt": "2021-07-09T13:44:17.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "悪戯ちょうちょ",
+      "Akugi Choucho",
+      "Mischievous Butterfly"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mana Ayase"
+    ],
+    "id": 84313,
+    "malId": 54313,
+    "type": "manga",
+    "title": "Itazura Choucho",
+    "url": "https://anilist.co/manga/84313",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx84313-LdcWFsyyjvsq.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-13T07:15:02.000Z",
+    "updatedAt": "2021-07-13T07:15:02.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/54313/Itazura_Choucho"
 }

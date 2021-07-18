@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-03-31T12:00:53.000Z",
-  "updatedAt": "2021-06-02T01:01:58.000Z",
+  "updatedAt": "2021-07-12T21:45:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 107013,
         "createdAt": "2021-06-02T01:01:58.000Z",
         "updatedAt": "2021-06-02T02:31:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "uchi_no_shishou_wa_shippo_ga_nai": {
+        "authors": [
+          "TNSK"
+        ],
+        "identifier": "uchi_no_shishou_wa_shippo_ga_nai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Uchi no shishou wa shippo ga nai",
+        "url": "https://fanfox.net/manga/uchi_no_shishou_wa_shippo_ga_nai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35429/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117988,
+        "aniId": 107013,
+        "createdAt": "2021-07-12T21:45:01.000Z",
+        "updatedAt": "2021-07-12T22:15:02.000Z",
         "deletedAt": null
       }
     }

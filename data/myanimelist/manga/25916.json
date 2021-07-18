@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:24.000Z",
-  "updatedAt": "2021-05-03T09:33:25.000Z",
+  "updatedAt": "2021-07-15T22:32:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,49 @@
         "aniId": 55916,
         "createdAt": "2020-10-12T16:06:36.000Z",
         "updatedAt": "2021-06-03T20:49:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lu962603": {
+        "authors": [
+          "Kurumada Masami"
+        ],
+        "identifier": "manga-lu962603",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Saint Seiya - The Lost Canvas - Meiou Shinwa Gaiden",
+        "url": "https://readmanganato.com/manga-lu962603",
+        "image": "https://avt.mkklcdnv6temp.com/23/x/8-1583479086.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25916,
+        "aniId": 55916,
+        "createdAt": "2021-07-15T22:32:20.000Z",
+        "updatedAt": "2021-07-15T23:02:20.000Z",
+        "deletedAt": null
+      },
+      "manga-hn984748": {
+        "authors": [
+          "Kurumada Masami",
+          "Teshirogi Shiori"
+        ],
+        "identifier": "manga-hn984748",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Saint Seiya - The Lost Canvas Gaiden",
+        "url": "https://readmanganato.com/manga-hn984748",
+        "image": "https://avt.mkklcdnv6temp.com/37/y/20-1583502504.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 25916,
+        "aniId": 55916,
+        "createdAt": "2021-07-15T22:32:43.000Z",
+        "updatedAt": "2021-07-16T08:02:20.000Z",
         "deletedAt": null
       }
     }

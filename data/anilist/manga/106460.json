@@ -41,6 +41,50 @@
         "updatedAt": "2021-06-06T07:10:23.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-fk982445": {
+        "authors": [
+          "Ran Yamano"
+        ],
+        "identifier": "manga-fk982445",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tsukiiro No Invader",
+        "url": "https://manganato.com/manga-fk982445",
+        "image": "https://avt.mkklcdnv6temp.com/2/b/18-1583499143.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123439,
+        "aniId": 106460,
+        "createdAt": "2021-07-13T13:45:11.000Z",
+        "updatedAt": "2021-07-13T14:15:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tsukiiro_no_invader": {
+        "authors": [
+          "YAMANO Ran"
+        ],
+        "identifier": "tsukiiro_no_invader",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tsukiiro no Invader",
+        "url": "https://fanfox.net/manga/tsukiiro_no_invader/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31027/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123439,
+        "aniId": 106460,
+        "createdAt": "2021-07-13T13:46:46.000Z",
+        "updatedAt": "2021-07-13T14:15:01.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

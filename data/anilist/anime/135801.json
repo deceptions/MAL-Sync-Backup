@@ -14,5 +14,44 @@
   "createdAt": "2021-06-18T00:20:50.000Z",
   "updatedAt": "2021-06-18T00:20:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "52rx0": {
+        "identifier": "52rx0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yuan Shen Haojie",
+        "url": "https://www12.9anime.to/watch/yuan-shen-haojie.52rx0",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/03/0302d263eb39b3e1291782da3e83054f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49204,
+        "aniId": 135801,
+        "createdAt": "2021-07-13T02:15:34.000Z",
+        "updatedAt": "2021-07-13T02:45:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yuan-shen-haojie": {
+        "identifier": "yuan-shen-haojie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yuan Shen Haojie",
+        "url": "https://gogoanime.pe/category/yuan-shen-haojie",
+        "image": "https://gogocdn.net/cover/yuan-shen-haojie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49204,
+        "aniId": 135801,
+        "createdAt": "2021-07-13T03:45:01.000Z",
+        "updatedAt": "2021-07-13T04:15:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-03-11T02:09:07.000Z",
-  "updatedAt": "2021-05-31T09:09:18.000Z",
+  "updatedAt": "2021-07-15T07:22:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,26 @@
         "aniId": 129225,
         "createdAt": "2021-02-08T08:50:08.000Z",
         "updatedAt": "2021-06-05T11:18:57.000Z",
+        "deletedAt": null
+      },
+      "77a963f2-63be-4e2e-9a95-b8020cbe23ab": {
+        "authors": [
+          "Rakure Umagome"
+        ],
+        "identifier": "77a963f2-63be-4e2e-9a95-b8020cbe23ab",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Want to See You Embarrassed",
+        "url": "https://mangadex.org/title/77a963f2-63be-4e2e-9a95-b8020cbe23ab",
+        "image": "https://uploads.mangadex.org/covers/77a963f2-63be-4e2e-9a95-b8020cbe23ab/ffd1318a-a5fd-4a03-a400-871e3d2336d6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 134339,
+        "aniId": 129225,
+        "createdAt": "2021-07-15T07:22:26.000Z",
+        "updatedAt": "2021-07-15T07:50:49.000Z",
         "deletedAt": null
       }
     },

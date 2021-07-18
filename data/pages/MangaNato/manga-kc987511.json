@@ -11,14 +11,57 @@
   "image": "https://avt.mkklcdnv6temp.com/50/s/22-1609690617.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actor": 1,
+  "malId": 132559,
+  "aniId": 127200,
   "createdAt": "2021-07-10T20:14:08.000Z",
-  "updatedAt": "2021-07-10T20:14:08.000Z",
+  "updatedAt": "2021-07-13T14:50:49.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Auto Mode Off at Otome Game 6th Round.",
+      "On the Sixth Playthrough of the Otome Game, the Auto-Mode Broke",
+      "乙女ゲーム六周目、オートモードが切れました。"
+    ],
+    "authors": [
+      "Soratani, Reina",
+      "Subaru, Kazusa"
+    ],
+    "id": 132559,
+    "type": "manga",
+    "title": "Otome Game Rokushuume, Auto Mode ga Kiremashita.",
+    "url": "https://myanimelist.net/manga/132559/Otome_Game_Rokushuume_Auto_Mode_ga_Kiremashita",
+    "image": "https://cdn.myanimelist.net/images/manga/1/241042.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-06-08T08:56:22.000Z",
+    "updatedAt": "2021-07-10T20:14:18.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "乙女ゲーム六周目、オートモードが切れました。",
+      "Auto-mode Expired in the 6th Round of the Otome Game",
+      "On the 6th Playthrough of the Otome Game, the Auto-Mode Broke"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kazusa Subaru",
+      "Reina Soratani",
+      "Hazuki Futaba"
+    ],
+    "id": 127200,
+    "malId": 132559,
+    "type": "manga",
+    "title": "Otome Game Rokkushuume, Automode ga Kiremashita.",
+    "url": "https://anilist.co/manga/127200",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127200-nmiareRztxCa.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-18T02:20:50.000Z",
+    "updatedAt": "2021-06-18T02:20:50.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/132559/Otome_Game_Rokushuume_Auto_Mode_ga_Kiremashita"
 }

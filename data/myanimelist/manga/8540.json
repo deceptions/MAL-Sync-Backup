@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:19.000Z",
-  "updatedAt": "2021-04-30T07:50:16.000Z",
+  "updatedAt": "2021-07-14T21:21:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 38540,
         "createdAt": "2020-10-12T16:13:05.000Z",
         "updatedAt": "2021-06-05T18:36:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-rt968576": {
+        "authors": [
+          "Iida George"
+        ],
+        "identifier": "manga-rt968576",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Night Head Genesis",
+        "url": "https://manganato.com/manga-rt968576",
+        "image": "https://avt.mkklcdnv6temp.com/17/b/12-1583486447.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8540,
+        "aniId": 38540,
+        "createdAt": "2021-07-14T21:20:51.000Z",
+        "updatedAt": "2021-07-14T21:50:49.000Z",
         "deletedAt": null
       }
     }

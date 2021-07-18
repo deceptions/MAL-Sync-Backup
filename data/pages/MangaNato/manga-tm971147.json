@@ -10,14 +10,52 @@
   "image": "https://avt.mkklcdnv6temp.com/40/f/13-1583489244.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 99256,
+  "aniId": 87444,
   "createdAt": "2021-07-09T01:44:47.000Z",
-  "updatedAt": "2021-07-09T01:44:47.000Z",
+  "updatedAt": "2021-07-11T15:45:01.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "How to keep a mummy",
+      "ミイラの飼い方"
+    ],
+    "authors": [
+      "Utsugi, Kakeru"
+    ],
+    "id": 99256,
+    "type": "manga",
+    "title": "Miira no Kaikata",
+    "url": "https://myanimelist.net/manga/99256/Miira_no_Kaikata",
+    "image": "https://cdn.myanimelist.net/images/manga/1/178999.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:46:32.000Z",
+    "updatedAt": "2021-07-11T15:16:39.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "How to Keep a Mummy",
+      "ミイラの飼い方"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kakeru Utsugi"
+    ],
+    "id": 87444,
+    "malId": 99256,
+    "type": "manga",
+    "title": "Miira no Kaikata",
+    "url": "https://anilist.co/manga/87444",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx87444-wnEWOXbMOC2X.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:54:41.000Z",
+    "updatedAt": "2021-06-17T23:01:30.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/99256/Miira_no_Kaikata"
 }

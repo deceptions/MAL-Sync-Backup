@@ -13,9 +13,9 @@
   "active": true,
   "actor": 2,
   "malId": 121045,
-  "aniId": null,
+  "aniId": 103879,
   "createdAt": "2020-10-12T16:13:02.000Z",
-  "updatedAt": "2021-06-06T13:33:34.000Z",
+  "updatedAt": "2021-07-11T15:15:01.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,28 @@
     "updatedAt": "2021-06-05T18:49:17.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "よるとあさの歌 EC",
+      "Yoru to Asa no Uta Encore",
+      "The Song of Yoru & Asa Ec",
+      "W rytmie wieczoru i poranka: Bis!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Harada"
+    ],
+    "id": 103879,
+    "malId": 121045,
+    "type": "manga",
+    "title": "Yoru to Asa no Uta EC",
+    "url": "https://anilist.co/manga/103879",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103879-RR4JmI01cmBl.png",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-07-11T15:13:18.000Z",
+    "updatedAt": "2021-07-11T15:13:18.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/121045/Yoru_to_Asa_no_Uta_Ec"
 }

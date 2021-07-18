@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:09.000Z",
-  "updatedAt": "2021-04-06T09:38:22.000Z",
+  "updatedAt": "2021-07-13T01:15:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +81,29 @@
         "aniId": 53446,
         "createdAt": "2021-04-06T09:38:22.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-uf956040": {
+        "authors": [
+          "Ooishi Naho",
+          "Toriyama Akira"
+        ],
+        "identifier": "manga-uf956040",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dragon Ball Sd",
+        "url": "https://readmanganato.com/manga-uf956040",
+        "image": "https://avt.mkklcdnv6temp.com/50/m/4-1583469666.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23446,
+        "aniId": 53446,
+        "createdAt": "2021-07-13T01:15:11.000Z",
+        "updatedAt": "2021-07-13T01:45:01.000Z",
         "deletedAt": null
       }
     }

@@ -11,13 +11,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 112440,
+  "aniId": 116280,
   "createdAt": "2021-06-20T16:21:00.000Z",
-  "updatedAt": "2021-06-20T16:21:00.000Z",
+  "updatedAt": "2021-07-13T14:50:49.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Dr.クマひげ"
+    ],
+    "authors": [
+      "Buronson",
+      "Nagayasu, Takumi"
+    ],
+    "id": 112440,
+    "type": "manga",
+    "title": "Dr. Kumahige",
+    "url": "https://myanimelist.net/manga/112440/Dr_Kumahige",
+    "image": "https://cdn.myanimelist.net/images/manga/3/226244.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:25.000Z",
+    "updatedAt": "2021-07-12T06:16:13.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Dr.クマひげ",
+      "流氓俠醫"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Takumi Nagayasu",
+      "Yoshiyuki Okamura"
+    ],
+    "id": 116280,
+    "malId": 112440,
+    "type": "manga",
+    "title": "Dr. Kumahige",
+    "url": "https://anilist.co/manga/116280",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116280-FsAilJRn7dgi.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:56:55.000Z",
+    "updatedAt": "2021-06-18T08:23:32.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/112440/Dr_Kumahige"
 }

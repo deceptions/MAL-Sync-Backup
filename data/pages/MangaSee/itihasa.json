@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 98688,
-  "aniId": null,
+  "aniId": 97267,
   "createdAt": "2021-06-01T15:44:53.000Z",
-  "updatedAt": "2021-06-01T15:44:53.000Z",
+  "updatedAt": "2021-07-15T09:50:49.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -35,6 +35,26 @@
     "updatedAt": "2021-06-01T15:44:53.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Itihasa",
+      "イティハーサ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Wakako Mizuki"
+    ],
+    "id": 97267,
+    "malId": 98688,
+    "type": "manga",
+    "title": "Itihasa",
+    "url": "https://anilist.co/manga/97267",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97267-muPZg6679T5n.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-15T09:20:50.000Z",
+    "updatedAt": "2021-07-15T09:20:50.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/98688/Itihasa"
 }

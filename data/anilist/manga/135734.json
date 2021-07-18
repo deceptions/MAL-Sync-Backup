@@ -17,5 +17,28 @@
   "createdAt": "2021-06-16T21:27:35.000Z",
   "updatedAt": "2021-06-25T03:44:54.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "f0ce2b27-612c-4f19-b7e0-45988c7477f8": {
+        "authors": [
+          "Hiiragi Yuuichi"
+        ],
+        "identifier": "f0ce2b27-612c-4f19-b7e0-45988c7477f8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "We're All Doing It",
+        "url": "https://mangadex.org/title/f0ce2b27-612c-4f19-b7e0-45988c7477f8",
+        "image": "",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 137833,
+        "aniId": 135734,
+        "createdAt": "2021-07-07T16:29:54.000Z",
+        "updatedAt": "2021-07-13T14:50:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

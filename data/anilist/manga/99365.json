@@ -63,6 +63,50 @@
         "updatedAt": "2021-05-20T15:40:31.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-zv977056": {
+        "authors": [
+          "Kuriyama Miduki"
+        ],
+        "identifier": "manga-zv977056",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hoankan Evans No Uso",
+        "url": "https://manganato.com/manga-zv977056",
+        "image": "https://avt.mkklcdnv6temp.com/34/k/15-1583492814.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 106190,
+        "aniId": 99365,
+        "createdAt": "2021-07-14T15:51:14.000Z",
+        "updatedAt": "2021-07-14T19:50:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hoankan_evans_no_uso": {
+        "authors": [
+          "KURIYAMA Miduki"
+        ],
+        "identifier": "hoankan_evans_no_uso",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hoankan Evans no Uso",
+        "url": "https://fanfox.net/manga/hoankan_evans_no_uso/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25791/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 106190,
+        "aniId": 99365,
+        "createdAt": "2021-07-16T20:03:23.000Z",
+        "updatedAt": "2021-07-16T23:32:20.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

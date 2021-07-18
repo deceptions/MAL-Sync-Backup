@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:32.000Z",
-  "updatedAt": "2021-05-31T13:26:16.000Z",
+  "updatedAt": "2021-07-15T13:23:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 85475,
         "createdAt": "2021-01-11T02:21:36.000Z",
         "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ou952777": {
+        "authors": [
+          "Rikudou Shuusai"
+        ],
+        "identifier": "manga-ou952777",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Rikudou",
+        "url": "https://manganato.com/manga-ou952777",
+        "image": "https://avt.mkklcdnv6temp.com/1/g/1-1583465737.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 78477,
+        "aniId": 85475,
+        "createdAt": "2021-05-31T13:26:16.000Z",
+        "updatedAt": "2021-07-15T13:23:39.000Z",
         "deletedAt": null
       }
     }
