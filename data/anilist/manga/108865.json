@@ -22,7 +22,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-02T16:30:52.000Z",
-  "updatedAt": "2021-06-21T14:18:01.000Z",
+  "updatedAt": "2021-07-22T06:33:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -44,6 +44,28 @@
         "aniId": 108865,
         "createdAt": "2020-10-12T16:14:50.000Z",
         "updatedAt": "2021-06-06T10:21:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-et981654": {
+        "authors": [
+          "Tutu"
+        ],
+        "identifier": "manga-et981654",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Generation's Queen Ling",
+        "url": "https://manganato.com/manga-et981654",
+        "image": "https://avt.mkklcdnv6temp.com/22/y/18-1583497993.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 108865,
+        "createdAt": "2021-07-22T06:33:47.000Z",
+        "updatedAt": "2021-07-22T06:33:59.000Z",
         "deletedAt": null
       }
     }

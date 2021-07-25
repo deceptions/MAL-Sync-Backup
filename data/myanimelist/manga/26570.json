@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:26.000Z",
-  "updatedAt": "2021-05-04T10:32:19.000Z",
+  "updatedAt": "2021-07-18T17:02:55.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 56570,
         "createdAt": "2020-10-12T16:02:43.000Z",
         "updatedAt": "2021-06-02T09:01:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "s-tn-r-s": {
+        "authors": [
+          "MIYOKAWA Masaru",
+          "TAKEUCHI Ryousuke"
+        ],
+        "identifier": "s-tn-r-s",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "ST&RS",
+        "url": "https://mangasee123.com/manga/S-Tn-R-S",
+        "image": "https://cover.nep.li/cover/S-Tn-R-S.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26570,
+        "aniId": 56570,
+        "createdAt": "2021-07-18T17:02:52.000Z",
+        "updatedAt": "2021-07-18T17:32:20.000Z",
         "deletedAt": null
       }
     }

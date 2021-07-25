@@ -11,13 +11,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 138802,
+  "aniId": 136519,
   "createdAt": "2021-07-02T05:50:18.000Z",
-  "updatedAt": "2021-07-02T05:50:18.000Z",
+  "updatedAt": "2021-07-24T18:21:33.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "The 5 Minutes We Share at the Convenience Store.",
+      "Konbini de Kimi to no 5-funkan.",
+      "5 Minutes with You at a Convenience Store",
+      "コンビニで君との５分間。"
+    ],
+    "authors": [
+      "Ichinaga, Nozomi"
+    ],
+    "id": 138802,
+    "type": "manga",
+    "title": "Conveni de Kimi to no 5-funkan.",
+    "url": "https://myanimelist.net/manga/138802/Conveni_de_Kimi_to_no_5-funkan",
+    "image": "https://cdn.myanimelist.net/images/manga/1/248190.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-07-24T16:22:49.000Z",
+    "updatedAt": "2021-07-24T16:22:49.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "コンビニで君との５分間",
+      "5 Minutes with You at a Convenience Store",
+      "The Five Minutes We Share at the Convenience Store",
+      "与你在便利店相处的五分钟",
+      "與你在便利店相處的五分鐘",
+      "Konbini de Kimi no Goufunkan"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Nozomi Ichinaga"
+    ],
+    "id": 136519,
+    "malId": 138802,
+    "type": "manga",
+    "title": "Konbini de Kimi to no 5-funkan",
+    "url": "https://anilist.co/manga/136519",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136519-TcWMx8fCFWuf.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-10T03:43:17.000Z",
+    "updatedAt": "2021-07-23T00:33:49.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/138802/Conveni_de_Kimi_to_no_5-funkan"
 }

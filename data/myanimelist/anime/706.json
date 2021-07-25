@@ -1,6 +1,8 @@
 {
   "altTitle": [
-    "Comic Party: Revolution, Comic Party Revolution TV, Comic Party Revolution (2005)",
+    "Comic Party: Revolution",
+    "Comic Party Revolution TV",
+    "Comic Party Revolution (2005)",
     "こみっくパーティー Revolution"
   ],
   "id": 706,
@@ -11,7 +13,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:07.000Z",
-  "updatedAt": "2021-04-26T06:27:25.000Z",
+  "updatedAt": "2021-07-18T07:33:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -66,6 +68,25 @@
         "aniId": 706,
         "createdAt": "2020-10-12T16:26:43.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "comic-party-revolution": {
+        "identifier": "comic-party-revolution",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Comic Party Revolution",
+        "url": "https://gogoanime.pe/category/comic-party-revolution",
+        "image": "https://gogocdn.net/cover/comic-party-revolution.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 706,
+        "aniId": 706,
+        "createdAt": "2021-07-18T07:33:44.000Z",
+        "updatedAt": "2021-07-18T08:02:20.000Z",
         "deletedAt": null
       }
     }

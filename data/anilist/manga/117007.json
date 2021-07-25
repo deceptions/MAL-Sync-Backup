@@ -17,5 +17,28 @@
   "createdAt": "2021-07-03T09:03:57.000Z",
   "updatedAt": "2021-07-03T09:03:57.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "1124100c-9604-4014-91b1-04b700706c33": {
+        "authors": [
+          "Bonkara"
+        ],
+        "identifier": "1124100c-9604-4014-91b1-04b700706c33",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Girls und Panzer: Avanti! Anzio Koukou",
+        "url": "https://mangadex.org/title/1124100c-9604-4014-91b1-04b700706c33",
+        "image": "https://uploads.mangadex.org/covers/1124100c-9604-4014-91b1-04b700706c33/2e02fb05-c839-4dd2-b8ef-aa421546e4d6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 117007,
+        "createdAt": "2020-10-12T16:18:48.000Z",
+        "updatedAt": "2021-07-19T08:13:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

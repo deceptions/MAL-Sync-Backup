@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-05-11T13:42:42.000Z",
-  "updatedAt": "2021-05-31T13:32:06.000Z",
+  "updatedAt": "2021-07-21T17:04:11.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaSee": {
@@ -59,6 +59,28 @@
         "aniId": 126693,
         "createdAt": "2021-05-31T13:32:07.000Z",
         "updatedAt": "2021-05-31T13:52:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "choujin_x": {
+        "authors": [
+          "ISHIDA Sui"
+        ],
+        "identifier": "choujin_x",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Choujin X",
+        "url": "https://fanfox.net/manga/choujin_x/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38704/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131403,
+        "aniId": 126693,
+        "createdAt": "2021-07-21T17:04:09.000Z",
+        "updatedAt": "2021-07-21T17:33:47.000Z",
         "deletedAt": null
       }
     }

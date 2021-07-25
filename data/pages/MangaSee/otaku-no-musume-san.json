@@ -11,13 +11,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 738,
+  "aniId": 30738,
   "createdAt": "2021-04-07T08:08:52.000Z",
-  "updatedAt": "2021-04-07T08:08:52.000Z",
+  "updatedAt": "2021-07-23T07:33:49.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Otaku's Daughter",
+      "Otaku no Musume-san",
+      "おたくの娘さん"
+    ],
+    "authors": [
+      "stuhiro"
+    ],
+    "id": 738,
+    "type": "manga",
+    "title": "Otaku no Musume-san",
+    "url": "https://myanimelist.net/manga/738/Otaku_no_Musume-san",
+    "image": "https://cdn.myanimelist.net/images/manga/3/50389.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:25.000Z",
+    "updatedAt": "2021-07-03T02:34:58.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "おたくの娘さん",
+      "Otaku's Daughter",
+      "Otaki no Musume-san",
+      "La figlia dell'otaku"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sutahiro"
+    ],
+    "id": 30738,
+    "malId": 738,
+    "type": "manga",
+    "title": "Otaku no Musume-san",
+    "url": "https://anilist.co/manga/30738",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/738.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:35:43.000Z",
+    "updatedAt": "2021-06-17T08:50:55.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/738/Otaku_no_Musume-san"
 }

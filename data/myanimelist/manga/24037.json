@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:12.000Z",
-  "updatedAt": "2021-06-14T07:57:46.000Z",
+  "updatedAt": "2021-07-22T10:34:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,28 @@
         "aniId": 54037,
         "createdAt": "2021-06-14T07:57:44.000Z",
         "updatedAt": "2021-06-14T08:27:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tokyo_ravens": {
+        "authors": [
+          "AZANO Kouhei"
+        ],
+        "identifier": "tokyo_ravens",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tokyo Ravens",
+        "url": "https://fanfox.net/manga/tokyo_ravens/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9069/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24037,
+        "aniId": 54037,
+        "createdAt": "2021-07-22T10:34:19.000Z",
+        "updatedAt": "2021-07-22T11:03:49.000Z",
         "deletedAt": null
       }
     }

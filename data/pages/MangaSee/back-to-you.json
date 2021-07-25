@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 114599,
   "createdAt": "2021-01-08T20:51:52.000Z",
-  "updatedAt": "2021-05-09T05:17:24.000Z",
+  "updatedAt": "2021-07-20T07:23:19.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Back to You",
+      "아는 여자애",
+      "Just a Girl He Knows"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Honey B"
+    ],
+    "id": 114599,
+    "malId": null,
+    "type": "manga",
+    "title": "Aneun Yeojaae",
+    "url": "https://anilist.co/manga/114599",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114599-X5xGNqRR6wvx.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T23:12:57.000Z",
+    "updatedAt": "2021-06-21T14:55:26.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

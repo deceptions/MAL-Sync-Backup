@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:10.000Z",
-  "updatedAt": "2021-04-26T09:27:39.000Z",
+  "updatedAt": "2021-07-19T14:04:51.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -46,6 +46,42 @@
         "aniId": 961,
         "createdAt": "2020-10-12T15:52:30.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "virtua-fighter-dub": {
+        "identifier": "virtua-fighter-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Virtua Fighter (Dub)",
+        "url": "https://gogoanime.pe/category/virtua-fighter-dub",
+        "image": "https://gogocdn.net/cover/virtua-fighter-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 961,
+        "aniId": 961,
+        "createdAt": "2021-07-19T14:04:42.000Z",
+        "updatedAt": "2021-07-19T14:32:25.000Z",
+        "deletedAt": null
+      },
+      "virtua-fighter": {
+        "identifier": "virtua-fighter",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Virtua Fighter",
+        "url": "https://gogoanime.pe/category/virtua-fighter",
+        "image": "https://gogocdn.net/cover/virtua-fighter.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 961,
+        "aniId": 961,
+        "createdAt": "2021-07-19T14:04:51.000Z",
+        "updatedAt": "2021-07-19T14:32:25.000Z",
         "deletedAt": null
       }
     }

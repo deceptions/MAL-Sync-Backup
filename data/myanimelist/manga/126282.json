@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-04T05:24:49.000Z",
-  "updatedAt": "2021-06-07T18:37:31.000Z",
+  "updatedAt": "2021-07-20T19:03:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 102886,
         "createdAt": "2020-10-12T16:18:36.000Z",
         "updatedAt": "2021-06-07T19:12:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ia985435": {
+        "authors": [
+          "Kuroi Ransuke",
+          "Momota Tetsu"
+        ],
+        "identifier": "manga-ia985435",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Chijou 100-Kai",
+        "url": "https://readmanganato.com/manga-ia985435",
+        "image": "https://avt.mkklcdnv6temp.com/15/o/21-1589820614.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 126282,
+        "aniId": 102886,
+        "createdAt": "2021-07-20T19:03:47.000Z",
+        "updatedAt": "2021-07-21T08:03:47.000Z",
         "deletedAt": null
       }
     }

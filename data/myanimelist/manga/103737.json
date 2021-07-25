@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:51.000Z",
-  "updatedAt": "2021-05-18T02:55:14.000Z",
+  "updatedAt": "2021-07-19T03:33:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,6 +78,28 @@
         "aniId": 99086,
         "createdAt": "2021-05-31T09:17:51.000Z",
         "updatedAt": "2021-05-31T09:30:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xv974778": {
+        "authors": [
+          "Itou Hachi"
+        ],
+        "identifier": "manga-xv974778",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Goshujin-Sama To Kemonomimi No Shoujo Meru",
+        "url": "https://readmanganato.com/manga-xv974778",
+        "image": "https://avt.mkklcdnv6temp.com/49/f/14-1583491447.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103737,
+        "aniId": 99086,
+        "createdAt": "2021-07-19T03:32:23.000Z",
+        "updatedAt": "2021-07-19T04:02:23.000Z",
         "deletedAt": null
       }
     }

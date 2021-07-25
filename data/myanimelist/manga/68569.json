@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:14.000Z",
-  "updatedAt": "2021-04-11T14:51:58.000Z",
+  "updatedAt": "2021-07-22T11:35:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -100,6 +100,28 @@
         "aniId": 85380,
         "createdAt": "2021-03-29T18:00:52.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ks961927": {
+        "authors": [
+          "Yamanashi Kaname"
+        ],
+        "identifier": "manga-ks961927",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Onimote",
+        "url": "https://manganato.com/manga-ks961927",
+        "image": "https://avt.mkklcdnv6temp.com/4/d/8-1583478334.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68569,
+        "aniId": 85380,
+        "createdAt": "2021-07-22T11:34:51.000Z",
+        "updatedAt": "2021-07-22T12:03:48.000Z",
         "deletedAt": null
       }
     }

@@ -18,5 +18,28 @@
   "createdAt": "2021-06-14T02:08:19.000Z",
   "updatedAt": "2021-06-21T15:19:53.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-gu984329": {
+        "authors": [
+          "Wol Yeonjae"
+        ],
+        "identifier": "manga-gu984329",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "6 Worlds Of Cultivation",
+        "url": "https://manganato.com/manga-gu984329",
+        "image": "https://avt.mkklcdnv6temp.com/22/d/20-1583501874.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 117094,
+        "createdAt": "2021-07-20T22:33:47.000Z",
+        "updatedAt": "2021-07-20T22:33:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

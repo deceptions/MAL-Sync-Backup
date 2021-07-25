@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:06.000Z",
-  "updatedAt": "2021-06-01T15:32:41.000Z",
+  "updatedAt": "2021-07-19T14:05:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 99536,
         "createdAt": "2020-12-16T13:55:35.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "talentless_nana": {
+        "authors": [
+          "Looseboy"
+        ],
+        "identifier": "talentless_nana",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Talentless Nana",
+        "url": "https://fanfox.net/manga/talentless_nana/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25801/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 107500,
+        "aniId": 99536,
+        "createdAt": "2020-12-17T18:26:18.000Z",
+        "updatedAt": "2021-07-19T17:18:32.000Z",
         "deletedAt": null
       }
     }

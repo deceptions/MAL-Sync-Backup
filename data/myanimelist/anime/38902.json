@@ -11,7 +11,7 @@
   "category": "ONA",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:07.000Z",
-  "updatedAt": "2021-05-01T11:02:01.000Z",
+  "updatedAt": "2021-07-21T05:33:49.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +30,25 @@
         "aniId": 107874,
         "createdAt": "2020-10-12T15:56:29.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "prison-lab": {
+        "identifier": "prison-lab",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Prison Lab",
+        "url": "https://gogoanime.pe/category/prison-lab",
+        "image": "https://gogocdn.net/cover/prison-lab.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38902,
+        "aniId": 107874,
+        "createdAt": "2021-07-21T05:33:48.000Z",
+        "updatedAt": "2021-07-21T06:03:47.000Z",
         "deletedAt": null
       }
     }

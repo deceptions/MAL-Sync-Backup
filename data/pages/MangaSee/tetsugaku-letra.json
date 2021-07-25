@@ -11,13 +11,50 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 30779,
+  "aniId": 60779,
   "createdAt": "2021-01-28T18:56:02.000Z",
-  "updatedAt": "2021-01-28T18:56:02.000Z",
+  "updatedAt": "2021-07-20T16:03:47.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "鉄楽レトラ"
+    ],
+    "authors": [
+      "Yumeka, Sumomo"
+    ],
+    "id": 30779,
+    "type": "manga",
+    "title": "Tetsugaku Letra",
+    "url": "https://myanimelist.net/manga/30779/Tetsugaku_Letra",
+    "image": "https://cdn.myanimelist.net/images/manga/2/54189.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:43:42.000Z",
+    "updatedAt": "2021-07-04T03:45:36.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "鉄楽レトラ",
+      "Música de Acero"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sumomo Yumeka"
+    ],
+    "id": 60779,
+    "malId": 30779,
+    "type": "manga",
+    "title": "Tetsugaku Letra",
+    "url": "https://anilist.co/manga/60779",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx60779-ZhIlqJwxPm7R.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:47:42.000Z",
+    "updatedAt": "2021-06-17T18:47:43.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/30779/Tetsugaku_Letra"
 }

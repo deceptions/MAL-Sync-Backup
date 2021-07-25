@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-19T03:33:29.000Z",
-  "updatedAt": "2021-02-19T03:33:29.000Z",
+  "updatedAt": "2021-07-20T12:35:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 123454,
         "createdAt": "2020-10-12T16:20:48.000Z",
         "updatedAt": "2021-06-08T00:56:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ij985992": {
+        "authors": [
+          "Akimoto Aki"
+        ],
+        "identifier": "manga-ij985992",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mechanical Marie",
+        "url": "https://manganato.com/manga-ij985992",
+        "image": "https://avt.mkklcdnv6temp.com/38/z/21-1595823059.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132397,
+        "aniId": 123454,
+        "createdAt": "2021-07-20T12:34:44.000Z",
+        "updatedAt": "2021-07-20T13:03:48.000Z",
         "deletedAt": null
       }
     }

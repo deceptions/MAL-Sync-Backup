@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:21.000Z",
-  "updatedAt": "2021-03-26T01:19:50.000Z",
+  "updatedAt": "2021-07-20T23:34:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 30385,
         "createdAt": "2021-03-26T01:19:51.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-se969661": {
+        "authors": [
+          "Sanbe Kei"
+        ],
+        "identifier": "manga-se969661",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kamiyadori",
+        "url": "https://readmanganato.com/manga-se969661",
+        "image": "https://avt.mkklcdnv6temp.com/6/o/13-1583487966.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 385,
+        "aniId": 30385,
+        "createdAt": "2021-07-20T23:34:00.000Z",
+        "updatedAt": "2021-07-21T00:03:47.000Z",
         "deletedAt": null
       }
     }

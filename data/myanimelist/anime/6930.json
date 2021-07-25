@@ -1,7 +1,8 @@
 {
   "altTitle": [
     "Doraemon the Movie: The Record of Nobita's Spaceblazer",
-    "Doraemon: The New Record of Nobita - Spaceblazer, Doraemon The Hero 2009",
+    "Doraemon: The New Record of Nobita - Spaceblazer",
+    "Doraemon The Hero 2009",
     "映画 ドラえもん 新・のび太の宇宙開拓史"
   ],
   "id": 6930,
@@ -12,7 +13,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:54.000Z",
-  "updatedAt": "2021-04-28T16:18:30.000Z",
+  "updatedAt": "2021-07-22T13:04:22.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -31,6 +32,25 @@
         "aniId": 6930,
         "createdAt": "2020-10-12T15:57:01.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "doraemon-the-new-record-of-nobita-spaceblazer": {
+        "identifier": "doraemon-the-new-record-of-nobita-spaceblazer",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Doraemon: The New Record of Nobita - Spaceblazer",
+        "url": "https://gogoanime.pe/category/doraemon-the-new-record-of-nobita-spaceblazer",
+        "image": "https://gogocdn.net/images/anime/D/Doraemon-movie-2009.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6930,
+        "aniId": 6930,
+        "createdAt": "2021-07-22T13:04:12.000Z",
+        "updatedAt": "2021-07-22T13:33:48.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:48.000Z",
-  "updatedAt": "2021-05-05T10:32:40.000Z",
+  "updatedAt": "2021-07-24T01:22:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 64039,
         "createdAt": "2020-10-12T16:08:54.000Z",
         "updatedAt": "2021-06-04T13:34:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xc953711": {
+        "authors": [
+          "Matsuyama Seiji"
+        ],
+        "identifier": "manga-xc953711",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Okusama Wa Shougakusei",
+        "url": "https://manganato.com/manga-xc953711",
+        "image": "https://avt.mkklcdnv6temp.com/32/x/2-1583466969.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34039,
+        "aniId": 64039,
+        "createdAt": "2021-07-24T01:22:36.000Z",
+        "updatedAt": "2021-07-24T01:51:33.000Z",
         "deletedAt": null
       }
     }

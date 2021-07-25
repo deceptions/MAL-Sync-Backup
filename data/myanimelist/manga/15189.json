@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:10.000Z",
-  "updatedAt": "2021-02-03T03:02:06.000Z",
+  "updatedAt": "2021-07-20T22:33:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -99,6 +99,28 @@
         "aniId": 45189,
         "createdAt": "2021-02-03T03:02:06.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bm956695": {
+        "authors": [
+          "Kitakawa Touta"
+        ],
+        "identifier": "manga-bm956695",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Seishun Pop!",
+        "url": "https://manganato.com/manga-bm956695",
+        "image": "https://avt.mkklcdnv6temp.com/24/h/4-1583470684.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15189,
+        "aniId": 45189,
+        "createdAt": "2021-07-20T22:33:48.000Z",
+        "updatedAt": "2021-07-20T23:03:48.000Z",
         "deletedAt": null
       }
     }

@@ -12,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 1,
+  "malId": 134045,
   "aniId": null,
   "createdAt": "2020-10-12T16:19:44.000Z",
-  "updatedAt": "2021-06-07T22:32:36.000Z",
+  "updatedAt": "2021-07-23T07:33:08.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "altTitle": [
+      "Last Order: Hitori Bocchi no Hyakunen Sensou",
+      "Last Order: One Hundred Years of a Solitary War",
+      "ラストオーダー"
+    ],
+    "authors": [
+      "Matsuba, Satoru",
+      "Hamamatsu, Kasuga"
+    ],
+    "id": 134045,
+    "type": "manga",
+    "title": "Last Order",
+    "url": "https://myanimelist.net/manga/134045/Last_Order",
+    "image": "https://cdn.myanimelist.net/images/manga/1/241418.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-05-29T03:45:16.000Z",
+    "updatedAt": "2021-07-23T01:35:11.000Z",
+    "deletedAt": null
+  },
   "Anilist": null,
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/134045/Last_Order"
 }

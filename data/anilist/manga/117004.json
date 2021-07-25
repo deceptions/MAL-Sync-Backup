@@ -68,6 +68,28 @@
         "updatedAt": "2021-05-30T17:12:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kiruru_kill_me": {
+        "authors": [
+          "KANOU Yasuhiro"
+        ],
+        "identifier": "kiruru_kill_me",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kiruru Kill Me",
+        "url": "https://fanfox.net/manga/kiruru_kill_me/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36588/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125043,
+        "aniId": 117004,
+        "createdAt": "2021-07-19T11:32:35.000Z",
+        "updatedAt": "2021-07-19T12:02:25.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

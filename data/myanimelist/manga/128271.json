@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-05-29T10:43:25.000Z",
-  "updatedAt": "2021-05-29T10:43:25.000Z",
+  "updatedAt": "2021-07-19T14:03:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 119703,
         "createdAt": "2021-05-29T10:43:25.000Z",
         "updatedAt": "2021-05-29T11:12:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai_ayase_if": {
+        "authors": [
+          "FUSHIMI Tsukasa"
+        ],
+        "identifier": "ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai_ayase_if",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai Ayase If",
+        "url": "https://fanfox.net/manga/ore_no_imouto_ga_konna_ni_kawaii_wake_ga_nai_ayase_if/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34644/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128271,
+        "aniId": 119703,
+        "createdAt": "2021-07-19T14:03:09.000Z",
+        "updatedAt": "2021-07-19T14:32:25.000Z",
         "deletedAt": null
       }
     }

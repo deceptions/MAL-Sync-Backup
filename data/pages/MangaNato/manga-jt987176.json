@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 136937,
   "createdAt": "2021-06-02T13:01:45.000Z",
-  "updatedAt": "2021-07-17T03:02:22.000Z",
+  "updatedAt": "2021-07-21T19:22:59.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "괴물공작의 딸",
+      "Monster Duke's Daughter"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Challan",
+      "Ba-Da Han"
+    ],
+    "id": 136937,
+    "malId": null,
+    "type": "manga",
+    "title": "Goemulgongjagui Ttal",
+    "url": "https://anilist.co/manga/136937",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136937-8ybubo2qPsbB.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-21T17:04:20.000Z",
+    "updatedAt": "2021-07-21T17:04:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

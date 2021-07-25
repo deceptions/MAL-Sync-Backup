@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:58.000Z",
-  "updatedAt": "2021-06-15T11:29:07.000Z",
+  "updatedAt": "2021-07-24T15:51:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +81,28 @@
         "aniId": 65191,
         "createdAt": "2021-06-15T11:28:57.000Z",
         "updatedAt": "2021-06-15T11:57:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "improper_capture_method_of_classmates_labyrinth": {
+        "authors": [
+          "KONYA Yukio"
+        ],
+        "identifier": "improper_capture_method_of_classmates_labyrinth",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Classmate to Meikyuu no Futekisetsu na Kouryakuhou",
+        "url": "https://fanfox.net/manga/improper_capture_method_of_classmates_labyrinth/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10668/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35191,
+        "aniId": 65191,
+        "createdAt": "2021-07-24T15:51:34.000Z",
+        "updatedAt": "2021-07-24T16:21:33.000Z",
         "deletedAt": null
       }
     }

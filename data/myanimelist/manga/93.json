@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:18.000Z",
-  "updatedAt": "2021-06-04T02:19:17.000Z",
+  "updatedAt": "2021-07-20T03:20:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 30093,
         "createdAt": "2021-02-21T01:04:00.000Z",
         "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-rh960916": {
+        "authors": [
+          "Sugisaki Yukiru"
+        ],
+        "identifier": "manga-rh960916",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Candidate For Goddess",
+        "url": "https://manganato.com/manga-rh960916",
+        "image": "https://avt.mkklcdnv6temp.com/19/r/7-1583477006.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93,
+        "aniId": 30093,
+        "createdAt": "2021-07-20T03:20:42.000Z",
+        "updatedAt": "2021-07-20T03:48:32.000Z",
         "deletedAt": null
       }
     }

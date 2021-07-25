@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:02.000Z",
-  "updatedAt": "2021-04-25T23:57:43.000Z",
+  "updatedAt": "2021-07-18T05:32:47.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -47,6 +47,25 @@
         "aniId": 289,
         "createdAt": "2020-10-12T15:53:01.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "comic-party": {
+        "identifier": "comic-party",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Comic Party",
+        "url": "https://gogoanime.pe/category/comic-party",
+        "image": "https://gogocdn.net/cover/comic-party.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 289,
+        "aniId": 289,
+        "createdAt": "2021-07-18T05:32:45.000Z",
+        "updatedAt": "2021-07-18T06:02:20.000Z",
         "deletedAt": null
       }
     }

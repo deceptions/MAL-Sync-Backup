@@ -95,6 +95,28 @@
         "updatedAt": "2021-05-31T13:52:54.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hellstar_remina": {
+        "authors": [
+          "ITOU Junji"
+        ],
+        "identifier": "hellstar_remina",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hellstar Remina",
+        "url": "https://fanfox.net/manga/hellstar_remina/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5355/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3992,
+        "aniId": 33992,
+        "createdAt": "2021-07-23T04:04:06.000Z",
+        "updatedAt": "2021-07-23T04:33:48.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

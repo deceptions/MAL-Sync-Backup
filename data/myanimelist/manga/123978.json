@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:12.000Z",
-  "updatedAt": "2021-05-25T02:38:18.000Z",
+  "updatedAt": "2021-07-21T17:04:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 113461,
         "createdAt": "2021-06-05T13:20:22.000Z",
         "updatedAt": "2021-06-05T13:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "saihate_no_solte": {
+        "authors": [
+          "MIZUKAMI Satoshi"
+        ],
+        "identifier": "saihate_no_solte",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Saihate no Solte",
+        "url": "https://fanfox.net/manga/saihate_no_solte/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32677/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123978,
+        "aniId": 113461,
+        "createdAt": "2021-07-21T17:04:23.000Z",
+        "updatedAt": "2021-07-21T17:33:47.000Z",
         "deletedAt": null
       }
     }

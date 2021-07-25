@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:40.000Z",
-  "updatedAt": "2021-01-25T09:12:29.000Z",
+  "updatedAt": "2021-07-19T00:33:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,29 @@
         "aniId": 109072,
         "createdAt": "2020-12-28T18:17:08.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-em981547": {
+        "authors": [
+          "Rasahan",
+          "Kt60"
+        ],
+        "identifier": "manga-em981547",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Level Up Just By Eating",
+        "url": "https://manganato.com/manga-em981547",
+        "image": "https://avt.mkklcdnv6temp.com/18/x/18-1583497828.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 115978,
+        "aniId": 109072,
+        "createdAt": "2021-05-28T18:23:35.000Z",
+        "updatedAt": "2021-07-19T08:32:23.000Z",
         "deletedAt": null
       }
     }

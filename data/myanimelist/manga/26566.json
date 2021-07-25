@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:26.000Z",
-  "updatedAt": "2021-05-09T13:18:32.000Z",
+  "updatedAt": "2021-07-21T21:05:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 56566,
         "createdAt": "2021-05-09T13:18:33.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ws973575": {
+        "authors": [
+          "Karasuma Wataru"
+        ],
+        "identifier": "manga-ws973575",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Not Lives",
+        "url": "https://manganato.com/manga-ws973575",
+        "image": "https://avt.mkklcdnv6temp.com/33/x/14-1583490931.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26566,
+        "aniId": 56566,
+        "createdAt": "2021-07-21T21:05:11.000Z",
+        "updatedAt": "2021-07-21T21:33:47.000Z",
         "deletedAt": null
       }
     }

@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-02T20:12:22.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "star_like_words": {
+        "authors": [
+          "Junko"
+        ],
+        "identifier": "star_like_words",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Star-like Words",
+        "url": "https://fanfox.net/manga/star_like_words/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10375/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25682,
+        "aniId": 55682,
+        "createdAt": "2021-07-20T07:19:42.000Z",
+        "updatedAt": "2021-07-20T07:26:02.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

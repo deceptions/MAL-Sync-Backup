@@ -19,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:12.000Z",
-  "updatedAt": "2021-06-04T13:49:38.000Z",
+  "updatedAt": "2021-07-20T21:35:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -55,6 +55,40 @@
         "aniId": 96027,
         "createdAt": "2020-10-12T16:08:54.000Z",
         "updatedAt": "2021-06-04T14:34:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wl953646": {
+        "authors": [
+          "Arikawa Kinu",
+          "Ashida Yuri",
+          "Bkub",
+          "Bokupikka",
+          "Chacha",
+          "Emiri",
+          "Hitsujibako",
+          "Ichimi",
+          "Ishizaka Kenta",
+          "Kaname Nagi",
+          "Naharu",
+          "Nekomint",
+          "Sakaguchi"
+        ],
+        "identifier": "manga-wl953646",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Himegoto Comic Anthology",
+        "url": "https://manganato.com/manga-wl953646",
+        "image": "https://avt.mkklcdnv6temp.com/30/n/2-1583466876.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93120,
+        "aniId": 96027,
+        "createdAt": "2021-07-20T21:35:15.000Z",
+        "updatedAt": "2021-07-20T22:03:47.000Z",
         "deletedAt": null
       }
     }

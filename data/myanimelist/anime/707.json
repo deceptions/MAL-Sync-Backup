@@ -10,7 +10,7 @@
   "category": "Special",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:07.000Z",
-  "updatedAt": "2021-04-26T06:27:15.000Z",
+  "updatedAt": "2021-07-18T04:03:03.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -46,6 +46,25 @@
         "aniId": 707,
         "createdAt": "2020-10-12T15:50:24.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "comic-party-specials": {
+        "identifier": "comic-party-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Comic Party Specials",
+        "url": "https://gogoanime.pe/category/comic-party-specials",
+        "image": "https://gogocdn.net/cover/comic-party-specials.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 707,
+        "aniId": 707,
+        "createdAt": "2021-07-18T04:02:52.000Z",
+        "updatedAt": "2021-07-18T04:32:20.000Z",
         "deletedAt": null
       }
     }

@@ -15,5 +15,44 @@
   "createdAt": "2021-05-22T10:12:57.000Z",
   "updatedAt": "2021-06-28T23:49:24.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "home": {
+        "identifier": "home",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Home!",
+        "url": "https://gogoanime.pe/category/home",
+        "image": "https://gogocdn.net/cover/home.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48577,
+        "aniId": 130846,
+        "createdAt": "2021-07-18T16:32:20.000Z",
+        "updatedAt": "2021-07-18T17:02:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "yq1mz": {
+        "identifier": "yq1mz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Home!",
+        "url": "https://www12.9anime.to/watch/home.yq1mz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/60/602975ffc91312276ffba50a57c0afc0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48577,
+        "aniId": 130846,
+        "createdAt": "2021-07-18T18:02:51.000Z",
+        "updatedAt": "2021-07-18T18:32:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

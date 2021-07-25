@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:15.000Z",
-  "updatedAt": "2021-05-01T14:32:41.000Z",
+  "updatedAt": "2021-07-19T23:19:38.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -68,6 +68,25 @@
         "aniId": 115656,
         "createdAt": "2020-10-12T16:00:05.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4128": {
+        "identifier": "4128",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Cardfight!! Vanguard Gaiden: If",
+        "url": "https://pahe.win/a/4128",
+        "image": "https://i.animepahe.com/posters/04849f587ada32c9226166d05b01bc1df3649e1085ab64aed714424d42d33b34.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41283,
+        "aniId": 115656,
+        "createdAt": "2021-07-19T23:19:36.000Z",
+        "updatedAt": "2021-07-19T23:48:31.000Z",
         "deletedAt": null
       }
     }

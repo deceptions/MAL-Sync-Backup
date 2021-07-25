@@ -13,9 +13,9 @@
   "active": true,
   "actor": 2,
   "malId": 114192,
-  "aniId": null,
+  "aniId": 101538,
   "createdAt": "2020-10-12T16:12:24.000Z",
-  "updatedAt": "2021-06-05T15:32:37.000Z",
+  "updatedAt": "2021-07-25T00:51:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,25 @@
     "updatedAt": "2021-06-05T14:51:37.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "蝶と花の関係性"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Akabeko"
+    ],
+    "id": 101538,
+    "malId": 114192,
+    "type": "manga",
+    "title": "Chou to Hana no Kankeisei",
+    "url": "https://anilist.co/manga/101538",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101538-QcLnULJnHZDA.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-07-25T00:21:34.000Z",
+    "updatedAt": "2021-07-25T00:21:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/114192/Chou_to_Hana_no_Kankeisei"
 }

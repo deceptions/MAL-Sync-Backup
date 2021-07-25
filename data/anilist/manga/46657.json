@@ -39,6 +39,50 @@
         "updatedAt": "2021-06-02T11:15:31.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "ability_shop": {
+        "authors": [
+          "TASHIRO Tetsuya"
+        ],
+        "identifier": "ability_shop",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ability Shop",
+        "url": "https://fanfox.net/manga/ability_shop/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6781/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16657,
+        "aniId": 46657,
+        "createdAt": "2021-07-20T19:04:08.000Z",
+        "updatedAt": "2021-07-20T19:33:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qr960774": {
+        "authors": [
+          "Tashiro Tetsuya"
+        ],
+        "identifier": "manga-qr960774",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ability Shop",
+        "url": "https://manganato.com/manga-qr960774",
+        "image": "https://avt.mkklcdnv6temp.com/14/f/7-1583476818.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16657,
+        "aniId": 46657,
+        "createdAt": "2021-07-21T06:04:49.000Z",
+        "updatedAt": "2021-07-21T06:33:47.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

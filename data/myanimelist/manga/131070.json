@@ -14,9 +14,55 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-04-28T14:19:40.000Z",
-  "updatedAt": "2021-06-13T16:40:13.000Z",
+  "updatedAt": "2021-07-18T05:02:25.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "29b7cf38-367e-4785-a7a0-3e92e57b09ef": {
+        "authors": [
+          "Yuuki Karaku",
+          "Pirota"
+        ],
+        "identifier": "29b7cf38-367e-4785-a7a0-3e92e57b09ef",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Virus Tensei kara Hajimaru Isekai Kansen Monogatari",
+        "url": "https://mangadex.org/title/29b7cf38-367e-4785-a7a0-3e92e57b09ef",
+        "image": "https://uploads.mangadex.org/covers/29b7cf38-367e-4785-a7a0-3e92e57b09ef/bc106f55-3c1c-425d-bb2f-8372dcd2be57.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 131070,
+        "aniId": 125619,
+        "createdAt": "2020-10-27T22:43:02.000Z",
+        "updatedAt": "2021-07-18T11:36:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "virus-tensei-kara-hajimaru-isekai-kansen-monogatari": {
+        "authors": [
+          "Pirota",
+          "YUUKI Karaku"
+        ],
+        "identifier": "virus-tensei-kara-hajimaru-isekai-kansen-monogatari",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Virus Tensei kara Hajimaru Isekai Kansen Monogatari",
+        "url": "https://mangasee123.com/manga/Virus-Tensei-kara-Hajimaru-Isekai-Kansen-Monogatari",
+        "image": "https://cover.nep.li/cover/Virus-Tensei-kara-Hajimaru-Isekai-Kansen-Monogatari.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 131070,
+        "aniId": 125619,
+        "createdAt": "2021-01-06T15:07:54.000Z",
+        "updatedAt": "2021-07-18T11:37:29.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaFox": {
       "virus_tensei_kara_isekai_kansen_monogatari": {
         "authors": [
@@ -54,11 +100,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
+        "actor": null,
         "malId": 131070,
         "aniId": 125619,
         "createdAt": "2021-05-31T09:03:37.000Z",
-        "updatedAt": "2021-06-13T18:46:23.000Z",
+        "updatedAt": "2021-07-18T13:33:32.000Z",
         "deletedAt": null
       }
     }

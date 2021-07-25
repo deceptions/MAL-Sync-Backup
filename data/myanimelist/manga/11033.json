@@ -11,7 +11,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-01T11:14:25.000Z",
-  "updatedAt": "2021-05-01T11:33:51.000Z",
+  "updatedAt": "2021-07-21T09:04:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -33,6 +33,28 @@
         "aniId": 41033,
         "createdAt": "2020-11-01T11:14:25.000Z",
         "updatedAt": "2021-06-08T06:27:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "boku_no_kawaii_hito": {
+        "authors": [
+          "HANADA Maco"
+        ],
+        "identifier": "boku_no_kawaii_hito",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Boku no Kawaii Hito",
+        "url": "https://fanfox.net/manga/boku_no_kawaii_hito/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4331/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11033,
+        "aniId": 41033,
+        "createdAt": "2021-07-21T09:03:47.000Z",
+        "updatedAt": "2021-07-21T09:33:47.000Z",
         "deletedAt": null
       }
     }

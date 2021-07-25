@@ -68,30 +68,29 @@
         "deletedAt": null
       }
     },
-    "MangaFox": {
-      "shingeki_no_kyojin_gaiden_kuinaki_sentaku": {
+    "MangaSee": {
+      "shingeki-no-kyojin-birth-of-levi": {
         "authors": [
           "ISAYAMA Hajime",
-          "SUNAAKU Gan"
+          "SUNAAKU Gan",
+          "SURUGA Hikaru"
         ],
-        "identifier": "shingeki_no_kyojin_gaiden_kuinaki_sentaku",
+        "identifier": "shingeki-no-kyojin-birth-of-levi",
         "type": "manga",
-        "page": "MangaFox",
-        "title": "Shingeki no Kyojin Gaiden - Kuinaki Sentaku",
-        "url": "https://fanfox.net/manga/shingeki_no_kyojin_gaiden_kuinaki_sentaku/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/13196/cover.jpg",
+        "page": "MangaSee",
+        "title": "Attack on Titan - No Regrets",
+        "url": "https://mangasee123.com/manga/Shingeki-No-Kyojin-Birth-Of-Levi",
+        "image": "https://cover.nep.li/cover/Shingeki-No-Kyojin-Birth-Of-Levi.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
+        "actor": 1,
         "malId": 58007,
         "aniId": 85199,
-        "createdAt": "2021-03-20T17:35:02.000Z",
-        "updatedAt": "2021-05-20T15:40:19.000Z",
+        "createdAt": "2020-12-16T19:26:32.000Z",
+        "updatedAt": "2021-07-23T15:21:34.000Z",
         "deletedAt": null
-      }
-    },
-    "MangaSee": {
+      },
       "attack-on-titan-no-regrets-color": {
         "authors": [
           "ISAYAMA Hajime",
@@ -112,6 +111,29 @@
         "aniId": 85199,
         "createdAt": "2021-06-07T16:41:06.000Z",
         "updatedAt": "2021-06-07T17:03:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shingeki_no_kyojin_gaiden_kuinaki_sentaku": {
+        "authors": [
+          "ISAYAMA Hajime",
+          "SUNAAKU Gan"
+        ],
+        "identifier": "shingeki_no_kyojin_gaiden_kuinaki_sentaku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shingeki no Kyojin Gaiden - Kuinaki Sentaku",
+        "url": "https://fanfox.net/manga/shingeki_no_kyojin_gaiden_kuinaki_sentaku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13196/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58007,
+        "aniId": 85199,
+        "createdAt": "2021-03-20T17:35:02.000Z",
+        "updatedAt": "2021-05-20T15:40:19.000Z",
         "deletedAt": null
       }
     }

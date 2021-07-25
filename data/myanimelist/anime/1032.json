@@ -11,7 +11,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:11.000Z",
-  "updatedAt": "2021-02-25T11:25:45.000Z",
+  "updatedAt": "2021-07-20T07:20:37.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -49,6 +49,25 @@
         "aniId": 1032,
         "createdAt": "2021-02-25T11:25:48.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "like-the-clouds-like-the-wind": {
+        "identifier": "like-the-clouds-like-the-wind",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Like the Clouds, Like the Wind",
+        "url": "https://gogoanime.pe/category/like-the-clouds-like-the-wind",
+        "image": "https://gogocdn.net/images/anime/L/Like-the-Clouds-Like-the-Wind.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1032,
+        "aniId": 1032,
+        "createdAt": "2021-07-20T07:20:29.000Z",
+        "updatedAt": "2021-07-20T07:26:02.000Z",
         "deletedAt": null
       }
     }

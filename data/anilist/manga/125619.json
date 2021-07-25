@@ -16,14 +16,14 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T14:13:40.000Z",
-  "updatedAt": "2021-06-18T10:53:11.000Z",
+  "updatedAt": "2021-07-20T11:17:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "29b7cf38-367e-4785-a7a0-3e92e57b09ef": {
         "authors": [
-          "Pirota",
-          "Yuuki Karaku"
+          "Yuuki Karaku",
+          "Pirota"
         ],
         "identifier": "29b7cf38-367e-4785-a7a0-3e92e57b09ef",
         "type": "manga",
@@ -34,11 +34,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
-        "malId": null,
+        "actor": 2,
+        "malId": 131070,
         "aniId": 125619,
         "createdAt": "2020-10-27T22:43:02.000Z",
-        "updatedAt": "2021-06-08T06:56:01.000Z",
+        "updatedAt": "2021-07-18T11:36:43.000Z",
         "deletedAt": null
       }
     },
@@ -57,11 +57,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
-        "malId": null,
+        "actor": 2,
+        "malId": 131070,
         "aniId": 125619,
         "createdAt": "2021-01-06T15:07:54.000Z",
-        "updatedAt": "2021-05-23T13:46:48.000Z",
+        "updatedAt": "2021-07-18T11:37:29.000Z",
         "deletedAt": null
       }
     },
@@ -102,11 +102,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
+        "actor": null,
         "malId": 131070,
         "aniId": 125619,
         "createdAt": "2021-05-31T09:03:37.000Z",
-        "updatedAt": "2021-06-13T18:46:23.000Z",
+        "updatedAt": "2021-07-18T13:33:32.000Z",
         "deletedAt": null
       }
     }

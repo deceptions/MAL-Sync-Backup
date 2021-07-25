@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:34.000Z",
-  "updatedAt": "2021-06-14T18:59:10.000Z",
+  "updatedAt": "2021-07-19T17:21:05.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -65,6 +65,23 @@
         "aniId": 3012,
         "createdAt": "2020-10-12T16:00:29.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "gekitou-crush-gear-turbo": {
+        "identifier": "gekitou-crush-gear-turbo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gekitou! Crush Gear Turbo",
+        "url": "https://gogoanime.pe/category/gekitou-crush-gear-turbo",
+        "image": "https://gogocdn.net/cover/gekitou-crush-gear-turbo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3012,
+        "aniId": 3012,
+        "createdAt": "2021-07-19T17:21:04.000Z",
+        "updatedAt": "2021-07-19T17:48:31.000Z",
         "deletedAt": null
       }
     }

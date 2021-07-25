@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 103332,
-  "aniId": null,
+  "aniId": 116602,
   "createdAt": "2020-10-12T16:10:21.000Z",
-  "updatedAt": "2021-06-05T08:44:03.000Z",
+  "updatedAt": "2021-07-24T06:51:34.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-06-05T00:19:57.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "山田くんと田中課長",
+      "Yamada-kun and Chief Tanaka"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ritsu Natsumizu"
+    ],
+    "id": 116602,
+    "malId": 103332,
+    "type": "manga",
+    "title": "Yamada-kun to Tanaka Kachou",
+    "url": "https://anilist.co/manga/116602",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116602-GDrbzm41XXSz.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-24T06:21:34.000Z",
+    "updatedAt": "2021-07-24T06:21:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/103332/Yamada-kun_to_Tanaka_Kachou"
 }

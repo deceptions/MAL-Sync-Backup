@@ -18,5 +18,28 @@
   "createdAt": "2021-06-25T06:14:54.000Z",
   "updatedAt": "2021-06-25T06:14:54.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-sk951545": {
+        "authors": [
+          "Yun Jun Sik"
+        ],
+        "identifier": "manga-sk951545",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Blade Note",
+        "url": "https://manganato.com/manga-sk951545",
+        "image": "https://avt.mkklcdnv6temp.com/8/m/1-1583464001.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 86982,
+        "createdAt": "2021-07-20T22:34:21.000Z",
+        "updatedAt": "2021-07-20T22:34:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

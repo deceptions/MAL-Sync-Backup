@@ -1,7 +1,9 @@
 {
   "altTitle": [
     "Tenjho Tenge",
-    "Tenjo Tenge, TenTen, Heaven and Earth",
+    "Tenjo Tenge",
+    "TenTen",
+    "Heaven and Earth",
     "天上天下"
   ],
   "authors": [
@@ -15,7 +17,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:17.000Z",
-  "updatedAt": "2021-03-23T17:15:41.000Z",
+  "updatedAt": "2021-07-20T22:34:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +82,26 @@
         "createdAt": "2021-02-12T13:40:39.000Z",
         "updatedAt": "2021-05-20T15:39:23.000Z",
         "deletedAt": null
+      },
+      "tenjo-tenge-color": {
+        "authors": [
+          "Oh! Great"
+        ],
+        "identifier": "tenjo-tenge-color",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tenjo Tenge - Color",
+        "url": "https://mangasee123.com/manga/Tenjo-Tenge-Color",
+        "image": "https://cover.nep.li/cover/Tenjo-Tenge-Color.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 73,
+        "aniId": 30073,
+        "createdAt": "2021-07-20T22:34:09.000Z",
+        "updatedAt": "2021-07-21T08:03:47.000Z",
+        "deletedAt": null
       }
     },
     "MangaFox": {
@@ -121,6 +143,28 @@
         "aniId": 30073,
         "createdAt": "2021-03-23T17:15:42.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ya959035": {
+        "authors": [
+          "Oh! Great"
+        ],
+        "identifier": "manga-ya959035",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tenjou Tenge",
+        "url": "https://readmanganato.com/manga-ya959035",
+        "image": "https://avt.mkklcdnv6temp.com/49/a/5-1583473804.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73,
+        "aniId": 30073,
+        "createdAt": "2021-07-21T00:35:32.000Z",
+        "updatedAt": "2021-07-21T01:03:47.000Z",
         "deletedAt": null
       }
     }

@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-05T11:26:46.000Z",
-  "updatedAt": "2021-03-06T18:33:05.000Z",
+  "updatedAt": "2021-07-24T13:51:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 118915,
         "createdAt": "2021-01-05T11:26:46.000Z",
         "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-im985421": {
+        "authors": [
+          "Oshima Towa"
+        ],
+        "identifier": "manga-im985421",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dai Shin You",
+        "url": "https://manganato.com/manga-im985421",
+        "image": "https://avt.mkklcdnv6temp.com/14/z/21-1589769595.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 126815,
+        "aniId": 118915,
+        "createdAt": "2021-07-24T13:51:34.000Z",
+        "updatedAt": "2021-07-24T14:51:34.000Z",
         "deletedAt": null
       }
     }

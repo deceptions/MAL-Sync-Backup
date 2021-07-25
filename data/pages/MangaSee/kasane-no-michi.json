@@ -14,9 +14,9 @@
   "active": true,
   "actor": null,
   "malId": 111181,
-  "aniId": null,
+  "aniId": 116802,
   "createdAt": "2021-06-03T03:30:50.000Z",
-  "updatedAt": "2021-06-03T03:30:50.000Z",
+  "updatedAt": "2021-07-19T20:48:31.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -38,6 +38,30 @@
     "updatedAt": "2021-05-20T21:43:07.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Kasane no Tao",
+      "かさねの道",
+      "Kasane no Michi",
+      "Kasane's Way",
+      "かさねの道 運命の出会い編"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tecchuu Imatani",
+      "Ken Iwasaki"
+    ],
+    "id": 116802,
+    "malId": 111181,
+    "type": "manga",
+    "title": "Kasane no Tao",
+    "url": "https://anilist.co/manga/116802",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116802-lxg6KpYv9qlb.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-19T20:18:32.000Z",
+    "updatedAt": "2021-07-19T20:18:32.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/111181/Kasane_no_Tao"
 }

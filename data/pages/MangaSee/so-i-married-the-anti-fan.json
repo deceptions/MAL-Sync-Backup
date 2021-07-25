@@ -12,13 +12,51 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 46998,
+  "aniId": 76998,
   "createdAt": "2021-06-12T16:08:51.000Z",
-  "updatedAt": "2021-07-16T17:04:01.000Z",
+  "updatedAt": "2021-07-24T14:51:34.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "So I Married an Anti-Fan",
+      "안티팬과 결혼했다"
+    ],
+    "authors": [
+      "Wann"
+    ],
+    "id": 46998,
+    "type": "manga",
+    "title": "So I Married an Anti-Fan",
+    "url": "https://myanimelist.net/manga/46998/So_I_Married_an_Anti-Fan",
+    "image": "https://cdn.myanimelist.net/images/manga/1/88357.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:44:28.000Z",
+    "updatedAt": "2021-07-18T03:32:32.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "So I Married an Anti-Fan",
+      "안티팬과 결혼했다"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Wann"
+    ],
+    "id": 76998,
+    "malId": 46998,
+    "type": "manga",
+    "title": "Geuraeseo Naneun Antipaengwa Gyeolhonhaetda",
+    "url": "https://anilist.co/manga/76998",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx76998-WjybpcNpt7Zg.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:49:32.000Z",
+    "updatedAt": "2021-06-17T20:31:49.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/46998/So_I_Married_an_Anti-Fan"
 }

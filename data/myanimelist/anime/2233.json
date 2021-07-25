@@ -1,6 +1,7 @@
 {
   "altTitle": [
-    "Tea-dog, Tea Dogs",
+    "Tea-dog",
+    "Tea Dogs",
     "お茶犬 ちょこっとものがたり"
   ],
   "id": 2233,
@@ -11,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:27.000Z",
-  "updatedAt": "2021-04-27T05:49:50.000Z",
+  "updatedAt": "2021-07-21T12:34:11.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +31,25 @@
         "aniId": 2233,
         "createdAt": "2020-10-12T15:56:41.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ocha-ken-chokotto-monogatari": {
+        "identifier": "ocha-ken-chokotto-monogatari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ocha-ken: Chokotto Monogatari",
+        "url": "https://gogoanime.pe/category/ocha-ken-chokotto-monogatari",
+        "image": "https://gogocdn.net/cover/ocha-ken-chokotto-monogatari.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2233,
+        "aniId": 2233,
+        "createdAt": "2021-07-21T12:34:09.000Z",
+        "updatedAt": "2021-07-21T13:03:47.000Z",
         "deletedAt": null
       }
     }

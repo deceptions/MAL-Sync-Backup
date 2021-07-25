@@ -1,6 +1,8 @@
 {
   "altTitle": [
-    "Flag Time, Flagtime, Frag Time",
+    "Flag Time",
+    "Flagtime",
+    "Frag Time",
     "フラグタイム"
   ],
   "authors": [
@@ -14,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:50.000Z",
-  "updatedAt": "2021-06-04T21:20:19.000Z",
+  "updatedAt": "2021-07-24T16:52:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +82,28 @@
         "aniId": 85402,
         "createdAt": "2021-06-04T21:20:19.000Z",
         "updatedAt": "2021-06-04T21:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "fragtime": {
+        "authors": [
+          "Sato"
+        ],
+        "identifier": "fragtime",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fragtime",
+        "url": "https://fanfox.net/manga/fragtime/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13148/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57401,
+        "aniId": 85402,
+        "createdAt": "2021-07-24T16:52:41.000Z",
+        "updatedAt": "2021-07-24T17:21:34.000Z",
         "deletedAt": null
       }
     }

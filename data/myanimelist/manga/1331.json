@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:32.000Z",
-  "updatedAt": "2021-05-31T09:32:22.000Z",
+  "updatedAt": "2021-07-20T22:34:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 31331,
         "createdAt": "2021-05-31T09:32:23.000Z",
         "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pq966525": {
+        "authors": [
+          "Yoshida Motoi"
+        ],
+        "identifier": "manga-pq966525",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Koi Kaze",
+        "url": "https://manganato.com/manga-pq966525",
+        "image": "https://avt.mkklcdnv6temp.com/45/a/10-1583483790.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1331,
+        "aniId": 31331,
+        "createdAt": "2021-07-20T22:34:10.000Z",
+        "updatedAt": "2021-07-20T23:03:48.000Z",
         "deletedAt": null
       }
     }

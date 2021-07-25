@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 127211,
-  "aniId": null,
+  "aniId": 119618,
   "createdAt": "2021-07-07T17:59:55.000Z",
-  "updatedAt": "2021-07-07T18:00:47.000Z",
+  "updatedAt": "2021-07-19T22:48:31.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-07-07T18:00:47.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ヒーロー探偵ニック",
+      "Detective Hero Nick "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mitsunori Zaki"
+    ],
+    "id": 119618,
+    "malId": 127211,
+    "type": "manga",
+    "title": "Hero Tantei Nick",
+    "url": "https://anilist.co/manga/119618",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119618-CLEX54nPGc0j.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-19T22:18:32.000Z",
+    "updatedAt": "2021-07-19T22:18:32.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/127211/Hero_Tantei_Nick"
 }

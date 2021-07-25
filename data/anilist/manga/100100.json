@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-06T14:00:52.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hana_to_ikkun": {
+        "authors": [
+          "ABE Akane"
+        ],
+        "identifier": "hana_to_ikkun",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hana to Ikkun",
+        "url": "https://fanfox.net/manga/hana_to_ikkun/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25427/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109474,
+        "aniId": 100100,
+        "createdAt": "2021-07-20T07:20:14.000Z",
+        "updatedAt": "2021-07-20T07:26:02.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

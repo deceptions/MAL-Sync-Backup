@@ -17,5 +17,29 @@
   "createdAt": "2021-01-11T18:22:12.000Z",
   "updatedAt": "2021-06-03T13:20:37.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "tian_mei_de_yao_hen": {
+        "authors": [
+          "Rui Si",
+          "Yi Kai"
+        ],
+        "identifier": "tian_mei_de_yao_hen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tian Mei De Yao Hen",
+        "url": "https://fanfox.net/manga/tian_mei_de_yao_hen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25585/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116269,
+        "aniId": null,
+        "createdAt": "2021-01-13T08:27:33.000Z",
+        "updatedAt": "2021-07-13T08:45:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

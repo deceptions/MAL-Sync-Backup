@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:45.000Z",
-  "updatedAt": "2021-05-20T11:31:40.000Z",
+  "updatedAt": "2021-07-20T17:34:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,29 @@
         "aniId": 62471,
         "createdAt": "2021-05-20T11:31:47.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "dog-days": {
+        "authors": [
+          "FUJIMA Takuya",
+          "TSUZUKI Masaki"
+        ],
+        "identifier": "dog-days",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dog Days",
+        "url": "https://mangasee123.com/manga/Dog-Days",
+        "image": "https://cover.nep.li/cover/Dog-Days.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32471,
+        "aniId": 62471,
+        "createdAt": "2021-07-20T17:34:01.000Z",
+        "updatedAt": "2021-07-20T18:03:48.000Z",
         "deletedAt": null
       }
     }

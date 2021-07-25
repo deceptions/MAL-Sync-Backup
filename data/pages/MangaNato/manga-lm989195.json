@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 136849,
   "createdAt": "2021-06-21T12:51:35.000Z",
-  "updatedAt": "2021-06-21T12:51:35.000Z",
+  "updatedAt": "2021-07-19T17:13:29.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "중천수월령",
+      "The Golden Age"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Beo-Prong Yeo",
+      "Hui-Jin Park"
+    ],
+    "id": 136849,
+    "malId": null,
+    "type": "manga",
+    "title": "Jungcheonsuwollyeong",
+    "url": "https://anilist.co/manga/136849",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b136849-iUYvao0Z5xuv.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-19T17:02:31.000Z",
+    "updatedAt": "2021-07-19T17:02:31.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

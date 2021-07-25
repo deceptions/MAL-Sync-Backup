@@ -14,9 +14,9 @@
   "active": true,
   "actor": 1,
   "malId": 91699,
-  "aniId": null,
+  "aniId": 117722,
   "createdAt": "2020-10-12T16:08:43.000Z",
-  "updatedAt": "2021-06-04T12:52:00.000Z",
+  "updatedAt": "2021-07-21T09:33:47.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,27 @@
     "updatedAt": "2021-06-04T12:21:19.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "発情",
+      "Hatsujo"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Youko Toriumi",
+      "Kaoru Iwamoto"
+    ],
+    "id": 117722,
+    "malId": 91699,
+    "type": "manga",
+    "title": "Hatsujou",
+    "url": "https://anilist.co/manga/117722",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117722-OpwyJMlvGeGO.png",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-07-21T09:03:48.000Z",
+    "updatedAt": "2021-07-21T09:03:48.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/91699/Hatsujou"
 }

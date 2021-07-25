@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:27.000Z",
-  "updatedAt": "2021-03-24T16:19:03.000Z",
+  "updatedAt": "2021-07-20T02:50:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -79,6 +79,28 @@
         "aniId": 30893,
         "createdAt": "2021-03-24T16:19:13.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-oz958008": {
+        "authors": [
+          "Katakura Masanori"
+        ],
+        "identifier": "manga-oz958008",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mahou Tsukai Kurohime",
+        "url": "https://readmanganato.com/manga-oz958008",
+        "image": "https://avt.mkklcdnv6temp.com/12/p/5-1583472342.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 893,
+        "aniId": 30893,
+        "createdAt": "2021-07-20T02:50:19.000Z",
+        "updatedAt": "2021-07-20T03:18:32.000Z",
         "deletedAt": null
       }
     }

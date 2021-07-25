@@ -9,13 +9,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 124546,
   "createdAt": "2021-06-29T10:05:44.000Z",
-  "updatedAt": "2021-06-29T10:05:51.000Z",
+  "updatedAt": "2021-07-20T07:23:13.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "소녀 180",
+      "180少女",
+      "少女180"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Uwon Na",
+      "Della"
+    ],
+    "id": 124546,
+    "malId": null,
+    "type": "manga",
+    "title": "Sonyeo 180",
+    "url": "https://anilist.co/manga/124546",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124546-OUfzcx2joIly.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-07T21:50:36.000Z",
+    "updatedAt": "2021-06-21T16:25:37.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -17,7 +17,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:19.000Z",
-  "updatedAt": "2021-05-10T15:12:31.000Z",
+  "updatedAt": "2021-07-23T10:34:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,28 @@
         "aniId": 86961,
         "createdAt": "2020-10-12T16:07:40.000Z",
         "updatedAt": "2021-06-04T04:27:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wc953559": {
+        "authors": [
+          "Tomino Yoshiyuki Yatate Hajime"
+        ],
+        "identifier": "manga-wc953559",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kidou Senshi Gundam Gyakushuu No Char - Beltorchika Children",
+        "url": "https://manganato.com/manga-wc953559",
+        "image": "https://avt.mkklcdnv6temp.com/27/l/2-1583466760.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72431,
+        "aniId": 86961,
+        "createdAt": "2021-07-23T10:33:49.000Z",
+        "updatedAt": "2021-07-23T10:51:34.000Z",
         "deletedAt": null
       }
     }

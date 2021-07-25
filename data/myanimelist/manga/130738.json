@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-12-24T22:56:17.000Z",
-  "updatedAt": "2021-05-17T16:56:26.000Z",
+  "updatedAt": "2021-07-24T22:51:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 118416,
         "createdAt": "2020-10-12T16:21:19.000Z",
         "updatedAt": "2021-06-08T02:02:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ky987507": {
+        "authors": [
+          "Shibamiya Yuki"
+        ],
+        "identifier": "manga-ky987507",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Cursed Child's Servant",
+        "url": "https://manganato.com/manga-ky987507",
+        "image": "https://avt.mkklcdnv6temp.com/50/o/22-1609687978.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130738,
+        "aniId": 118416,
+        "createdAt": "2021-07-24T22:51:33.000Z",
+        "updatedAt": "2021-07-24T23:21:34.000Z",
         "deletedAt": null
       }
     }

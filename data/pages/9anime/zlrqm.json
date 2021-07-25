@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 39734,
-  "aniId": null,
+  "aniId": 112522,
   "createdAt": "2021-07-08T22:43:51.000Z",
-  "updatedAt": "2021-07-08T22:43:54.000Z",
+  "updatedAt": "2021-07-21T06:03:47.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -31,6 +31,23 @@
     "updatedAt": "2021-07-08T22:43:54.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "LINEノベル CMs",
+      "未来想像記"
+    ],
+    "externalLinks": [],
+    "id": 112522,
+    "malId": 39734,
+    "type": "anime",
+    "title": "LINE Novel CMs",
+    "url": "https://anilist.co/anime/112522",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112522-W6M3P8uoYGZh.png",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-07-08T21:13:16.000Z",
+    "updatedAt": "2021-07-21T05:33:48.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/39734/Line_Novel"
 }

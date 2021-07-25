@@ -10,14 +10,33 @@
   "image": "https://uploads.mangadex.org/covers/dc553eff-6dcb-4301-bdc9-81f3e2d9b7b6/dce1babd-721a-4a3a-aedb-449bff0939f1.png",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 122853,
   "createdAt": "2021-01-29T06:19:04.000Z",
-  "updatedAt": "2021-06-08T10:36:47.000Z",
+  "updatedAt": "2021-07-19T04:32:43.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "とある二人の週末"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Arashi Hino"
+    ],
+    "id": 122853,
+    "malId": null,
+    "type": "manga",
+    "title": "Toaru Futari no Shuumatsu",
+    "url": "https://anilist.co/manga/122853",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122853-6jCzNRdbMVKI.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-07-19T04:32:43.000Z",
+    "updatedAt": "2021-07-19T04:32:43.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

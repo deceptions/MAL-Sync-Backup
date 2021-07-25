@@ -10,14 +10,35 @@
   "image": "https://cover.nep.li/cover/SUPER-SENTAI-Himitsu-Sentai-Gorenger.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 129520,
   "createdAt": "2021-05-11T19:24:43.000Z",
-  "updatedAt": "2021-05-11T19:24:43.000Z",
+  "updatedAt": "2021-07-20T00:19:20.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "SUPER SENTAI: Himitsu Sentai Gorenger",
+      "秘密戦隊ゴレンジャー",
+      "Secret Task Force Goranger"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shoutarou Ishinomori"
+    ],
+    "id": 129520,
+    "malId": null,
+    "type": "manga",
+    "title": "Himitsu Sentai Gorenger",
+    "url": "https://anilist.co/manga/129520",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129520-dCuSfqyhsATf.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-20T00:19:20.000Z",
+    "updatedAt": "2021-07-20T00:19:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

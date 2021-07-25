@@ -20,5 +20,29 @@
   "createdAt": "2021-07-17T19:32:21.000Z",
   "updatedAt": "2021-07-17T19:32:21.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-jh987016": {
+        "authors": [
+          "Ban Hara",
+          "Jeon Hye-Jin"
+        ],
+        "identifier": "manga-jh987016",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Taming The Absolute Tyrant",
+        "url": "https://manganato.com/manga-jh987016",
+        "image": "https://avt.mkklcdnv6temp.com/30/f/22-1603426347.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 136794,
+        "createdAt": "2021-05-29T13:13:25.000Z",
+        "updatedAt": "2021-07-24T19:49:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

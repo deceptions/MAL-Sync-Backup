@@ -108,6 +108,28 @@
         "updatedAt": "2021-06-25T15:19:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hetalia": {
+        "authors": [
+          "Himaruya Hidekazu"
+        ],
+        "identifier": "hetalia",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hetalia",
+        "url": "https://fanfox.net/manga/hetalia/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6845/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 8878,
+        "aniId": 38878,
+        "createdAt": "2021-07-21T01:03:58.000Z",
+        "updatedAt": "2021-07-21T08:03:47.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

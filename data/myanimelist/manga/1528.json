@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:34.000Z",
-  "updatedAt": "2021-05-29T19:13:24.000Z",
+  "updatedAt": "2021-07-19T23:48:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -85,6 +85,51 @@
         "aniId": 31528,
         "createdAt": "2021-06-09T23:04:26.000Z",
         "updatedAt": "2021-06-09T23:34:14.000Z",
+        "deletedAt": null
+      },
+      "manga-ff983240": {
+        "authors": [
+          "Gorou Taniguchi",
+          "Tomofumi Ogasawara",
+          "Kojirou Taniguchi"
+        ],
+        "identifier": "manga-ff983240",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Code Geass: Lelouch Of The Rebellion Re",
+        "url": "https://manganato.com/manga-ff983240",
+        "image": "https://avt.mkklcdnv6temp.com/31/e/19-1583500326.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1528,
+        "aniId": 31528,
+        "createdAt": "2021-07-19T23:48:53.000Z",
+        "updatedAt": "2021-07-20T00:18:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "code_geass_lelouch_of_the_rebellion": {
+        "authors": [
+          "Goro Taniguchi",
+          "Ichiro Okouchi"
+        ],
+        "identifier": "code_geass_lelouch_of_the_rebellion",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Code Geass: Lelouch of the Rebellion",
+        "url": "https://fanfox.net/manga/code_geass_lelouch_of_the_rebellion/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/673/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1528,
+        "aniId": 31528,
+        "createdAt": "2021-07-21T01:33:50.000Z",
+        "updatedAt": "2021-07-21T02:03:47.000Z",
         "deletedAt": null
       }
     }

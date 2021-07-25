@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 134064,
   "createdAt": "2021-05-29T07:14:57.000Z",
-  "updatedAt": "2021-07-11T11:44:18.000Z",
+  "updatedAt": "2021-07-19T08:13:56.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "장씨세가 호위무사",
+      "Escort Warrior"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hyeonggeun Jo",
+      "Inho Kim"
+    ],
+    "id": 134064,
+    "malId": null,
+    "type": "manga",
+    "title": "Jangssisega howimusa",
+    "url": "https://anilist.co/manga/134064",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134064-FEuwIqb8kPJU.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-11T11:44:29.000Z",
+    "updatedAt": "2021-07-11T11:44:29.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

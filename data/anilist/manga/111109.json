@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-24T00:08:17.000Z",
-  "updatedAt": "2021-06-21T14:28:11.000Z",
+  "updatedAt": "2021-07-23T19:22:06.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-it986028": {
+        "authors": [
+          "Morning",
+          "Oh Yun"
+        ],
+        "identifier": "manga-it986028",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Duke’S Servant",
+        "url": "https://readmanganato.com/manga-it986028",
+        "image": "https://avt.mkklcdnv6temp.com/40/n/21-1596079930.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 111109,
+        "createdAt": "2021-07-23T19:21:55.000Z",
+        "updatedAt": "2021-07-23T19:22:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

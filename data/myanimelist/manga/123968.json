@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:12.000Z",
-  "updatedAt": "2021-06-07T00:48:58.000Z",
+  "updatedAt": "2021-07-22T16:34:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,28 @@
         "aniId": 110218,
         "createdAt": "2020-12-19T23:29:18.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fp982550": {
+        "authors": [
+          "Shinkai Makoto"
+        ],
+        "identifier": "manga-fp982550",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tenki No Ko",
+        "url": "https://manganato.com/manga-fp982550",
+        "image": "https://avt.mkklcdnv6temp.com/5/v/19-1583499301.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123968,
+        "aniId": 110218,
+        "createdAt": "2021-07-22T16:34:44.000Z",
+        "updatedAt": "2021-07-22T17:03:49.000Z",
         "deletedAt": null
       }
     }

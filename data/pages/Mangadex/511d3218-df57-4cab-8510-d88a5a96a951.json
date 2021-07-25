@@ -11,13 +11,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 137317,
+  "aniId": 132571,
   "createdAt": "2021-02-12T16:35:44.000Z",
-  "updatedAt": "2021-06-08T11:09:44.000Z",
+  "updatedAt": "2021-07-21T19:33:47.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "49th I Love You",
+      "49th Confession",
+      "49回目の告白"
+    ],
+    "authors": [
+      "Hakuto, Rin"
+    ],
+    "id": 137317,
+    "type": "manga",
+    "title": "49-kaime no Kokuhaku",
+    "url": "https://myanimelist.net/manga/137317/49-kaime_no_Kokuhaku",
+    "image": "https://cdn.myanimelist.net/images/manga/2/245827.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "createdAt": "2021-07-21T16:03:59.000Z",
+    "updatedAt": "2021-07-21T16:03:59.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "49回目の告白",
+      "49th Confession",
+      "49 I Love You",
+      "49a Confesión"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hakuto Rin"
+    ],
+    "id": 132571,
+    "malId": 137317,
+    "type": "manga",
+    "title": "49 Kaime no Kokuhaku",
+    "url": "https://anilist.co/manga/132571",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132571-H4bf2bCDiU9t.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-06-05T10:18:58.000Z",
+    "updatedAt": "2021-06-18T12:22:40.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/137317/49-kaime_no_Kokuhaku"
 }

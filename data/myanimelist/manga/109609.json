@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:16.000Z",
-  "updatedAt": "2021-05-13T10:55:10.000Z",
+  "updatedAt": "2021-07-21T01:04:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,28 @@
         "aniId": 101223,
         "createdAt": "2021-05-13T10:55:10.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bd979086": {
+        "authors": [
+          "Kankitsu Yusura"
+        ],
+        "identifier": "manga-bd979086",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tomogui Kyoushitsu",
+        "url": "https://manganato.com/manga-bd979086",
+        "image": "https://avt.mkklcdnv6temp.com/28/h/16-1583494485.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109609,
+        "aniId": 101223,
+        "createdAt": "2021-07-21T01:04:02.000Z",
+        "updatedAt": "2021-07-21T01:33:48.000Z",
         "deletedAt": null
       }
     }

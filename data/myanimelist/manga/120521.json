@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:04.000Z",
-  "updatedAt": "2021-06-03T10:19:53.000Z",
+  "updatedAt": "2021-07-24T23:22:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -85,6 +85,29 @@
         "aniId": 109103,
         "createdAt": "2021-06-03T10:19:53.000Z",
         "updatedAt": "2021-06-03T10:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tensei_majo_wa_horobi_wo_tsugeru": {
+        "authors": [
+          "MIZUKI Sora",
+          "YUZUHARA Teiru"
+        ],
+        "identifier": "tensei_majo_wa_horobi_wo_tsugeru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tensei Majo wa Horobi wo Tsugeru",
+        "url": "https://fanfox.net/manga/tensei_majo_wa_horobi_wo_tsugeru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31587/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120521,
+        "aniId": 109103,
+        "createdAt": "2021-07-24T23:22:06.000Z",
+        "updatedAt": "2021-07-24T23:51:33.000Z",
         "deletedAt": null
       }
     }

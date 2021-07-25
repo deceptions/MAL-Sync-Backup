@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:01.000Z",
-  "updatedAt": "2021-06-11T20:08:20.000Z",
+  "updatedAt": "2021-07-20T01:48:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -104,6 +104,28 @@
         "aniId": 43897,
         "createdAt": "2021-06-11T20:08:18.000Z",
         "updatedAt": "2021-06-11T20:38:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "giant_killing": {
+        "authors": [
+          "TSUNAMOTO Masaya"
+        ],
+        "identifier": "giant_killing",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Giant Killing",
+        "url": "https://fanfox.net/manga/giant_killing/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7026/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13897,
+        "aniId": 43897,
+        "createdAt": "2021-07-20T01:48:32.000Z",
+        "updatedAt": "2021-07-20T02:18:31.000Z",
         "deletedAt": null
       }
     }

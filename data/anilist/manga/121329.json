@@ -20,5 +20,28 @@
   "createdAt": "2021-06-21T07:29:52.000Z",
   "updatedAt": "2021-06-24T20:14:54.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "the_princess_is_evil": {
+        "authors": [
+          "CHA Sohee"
+        ],
+        "identifier": "the_princess_is_evil",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Princess Is Evil",
+        "url": "https://fanfox.net/manga/the_princess_is_evil/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38600/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 121329,
+        "createdAt": "2021-07-20T19:34:23.000Z",
+        "updatedAt": "2021-07-20T19:34:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

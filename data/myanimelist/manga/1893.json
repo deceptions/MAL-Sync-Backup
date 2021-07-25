@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:38.000Z",
-  "updatedAt": "2021-02-26T21:55:56.000Z",
+  "updatedAt": "2021-07-22T04:04:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,50 @@
         "aniId": 31893,
         "createdAt": "2021-02-26T21:55:57.000Z",
         "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yumekui_kenbun": {
+        "authors": [
+          "MASHIBA Shin"
+        ],
+        "identifier": "yumekui_kenbun",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yumekui Kenbun",
+        "url": "https://fanfox.net/manga/yumekui_kenbun/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2591/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1893,
+        "aniId": 31893,
+        "createdAt": "2021-07-22T04:04:08.000Z",
+        "updatedAt": "2021-07-22T04:33:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pc967237": {
+        "authors": [
+          "Mashiba Shin"
+        ],
+        "identifier": "manga-pc967237",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yumekui Kenbun",
+        "url": "https://readmanganato.com/manga-pc967237",
+        "image": "https://avt.mkklcdnv6temp.com/17/t/11-1583484657.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1893,
+        "aniId": 31893,
+        "createdAt": "2021-07-22T04:04:10.000Z",
+        "updatedAt": "2021-07-22T04:33:47.000Z",
         "deletedAt": null
       }
     }

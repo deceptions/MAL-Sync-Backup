@@ -17,7 +17,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:58.000Z",
-  "updatedAt": "2021-04-25T13:57:22.000Z",
+  "updatedAt": "2021-07-24T18:21:55.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -87,6 +87,28 @@
         "aniId": 94756,
         "createdAt": "2021-04-25T13:57:29.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vj972418": {
+        "authors": [
+          "Murasaki Yukiya"
+        ],
+        "identifier": "manga-vj972418",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Haken No Kouki Altina",
+        "url": "https://manganato.com/manga-vj972418",
+        "image": "https://avt.mkklcdnv6temp.com/13/p/14-1583490235.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88703,
+        "aniId": 94756,
+        "createdAt": "2021-07-24T18:21:43.000Z",
+        "updatedAt": "2021-07-24T18:51:33.000Z",
         "deletedAt": null
       }
     }

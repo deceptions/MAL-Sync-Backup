@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:52.000Z",
-  "updatedAt": "2021-05-29T02:45:35.000Z",
+  "updatedAt": "2021-07-24T21:52:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 33533,
         "createdAt": "2020-12-24T22:56:07.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zj959092": {
+        "authors": [
+          "Shibata Yokusaru"
+        ],
+        "identifier": "manga-zj959092",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Air Master",
+        "url": "https://readmanganato.com/manga-zj959092",
+        "image": "https://avt.mkklcdnv6temp.com/1/c/5-1583474137.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3533,
+        "aniId": 33533,
+        "createdAt": "2021-07-24T21:51:33.000Z",
+        "updatedAt": "2021-07-24T22:21:34.000Z",
         "deletedAt": null
       }
     }

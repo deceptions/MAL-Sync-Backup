@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:17.000Z",
-  "updatedAt": "2021-02-10T16:10:33.000Z",
+  "updatedAt": "2021-07-20T00:18:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,50 @@
         "aniId": 116496,
         "createdAt": "2021-02-10T16:10:34.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ht984876": {
+        "authors": [
+          "Kudo Makoto"
+        ],
+        "identifier": "manga-ht984876",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hg Ni Koisuru Futari",
+        "url": "https://manganato.com/manga-ht984876",
+        "image": "https://avt.mkklcdnv6temp.com/42/s/20-1583899799.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125111,
+        "aniId": 116496,
+        "createdAt": "2021-07-20T00:18:34.000Z",
+        "updatedAt": "2021-07-20T00:48:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hg_ni_koisuru_futari": {
+        "authors": [
+          "Kudo Makoto"
+        ],
+        "identifier": "hg_ni_koisuru_futari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hg Ni Koisuru Futari",
+        "url": "https://fanfox.net/manga/hg_ni_koisuru_futari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33152/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125111,
+        "aniId": 116496,
+        "createdAt": "2021-07-23T22:51:36.000Z",
+        "updatedAt": "2021-07-23T23:21:34.000Z",
         "deletedAt": null
       }
     }

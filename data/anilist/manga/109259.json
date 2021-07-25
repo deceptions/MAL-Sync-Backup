@@ -24,7 +24,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T17:12:57.000Z",
-  "updatedAt": "2021-06-21T14:20:02.000Z",
+  "updatedAt": "2021-07-21T17:33:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -70,6 +70,29 @@
         "aniId": 109259,
         "createdAt": "2021-05-03T14:03:56.000Z",
         "updatedAt": "2021-06-09T20:35:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "what_it_takes_to_be_a_villainess": {
+        "authors": [
+          "JU Hyeon",
+          "Yuns"
+        ],
+        "identifier": "what_it_takes_to_be_a_villainess",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "What It Takes to Be a Villainess",
+        "url": "https://fanfox.net/manga/what_it_takes_to_be_a_villainess/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38320/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 109259,
+        "createdAt": "2021-05-13T00:24:43.000Z",
+        "updatedAt": "2021-07-21T17:33:57.000Z",
         "deletedAt": null
       }
     }

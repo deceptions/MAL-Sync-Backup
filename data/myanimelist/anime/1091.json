@@ -1,6 +1,7 @@
 {
   "altTitle": [
-    "Kidou Senshi Gundam II: Ai Senshi-hen, Mobile Suit Gundam Movie 2",
+    "Kidou Senshi Gundam II: Ai Senshi-hen",
+    "Mobile Suit Gundam Movie 2",
     "機動戦士ガンダムⅡ　哀・戦士編"
   ],
   "id": 1091,
@@ -11,7 +12,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:12.000Z",
-  "updatedAt": "2021-04-26T11:57:19.000Z",
+  "updatedAt": "2021-07-21T19:04:02.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -66,6 +67,25 @@
         "aniId": 1091,
         "createdAt": "2020-10-12T16:01:18.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "955": {
+        "identifier": "955",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mobile Suit Gundam II: Soldiers of Sorrow",
+        "url": "https://pahe.win/a/955",
+        "image": "https://i.animepahe.com/posters/05f32433856c8819a774c0f5a4830dd4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1091,
+        "aniId": 1091,
+        "createdAt": "2021-07-21T19:03:59.000Z",
+        "updatedAt": "2021-07-21T19:33:47.000Z",
         "deletedAt": null
       }
     }

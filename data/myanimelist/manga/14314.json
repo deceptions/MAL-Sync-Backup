@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:04.000Z",
-  "updatedAt": "2021-05-01T21:04:33.000Z",
+  "updatedAt": "2021-07-23T19:52:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 44314,
         "createdAt": "2020-10-12T16:15:40.000Z",
         "updatedAt": "2021-06-06T15:40:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ep981550": {
+        "authors": [
+          "Yukinobu Hoshino"
+        ],
+        "identifier": "manga-ep981550",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Blue Hole",
+        "url": "https://manganato.com/manga-ep981550",
+        "image": "https://avt.mkklcdnv6temp.com/19/a/18-1583497835.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14314,
+        "aniId": 44314,
+        "createdAt": "2021-07-23T19:52:36.000Z",
+        "updatedAt": "2021-07-23T20:21:34.000Z",
         "deletedAt": null
       }
     }

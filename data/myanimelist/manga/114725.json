@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:36.000Z",
-  "updatedAt": "2021-04-03T22:38:36.000Z",
+  "updatedAt": "2021-07-18T23:02:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 107234,
         "createdAt": "2020-10-12T16:13:54.000Z",
         "updatedAt": "2021-06-06T00:54:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "motto_ganbare_nakamura_kun": {
+        "authors": [
+          "Syundei"
+        ],
+        "identifier": "motto_ganbare_nakamura_kun",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Motto Ganbare! Nakamura-kun!!",
+        "url": "https://fanfox.net/manga/motto_ganbare_nakamura_kun/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32657/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114725,
+        "aniId": 107234,
+        "createdAt": "2021-07-18T23:02:22.000Z",
+        "updatedAt": "2021-07-18T23:32:20.000Z",
         "deletedAt": null
       }
     }

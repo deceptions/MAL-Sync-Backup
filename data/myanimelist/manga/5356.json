@@ -1,7 +1,9 @@
 {
   "altTitle": [
     "The Haibanes of Old Home",
-    "Ailes Grises, Charcoal Feathers in Old Home, Haibane Renmei",
+    "Ailes Grises",
+    "Charcoal Feathers in Old Home",
+    "Haibane Renmei",
     "オールドホームの灰羽達"
   ],
   "authors": [
@@ -15,7 +17,7 @@
   "category": "Doujinshi",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:05.000Z",
-  "updatedAt": "2021-05-28T23:24:25.000Z",
+  "updatedAt": "2021-07-20T16:04:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +62,28 @@
         "aniId": 35356,
         "createdAt": "2021-05-28T23:24:25.000Z",
         "updatedAt": "2021-05-28T23:42:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "haibane_renmei": {
+        "authors": [
+          "ABE Yoshitoshi"
+        ],
+        "identifier": "haibane_renmei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Haibane Renmei",
+        "url": "https://fanfox.net/manga/haibane_renmei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3540/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5356,
+        "aniId": 35356,
+        "createdAt": "2021-07-20T16:04:35.000Z",
+        "updatedAt": "2021-07-20T16:33:47.000Z",
         "deletedAt": null
       }
     }

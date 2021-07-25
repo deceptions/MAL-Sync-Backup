@@ -1,7 +1,8 @@
 {
   "altTitle": [
     "Black Lion",
-    "Kuro no Shishi, Jigen Sengoku Shi Kuro no Shishi Jinnai Hen",
+    "Kuro no Shishi",
+    "Jigen Sengoku Shi Kuro no Shishi Jinnai Hen",
     "時元戦国史 黒の獅士 陣内篇"
   ],
   "id": 1759,
@@ -12,7 +13,7 @@
   "category": "OVA",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:21.000Z",
-  "updatedAt": "2021-04-26T22:19:11.000Z",
+  "updatedAt": "2021-07-19T00:32:23.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +49,25 @@
         "aniId": 1759,
         "createdAt": "2020-10-12T15:51:45.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "black-lion": {
+        "identifier": "black-lion",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Black Lion",
+        "url": "https://gogoanime.pe/category/black-lion",
+        "image": "https://gogocdn.net/images/anime/B/90215.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1759,
+        "aniId": 1759,
+        "createdAt": "2021-07-19T00:32:21.000Z",
+        "updatedAt": "2021-07-19T01:02:20.000Z",
         "deletedAt": null
       }
     }

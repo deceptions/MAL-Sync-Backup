@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:48.000Z",
-  "updatedAt": "2021-03-20T17:06:02.000Z",
+  "updatedAt": "2021-07-24T16:52:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 85224,
         "createdAt": "2021-03-20T17:06:03.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tj953318": {
+        "authors": [
+          "Yasohachi Ryou"
+        ],
+        "identifier": "manga-tj953318",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fushi No Ryouken",
+        "url": "https://manganato.com/manga-tj953318",
+        "image": "https://avt.mkklcdnv6temp.com/19/i/2-1583466457.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56511,
+        "aniId": 85224,
+        "createdAt": "2021-07-24T16:52:25.000Z",
+        "updatedAt": "2021-07-24T17:21:34.000Z",
         "deletedAt": null
       }
     }

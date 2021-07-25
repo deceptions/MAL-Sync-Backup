@@ -11,7 +11,46 @@
   "category": "Music",
   "hentai": false,
   "createdAt": "2021-06-03T13:50:27.000Z",
-  "updatedAt": "2021-06-03T13:50:27.000Z",
+  "updatedAt": "2021-07-20T16:33:58.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "3rqkr": {
+        "identifier": "3rqkr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yasashii Suisei",
+        "url": "https://www12.9anime.to/watch/comet.3rqkr",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/23/2356a89499b754ee9ce5f1c947071360.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48554,
+        "aniId": 131568,
+        "createdAt": "2021-07-20T16:33:50.000Z",
+        "updatedAt": "2021-07-20T17:03:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yasashii-suisei": {
+        "identifier": "yasashii-suisei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yasashii Suisei ",
+        "url": "https://gogoanime.pe/category/yasashii-suisei",
+        "image": "https://gogocdn.net/cover/yasashii-suisei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48554,
+        "aniId": 131568,
+        "createdAt": "2021-07-21T08:34:01.000Z",
+        "updatedAt": "2021-07-21T09:03:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

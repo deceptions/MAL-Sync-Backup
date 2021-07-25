@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:51.000Z",
-  "updatedAt": "2021-06-17T17:28:27.000Z",
+  "updatedAt": "2021-07-21T12:04:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -56,6 +56,50 @@
         "aniId": 50453,
         "createdAt": "2020-10-12T16:18:08.000Z",
         "updatedAt": "2021-06-07T14:21:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "natsuyuki-rendezvous": {
+        "authors": [
+          "KAWACHI Haruka"
+        ],
+        "identifier": "natsuyuki-rendezvous",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Natsuyuki Rendezvous",
+        "url": "https://mangasee123.com/manga/Natsuyuki-Rendezvous",
+        "image": "https://cover.nep.li/cover/Natsuyuki-Rendezvous.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20453,
+        "aniId": 50453,
+        "createdAt": "2021-07-21T12:04:06.000Z",
+        "updatedAt": "2021-07-21T12:33:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "natsuyuki_rendez_vous": {
+        "authors": [
+          "KAWACHI Haruka"
+        ],
+        "identifier": "natsuyuki_rendez_vous",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Natsuyuki Rendez-vous",
+        "url": "https://fanfox.net/manga/natsuyuki_rendez_vous/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9163/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20453,
+        "aniId": 50453,
+        "createdAt": "2021-07-24T07:51:35.000Z",
+        "updatedAt": "2021-07-24T08:21:34.000Z",
         "deletedAt": null
       }
     }

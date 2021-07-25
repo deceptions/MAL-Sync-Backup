@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:24.000Z",
-  "updatedAt": "2021-05-04T08:02:58.000Z",
+  "updatedAt": "2021-07-18T11:02:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 56026,
         "createdAt": "2020-10-12T16:04:20.000Z",
         "updatedAt": "2021-06-02T20:25:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "sumikko-no-sora-san": {
+        "authors": [
+          "TANA Kanoka"
+        ],
+        "identifier": "sumikko-no-sora-san",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sumikko no Sora-san",
+        "url": "https://mangasee123.com/manga/Sumikko-No-Sora-San",
+        "image": "https://cover.nep.li/cover/Sumikko-No-Sora-San.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26026,
+        "aniId": 56026,
+        "createdAt": "2021-07-18T11:02:47.000Z",
+        "updatedAt": "2021-07-18T11:32:21.000Z",
         "deletedAt": null
       }
     }

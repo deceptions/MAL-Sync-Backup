@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:00.000Z",
-  "updatedAt": "2021-06-18T18:52:11.000Z",
+  "updatedAt": "2021-07-20T07:20:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +81,28 @@
         "aniId": 66531,
         "createdAt": "2021-06-21T07:54:37.000Z",
         "updatedAt": "2021-06-21T08:20:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hana_to_hoshi": {
+        "authors": [
+          "SUZUKIN Kario"
+        ],
+        "identifier": "hana_to_hoshi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hana to Hoshi",
+        "url": "https://fanfox.net/manga/hana_to_hoshi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9983/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36531,
+        "aniId": 66531,
+        "createdAt": "2021-07-20T07:20:18.000Z",
+        "updatedAt": "2021-07-20T07:26:02.000Z",
         "deletedAt": null
       }
     }

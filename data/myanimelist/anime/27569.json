@@ -10,7 +10,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:30.000Z",
-  "updatedAt": "2021-04-30T06:19:13.000Z",
+  "updatedAt": "2021-07-23T18:21:55.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -29,6 +29,25 @@
         "aniId": 121835,
         "createdAt": "2020-10-12T15:52:42.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix": {
+        "identifier": "sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sore Ike! Anpanman: Hashire! Wakuwaku Anpanman Grand Prix",
+        "url": "https://gogoanime.pe/category/sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix",
+        "image": "https://gogocdn.net/cover/sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27569,
+        "aniId": 121835,
+        "createdAt": "2021-07-23T18:21:44.000Z",
+        "updatedAt": "2021-07-23T18:51:33.000Z",
         "deletedAt": null
       }
     }

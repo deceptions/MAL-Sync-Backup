@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:01.000Z",
-  "updatedAt": "2021-03-23T14:05:26.000Z",
+  "updatedAt": "2021-07-24T16:52:06.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +48,23 @@
         "aniId": 101347,
         "createdAt": "2020-10-12T15:56:50.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      },
+      "llp26": {
+        "identifier": "llp26",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dororo (Dub)",
+        "url": "https://www12.9anime.to/watch/dororo-dub.llp26",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/48/48ecf3e22677f2c924d8b03425e1e790.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37520,
+        "aniId": 101347,
+        "createdAt": "2021-07-24T16:52:04.000Z",
+        "updatedAt": "2021-07-24T17:21:33.000Z",
         "deletedAt": null
       }
     },

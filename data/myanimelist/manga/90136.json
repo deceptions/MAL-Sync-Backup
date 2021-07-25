@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:02.000Z",
-  "updatedAt": "2021-04-13T04:15:31.000Z",
+  "updatedAt": "2021-07-23T13:53:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -77,6 +77,28 @@
         "aniId": 86619,
         "createdAt": "2021-04-13T04:15:32.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ra951535": {
+        "authors": [
+          "Hirose Yui"
+        ],
+        "identifier": "manga-ra951535",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Wonder Rabbit Girl",
+        "url": "https://manganato.com/manga-ra951535",
+        "image": "https://avt.mkklcdnv6temp.com/8/d/1-1583463986.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90136,
+        "aniId": 86619,
+        "createdAt": "2021-07-23T13:53:14.000Z",
+        "updatedAt": "2021-07-23T14:21:34.000Z",
         "deletedAt": null
       }
     }

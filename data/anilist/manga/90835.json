@@ -62,6 +62,28 @@
         "updatedAt": "2021-05-20T15:40:31.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "amai_seikatsu": {
+        "authors": [
+          "YUZUKI Hikaru"
+        ],
+        "identifier": "amai_seikatsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Amai Seikatsu",
+        "url": "https://fanfox.net/manga/amai_seikatsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13820/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68361,
+        "aniId": 90835,
+        "createdAt": "2021-07-22T09:03:53.000Z",
+        "updatedAt": "2021-07-22T09:33:48.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

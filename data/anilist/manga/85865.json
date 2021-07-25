@@ -86,6 +86,28 @@
         "updatedAt": "2021-06-21T07:50:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "trash": {
+        "authors": [
+          "YAMAMOTO Kenji"
+        ],
+        "identifier": "trash",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Trash.",
+        "url": "https://fanfox.net/manga/trash/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14648/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61683,
+        "aniId": 85865,
+        "createdAt": "2021-07-18T04:32:34.000Z",
+        "updatedAt": "2021-07-18T05:02:20.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

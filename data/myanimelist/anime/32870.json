@@ -12,7 +12,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:43.000Z",
-  "updatedAt": "2021-04-30T20:49:16.000Z",
+  "updatedAt": "2021-07-21T07:34:49.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -69,6 +69,25 @@
         "aniId": 102836,
         "createdAt": "2020-10-12T16:01:04.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1809": {
+        "identifier": "1809",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kuroko no Basket Movie 2: Winter Cup - Namida no Saki e",
+        "url": "https://pahe.win/a/1809",
+        "image": "https://i.animepahe.com/posters/dbadcd4c7e26e60386bbbad7a6b074b2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32870,
+        "aniId": 102836,
+        "createdAt": "2021-07-21T07:33:59.000Z",
+        "updatedAt": "2021-07-21T08:03:47.000Z",
         "deletedAt": null
       }
     }

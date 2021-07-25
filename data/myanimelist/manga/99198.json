@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:32.000Z",
-  "updatedAt": "2021-05-16T15:25:24.000Z",
+  "updatedAt": "2021-07-23T19:22:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 98154,
         "createdAt": "2020-10-12T16:09:49.000Z",
         "updatedAt": "2021-06-04T20:21:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ui971643": {
+        "authors": [
+          "Zariya Ranmaru"
+        ],
+        "identifier": "manga-ui971643",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Coyote (Zariya Ranmaru)",
+        "url": "https://manganato.com/manga-ui971643",
+        "image": "https://avt.mkklcdnv6temp.com/49/n/13-1583489667.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99198,
+        "aniId": 98154,
+        "createdAt": "2021-07-23T19:22:06.000Z",
+        "updatedAt": "2021-07-23T19:51:33.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:44.000Z",
-  "updatedAt": "2021-03-19T15:35:06.000Z",
+  "updatedAt": "2021-07-20T11:48:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 61511,
         "createdAt": "2021-03-19T15:35:06.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ki961465": {
+        "authors": [
+          "Kasuga Mikage"
+        ],
+        "identifier": "manga-ki961465",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Oda Nobuna No Yabou",
+        "url": "https://manganato.com/manga-ki961465",
+        "image": "https://avt.mkklcdnv6temp.com/39/a/7-1583477749.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31511,
+        "aniId": 61511,
+        "createdAt": "2021-07-20T11:48:20.000Z",
+        "updatedAt": "2021-07-20T12:16:46.000Z",
         "deletedAt": null
       }
     }
