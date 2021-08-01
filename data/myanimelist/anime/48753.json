@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2021-07-02T00:21:06.000Z",
-  "updatedAt": "2021-07-02T00:21:06.000Z",
+  "updatedAt": "2021-08-01T00:23:25.000Z",
   "deletedAt": null,
   "Pages": {
     "animepahe": {
@@ -31,6 +31,44 @@
         "aniId": 132456,
         "createdAt": "2021-07-02T00:20:22.000Z",
         "updatedAt": "2021-07-02T00:50:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "jahy-sama-wa-kujikenai": {
+        "identifier": "jahy-sama-wa-kujikenai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Jahy-sama wa Kujikenai!",
+        "url": "https://gogoanime.pe/category/jahy-sama-wa-kujikenai",
+        "image": "https://gogocdn.net/cover/jahy-sama-wa-kujikenai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48753,
+        "aniId": 132456,
+        "createdAt": "2021-07-31T19:22:12.000Z",
+        "updatedAt": "2021-07-31T19:51:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "3wo8": {
+        "identifier": "3wo8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jahy-sama wa Kujikenai!",
+        "url": "https://www12.9anime.to/watch/jahy-sama-wont-be-discouraged.3wo8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/20/20a3374b938f919f11b467c44342b9ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48753,
+        "aniId": 132456,
+        "createdAt": "2021-07-31T20:23:05.000Z",
+        "updatedAt": "2021-07-31T20:51:49.000Z",
         "deletedAt": null
       }
     }

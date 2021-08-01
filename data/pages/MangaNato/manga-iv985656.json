@@ -10,14 +10,53 @@
   "image": "https://avt.mkklcdnv6temp.com/25/i/21-1591592163.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 130052,
+  "aniId": 116897,
   "createdAt": "2021-06-05T13:49:27.000Z",
-  "updatedAt": "2021-06-05T13:49:27.000Z",
+  "updatedAt": "2021-07-26T03:22:26.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "All Because of You",
+      "All Your Sex",
+      "ぜんぶきみの性"
+    ],
+    "authors": [
+      "Asazuki, Norito"
+    ],
+    "id": 130052,
+    "type": "manga",
+    "title": "Zenbu Kimi no Sei",
+    "url": "https://myanimelist.net/manga/130052/Zenbu_Kimi_no_Sei",
+    "image": "https://cdn.myanimelist.net/images/manga/3/234800.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-20T21:39:08.000Z",
+    "updatedAt": "2021-07-26T03:22:26.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ぜんぶきみの性",
+      "都是性別惹的禍"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Norito Asazuki"
+    ],
+    "id": 116897,
+    "malId": 130052,
+    "type": "manga",
+    "title": "Zenbu Kimi no Sei",
+    "url": "https://anilist.co/manga/116897",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116897-MGYV9nMosaYq.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:29.000Z",
+    "updatedAt": "2021-07-26T03:21:34.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/130052/Zenbu_Kimi_no_Sei"
 }

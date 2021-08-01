@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:01.000Z",
-  "updatedAt": "2021-03-19T08:34:51.000Z",
+  "updatedAt": "2021-07-31T00:53:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 66787,
         "createdAt": "2021-03-22T21:35:16.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ej951918": {
+        "authors": [
+          "Higashimura Akiko"
+        ],
+        "identifier": "manga-ej951918",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Omoni Naitemasu",
+        "url": "https://manganato.com/manga-ej951918",
+        "image": "https://avt.mkklcdnv6temp.com/21/e/1-1583464530.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36787,
+        "aniId": 66787,
+        "createdAt": "2021-07-31T00:53:28.000Z",
+        "updatedAt": "2021-07-31T01:21:48.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:14.000Z",
-  "updatedAt": "2021-06-21T07:39:47.000Z",
+  "updatedAt": "2021-07-29T08:52:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 54547,
         "createdAt": "2020-10-12T16:04:19.000Z",
         "updatedAt": "2021-06-02T20:15:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vn956096": {
+        "authors": [
+          "Okada Haruki"
+        ],
+        "identifier": "manga-vn956096",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Danshi Ing Girl!",
+        "url": "https://manganato.com/manga-vn956096",
+        "image": "https://avt.mkklcdnv6temp.com/2/n/4-1583469752.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24547,
+        "aniId": 54547,
+        "createdAt": "2021-07-29T08:52:33.000Z",
+        "updatedAt": "2021-07-29T09:21:39.000Z",
         "deletedAt": null
       }
     }

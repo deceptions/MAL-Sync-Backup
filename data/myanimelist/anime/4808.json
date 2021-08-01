@@ -1,7 +1,9 @@
 {
   "altTitle": [
     "Hurricane Polymar",
-    "Inner Destructive Fist Polymar, Hurricane Polimar, Hurricane Polymer",
+    "Inner Destructive Fist Polymar",
+    "Hurricane Polimar",
+    "Hurricane Polymer",
     "破裏拳ポリマー"
   ],
   "id": 4808,
@@ -12,7 +14,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:44.000Z",
-  "updatedAt": "2021-04-28T05:19:32.000Z",
+  "updatedAt": "2021-07-27T18:52:37.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -31,6 +33,25 @@
         "aniId": 4808,
         "createdAt": "2020-10-12T15:48:44.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hurricane-polymar": {
+        "identifier": "hurricane-polymar",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hurricane Polymar",
+        "url": "https://gogoanime.pe/category/hurricane-polymar",
+        "image": "https://gogocdn.net/cover/hurricane-polymar.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4808,
+        "aniId": 4808,
+        "createdAt": "2021-07-27T18:51:37.000Z",
+        "updatedAt": "2021-07-27T19:21:35.000Z",
         "deletedAt": null
       }
     }

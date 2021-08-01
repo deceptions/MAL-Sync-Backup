@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:10.000Z",
-  "updatedAt": "2021-05-03T18:01:57.000Z",
+  "updatedAt": "2021-07-30T00:53:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 53519,
         "createdAt": "2020-10-12T16:04:23.000Z",
         "updatedAt": "2021-06-02T20:39:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "and-okazaki-mari": {
+        "authors": [
+          "OKAZAKI Mari"
+        ],
+        "identifier": "and-okazaki-mari",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "And (Okazaki Mari)",
+        "url": "https://mangasee123.com/manga/And-Okazaki-Mari",
+        "image": "https://cover.nep.li/cover/And-Okazaki-Mari.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 23519,
+        "aniId": 53519,
+        "createdAt": "2021-04-05T19:09:28.000Z",
+        "updatedAt": "2021-07-30T15:21:48.000Z",
         "deletedAt": null
       }
     }

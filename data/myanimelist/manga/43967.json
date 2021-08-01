@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:18.000Z",
-  "updatedAt": "2021-06-05T21:21:28.000Z",
+  "updatedAt": "2021-07-30T02:52:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 73967,
         "createdAt": "2020-10-12T16:06:00.000Z",
         "updatedAt": "2021-06-03T16:27:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "one-week-friends": {
+        "authors": [
+          "HAZUKI Maccha"
+        ],
+        "identifier": "one-week-friends",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "One Week Friends",
+        "url": "https://mangasee123.com/manga/One-Week-Friends",
+        "image": "https://cover.nep.li/cover/One-Week-Friends.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 43967,
+        "aniId": 73967,
+        "createdAt": "2021-03-09T15:41:14.000Z",
+        "updatedAt": "2021-07-30T15:21:48.000Z",
         "deletedAt": null
       }
     },

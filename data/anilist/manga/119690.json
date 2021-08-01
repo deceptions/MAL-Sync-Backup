@@ -18,7 +18,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T20:12:57.000Z",
-  "updatedAt": "2021-06-21T15:47:03.000Z",
+  "updatedAt": "2021-07-26T19:51:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "17b4a134-65a5-4ba9-851e-9cc824755bf5": {
+        "authors": [
+          "Maru KOGITSUNE",
+          "Taro SASAKAMA"
+        ],
+        "identifier": "17b4a134-65a5-4ba9-851e-9cc824755bf5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Someday Will I Be the Greatest Alchemist?",
+        "url": "https://mangadex.org/title/17b4a134-65a5-4ba9-851e-9cc824755bf5",
+        "image": "https://uploads.mangadex.org/covers/17b4a134-65a5-4ba9-851e-9cc824755bf5/fdfe68b2-f1c5-413f-8135-217d0a14aad5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 119690,
+        "createdAt": "2020-10-12T16:19:49.000Z",
+        "updatedAt": "2021-07-27T14:52:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

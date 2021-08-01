@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-03-18T12:32:53.000Z",
-  "updatedAt": "2021-06-08T11:26:22.000Z",
+  "updatedAt": "2021-07-29T21:21:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 129504,
         "createdAt": "2021-02-05T22:50:05.000Z",
         "updatedAt": "2021-06-21T17:44:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ko988249": {
+        "authors": [
+          "Aoi"
+        ],
+        "identifier": "manga-ko988249",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Villainess Who Traveled Back In Time Inexplicably Lost Her Magic, So She Went Into Seclusion",
+        "url": "https://manganato.com/manga-ko988249",
+        "image": "https://avt.mkklcdnv6temp.com/30/v/23-1613968339.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 133469,
+        "aniId": 129504,
+        "createdAt": "2021-07-29T21:21:47.000Z",
+        "updatedAt": "2021-07-29T21:51:41.000Z",
         "deletedAt": null
       }
     }

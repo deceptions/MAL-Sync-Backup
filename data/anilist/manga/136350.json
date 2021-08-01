@@ -20,5 +20,28 @@
   "createdAt": "2021-07-04T08:29:51.000Z",
   "updatedAt": "2021-07-04T08:29:51.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "the_princess_pretends_to_be_crazy": {
+        "authors": [
+          "Dalseul"
+        ],
+        "identifier": "the_princess_pretends_to_be_crazy",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Princess Pretends to Be Crazy",
+        "url": "https://fanfox.net/manga/the_princess_pretends_to_be_crazy/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38726/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 136350,
+        "createdAt": "2021-07-31T16:52:15.000Z",
+        "updatedAt": "2021-07-31T16:52:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

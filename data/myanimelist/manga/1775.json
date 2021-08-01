@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:37.000Z",
-  "updatedAt": "2021-04-27T05:20:11.000Z",
+  "updatedAt": "2021-07-28T18:54:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 31775,
         "createdAt": "2020-10-12T16:08:03.000Z",
         "updatedAt": "2021-06-04T07:10:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "good-morning-kiss": {
+        "authors": [
+          "TAKASUKA Yue"
+        ],
+        "identifier": "good-morning-kiss",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Good Morning Kiss",
+        "url": "https://mangasee123.com/manga/Good-Morning-Kiss",
+        "image": "https://cover.nep.li/cover/Good-Morning-Kiss.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1775,
+        "aniId": 31775,
+        "createdAt": "2021-07-28T18:54:16.000Z",
+        "updatedAt": "2021-07-28T19:21:36.000Z",
         "deletedAt": null
       }
     }

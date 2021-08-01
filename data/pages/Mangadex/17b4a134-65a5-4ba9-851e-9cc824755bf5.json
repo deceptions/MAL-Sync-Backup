@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 119690,
   "createdAt": "2020-10-12T16:19:49.000Z",
-  "updatedAt": "2021-07-08T10:43:58.000Z",
+  "updatedAt": "2021-07-27T14:52:29.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "いずれ最強の錬金術師？",
+      " Someday Will I Be The Greatest Alchemist?"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Taro Sasakama",
+      "Hitogome ",
+      "Kogitsunemaru "
+    ],
+    "id": 119690,
+    "malId": null,
+    "type": "manga",
+    "title": "Izure Saikyou no Renkinjutsushi?",
+    "url": "https://anilist.co/manga/119690",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119690-mw7NjICKlu7U.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T20:12:57.000Z",
+    "updatedAt": "2021-07-26T19:51:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

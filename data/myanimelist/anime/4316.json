@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:42.000Z",
-  "updatedAt": "2021-04-28T02:49:00.000Z",
+  "updatedAt": "2021-07-31T11:52:26.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -29,6 +29,25 @@
         "aniId": 4316,
         "createdAt": "2020-10-12T15:48:53.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nanami-chan-3rd-series": {
+        "identifier": "nanami-chan-3rd-series",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nanami-chan 3rd Series",
+        "url": "https://gogoanime.pe/category/nanami-chan-3rd-series",
+        "image": "https://gogocdn.net/cover/nanami-chan-3rd-series.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4316,
+        "aniId": 4316,
+        "createdAt": "2021-07-31T11:52:18.000Z",
+        "updatedAt": "2021-07-31T12:21:49.000Z",
         "deletedAt": null
       }
     }

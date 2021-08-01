@@ -17,5 +17,28 @@
   "createdAt": "2021-05-20T15:00:04.000Z",
   "updatedAt": "2021-06-18T11:05:40.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-kp988272": {
+        "authors": [
+          "Sakamoto Shinichi"
+        ],
+        "identifier": "manga-kp988272",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "#drcl Midnight Children",
+        "url": "https://manganato.com/manga-kp988272",
+        "image": "https://avt.mkklcdnv6temp.com/31/u/23-1613977931.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131749,
+        "aniId": 127157,
+        "createdAt": "2021-07-26T11:22:06.000Z",
+        "updatedAt": "2021-07-26T11:51:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

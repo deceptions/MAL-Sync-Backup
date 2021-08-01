@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Torikai Yasuyuki",
-    "Tasuro"
+    "Tasuro",
+    "Torikai Yasuyuki"
   ],
   "identifier": "21c4c1ff-67f6-4c9d-88aa-9869f734f839",
   "type": "manga",
@@ -12,13 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 136758,
+  "aniId": 125495,
   "createdAt": "2020-10-24T08:29:20.000Z",
-  "updatedAt": "2021-06-08T05:32:58.000Z",
+  "updatedAt": "2021-07-28T15:51:36.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "The Inferior in Ability Who Returned from the Demon World",
+      "魔界帰りの劣等能力者"
+    ],
+    "authors": [
+      "Torikai, Yasuyuki",
+      "Tasurou"
+    ],
+    "id": 136758,
+    "type": "manga",
+    "title": "Makaigaeri no Rettou Nouryokusha",
+    "url": "https://myanimelist.net/manga/136758/Makaigaeri_no_Rettou_Nouryokusha",
+    "image": "https://cdn.myanimelist.net/images/manga/3/244963.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-05-29T18:14:03.000Z",
+    "updatedAt": "2021-07-27T17:51:46.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "魔界帰りの劣等能力者"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tasurou",
+      "Yasuyuki Torikai",
+      "Karu"
+    ],
+    "id": 125495,
+    "malId": 136758,
+    "type": "manga",
+    "title": "Makai Kaeri no Rettou Nouryokusha",
+    "url": "https://anilist.co/manga/125495",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125495-E2bW091sLTiU.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T20:12:57.000Z",
+    "updatedAt": "2021-07-27T17:51:35.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/136758/Makaigaeri_no_Rettou_Nouryokusha"
 }

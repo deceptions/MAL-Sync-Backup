@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:13.000Z",
-  "updatedAt": "2021-06-21T07:32:37.000Z",
+  "updatedAt": "2021-07-26T11:23:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 54298,
         "createdAt": "2021-06-21T07:32:32.000Z",
         "updatedAt": "2021-06-21T07:50:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ty953307": {
+        "authors": [
+          "Ochiai Sayori"
+        ],
+        "identifier": "manga-ty953307",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gingitsune",
+        "url": "https://manganato.com/manga-ty953307",
+        "image": "https://avt.mkklcdnv6temp.com/18/x/2-1583466440.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24298,
+        "aniId": 54298,
+        "createdAt": "2021-07-26T11:23:00.000Z",
+        "updatedAt": "2021-07-26T11:51:35.000Z",
         "deletedAt": null
       }
     }

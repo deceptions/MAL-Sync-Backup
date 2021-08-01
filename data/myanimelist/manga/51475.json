@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:41.000Z",
-  "updatedAt": "2021-02-25T19:25:59.000Z",
+  "updatedAt": "2021-07-30T02:23:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,50 @@
         "aniId": 81475,
         "createdAt": "2021-02-25T19:25:59.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "orenchi_no_furo_jijou": {
+        "authors": [
+          "Itokichi"
+        ],
+        "identifier": "orenchi_no_furo_jijou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Orenchi no Furo Jijou",
+        "url": "https://fanfox.net/manga/orenchi_no_furo_jijou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14033/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51475,
+        "aniId": 81475,
+        "createdAt": "2021-07-30T02:22:49.000Z",
+        "updatedAt": "2021-07-30T02:51:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gm954569": {
+        "authors": [
+          "Itokichi"
+        ],
+        "identifier": "manga-gm954569",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Orenchi No Furo Jijou",
+        "url": "https://manganato.com/manga-gm954569",
+        "image": "https://avt.mkklcdnv6temp.com/11/j/3-1583468087.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51475,
+        "aniId": 81475,
+        "createdAt": "2021-07-31T21:52:04.000Z",
+        "updatedAt": "2021-07-31T22:21:49.000Z",
         "deletedAt": null
       }
     }

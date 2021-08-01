@@ -13,7 +13,7 @@
   "category": "One-shot",
   "hentai": false,
   "createdAt": "2020-12-30T15:47:51.000Z",
-  "updatedAt": "2021-02-01T10:32:04.000Z",
+  "updatedAt": "2021-07-28T16:21:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 111262,
         "createdAt": "2020-10-12T16:17:05.000Z",
         "updatedAt": "2021-06-07T04:39:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kl987894": {
+        "authors": [
+          "Kohitsuji No Niku"
+        ],
+        "identifier": "manga-kl987894",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kareshi Ni Donhiki Saretai Minamoto-San",
+        "url": "https://manganato.com/manga-kl987894",
+        "image": "https://avt.mkklcdnv6temp.com/16/j/23-1612173804.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121588,
+        "aniId": 111262,
+        "createdAt": "2021-07-28T16:21:36.000Z",
+        "updatedAt": "2021-07-28T16:51:36.000Z",
         "deletedAt": null
       }
     }

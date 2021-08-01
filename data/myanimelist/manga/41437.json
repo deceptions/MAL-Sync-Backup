@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:10.000Z",
-  "updatedAt": "2021-05-06T11:48:25.000Z",
+  "updatedAt": "2021-07-29T03:22:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 71437,
         "createdAt": "2020-10-12T16:05:55.000Z",
         "updatedAt": "2021-06-03T15:55:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "babel2-sei": {
+        "authors": [
+          "YOKOYAMA Mitsuteru"
+        ],
+        "identifier": "babel2-sei",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Babel 2-Sei",
+        "url": "https://mangasee123.com/manga/Babel2-Sei",
+        "image": "https://cover.nep.li/cover/Babel2-Sei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 41437,
+        "aniId": 71437,
+        "createdAt": "2021-07-29T03:22:06.000Z",
+        "updatedAt": "2021-07-29T15:51:39.000Z",
         "deletedAt": null
       }
     }

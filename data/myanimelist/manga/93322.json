@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:12.000Z",
-  "updatedAt": "2021-05-31T09:06:17.000Z",
+  "updatedAt": "2021-08-01T00:24:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,6 +82,28 @@
         "aniId": 86584,
         "createdAt": "2021-03-16T17:03:04.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tt951554": {
+        "authors": [
+          "Misora Riku"
+        ],
+        "identifier": "manga-tt951554",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ultimate Antihero",
+        "url": "https://manganato.com/manga-tt951554",
+        "image": "https://avt.mkklcdnv6temp.com/8/v/1-1583464014.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93322,
+        "aniId": 86584,
+        "createdAt": "2021-08-01T00:23:56.000Z",
+        "updatedAt": "2021-08-01T00:51:49.000Z",
         "deletedAt": null
       }
     }

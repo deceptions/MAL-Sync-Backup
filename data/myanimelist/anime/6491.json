@@ -11,7 +11,7 @@
   "category": "ONA",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:51.000Z",
-  "updatedAt": "2021-02-27T14:14:01.000Z",
+  "updatedAt": "2021-07-28T06:22:58.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +30,25 @@
         "aniId": 6491,
         "createdAt": "2021-02-27T14:17:22.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "scandal": {
+        "identifier": "scandal",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Scandal",
+        "url": "https://gogoanime.pe/category/scandal",
+        "image": "https://gogocdn.net/images/upload/15400.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6491,
+        "aniId": 6491,
+        "createdAt": "2021-07-28T06:22:48.000Z",
+        "updatedAt": "2021-07-28T06:51:36.000Z",
         "deletedAt": null
       }
     }

@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:08.000Z",
-  "updatedAt": "2021-05-24T15:08:17.000Z",
+  "updatedAt": "2021-07-25T01:21:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 109181,
         "createdAt": "2021-06-05T14:52:19.000Z",
         "updatedAt": "2021-06-05T15:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tensei_shitara_warui_kuni_no_musume_deshita": {
+        "authors": [
+          "Yuu Geni"
+        ],
+        "identifier": "tensei_shitara_warui_kuni_no_musume_deshita",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tensei Shitara Warui Kuni no Musume Deshita",
+        "url": "https://fanfox.net/manga/tensei_shitara_warui_kuni_no_musume_deshita/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31483/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121873,
+        "aniId": 109181,
+        "createdAt": "2021-07-25T01:21:44.000Z",
+        "updatedAt": "2021-07-25T01:51:34.000Z",
         "deletedAt": null
       }
     }

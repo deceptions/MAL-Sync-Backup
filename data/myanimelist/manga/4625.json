@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:01.000Z",
-  "updatedAt": "2021-03-25T05:49:25.000Z",
+  "updatedAt": "2021-07-29T19:21:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,50 @@
         "aniId": 34625,
         "createdAt": "2020-10-12T16:05:12.000Z",
         "updatedAt": "2021-06-03T10:59:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-sl969668": {
+        "authors": [
+          "Yumemakura Baku"
+        ],
+        "identifier": "manga-sl969668",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kamigami No Itadaki",
+        "url": "https://manganato.com/manga-sl969668",
+        "image": "https://avt.mkklcdnv6temp.com/6/v/13-1583487976.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4625,
+        "aniId": 34625,
+        "createdAt": "2021-07-29T19:21:55.000Z",
+        "updatedAt": "2021-07-29T19:51:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kamigami_no_itadaki": {
+        "authors": [
+          "YUMEMAKURA Baku"
+        ],
+        "identifier": "kamigami_no_itadaki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kamigami no Itadaki",
+        "url": "https://fanfox.net/manga/kamigami_no_itadaki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5022/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4625,
+        "aniId": 34625,
+        "createdAt": "2021-07-31T07:22:00.000Z",
+        "updatedAt": "2021-07-31T07:51:48.000Z",
         "deletedAt": null
       }
     }

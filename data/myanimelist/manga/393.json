@@ -17,7 +17,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:21.000Z",
-  "updatedAt": "2021-05-24T20:08:58.000Z",
+  "updatedAt": "2021-07-25T17:51:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,49 @@
         "aniId": 30393,
         "createdAt": "2020-10-12T16:03:28.000Z",
         "updatedAt": "2021-06-02T14:16:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nq952273": {
+        "authors": [
+          "Amagi Seimaru",
+          "Satou Fumiya"
+        ],
+        "identifier": "manga-nq952273",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kindaichi Shounen No Jikenbo R",
+        "url": "https://manganato.com/manga-nq952273",
+        "image": "https://avt.mkklcdnv6temp.com/33/s/1-1583465020.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 393,
+        "aniId": 30393,
+        "createdAt": "2021-07-25T17:51:33.000Z",
+        "updatedAt": "2021-07-25T18:21:34.000Z",
+        "deletedAt": null
+      },
+      "manga-in952222": {
+        "authors": [
+          "Kanari Youzaburou"
+        ],
+        "identifier": "manga-in952222",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kindaichi Shounen No Jikenbo",
+        "url": "https://manganato.com/manga-in952222",
+        "image": "https://avt.mkklcdnv6temp.com/32/b/1-1583464955.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 393,
+        "aniId": 30393,
+        "createdAt": "2021-07-28T03:23:39.000Z",
+        "updatedAt": "2021-07-28T03:51:36.000Z",
         "deletedAt": null
       }
     }

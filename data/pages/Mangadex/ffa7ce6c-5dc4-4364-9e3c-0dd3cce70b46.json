@@ -13,9 +13,9 @@
   "active": true,
   "actor": 2,
   "malId": 112079,
-  "aniId": null,
+  "aniId": 100927,
   "createdAt": "2020-10-12T16:12:21.000Z",
-  "updatedAt": "2021-06-05T15:31:15.000Z",
+  "updatedAt": "2021-07-31T10:51:48.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-06-05T14:50:37.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ベジちゃんねる",
+      "Veggie Channel"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tsugaru"
+    ],
+    "id": 100927,
+    "malId": 112079,
+    "type": "manga",
+    "title": "Vege Channel",
+    "url": "https://anilist.co/manga/100927",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100927-ZOTqhBJoU20u.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-31T10:21:59.000Z",
+    "updatedAt": "2021-07-31T10:21:59.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/112079/Vege_Channel"
 }

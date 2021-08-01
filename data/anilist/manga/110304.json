@@ -39,6 +39,50 @@
         "updatedAt": "2021-06-08T05:59:01.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-mw989379": {
+        "authors": [
+          "Masanoshita Kiyomasa"
+        ],
+        "identifier": "manga-mw989379",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kawasemi-San No Tsurigohan",
+        "url": "https://manganato.com/manga-mw989379",
+        "image": "https://avt.mkklcdnv6temp.com/28/n/24-1627575710.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120691,
+        "aniId": 110304,
+        "createdAt": "2021-07-29T18:52:58.000Z",
+        "updatedAt": "2021-07-29T19:21:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kawasemi_san_no_tsurigohan": {
+        "authors": [
+          "MASANOSHITA Kiyomasa"
+        ],
+        "identifier": "kawasemi_san_no_tsurigohan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kawasemi-san no Tsurigohan",
+        "url": "https://fanfox.net/manga/kawasemi_san_no_tsurigohan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37674/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120691,
+        "aniId": 110304,
+        "createdAt": "2021-07-30T16:22:12.000Z",
+        "updatedAt": "2021-07-30T16:51:48.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

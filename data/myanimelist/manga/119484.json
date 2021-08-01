@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:56.000Z",
-  "updatedAt": "2021-04-03T19:38:37.000Z",
+  "updatedAt": "2021-07-27T05:22:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,29 @@
         "aniId": 105370,
         "createdAt": "2021-04-03T19:38:38.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dl980894": {
+        "authors": [
+          "Aoisei",
+          "Anajiro"
+        ],
+        "identifier": "manga-dl980894",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kyoushitsu Jibaku Club",
+        "url": "https://manganato.com/manga-dl980894",
+        "image": "https://avt.mkklcdnv6temp.com/45/k/17-1583496899.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119484,
+        "aniId": 105370,
+        "createdAt": "2021-07-27T05:21:45.000Z",
+        "updatedAt": "2021-07-27T05:51:35.000Z",
         "deletedAt": null
       }
     }

@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 134201,
-  "aniId": null,
+  "aniId": 129049,
   "createdAt": "2021-02-25T21:26:11.000Z",
-  "updatedAt": "2021-06-08T12:07:38.000Z",
+  "updatedAt": "2021-07-25T07:51:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-06-08T11:57:55.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "蒼のアインツ",
+      "Hiraku"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Takatoshi Nakamura"
+    ],
+    "id": 129049,
+    "malId": 134201,
+    "type": "manga",
+    "title": "Ao no Eins",
+    "url": "https://anilist.co/manga/129049",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129049-5Gk8iVrvY8QU.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-25T07:21:34.000Z",
+    "updatedAt": "2021-07-25T07:21:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/134201/Aoi_no_Eins"
 }

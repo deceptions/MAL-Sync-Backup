@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-28T00:13:51.000Z",
-  "updatedAt": "2021-02-28T00:13:51.000Z",
+  "updatedAt": "2021-07-29T02:51:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 122128,
         "createdAt": "2020-10-12T16:19:47.000Z",
         "updatedAt": "2021-06-07T22:36:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-im986169": {
+        "authors": [
+          "Pyaa"
+        ],
+        "identifier": "manga-im986169",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kyuuketsuki To Yobaretai!",
+        "url": "https://manganato.com/manga-im986169",
+        "image": "https://avt.mkklcdnv6temp.com/45/z/21-1596775059.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133095,
+        "aniId": 122128,
+        "createdAt": "2021-07-29T02:51:39.000Z",
+        "updatedAt": "2021-07-29T03:21:39.000Z",
         "deletedAt": null
       }
     }

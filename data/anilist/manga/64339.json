@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-02T17:51:02.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "happy-project": {
+        "authors": [
+          "OCHIAI Hirokazu"
+        ],
+        "identifier": "happy-project",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Happy Project",
+        "url": "https://mangasee123.com/manga/Happy-Project",
+        "image": "https://cover.nep.li/cover/Happy-Project.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34339,
+        "aniId": 64339,
+        "createdAt": "2021-07-27T23:21:39.000Z",
+        "updatedAt": "2021-07-27T23:51:35.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

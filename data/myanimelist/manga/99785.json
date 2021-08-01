@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:34.000Z",
-  "updatedAt": "2021-05-05T07:03:42.000Z",
+  "updatedAt": "2021-07-27T20:52:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 103073,
         "createdAt": "2020-10-12T16:12:28.000Z",
         "updatedAt": "2021-06-05T14:53:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mimi_yori_harmonia": {
+        "authors": [
+          "wadapen."
+        ],
+        "identifier": "mimi_yori_harmonia",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mimi yori Harmonia",
+        "url": "https://fanfox.net/manga/mimi_yori_harmonia/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27639/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99785,
+        "aniId": 103073,
+        "createdAt": "2021-07-27T20:51:48.000Z",
+        "updatedAt": "2021-07-27T21:21:35.000Z",
         "deletedAt": null
       }
     }

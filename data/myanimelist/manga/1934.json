@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:39.000Z",
-  "updatedAt": "2021-04-27T07:50:39.000Z",
+  "updatedAt": "2021-07-25T16:22:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 31934,
         "createdAt": "2020-10-12T16:03:03.000Z",
         "updatedAt": "2021-06-02T11:23:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tropical_citron": {
+        "authors": [
+          "MATSUMOTO Jiro"
+        ],
+        "identifier": "tropical_citron",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tropical Citron",
+        "url": "https://fanfox.net/manga/tropical_citron/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2978/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1934,
+        "aniId": 31934,
+        "createdAt": "2021-07-25T16:21:35.000Z",
+        "updatedAt": "2021-07-25T16:51:34.000Z",
         "deletedAt": null
       }
     }

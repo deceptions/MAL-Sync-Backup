@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:07.000Z",
-  "updatedAt": "2021-06-29T08:47:55.000Z",
+  "updatedAt": "2021-07-30T02:22:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -85,6 +85,28 @@
         "aniId": 111595,
         "createdAt": "2021-06-29T17:50:17.000Z",
         "updatedAt": "2021-06-29T18:20:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_duchess_of_the_attic": {
+        "authors": [
+          "Mori"
+        ],
+        "identifier": "the_duchess_of_the_attic",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Duchess of the Attic",
+        "url": "https://fanfox.net/manga/the_duchess_of_the_attic/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30476/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121798,
+        "aniId": 111595,
+        "createdAt": "2021-08-01T00:52:07.000Z",
+        "updatedAt": "2021-08-01T01:17:28.000Z",
         "deletedAt": null
       }
     }

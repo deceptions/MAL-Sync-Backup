@@ -1,7 +1,7 @@
 {
   "authors": [
-    "MURA Kuroe",
-    "SORANO Susumi"
+    "SORANO Susumi",
+    "MURA Kuroe"
   ],
   "identifier": "94aa551b-bb0e-4d8f-86fe-1f6ad311e77e",
   "type": "manga",
@@ -12,13 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 112464,
   "createdAt": "2021-02-19T07:03:28.000Z",
-  "updatedAt": "2021-06-08T11:33:15.000Z",
+  "updatedAt": "2021-07-27T14:52:36.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "スローライフがしたい大賢者、娘を拾う。",
+      "Slow Life ga Shitai Daikensha, Musume o Hirou.",
+      "The Great Sage Who Wants \"Slow Life\" Raises a Daughter."
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kuroe Mura",
+      "Susumu Sorano",
+      "torino"
+    ],
+    "id": 112464,
+    "malId": null,
+    "type": "manga",
+    "title": "Slow Life ga Shitai Daikensha, Musume wo Hirou.",
+    "url": "https://anilist.co/manga/112464",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112464-c21pIAmhTPhX.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-26T19:52:07.000Z",
+    "updatedAt": "2021-07-26T19:52:07.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

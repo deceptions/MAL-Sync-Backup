@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-02T14:01:11.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "mononoke-soushi": {
+        "authors": [
+          "TAKAHASHI Yousuke"
+        ],
+        "identifier": "mononoke-soushi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mononoke Soushi",
+        "url": "https://mangasee123.com/manga/Mononoke-Soushi",
+        "image": "https://cover.nep.li/cover/Mononoke-Soushi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17964,
+        "aniId": 47964,
+        "createdAt": "2021-07-29T03:22:14.000Z",
+        "updatedAt": "2021-07-29T03:51:39.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

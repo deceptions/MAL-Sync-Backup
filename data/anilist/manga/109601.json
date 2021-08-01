@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-07T03:07:02.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "nekodamari": {
+        "authors": [
+          "Goumoto"
+        ],
+        "identifier": "nekodamari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "NekoDamari",
+        "url": "https://fanfox.net/manga/nekodamari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32398/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114868,
+        "aniId": 109601,
+        "createdAt": "2021-07-26T13:52:01.000Z",
+        "updatedAt": "2021-07-26T14:21:35.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-02T08:23:16.000Z",
-  "updatedAt": "2021-06-21T13:27:16.000Z",
+  "updatedAt": "2021-07-25T09:21:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 99090,
         "createdAt": "2020-10-12T16:08:42.000Z",
         "updatedAt": "2021-06-04T12:44:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ko952449": {
+        "authors": [
+          "Vivian Tian Zong"
+        ],
+        "identifier": "manga-ko952449",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Cupid's Chocolates",
+        "url": "https://manganato.com/manga-ko952449",
+        "image": "https://avt.mkklcdnv6temp.com/39/t/1-1583465267.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 99090,
+        "createdAt": "2021-07-25T09:21:36.000Z",
+        "updatedAt": "2021-07-25T09:21:36.000Z",
         "deletedAt": null
       }
     }

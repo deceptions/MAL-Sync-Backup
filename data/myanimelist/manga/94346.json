@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:20.000Z",
-  "updatedAt": "2021-05-15T04:54:43.000Z",
+  "updatedAt": "2021-07-26T17:51:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 96397,
         "createdAt": "2020-10-12T16:09:03.000Z",
         "updatedAt": "2021-06-04T14:50:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-sb952058": {
+        "authors": [
+          "Tanemura Arina"
+        ],
+        "identifier": "manga-sb952058",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shunkan Lyle",
+        "url": "https://readmanganato.com/manga-sb952058",
+        "image": "https://avt.mkklcdnv6temp.com/26/h/1-1583464726.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94346,
+        "aniId": 96397,
+        "createdAt": "2021-07-26T17:51:35.000Z",
+        "updatedAt": "2021-07-26T18:21:36.000Z",
         "deletedAt": null
       }
     }

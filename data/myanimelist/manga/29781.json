@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:38.000Z",
-  "updatedAt": "2021-03-10T08:40:45.000Z",
+  "updatedAt": "2021-07-31T21:23:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 59781,
         "createdAt": "2021-03-10T08:40:46.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-sf953188": {
+        "authors": [
+          "Hosokawa Masami"
+        ],
+        "identifier": "manga-sf953188",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sugarless (Hosokawa Masami)",
+        "url": "https://manganato.com/manga-sf953188",
+        "image": "https://avt.mkklcdnv6temp.com/14/u/2-1583466270.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29781,
+        "aniId": 59781,
+        "createdAt": "2021-07-31T21:23:16.000Z",
+        "updatedAt": "2021-07-31T21:51:49.000Z",
         "deletedAt": null
       }
     }

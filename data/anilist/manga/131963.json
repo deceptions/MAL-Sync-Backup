@@ -10,7 +10,7 @@
     "Syasyaki"
   ],
   "id": 131963,
-  "malId": null,
+  "malId": 139094,
   "type": "manga",
   "title": "Otaku datte Gal to Koi Shitai",
   "url": "https://anilist.co/manga/131963",
@@ -18,7 +18,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-12T20:08:19.000Z",
-  "updatedAt": "2021-06-21T17:45:31.000Z",
+  "updatedAt": "2021-07-30T06:51:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "e16f9a7e-7c2d-4ee2-8034-6ddc6672393b": {
+        "authors": [
+          "sasakisaki9646"
+        ],
+        "identifier": "e16f9a7e-7c2d-4ee2-8034-6ddc6672393b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Story of an Otaku and a Gyaru Falling in Love",
+        "url": "https://mangadex.org/title/e16f9a7e-7c2d-4ee2-8034-6ddc6672393b",
+        "image": "https://uploads.mangadex.org/covers/e16f9a7e-7c2d-4ee2-8034-6ddc6672393b/a6b4f828-afec-49b2-82cb-1e60c9560712.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 139094,
+        "aniId": 131963,
+        "createdAt": "2020-10-12T16:19:53.000Z",
+        "updatedAt": "2021-07-31T15:21:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

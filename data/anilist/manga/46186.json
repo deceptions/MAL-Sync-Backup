@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-03T16:44:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "tokyo-alice": {
+        "authors": [
+          "CHIYA Toriko"
+        ],
+        "identifier": "tokyo-alice",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tokyo Alice",
+        "url": "https://mangasee123.com/manga/Tokyo-Alice",
+        "image": "https://cover.nep.li/cover/Tokyo-Alice.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16186,
+        "aniId": 46186,
+        "createdAt": "2021-07-30T00:53:07.000Z",
+        "updatedAt": "2021-07-30T01:21:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

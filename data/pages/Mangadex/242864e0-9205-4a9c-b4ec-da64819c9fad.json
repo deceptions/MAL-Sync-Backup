@@ -14,9 +14,9 @@
   "active": true,
   "actor": 1,
   "malId": 123709,
-  "aniId": null,
+  "aniId": 117837,
   "createdAt": "2020-10-12T16:20:01.000Z",
-  "updatedAt": "2021-06-08T07:06:04.000Z",
+  "updatedAt": "2021-07-26T17:51:35.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -39,6 +39,28 @@
     "updatedAt": "2021-06-07T23:24:01.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "弧を描く",
+      "Draw an arc",
+      "Fly in an Arc"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Satoshi Kinoshita",
+      "Yoshiki Iwai"
+    ],
+    "id": 117837,
+    "malId": 123709,
+    "type": "manga",
+    "title": "Ko wo Egaku",
+    "url": "https://anilist.co/manga/117837",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117837-1cWuhqomjQaX.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-26T17:21:36.000Z",
+    "updatedAt": "2021-07-26T17:21:36.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/123709/Ko_wo_Egaku"
 }

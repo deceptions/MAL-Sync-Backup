@@ -4,7 +4,8 @@
   ],
   "externalLinks": [],
   "authors": [
-    "Yoshiki Tonogai"
+    "Yoshiki Tonogai",
+    "David Le Quere"
   ],
   "id": 47915,
   "malId": 17915,
@@ -15,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:14.000Z",
-  "updatedAt": "2021-06-17T16:01:49.000Z",
+  "updatedAt": "2021-07-29T07:21:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +81,28 @@
         "aniId": 47915,
         "createdAt": "2021-01-28T03:15:28.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ku961677": {
+        "authors": [
+          "Tonogai Yoshiki"
+        ],
+        "identifier": "manga-ku961677",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Judge",
+        "url": "https://manganato.com/manga-ku961677",
+        "image": "https://avt.mkklcdnv6temp.com/46/q/7-1583478044.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17915,
+        "aniId": 47915,
+        "createdAt": "2021-07-27T07:22:19.000Z",
+        "updatedAt": "2021-07-27T07:51:35.000Z",
         "deletedAt": null
       }
     }

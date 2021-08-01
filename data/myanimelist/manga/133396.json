@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-23T21:25:37.000Z",
-  "updatedAt": "2021-06-19T01:21:01.000Z",
+  "updatedAt": "2021-07-30T16:22:12.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -85,6 +85,28 @@
         "aniId": 128609,
         "createdAt": "2021-05-31T13:31:26.000Z",
         "updatedAt": "2021-06-19T12:04:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "isekai_no_senshi_toshite_kuni_ni_manekareta_kedo": {
+        "authors": [
+          "YUSAGI Aneko"
+        ],
+        "identifier": "isekai_no_senshi_toshite_kuni_ni_manekareta_kedo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Isekai no Senshi Toshite Kuni ni Manekareta Kedo",
+        "url": "https://fanfox.net/manga/isekai_no_senshi_toshite_kuni_ni_manekareta_kedo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35629/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 133396,
+        "aniId": 128609,
+        "createdAt": "2021-07-30T16:22:09.000Z",
+        "updatedAt": "2021-07-30T18:51:48.000Z",
         "deletedAt": null
       }
     }

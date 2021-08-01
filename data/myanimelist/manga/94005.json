@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:19.000Z",
-  "updatedAt": "2021-02-21T10:33:29.000Z",
+  "updatedAt": "2021-07-27T13:52:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -101,6 +101,29 @@
         "aniId": 86626,
         "createdAt": "2021-02-21T10:33:31.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-eu952177": {
+        "authors": [
+          "Shirako",
+          "Shin5"
+        ],
+        "identifier": "manga-eu952177",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kekkonshite Mo Koishiteru",
+        "url": "https://manganato.com/manga-eu952177",
+        "image": "https://avt.mkklcdnv6temp.com/30/m/1-1583464893.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94005,
+        "aniId": 86626,
+        "createdAt": "2021-07-27T13:52:50.000Z",
+        "updatedAt": "2021-07-27T14:21:35.000Z",
         "deletedAt": null
       }
     }

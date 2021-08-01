@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:44.000Z",
-  "updatedAt": "2021-03-26T16:24:26.000Z",
+  "updatedAt": "2021-07-26T15:23:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 49365,
         "createdAt": "2021-03-26T16:24:26.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kv961604": {
+        "authors": [
+          "Kurose Kousuke"
+        ],
+        "identifier": "manga-kv961604",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Idolm@ster Dearly Stars: Neue Green",
+        "url": "https://manganato.com/manga-kv961604",
+        "image": "https://avt.mkklcdnv6temp.com/44/e/7-1583477947.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19365,
+        "aniId": 49365,
+        "createdAt": "2021-07-26T15:22:56.000Z",
+        "updatedAt": "2021-07-26T15:51:35.000Z",
         "deletedAt": null
       }
     }

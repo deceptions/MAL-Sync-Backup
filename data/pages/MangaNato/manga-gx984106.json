@@ -11,13 +11,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 117591,
+  "aniId": 115408,
   "createdAt": "2021-06-04T07:49:28.000Z",
-  "updatedAt": "2021-06-04T07:49:28.000Z",
+  "updatedAt": "2021-07-31T16:51:49.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Kokuen no Ikusa Otome",
+      "黒焔の戦乙女〈ヴァルキリー〉"
+    ],
+    "authors": [
+      "Kajioki, Takuma"
+    ],
+    "id": 117591,
+    "type": "manga",
+    "title": "Kokuen no Valkyrie",
+    "url": "https://myanimelist.net/manga/117591/Kokuen_no_Valkyrie",
+    "image": "https://cdn.myanimelist.net/images/manga/3/224717.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:51.000Z",
+    "updatedAt": "2021-07-31T15:22:20.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "黒焔の戦乙女",
+      "Kokuen no Ikusa Otome",
+      "ヴァルキリー"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kajioki Takuma"
+    ],
+    "id": 115408,
+    "malId": 117591,
+    "type": "manga",
+    "title": "Kokuen no Valkyrie",
+    "url": "https://anilist.co/manga/115408",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115408-npKi9zLWpeSH.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:57:56.000Z",
+    "updatedAt": "2021-06-18T08:01:51.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/117591/Kokuen_no_Valkyrie"
 }

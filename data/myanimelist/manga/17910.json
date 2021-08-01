@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:29.000Z",
-  "updatedAt": "2021-06-15T15:58:03.000Z",
+  "updatedAt": "2021-07-25T16:51:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 47910,
         "createdAt": "2020-12-15T15:49:32.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yomawari_sensei": {
+        "authors": [
+          "MIZUTANI Osamu"
+        ],
+        "identifier": "yomawari_sensei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yomawari Sensei",
+        "url": "https://fanfox.net/manga/yomawari_sensei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/19913/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17910,
+        "aniId": 47910,
+        "createdAt": "2021-07-25T16:51:34.000Z",
+        "updatedAt": "2021-07-25T17:21:34.000Z",
         "deletedAt": null
       }
     }

@@ -1,6 +1,7 @@
 {
   "altTitle": [
-    "I Found a Kitten, I Found a Baby Cat",
+    "I Found a Kitten",
+    "I Found a Baby Cat",
     "子猫拾いました"
   ],
   "authors": [
@@ -14,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:28.000Z",
-  "updatedAt": "2021-05-16T06:25:17.000Z",
+  "updatedAt": "2021-07-27T13:52:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +37,48 @@
         "aniId": 87138,
         "createdAt": "2020-10-12T16:09:40.000Z",
         "updatedAt": "2021-06-04T19:09:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tx970906": {
+        "authors": [
+          "Yohachi"
+        ],
+        "identifier": "manga-tx970906",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Found A Kitten",
+        "url": "https://manganato.com/manga-tx970906",
+        "image": "https://avt.mkklcdnv6temp.com/35/l/13-1583489011.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97844,
+        "aniId": 87138,
+        "createdAt": "2021-07-27T13:51:35.000Z",
+        "updatedAt": "2021-07-27T14:21:35.000Z",
+        "deletedAt": null
+      },
+      "manga-tb970936": {
+        "authors": [
+          "Yohachi"
+        ],
+        "identifier": "manga-tb970936",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Koneko Hiroimashita",
+        "url": "https://manganato.com/manga-tb970936",
+        "image": "https://avt.mkklcdnv6temp.com/36/c/13-1583489033.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97844,
+        "aniId": 87138,
+        "createdAt": "2021-07-27T13:52:36.000Z",
+        "updatedAt": "2021-07-27T14:21:35.000Z",
         "deletedAt": null
       }
     }

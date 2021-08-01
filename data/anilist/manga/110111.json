@@ -11,7 +11,7 @@
     "Toyo"
   ],
   "id": 110111,
-  "malId": null,
+  "malId": 120127,
   "type": "manga",
   "title": "Asoko Araiya-san!",
   "url": "https://anilist.co/manga/110111",
@@ -19,7 +19,30 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-06-04T10:18:58.000Z",
-  "updatedAt": "2021-06-21T14:24:23.000Z",
+  "updatedAt": "2021-07-31T09:51:59.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a857975c-75a7-4a82-9ffb-98631c5f3166": {
+        "authors": [
+          "Toyo"
+        ],
+        "identifier": "a857975c-75a7-4a82-9ffb-98631c5f3166",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Araiya-san Ore to Aitsu ga Onnayu de",
+        "url": "https://mangadex.org/title/a857975c-75a7-4a82-9ffb-98631c5f3166",
+        "image": "https://uploads.mangadex.org/covers/a857975c-75a7-4a82-9ffb-98631c5f3166/c9aa125c-cac6-4d72-950a-7584ba7fac99.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 120127,
+        "aniId": 110111,
+        "createdAt": "2020-10-12T16:14:13.000Z",
+        "updatedAt": "2021-07-31T10:21:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

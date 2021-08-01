@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:22.000Z",
-  "updatedAt": "2021-06-03T18:49:37.000Z",
+  "updatedAt": "2021-07-30T01:22:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,48 @@
         "aniId": 115937,
         "createdAt": "2021-06-03T18:49:38.000Z",
         "updatedAt": "2021-06-03T19:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "my_classmate_tanaka_san_is_super_scary_pre_serialization": {
+        "authors": [
+          "Yasushige"
+        ],
+        "identifier": "my_classmate_tanaka_san_is_super_scary_pre_serialization",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "My Classmate Tanaka-san Is Super Scary (Pre-Serialization)",
+        "url": "https://fanfox.net/manga/my_classmate_tanaka_san_is_super_scary_pre_serialization/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36092/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127226,
+        "aniId": 115937,
+        "createdAt": "2021-07-30T01:22:06.000Z",
+        "updatedAt": "2021-07-30T01:51:45.000Z",
+        "deletedAt": null
+      },
+      "my_classmate_tanaka_san_is_super_scary": {
+        "authors": [
+          "Yasushige"
+        ],
+        "identifier": "my_classmate_tanaka_san_is_super_scary",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "My Classmate Tanaka-San Is Super Scary",
+        "url": "https://fanfox.net/manga/my_classmate_tanaka_san_is_super_scary/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30345/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127226,
+        "aniId": 115937,
+        "createdAt": "2021-07-30T01:22:11.000Z",
+        "updatedAt": "2021-07-30T01:51:45.000Z",
         "deletedAt": null
       }
     }

@@ -13,7 +13,7 @@
   "category": "Special",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:42.000Z",
-  "updatedAt": "2021-06-15T05:58:56.000Z",
+  "updatedAt": "2021-07-25T10:52:16.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -51,6 +51,42 @@
         "aniId": 102098,
         "createdAt": "2021-01-02T22:51:53.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "garo-honoo-no-kokuin-home": {
+        "identifier": "garo-honoo-no-kokuin-home",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Garo: Honoo no Kokuin - Home",
+        "url": "https://gogoanime.pe/category/garo-honoo-no-kokuin-home",
+        "image": "https://gogocdn.net/cover/garo-honoo-no-kokuin-home.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32415,
+        "aniId": 102098,
+        "createdAt": "2021-07-25T10:52:08.000Z",
+        "updatedAt": "2021-07-25T11:21:33.000Z",
+        "deletedAt": null
+      },
+      "garo-honoo-no-kokuin-home-dub": {
+        "identifier": "garo-honoo-no-kokuin-home-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Garo: Honoo no Kokuin - Home (Dub)",
+        "url": "https://gogoanime.pe/category/garo-honoo-no-kokuin-home-dub",
+        "image": "https://gogocdn.net/cover/garo-honoo-no-kokuin-home-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32415,
+        "aniId": 102098,
+        "createdAt": "2021-07-27T04:51:38.000Z",
+        "updatedAt": "2021-07-27T05:21:35.000Z",
         "deletedAt": null
       }
     }

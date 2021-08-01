@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:53.000Z",
-  "updatedAt": "2021-05-02T14:03:52.000Z",
+  "updatedAt": "2021-07-25T18:22:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -79,6 +79,28 @@
         "aniId": 50757,
         "createdAt": "2021-05-02T14:03:52.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dl956946": {
+        "authors": [
+          "Sanada Ikki"
+        ],
+        "identifier": "manga-dl956946",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shitsuji Shoujo To Ojousama",
+        "url": "https://manganato.com/manga-dl956946",
+        "image": "https://avt.mkklcdnv6temp.com/30/v/4-1583470955.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20757,
+        "aniId": 50757,
+        "createdAt": "2021-07-25T18:21:57.000Z",
+        "updatedAt": "2021-07-25T18:51:34.000Z",
         "deletedAt": null
       }
     }

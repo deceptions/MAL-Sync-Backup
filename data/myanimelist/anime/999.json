@@ -1,7 +1,8 @@
 {
   "altTitle": [
     "Blue Seed Beyond",
-    "Blue Seed 2: Operation Mitama, Blue Seed OVA",
+    "Blue Seed 2: Operation Mitama",
+    "Blue Seed OVA",
     "ブルーシード 2"
   ],
   "id": 999,
@@ -12,7 +13,7 @@
   "category": "OVA",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:11.000Z",
-  "updatedAt": "2021-03-13T20:39:41.000Z",
+  "updatedAt": "2021-08-01T00:23:39.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +49,25 @@
         "aniId": 999,
         "createdAt": "2020-10-12T15:51:34.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "blue-seed-beyond": {
+        "identifier": "blue-seed-beyond",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Blue Seed Beyond",
+        "url": "https://gogoanime.pe/category/blue-seed-beyond",
+        "image": "https://gogocdn.net/cover/blue-seed-beyond.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 999,
+        "aniId": 999,
+        "createdAt": "2021-08-01T00:23:25.000Z",
+        "updatedAt": "2021-08-01T00:51:49.000Z",
         "deletedAt": null
       }
     }

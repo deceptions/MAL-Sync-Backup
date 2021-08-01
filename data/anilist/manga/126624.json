@@ -9,15 +9,38 @@
     "Yoshiyuki Tomino"
   ],
   "id": 126624,
-  "malId": null,
+  "malId": 132537,
   "type": "manga",
   "title": "Arasa OL Haman-sama",
   "url": "https://anilist.co/manga/126624",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126624-hBRK2jbWOxRj.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126624-wkP6ZPZsUl7F.jpg",
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-09T13:13:20.000Z",
-  "updatedAt": "2021-07-09T13:13:20.000Z",
+  "updatedAt": "2021-07-26T20:51:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a6982158-9039-4432-8bf5-264a55c5620c": {
+        "authors": [
+          "Masakazu Iwasaki"
+        ],
+        "identifier": "a6982158-9039-4432-8bf5-264a55c5620c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Arasa OL Haman-sama",
+        "url": "https://mangadex.org/title/a6982158-9039-4432-8bf5-264a55c5620c",
+        "image": "https://uploads.mangadex.org/covers/a6982158-9039-4432-8bf5-264a55c5620c/02037ac2-fbb4-4572-87de-b0ada20b12c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 132537,
+        "aniId": 126624,
+        "createdAt": "2021-06-14T06:58:47.000Z",
+        "updatedAt": "2021-07-26T21:21:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

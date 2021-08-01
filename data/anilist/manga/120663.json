@@ -17,5 +17,28 @@
   "createdAt": "2021-06-09T01:25:21.000Z",
   "updatedAt": "2021-06-18T09:31:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ml989368": {
+        "authors": [
+          "Amairo Chu"
+        ],
+        "identifier": "manga-ml989368",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kimi Ni Hatsukoi Propose",
+        "url": "https://manganato.com/manga-ml989368",
+        "image": "https://avt.mkklcdnv6temp.com/28/d/24-1627483278.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123220,
+        "aniId": 120663,
+        "createdAt": "2021-07-28T16:52:41.000Z",
+        "updatedAt": "2021-07-28T17:21:36.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

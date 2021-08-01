@@ -11,13 +11,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 23519,
+  "aniId": 53519,
   "createdAt": "2021-04-05T19:09:28.000Z",
-  "updatedAt": "2021-04-05T19:09:28.000Z",
+  "updatedAt": "2021-07-30T15:21:48.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "And",
+      "＆ －アンド－"
+    ],
+    "authors": [
+      "Okazaki, Mari"
+    ],
+    "id": 23519,
+    "type": "manga",
+    "title": "&",
+    "url": "https://myanimelist.net/manga/23519/_",
+    "image": "https://cdn.myanimelist.net/images/manga/3/59089.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:43:10.000Z",
+    "updatedAt": "2021-07-30T00:53:04.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "＆ －アンド－",
+      "And",
+      "& (Okazaki Mari)"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mari Okazaki",
+      "Aline Kukor"
+    ],
+    "id": 53519,
+    "malId": 23519,
+    "type": "manga",
+    "title": "&",
+    "url": "https://anilist.co/manga/53519",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53519-vn3umrHlrnvf.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:46:38.000Z",
+    "updatedAt": "2021-06-17T17:33:48.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/23519/_"
 }

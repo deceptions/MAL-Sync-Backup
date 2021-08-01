@@ -14,7 +14,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:29.000Z",
-  "updatedAt": "2021-02-26T18:55:43.000Z",
+  "updatedAt": "2021-07-25T22:53:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 31033,
         "createdAt": "2020-10-12T16:08:44.000Z",
         "updatedAt": "2021-06-04T12:13:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "let_dai": {
+        "authors": [
+          "Woon Soo-yeon"
+        ],
+        "identifier": "let_dai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Let Dai",
+        "url": "https://fanfox.net/manga/let_dai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3776/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1033,
+        "aniId": 31033,
+        "createdAt": "2021-07-25T22:53:07.000Z",
+        "updatedAt": "2021-07-25T23:21:34.000Z",
         "deletedAt": null
       }
     }

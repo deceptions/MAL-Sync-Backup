@@ -13,9 +13,9 @@
   "active": true,
   "actor": 2,
   "malId": 114611,
-  "aniId": null,
+  "aniId": 110951,
   "createdAt": "2020-10-12T16:13:43.000Z",
-  "updatedAt": "2021-06-06T00:23:19.000Z",
+  "updatedAt": "2021-07-27T18:51:35.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-06-05T23:49:28.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "よんこますたぁらいと",
+      "4-koma Starlight"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mawaru Makimaki"
+    ],
+    "id": 110951,
+    "malId": 114611,
+    "type": "manga",
+    "title": "Yonkoma Starlight",
+    "url": "https://anilist.co/manga/110951",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110951-UiyoNYLoZxiZ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-27T18:21:35.000Z",
+    "updatedAt": "2021-07-27T18:21:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/114611/Yonkoma_Starlight"
 }

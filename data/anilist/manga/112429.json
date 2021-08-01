@@ -62,6 +62,28 @@
         "updatedAt": "2021-05-20T15:40:31.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "alma": {
+        "authors": [
+          "MITO Shinji"
+        ],
+        "identifier": "alma",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Alma",
+        "url": "https://fanfox.net/manga/alma/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33042/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122117,
+        "aniId": 112429,
+        "createdAt": "2021-08-01T11:18:37.000Z",
+        "updatedAt": "2021-08-01T11:47:28.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

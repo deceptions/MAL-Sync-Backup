@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:07.000Z",
-  "updatedAt": "2021-05-29T04:14:38.000Z",
+  "updatedAt": "2021-07-29T08:51:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 98233,
         "createdAt": "2020-10-12T16:17:51.000Z",
         "updatedAt": "2021-06-07T11:45:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ar954026": {
+        "authors": [
+          "Hiwatari Haruki"
+        ],
+        "identifier": "manga-ar954026",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yamete Kudasai, Mabushii Desu.",
+        "url": "https://manganato.com/manga-ar954026",
+        "image": "https://avt.mkklcdnv6temp.com/44/c/2-1583467389.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91448,
+        "aniId": 98233,
+        "createdAt": "2021-07-29T08:51:39.000Z",
+        "updatedAt": "2021-07-29T09:21:39.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:17.000Z",
-  "updatedAt": "2021-06-29T10:02:53.000Z",
+  "updatedAt": "2021-07-30T07:52:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -143,6 +143,26 @@
         "aniId": 30026,
         "createdAt": "2021-05-29T19:12:12.000Z",
         "updatedAt": "2021-05-29T19:42:12.000Z",
+        "deletedAt": null
+      },
+      "manga-fd983260": {
+        "authors": [
+          "Togashi Yoshihiro"
+        ],
+        "identifier": "manga-fd983260",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hunter X Hunter Full Color",
+        "url": "https://readmanganato.com/manga-fd983260",
+        "image": "https://avt.mkklcdnv6temp.com/31/v/19-1583500349.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 26,
+        "aniId": 30026,
+        "createdAt": "2021-07-30T07:52:05.000Z",
+        "updatedAt": "2021-07-30T15:21:48.000Z",
         "deletedAt": null
       }
     }

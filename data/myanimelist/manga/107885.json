@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:07.000Z",
-  "updatedAt": "2021-05-09T08:17:56.000Z",
+  "updatedAt": "2021-07-29T08:22:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 99473,
         "createdAt": "2021-05-09T08:18:03.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zg977089": {
+        "authors": [
+          "Ootori Mahiro"
+        ],
+        "identifier": "manga-zg977089",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Black Lily And White Lily",
+        "url": "https://readmanganato.com/manga-zg977089",
+        "image": "https://avt.mkklcdnv6temp.com/35/c/15-1583492838.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107885,
+        "aniId": 99473,
+        "createdAt": "2021-07-29T08:21:44.000Z",
+        "updatedAt": "2021-07-29T08:51:39.000Z",
         "deletedAt": null
       }
     }

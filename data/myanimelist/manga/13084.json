@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:50.000Z",
-  "updatedAt": "2021-07-01T00:30:53.000Z",
+  "updatedAt": "2021-07-31T23:22:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 43084,
         "createdAt": "2021-07-14T10:51:00.000Z",
         "updatedAt": "2021-07-14T11:20:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qu960829": {
+        "authors": [
+          "Sakurai Ato"
+        ],
+        "identifier": "manga-qu960829",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Artist Acro",
+        "url": "https://manganato.com/manga-qu960829",
+        "image": "https://avt.mkklcdnv6temp.com/16/i/7-1583476893.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13084,
+        "aniId": 43084,
+        "createdAt": "2021-07-31T23:22:00.000Z",
+        "updatedAt": "2021-07-31T23:51:49.000Z",
         "deletedAt": null
       }
     }

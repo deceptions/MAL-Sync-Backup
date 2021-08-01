@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-08T00:53:09.000Z",
-  "updatedAt": "2021-06-21T16:22:01.000Z",
+  "updatedAt": "2021-07-26T03:22:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 123570,
         "createdAt": "2020-10-12T16:20:36.000Z",
         "updatedAt": "2021-06-08T00:54:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ii986165": {
+        "authors": [
+          "Hong Jun"
+        ],
+        "identifier": "manga-ii986165",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "We Meet Again, Miss Lou",
+        "url": "https://manganato.com/manga-ii986165",
+        "image": "https://avt.mkklcdnv6temp.com/45/v/21-1596772518.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 123570,
+        "createdAt": "2021-07-26T03:22:37.000Z",
+        "updatedAt": "2021-07-26T16:16:23.000Z",
         "deletedAt": null
       }
     }

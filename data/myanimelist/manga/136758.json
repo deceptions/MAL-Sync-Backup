@@ -15,9 +15,55 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-05-29T18:14:03.000Z",
-  "updatedAt": "2021-05-29T18:14:03.000Z",
+  "updatedAt": "2021-07-27T17:51:46.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "21c4c1ff-67f6-4c9d-88aa-9869f734f839": {
+        "authors": [
+          "Tasuro",
+          "Torikai Yasuyuki"
+        ],
+        "identifier": "21c4c1ff-67f6-4c9d-88aa-9869f734f839",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Makai Kaeri no Rettou Nouryokusha",
+        "url": "https://mangadex.org/title/21c4c1ff-67f6-4c9d-88aa-9869f734f839",
+        "image": "https://uploads.mangadex.org/covers/21c4c1ff-67f6-4c9d-88aa-9869f734f839/a09d3674-f013-4fdd-aac9-78f0586e73dd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 136758,
+        "aniId": 125495,
+        "createdAt": "2020-10-24T08:29:20.000Z",
+        "updatedAt": "2021-07-28T15:51:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "makai-kaeri-no-rettou-nouryokusha": {
+        "authors": [
+          "Tasurou",
+          "TORIKAI Yasuyuki"
+        ],
+        "identifier": "makai-kaeri-no-rettou-nouryokusha",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Makai Kaeri no Rettou Nouryokusha",
+        "url": "https://mangasee123.com/manga/Makai-Kaeri-no-Rettou-Nouryokusha",
+        "image": "https://cover.nep.li/cover/Makai-Kaeri-no-Rettou-Nouryokusha.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136758,
+        "aniId": 125495,
+        "createdAt": "2021-02-21T11:34:03.000Z",
+        "updatedAt": "2021-07-27T17:51:46.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-kn987470": {
         "authors": [
@@ -37,7 +83,7 @@
         "malId": 136758,
         "aniId": 125495,
         "createdAt": "2021-05-29T18:14:04.000Z",
-        "updatedAt": "2021-05-29T18:42:12.000Z",
+        "updatedAt": "2021-07-27T18:22:07.000Z",
         "deletedAt": null
       }
     }

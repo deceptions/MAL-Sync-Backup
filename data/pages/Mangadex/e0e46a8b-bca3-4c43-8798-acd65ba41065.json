@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 134789,
-  "aniId": null,
+  "aniId": 123900,
   "createdAt": "2020-10-12T16:21:25.000Z",
-  "updatedAt": "2021-06-08T06:55:14.000Z",
+  "updatedAt": "2021-07-26T03:51:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -35,6 +35,25 @@
     "updatedAt": "2021-06-08T02:52:30.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "待宵の鬼"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Fumi Tsuyuhisa"
+    ],
+    "id": 123900,
+    "malId": 134789,
+    "type": "manga",
+    "title": "Matsuyoi no Oni",
+    "url": "https://anilist.co/manga/123900",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123900-REojuxcrjsut.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-26T03:21:34.000Z",
+    "updatedAt": "2021-07-26T03:21:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/134789/Matsuyoi_no_Oni"
 }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:42.000Z",
-  "updatedAt": "2021-05-12T10:24:49.000Z",
+  "updatedAt": "2021-07-28T21:51:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 93678,
         "createdAt": "2020-10-12T16:10:15.000Z",
         "updatedAt": "2021-06-04T23:24:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wd973738": {
+        "authors": [
+          "Sono Yoshihiro"
+        ],
+        "identifier": "manga-wd973738",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kidou Senshi Gundam Katana",
+        "url": "https://manganato.com/manga-wd973738",
+        "image": "https://avt.mkklcdnv6temp.com/35/y/14-1583491001.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85019,
+        "aniId": 93678,
+        "createdAt": "2021-07-28T21:51:38.000Z",
+        "updatedAt": "2021-07-28T22:21:36.000Z",
         "deletedAt": null
       }
     }

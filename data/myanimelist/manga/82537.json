@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:38.000Z",
-  "updatedAt": "2021-05-12T01:24:49.000Z",
+  "updatedAt": "2021-07-28T00:52:55.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,29 @@
         "aniId": 86043,
         "createdAt": "2020-10-12T16:08:39.000Z",
         "updatedAt": "2021-06-04T11:37:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ebisu-gakuen": {
+        "authors": [
+          "RENJOUJI Mei",
+          "TKKT"
+        ],
+        "identifier": "ebisu-gakuen",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ebisu Gakuen Sunday Class Detectives",
+        "url": "https://mangasee123.com/manga/Ebisu-Gakuen",
+        "image": "https://cover.nep.li/cover/Ebisu-Gakuen.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82537,
+        "aniId": 86043,
+        "createdAt": "2021-07-28T00:52:48.000Z",
+        "updatedAt": "2021-07-28T01:21:35.000Z",
         "deletedAt": null
       }
     }

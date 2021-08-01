@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:16.000Z",
-  "updatedAt": "2021-05-10T06:17:24.000Z",
+  "updatedAt": "2021-07-28T02:51:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 87161,
         "createdAt": "2020-10-12T16:09:43.000Z",
         "updatedAt": "2021-06-04T19:32:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jg986515": {
+        "authors": [
+          "Nisioisin",
+          "Chomoran"
+        ],
+        "identifier": "manga-jg986515",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Zerozaki Kishishiki No Ningen Knock",
+        "url": "https://manganato.com/manga-jg986515",
+        "image": "https://avt.mkklcdnv6temp.com/9/z/22-1599468158.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70117,
+        "aniId": 87161,
+        "createdAt": "2021-07-28T02:51:36.000Z",
+        "updatedAt": "2021-07-28T03:21:36.000Z",
         "deletedAt": null
       }
     }

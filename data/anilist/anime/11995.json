@@ -14,5 +14,44 @@
   "createdAt": "2021-07-12T09:45:02.000Z",
   "updatedAt": "2021-07-12T09:45:02.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "guilstein": {
+        "identifier": "guilstein",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Guilstein",
+        "url": "https://gogoanime.pe/category/guilstein",
+        "image": "https://gogocdn.net/cover/guilstein.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11995,
+        "aniId": 11995,
+        "createdAt": "2021-08-01T03:47:44.000Z",
+        "updatedAt": "2021-08-01T04:17:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "1n24q": {
+        "identifier": "1n24q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Guilstein",
+        "url": "https://www12.9anime.to/watch/guilstein.1n24q",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/c0/c05028a7c1fd20eb215f301676ccc95b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11995,
+        "aniId": 11995,
+        "createdAt": "2021-08-01T11:18:34.000Z",
+        "updatedAt": "2021-08-01T11:47:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

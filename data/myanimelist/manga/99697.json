@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:33.000Z",
-  "updatedAt": "2021-05-16T19:54:54.000Z",
+  "updatedAt": "2021-07-26T13:51:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,50 @@
         "aniId": 97424,
         "createdAt": "2021-05-17T02:54:49.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hime-no-dameshi": {
+        "authors": [
+          "NIKAIDOU Kou"
+        ],
+        "identifier": "hime-no-dameshi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hime no Dameshi",
+        "url": "https://mangasee123.com/manga/Hime-No-Dameshi",
+        "image": "https://cover.nep.li/cover/Hime-No-Dameshi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99697,
+        "aniId": 97424,
+        "createdAt": "2021-07-26T13:51:43.000Z",
+        "updatedAt": "2021-07-26T14:21:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-uu972155": {
+        "authors": [
+          "Nikaidou Kou"
+        ],
+        "identifier": "manga-uu972155",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hime No Dameshi",
+        "url": "https://manganato.com/manga-uu972155",
+        "image": "https://avt.mkklcdnv6temp.com/9/d/14-1583490041.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99697,
+        "aniId": 97424,
+        "createdAt": "2021-07-31T12:52:17.000Z",
+        "updatedAt": "2021-07-31T13:21:49.000Z",
         "deletedAt": null
       }
     }

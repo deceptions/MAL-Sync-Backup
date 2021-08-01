@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2021-02-16T18:05:50.000Z",
-  "updatedAt": "2021-02-16T18:05:50.000Z",
+  "updatedAt": "2021-07-26T02:52:08.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -29,6 +29,25 @@
         "aniId": 15915,
         "createdAt": "2021-02-16T18:08:40.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "magical-hat": {
+        "identifier": "magical-hat",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Magical Hat",
+        "url": "https://gogoanime.pe/category/magical-hat",
+        "image": "https://gogocdn.net/cover/magical-hat.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15915,
+        "aniId": 15915,
+        "createdAt": "2021-07-26T02:52:06.000Z",
+        "updatedAt": "2021-07-26T03:21:33.000Z",
         "deletedAt": null
       }
     }

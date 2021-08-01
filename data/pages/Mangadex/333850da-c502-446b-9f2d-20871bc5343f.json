@@ -11,13 +11,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
-  "malId": null,
+  "actor": 2,
+  "malId": 133345,
   "aniId": 129346,
   "createdAt": "2020-10-12T16:21:10.000Z",
-  "updatedAt": "2021-06-08T07:01:53.000Z",
+  "updatedAt": "2021-07-26T16:16:19.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "altTitle": [
+      "異星界転星"
+    ],
+    "authors": [
+      "Ooyama, Sanpo"
+    ],
+    "id": 133345,
+    "type": "manga",
+    "title": "Iseikai Tensei",
+    "url": "https://myanimelist.net/manga/133345/Iseikai_Tensei",
+    "image": "https://cdn.myanimelist.net/images/manga/2/246306.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-07-26T00:22:44.000Z",
+    "updatedAt": "2021-07-26T00:22:44.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "異星界転星"
@@ -38,5 +55,5 @@
     "updatedAt": "2021-06-18T11:36:34.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/133345/Iseikai_Tensei"
 }

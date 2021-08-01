@@ -11,13 +11,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 115730,
+  "aniId": 104063,
   "createdAt": "2021-03-22T03:05:06.000Z",
-  "updatedAt": "2021-03-22T03:05:06.000Z",
+  "updatedAt": "2021-07-28T15:51:36.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "シャドーハウス"
+    ],
+    "authors": [
+      "Soumatou"
+    ],
+    "id": 115730,
+    "type": "manga",
+    "title": "Shadows House",
+    "url": "https://myanimelist.net/manga/115730/Shadows_House",
+    "image": "https://cdn.myanimelist.net/images/manga/2/215750.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:39.000Z",
+    "updatedAt": "2021-07-28T11:22:22.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "シャドーハウス",
+      "Shadow House",
+      "影之宅",
+      "影宅"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Soumatou"
+    ],
+    "id": 104063,
+    "malId": 115730,
+    "type": "manga",
+    "title": "Shadows House",
+    "url": "https://anilist.co/manga/104063",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104063-ycQHMGvfoET1.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:57:18.000Z",
+    "updatedAt": "2021-07-24T10:21:34.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/115730/Shadows_House"
 }

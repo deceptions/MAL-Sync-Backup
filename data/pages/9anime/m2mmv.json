@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 7540,
-  "aniId": null,
+  "aniId": 7540,
   "createdAt": "2021-06-11T15:10:11.000Z",
-  "updatedAt": "2021-06-11T15:10:11.000Z",
+  "updatedAt": "2021-07-26T10:21:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -31,6 +31,23 @@
     "updatedAt": "2021-06-02T22:01:31.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Linebarrels of Iron OVA",
+      "鉄のラインバレル OVA"
+    ],
+    "externalLinks": [],
+    "id": 7540,
+    "malId": 7540,
+    "type": "anime",
+    "title": "Kurogane no Linebarrels OVA",
+    "url": "https://anilist.co/anime/7540",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7540-2yVERJSYCESK.png",
+    "category": "ova",
+    "hentai": false,
+    "createdAt": "2021-07-26T09:51:34.000Z",
+    "updatedAt": "2021-07-26T09:51:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/7540/Kurogane_no_Linebarrels_Specials"
 }

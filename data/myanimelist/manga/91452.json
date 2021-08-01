@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:07.000Z",
-  "updatedAt": "2021-04-23T17:27:08.000Z",
+  "updatedAt": "2021-07-26T18:51:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,49 @@
         "aniId": 95569,
         "createdAt": "2020-10-12T16:10:56.000Z",
         "updatedAt": "2021-06-05T04:28:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ai977443": {
+        "authors": [
+          "Inoue Toshiki",
+          "Ishinomori Shoutarou"
+        ],
+        "identifier": "manga-ai977443",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kamen Rider Kuuga",
+        "url": "https://manganato.com/manga-ai977443",
+        "image": "https://avt.mkklcdnv6temp.com/42/z/15-1583493205.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91452,
+        "aniId": 95569,
+        "createdAt": "2021-07-26T18:51:36.000Z",
+        "updatedAt": "2021-07-26T19:21:35.000Z",
+        "deletedAt": null
+      },
+      "manga-hm984595": {
+        "authors": [
+          "Inoue Toshiki"
+        ],
+        "identifier": "manga-hm984595",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Masked Rider Kuuga",
+        "url": "https://manganato.com/manga-hm984595",
+        "image": "https://avt.mkklcdnv6temp.com/32/b/20-1583502261.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91452,
+        "aniId": 95569,
+        "createdAt": "2021-07-26T21:21:47.000Z",
+        "updatedAt": "2021-07-26T21:51:35.000Z",
         "deletedAt": null
       }
     }

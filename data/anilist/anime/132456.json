@@ -3,7 +3,12 @@
     "The Great Jahy Will Not Be Defeated!",
     "ジャヒー様はくじけない！"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://crunchyroll.com/series/GNVHKNWXW/the-great-jahy-will-not-be-defeated"
+    }
+  ],
   "id": 132456,
   "malId": 48753,
   "type": "anime",
@@ -13,7 +18,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-24T00:08:17.000Z",
-  "updatedAt": "2021-07-09T13:43:17.000Z",
+  "updatedAt": "2021-07-31T11:21:48.000Z",
   "deletedAt": null,
   "Pages": {
     "animepahe": {
@@ -32,6 +37,44 @@
         "aniId": 132456,
         "createdAt": "2021-07-02T00:20:22.000Z",
         "updatedAt": "2021-07-02T00:50:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "jahy-sama-wa-kujikenai": {
+        "identifier": "jahy-sama-wa-kujikenai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Jahy-sama wa Kujikenai!",
+        "url": "https://gogoanime.pe/category/jahy-sama-wa-kujikenai",
+        "image": "https://gogocdn.net/cover/jahy-sama-wa-kujikenai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48753,
+        "aniId": 132456,
+        "createdAt": "2021-07-31T19:22:12.000Z",
+        "updatedAt": "2021-07-31T19:51:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "3wo8": {
+        "identifier": "3wo8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jahy-sama wa Kujikenai!",
+        "url": "https://www12.9anime.to/watch/jahy-sama-wont-be-discouraged.3wo8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/20/20a3374b938f919f11b467c44342b9ff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48753,
+        "aniId": 132456,
+        "createdAt": "2021-07-31T20:23:05.000Z",
+        "updatedAt": "2021-07-31T20:51:49.000Z",
         "deletedAt": null
       }
     }

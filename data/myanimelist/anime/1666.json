@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:20.000Z",
-  "updatedAt": "2021-04-26T20:49:29.000Z",
+  "updatedAt": "2021-07-25T22:21:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -49,6 +49,23 @@
         "aniId": 1666,
         "createdAt": "2020-10-12T15:59:54.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      },
+      "babel-nisei": {
+        "identifier": "babel-nisei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Babel Nisei",
+        "url": "https://gogoanime.pe/category/babel-nisei",
+        "image": "https://gogocdn.net/cover/babel-nisei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1666,
+        "aniId": 1666,
+        "createdAt": "2021-07-25T22:21:44.000Z",
+        "updatedAt": "2021-07-25T22:51:33.000Z",
         "deletedAt": null
       }
     }

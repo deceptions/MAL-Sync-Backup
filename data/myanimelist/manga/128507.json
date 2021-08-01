@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:23.000Z",
-  "updatedAt": "2021-05-31T09:08:57.000Z",
+  "updatedAt": "2021-07-31T16:52:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 118911,
         "createdAt": "2021-05-31T09:08:57.000Z",
         "updatedAt": "2021-05-31T09:30:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shiboritoranaide_onna_shounin_san": {
+        "authors": [
+          "Kutsugaeru"
+        ],
+        "identifier": "shiboritoranaide_onna_shounin_san",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shiboritoranaide, Onna Shounin-san",
+        "url": "https://fanfox.net/manga/shiboritoranaide_onna_shounin_san/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32879/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128507,
+        "aniId": 118911,
+        "createdAt": "2021-07-31T16:52:16.000Z",
+        "updatedAt": "2021-07-31T17:21:49.000Z",
         "deletedAt": null
       }
     }
