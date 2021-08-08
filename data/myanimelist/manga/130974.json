@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-12-07T20:40:11.000Z",
-  "updatedAt": "2021-06-28T02:50:20.000Z",
+  "updatedAt": "2021-08-01T22:48:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 110865,
         "createdAt": "2020-10-12T16:21:00.000Z",
         "updatedAt": "2021-06-08T01:26:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ja986757": {
+        "authors": [
+          "Satonaka Mika"
+        ],
+        "identifier": "manga-ja986757",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Aishitagari No Maison",
+        "url": "https://manganato.com/manga-ja986757",
+        "image": "https://avt.mkklcdnv6temp.com/19/r/22-1600772475.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130974,
+        "aniId": 110865,
+        "createdAt": "2021-08-01T22:47:55.000Z",
+        "updatedAt": "2021-08-01T23:17:28.000Z",
         "deletedAt": null
       }
     }

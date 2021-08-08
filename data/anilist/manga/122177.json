@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T13:18:57.000Z",
-  "updatedAt": "2021-06-21T16:00:33.000Z",
+  "updatedAt": "2021-08-07T21:19:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,28 @@
         "aniId": 122177,
         "createdAt": "2020-10-12T16:15:22.000Z",
         "updatedAt": "2021-06-06T13:23:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dawn_the_teen_witch": {
+        "authors": [
+          "Jiao Xiang Ting"
+        ],
+        "identifier": "dawn_the_teen_witch",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dawn The Teen Witch",
+        "url": "https://fanfox.net/manga/dawn_the_teen_witch/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30048/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 122177,
+        "createdAt": "2021-08-05T19:50:33.000Z",
+        "updatedAt": "2021-08-07T21:19:31.000Z",
         "deletedAt": null
       }
     }

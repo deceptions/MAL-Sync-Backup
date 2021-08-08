@@ -43,6 +43,29 @@
         "updatedAt": "2021-06-05T00:51:08.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "gisho_getter_robo_darkness": {
+        "authors": [
+          "ISHIKAWA Ken",
+          "NAGAI Go"
+        ],
+        "identifier": "gisho_getter_robo_darkness",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Gisho Getter Robo Darkness",
+        "url": "https://fanfox.net/manga/gisho_getter_robo_darkness/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/23909/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42859,
+        "aniId": 72859,
+        "createdAt": "2021-08-04T17:50:05.000Z",
+        "updatedAt": "2021-08-04T18:17:29.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

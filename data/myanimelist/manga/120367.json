@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:03.000Z",
-  "updatedAt": "2021-05-29T15:13:51.000Z",
+  "updatedAt": "2021-08-02T18:49:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 110140,
         "createdAt": "2020-12-31T16:38:16.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-eg982041": {
+        "authors": [
+          "Suzu Yuki"
+        ],
+        "identifier": "manga-eg982041",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Futari Ashitamo Sorenarini",
+        "url": "https://readmanganato.com/manga-eg982041",
+        "image": "https://avt.mkklcdnv6temp.com/36/z/18-1583498529.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 120367,
+        "aniId": 110140,
+        "createdAt": "2021-05-29T15:13:51.000Z",
+        "updatedAt": "2021-08-02T20:17:28.000Z",
         "deletedAt": null
       }
     }

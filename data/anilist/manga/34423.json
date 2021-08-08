@@ -71,6 +71,28 @@
         "updatedAt": "2021-05-20T15:38:31.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "oooku": {
+        "authors": [
+          "YOSHINAGA Fumi"
+        ],
+        "identifier": "oooku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Oooku",
+        "url": "https://fanfox.net/manga/oooku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7494/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4423,
+        "aniId": 34423,
+        "createdAt": "2021-08-04T20:19:42.000Z",
+        "updatedAt": "2021-08-04T20:47:29.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

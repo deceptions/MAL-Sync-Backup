@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:56.000Z",
-  "updatedAt": "2021-05-23T21:38:27.000Z",
+  "updatedAt": "2021-08-03T12:47:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,50 @@
         "aniId": 114005,
         "createdAt": "2020-10-12T16:18:32.000Z",
         "updatedAt": "2021-06-07T17:50:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hl984720": {
+        "authors": [
+          "Kinoshita Honoka"
+        ],
+        "identifier": "manga-hl984720",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hatsukoi To Taiyou",
+        "url": "https://manganato.com/manga-hl984720",
+        "image": "https://avt.mkklcdnv6temp.com/36/w/20-1583502463.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119600,
+        "aniId": 114005,
+        "createdAt": "2021-08-03T12:47:38.000Z",
+        "updatedAt": "2021-08-03T13:17:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hatsukoi_to_taiyou": {
+        "authors": [
+          "KINOSHITA Honoka"
+        ],
+        "identifier": "hatsukoi_to_taiyou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hatsukoi to Taiyou",
+        "url": "https://fanfox.net/manga/hatsukoi_to_taiyou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32829/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119600,
+        "aniId": 114005,
+        "createdAt": "2021-08-03T14:19:41.000Z",
+        "updatedAt": "2021-08-03T14:47:28.000Z",
         "deletedAt": null
       }
     }

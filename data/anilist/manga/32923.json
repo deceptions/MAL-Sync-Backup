@@ -64,6 +64,28 @@
         "updatedAt": "2021-05-20T15:39:24.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "koko_ni_iru_yo": {
+        "authors": [
+          "TOOYAMA Ema"
+        ],
+        "identifier": "koko_ni_iru_yo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koko Ni Iru Yo!",
+        "url": "https://fanfox.net/manga/koko_ni_iru_yo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1072/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2923,
+        "aniId": 32923,
+        "createdAt": "2021-08-02T10:48:43.000Z",
+        "updatedAt": "2021-08-02T11:17:28.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

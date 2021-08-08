@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:21.000Z",
-  "updatedAt": "2021-06-05T06:49:39.000Z",
+  "updatedAt": "2021-08-04T05:20:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 100705,
         "createdAt": "2020-10-12T16:11:13.000Z",
         "updatedAt": "2021-06-05T08:43:46.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "torimania": {
+        "authors": [
+          "KUZE Gaku"
+        ],
+        "identifier": "torimania",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Torimania",
+        "url": "https://fanfox.net/manga/torimania/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29722/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111064,
+        "aniId": 100705,
+        "createdAt": "2021-08-04T05:20:36.000Z",
+        "updatedAt": "2021-08-04T05:47:29.000Z",
         "deletedAt": null
       }
     }

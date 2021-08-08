@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:21.000Z",
-  "updatedAt": "2021-04-26T03:57:55.000Z",
+  "updatedAt": "2021-08-03T00:48:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 30345,
         "createdAt": "2020-10-12T16:05:52.000Z",
         "updatedAt": "2021-06-03T15:36:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zx959106": {
+        "authors": [
+          "Chiba Tomohiro"
+        ],
+        "identifier": "manga-zx959106",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kidou Senshi Gundam Seed X Astray",
+        "url": "https://manganato.com/manga-zx959106",
+        "image": "https://avt.mkklcdnv6temp.com/1/q/5-1583474155.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 345,
+        "aniId": 30345,
+        "createdAt": "2021-08-03T00:48:48.000Z",
+        "updatedAt": "2021-08-03T01:17:28.000Z",
         "deletedAt": null
       }
     }

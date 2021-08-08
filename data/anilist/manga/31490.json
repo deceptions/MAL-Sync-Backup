@@ -51,6 +51,28 @@
         "updatedAt": "2021-06-02T15:14:22.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "saiunkoku_monogatari": {
+        "authors": [
+          "YUKINO Sai"
+        ],
+        "identifier": "saiunkoku_monogatari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Saiunkoku Monogatari",
+        "url": "https://fanfox.net/manga/saiunkoku_monogatari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1438/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1490,
+        "aniId": 31490,
+        "createdAt": "2021-08-06T07:50:45.000Z",
+        "updatedAt": "2021-08-06T08:17:30.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

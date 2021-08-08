@@ -68,6 +68,28 @@
         "updatedAt": "2021-05-20T15:40:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "eiyuu_kyoushitsu_honoo_no_jotei": {
+        "authors": [
+          "ARAKI Shin"
+        ],
+        "identifier": "eiyuu_kyoushitsu_honoo_no_jotei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Eiyuu Kyoushitsu - Honoo no Jotei",
+        "url": "https://fanfox.net/manga/eiyuu_kyoushitsu_honoo_no_jotei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15451/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87662,
+        "aniId": 86080,
+        "createdAt": "2021-08-02T17:19:56.000Z",
+        "updatedAt": "2021-08-02T17:47:28.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

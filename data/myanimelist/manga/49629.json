@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:33.000Z",
-  "updatedAt": "2021-06-04T04:50:18.000Z",
+  "updatedAt": "2021-08-02T21:49:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 79629,
         "createdAt": "2020-10-12T16:07:40.000Z",
         "updatedAt": "2021-06-04T08:56:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lx963006": {
+        "authors": [
+          "Hirano Toshihiro"
+        ],
+        "identifier": "manga-lx963006",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Iczer Densetsu",
+        "url": "https://manganato.com/manga-lx963006",
+        "image": "https://avt.mkklcdnv6temp.com/35/q/8-1583479534.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49629,
+        "aniId": 79629,
+        "createdAt": "2021-08-02T21:48:51.000Z",
+        "updatedAt": "2021-08-02T22:17:28.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-01T15:39:00.000Z",
-  "updatedAt": "2021-06-01T15:39:00.000Z",
+  "updatedAt": "2021-08-04T22:51:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,9 +36,9 @@
         "active": true,
         "actor": 1,
         "malId": 128346,
-        "aniId": null,
+        "aniId": 119682,
         "createdAt": "2020-10-12T16:19:47.000Z",
-        "updatedAt": "2021-06-08T00:41:49.000Z",
+        "updatedAt": "2021-08-02T23:47:28.000Z",
         "deletedAt": null
       }
     },
@@ -60,9 +60,31 @@
         "active": true,
         "actor": null,
         "malId": 128346,
-        "aniId": null,
+        "aniId": 119682,
         "createdAt": "2021-06-01T15:39:00.000Z",
-        "updatedAt": "2021-06-01T15:39:00.000Z",
+        "updatedAt": "2021-08-02T23:47:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_banished_villainess_husband": {
+        "authors": [
+          "KOMORI Kiri"
+        ],
+        "identifier": "the_banished_villainess_husband",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Banished Villainess' Husband",
+        "url": "https://fanfox.net/manga/the_banished_villainess_husband/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34269/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128346,
+        "aniId": 119682,
+        "createdAt": "2021-08-04T22:50:36.000Z",
+        "updatedAt": "2021-08-04T23:17:29.000Z",
         "deletedAt": null
       }
     }

@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:49.000Z",
-  "updatedAt": "2021-05-17T13:54:50.000Z",
+  "updatedAt": "2021-08-02T21:51:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 33204,
         "createdAt": "2020-10-12T16:03:38.000Z",
         "updatedAt": "2021-06-02T15:24:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ef959614": {
+        "authors": [
+          "Kinoshita Satoshi"
+        ],
+        "identifier": "manga-ef959614",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dragonaut - The Resonance",
+        "url": "https://manganato.com/manga-ef959614",
+        "image": "https://avt.mkklcdnv6temp.com/20/h/6-1583474965.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3204,
+        "aniId": 33204,
+        "createdAt": "2021-08-02T21:51:34.000Z",
+        "updatedAt": "2021-08-02T22:17:28.000Z",
         "deletedAt": null
       }
     }

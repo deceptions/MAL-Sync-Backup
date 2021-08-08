@@ -19,7 +19,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-29T17:12:13.000Z",
-  "updatedAt": "2021-06-21T17:55:42.000Z",
+  "updatedAt": "2021-08-07T21:23:40.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "the_cunning_princess_and_the_shark": {
+        "authors": [
+          "Di Tang"
+        ],
+        "identifier": "the_cunning_princess_and_the_shark",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Cunning Princess and the Shark",
+        "url": "https://fanfox.net/manga/the_cunning_princess_and_the_shark/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38448/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 134181,
+        "createdAt": "2021-08-03T23:50:09.000Z",
+        "updatedAt": "2021-08-07T21:23:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

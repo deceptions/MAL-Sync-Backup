@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:49.000Z",
-  "updatedAt": "2021-06-03T11:19:27.000Z",
+  "updatedAt": "2021-08-02T21:52:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 64221,
         "createdAt": "2021-05-02T23:03:33.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mb963884": {
+        "authors": [
+          "Boichi"
+        ],
+        "identifier": "manga-mb963884",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "H.e - The Hunt For Energy",
+        "url": "https://manganato.com/manga-mb963884",
+        "image": "https://avt.mkklcdnv6temp.com/12/p/9-1583480578.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34221,
+        "aniId": 64221,
+        "createdAt": "2021-08-02T21:52:45.000Z",
+        "updatedAt": "2021-08-02T22:17:28.000Z",
         "deletedAt": null
       }
     }

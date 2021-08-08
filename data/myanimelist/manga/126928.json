@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:22.000Z",
-  "updatedAt": "2021-05-29T10:42:33.000Z",
+  "updatedAt": "2021-08-01T23:18:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,28 @@
         "aniId": 116643,
         "createdAt": "2021-05-29T10:42:34.000Z",
         "updatedAt": "2021-05-29T11:12:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kara_no_kioku": {
+        "authors": [
+          "Eve"
+        ],
+        "identifier": "kara_no_kioku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kara no Kioku",
+        "url": "https://fanfox.net/manga/kara_no_kioku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33714/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126928,
+        "aniId": 116643,
+        "createdAt": "2021-08-01T23:18:45.000Z",
+        "updatedAt": "2021-08-01T23:47:28.000Z",
         "deletedAt": null
       }
     }

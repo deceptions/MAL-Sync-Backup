@@ -17,7 +17,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:41.000Z",
-  "updatedAt": "2021-06-29T08:44:37.000Z",
+  "updatedAt": "2021-08-06T14:51:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 81361,
         "createdAt": "2020-10-12T16:06:24.000Z",
         "updatedAt": "2021-06-03T19:28:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zj959144": {
+        "authors": [
+          "Yamakawa Aiji"
+        ],
+        "identifier": "manga-zj959144",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Stand Up! (Yamakawa Aiji)",
+        "url": "https://readmanganato.com/manga-zj959144",
+        "image": "https://avt.mkklcdnv6temp.com/3/c/6-1583474214.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51361,
+        "aniId": 81361,
+        "createdAt": "2021-08-06T14:50:50.000Z",
+        "updatedAt": "2021-08-06T15:17:34.000Z",
         "deletedAt": null
       }
     }

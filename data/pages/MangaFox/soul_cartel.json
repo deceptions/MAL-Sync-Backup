@@ -10,14 +10,35 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/10438/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 85142,
   "createdAt": "2021-01-01T19:21:01.000Z",
-  "updatedAt": "2021-05-03T12:31:57.000Z",
+  "updatedAt": "2021-08-07T21:20:11.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Soul Cartel",
+      "소울 카르텔"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Eunhyo Kim",
+      "Yeongji Kim"
+    ],
+    "id": 85142,
+    "malId": null,
+    "type": "manga",
+    "title": "Soul Cartel",
+    "url": "https://anilist.co/manga/85142",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55142.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-27T08:28:43.000Z",
+    "updatedAt": "2021-08-07T21:20:11.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

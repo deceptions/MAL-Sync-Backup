@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:00.000Z",
-  "updatedAt": "2021-05-13T04:55:21.000Z",
+  "updatedAt": "2021-08-03T18:49:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 52161,
         "createdAt": "2021-05-13T04:55:21.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ck959445": {
+        "authors": [
+          "Misa Tomoko"
+        ],
+        "identifier": "manga-ck959445",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fuku Neko",
+        "url": "https://manganato.com/manga-ck959445",
+        "image": "https://avt.mkklcdnv6temp.com/13/z/6-1583474689.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22161,
+        "aniId": 52161,
+        "createdAt": "2021-08-03T18:49:50.000Z",
+        "updatedAt": "2021-08-03T19:17:28.000Z",
         "deletedAt": null
       }
     }

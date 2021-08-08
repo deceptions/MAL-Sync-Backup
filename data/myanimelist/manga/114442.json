@@ -13,7 +13,30 @@
   "category": "One-shot",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:35.000Z",
-  "updatedAt": "2021-05-22T02:13:08.000Z",
+  "updatedAt": "2021-08-02T21:22:15.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "host_in_down": {
+        "authors": [
+          "Nishin Masumi"
+        ],
+        "identifier": "host_in_down",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Host in Down",
+        "url": "https://fanfox.net/manga/host_in_down/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/22757/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 114442,
+        "aniId": 121220,
+        "createdAt": "2021-08-02T21:22:06.000Z",
+        "updatedAt": "2021-08-07T20:47:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

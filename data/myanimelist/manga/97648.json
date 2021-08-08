@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:28.000Z",
-  "updatedAt": "2021-05-16T05:24:54.000Z",
+  "updatedAt": "2021-08-01T18:48:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 103089,
         "createdAt": "2020-10-12T16:13:21.000Z",
         "updatedAt": "2021-06-05T20:42:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tsurugi_no_nai": {
+        "authors": [
+          "OOMIYA Miyami"
+        ],
+        "identifier": "tsurugi_no_nai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tsurugi no Nai",
+        "url": "https://fanfox.net/manga/tsurugi_no_nai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27733/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97648,
+        "aniId": 103089,
+        "createdAt": "2021-08-01T18:48:22.000Z",
+        "updatedAt": "2021-08-01T19:17:28.000Z",
         "deletedAt": null
       }
     }

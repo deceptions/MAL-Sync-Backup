@@ -11,13 +11,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 131845,
+  "aniId": 120446,
   "createdAt": "2021-06-04T13:50:09.000Z",
-  "updatedAt": "2021-06-04T13:50:09.000Z",
+  "updatedAt": "2021-08-07T20:47:48.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Chwihyang-jeogyeok Geunyeo",
+      "취향저격 그녀"
+    ],
+    "authors": [
+      "Roseong"
+    ],
+    "id": 131845,
+    "type": "manga",
+    "title": "She's My Type",
+    "url": "https://myanimelist.net/manga/131845/Shes_My_Type",
+    "image": "https://cdn.myanimelist.net/images/manga/1/244928.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "createdAt": "2021-03-02T19:21:44.000Z",
+    "updatedAt": "2021-08-04T17:20:26.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "취향저격 그녀",
+      "She's My Type",
+      " She is Exactly My Type"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Roseong"
+    ],
+    "id": 120446,
+    "malId": 131845,
+    "type": "manga",
+    "title": "Chwihyangjeogyeog Geunyeo",
+    "url": "https://anilist.co/manga/120446",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120446-iHQVUJOvByae.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-03T23:18:57.000Z",
+    "updatedAt": "2021-06-18T09:28:50.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/131845/Shes_My_Type"
 }

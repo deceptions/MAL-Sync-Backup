@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:23.000Z",
-  "updatedAt": "2021-06-21T20:16:03.000Z",
+  "updatedAt": "2021-08-01T18:48:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 102048,
         "createdAt": "2021-06-21T20:15:53.000Z",
         "updatedAt": "2021-06-21T20:44:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kuromori_san_wa_smartphone_ga_tsukaenai": {
+        "authors": [
+          "YOSHIHARA Masahiko"
+        ],
+        "identifier": "kuromori_san_wa_smartphone_ga_tsukaenai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kuromori-san wa Smartphone ga Tsukaenai",
+        "url": "https://fanfox.net/manga/kuromori_san_wa_smartphone_ga_tsukaenai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27442/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111696,
+        "aniId": 102048,
+        "createdAt": "2021-08-01T18:48:42.000Z",
+        "updatedAt": "2021-08-01T19:17:28.000Z",
         "deletedAt": null
       }
     }

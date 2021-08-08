@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-04T15:18:57.000Z",
-  "updatedAt": "2021-06-21T16:46:22.000Z",
+  "updatedAt": "2021-08-07T21:16:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,28 @@
         "aniId": 126235,
         "createdAt": "2020-10-12T16:19:16.000Z",
         "updatedAt": "2021-06-07T21:56:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-me989387": {
+        "authors": [
+          "Jinha"
+        ],
+        "identifier": "manga-me989387",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dating With A Tail",
+        "url": "https://manganato.com/manga-me989387",
+        "image": "https://avt.mkklcdnv6temp.com/28/x/24-1627648620.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 126235,
+        "createdAt": "2021-07-30T19:51:48.000Z",
+        "updatedAt": "2021-08-07T21:16:09.000Z",
         "deletedAt": null
       }
     }

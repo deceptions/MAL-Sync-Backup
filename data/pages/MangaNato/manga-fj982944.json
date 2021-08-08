@@ -11,13 +11,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 90876,
+  "aniId": 95371,
   "createdAt": "2021-06-12T03:08:39.000Z",
-  "updatedAt": "2021-06-12T03:09:20.000Z",
+  "updatedAt": "2021-08-02T15:47:28.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "My wife is capitan of student council.",
+      "My Wife Is Student Council President",
+      "Oku-sama wa Seitokaichou",
+      "奥さまは生徒会長"
+    ],
+    "authors": [
+      "Nakata, Yumi"
+    ],
+    "id": 90876,
+    "type": "manga",
+    "title": "Okusama wa Seitokaichou",
+    "url": "https://myanimelist.net/manga/90876/Okusama_wa_Seitokaichou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/159918.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:46:05.000Z",
+    "updatedAt": "2021-08-02T04:49:15.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "奥さまは生徒会長",
+      "My Wife Is Student Council President",
+      "Oku-sama wa Seitokaichou"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yumi Nakata"
+    ],
+    "id": 95371,
+    "malId": 90876,
+    "type": "manga",
+    "title": "Okusama wa Seitokaichou",
+    "url": "https://anilist.co/manga/95371",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx95371-3SWFcDrSvYRc.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:53:07.000Z",
+    "updatedAt": "2021-06-18T00:57:40.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/90876/Okusama_wa_Seitokaichou"
 }

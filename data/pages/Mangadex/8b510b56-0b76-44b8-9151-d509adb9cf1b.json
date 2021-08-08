@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 116386,
-  "aniId": null,
+  "aniId": 104560,
   "createdAt": "2020-10-12T16:14:04.000Z",
-  "updatedAt": "2021-06-06T10:16:28.000Z",
+  "updatedAt": "2021-08-04T13:47:29.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,28 @@
     "updatedAt": "2021-06-06T02:19:17.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "想いビト",
+      "Always on My Mind",
+      "Omoi Bito",
+      "Omoi-bito"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kana Matsu"
+    ],
+    "id": 104560,
+    "malId": 116386,
+    "type": "manga",
+    "title": "Omoibito",
+    "url": "https://anilist.co/manga/104560",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n104560-XZz5TVKzTxKs.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-04T13:17:30.000Z",
+    "updatedAt": "2021-08-04T13:17:30.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/116386/Omoibito"
 }

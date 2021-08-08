@@ -14,7 +14,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:12.000Z",
-  "updatedAt": "2021-06-29T12:21:02.000Z",
+  "updatedAt": "2021-08-07T14:51:01.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -33,6 +33,25 @@
         "aniId": 13171,
         "createdAt": "2020-10-12T15:52:05.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "wasurenagumo": {
+        "identifier": "wasurenagumo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wasurenagumo",
+        "url": "https://gogoanime.pe/category/wasurenagumo",
+        "image": "https://gogocdn.net/cover/wasurenagumo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13171,
+        "aniId": 13171,
+        "createdAt": "2021-08-07T14:51:00.000Z",
+        "updatedAt": "2021-08-07T15:17:48.000Z",
         "deletedAt": null
       }
     }

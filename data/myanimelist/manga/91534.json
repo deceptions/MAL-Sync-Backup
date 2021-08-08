@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-04T17:49:18.000Z",
-  "updatedAt": "2021-06-04T17:49:18.000Z",
+  "updatedAt": "2021-08-02T17:18:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 95601,
         "createdAt": "2020-10-12T16:09:23.000Z",
         "updatedAt": "2021-06-04T18:34:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shiranui_san_wa_oni_ga_mienai": {
+        "authors": [
+          "OKAZAKI Toshinori"
+        ],
+        "identifier": "shiranui_san_wa_oni_ga_mienai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shiranui-san wa Oni ga Mienai",
+        "url": "https://fanfox.net/manga/shiranui_san_wa_oni_ga_mienai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18245/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91534,
+        "aniId": 95601,
+        "createdAt": "2021-08-02T17:18:49.000Z",
+        "updatedAt": "2021-08-02T17:47:28.000Z",
         "deletedAt": null
       }
     }

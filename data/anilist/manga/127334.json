@@ -41,6 +41,29 @@
         "updatedAt": "2021-06-08T09:31:16.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "batman_justice_buster": {
+        "authors": [
+          "SHIMIZU Eiichi",
+          "SHIMOGUCHI Tomohiro"
+        ],
+        "identifier": "batman_justice_buster",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Batman: Justice Buster",
+        "url": "https://fanfox.net/manga/batman_justice_buster/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37173/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132383,
+        "aniId": 127334,
+        "createdAt": "2021-08-04T12:19:43.000Z",
+        "updatedAt": "2021-08-04T12:47:29.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

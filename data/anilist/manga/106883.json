@@ -15,7 +15,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T14:19:36.000Z",
-  "updatedAt": "2021-06-21T13:58:13.000Z",
+  "updatedAt": "2021-08-07T21:20:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 106883,
         "createdAt": "2020-10-12T16:15:27.000Z",
         "updatedAt": "2021-06-06T14:39:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lg988489": {
+        "authors": [
+          "Nobel"
+        ],
+        "identifier": "manga-lg988489",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "My Alien Days Webcomic",
+        "url": "https://readmanganato.com/manga-lg988489",
+        "image": "https://avt.mkklcdnv6temp.com/40/x/23-1615683070.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 106883,
+        "createdAt": "2021-08-07T18:51:19.000Z",
+        "updatedAt": "2021-08-07T21:35:16.000Z",
         "deletedAt": null
       }
     }

@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 37290,
-  "aniId": null,
+  "aniId": 110694,
   "createdAt": "2021-07-08T14:14:32.000Z",
-  "updatedAt": "2021-07-08T14:14:33.000Z",
+  "updatedAt": "2021-08-05T21:47:30.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -31,6 +31,22 @@
     "updatedAt": "2021-07-08T01:43:58.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "アニ×パラ"
+    ],
+    "externalLinks": [],
+    "id": 110694,
+    "malId": 37290,
+    "type": "anime",
+    "title": "ANI x PARA",
+    "url": "https://anilist.co/anime/110694",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110694-h0RmA1JtT14f.jpg",
+    "category": "special",
+    "hentai": false,
+    "createdAt": "2021-08-05T21:17:30.000Z",
+    "updatedAt": "2021-08-05T21:17:30.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/37290/Ani_x_Para__Anata_no_Hero_wa_Dare_desu_ka"
 }

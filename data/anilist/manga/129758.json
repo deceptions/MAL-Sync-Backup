@@ -21,14 +21,14 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T17:43:07.000Z",
-  "updatedAt": "2021-06-21T17:21:12.000Z",
+  "updatedAt": "2021-08-07T21:24:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "a82fe527-9e74-48d0-9c5f-a5e788c0bd4a": {
         "authors": [
-          "Mangle",
-          "Han Yi Rim"
+          "Han Yi Rim",
+          "Mangle"
         ],
         "identifier": "a82fe527-9e74-48d0-9c5f-a5e788c0bd4a",
         "type": "manga",
@@ -39,11 +39,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": null,
         "aniId": 129758,
         "createdAt": "2021-02-10T14:40:31.000Z",
-        "updatedAt": "2021-06-08T12:07:39.000Z",
+        "updatedAt": "2021-08-07T17:51:11.000Z",
         "deletedAt": null
       }
     },

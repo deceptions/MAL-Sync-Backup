@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:20.000Z",
-  "updatedAt": "2021-05-07T00:17:51.000Z",
+  "updatedAt": "2021-08-04T22:19:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 74831,
         "createdAt": "2020-10-12T16:09:01.000Z",
         "updatedAt": "2021-06-04T14:33:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-me989439": {
+        "authors": [
+          "Takano Hisa"
+        ],
+        "identifier": "manga-me989439",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mukai Usagidou Nikki",
+        "url": "https://manganato.com/manga-me989439",
+        "image": "https://avt.mkklcdnv6temp.com/31/h/24-1628091841.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44831,
+        "aniId": 74831,
+        "createdAt": "2021-08-04T22:19:39.000Z",
+        "updatedAt": "2021-08-04T22:47:29.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-14T16:23:26.000Z",
-  "updatedAt": "2021-06-03T08:56:14.000Z",
+  "updatedAt": "2021-08-06T07:50:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 123544,
         "createdAt": "2021-02-10T19:41:02.000Z",
         "updatedAt": "2021-06-03T09:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ig985463": {
+        "authors": [
+          "Kosuzu Kiichi"
+        ],
+        "identifier": "manga-ig985463",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Reincarnation Of The Strongest Onmyoji ~ These Monsters Are Too Weak Compared To My Youkai~",
+        "url": "https://manganato.com/manga-ig985463",
+        "image": "https://avt.mkklcdnv6temp.com/16/u/21-1589994041.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 131025,
+        "aniId": 123544,
+        "createdAt": "2021-06-04T09:51:10.000Z",
+        "updatedAt": "2021-08-07T20:47:48.000Z",
         "deletedAt": null
       }
     }

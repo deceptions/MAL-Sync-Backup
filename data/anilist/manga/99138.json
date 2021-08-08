@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-04T13:43:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "genjui_toteku": {
+        "authors": [
+          "Gondaira Hitsuji"
+        ],
+        "identifier": "genjui_toteku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Genjui Toteku",
+        "url": "https://fanfox.net/manga/genjui_toteku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/22471/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103373,
+        "aniId": 99138,
+        "createdAt": "2021-08-01T18:47:59.000Z",
+        "updatedAt": "2021-08-01T19:17:28.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

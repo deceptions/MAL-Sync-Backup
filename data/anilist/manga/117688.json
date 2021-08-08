@@ -61,6 +61,28 @@
         "updatedAt": "2021-05-28T20:53:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kakukazoku": {
+        "authors": [
+          "KATOU Takahiro"
+        ],
+        "identifier": "kakukazoku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kakukazoku",
+        "url": "https://fanfox.net/manga/kakukazoku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36847/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132073,
+        "aniId": 117688,
+        "createdAt": "2021-08-07T03:51:07.000Z",
+        "updatedAt": "2021-08-07T04:17:39.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

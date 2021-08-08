@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:52.000Z",
-  "updatedAt": "2021-05-23T11:13:18.000Z",
+  "updatedAt": "2021-08-01T13:18:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 107750,
         "createdAt": "2020-10-12T16:15:09.000Z",
         "updatedAt": "2021-06-06T11:08:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ep981398": {
+        "authors": [
+          "Katsutoshi Murase",
+          "Daisuke Oikawa"
+        ],
+        "identifier": "manga-ep981398",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Arata Primal: The New Primitive",
+        "url": "https://manganato.com/manga-ep981398",
+        "image": "https://avt.mkklcdnv6temp.com/13/j/18-1583497605.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118156,
+        "aniId": 107750,
+        "createdAt": "2021-08-01T13:17:51.000Z",
+        "updatedAt": "2021-08-01T13:47:28.000Z",
         "deletedAt": null
       }
     }

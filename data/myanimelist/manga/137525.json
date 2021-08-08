@@ -15,14 +15,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-21T07:23:55.000Z",
-  "updatedAt": "2021-06-21T07:23:55.000Z",
+  "updatedAt": "2021-08-02T05:19:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "b6e677ad-6d0e-4521-a9de-0da842e2ee5a": {
         "authors": [
-          "Ishigo Chidori",
-          "Utsuzawa Shikiso"
+          "Utsuzawa Shikiso",
+          "Ishigo Chidori"
         ],
         "identifier": "b6e677ad-6d0e-4521-a9de-0da842e2ee5a",
         "type": "manga",
@@ -33,11 +33,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
+        "actor": null,
         "malId": 137525,
         "aniId": 134529,
         "createdAt": "2020-10-12T16:21:25.000Z",
-        "updatedAt": "2021-07-03T17:33:56.000Z",
+        "updatedAt": "2021-08-03T15:49:43.000Z",
         "deletedAt": null
       }
     },
@@ -56,11 +56,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 137525,
         "aniId": 134529,
         "createdAt": "2021-06-01T16:02:27.000Z",
-        "updatedAt": "2021-07-01T05:50:05.000Z",
+        "updatedAt": "2021-08-01T19:17:48.000Z",
         "deletedAt": null
       }
     }

@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 113340,
   "createdAt": "2021-06-07T11:07:10.000Z",
-  "updatedAt": "2021-07-23T17:52:50.000Z",
+  "updatedAt": "2021-08-07T20:36:58.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Death's Game",
+      "이제 곧 죽습니다",
+      "I Will Die Soon",
+      "Mort Imminente"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Won-Sik Lee",
+      "Kkulchan"
+    ],
+    "id": 113340,
+    "malId": null,
+    "type": "manga",
+    "title": "Ije God Chugseubnida",
+    "url": "https://anilist.co/manga/113340",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113340-DKX0SRfvaocn.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-21T06:12:57.000Z",
+    "updatedAt": "2021-07-23T17:52:50.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

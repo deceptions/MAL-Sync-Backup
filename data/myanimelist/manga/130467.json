@@ -62,6 +62,51 @@
         "updatedAt": "2021-06-21T16:14:51.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-kt987428": {
+        "authors": [
+          "Kamo Sei",
+          "Tosaka Akira"
+        ],
+        "identifier": "manga-kt987428",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dungeon Sherpa: Meikyuu Michisaki Annainin",
+        "url": "https://manganato.com/manga-kt987428",
+        "image": "https://avt.mkklcdnv6temp.com/47/h/22-1608284438.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130467,
+        "aniId": 119990,
+        "createdAt": "2021-08-02T04:18:25.000Z",
+        "updatedAt": "2021-08-02T04:47:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dungeon_sherpa_meikyuu_michisaki_annainin": {
+        "authors": [
+          "KAMO Sei"
+        ],
+        "identifier": "dungeon_sherpa_meikyuu_michisaki_annainin",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dungeon Sherpa: Meikyuu Michisaki Annainin",
+        "url": "https://fanfox.net/manga/dungeon_sherpa_meikyuu_michisaki_annainin/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35441/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130467,
+        "aniId": 119990,
+        "createdAt": "2021-08-02T09:18:06.000Z",
+        "updatedAt": "2021-08-02T09:47:28.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

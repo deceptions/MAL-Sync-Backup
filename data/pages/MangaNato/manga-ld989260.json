@@ -13,13 +13,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 137595,
   "createdAt": "2021-07-05T18:00:43.000Z",
-  "updatedAt": "2021-07-05T18:00:43.000Z",
+  "updatedAt": "2021-08-07T20:37:56.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "66666년만에 환생한 흑마법사",
+      "The Dark Magician Transmigrates After 66666 Years"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ta-Ru",
+      "Hwa-Bong",
+      "Pa-Sa"
+    ],
+    "id": 137595,
+    "malId": null,
+    "type": "manga",
+    "title": "66666-nyeonmane Hwansaenghan Heungmabeopsa",
+    "url": "https://anilist.co/manga/137595",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137595-1m3i7vxyOqXc.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-06T11:17:30.000Z",
+    "updatedAt": "2021-08-06T11:17:30.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

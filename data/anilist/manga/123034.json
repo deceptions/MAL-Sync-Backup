@@ -11,7 +11,7 @@
     "Yuuto Yotsuba"
   ],
   "id": 123034,
-  "malId": null,
+  "malId": 137109,
   "type": "manga",
   "title": "Paripi Kongming",
   "url": "https://anilist.co/manga/123034",
@@ -19,7 +19,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-27T01:28:43.000Z",
-  "updatedAt": "2021-06-21T16:19:04.000Z",
+  "updatedAt": "2021-08-03T12:47:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "ya-boy-kongming": {
+        "authors": [
+          "OGAWA Ryou",
+          "YOTSUBA Yuuto"
+        ],
+        "identifier": "ya-boy-kongming",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ya Boy Kongming!",
+        "url": "https://mangasee123.com/manga/Ya-Boy-Kongming",
+        "image": "https://cover.nep.li/cover/Ya-Boy-Kongming.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 137109,
+        "aniId": 123034,
+        "createdAt": "2021-06-29T08:24:37.000Z",
+        "updatedAt": "2021-08-03T13:17:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -86,6 +86,28 @@
         "updatedAt": "2021-05-20T15:40:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-fk954493": {
+        "authors": [
+          "Tang Jia San Shao"
+        ],
+        "identifier": "manga-fk954493",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kuang Shen",
+        "url": "https://manganato.com/manga-fk954493",
+        "image": "https://avt.mkklcdnv6temp.com/9/k/3-1583468007.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 76143,
+        "aniId": 85455,
+        "createdAt": "2021-08-04T07:19:55.000Z",
+        "updatedAt": "2021-08-04T07:47:29.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

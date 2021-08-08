@@ -37,6 +37,50 @@
         "updatedAt": "2021-06-04T18:53:08.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-xo975123": {
+        "authors": [
+          "Ootake Toshitomo"
+        ],
+        "identifier": "manga-xo975123",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mogusa-San",
+        "url": "https://manganato.com/manga-xo975123",
+        "image": "https://avt.mkklcdnv6temp.com/4/w/15-1583491644.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 74617,
+        "aniId": 98330,
+        "createdAt": "2021-08-02T12:50:44.000Z",
+        "updatedAt": "2021-08-02T13:17:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mogusa_san": {
+        "authors": [
+          "OOTAKE Toshitomo"
+        ],
+        "identifier": "mogusa_san",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mogusa-san",
+        "url": "https://fanfox.net/manga/mogusa_san/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/24161/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 74617,
+        "aniId": 98330,
+        "createdAt": "2021-08-03T12:49:57.000Z",
+        "updatedAt": "2021-08-03T13:17:28.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

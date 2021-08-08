@@ -11,13 +11,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 119762,
   "createdAt": "2021-06-10T20:08:35.000Z",
-  "updatedAt": "2021-07-31T00:22:03.000Z",
+  "updatedAt": "2021-08-07T21:35:39.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "캐슬"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yeon Jeong"
+    ],
+    "id": 119762,
+    "malId": null,
+    "type": "manga",
+    "title": "Castle",
+    "url": "https://anilist.co/manga/119762",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119762-7pDLJpnSixu7.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-07T22:51:47.000Z",
+    "updatedAt": "2021-08-07T21:26:01.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -15,5 +15,44 @@
   "createdAt": "2021-07-10T03:13:17.000Z",
   "updatedAt": "2021-07-10T04:43:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "mini-van-large": {
+        "identifier": "mini-van-large",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mini Van Large",
+        "url": "https://gogoanime.pe/category/mini-van-large",
+        "image": "https://gogocdn.net/cover/mini-van-large.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49370,
+        "aniId": 136517,
+        "createdAt": "2021-08-04T20:50:25.000Z",
+        "updatedAt": "2021-08-04T21:17:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "80k43": {
+        "identifier": "80k43",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mini Van Large",
+        "url": "https://www12.9anime.to/watch/mini-vanguard-large.80k43",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5b/5b56194ab01f172676a898374ab25cd5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49370,
+        "aniId": 136517,
+        "createdAt": "2021-08-05T02:50:16.000Z",
+        "updatedAt": "2021-08-05T03:17:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

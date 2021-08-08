@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:49.000Z",
-  "updatedAt": "2021-05-18T01:55:04.000Z",
+  "updatedAt": "2021-08-03T01:20:33.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 97779,
         "createdAt": "2020-10-12T16:10:13.000Z",
         "updatedAt": "2021-06-04T23:07:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vt973354": {
+        "authors": [
+          "Nagai Yasutaka"
+        ],
+        "identifier": "manga-vt973354",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "5001-Nen Yakuza Wars",
+        "url": "https://manganato.com/manga-vt973354",
+        "image": "https://avt.mkklcdnv6temp.com/31/u/14-1583490860.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103625,
+        "aniId": 97779,
+        "createdAt": "2021-08-03T01:20:24.000Z",
+        "updatedAt": "2021-08-03T01:47:28.000Z",
         "deletedAt": null
       }
     }

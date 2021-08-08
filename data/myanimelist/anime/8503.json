@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:59.000Z",
-  "updatedAt": "2021-04-28T23:19:21.000Z",
+  "updatedAt": "2021-08-04T11:49:43.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +30,25 @@
         "aniId": 8503,
         "createdAt": "2020-10-12T15:57:17.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fushigi-mahou-fun-fun-pharmacy": {
+        "identifier": "fushigi-mahou-fun-fun-pharmacy",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fushigi Mahou Fun Fun Pharmacy",
+        "url": "https://gogoanime.pe/category/fushigi-mahou-fun-fun-pharmacy",
+        "image": "https://gogocdn.net/cover/fushigi-mahou-fun-fun-pharmacy.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8503,
+        "aniId": 8503,
+        "createdAt": "2021-08-04T11:49:41.000Z",
+        "updatedAt": "2021-08-04T12:17:29.000Z",
         "deletedAt": null
       }
     }

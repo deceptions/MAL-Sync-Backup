@@ -11,13 +11,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 131025,
+  "aniId": 123544,
   "createdAt": "2021-06-04T09:51:10.000Z",
-  "updatedAt": "2021-06-04T09:51:10.000Z",
+  "updatedAt": "2021-08-07T20:47:48.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "The Reincarnation of the Strongest Onmyouji: These Monsters Are Too Weak Compared to My Youkai",
+      "最強陰陽師の異世界転生記 ～下僕の妖怪どもに比べてモンスターが弱すぎるんだが～"
+    ],
+    "authors": [
+      "Okazaki, Toshinori",
+      "Kosuzuki, Ichi"
+    ],
+    "id": 131025,
+    "type": "manga",
+    "title": "Saikyou Onmyouji no Isekai Tenseiki: Geboku no Youkaidomo ni Kurabete Monster ga Yowaisugirunda ga",
+    "url": "https://myanimelist.net/manga/131025/Saikyou_Onmyouji_no_Isekai_Tenseiki__Geboku_no_Youkaidomo_ni_Kurabete_Monster_ga_Yowaisugirunda_ga",
+    "image": "https://cdn.myanimelist.net/images/manga/1/236851.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-11-14T16:23:26.000Z",
+    "updatedAt": "2021-08-06T07:50:43.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "最強陰陽師の異世界転生記 ～下僕の妖怪どもに比べてモンスターが弱すぎるんだが～",
+      "The Reincarnation of the Strongest Onmyoji: These Monsters Are Too Weak Compared to My Youkai",
+      "The Reincarnation of the Strongest Onmyoji ~ These Monsters Are Too Weak Compared to My Youkai~"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Okazaki Toshinori",
+      "Sisoe",
+      "Kosuzu Kiichi"
+    ],
+    "id": 123544,
+    "malId": 131025,
+    "type": "manga",
+    "title": "Saikyou Onmyouji no Isekai Tenseiki: Geboku no Youkaidomo ni Kurabete Monster ga Yowai Sugirundaga @comic",
+    "url": "https://anilist.co/manga/123544",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123544-fzZ4wAueeERb.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:33.000Z",
+    "updatedAt": "2021-06-18T10:25:00.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/131025/Saikyou_Onmyouji_no_Isekai_Tenseiki__Geboku_no_Youkaidomo_ni_Kurabete_Monster_ga_Yowaisugirunda_ga"
 }

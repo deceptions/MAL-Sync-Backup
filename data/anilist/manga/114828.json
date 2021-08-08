@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-08T07:29:06.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "moon_you": {
+        "authors": [
+          "Cho Seok"
+        ],
+        "identifier": "moon_you",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Moon You",
+        "url": "https://fanfox.net/manga/moon_you/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28454/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124471,
+        "aniId": 114828,
+        "createdAt": "2021-08-04T20:50:15.000Z",
+        "updatedAt": "2021-08-04T21:17:29.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

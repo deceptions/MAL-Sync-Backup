@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:44.000Z",
-  "updatedAt": "2021-05-23T18:08:58.000Z",
+  "updatedAt": "2021-08-01T20:47:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -85,6 +85,23 @@
         "aniId": 4722,
         "createdAt": "2020-10-12T16:01:55.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      },
+      "skip-beat-dub": {
+        "identifier": "skip-beat-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Skip Beat! (Dub)",
+        "url": "https://gogoanime.pe/category/skip-beat-dub",
+        "image": "https://gogocdn.net/cover/skip-beat-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4722,
+        "aniId": 4722,
+        "createdAt": "2021-08-01T20:47:41.000Z",
+        "updatedAt": "2021-08-01T21:17:28.000Z",
         "deletedAt": null
       }
     },

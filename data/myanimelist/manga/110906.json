@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:20.000Z",
-  "updatedAt": "2021-05-20T18:12:57.000Z",
+  "updatedAt": "2021-08-02T03:18:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 100913,
         "createdAt": "2020-10-12T16:13:28.000Z",
         "updatedAt": "2021-06-05T21:35:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kuroyuri-sou-no-henna-wikimono": {
+        "authors": [
+          "YUZUKI Gao"
+        ],
+        "identifier": "kuroyuri-sou-no-henna-wikimono",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Strange Creature at Kuroyuri Apartments",
+        "url": "https://mangasee123.com/manga/Kuroyuri-sou-No-Henna-Wikimono",
+        "image": "https://cover.nep.li/cover/Kuroyuri-sou-No-Henna-Wikimono.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110906,
+        "aniId": 100913,
+        "createdAt": "2021-08-02T03:17:58.000Z",
+        "updatedAt": "2021-08-02T03:47:28.000Z",
         "deletedAt": null
       }
     }

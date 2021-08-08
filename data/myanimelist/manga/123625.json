@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-05T07:19:18.000Z",
-  "updatedAt": "2021-06-05T07:19:18.000Z",
+  "updatedAt": "2021-08-06T00:49:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 117725,
         "createdAt": "2020-10-12T16:11:17.000Z",
         "updatedAt": "2021-07-21T09:33:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dx980780": {
+        "authors": [
+          "Chiyoko Origami"
+        ],
+        "identifier": "manga-dx980780",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kiraware Joushi To Perfect Buka",
+        "url": "https://manganato.com/manga-dx980780",
+        "image": "https://avt.mkklcdnv6temp.com/41/n/17-1583496758.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123625,
+        "aniId": 117725,
+        "createdAt": "2021-08-06T00:49:52.000Z",
+        "updatedAt": "2021-08-06T01:17:30.000Z",
         "deletedAt": null
       }
     }

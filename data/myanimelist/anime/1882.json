@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:22.000Z",
-  "updatedAt": "2021-04-27T00:19:09.000Z",
+  "updatedAt": "2021-08-07T00:50:40.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +48,25 @@
         "aniId": 1882,
         "createdAt": "2020-10-12T15:56:20.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sasami-mahou-shoujo-club-2-dub": {
+        "identifier": "sasami-mahou-shoujo-club-2-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sasami: Mahou Shoujo Club 2 (Dub)",
+        "url": "https://gogoanime.pe/category/sasami-mahou-shoujo-club-2-dub",
+        "image": "https://gogocdn.net/cover/sasami-mahou-shoujo-club-2-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1882,
+        "aniId": 1882,
+        "createdAt": "2021-08-07T00:49:49.000Z",
+        "updatedAt": "2021-08-07T01:17:35.000Z",
         "deletedAt": null
       }
     }

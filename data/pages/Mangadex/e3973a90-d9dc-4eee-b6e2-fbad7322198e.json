@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 132507,
-  "aniId": null,
+  "aniId": 116000,
   "createdAt": "2020-10-12T16:19:52.000Z",
-  "updatedAt": "2021-06-08T00:36:37.000Z",
+  "updatedAt": "2021-08-08T00:44:27.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -35,6 +35,27 @@
     "updatedAt": "2021-06-07T23:23:09.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "嘘つき先生と獲物な私",
+      "Liar teacher and I, his prey",
+      "騙子老師與獵物般的我"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Pico Okada"
+    ],
+    "id": 116000,
+    "malId": 132507,
+    "type": "manga",
+    "title": "Usotsuki Sensei to Emono na Watashi",
+    "url": "https://anilist.co/manga/116000",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116000-QoLsGsvN5S6p.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-08-08T00:14:28.000Z",
+    "updatedAt": "2021-08-08T00:14:28.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/132507/Usotsuki_Sensei_to_Emono_na_Watashi"
 }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:16.000Z",
-  "updatedAt": "2021-04-23T02:26:59.000Z",
+  "updatedAt": "2021-08-03T06:49:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -130,6 +130,29 @@
         "aniId": 55191,
         "createdAt": "2021-04-23T02:26:59.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pp960750": {
+        "authors": [
+          "Urobuchi Gen",
+          "Type-Moon"
+        ],
+        "identifier": "manga-pp960750",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fate/zero",
+        "url": "https://manganato.com/manga-pp960750",
+        "image": "https://avt.mkklcdnv6temp.com/13/i/7-1583476785.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25191,
+        "aniId": 55191,
+        "createdAt": "2021-08-03T06:49:51.000Z",
+        "updatedAt": "2021-08-03T07:17:28.000Z",
         "deletedAt": null
       }
     }

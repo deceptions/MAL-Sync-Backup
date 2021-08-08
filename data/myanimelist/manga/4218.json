@@ -1,6 +1,8 @@
 {
   "altTitle": [
-    "Shin Megami Tensei: Persona, Megami Inbun Roku Persona, Persona: Be Your True Mind",
+    "Shin Megami Tensei: Persona",
+    "Megami Inbun Roku Persona",
+    "Persona: Be Your True Mind",
     "女神異聞録 ～ペルソナ～"
   ],
   "authors": [
@@ -14,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:57.000Z",
-  "updatedAt": "2021-03-15T07:30:30.000Z",
+  "updatedAt": "2021-08-05T00:49:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +61,28 @@
         "aniId": 34218,
         "createdAt": "2021-03-15T07:30:30.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "megami_ibunroku_persona": {
+        "authors": [
+          "UEDA Shinsyu"
+        ],
+        "identifier": "megami_ibunroku_persona",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Megami Ibunroku - Persona",
+        "url": "https://fanfox.net/manga/megami_ibunroku_persona/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5423/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4218,
+        "aniId": 34218,
+        "createdAt": "2021-08-05T00:49:55.000Z",
+        "updatedAt": "2021-08-05T01:17:29.000Z",
         "deletedAt": null
       }
     }

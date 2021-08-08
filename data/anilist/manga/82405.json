@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-03T20:38:09.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "akuma_no_ichigo": {
+        "authors": [
+          "Kayoru"
+        ],
+        "identifier": "akuma_no_ichigo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Akuma no Ichigo",
+        "url": "https://fanfox.net/manga/akuma_no_ichigo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12930/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 52405,
+        "aniId": 82405,
+        "createdAt": "2021-08-01T15:18:32.000Z",
+        "updatedAt": "2021-08-01T15:47:28.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

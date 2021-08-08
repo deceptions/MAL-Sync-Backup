@@ -39,6 +39,50 @@
         "updatedAt": "2021-06-04T21:07:50.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-ub972036": {
+        "authors": [
+          "Hideki"
+        ],
+        "identifier": "manga-ub972036",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "S Watari-San To M Mura-Kun",
+        "url": "https://manganato.com/manga-ub972036",
+        "image": "https://avt.mkklcdnv6temp.com/6/p/14-1583489946.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92088,
+        "aniId": 95768,
+        "createdAt": "2021-08-05T04:19:47.000Z",
+        "updatedAt": "2021-08-05T04:47:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "s_watari_san_to_m_mura_kun": {
+        "authors": [
+          "Hideki"
+        ],
+        "identifier": "s_watari_san_to_m_mura_kun",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "S Watari-san to M Mura-kun",
+        "url": "https://fanfox.net/manga/s_watari_san_to_m_mura_kun/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20821/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92088,
+        "aniId": 95768,
+        "createdAt": "2021-08-05T16:49:44.000Z",
+        "updatedAt": "2021-08-05T17:17:30.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

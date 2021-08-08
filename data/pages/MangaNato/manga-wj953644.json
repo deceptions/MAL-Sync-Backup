@@ -13,9 +13,9 @@
   "active": true,
   "actor": 2,
   "malId": 69879,
-  "aniId": null,
+  "aniId": 97723,
   "createdAt": "2021-08-01T11:17:28.000Z",
-  "updatedAt": "2021-08-01T12:27:41.000Z",
+  "updatedAt": "2021-08-01T12:47:28.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-08-01T11:17:39.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "東京発 異世界行き",
+      "From Tokyo To Another Universe"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Masao Ohtake"
+    ],
+    "id": 97723,
+    "malId": 69879,
+    "type": "manga",
+    "title": "Toukyou Hatsu Isekai Yuki",
+    "url": "https://anilist.co/manga/97723",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/97723-FALJlNXWsnlO.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:51:29.000Z",
+    "updatedAt": "2021-06-18T01:37:40.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/69879/Tokyo-hatsu_Isekai-yuki"
 }

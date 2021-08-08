@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-14T00:38:19.000Z",
-  "updatedAt": "2021-06-21T17:56:22.000Z",
+  "updatedAt": "2021-08-07T21:17:30.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "i_became_the_villain_s_wife": {
+        "authors": [
+          "Da Mowang Manhua"
+        ],
+        "identifier": "i_became_the_villain_s_wife",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "I Became the Villain's Wife",
+        "url": "https://fanfox.net/manga/i_became_the_villain_s_wife/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38377/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 134278,
+        "createdAt": "2021-08-03T22:49:41.000Z",
+        "updatedAt": "2021-08-07T21:17:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

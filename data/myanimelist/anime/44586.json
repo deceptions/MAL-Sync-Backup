@@ -11,7 +11,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-12-12T23:48:03.000Z",
-  "updatedAt": "2021-06-27T00:19:30.000Z",
+  "updatedAt": "2021-08-06T18:51:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {
@@ -30,6 +30,44 @@
         "aniId": 127227,
         "createdAt": "2021-01-01T06:53:11.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kakushigoto-movie": {
+        "identifier": "kakushigoto-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kakushigoto Movie",
+        "url": "https://gogoanime.pe/category/kakushigoto-movie",
+        "image": "https://gogocdn.net/cover/kakushigoto-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44586,
+        "aniId": 127227,
+        "createdAt": "2021-08-06T18:51:49.000Z",
+        "updatedAt": "2021-08-06T19:17:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "m0wx": {
+        "identifier": "m0wx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kakushigoto Movie",
+        "url": "https://www12.9anime.to/watch/kakushigoto-movie.m0wx",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/07/0726adfb0197b5c0f731268e242ebd4f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44586,
+        "aniId": 127227,
+        "createdAt": "2021-08-06T18:51:55.000Z",
+        "updatedAt": "2021-08-06T19:17:35.000Z",
         "deletedAt": null
       }
     }

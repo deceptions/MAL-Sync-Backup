@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T01:20:10.000Z",
-  "updatedAt": "2021-06-21T13:52:23.000Z",
+  "updatedAt": "2021-08-07T21:15:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 104571,
         "createdAt": "2020-10-12T16:13:55.000Z",
         "updatedAt": "2021-06-06T10:27:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cn979922": {
+        "authors": [
+          "Dalsup Son"
+        ],
+        "identifier": "manga-cn979922",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Daily Lives Of Us Siblings",
+        "url": "https://manganato.com/manga-cn979922",
+        "image": "https://avt.mkklcdnv6temp.com/9/p/17-1583495609.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 104571,
+        "createdAt": "2021-08-04T17:18:40.000Z",
+        "updatedAt": "2021-08-07T21:15:39.000Z",
         "deletedAt": null
       }
     }

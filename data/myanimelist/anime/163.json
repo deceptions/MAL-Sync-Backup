@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:00.000Z",
-  "updatedAt": "2021-04-25T22:57:04.000Z",
+  "updatedAt": "2021-08-04T16:49:47.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -29,6 +29,25 @@
         "aniId": 163,
         "createdAt": "2020-10-12T15:48:51.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "power-stone-dub": {
+        "identifier": "power-stone-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Power Stone (Dub)",
+        "url": "https://gogoanime.pe/category/power-stone-dub",
+        "image": "https://gogocdn.net/cover/power-stone-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 163,
+        "aniId": 163,
+        "createdAt": "2021-08-04T16:49:45.000Z",
+        "updatedAt": "2021-08-04T17:17:29.000Z",
         "deletedAt": null
       }
     }

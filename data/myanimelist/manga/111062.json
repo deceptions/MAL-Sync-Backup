@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:21.000Z",
-  "updatedAt": "2021-05-20T19:43:17.000Z",
+  "updatedAt": "2021-08-07T20:19:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 109895,
         "createdAt": "2020-10-12T16:16:19.000Z",
         "updatedAt": "2021-06-06T21:31:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-eo982097": {
+        "authors": [
+          "Shin Hotani"
+        ],
+        "identifier": "manga-eo982097",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Night Owl Witch",
+        "url": "https://manganato.com/manga-eo982097",
+        "image": "https://avt.mkklcdnv6temp.com/39/a/18-1583498609.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111062,
+        "aniId": 109895,
+        "createdAt": "2021-08-07T20:18:58.000Z",
+        "updatedAt": "2021-08-07T20:47:48.000Z",
         "deletedAt": null
       }
     }

@@ -1,7 +1,9 @@
 {
   "altTitle": [
-    "Serial Manga Novel Asadora!, Renzoku Manga Shousetsu",
-    "あさドラ！"
+    "Asadora!",
+    "Serial Manga Novel Asadora!",
+    "Renzoku Manga Shousetsu",
+    "あさドラ!"
   ],
   "authors": [
     "Urasawa, Naoki"
@@ -14,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:40.000Z",
-  "updatedAt": "2021-05-31T13:33:56.000Z",
+  "updatedAt": "2021-08-05T16:20:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +82,28 @@
         "aniId": 104487,
         "createdAt": "2021-05-31T13:33:56.000Z",
         "updatedAt": "2021-05-31T13:52:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "asadora": {
+        "authors": [
+          "Urasawa Naoki"
+        ],
+        "identifier": "asadora",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Asadora!",
+        "url": "https://fanfox.net/manga/asadora/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28748/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116000,
+        "aniId": 104487,
+        "createdAt": "2021-08-05T16:20:49.000Z",
+        "updatedAt": "2021-08-05T16:47:30.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:40.000Z",
-  "updatedAt": "2021-06-21T15:45:52.000Z",
+  "updatedAt": "2021-08-03T20:49:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -79,6 +79,28 @@
         "aniId": 104714,
         "createdAt": "2021-06-21T15:45:01.000Z",
         "updatedAt": "2021-06-21T16:14:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "zombie_land_saga": {
+        "authors": [
+          "Soramichi Megumu"
+        ],
+        "identifier": "zombie_land_saga",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Zombie Land SAGA",
+        "url": "https://fanfox.net/manga/zombie_land_saga/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28930/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116028,
+        "aniId": 104714,
+        "createdAt": "2021-08-03T20:49:40.000Z",
+        "updatedAt": "2021-08-03T21:17:29.000Z",
         "deletedAt": null
       }
     }

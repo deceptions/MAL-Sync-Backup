@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:09.000Z",
-  "updatedAt": "2021-06-29T02:19:46.000Z",
+  "updatedAt": "2021-08-07T05:51:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 95863,
         "createdAt": "2020-10-12T16:10:01.000Z",
         "updatedAt": "2021-06-04T21:39:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bj951892": {
+        "authors": [
+          "Kanno Touko"
+        ],
+        "identifier": "manga-bj951892",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hisureba",
+        "url": "https://manganato.com/manga-bj951892",
+        "image": "https://avt.mkklcdnv6temp.com/20/g/1-1583464495.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92475,
+        "aniId": 95863,
+        "createdAt": "2021-08-07T05:50:54.000Z",
+        "updatedAt": "2021-08-07T06:17:39.000Z",
         "deletedAt": null
       }
     }

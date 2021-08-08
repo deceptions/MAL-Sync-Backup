@@ -59,6 +59,51 @@
         "updatedAt": "2021-07-26T16:21:35.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-jp986750": {
+        "authors": [
+          "Ooyama Sanpo"
+        ],
+        "identifier": "manga-jp986750",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Iseikai Tensei",
+        "url": "https://manganato.com/manga-jp986750",
+        "image": "https://avt.mkklcdnv6temp.com/19/i/22-1600664247.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133345,
+        "aniId": 129346,
+        "createdAt": "2021-08-04T14:49:52.000Z",
+        "updatedAt": "2021-08-04T15:17:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "iseikai_tensei": {
+        "authors": [
+          "OOYAMA Sanpo",
+          "[Add]"
+        ],
+        "identifier": "iseikai_tensei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Iseikai Tensei",
+        "url": "https://fanfox.net/manga/iseikai_tensei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35720/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133345,
+        "aniId": 129346,
+        "createdAt": "2021-08-04T18:50:52.000Z",
+        "updatedAt": "2021-08-04T19:17:29.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

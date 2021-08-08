@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:59.000Z",
-  "updatedAt": "2021-07-03T23:35:47.000Z",
+  "updatedAt": "2021-08-05T18:19:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 65741,
         "createdAt": "2021-07-03T23:34:49.000Z",
         "updatedAt": "2021-07-04T00:03:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "asahinagu": {
+        "authors": [
+          "KOZAKI Ai"
+        ],
+        "identifier": "asahinagu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Asahinagu",
+        "url": "https://fanfox.net/manga/asahinagu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10261/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35741,
+        "aniId": 65741,
+        "createdAt": "2021-08-05T18:19:41.000Z",
+        "updatedAt": "2021-08-05T18:47:30.000Z",
         "deletedAt": null
       }
     }

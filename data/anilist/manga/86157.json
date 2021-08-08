@@ -83,6 +83,28 @@
         "updatedAt": "2021-07-12T18:15:01.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "devilman_saga": {
+        "authors": [
+          "NAGAI Go"
+        ],
+        "identifier": "devilman_saga",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Devilman Saga",
+        "url": "https://fanfox.net/manga/devilman_saga/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21267/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85924,
+        "aniId": 86157,
+        "createdAt": "2021-08-06T00:20:52.000Z",
+        "updatedAt": "2021-08-06T00:47:30.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

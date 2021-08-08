@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-03T14:47:13.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "akatsuki_no_aria": {
+        "authors": [
+          "AKAISHI Michiyo"
+        ],
+        "identifier": "akatsuki_no_aria",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Akatsuki no Aria",
+        "url": "https://fanfox.net/manga/akatsuki_no_aria/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1748/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7530,
+        "aniId": 37530,
+        "createdAt": "2021-08-06T12:48:41.000Z",
+        "updatedAt": "2021-08-06T13:17:31.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

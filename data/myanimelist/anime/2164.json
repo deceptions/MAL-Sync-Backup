@@ -1,7 +1,9 @@
 {
   "altTitle": [
     "Den-noh Coil",
-    "Cyber Coil, Coil - A Circle of Children, Denno Coil",
+    "Cyber Coil",
+    "Coil - A Circle of Children",
+    "Denno Coil",
     "電脳コイル"
   ],
   "id": 2164,
@@ -12,7 +14,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:26.000Z",
-  "updatedAt": "2021-05-09T14:48:33.000Z",
+  "updatedAt": "2021-08-05T13:19:43.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -84,6 +86,23 @@
         "aniId": 2164,
         "createdAt": "2020-10-12T16:00:13.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "dennou-coil": {
+        "identifier": "dennou-coil",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dennou Coil",
+        "url": "https://gogoanime.pe/category/dennou-coil",
+        "image": "https://gogocdn.net/cover/dennou-coil.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2164,
+        "aniId": 2164,
+        "createdAt": "2021-08-05T13:19:42.000Z",
+        "updatedAt": "2021-08-05T13:47:30.000Z",
         "deletedAt": null
       }
     },

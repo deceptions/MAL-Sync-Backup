@@ -42,6 +42,28 @@
         "updatedAt": "2021-06-07T07:34:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "martial_master": {
+        "authors": [
+          "TaXue Comic"
+        ],
+        "identifier": "martial_master",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Martial Master",
+        "url": "https://fanfox.net/manga/martial_master/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34967/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 114595,
+        "createdAt": "2020-12-13T00:15:41.000Z",
+        "updatedAt": "2021-08-03T19:19:43.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

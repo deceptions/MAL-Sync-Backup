@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-15T14:31:50.000Z",
-  "updatedAt": "2021-06-07T23:20:48.000Z",
+  "updatedAt": "2021-08-02T12:18:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 119126,
         "createdAt": "2020-10-12T16:19:56.000Z",
         "updatedAt": "2021-06-08T00:22:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jd986938": {
+        "authors": [
+          "Asano",
+          "Studio Trigger"
+        ],
+        "identifier": "manga-jd986938",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Bna",
+        "url": "https://readmanganato.com/manga-jd986938",
+        "image": "https://avt.mkklcdnv6temp.com/27/d/22-1602429760.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127080,
+        "aniId": 119126,
+        "createdAt": "2021-08-02T12:18:38.000Z",
+        "updatedAt": "2021-08-02T12:47:28.000Z",
         "deletedAt": null
       }
     }

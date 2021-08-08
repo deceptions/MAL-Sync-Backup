@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T20:33:58.000Z",
-  "updatedAt": "2021-06-21T16:50:22.000Z",
+  "updatedAt": "2021-08-07T21:26:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-jx987132": {
+        "authors": [
+          "Tb"
+        ],
+        "identifier": "manga-jx987132",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Birth Of A Villainess",
+        "url": "https://readmanganato.com/manga-jx987132",
+        "image": "https://avt.mkklcdnv6temp.com/34/z/22-1604634065.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 126968,
+        "createdAt": "2021-08-05T09:20:27.000Z",
+        "updatedAt": "2021-08-07T21:26:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T23:24:00.000Z",
-  "updatedAt": "2021-06-21T15:53:43.000Z",
+  "updatedAt": "2021-08-07T21:17:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 120804,
         "createdAt": "2020-10-12T16:20:01.000Z",
         "updatedAt": "2021-06-08T00:46:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "damena_onee_san_demo_sukida_yo_ne": {
+        "authors": [
+          "NISHIZAWA 5miri"
+        ],
+        "identifier": "damena_onee_san_demo_sukida_yo_ne",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Damena Onee-san demo sukida yo ne?",
+        "url": "https://fanfox.net/manga/damena_onee_san_demo_sukida_yo_ne/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38948/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 120804,
+        "createdAt": "2021-07-31T18:22:03.000Z",
+        "updatedAt": "2021-08-07T21:17:30.000Z",
         "deletedAt": null
       }
     }

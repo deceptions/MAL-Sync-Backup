@@ -10,14 +10,34 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/33377/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 117785,
   "createdAt": "2020-12-30T20:28:36.000Z",
-  "updatedAt": "2021-04-02T18:32:06.000Z",
+  "updatedAt": "2021-08-07T21:20:50.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "がんばれ同期ちゃん",
+      "Senpai is Mine"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yom"
+    ],
+    "id": 117785,
+    "malId": null,
+    "type": "manga",
+    "title": "Ganbare, Douki-chan",
+    "url": "https://anilist.co/manga/117785",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117785-BNkBecFRJNJ7.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-25T01:08:18.000Z",
+    "updatedAt": "2021-08-07T21:20:50.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

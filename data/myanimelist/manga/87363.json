@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:54.000Z",
-  "updatedAt": "2021-05-29T14:42:33.000Z",
+  "updatedAt": "2021-08-03T13:19:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 94341,
         "createdAt": "2020-10-12T16:09:32.000Z",
         "updatedAt": "2021-06-04T18:23:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "minori_no_te": {
+        "authors": [
+          "Scarlet Beriko"
+        ],
+        "identifier": "minori_no_te",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Minori no Te",
+        "url": "https://fanfox.net/manga/minori_no_te/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/17837/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87363,
+        "aniId": 94341,
+        "createdAt": "2021-08-03T13:19:43.000Z",
+        "updatedAt": "2021-08-03T13:47:28.000Z",
         "deletedAt": null
       }
     }

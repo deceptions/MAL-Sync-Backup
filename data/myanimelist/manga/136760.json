@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-25T10:45:51.000Z",
-  "updatedAt": "2021-06-25T10:45:51.000Z",
+  "updatedAt": "2021-08-04T15:49:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,6 +84,48 @@
         "aniId": 112538,
         "createdAt": "2021-06-03T06:31:02.000Z",
         "updatedAt": "2021-06-25T11:14:56.000Z",
+        "deletedAt": null
+      },
+      "manga-ku987955": {
+        "authors": [
+          "Kokuichi"
+        ],
+        "identifier": "manga-ku987955",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gokufuri Kyohi Shite Tesaguri Start! Tokka Shinai Healer, Nakama To Wakarete Tabi Ni Deru",
+        "url": "https://manganato.com/manga-ku987955",
+        "image": "https://avt.mkklcdnv6temp.com/18/y/23-1612287123.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136760,
+        "aniId": 112538,
+        "createdAt": "2021-08-04T15:49:42.000Z",
+        "updatedAt": "2021-08-04T16:17:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "gokufuri_kyohi_shite_tesaguri_start_tokka_shinai_healer_nakama_to_wakarete_tabi_ni_deru": {
+        "authors": [
+          "Kokuichi"
+        ],
+        "identifier": "gokufuri_kyohi_shite_tesaguri_start_tokka_shinai_healer_nakama_to_wakarete_tabi_ni_deru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Gokufuri Kyohi Shite Tesaguri Start! Tokka Shinai Healer, Nakama to Wakarete Tabi ni Deru",
+        "url": "https://fanfox.net/manga/gokufuri_kyohi_shite_tesaguri_start_tokka_shinai_healer_nakama_to_wakarete_tabi_ni_deru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37409/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136760,
+        "aniId": 112538,
+        "createdAt": "2021-08-05T07:49:51.000Z",
+        "updatedAt": "2021-08-05T08:17:30.000Z",
         "deletedAt": null
       }
     }

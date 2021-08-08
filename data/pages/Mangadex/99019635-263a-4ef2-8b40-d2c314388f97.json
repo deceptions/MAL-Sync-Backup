@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 133523,
   "createdAt": "2021-01-31T12:32:16.000Z",
-  "updatedAt": "2021-07-20T14:33:50.000Z",
+  "updatedAt": "2021-08-07T21:35:37.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "감방에서 남자주인공을 만났습니다",
+      "I Met the Male Lead In Prison"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Si-Hyun Mun",
+      "Pi-Ti"
+    ],
+    "id": 133523,
+    "malId": null,
+    "type": "manga",
+    "title": "Gambangeseo Namjajuingongeul Mannatseumnida",
+    "url": "https://anilist.co/manga/133523",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b133523-JMNlIAyibRhG.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T18:12:58.000Z",
+    "updatedAt": "2021-08-07T21:23:41.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

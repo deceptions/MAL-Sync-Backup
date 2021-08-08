@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:23.000Z",
-  "updatedAt": "2021-04-25T02:27:01.000Z",
+  "updatedAt": "2021-08-03T11:20:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,28 @@
         "aniId": 46713,
         "createdAt": "2021-04-25T02:27:02.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jj960066": {
+        "authors": [
+          "Youn In-Wan"
+        ],
+        "identifier": "manga-jj960066",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Burning Hell",
+        "url": "https://manganato.com/manga-jj960066",
+        "image": "https://avt.mkklcdnv6temp.com/37/j/6-1583475654.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16713,
+        "aniId": 46713,
+        "createdAt": "2021-08-03T11:20:24.000Z",
+        "updatedAt": "2021-08-03T11:47:28.000Z",
         "deletedAt": null
       }
     }

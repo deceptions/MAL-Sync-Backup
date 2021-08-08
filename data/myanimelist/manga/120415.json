@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:03.000Z",
-  "updatedAt": "2021-05-24T03:08:39.000Z",
+  "updatedAt": "2021-08-04T00:51:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 110533,
         "createdAt": "2020-10-12T16:16:22.000Z",
         "updatedAt": "2021-06-06T22:01:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ej982266": {
+        "authors": [
+          "Hikaru Araki"
+        ],
+        "identifier": "manga-ej982266",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yankee Go To Juku",
+        "url": "https://manganato.com/manga-ej982266",
+        "image": "https://avt.mkklcdnv6temp.com/45/h/18-1583498857.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120415,
+        "aniId": 110533,
+        "createdAt": "2021-08-04T00:51:12.000Z",
+        "updatedAt": "2021-08-04T01:17:29.000Z",
         "deletedAt": null
       }
     }

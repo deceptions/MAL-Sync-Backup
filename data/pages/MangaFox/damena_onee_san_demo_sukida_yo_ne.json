@@ -10,14 +10,34 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/38948/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 120804,
   "createdAt": "2021-07-31T18:22:03.000Z",
-  "updatedAt": "2021-07-31T18:22:03.000Z",
+  "updatedAt": "2021-08-07T21:17:30.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ダメなお姉さんでもすきだよね？",
+      "You don't like a naughty big sister, right?"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "5milli Nishizawa"
+    ],
+    "id": 120804,
+    "malId": null,
+    "type": "manga",
+    "title": "Damena Onee-san Demo Sukida yo ne?",
+    "url": "https://anilist.co/manga/120804",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120804-lal5L3BnjTab.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-07T23:24:00.000Z",
+    "updatedAt": "2021-08-07T21:17:30.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

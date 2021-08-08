@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:09.000Z",
-  "updatedAt": "2021-02-19T07:34:30.000Z",
+  "updatedAt": "2021-08-01T12:47:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,28 @@
         "aniId": 99928,
         "createdAt": "2021-02-19T07:34:30.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zk977267": {
+        "authors": [
+          "Takami Ryousen"
+        ],
+        "identifier": "manga-zk977267",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Almadianos Eiyuuden",
+        "url": "https://manganato.com/manga-zk977267",
+        "image": "https://avt.mkklcdnv6temp.com/39/i/15-1583492985.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108536,
+        "aniId": 99928,
+        "createdAt": "2021-08-01T12:47:53.000Z",
+        "updatedAt": "2021-08-01T13:17:28.000Z",
         "deletedAt": null
       }
     }

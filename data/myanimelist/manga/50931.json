@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:37.000Z",
-  "updatedAt": "2021-06-16T22:58:26.000Z",
+  "updatedAt": "2021-08-04T17:21:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,29 @@
         "aniId": 80931,
         "createdAt": "2020-12-16T22:56:15.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mz964234": {
+        "authors": [
+          "Tachibana Koushi",
+          "Oniyazu Kakashi"
+        ],
+        "identifier": "manga-mz964234",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Date Ast Like",
+        "url": "https://manganato.com/manga-mz964234",
+        "image": "https://avt.mkklcdnv6temp.com/23/z/9-1583481044.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50931,
+        "aniId": 80931,
+        "createdAt": "2021-08-04T17:20:26.000Z",
+        "updatedAt": "2021-08-04T17:47:29.000Z",
         "deletedAt": null
       }
     }

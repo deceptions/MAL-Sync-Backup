@@ -40,6 +40,28 @@
         "updatedAt": "2021-07-15T09:50:49.000Z",
         "deletedAt": null
       }
+    },
+    "Mangadex": {
+      "89c51c81-c890-41c3-a512-30a838df9e04": {
+        "authors": [
+          "Mizuki Wakako"
+        ],
+        "identifier": "89c51c81-c890-41c3-a512-30a838df9e04",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Itihasa",
+        "url": "https://mangadex.org/title/89c51c81-c890-41c3-a512-30a838df9e04",
+        "image": "https://uploads.mangadex.org/covers/89c51c81-c890-41c3-a512-30a838df9e04/560857ae-4ea2-419f-9319-4585da6df5d0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98688,
+        "aniId": 97267,
+        "createdAt": "2021-08-01T21:18:46.000Z",
+        "updatedAt": "2021-08-01T21:18:55.000Z",
+        "deletedAt": null
+      }
     }
   }
 }
