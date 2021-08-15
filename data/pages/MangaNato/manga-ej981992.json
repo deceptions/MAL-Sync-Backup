@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 110042,
   "createdAt": "2021-05-28T19:55:06.000Z",
-  "updatedAt": "2021-07-29T17:21:39.000Z",
+  "updatedAt": "2021-08-11T09:14:44.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "나는 마도왕이다",
+      "I Am The Sorcerer King"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "MIRO",
+      "Decaspell"
+    ],
+    "id": 110042,
+    "malId": null,
+    "type": "manga",
+    "title": "Naneun Madowangida",
+    "url": "https://anilist.co/manga/110042",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110042-cHMKKa0lxiaJ.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T11:14:30.000Z",
+    "updatedAt": "2021-07-23T00:34:00.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

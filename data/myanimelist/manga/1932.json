@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:39.000Z",
-  "updatedAt": "2021-06-21T16:15:05.000Z",
+  "updatedAt": "2021-08-12T15:37:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 31932,
         "createdAt": "2021-04-07T15:51:00.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ij952218": {
+        "authors": [
+          "Hojo Tsukasa"
+        ],
+        "identifier": "manga-ij952218",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Cat's Eye",
+        "url": "https://manganato.com/manga-ij952218",
+        "image": "https://avt.mkklcdnv6temp.com/31/y/1-1583464951.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1932,
+        "aniId": 31932,
+        "createdAt": "2021-08-12T15:37:30.000Z",
+        "updatedAt": "2021-08-12T16:06:59.000Z",
         "deletedAt": null
       }
     }

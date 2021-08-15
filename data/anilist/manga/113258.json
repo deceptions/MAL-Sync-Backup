@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T04:12:58.000Z",
-  "updatedAt": "2021-06-21T14:50:06.000Z",
+  "updatedAt": "2021-08-08T22:09:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 113258,
         "createdAt": "2020-10-12T16:17:17.000Z",
         "updatedAt": "2021-06-07T07:34:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fe983213": {
+        "authors": [
+          "Yong Yong"
+        ],
+        "identifier": "manga-fe983213",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Charlotte Has Five Disciples",
+        "url": "https://readmanganato.com/manga-fe983213",
+        "image": "https://avt.mkklcdnv6temp.com/30/e/19-1583500275.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 113258,
+        "createdAt": "2021-06-06T13:19:28.000Z",
+        "updatedAt": "2021-08-11T09:14:23.000Z",
         "deletedAt": null
       }
     }

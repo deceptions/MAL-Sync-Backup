@@ -16,7 +16,31 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:20.000Z",
-  "updatedAt": "2021-04-26T02:59:01.000Z",
+  "updatedAt": "2021-08-13T14:39:23.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "diabolo": {
+        "authors": [
+          "KUSUNOKI Kei",
+          "OOHASHI Kaoru"
+        ],
+        "identifier": "diabolo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Diabolo",
+        "url": "https://mangasee123.com/manga/Diabolo",
+        "image": "https://cover.nep.li/cover/Diabolo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 297,
+        "aniId": 30297,
+        "createdAt": "2021-08-13T14:38:31.000Z",
+        "updatedAt": "2021-08-13T15:06:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 127421,
   "createdAt": "2021-05-29T04:14:37.000Z",
-  "updatedAt": "2021-08-07T01:50:52.000Z",
+  "updatedAt": "2021-08-11T09:14:30.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "뒤끝작렬",
+      "From The Grave and Back "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Jeong-Hyeok An",
+      "Seok-Ho Jo"
+    ],
+    "id": 127421,
+    "malId": null,
+    "type": "manga",
+    "title": "Dwikkeutjangnyeol",
+    "url": "https://anilist.co/manga/127421",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127421-iuNNkiaVwRKU.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-21T23:12:57.000Z",
+    "updatedAt": "2021-07-23T12:21:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

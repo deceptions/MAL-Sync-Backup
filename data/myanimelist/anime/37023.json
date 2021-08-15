@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:59.000Z",
-  "updatedAt": "2021-07-13T05:45:03.000Z",
+  "updatedAt": "2021-08-13T21:14:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -86,6 +86,25 @@
         "aniId": 100785,
         "createdAt": "2021-01-13T05:28:22.000Z",
         "updatedAt": "2021-05-20T15:21:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2536": {
+        "identifier": "2536",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Layton Mystery Tanteisha: Katri no Nazotoki File",
+        "url": "https://pahe.win/a/2536",
+        "image": "https://i.animepahe.com/posters/ef173b89818e11d7adf00f902d4a185a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37023,
+        "aniId": 100785,
+        "createdAt": "2021-08-13T21:14:35.000Z",
+        "updatedAt": "2021-08-13T21:36:58.000Z",
         "deletedAt": null
       }
     }

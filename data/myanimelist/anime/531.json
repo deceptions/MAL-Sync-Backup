@@ -12,7 +12,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:05.000Z",
-  "updatedAt": "2021-04-15T13:14:38.000Z",
+  "updatedAt": "2021-08-13T21:10:13.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -124,6 +124,25 @@
         "aniId": 531,
         "createdAt": "2020-10-15T12:44:43.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4472": {
+        "identifier": "4472",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bishoujo Senshi Sailor Moon R: The Movie",
+        "url": "https://pahe.win/a/4472",
+        "image": "https://i.animepahe.com/posters/38a6f5de3e196b6469098ff2d2095a384729a38e17669e22be0f734377a07380.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 531,
+        "aniId": 531,
+        "createdAt": "2021-08-13T21:10:06.000Z",
+        "updatedAt": "2021-08-13T21:36:58.000Z",
         "deletedAt": null
       }
     }

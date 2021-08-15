@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 131228,
   "createdAt": "2021-06-11T16:08:24.000Z",
-  "updatedAt": "2021-07-31T18:52:05.000Z",
+  "updatedAt": "2021-08-11T09:14:42.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "I Have Twin Girlfriends",
+      "家有双生女友",
+      "I have two wifes",
+      "I live at home with my twin girlfriends",
+      "My wife's twin sister lives at my home"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tiankong Shu Man Gongchang"
+    ],
+    "id": 131228,
+    "malId": null,
+    "type": "manga",
+    "title": "Jia You Shuangsheng Nüyou",
+    "url": "https://anilist.co/manga/131228",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131228-U1HDAtDuEbjO.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-02T17:30:51.000Z",
+    "updatedAt": "2021-07-22T05:03:59.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

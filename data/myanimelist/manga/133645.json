@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-02T10:31:21.000Z",
-  "updatedAt": "2021-07-08T22:14:22.000Z",
+  "updatedAt": "2021-08-11T17:09:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,9 +35,9 @@
         "active": true,
         "actor": 1,
         "malId": 133645,
-        "aniId": null,
+        "aniId": 129834,
         "createdAt": "2020-10-12T16:20:18.000Z",
-        "updatedAt": "2021-07-09T07:46:34.000Z",
+        "updatedAt": "2021-08-12T11:06:59.000Z",
         "deletedAt": null
       }
     },
@@ -58,9 +58,31 @@
         "active": true,
         "actor": null,
         "malId": 133645,
-        "aniId": null,
+        "aniId": 129834,
         "createdAt": "2021-06-02T10:31:22.000Z",
-        "updatedAt": "2021-06-02T10:31:22.000Z",
+        "updatedAt": "2021-08-12T11:06:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "akuyaku_reijou_no_yakuwari_wa_oemashita": {
+        "authors": [
+          "TSUKI Tsubaki"
+        ],
+        "identifier": "akuyaku_reijou_no_yakuwari_wa_oemashita",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Akuyaku Reijou no Yakuwari wa Oemashita",
+        "url": "https://fanfox.net/manga/akuyaku_reijou_no_yakuwari_wa_oemashita/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36028/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133645,
+        "aniId": 129834,
+        "createdAt": "2021-08-11T17:09:25.000Z",
+        "updatedAt": "2021-08-12T11:06:59.000Z",
         "deletedAt": null
       }
     }

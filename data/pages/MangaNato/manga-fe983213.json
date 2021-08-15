@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 113258,
   "createdAt": "2021-06-06T13:19:28.000Z",
-  "updatedAt": "2021-07-12T17:15:02.000Z",
+  "updatedAt": "2021-08-11T09:14:23.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Charlotte and Her 5 Disciples",
+      "샬롯에게는 다섯 명의 제자가 있다",
+      "Charlotte Has Five Disciples"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yong Yong"
+    ],
+    "id": 113258,
+    "malId": null,
+    "type": "manga",
+    "title": "Syallos-egeneun Daseos Myeong-ui Jejaga Issda",
+    "url": "https://anilist.co/manga/113258",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113258-4xsqfPZaGhyL.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T04:12:58.000Z",
+    "updatedAt": "2021-08-08T22:09:51.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:28.000Z",
-  "updatedAt": "2021-04-05T18:38:29.000Z",
+  "updatedAt": "2021-08-12T12:08:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 87447,
         "createdAt": "2021-04-05T18:38:29.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tv970856": {
+        "authors": [
+          "Karegishi Roji"
+        ],
+        "identifier": "manga-tv970856",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kiznaiver",
+        "url": "https://manganato.com/manga-tv970856",
+        "image": "https://avt.mkklcdnv6temp.com/34/e/13-1583488964.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97635,
+        "aniId": 87447,
+        "createdAt": "2021-08-12T12:07:32.000Z",
+        "updatedAt": "2021-08-12T12:36:59.000Z",
         "deletedAt": null
       }
     }

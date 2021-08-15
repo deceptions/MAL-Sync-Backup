@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:21.000Z",
-  "updatedAt": "2021-05-02T06:33:32.000Z",
+  "updatedAt": "2021-08-14T18:38:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 46283,
         "createdAt": "2020-10-12T16:02:56.000Z",
         "updatedAt": "2021-06-02T10:32:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "undertaker-riddle": {
+        "authors": [
+          "AKAI Higasa"
+        ],
+        "identifier": "undertaker-riddle",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Undertaker Riddle",
+        "url": "https://mangasee123.com/manga/Undertaker-Riddle",
+        "image": "https://cover.nep.li/cover/Undertaker-Riddle.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16283,
+        "aniId": 46283,
+        "createdAt": "2021-08-14T18:38:36.000Z",
+        "updatedAt": "2021-08-14T19:06:59.000Z",
         "deletedAt": null
       }
     }

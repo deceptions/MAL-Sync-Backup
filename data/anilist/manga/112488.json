@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-21T21:12:57.000Z",
-  "updatedAt": "2021-06-21T14:47:26.000Z",
+  "updatedAt": "2021-08-10T18:39:51.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ez981708": {
+        "authors": [
+          "Jing Yu He He"
+        ],
+        "identifier": "manga-ez981708",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "My Lord, Pay Attention To Your Reputation!",
+        "url": "https://manganato.com/manga-ez981708",
+        "image": "https://avt.mkklcdnv6temp.com/24/y/18-1583498062.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 112488,
+        "createdAt": "2021-05-31T09:34:43.000Z",
+        "updatedAt": "2021-08-11T09:15:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

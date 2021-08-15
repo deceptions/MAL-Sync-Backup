@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:32.000Z",
-  "updatedAt": "2021-06-08T06:54:13.000Z",
+  "updatedAt": "2021-08-08T04:48:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 31319,
         "createdAt": "2021-06-08T06:54:13.000Z",
         "updatedAt": "2021-06-08T07:20:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "gunsmith_cats": {
+        "authors": [
+          "SONODA Kenichi"
+        ],
+        "identifier": "gunsmith_cats",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Gunsmith Cats",
+        "url": "https://fanfox.net/manga/gunsmith_cats/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2919/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1319,
+        "aniId": 31319,
+        "createdAt": "2021-08-08T04:48:22.000Z",
+        "updatedAt": "2021-08-08T05:14:27.000Z",
         "deletedAt": null
       }
     }

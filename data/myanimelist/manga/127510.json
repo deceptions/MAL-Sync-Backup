@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-07T12:37:22.000Z",
-  "updatedAt": "2021-06-07T12:37:22.000Z",
+  "updatedAt": "2021-08-09T17:10:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,51 @@
         "aniId": null,
         "createdAt": "2020-10-12T16:17:56.000Z",
         "updatedAt": "2021-06-07T13:43:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mz989482": {
+        "authors": [
+          "Komaki Ryosuke",
+          "Oyama Kina"
+        ],
+        "identifier": "manga-mz989482",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Koukando Ga Mieru You Ni Natta N Da Ga, Heroine Ga Count Stop Shite Iru Ken",
+        "url": "https://manganato.com/manga-mz989482",
+        "image": "https://avt.mkklcdnv6temp.com/33/f/24-1628523006.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127510,
+        "aniId": null,
+        "createdAt": "2021-08-09T17:10:51.000Z",
+        "updatedAt": "2021-08-09T17:10:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "koukando_ga_mieru_you_ni_natta_n_da_ga_heroine_ga_count_stop_shite_iru_ken": {
+        "authors": [
+          "KOMAKI Ryousuke"
+        ],
+        "identifier": "koukando_ga_mieru_you_ni_natta_n_da_ga_heroine_ga_count_stop_shite_iru_ken",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koukando ga Mieru you ni natta n da ga, Heroine ga Count Stop shite iru Ken",
+        "url": "https://fanfox.net/manga/koukando_ga_mieru_you_ni_natta_n_da_ga_heroine_ga_count_stop_shite_iru_ken/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34287/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127510,
+        "aniId": null,
+        "createdAt": "2021-08-11T09:39:21.000Z",
+        "updatedAt": "2021-08-11T09:39:21.000Z",
         "deletedAt": null
       }
     }

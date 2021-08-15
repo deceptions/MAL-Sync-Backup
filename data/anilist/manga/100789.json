@@ -42,6 +42,28 @@
         "updatedAt": "2021-06-05T09:29:08.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "harenochi_shikibu": {
+        "authors": [
+          "Hinota"
+        ],
+        "identifier": "harenochi_shikibu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Harenochi Shikibu",
+        "url": "https://fanfox.net/manga/harenochi_shikibu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27380/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111386,
+        "aniId": 100789,
+        "createdAt": "2021-08-14T02:37:22.000Z",
+        "updatedAt": "2021-08-14T03:06:59.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -12,13 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 113060,
   "createdAt": "2021-06-02T15:01:55.000Z",
-  "updatedAt": "2021-06-02T15:01:55.000Z",
+  "updatedAt": "2021-08-11T09:14:45.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Golden-Haired Summoner",
+      "금발의 정령사",
+      "The Golden Haired Elementalist",
+      "The Golden Haired Wizard",
+      "金发精灵师之天才的烦恼"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Domac  ",
+      "Geulbi"
+    ],
+    "id": 113060,
+    "malId": null,
+    "type": "manga",
+    "title": "Geumbarui Jeongnyeongsa",
+    "url": "https://anilist.co/manga/113060",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113060-iuZWX6e4fVDb.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T20:12:57.000Z",
+    "updatedAt": "2021-08-08T10:09:36.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

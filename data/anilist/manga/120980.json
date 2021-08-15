@@ -23,9 +23,9 @@
     "Mangadex": {
       "6e4805a6-75ab-462d-883c-4ddedb8e4df6": {
         "authors": [
-          "금강불괴",
           "현절무",
-          "한중월야"
+          "한중월야",
+          "금강불괴"
         ],
         "identifier": "6e4805a6-75ab-462d-883c-4ddedb8e4df6",
         "type": "manga",
@@ -36,11 +36,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": null,
         "aniId": 120980,
         "createdAt": "2020-10-12T16:20:07.000Z",
-        "updatedAt": "2021-06-08T00:51:04.000Z",
+        "updatedAt": "2021-08-11T02:39:23.000Z",
         "deletedAt": null
       }
     }

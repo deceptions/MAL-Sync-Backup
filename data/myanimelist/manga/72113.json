@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:19.000Z",
-  "updatedAt": "2021-06-20T07:51:41.000Z",
+  "updatedAt": "2021-08-14T00:38:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 86754,
         "createdAt": "2020-10-12T16:07:51.000Z",
         "updatedAt": "2021-06-04T05:50:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "a_no_tachiichi": {
+        "authors": [
+          "TSUKITOMO Yuu"
+        ],
+        "identifier": "a_no_tachiichi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "+a no Tachiichi",
+        "url": "https://fanfox.net/manga/a_no_tachiichi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/17191/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72113,
+        "aniId": 86754,
+        "createdAt": "2021-08-14T00:37:45.000Z",
+        "updatedAt": "2021-08-14T01:06:59.000Z",
         "deletedAt": null
       }
     }

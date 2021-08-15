@@ -43,8 +43,8 @@
       "54fa20c3-3509-40a7-a69c-a1eda2f8702a": {
         "authors": [
           "유성",
-          "태하",
-          "(주)툰플러스"
+          "(주)툰플러스",
+          "태하"
         ],
         "identifier": "54fa20c3-3509-40a7-a69c-a1eda2f8702a",
         "type": "manga",
@@ -55,11 +55,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
-        "malId": 22431,
+        "actor": 1,
+        "malId": null,
         "aniId": 52431,
         "createdAt": "2020-10-12T16:20:11.000Z",
-        "updatedAt": "2021-06-07T23:31:39.000Z",
+        "updatedAt": "2021-08-10T06:57:53.000Z",
         "deletedAt": null
       }
     }

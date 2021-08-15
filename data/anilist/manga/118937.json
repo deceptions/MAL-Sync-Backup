@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-06-13T18:09:40.000Z",
-  "updatedAt": "2021-06-21T15:28:52.000Z",
+  "updatedAt": "2021-08-10T18:39:41.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lp988624": {
+        "authors": [
+          "Jica"
+        ],
+        "identifier": "manga-lp988624",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Just Give It To Me",
+        "url": "https://readmanganato.com/manga-lp988624",
+        "image": "https://avt.mkklcdnv6temp.com/46/n/23-1617090182.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 118937,
+        "createdAt": "2021-05-31T09:31:13.000Z",
+        "updatedAt": "2021-08-11T09:14:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

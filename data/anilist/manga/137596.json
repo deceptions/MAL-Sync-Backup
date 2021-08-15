@@ -20,5 +20,29 @@
   "createdAt": "2021-08-06T12:17:32.000Z",
   "updatedAt": "2021-08-06T12:47:32.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lz989234": {
+        "authors": [
+          "Lee Ruin",
+          "Macherie"
+        ],
+        "identifier": "manga-lz989234",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Elizabeth",
+        "url": "https://manganato.com/manga-lz989234",
+        "image": "https://avt.mkklcdnv6temp.com/22/a/24-1624891271.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 137596,
+        "createdAt": "2021-06-29T08:48:14.000Z",
+        "updatedAt": "2021-08-10T06:57:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

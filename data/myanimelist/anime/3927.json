@@ -1,7 +1,9 @@
 {
   "altTitle": [
     "Mobile Suit Gundam 00: Second Season",
-    "Kidou Senshi Gundam 00 2nd Season, Mobile Suit Gundam 00 2nd Season, Gundam 00 S2",
+    "Kidou Senshi Gundam 00 2nd Season",
+    "Mobile Suit Gundam 00 2nd Season",
+    "Gundam 00 S2",
     "機動戦士ガンダム00 セカンドシーズン"
   ],
   "id": 3927,
@@ -12,7 +14,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:40.000Z",
-  "updatedAt": "2021-04-30T22:05:33.000Z",
+  "updatedAt": "2021-08-13T21:13:48.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -139,6 +141,25 @@
         "aniId": 3927,
         "createdAt": "2020-10-15T12:31:34.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1329": {
+        "identifier": "1329",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Mobile Suit Gundam 00 Second Season",
+        "url": "https://pahe.win/a/1329",
+        "image": "https://i.animepahe.com/posters/30fa8b12042f468d2571059a8a07f144.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3927,
+        "aniId": 3927,
+        "createdAt": "2021-08-13T21:13:40.000Z",
+        "updatedAt": "2021-08-13T21:36:58.000Z",
         "deletedAt": null
       }
     }

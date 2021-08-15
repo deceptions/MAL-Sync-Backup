@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:48.000Z",
-  "updatedAt": "2021-05-03T01:32:33.000Z",
+  "updatedAt": "2021-08-13T15:08:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 50168,
         "createdAt": "2020-10-12T16:02:46.000Z",
         "updatedAt": "2021-06-02T09:17:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kanade": {
+        "authors": [
+          "SEGAMI Akira"
+        ],
+        "identifier": "kanade",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kanade",
+        "url": "https://mangasee123.com/manga/Kanade",
+        "image": "https://cover.nep.li/cover/Kanade.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20168,
+        "aniId": 50168,
+        "createdAt": "2021-08-13T15:07:58.000Z",
+        "updatedAt": "2021-08-13T15:36:59.000Z",
         "deletedAt": null
       }
     }

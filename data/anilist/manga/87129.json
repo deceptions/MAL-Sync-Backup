@@ -16,7 +16,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-23T23:14:53.000Z",
-  "updatedAt": "2021-06-23T23:14:53.000Z",
+  "updatedAt": "2021-08-08T07:45:53.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "life-howling": {
+        "authors": [
+          "Gang-Cha",
+          "Sung Sang-Young"
+        ],
+        "identifier": "life-howling",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Life Howling",
+        "url": "https://mangasee123.com/manga/Life-Howling",
+        "image": "https://cover.nep.li/cover/Life-Howling.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 87129,
+        "createdAt": "2021-02-09T19:10:32.000Z",
+        "updatedAt": "2021-08-08T07:45:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

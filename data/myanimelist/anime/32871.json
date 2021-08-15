@@ -12,7 +12,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:43.000Z",
-  "updatedAt": "2021-04-30T20:49:16.000Z",
+  "updatedAt": "2021-08-13T21:08:43.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -69,6 +69,25 @@
         "aniId": 102839,
         "createdAt": "2020-10-12T16:01:04.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1997": {
+        "identifier": "1997",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Kuroko no Basket Movie 3: Winter Cup - Tobira no Mukou",
+        "url": "https://pahe.win/a/1997",
+        "image": "https://i.animepahe.com/posters/fa17891442cb8a56c9ac35d0b2da1394.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32871,
+        "aniId": 102839,
+        "createdAt": "2021-08-13T21:08:35.000Z",
+        "updatedAt": "2021-08-13T21:36:58.000Z",
         "deletedAt": null
       }
     }

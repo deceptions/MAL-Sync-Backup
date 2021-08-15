@@ -11,13 +11,51 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 120117,
+  "aniId": 107608,
   "createdAt": "2021-06-15T13:57:33.000Z",
-  "updatedAt": "2021-06-15T13:58:24.000Z",
+  "updatedAt": "2021-08-11T09:16:37.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "The Way Miss Blanket Warms me Up",
+      "毛布おねえさんの温めかた"
+    ],
+    "authors": [
+      "Sheena"
+    ],
+    "id": 120117,
+    "type": "manga",
+    "title": "Moufu Oneesan no Atatamekata",
+    "url": "https://myanimelist.net/manga/120117/Moufu_Oneesan_no_Atatamekata",
+    "image": "https://cdn.myanimelist.net/images/manga/3/232393.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-11-30T02:22:40.000Z",
+    "updatedAt": "2021-08-11T09:16:15.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "毛布おねえさんの温めかた",
+      "How To Warm Up Your Blanket"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shiina"
+    ],
+    "id": 107608,
+    "malId": 120117,
+    "type": "manga",
+    "title": "Moufu Onee-san no Atatamekata",
+    "url": "https://anilist.co/manga/107608",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107608-DrhcpImLX2qJ.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:58:13.000Z",
+    "updatedAt": "2021-08-10T09:40:17.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/120117/Moufu_Oneesan_no_Atatamekata"
 }

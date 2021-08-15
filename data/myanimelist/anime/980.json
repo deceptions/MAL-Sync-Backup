@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:10.000Z",
-  "updatedAt": "2021-04-26T09:57:18.000Z",
+  "updatedAt": "2021-08-09T09:09:36.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -47,6 +47,25 @@
         "aniId": 980,
         "createdAt": "2020-10-12T15:57:17.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "rikujou-bouei-tai-mao-chan": {
+        "identifier": "rikujou-bouei-tai-mao-chan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Rikujou Bouei-tai Mao-chan",
+        "url": "https://gogoanime.pe/category/rikujou-bouei-tai-mao-chan",
+        "image": "https://gogocdn.net/cover/rikujou-bouei-tai-mao-chan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 980,
+        "aniId": 980,
+        "createdAt": "2021-08-09T09:09:23.000Z",
+        "updatedAt": "2021-08-09T09:39:15.000Z",
         "deletedAt": null
       }
     }

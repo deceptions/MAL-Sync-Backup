@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T18:10:25.000Z",
-  "updatedAt": "2021-05-29T11:14:33.000Z",
+  "updatedAt": "2021-08-11T00:39:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,29 @@
         "aniId": 111135,
         "createdAt": "2020-12-25T00:55:03.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-iv985478": {
+        "authors": [
+          "Aneko Yusagi",
+          "Tendou Akano"
+        ],
+        "identifier": "manga-iv985478",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tate No Yuusha No Oshi Nagaki",
+        "url": "https://readmanganato.com/manga-iv985478",
+        "image": "https://avt.mkklcdnv6temp.com/17/o/21-1590115121.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123452,
+        "aniId": 111135,
+        "createdAt": "2021-08-11T00:39:21.000Z",
+        "updatedAt": "2021-08-11T01:09:16.000Z",
         "deletedAt": null
       }
     }

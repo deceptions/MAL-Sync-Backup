@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:35.000Z",
-  "updatedAt": "2021-04-27T01:51:00.000Z",
+  "updatedAt": "2021-08-08T07:44:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 31592,
         "createdAt": "2020-10-12T16:05:03.000Z",
         "updatedAt": "2021-06-03T09:56:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "milk-closet": {
+        "authors": [
+          "TOMIZAWA Hitoshi"
+        ],
+        "identifier": "milk-closet",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Milk Closet",
+        "url": "https://mangasee123.com/manga/Milk-Closet",
+        "image": "https://cover.nep.li/cover/Milk-Closet.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1592,
+        "aniId": 31592,
+        "createdAt": "2021-08-08T07:44:12.000Z",
+        "updatedAt": "2021-08-08T08:09:16.000Z",
         "deletedAt": null
       }
     }

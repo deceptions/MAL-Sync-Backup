@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:50.000Z",
-  "updatedAt": "2021-02-25T02:26:03.000Z",
+  "updatedAt": "2021-08-13T21:12:13.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +48,25 @@
         "aniId": 97876,
         "createdAt": "2020-10-12T16:02:00.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2283": {
+        "identifier": "2283",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Taishou Mebiusline: Chicchai-san",
+        "url": "https://pahe.win/a/2283",
+        "image": "https://i.animepahe.com/posters/a072976545dc90db7b65d02428016126.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34411,
+        "aniId": 97876,
+        "createdAt": "2021-08-13T21:12:06.000Z",
+        "updatedAt": "2021-08-13T21:36:58.000Z",
         "deletedAt": null
       }
     }

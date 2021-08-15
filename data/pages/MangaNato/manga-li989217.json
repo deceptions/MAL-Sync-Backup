@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 137230,
   "createdAt": "2021-06-24T14:14:57.000Z",
-  "updatedAt": "2021-06-24T14:14:57.000Z",
+  "updatedAt": "2021-08-10T06:58:11.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "New Suitor for the Abandoned Wife",
+      "버려진 아내에게 새 남편이 생겼습니다",
+      "The Abandoned Wife Has A New Husband"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ha-yeon Han",
+      "Lobster"
+    ],
+    "id": 137230,
+    "malId": null,
+    "type": "manga",
+    "title": "Beoryeojin Anaeege Sae Nampyeoni Saenggyeotseumnida",
+    "url": "https://anilist.co/manga/137230",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137230-rIbo17KPkmh7.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-29T13:21:40.000Z",
+    "updatedAt": "2021-08-03T13:17:39.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

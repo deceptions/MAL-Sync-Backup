@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:37.000Z",
-  "updatedAt": "2021-07-01T04:20:21.000Z",
+  "updatedAt": "2021-08-09T16:41:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 31741,
         "createdAt": "2021-01-01T04:00:56.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mu989477": {
+        "authors": [
+          "Takahashi Hiroshi"
+        ],
+        "identifier": "manga-mu989477",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Worst",
+        "url": "https://readmanganato.com/manga-mu989477",
+        "image": "https://avt.mkklcdnv6temp.com/32/z/24-1628509943.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1741,
+        "aniId": 31741,
+        "createdAt": "2021-08-09T16:40:05.000Z",
+        "updatedAt": "2021-08-09T17:09:15.000Z",
         "deletedAt": null
       }
     }

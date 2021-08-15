@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:12.000Z",
-  "updatedAt": "2021-07-03T23:03:58.000Z",
+  "updatedAt": "2021-08-11T20:09:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,6 +64,29 @@
         "aniId": 96016,
         "createdAt": "2021-01-03T22:56:46.000Z",
         "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-sm970121": {
+        "authors": [
+          "Shimizu Eiichi",
+          "Shimoguchi Tomohiro"
+        ],
+        "identifier": "manga-sm970121",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Getter Robot Devolution - Uchuu Saigo No 3-Bunkan",
+        "url": "https://manganato.com/manga-sm970121",
+        "image": "https://avt.mkklcdnv6temp.com/21/r/13-1583488528.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93088,
+        "aniId": 96016,
+        "createdAt": "2021-08-11T20:09:25.000Z",
+        "updatedAt": "2021-08-11T20:39:18.000Z",
         "deletedAt": null
       }
     }

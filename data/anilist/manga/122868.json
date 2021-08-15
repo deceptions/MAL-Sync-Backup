@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-08T01:52:10.000Z",
-  "updatedAt": "2021-06-21T16:17:11.000Z",
+  "updatedAt": "2021-08-10T11:09:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,28 @@
         "aniId": 122868,
         "createdAt": "2020-10-12T16:21:01.000Z",
         "updatedAt": "2021-06-08T06:56:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jo986371": {
+        "authors": [
+          "Hae So Geum"
+        ],
+        "identifier": "manga-jo986371",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "God’S Palace",
+        "url": "https://manganato.com/manga-jo986371",
+        "image": "https://avt.mkklcdnv6temp.com/4/e/22-1598544214.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 122868,
+        "createdAt": "2021-08-10T11:09:20.000Z",
+        "updatedAt": "2021-08-10T11:09:35.000Z",
         "deletedAt": null
       }
     }

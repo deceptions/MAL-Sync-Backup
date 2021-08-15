@@ -18,5 +18,28 @@
   "createdAt": "2021-05-24T10:38:18.000Z",
   "updatedAt": "2021-06-18T10:51:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "gt_girl": {
+        "authors": [
+          "HASEMI Saki"
+        ],
+        "identifier": "gt_girl",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "GT-giRl",
+        "url": "https://fanfox.net/manga/gt_girl/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37899/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132319,
+        "aniId": 125414,
+        "createdAt": "2021-08-10T17:10:11.000Z",
+        "updatedAt": "2021-08-10T17:39:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

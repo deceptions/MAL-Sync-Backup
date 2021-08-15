@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:05.000Z",
-  "updatedAt": "2021-07-14T20:21:11.000Z",
+  "updatedAt": "2021-08-13T21:09:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -105,6 +105,25 @@
         "aniId": 532,
         "createdAt": "2021-07-14T20:21:02.000Z",
         "updatedAt": "2021-07-14T20:50:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4474": {
+        "identifier": "4474",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Bishoujo Senshi Sailor Moon S",
+        "url": "https://pahe.win/a/4474",
+        "image": "https://i.animepahe.com/posters/01e31dc061e46e3078b7fb0e968893ad2b71458b828e4beaf3451d8ee6812072.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 532,
+        "aniId": 532,
+        "createdAt": "2021-08-13T21:09:44.000Z",
+        "updatedAt": "2021-08-13T21:36:58.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-30T07:44:32.000Z",
-  "updatedAt": "2021-04-30T07:51:28.000Z",
+  "updatedAt": "2021-08-10T06:40:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "organic_sons": {
+        "authors": [
+          "SADAHIRO Mika"
+        ],
+        "identifier": "organic_sons",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Organic Sons",
+        "url": "https://fanfox.net/manga/organic_sons/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36309/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15119,
+        "aniId": null,
+        "createdAt": "2021-08-10T06:39:54.000Z",
+        "updatedAt": "2021-08-10T06:40:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

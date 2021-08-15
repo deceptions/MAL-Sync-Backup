@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-04T11:00:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "sekisei_inko": {
+        "authors": [
+          "WAKUI Ken"
+        ],
+        "identifier": "sekisei_inko",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sekisei Inko",
+        "url": "https://fanfox.net/manga/sekisei_inko/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15782/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89296,
+        "aniId": 86801,
+        "createdAt": "2021-08-09T07:09:49.000Z",
+        "updatedAt": "2021-08-09T07:39:15.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

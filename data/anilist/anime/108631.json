@@ -89,6 +89,59 @@
         "deletedAt": null
       }
     },
+    "Gogoanime": {
+      "hataraku-saibou-dub": {
+        "identifier": "hataraku-saibou-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hataraku Saibou (Dub)",
+        "url": "https://gogoanime.pe/category/hataraku-saibou-dub",
+        "image": "https://gogocdn.net/cover/hataraku-saibou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 39586,
+        "aniId": 108631,
+        "createdAt": "2020-10-12T16:00:41.000Z",
+        "updatedAt": "2021-08-11T09:39:15.000Z",
+        "deletedAt": null
+      },
+      "hataraku-saibou": {
+        "identifier": "hataraku-saibou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hataraku Saibou!!",
+        "url": "https://gogoanime.pe/category/hataraku-saibou",
+        "image": "https://gogocdn.net/cover/hataraku-saibou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39586,
+        "aniId": 108631,
+        "createdAt": "2021-01-07T06:05:02.000Z",
+        "updatedAt": "2021-07-09T02:14:57.000Z",
+        "deletedAt": null
+      },
+      "hataraku-saibou-2-dub": {
+        "identifier": "hataraku-saibou-2-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hataraku Saibou!! (Dub)",
+        "url": "https://gogoanime.pe/category/hataraku-saibou-2-dub",
+        "image": "https://gogocdn.net/cover/hataraku-saibou-2-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 39586,
+        "aniId": 108631,
+        "createdAt": "2021-05-20T01:01:55.000Z",
+        "updatedAt": "2021-08-11T09:39:15.000Z",
+        "deletedAt": null
+      }
+    },
     "animepahe": {
       "4164": {
         "identifier": "4164",
@@ -105,25 +158,6 @@
         "aniId": 108631,
         "createdAt": "2020-12-31T18:46:40.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Gogoanime": {
-      "hataraku-saibou": {
-        "identifier": "hataraku-saibou",
-        "type": "anime",
-        "page": "Gogoanime",
-        "title": "Hataraku Saibou!!",
-        "url": "https://gogoanime.pe/category/hataraku-saibou",
-        "image": "https://gogocdn.net/cover/hataraku-saibou.png",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 39586,
-        "aniId": 108631,
-        "createdAt": "2021-01-07T06:05:02.000Z",
-        "updatedAt": "2021-07-09T02:14:57.000Z",
         "deletedAt": null
       }
     },

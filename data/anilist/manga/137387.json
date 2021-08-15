@@ -21,5 +21,30 @@
   "createdAt": "2021-08-03T12:17:39.000Z",
   "updatedAt": "2021-08-03T12:17:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lj989344": {
+        "authors": [
+          "Irangbi",
+          "로서하",
+          "이랑"
+        ],
+        "identifier": "manga-lj989344",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Forgotten Princess Wants To Live In Peace",
+        "url": "https://manganato.com/manga-lj989344",
+        "image": "https://avt.mkklcdnv6temp.com/27/b/24-1627188368.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 137387,
+        "createdAt": "2021-07-25T05:51:36.000Z",
+        "updatedAt": "2021-08-13T07:01:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

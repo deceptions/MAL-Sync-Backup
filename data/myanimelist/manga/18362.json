@@ -82,6 +82,28 @@
         "updatedAt": "2021-07-22T07:03:47.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kunisaki_izumo_no_jijou": {
+        "authors": [
+          "HIRAKAWA Aya"
+        ],
+        "identifier": "kunisaki_izumo_no_jijou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kunisaki Izumo no Jijou",
+        "url": "https://fanfox.net/manga/kunisaki_izumo_no_jijou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5647/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18362,
+        "aniId": 48362,
+        "createdAt": "2021-08-09T07:40:23.000Z",
+        "updatedAt": "2021-08-09T08:09:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:04.000Z",
-  "updatedAt": "2021-06-08T05:21:03.000Z",
+  "updatedAt": "2021-08-12T01:39:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 110329,
         "createdAt": "2021-06-08T05:21:06.000Z",
         "updatedAt": "2021-06-08T05:50:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dear_sa_chan": {
+        "authors": [
+          "ASAGA Iori"
+        ],
+        "identifier": "dear_sa_chan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dear Sa-chan",
+        "url": "https://fanfox.net/manga/dear_sa_chan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31053/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120573,
+        "aniId": 110329,
+        "createdAt": "2021-08-12T01:39:41.000Z",
+        "updatedAt": "2021-08-12T02:09:18.000Z",
         "deletedAt": null
       }
     }

@@ -27,5 +27,44 @@
   "createdAt": "2021-06-27T06:49:21.000Z",
   "updatedAt": "2021-07-03T00:03:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "w19ok": {
+        "identifier": "w19ok",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shiguang Dailiren Fan Wai Pian: Biwu Zhaoqin",
+        "url": "https://www12.9anime.to/watch/link-click.w19ok",
+        "image": "https://static.bunnycdn.ru/i/cache/images/1/14/1408d237ab063b9c1d96e7c6ee9c733a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 49200,
+        "aniId": 136145,
+        "createdAt": "2021-06-09T18:04:44.000Z",
+        "updatedAt": "2021-08-13T07:06:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4488": {
+        "identifier": "4488",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Shiguang Dailiren Fan Wai Pian: Biwu Zhaoqin",
+        "url": "https://pahe.win/a/4488",
+        "image": "https://i.animepahe.com/posters/7f733d6949c1d41e1e098273e37530733fad7a0ca3453ebe0aa34414b66f3eff.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49200,
+        "aniId": 136145,
+        "createdAt": "2021-08-13T21:11:37.000Z",
+        "updatedAt": "2021-08-13T21:36:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

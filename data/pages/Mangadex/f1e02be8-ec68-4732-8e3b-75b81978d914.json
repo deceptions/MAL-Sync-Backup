@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 120575,
-  "aniId": null,
+  "aniId": 110994,
   "createdAt": "2020-10-12T16:16:41.000Z",
-  "updatedAt": "2021-06-07T07:39:32.000Z",
+  "updatedAt": "2021-08-11T13:39:16.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,25 @@
     "updatedAt": "2021-06-07T01:20:01.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "青春ランナウェイ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kimiko Otsu"
+    ],
+    "id": 110994,
+    "malId": 120575,
+    "type": "manga",
+    "title": "Seishun Runaway",
+    "url": "https://anilist.co/manga/110994",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110994-JbyNuUmsGDJ4.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-11T13:09:16.000Z",
+    "updatedAt": "2021-08-11T13:09:16.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/120575/Seishun_Runaway"
 }

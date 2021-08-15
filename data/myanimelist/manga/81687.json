@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:36.000Z",
-  "updatedAt": "2021-06-04T07:20:48.000Z",
+  "updatedAt": "2021-08-09T07:09:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 93164,
         "createdAt": "2020-10-12T16:08:01.000Z",
         "updatedAt": "2021-06-04T08:55:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hana-no-niwa-ame-no-mai": {
+        "authors": [
+          "TAGAWA Mi"
+        ],
+        "identifier": "hana-no-niwa-ame-no-mai",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hana no Niwa Ame no Mai",
+        "url": "https://mangasee123.com/manga/Hana-No-Niwa-Ame-No-Mai",
+        "image": "https://cover.nep.li/cover/Hana-No-Niwa-Ame-No-Mai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 81687,
+        "aniId": 93164,
+        "createdAt": "2021-08-09T07:09:24.000Z",
+        "updatedAt": "2021-08-09T07:39:15.000Z",
         "deletedAt": null
       }
     }

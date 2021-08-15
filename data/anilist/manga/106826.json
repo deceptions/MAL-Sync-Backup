@@ -20,5 +20,28 @@
   "createdAt": "2021-05-25T01:08:18.000Z",
   "updatedAt": "2021-06-21T13:58:03.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a02406a6-19ff-4adf-b11a-e9eb9c685345": {
+        "authors": [
+          "Sanfu"
+        ],
+        "identifier": "a02406a6-19ff-4adf-b11a-e9eb9c685345",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Between Me And You",
+        "url": "https://mangadex.org/title/a02406a6-19ff-4adf-b11a-e9eb9c685345",
+        "image": "https://uploads.mangadex.org/covers/a02406a6-19ff-4adf-b11a-e9eb9c685345/c8a70014-be22-4bfb-b977-e05008e57106.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 106826,
+        "createdAt": "2021-08-09T00:09:49.000Z",
+        "updatedAt": "2021-08-09T00:09:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

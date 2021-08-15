@@ -1,7 +1,11 @@
 {
   "altTitle": [
     "Yu-Gi-Oh!: The Movie",
-    "Yugioh, Yu-Gi-Oh!, Yu-Gi-Oh!: Duel Monsters, Yugioh: Duel Monsters, Yu-Gi-Oh!: Pyramid of Light",
+    "Yugioh",
+    "Yu-Gi-Oh!",
+    "Yu-Gi-Oh!: Duel Monsters",
+    "Yugioh: Duel Monsters",
+    "Yu-Gi-Oh!: Pyramid of Light",
     "遊☆戯☆王　デュエルモンスターズ　光のピラミッド"
   ],
   "id": 1894,
@@ -12,7 +16,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:23.000Z",
-  "updatedAt": "2021-05-20T00:00:54.000Z",
+  "updatedAt": "2021-08-12T17:38:00.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -67,6 +71,23 @@
         "aniId": 1894,
         "createdAt": "2020-10-12T16:02:20.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      },
+      "yu-gi-oh-pyramid-of-light": {
+        "identifier": "yu-gi-oh-pyramid-of-light",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yu-Gi-Oh! Pyramid of Light",
+        "url": "https://gogoanime.pe/category/yu-gi-oh-pyramid-of-light",
+        "image": "https://gogocdn.net/images/anime/Y/Yu-Gi-Oh-Pyramid-of-Light.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1894,
+        "aniId": 1894,
+        "createdAt": "2021-08-12T17:37:20.000Z",
+        "updatedAt": "2021-08-12T18:06:58.000Z",
         "deletedAt": null
       }
     },

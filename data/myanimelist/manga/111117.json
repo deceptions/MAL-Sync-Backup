@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:21.000Z",
-  "updatedAt": "2021-05-20T20:42:57.000Z",
+  "updatedAt": "2021-08-14T19:37:24.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 103026,
         "createdAt": "2020-10-12T16:20:36.000Z",
         "updatedAt": "2021-06-08T00:29:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-io986097": {
+        "authors": [
+          "Yu Aikawa"
+        ],
+        "identifier": "manga-io986097",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Jingai-San No Yome",
+        "url": "https://manganato.com/manga-io986097",
+        "image": "https://avt.mkklcdnv6temp.com/43/e/21-1596341913.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111117,
+        "aniId": 103026,
+        "createdAt": "2021-08-14T19:37:19.000Z",
+        "updatedAt": "2021-08-14T20:06:59.000Z",
         "deletedAt": null
       }
     }

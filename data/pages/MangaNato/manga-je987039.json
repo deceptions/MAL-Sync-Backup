@@ -11,13 +11,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 122082,
   "createdAt": "2021-06-16T07:57:54.000Z",
-  "updatedAt": "2021-06-16T07:58:04.000Z",
+  "updatedAt": "2021-08-11T09:15:57.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "무사만리행",
+      "Musamanlihaeng",
+      "The Long Way of the Warrior",
+      "Dolgii Put Viona",
+      "Musa Manrihaeng"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mingi Bae",
+      "Un"
+    ],
+    "id": 122082,
+    "malId": null,
+    "type": "manga",
+    "title": "Musa Mallihaeng",
+    "url": "https://anilist.co/manga/122082",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122082-8E814vgaKiDH.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-08T05:52:30.000Z",
+    "updatedAt": "2021-08-10T18:39:52.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -11,13 +11,38 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 120222,
   "createdAt": "2021-06-01T07:22:58.000Z",
-  "updatedAt": "2021-08-07T12:52:03.000Z",
+  "updatedAt": "2021-08-11T09:16:07.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Twins' New Life",
+      "쌍둥이 남매의 뉴라이프",
+      "The Twin Siblings' New Life  ",
+      "La Nueva Vida De Los Gemelos",
+      "双胞胎兄妹的父皇是宠娃狂魔",
+      "Ssangdungi Nammaeui Nyuraipeu"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Aidela",
+      "Nicca"
+    ],
+    "id": 120222,
+    "malId": null,
+    "type": "manga",
+    "title": "Ssangdungi Nammaeui New Life",
+    "url": "https://anilist.co/manga/120222",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120222-vkFSijqsrlnv.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T19:12:57.000Z",
+    "updatedAt": "2021-07-21T22:34:00.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

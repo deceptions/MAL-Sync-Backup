@@ -1,7 +1,10 @@
 {
   "altTitle": [
     "The Three Musketeers",
-    "Anime Sanjushi: Aramis no Daiboken, Three Musketeers, Animated Three Musketeers, Anime San Jushi",
+    "Anime Sanjushi: Aramis no Daiboken",
+    "Three Musketeers",
+    "Animated Three Musketeers",
+    "Anime San Jushi",
     "アニメ三銃士"
   ],
   "id": 2333,
@@ -12,7 +15,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:28.000Z",
-  "updatedAt": "2021-04-17T11:44:17.000Z",
+  "updatedAt": "2021-08-12T12:38:00.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -31,6 +34,23 @@
         "aniId": 2333,
         "createdAt": "2020-10-12T15:49:22.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "jvn58": {
+        "identifier": "jvn58",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Anime Sanjuushi (Dub)",
+        "url": "https://www12.9anime.to/watch/the-three-musketeers-dub.jvn58",
+        "image": "https://static.bunnycdn.ru/i/cache/images/e/ee/ee0bbe54bcb878956728957280436d46.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2333,
+        "aniId": 2333,
+        "createdAt": "2021-08-12T12:37:52.000Z",
+        "updatedAt": "2021-08-12T13:06:58.000Z",
         "deletedAt": null
       }
     },

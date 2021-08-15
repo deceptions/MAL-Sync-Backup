@@ -20,7 +20,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-08T05:52:30.000Z",
-  "updatedAt": "2021-06-21T15:59:33.000Z",
+  "updatedAt": "2021-08-10T18:39:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,28 @@
         "aniId": 122082,
         "createdAt": "2020-10-23T01:28:50.000Z",
         "updatedAt": "2021-06-08T06:55:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-je987039": {
+        "authors": [
+          "Ming Bae"
+        ],
+        "identifier": "manga-je987039",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Long Way Of The Warrior",
+        "url": "https://manganato.com/manga-je987039",
+        "image": "https://avt.mkklcdnv6temp.com/31/d/22-1603554748.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 122082,
+        "createdAt": "2021-06-16T07:57:54.000Z",
+        "updatedAt": "2021-08-11T09:15:57.000Z",
         "deletedAt": null
       }
     }

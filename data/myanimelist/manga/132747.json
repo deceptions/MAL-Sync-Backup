@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-07T03:48:57.000Z",
-  "updatedAt": "2021-06-07T03:48:57.000Z",
+  "updatedAt": "2021-08-08T05:18:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 116321,
         "createdAt": "2020-10-12T16:16:59.000Z",
         "updatedAt": "2021-06-07T07:15:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tensei_danzou_oujo_wa_kekkon_aite_wo_sagasanai": {
+        "authors": [
+          "Tsukigami Saki"
+        ],
+        "identifier": "tensei_danzou_oujo_wa_kekkon_aite_wo_sagasanai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tensei Danzou Oujo wa Kekkon Aite wo Sagasanai",
+        "url": "https://fanfox.net/manga/tensei_danzou_oujo_wa_kekkon_aite_wo_sagasanai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31224/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132747,
+        "aniId": 116321,
+        "createdAt": "2021-08-08T05:17:52.000Z",
+        "updatedAt": "2021-08-08T05:44:28.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:09.000Z",
-  "updatedAt": "2021-06-05T16:51:31.000Z",
+  "updatedAt": "2021-08-08T01:47:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 99541,
         "createdAt": "2021-04-22T06:27:09.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mr989452": {
+        "authors": [
+          "Kaitei Shujin"
+        ],
+        "identifier": "manga-mr989452",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Wadanohara And The Great Blue Sea: Sea Of Death Arc",
+        "url": "https://manganato.com/manga-mr989452",
+        "image": "https://avt.mkklcdnv6temp.com/31/w/24-1628352904.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 92364,
+        "aniId": 99541,
+        "createdAt": "2021-08-08T01:47:38.000Z",
+        "updatedAt": "2021-08-08T07:39:16.000Z",
         "deletedAt": null
       }
     }

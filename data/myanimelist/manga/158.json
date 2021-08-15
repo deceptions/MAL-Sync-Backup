@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:18.000Z",
-  "updatedAt": "2021-06-17T00:27:38.000Z",
+  "updatedAt": "2021-08-08T13:09:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,29 @@
         "aniId": 30158,
         "createdAt": "2020-10-12T16:04:06.000Z",
         "updatedAt": "2021-06-02T18:44:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qj958218": {
+        "authors": [
+          "Ono Fuyumi",
+          "Inada Shiho"
+        ],
+        "identifier": "manga-qj958218",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ghost Hunt",
+        "url": "https://manganato.com/manga-qj958218",
+        "image": "https://avt.mkklcdnv6temp.com/18/x/5-1583472583.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 158,
+        "aniId": 30158,
+        "createdAt": "2021-08-08T13:09:41.000Z",
+        "updatedAt": "2021-08-08T13:39:15.000Z",
         "deletedAt": null
       }
     }

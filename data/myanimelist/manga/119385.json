@@ -16,7 +16,32 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-04-23T18:27:08.000Z",
-  "updatedAt": "2021-04-23T18:27:08.000Z",
+  "updatedAt": "2021-08-09T22:40:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "getter_robo_high": {
+        "authors": [
+          "ISHIKAWA Ken",
+          "MORIHASHI Bingo",
+          "NAGAI Go"
+        ],
+        "identifier": "getter_robo_high",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Getter Robo High",
+        "url": "https://fanfox.net/manga/getter_robo_high/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31653/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119385,
+        "aniId": null,
+        "createdAt": "2021-08-09T22:39:23.000Z",
+        "updatedAt": "2021-08-09T22:40:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

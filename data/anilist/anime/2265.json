@@ -19,5 +19,25 @@
   "createdAt": "2021-06-24T21:14:53.000Z",
   "updatedAt": "2021-08-07T21:15:59.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "transformers-the-movie-dub": {
+        "identifier": "transformers-the-movie-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Transformers: The Movie (Dub)",
+        "url": "https://gogoanime.pe/category/transformers-the-movie-dub",
+        "image": "https://gogocdn.net/cover/transformers-the-movie-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 2265,
+        "createdAt": "2021-08-11T18:39:39.000Z",
+        "updatedAt": "2021-08-11T18:39:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

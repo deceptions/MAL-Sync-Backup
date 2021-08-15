@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:19.000Z",
-  "updatedAt": "2021-04-30T07:19:23.000Z",
+  "updatedAt": "2021-08-14T08:07:24.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 38482,
         "createdAt": "2020-10-12T16:05:11.000Z",
         "updatedAt": "2021-06-03T10:51:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-no965023": {
+        "authors": [
+          "Katou Haruaki"
+        ],
+        "identifier": "manga-no965023",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hyakko",
+        "url": "https://readmanganato.com/manga-no965023",
+        "image": "https://avt.mkklcdnv6temp.com/49/e/9-1583482149.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8482,
+        "aniId": 38482,
+        "createdAt": "2021-08-14T08:07:22.000Z",
+        "updatedAt": "2021-08-14T08:36:59.000Z",
         "deletedAt": null
       }
     }

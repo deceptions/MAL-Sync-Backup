@@ -19,7 +19,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-24T10:14:54.000Z",
-  "updatedAt": "2021-06-24T10:14:54.000Z",
+  "updatedAt": "2021-08-09T00:09:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-bl978746": {
+        "authors": [
+          "Jiong Jiong You Yao",
+          "Peach Pictures"
+        ],
+        "identifier": "manga-bl978746",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Full Marks Hidden Marriage",
+        "url": "https://readmanganato.com/manga-bl978746",
+        "image": "https://avt.mkklcdnv6temp.com/15/n/16-1583494030.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 125379,
+        "createdAt": "2021-05-28T20:53:43.000Z",
+        "updatedAt": "2021-08-12T07:07:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -11,7 +11,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:35.000Z",
-  "updatedAt": "2021-04-27T16:48:50.000Z",
+  "updatedAt": "2021-08-11T19:10:19.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -47,6 +47,42 @@
         "aniId": 3037,
         "createdAt": "2020-10-12T15:54:56.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gs-mikami-gokuraku-daisakusen": {
+        "identifier": "gs-mikami-gokuraku-daisakusen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "GS Mikami: Gokuraku Daisakusen!!",
+        "url": "https://gogoanime.pe/category/gs-mikami-gokuraku-daisakusen",
+        "image": "https://gogocdn.net/cover/gs-mikami-gokuraku-daisakusen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3037,
+        "aniId": 3037,
+        "createdAt": "2021-08-11T19:09:23.000Z",
+        "updatedAt": "2021-08-11T19:39:18.000Z",
+        "deletedAt": null
+      },
+      "gs-mikami-gokuraku-daisakusen-dub": {
+        "identifier": "gs-mikami-gokuraku-daisakusen-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "GS Mikami: Gokuraku Daisakusen!! (Dub)",
+        "url": "https://gogoanime.pe/category/gs-mikami-gokuraku-daisakusen-dub",
+        "image": "https://gogocdn.net/cover/gs-mikami-gokuraku-daisakusen-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3037,
+        "aniId": 3037,
+        "createdAt": "2021-08-12T00:10:20.000Z",
+        "updatedAt": "2021-08-12T00:39:18.000Z",
         "deletedAt": null
       }
     }

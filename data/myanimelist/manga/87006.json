@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:53.000Z",
-  "updatedAt": "2021-07-04T03:43:56.000Z",
+  "updatedAt": "2021-08-09T19:40:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 98013,
         "createdAt": "2021-07-04T03:43:45.000Z",
         "updatedAt": "2021-07-04T03:59:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "im_great_priest_imhotep": {
+        "authors": [
+          "MORISHITA Makoto"
+        ],
+        "identifier": "im_great_priest_imhotep",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Im - Great Priest Imhotep",
+        "url": "https://fanfox.net/manga/im_great_priest_imhotep/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15294/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87006,
+        "aniId": 98013,
+        "createdAt": "2021-08-09T19:39:23.000Z",
+        "updatedAt": "2021-08-09T20:09:16.000Z",
         "deletedAt": null
       }
     }

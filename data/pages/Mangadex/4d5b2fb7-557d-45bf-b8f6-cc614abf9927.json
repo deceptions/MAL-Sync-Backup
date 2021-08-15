@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 132136,
-  "aniId": null,
+  "aniId": 112863,
   "createdAt": "2020-10-12T16:21:21.000Z",
-  "updatedAt": "2021-06-08T06:58:40.000Z",
+  "updatedAt": "2021-08-12T09:36:59.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-06-08T02:22:07.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "月と金のシャングリラ",
+      "Shangri-la for moon & diamond"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kuranishi"
+    ],
+    "id": 112863,
+    "malId": 132136,
+    "type": "manga",
+    "title": "Tsuki to Kin no Shangri-la",
+    "url": "https://anilist.co/manga/112863",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112863-E84sR7AKsSLk.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-12T09:06:59.000Z",
+    "updatedAt": "2021-08-12T09:06:59.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/132136/Tsuki_to_Kin_no_Shangri-La"
 }

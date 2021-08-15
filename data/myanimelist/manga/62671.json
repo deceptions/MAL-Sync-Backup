@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:04.000Z",
-  "updatedAt": "2021-05-09T05:48:03.000Z",
+  "updatedAt": "2021-08-10T20:39:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 85464,
         "createdAt": "2020-10-12T16:07:03.000Z",
         "updatedAt": "2021-06-04T00:04:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lr963000": {
+        "authors": [
+          "Magica Quartet"
+        ],
+        "identifier": "manga-lr963000",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gekijouban Madoka Magica Magica - [Shinpen] Hangyaku No Monogatari",
+        "url": "https://readmanganato.com/manga-lr963000",
+        "image": "https://avt.mkklcdnv6temp.com/35/k/8-1583479525.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 62671,
+        "aniId": 85464,
+        "createdAt": "2021-08-10T20:39:21.000Z",
+        "updatedAt": "2021-08-11T09:39:16.000Z",
         "deletedAt": null
       }
     }

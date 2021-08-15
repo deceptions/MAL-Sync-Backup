@@ -1,6 +1,7 @@
 {
   "altTitle": [
-    "Kami-chama Karin, Little Goddess Karin",
+    "Kami-chama Karin",
+    "Little Goddess Karin",
     "かみちゃまかりん"
   ],
   "id": 1808,
@@ -11,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:22.000Z",
-  "updatedAt": "2021-04-26T23:18:40.000Z",
+  "updatedAt": "2021-08-09T04:40:41.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +31,25 @@
         "aniId": 1808,
         "createdAt": "2020-10-12T15:51:17.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kamichama-karin": {
+        "identifier": "kamichama-karin",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kamichama Karin",
+        "url": "https://gogoanime.pe/category/kamichama-karin",
+        "image": "https://gogocdn.net/images/anime/K/Kamichama-Karin.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1808,
+        "aniId": 1808,
+        "createdAt": "2021-08-09T04:40:27.000Z",
+        "updatedAt": "2021-08-09T05:09:15.000Z",
         "deletedAt": null
       }
     }

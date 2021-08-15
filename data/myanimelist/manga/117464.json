@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:50.000Z",
-  "updatedAt": "2021-05-23T05:43:09.000Z",
+  "updatedAt": "2021-08-08T05:18:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 108918,
         "createdAt": "2020-10-12T16:14:47.000Z",
         "updatedAt": "2021-06-06T08:03:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "matsurika_kanriden": {
+        "authors": [
+          "ISHIDA Rinne"
+        ],
+        "identifier": "matsurika_kanriden",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Matsurika Kanriden",
+        "url": "https://fanfox.net/manga/matsurika_kanriden/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29550/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 117464,
+        "aniId": 108918,
+        "createdAt": "2021-08-08T05:18:32.000Z",
+        "updatedAt": "2021-08-08T07:39:16.000Z",
         "deletedAt": null
       }
     }

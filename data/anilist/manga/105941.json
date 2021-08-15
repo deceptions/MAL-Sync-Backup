@@ -65,6 +65,28 @@
         "updatedAt": "2021-06-03T11:18:57.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "charlotte": {
+        "authors": [
+          "MAEDA Jun"
+        ],
+        "identifier": "charlotte",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Charlotte",
+        "url": "https://fanfox.net/manga/charlotte/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/16801/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91913,
+        "aniId": 105941,
+        "createdAt": "2021-08-13T04:37:04.000Z",
+        "updatedAt": "2021-08-13T05:06:59.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

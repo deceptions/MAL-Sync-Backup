@@ -19,7 +19,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-04T08:29:51.000Z",
-  "updatedAt": "2021-07-04T08:59:51.000Z",
+  "updatedAt": "2021-08-13T02:37:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ln989196": {
+        "authors": [
+          "Daybook",
+          "Sushi"
+        ],
+        "identifier": "manga-ln989196",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Oh, Be Patient My Lady!",
+        "url": "https://readmanganato.com/manga-ln989196",
+        "image": "https://avt.mkklcdnv6temp.com/20/l/24-1624378349.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 136352,
+        "createdAt": "2021-06-22T16:45:21.000Z",
+        "updatedAt": "2021-08-13T06:59:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

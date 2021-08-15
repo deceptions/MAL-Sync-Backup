@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 122332,
-  "aniId": null,
+  "aniId": 112998,
   "createdAt": "2020-10-12T16:17:50.000Z",
-  "updatedAt": "2021-06-07T11:58:58.000Z",
+  "updatedAt": "2021-08-08T01:44:27.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,25 @@
     "updatedAt": "2021-06-07T11:36:11.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "王子様の生態"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Lily Umiyuki"
+    ],
+    "id": 112998,
+    "malId": 122332,
+    "type": "manga",
+    "title": "Oujisama no Seitai",
+    "url": "https://anilist.co/manga/112998",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112998-growPgPce2YY.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-08T01:14:28.000Z",
+    "updatedAt": "2021-08-08T01:14:28.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/122332/Ouji-sama_no_Seitai"
 }

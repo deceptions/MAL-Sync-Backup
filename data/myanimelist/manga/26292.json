@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:25.000Z",
-  "updatedAt": "2021-04-04T21:08:20.000Z",
+  "updatedAt": "2021-08-08T19:40:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,28 @@
         "aniId": 56292,
         "createdAt": "2021-04-04T21:08:21.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "black_rock_shooter_innocent_soul": {
+        "authors": [
+          "SUZUKI Sanami"
+        ],
+        "identifier": "black_rock_shooter_innocent_soul",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Black Rock Shooter - Innocent Soul",
+        "url": "https://fanfox.net/manga/black_rock_shooter_innocent_soul/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9188/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26292,
+        "aniId": 56292,
+        "createdAt": "2021-08-08T19:40:14.000Z",
+        "updatedAt": "2021-08-08T20:09:15.000Z",
         "deletedAt": null
       }
     }

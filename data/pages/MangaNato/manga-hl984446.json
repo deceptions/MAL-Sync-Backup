@@ -11,13 +11,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 116633,
   "createdAt": "2021-06-01T05:22:57.000Z",
-  "updatedAt": "2021-06-01T05:22:57.000Z",
+  "updatedAt": "2021-08-11T09:14:29.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "To Love Your Enemy",
+      "원수를 사랑하라",
+      "Love Your Enemies",
+      "愛上冤家",
+      "爱上冤家"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tae-Geon",
+      "Jeong-Yun"
+    ],
+    "id": 116633,
+    "malId": null,
+    "type": "manga",
+    "title": "Wonsureul Saranghara",
+    "url": "https://anilist.co/manga/116633",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b116633-Ui5GC8VVBbYO.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T15:39:29.000Z",
+    "updatedAt": "2021-07-26T10:51:55.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

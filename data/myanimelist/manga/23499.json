@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:10.000Z",
-  "updatedAt": "2021-05-03T17:32:48.000Z",
+  "updatedAt": "2021-08-08T07:48:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 53499,
         "createdAt": "2020-10-12T16:02:38.000Z",
         "updatedAt": "2021-06-02T08:31:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "renai-kaidan-sayoko-san": {
+        "authors": [
+          "KANZAKI Shummi"
+        ],
+        "identifier": "renai-kaidan-sayoko-san",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Renai Kaidan Sayoko-san",
+        "url": "https://mangasee123.com/manga/Renai-Kaidan-Sayoko-San",
+        "image": "https://cover.nep.li/cover/Renai-Kaidan-Sayoko-San.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23499,
+        "aniId": 53499,
+        "createdAt": "2021-08-08T07:48:54.000Z",
+        "updatedAt": "2021-08-08T08:09:16.000Z",
         "deletedAt": null
       }
     }

@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:58:13.000Z",
-  "updatedAt": "2021-06-18T04:20:50.000Z",
+  "updatedAt": "2021-08-10T09:40:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 107608,
         "createdAt": "2020-10-12T16:16:07.000Z",
         "updatedAt": "2021-06-06T19:42:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ei981917": {
+        "authors": [
+          "Shiina"
+        ],
+        "identifier": "manga-ei981917",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mofu O Neesan No Atatame-Kata",
+        "url": "https://manganato.com/manga-ei981917",
+        "image": "https://avt.mkklcdnv6temp.com/32/l/18-1583498341.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 120117,
+        "aniId": 107608,
+        "createdAt": "2021-06-15T13:57:33.000Z",
+        "updatedAt": "2021-08-11T09:16:37.000Z",
         "deletedAt": null
       }
     }

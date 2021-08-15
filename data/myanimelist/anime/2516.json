@@ -12,7 +12,7 @@
   "category": "OVA",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:30.000Z",
-  "updatedAt": "2021-04-27T09:49:10.000Z",
+  "updatedAt": "2021-08-09T13:09:38.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -31,6 +31,25 @@
         "aniId": 2516,
         "createdAt": "2020-10-12T15:49:19.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "starship-troopers": {
+        "identifier": "starship-troopers",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Starship Troopers",
+        "url": "https://gogoanime.pe/category/starship-troopers",
+        "image": "https://gogocdn.net/images/anime/S/Starship-Troopers.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2516,
+        "aniId": 2516,
+        "createdAt": "2021-08-09T13:09:36.000Z",
+        "updatedAt": "2021-08-09T13:39:15.000Z",
         "deletedAt": null
       }
     }

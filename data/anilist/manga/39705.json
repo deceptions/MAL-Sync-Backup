@@ -43,6 +43,50 @@
         "updatedAt": "2021-06-03T08:55:30.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-ft954554": {
+        "authors": [
+          "Matsumoto Leiji"
+        ],
+        "identifier": "manga-ft954554",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ginga Tetsudou 999",
+        "url": "https://manganato.com/manga-ft954554",
+        "image": "https://avt.mkklcdnv6temp.com/11/f/3-1583468081.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 776,
+        "aniId": 39705,
+        "createdAt": "2021-08-11T17:40:25.000Z",
+        "updatedAt": "2021-08-11T18:09:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ginga_tetsudou_999": {
+        "authors": [
+          "MATSUMOTO Leiji"
+        ],
+        "identifier": "ginga_tetsudou_999",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ginga Tetsudou 999",
+        "url": "https://fanfox.net/manga/ginga_tetsudou_999/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5410/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 776,
+        "aniId": 39705,
+        "createdAt": "2021-08-11T19:39:27.000Z",
+        "updatedAt": "2021-08-11T20:09:20.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

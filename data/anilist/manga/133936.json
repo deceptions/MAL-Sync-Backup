@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T15:39:29.000Z",
-  "updatedAt": "2021-06-21T17:54:23.000Z",
+  "updatedAt": "2021-08-12T22:07:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "i_raised_my_childhood_friend_as_a_tyrant": {
+        "authors": [
+          "Rangchae"
+        ],
+        "identifier": "i_raised_my_childhood_friend_as_a_tyrant",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "I Raised My Childhood Friend as a Tyrant",
+        "url": "https://fanfox.net/manga/i_raised_my_childhood_friend_as_a_tyrant/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38356/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 133936,
+        "createdAt": "2021-08-12T22:07:04.000Z",
+        "updatedAt": "2021-08-12T22:07:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

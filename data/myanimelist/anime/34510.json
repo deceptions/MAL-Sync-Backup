@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:50.000Z",
-  "updatedAt": "2021-05-01T01:33:22.000Z",
+  "updatedAt": "2021-08-11T01:40:28.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +30,25 @@
         "aniId": 121181,
         "createdAt": "2020-10-12T15:50:40.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hei-mao-jing-zhang": {
+        "identifier": "hei-mao-jing-zhang",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hei Mao Jing Zhang",
+        "url": "https://gogoanime.pe/category/hei-mao-jing-zhang",
+        "image": "https://gogocdn.net/cover/hei-mao-jing-zhang.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34510,
+        "aniId": 121181,
+        "createdAt": "2021-08-11T01:39:37.000Z",
+        "updatedAt": "2021-08-11T02:09:15.000Z",
         "deletedAt": null
       }
     }

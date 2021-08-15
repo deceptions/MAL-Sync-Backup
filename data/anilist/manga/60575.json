@@ -42,6 +42,29 @@
         "updatedAt": "2021-06-02T12:12:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "tiger-mask": {
+        "authors": [
+          "KAJIWARA Ikki",
+          "TSUJI Naoki"
+        ],
+        "identifier": "tiger-mask",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tiger Mask",
+        "url": "https://mangasee123.com/manga/Tiger-Mask",
+        "image": "https://cover.nep.li/cover/Tiger-Mask.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30575,
+        "aniId": 60575,
+        "createdAt": "2021-08-08T15:39:41.000Z",
+        "updatedAt": "2021-08-08T16:09:15.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -13,7 +13,7 @@
   "category": "One-shot",
   "hentai": false,
   "createdAt": "2020-12-30T16:16:41.000Z",
-  "updatedAt": "2021-02-08T09:50:26.000Z",
+  "updatedAt": "2021-08-08T10:09:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,50 @@
         "aniId": 112380,
         "createdAt": "2020-10-12T16:16:59.000Z",
         "updatedAt": "2021-06-07T03:41:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mw989479": {
+        "authors": [
+          "Chilt"
+        ],
+        "identifier": "manga-mw989479",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Serious Succubus Hiragi-San",
+        "url": "https://manganato.com/manga-mw989479",
+        "image": "https://avt.mkklcdnv6temp.com/33/c/24-1628517827.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 121155,
+        "aniId": 112380,
+        "createdAt": "2021-08-09T15:09:20.000Z",
+        "updatedAt": "2021-08-10T07:09:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "majime_succubus_hiragi_san": {
+        "authors": [
+          "chilt"
+        ],
+        "identifier": "majime_succubus_hiragi_san",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Majime Succubus Hiragi-san",
+        "url": "https://fanfox.net/manga/majime_succubus_hiragi_san/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39020/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121155,
+        "aniId": 112380,
+        "createdAt": "2021-08-09T19:40:18.000Z",
+        "updatedAt": "2021-08-09T20:09:16.000Z",
         "deletedAt": null
       }
     }

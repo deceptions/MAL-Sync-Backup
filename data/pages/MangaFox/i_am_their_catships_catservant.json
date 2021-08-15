@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 133651,
-  "aniId": null,
+  "aniId": 112627,
   "createdAt": "2021-07-17T19:32:32.000Z",
-  "updatedAt": "2021-07-17T19:32:50.000Z",
+  "updatedAt": "2021-08-14T19:36:59.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -38,6 +38,28 @@
     "updatedAt": "2021-07-17T19:32:50.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "I’m the Catlords’ Manservant",
+      "僕はお猫様の下僕です。"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Rato Kitaguni",
+      "Rochelle Gancio",
+      "Alexandra McCullough-Garcia"
+    ],
+    "id": 112627,
+    "malId": 133651,
+    "type": "manga",
+    "title": "Boku wa Oneko-sama no Geboku desu.",
+    "url": "https://anilist.co/manga/112627",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112627-9P9LilYuqgt5.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-14T19:07:00.000Z",
+    "updatedAt": "2021-08-14T19:07:00.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/133651/Boku_wa_Oneko-sama_no_Geboku_desu"
 }

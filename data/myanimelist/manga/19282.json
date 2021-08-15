@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:43.000Z",
-  "updatedAt": "2021-05-02T21:03:52.000Z",
+  "updatedAt": "2021-08-08T07:49:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 49282,
         "createdAt": "2020-10-12T16:02:54.000Z",
         "updatedAt": "2021-06-02T10:18:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "fantasm": {
+        "authors": [
+          "AMAGAKURE Gido"
+        ],
+        "identifier": "fantasm",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Fantasm",
+        "url": "https://mangasee123.com/manga/Fantasm",
+        "image": "https://cover.nep.li/cover/Fantasm.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19282,
+        "aniId": 49282,
+        "createdAt": "2021-08-08T07:49:00.000Z",
+        "updatedAt": "2021-08-08T08:09:16.000Z",
         "deletedAt": null
       }
     }

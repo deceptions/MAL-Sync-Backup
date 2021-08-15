@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 137236,
   "createdAt": "2021-06-24T11:45:14.000Z",
-  "updatedAt": "2021-06-24T11:45:17.000Z",
+  "updatedAt": "2021-08-11T09:15:53.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "穿越到每个世界成为你的黑莲花"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Xiaoshao Yinghua",
+      "Tiao Geng"
+    ],
+    "id": 137236,
+    "malId": null,
+    "type": "manga",
+    "title": "Chuan Yue Dao Mei Ge Shi Jie Cheng Wei Ni De Hei Lian Hua  ",
+    "url": "https://anilist.co/manga/137236",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137236-RLDr69ptFVzR.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-29T19:51:40.000Z",
+    "updatedAt": "2021-07-29T19:51:40.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

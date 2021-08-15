@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:29.000Z",
-  "updatedAt": "2021-03-17T14:33:35.000Z",
+  "updatedAt": "2021-08-13T14:07:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 31062,
         "createdAt": "2021-03-17T14:33:35.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "cobra": {
+        "authors": [
+          "TERASAWA Buichi"
+        ],
+        "identifier": "cobra",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cobra",
+        "url": "https://fanfox.net/manga/cobra/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/355/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1062,
+        "aniId": 31062,
+        "createdAt": "2021-08-13T14:07:00.000Z",
+        "updatedAt": "2021-08-13T14:36:59.000Z",
         "deletedAt": null
       }
     }

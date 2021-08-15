@@ -12,7 +12,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:33.000Z",
-  "updatedAt": "2021-02-16T13:36:29.000Z",
+  "updatedAt": "2021-08-12T20:38:19.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -67,6 +67,25 @@
         "aniId": 2884,
         "createdAt": "2020-10-15T11:45:14.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "aachi-wa-ssipak-dub": {
+        "identifier": "aachi-wa-ssipak-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aachi wa Ssipak (Dub)",
+        "url": "https://gogoanime.pe/category/aachi-wa-ssipak-dub",
+        "image": "https://gogocdn.net/cover/aachi-wa-ssipak-dub.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2884,
+        "aniId": 2884,
+        "createdAt": "2021-08-12T20:38:00.000Z",
+        "updatedAt": "2021-08-12T21:06:58.000Z",
         "deletedAt": null
       }
     }

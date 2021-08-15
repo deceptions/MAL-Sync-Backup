@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:58.000Z",
-  "updatedAt": "2021-07-08T20:14:29.000Z",
+  "updatedAt": "2021-08-09T12:40:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 100929,
         "createdAt": "2021-07-08T20:14:22.000Z",
         "updatedAt": "2021-07-08T20:43:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kouya_no_hanayome": {
+        "authors": [
+          "MURAYAMA Kei"
+        ],
+        "identifier": "kouya_no_hanayome",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kouya no Hanayome",
+        "url": "https://fanfox.net/manga/kouya_no_hanayome/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34798/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104963,
+        "aniId": 100929,
+        "createdAt": "2021-08-09T12:39:23.000Z",
+        "updatedAt": "2021-08-09T13:09:15.000Z",
         "deletedAt": null
       }
     }

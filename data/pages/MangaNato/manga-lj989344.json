@@ -13,13 +13,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 137387,
   "createdAt": "2021-07-25T05:51:36.000Z",
-  "updatedAt": "2021-07-25T05:51:46.000Z",
+  "updatedAt": "2021-08-13T07:01:13.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "잊혀진 황녀는 평화롭게 살고 싶어",
+      "A Forgotten Princess Wants to Live in Peace",
+      "Forgotten Princess"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Dulhana",
+      "Lemon",
+      "Roseoha"
+    ],
+    "id": 137387,
+    "malId": null,
+    "type": "manga",
+    "title": "Ityeojin Hwangnyeoneun Pyeonghwaropge Salgo Sipeo",
+    "url": "https://anilist.co/manga/137387",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137387-7omXa3hiFYGF.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-03T12:17:39.000Z",
+    "updatedAt": "2021-08-03T12:17:39.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

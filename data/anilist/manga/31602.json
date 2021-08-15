@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-03T11:07:47.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "dead_flowers": {
+        "authors": [
+          "TAKAHASHI Tsutomu"
+        ],
+        "identifier": "dead_flowers",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dead Flowers",
+        "url": "https://fanfox.net/manga/dead_flowers/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2863/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1602,
+        "aniId": 31602,
+        "createdAt": "2021-08-12T18:37:22.000Z",
+        "updatedAt": "2021-08-12T19:06:59.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

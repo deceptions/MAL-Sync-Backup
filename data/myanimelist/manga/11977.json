@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:43.000Z",
-  "updatedAt": "2021-06-01T15:46:12.000Z",
+  "updatedAt": "2021-08-10T04:09:33.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 41977,
         "createdAt": "2021-04-11T21:22:36.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lm960269": {
+        "authors": [
+          "Sekiya Tetsuji"
+        ],
+        "identifier": "manga-lm960269",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Bambino!",
+        "url": "https://manganato.com/manga-lm960269",
+        "image": "https://avt.mkklcdnv6temp.com/45/d/6-1583476082.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11977,
+        "aniId": 41977,
+        "createdAt": "2021-08-10T04:09:31.000Z",
+        "updatedAt": "2021-08-10T04:39:15.000Z",
         "deletedAt": null
       }
     }

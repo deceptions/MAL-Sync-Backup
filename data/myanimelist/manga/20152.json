@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:48.000Z",
-  "updatedAt": "2021-07-09T05:14:07.000Z",
+  "updatedAt": "2021-08-10T08:10:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 50152,
         "createdAt": "2021-01-09T04:53:14.000Z",
         "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mo963849": {
+        "authors": [
+          "Natsume Yoshinori"
+        ],
+        "identifier": "manga-mo963849",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Togari Shiro",
+        "url": "https://readmanganato.com/manga-mo963849",
+        "image": "https://avt.mkklcdnv6temp.com/11/g/9-1583480529.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20152,
+        "aniId": 50152,
+        "createdAt": "2021-08-10T08:09:59.000Z",
+        "updatedAt": "2021-08-10T08:39:15.000Z",
         "deletedAt": null
       }
     }

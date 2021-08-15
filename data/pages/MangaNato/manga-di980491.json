@@ -12,13 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 106963,
   "createdAt": "2021-06-15T23:27:33.000Z",
-  "updatedAt": "2021-06-15T23:27:33.000Z",
+  "updatedAt": "2021-08-10T06:57:46.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "大逆之门",
+      "Repugnant Gateway",
+      "Revolutionary",
+      " The Gateway of Rebellion",
+      "The Revolutionary Gateway",
+      "Big Counter"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Zhi Bai"
+    ],
+    "id": 106963,
+    "malId": null,
+    "type": "manga",
+    "title": "Dai Ni Zhi Men",
+    "url": "https://anilist.co/manga/106963",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106963-fvr8L6YXKHp4.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-06T06:49:08.000Z",
+    "updatedAt": "2021-08-08T14:09:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

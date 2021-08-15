@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 86338,
-  "aniId": null,
+  "aniId": 137703,
   "createdAt": "2020-10-12T16:13:50.000Z",
-  "updatedAt": "2021-06-06T00:24:19.000Z",
+  "updatedAt": "2021-08-09T06:09:16.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,27 @@
     "updatedAt": "2021-05-12T16:54:40.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "夕ばえ作戦"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ryuu Mitsuse",
+      "Tsutomu Oono",
+      "Mamoru Oshii"
+    ],
+    "id": 137703,
+    "malId": 86338,
+    "type": "manga",
+    "title": "Yuubae Sakusen",
+    "url": "https://anilist.co/manga/137703",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b137703-efxxq2dtNZXV.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-09T05:09:16.000Z",
+    "updatedAt": "2021-08-09T05:39:16.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/86338/Yuubae_Sakusen"
 }

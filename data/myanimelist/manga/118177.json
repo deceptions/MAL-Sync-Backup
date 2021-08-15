@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:52.000Z",
-  "updatedAt": "2021-05-23T11:13:28.000Z",
+  "updatedAt": "2021-08-14T18:38:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,48 @@
         "aniId": 107887,
         "createdAt": "2020-10-12T16:15:10.000Z",
         "updatedAt": "2021-06-06T11:10:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dc980885": {
+        "authors": [
+          "Bushiyama"
+        ],
+        "identifier": "manga-dc980885",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Devil Is Troubled By The Suicidal Heroine",
+        "url": "https://manganato.com/manga-dc980885",
+        "image": "https://avt.mkklcdnv6temp.com/45/b/17-1583496885.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118177,
+        "aniId": 107887,
+        "createdAt": "2021-08-14T18:38:45.000Z",
+        "updatedAt": "2021-08-14T19:06:59.000Z",
+        "deletedAt": null
+      },
+      "manga-mm989495": {
+        "authors": [
+          "Bushiyama"
+        ],
+        "identifier": "manga-mm989495",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Maou Is Troubled By The Suicidal Heroine",
+        "url": "https://manganato.com/manga-mm989495",
+        "image": "https://avt.mkklcdnv6temp.com/33/t/24-1628958253.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118177,
+        "aniId": 107887,
+        "createdAt": "2021-08-14T19:39:08.000Z",
+        "updatedAt": "2021-08-14T20:06:59.000Z",
         "deletedAt": null
       }
     }

@@ -1,7 +1,7 @@
 {
   "authors": [
-    "KUBU Kurin",
-    "Nanairo Kasuga"
+    "Nanairo Kasuga",
+    "KUBU Kurin"
   ],
   "identifier": "d9f46e20-d66a-4771-a126-92d97b09bc77",
   "type": "manga",
@@ -12,13 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 134979,
+  "aniId": 122900,
   "createdAt": "2021-03-18T17:04:41.000Z",
-  "updatedAt": "2021-06-08T12:40:16.000Z",
+  "updatedAt": "2021-08-12T07:36:59.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Lovetrap Island: Passion in Distant Lands",
+      "恋獄島～極地恋愛～"
+    ],
+    "authors": [
+      "Kubu, Kurin",
+      "Nanairo, Kasuga"
+    ],
+    "id": 134979,
+    "type": "manga",
+    "title": "Rengokujima: Kyokuchi Renai",
+    "url": "https://myanimelist.net/manga/134979/Rengokujima__Kyokuchi_Renai",
+    "image": "https://cdn.myanimelist.net/images/manga/3/246136.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-08-12T05:09:33.000Z",
+    "updatedAt": "2021-08-12T05:09:33.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "恋獄島 ～極地恋愛～"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kairi",
+      "Kasuga Nanairo",
+      "Kurin Kubu"
+    ],
+    "id": 122900,
+    "malId": 134979,
+    "type": "manga",
+    "title": "Rengoku Jima: Kyokuchi Renai",
+    "url": "https://anilist.co/manga/122900",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122900-RhiX2GNjQPk1.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-03T07:30:51.000Z",
+    "updatedAt": "2021-06-18T10:06:33.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/134979/Rengokujima__Kyokuchi_Renai"
 }

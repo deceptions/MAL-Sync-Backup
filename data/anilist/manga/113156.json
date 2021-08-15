@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-05T23:39:11.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "takaga_tasogare": {
+        "authors": [
+          "HANAZAWA Kengo"
+        ],
+        "identifier": "takaga_tasogare",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Takaga Tasogare",
+        "url": "https://fanfox.net/manga/takaga_tasogare/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36542/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118028,
+        "aniId": 113156,
+        "createdAt": "2021-08-08T12:39:23.000Z",
+        "updatedAt": "2021-08-08T13:09:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

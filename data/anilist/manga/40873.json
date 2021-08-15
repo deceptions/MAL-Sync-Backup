@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-03T13:42:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "crookclock": {
+        "authors": [
+          "NESUMI Chisato"
+        ],
+        "identifier": "crookclock",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Crookclock",
+        "url": "https://fanfox.net/manga/crookclock/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8138/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10873,
+        "aniId": 40873,
+        "createdAt": "2021-08-10T14:09:49.000Z",
+        "updatedAt": "2021-08-10T14:39:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

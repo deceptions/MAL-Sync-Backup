@@ -20,5 +20,29 @@
   "createdAt": "2021-07-15T22:02:21.000Z",
   "updatedAt": "2021-07-15T22:02:21.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mt989476": {
+        "authors": [
+          "Kim Joon-Hyung",
+          "Gongdeuntab"
+        ],
+        "identifier": "manga-mt989476",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Book Of Lagier",
+        "url": "https://manganato.com/manga-mt989476",
+        "image": "https://avt.mkklcdnv6temp.com/32/y/24-1628508746.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 136734,
+        "createdAt": "2021-08-09T13:09:29.000Z",
+        "updatedAt": "2021-08-09T13:09:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

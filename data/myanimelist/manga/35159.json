@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:57.000Z",
-  "updatedAt": "2021-05-06T13:18:46.000Z",
+  "updatedAt": "2021-08-10T09:09:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -102,6 +102,28 @@
         "aniId": 65159,
         "createdAt": "2021-05-06T13:18:47.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ke960239": {
+        "authors": [
+          "Hase Satoshi"
+        ],
+        "identifier": "manga-ke960239",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Beatless - Dystopia",
+        "url": "https://manganato.com/manga-ke960239",
+        "image": "https://avt.mkklcdnv6temp.com/43/z/6-1583475975.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35159,
+        "aniId": 65159,
+        "createdAt": "2021-08-10T09:09:25.000Z",
+        "updatedAt": "2021-08-10T09:39:15.000Z",
         "deletedAt": null
       }
     }

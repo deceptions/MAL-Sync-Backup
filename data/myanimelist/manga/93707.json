@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:16.000Z",
-  "updatedAt": "2021-06-10T11:10:53.000Z",
+  "updatedAt": "2021-08-13T08:07:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 96209,
         "createdAt": "2020-10-12T16:09:03.000Z",
         "updatedAt": "2021-06-04T14:50:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "brave_star_romantics": {
+        "authors": [
+          "GOKURAKUIN Sakurako"
+        ],
+        "identifier": "brave_star_romantics",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Brave Star Romantics",
+        "url": "https://fanfox.net/manga/brave_star_romantics/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39045/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93707,
+        "aniId": 96209,
+        "createdAt": "2021-08-13T08:07:06.000Z",
+        "updatedAt": "2021-08-13T08:36:59.000Z",
         "deletedAt": null
       }
     }

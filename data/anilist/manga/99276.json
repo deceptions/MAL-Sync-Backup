@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-24T00:38:17.000Z",
-  "updatedAt": "2021-06-21T13:27:45.000Z",
+  "updatedAt": "2021-08-10T19:09:36.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-dw981005": {
+        "authors": [
+          "One Q",
+          "Chashoo"
+        ],
+        "identifier": "manga-dw981005",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Inhale",
+        "url": "https://readmanganato.com/manga-dw981005",
+        "image": "https://avt.mkklcdnv6temp.com/49/g/17-1583497043.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 99276,
+        "createdAt": "2021-06-11T09:38:22.000Z",
+        "updatedAt": "2021-08-11T09:14:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

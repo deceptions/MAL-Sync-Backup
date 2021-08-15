@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:31.000Z",
-  "updatedAt": "2021-04-29T12:52:26.000Z",
+  "updatedAt": "2021-08-08T17:40:12.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,6 +82,28 @@
         "aniId": 58743,
         "createdAt": "2021-05-05T18:33:01.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pq960751": {
+        "authors": [
+          "Ishiwata Youji"
+        ],
+        "identifier": "manga-pq960751",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dendrobates",
+        "url": "https://manganato.com/manga-pq960751",
+        "image": "https://avt.mkklcdnv6temp.com/13/j/7-1583476786.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28743,
+        "aniId": 58743,
+        "createdAt": "2021-08-08T17:39:21.000Z",
+        "updatedAt": "2021-08-08T18:09:15.000Z",
         "deletedAt": null
       }
     }

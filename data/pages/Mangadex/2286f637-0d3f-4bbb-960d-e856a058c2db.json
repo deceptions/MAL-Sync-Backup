@@ -13,9 +13,9 @@
   "active": true,
   "actor": 2,
   "malId": 108763,
-  "aniId": null,
+  "aniId": 106036,
   "createdAt": "2020-10-12T16:13:23.000Z",
-  "updatedAt": "2021-06-05T22:31:18.000Z",
+  "updatedAt": "2021-08-13T06:36:59.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,27 @@
     "updatedAt": "2021-06-05T21:19:37.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "My Beloved Lady",
+      "憧れのお姉さん",
+      "Akogare no Oneesan"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Jun Ogino"
+    ],
+    "id": 106036,
+    "malId": 108763,
+    "type": "manga",
+    "title": "Akogare no Onee-san",
+    "url": "https://anilist.co/manga/106036",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106036-BuEa3CbLOJc6.jpg",
+    "category": "one_shot",
+    "hentai": true,
+    "createdAt": "2021-08-13T06:06:59.000Z",
+    "updatedAt": "2021-08-13T06:06:59.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/108763/Akogare_no_Oneesan"
 }

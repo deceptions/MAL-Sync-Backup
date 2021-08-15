@@ -20,14 +20,14 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T20:12:57.000Z",
-  "updatedAt": "2021-06-21T14:49:36.000Z",
+  "updatedAt": "2021-08-08T10:09:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "da89755c-f069-48b1-90d4-cebf5f0b2a54": {
         "authors": [
-          "Domac",
-          "Geulbi"
+          "Geulbi",
+          "Domac"
         ],
         "identifier": "da89755c-f069-48b1-90d4-cebf5f0b2a54",
         "type": "manga",
@@ -38,11 +38,34 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": null,
         "aniId": 113060,
         "createdAt": "2020-10-12T16:17:28.000Z",
-        "updatedAt": "2021-06-07T08:10:12.000Z",
+        "updatedAt": "2021-08-09T11:39:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ge983387": {
+        "authors": [
+          "Seulbi",
+          "Domag"
+        ],
+        "identifier": "manga-ge983387",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Golden Haired Wizard",
+        "url": "https://readmanganato.com/manga-ge983387",
+        "image": "https://avt.mkklcdnv6temp.com/36/q/19-1583500521.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 113060,
+        "createdAt": "2021-06-02T15:01:55.000Z",
+        "updatedAt": "2021-08-11T09:14:45.000Z",
         "deletedAt": null
       }
     }

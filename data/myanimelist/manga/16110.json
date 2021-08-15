@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:17.000Z",
-  "updatedAt": "2021-05-02T06:01:52.000Z",
+  "updatedAt": "2021-08-14T21:08:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,29 @@
         "aniId": 46110,
         "createdAt": "2020-10-12T16:15:40.000Z",
         "updatedAt": "2021-06-06T15:43:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ha984535": {
+        "authors": [
+          "Ooishi Naho",
+          "Toriyama Akira"
+        ],
+        "identifier": "manga-ha984535",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dragon Ball: Ossu! Kaette Kita Son Gokū To Nakama-Tachi!!",
+        "url": "https://manganato.com/manga-ha984535",
+        "image": "https://avt.mkklcdnv6temp.com/29/u/20-1583502172.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16110,
+        "aniId": 46110,
+        "createdAt": "2021-08-14T21:08:07.000Z",
+        "updatedAt": "2021-08-14T21:36:59.000Z",
         "deletedAt": null
       }
     }

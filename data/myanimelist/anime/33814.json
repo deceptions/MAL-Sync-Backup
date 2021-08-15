@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:48.000Z",
-  "updatedAt": "2021-05-16T17:24:45.000Z",
+  "updatedAt": "2021-08-13T21:11:33.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -68,6 +68,25 @@
         "aniId": 21897,
         "createdAt": "2020-10-12T16:26:37.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "1418": {
+        "identifier": "1418",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ao Oni The Animation",
+        "url": "https://pahe.win/a/1418",
+        "image": "https://i.animepahe.com/posters/aec6804c87197f4402e469ea805dbdf6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33814,
+        "aniId": 21897,
+        "createdAt": "2021-08-13T21:11:27.000Z",
+        "updatedAt": "2021-08-13T21:36:58.000Z",
         "deletedAt": null
       }
     }
