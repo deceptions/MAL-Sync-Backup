@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:23.000Z",
-  "updatedAt": "2021-05-07T05:17:23.000Z",
+  "updatedAt": "2021-08-17T07:38:33.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,29 @@
         "aniId": 76114,
         "createdAt": "2020-10-12T16:16:09.000Z",
         "updatedAt": "2021-06-06T20:03:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ep981950": {
+        "authors": [
+          "Jiro Taniguchi",
+          "Masayuki Kusumi"
+        ],
+        "identifier": "manga-ep981950",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sanpo Mono",
+        "url": "https://manganato.com/manga-ep981950",
+        "image": "https://avt.mkklcdnv6temp.com/33/q/18-1583498392.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46114,
+        "aniId": 76114,
+        "createdAt": "2021-08-17T07:38:31.000Z",
+        "updatedAt": "2021-08-17T08:07:00.000Z",
         "deletedAt": null
       }
     }

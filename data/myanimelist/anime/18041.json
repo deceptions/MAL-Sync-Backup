@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:19.000Z",
-  "updatedAt": "2021-07-13T11:46:05.000Z",
+  "updatedAt": "2021-08-18T14:07:22.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -121,6 +121,25 @@
         "aniId": 18041,
         "createdAt": "2021-07-13T11:46:02.000Z",
         "updatedAt": "2021-07-13T12:15:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "630": {
+        "identifier": "630",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Rozen Maiden (2013)",
+        "url": "https://pahe.win/a/630",
+        "image": "https://i.animepahe.com/posters/1a696866a86d265b024536016dbd5944.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18041,
+        "aniId": 18041,
+        "createdAt": "2021-08-18T14:07:13.000Z",
+        "updatedAt": "2021-08-18T14:36:59.000Z",
         "deletedAt": null
       }
     }

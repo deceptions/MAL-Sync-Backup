@@ -60,6 +60,28 @@
         "updatedAt": "2021-07-31T01:21:48.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "yukibana_no_tora": {
+        "authors": [
+          "HIGASHIMURA Akiko"
+        ],
+        "identifier": "yukibana_no_tora",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yukibana no Tora",
+        "url": "https://fanfox.net/manga/yukibana_no_tora/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31032/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88750,
+        "aniId": 86234,
+        "createdAt": "2021-08-17T20:07:31.000Z",
+        "updatedAt": "2021-08-17T20:37:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

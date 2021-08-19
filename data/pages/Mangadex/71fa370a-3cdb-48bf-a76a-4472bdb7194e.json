@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 102807,
-  "aniId": null,
+  "aniId": 138027,
   "createdAt": "2020-10-12T16:07:55.000Z",
-  "updatedAt": "2021-06-04T09:01:42.000Z",
+  "updatedAt": "2021-08-17T04:07:00.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -35,6 +35,27 @@
     "updatedAt": "2021-06-04T06:51:17.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "恋と病熱",
+      "Love and Fevered Illness",
+      "What are Brothers and Sisters?"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yuki Isoya"
+    ],
+    "id": 138027,
+    "malId": 102807,
+    "type": "manga",
+    "title": "Koi to Byounetsu",
+    "url": "https://anilist.co/manga/138027",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138027-cQo0X8hhVQkW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-17T03:37:00.000Z",
+    "updatedAt": "2021-08-17T03:37:00.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/102807/Koi_to_Byounetsu"
 }

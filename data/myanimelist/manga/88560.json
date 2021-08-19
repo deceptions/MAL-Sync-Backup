@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:58.000Z",
-  "updatedAt": "2021-05-13T08:54:51.000Z",
+  "updatedAt": "2021-08-15T15:38:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 86167,
         "createdAt": "2021-05-23T16:08:28.000Z",
         "updatedAt": "2021-05-23T16:38:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mahou_shoujo_kokone_wa_kakukatariki": {
+        "authors": [
+          "Nanaroku"
+        ],
+        "identifier": "mahou_shoujo_kokone_wa_kakukatariki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mahou Shoujo Kokone wa Kakukatariki",
+        "url": "https://fanfox.net/manga/mahou_shoujo_kokone_wa_kakukatariki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15678/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88560,
+        "aniId": 86167,
+        "createdAt": "2021-08-15T15:38:20.000Z",
+        "updatedAt": "2021-08-15T16:07:00.000Z",
         "deletedAt": null
       }
     }

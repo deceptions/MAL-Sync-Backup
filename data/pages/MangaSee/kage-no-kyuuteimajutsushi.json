@@ -12,13 +12,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 132165,
+  "aniId": 121942,
   "createdAt": "2021-02-20T00:33:39.000Z",
-  "updatedAt": "2021-02-20T00:33:39.000Z",
+  "updatedAt": "2021-08-16T08:07:00.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "The Court Wizard in Shadow",
+      "The Court Wizard in the Shadows",
+      "影の宮廷魔術師 ～無能だと思われていた男、実は最強の軍師だった～"
+    ],
+    "authors": [
+      "Shiroishi, Kotoni",
+      "Hata, Ryousuke"
+    ],
+    "id": 132165,
+    "type": "manga",
+    "title": "Kage no Kyuutei Majutsushi: Munouda to Omowareteita Otoko, Jitsuwa Saikyou no Gunshi Datta",
+    "url": "https://myanimelist.net/manga/132165/Kage_no_Kyuutei_Majutsushi__Munouda_to_Omowareteita_Otoko_Jitsuwa_Saikyou_no_Gunshi_Datta",
+    "image": "https://cdn.myanimelist.net/images/manga/1/239977.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-01-09T16:23:06.000Z",
+    "updatedAt": "2021-08-15T16:37:25.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "影の宮廷魔術師～無能だと思われていた男、実は最強の軍師だった～",
+      "The Court Wizard in the Shadows"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ryousuke Hata",
+      "Kotoni Shiroishi",
+      "Susumu Kuroi"
+    ],
+    "id": 121942,
+    "malId": 132165,
+    "type": "manga",
+    "title": "Kage no Kyoutei Majutsushi: Munou da to Omowareteita Otoko, Jitsu wa Saikyou no Gunshi datta",
+    "url": "https://anilist.co/manga/121942",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121942-w5byPuXCbg7p.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T15:00:06.000Z",
+    "updatedAt": "2021-06-18T09:57:13.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/132165/Kage_no_Kyuutei_Majutsushi__Munouda_to_Omowareteita_Otoko_Jitsuwa_Saikyou_no_Gunshi_Datta"
 }

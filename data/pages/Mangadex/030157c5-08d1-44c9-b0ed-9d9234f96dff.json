@@ -13,13 +13,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 139593,
+  "aniId": 135503,
   "createdAt": "2020-12-03T11:53:13.000Z",
-  "updatedAt": "2021-07-09T05:13:19.000Z",
+  "updatedAt": "2021-08-17T10:13:58.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Use Cheat Plant Magic and Live Comfortably as a Lord",
+      "植物魔法チートでのんびり領主生活始めます 前世の知識を駆使して農業したら、逆転人生始まった件"
+    ],
+    "authors": [
+      "Ryouto, Kae",
+      "Sanneko"
+    ],
+    "id": 139593,
+    "type": "manga",
+    "title": "Shokubutsu Mahou Cheat de Nonbiri Ryoushu Seikatsu Hajimemasu: Zense no Chishiki wo Kushi shite Nougyou shitara, Gyakuten Jinsei Hajimatta Ken",
+    "url": "https://myanimelist.net/manga/139593/Shokubutsu_Mahou_Cheat_de_Nonbiri_Ryoushu_Seikatsu_Hajimemasu__Zense_no_Chishiki_wo_Kushi_shite_Nougyou_shitara_Gyakuten_Jinsei_Hajimatta_Ken",
+    "image": "https://cdn.myanimelist.net/images/manga/1/249248.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-08-16T18:37:11.000Z",
+    "updatedAt": "2021-08-16T18:37:11.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "植物魔法チートでのんびり領主生活始めます　前世の知識を駆使して農業したら、逆転人生始まった件"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kae Ryouto",
+      "Takashi Iwasaki",
+      "Sanneko"
+    ],
+    "id": 135503,
+    "malId": 139593,
+    "type": "manga",
+    "title": "Shokubutsu Mahou Chito de Nonbiri Ryoshu Seikatsu Hajimemasu: Zense no Chishiki wo Kushi Shite Nogyo Shitara, Gyakuten Jinsei Hajimatta Kudan",
+    "url": "https://anilist.co/manga/135503",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135503-i5nEdNJHWM81.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-13T13:38:19.000Z",
+    "updatedAt": "2021-08-17T10:37:00.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/139593/Shokubutsu_Mahou_Cheat_de_Nonbiri_Ryoushu_Seikatsu_Hajimemasu__Zense_no_Chishiki_wo_Kushi_shite_Nougyou_shitara_Gyakuten_Jinsei_Hajimatta_Ken"
 }

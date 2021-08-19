@@ -17,5 +17,50 @@
   "createdAt": "2021-05-03T18:31:57.000Z",
   "updatedAt": "2021-08-13T16:37:43.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "miquiztli": {
+        "authors": [
+          "MAKI Kouji"
+        ],
+        "identifier": "miquiztli",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Miquiztli",
+        "url": "https://mangasee123.com/manga/Miquiztli",
+        "image": "https://cover.nep.li/cover/Miquiztli.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 110962,
+        "aniId": 116119,
+        "createdAt": "2021-08-13T16:37:41.000Z",
+        "updatedAt": "2021-08-16T08:07:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fk983119": {
+        "authors": [
+          "Kouji Maki"
+        ],
+        "identifier": "manga-fk983119",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mikisutori",
+        "url": "https://readmanganato.com/manga-fk983119",
+        "image": "https://avt.mkklcdnv6temp.com/26/t/19-1583500158.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110962,
+        "aniId": 116119,
+        "createdAt": "2021-08-15T14:37:20.000Z",
+        "updatedAt": "2021-08-15T15:07:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

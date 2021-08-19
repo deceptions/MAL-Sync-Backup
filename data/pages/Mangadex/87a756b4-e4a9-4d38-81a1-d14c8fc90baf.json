@@ -12,13 +12,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 139558,
+  "aniId": 131838,
   "createdAt": "2020-12-02T16:52:40.000Z",
-  "updatedAt": "2021-07-12T12:15:53.000Z",
+  "updatedAt": "2021-08-16T08:07:00.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "その門番、最強につき~追放された防御力9999の戦士、王都の門番として無双する~"
+    ],
+    "authors": [
+      "Tomobashi, Kametsu",
+      "Amanachita"
+    ],
+    "id": 139558,
+    "type": "manga",
+    "title": "Sono Monban, Saikyou ni Tsuki: Tsuihou sareta Bougyo-ryoku 9999 no Senshi, Outo no Monban toshite Musou suru",
+    "url": "https://myanimelist.net/manga/139558/Sono_Monban_Saikyou_ni_Tsuki__Tsuihou_sareta_Bougyo-ryoku_9999_no_Senshi_Outo_no_Monban_toshite_Musou_suru",
+    "image": "https://cdn.myanimelist.net/images/manga/2/249203.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-08-16T02:37:10.000Z",
+    "updatedAt": "2021-08-16T02:37:10.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "その門番、最強につき～追放された防御力9999の戦士、王都の門番として無双する～"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kametsu Tomobashi",
+      "Heiro",
+      "Amanachita"
+    ],
+    "id": 131838,
+    "malId": 139558,
+    "type": "manga",
+    "title": "Sono Monban, Saikyou Nitsuki: Tsuihou Sareta Bougyo Ryoku 9999 no Senshi, Outo no Monban Toshite Musou suru",
+    "url": "https://anilist.co/manga/131838",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131838-eXFtkIkg00Ew.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-31T21:24:00.000Z",
+    "updatedAt": "2021-08-16T06:37:00.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/139558/Sono_Monban_Saikyou_ni_Tsuki__Tsuihou_sareta_Bougyo-ryoku_9999_no_Senshi_Outo_no_Monban_toshite_Musou_suru"
 }

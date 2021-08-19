@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 125090,
-  "aniId": null,
+  "aniId": 115098,
   "createdAt": "2020-10-12T16:18:00.000Z",
-  "updatedAt": "2021-06-07T13:39:33.000Z",
+  "updatedAt": "2021-08-16T07:37:00.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-06-07T13:05:49.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ジェミニはお年頃",
+      "The Gemini are My Age"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tokio Shima"
+    ],
+    "id": 115098,
+    "malId": 125090,
+    "type": "manga",
+    "title": "Gemini wa Otoshigoro",
+    "url": "https://anilist.co/manga/115098",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115098-0IzbfKjyqz4I.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-16T07:07:00.000Z",
+    "updatedAt": "2021-08-16T07:07:00.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/125090/Gemini_wa_Otoshigoro"
 }

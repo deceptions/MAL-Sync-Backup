@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:40.000Z",
-  "updatedAt": "2021-05-31T09:18:12.000Z",
+  "updatedAt": "2021-08-19T06:37:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 87074,
         "createdAt": "2021-05-31T09:18:12.000Z",
         "updatedAt": "2021-05-31T09:30:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-td970786": {
+        "authors": [
+          "Itou Hachi"
+        ],
+        "identifier": "manga-td970786",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sayuri-San No Imouto Wa Tenshi",
+        "url": "https://manganato.com/manga-td970786",
+        "image": "https://avt.mkklcdnv6temp.com/33/d/13-1583488926.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83695,
+        "aniId": 87074,
+        "createdAt": "2021-08-19T06:37:06.000Z",
+        "updatedAt": "2021-08-19T07:07:06.000Z",
         "deletedAt": null
       }
     }

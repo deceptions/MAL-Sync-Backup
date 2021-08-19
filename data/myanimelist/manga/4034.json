@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:56.000Z",
-  "updatedAt": "2021-07-03T21:04:00.000Z",
+  "updatedAt": "2021-08-18T10:07:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 34034,
         "createdAt": "2021-07-03T21:03:57.000Z",
         "updatedAt": "2021-07-03T21:33:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tetsuwan_girl": {
+        "authors": [
+          "TAKAHASHI Tsutomu"
+        ],
+        "identifier": "tetsuwan_girl",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tetsuwan Girl",
+        "url": "https://fanfox.net/manga/tetsuwan_girl/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3595/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4034,
+        "aniId": 34034,
+        "createdAt": "2021-08-18T10:07:20.000Z",
+        "updatedAt": "2021-08-18T10:37:00.000Z",
         "deletedAt": null
       }
     }

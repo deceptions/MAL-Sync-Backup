@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 124830,
-  "aniId": null,
+  "aniId": 113604,
   "createdAt": "2020-10-12T16:18:13.000Z",
-  "updatedAt": "2021-06-07T19:22:34.000Z",
+  "updatedAt": "2021-08-17T09:37:00.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-06-07T15:04:27.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ハルの恩返し",
+      "Haru Returns"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kouji Miura"
+    ],
+    "id": 113604,
+    "malId": 124830,
+    "type": "manga",
+    "title": "Haru no Ongaeshi",
+    "url": "https://anilist.co/manga/113604",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113604-JtcUzjv7aZ8i.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-08-17T09:07:00.000Z",
+    "updatedAt": "2021-08-17T09:07:00.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/124830/Haru_no_Ongaeshi"
 }

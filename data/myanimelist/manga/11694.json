@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:36.000Z",
-  "updatedAt": "2021-05-01T06:34:01.000Z",
+  "updatedAt": "2021-08-16T21:37:12.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 41694,
         "createdAt": "2020-10-12T16:11:42.000Z",
         "updatedAt": "2021-06-05T10:27:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cd979860": {
+        "authors": [
+          "Hino Hideshi"
+        ],
+        "identifier": "manga-cd979860",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Jigoku No Komoriuta",
+        "url": "https://manganato.com/manga-cd979860",
+        "image": "https://avt.mkklcdnv6temp.com/7/i/17-1583495524.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11694,
+        "aniId": 41694,
+        "createdAt": "2021-08-16T21:37:01.000Z",
+        "updatedAt": "2021-08-16T22:07:00.000Z",
         "deletedAt": null
       }
     }

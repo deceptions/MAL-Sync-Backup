@@ -1,6 +1,8 @@
 {
   "altTitle": [
-    "Natsu o Oboeru, Se Souvenir de L'été, To Remember Summer",
+    "Natsu o Oboeru",
+    "Se Souvenir de L'été",
+    "To Remember Summer",
     "夏をおぼえる"
   ],
   "authors": [
@@ -14,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:31.000Z",
-  "updatedAt": "2021-05-01T01:34:52.000Z",
+  "updatedAt": "2021-08-17T20:08:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +38,28 @@
         "aniId": 40965,
         "createdAt": "2020-10-12T16:03:59.000Z",
         "updatedAt": "2021-06-02T17:51:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "natsu_wo_oboeru": {
+        "authors": [
+          "OKADO Tatsuya"
+        ],
+        "identifier": "natsu_wo_oboeru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Natsu wo Oboeru",
+        "url": "https://fanfox.net/manga/natsu_wo_oboeru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9890/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10965,
+        "aniId": 40965,
+        "createdAt": "2021-08-17T20:07:45.000Z",
+        "updatedAt": "2021-08-17T20:37:00.000Z",
         "deletedAt": null
       }
     }

@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:30.000Z",
-  "updatedAt": "2021-03-19T18:04:35.000Z",
+  "updatedAt": "2021-08-18T19:38:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 97159,
         "createdAt": "2021-03-19T18:04:35.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bk978919": {
+        "authors": [
+          "Akaneda Yuki"
+        ],
+        "identifier": "manga-bk978919",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Saraba, Yoki Hi",
+        "url": "https://manganato.com/manga-bk978919",
+        "image": "https://avt.mkklcdnv6temp.com/21/x/16-1583494253.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98187,
+        "aniId": 97159,
+        "createdAt": "2021-08-18T19:38:08.000Z",
+        "updatedAt": "2021-08-18T20:07:06.000Z",
         "deletedAt": null
       }
     }

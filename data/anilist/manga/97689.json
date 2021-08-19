@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-05T04:49:41.000Z",
-  "updatedAt": "2021-07-06T17:59:51.000Z",
+  "updatedAt": "2021-08-16T13:38:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,28 @@
         "aniId": 97689,
         "createdAt": "2020-10-12T16:10:58.000Z",
         "updatedAt": "2021-06-05T08:48:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_love_doctor": {
+        "authors": [
+          "Chamsae"
+        ],
+        "identifier": "the_love_doctor",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Love Doctor",
+        "url": "https://fanfox.net/manga/the_love_doctor/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21807/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 97689,
+        "createdAt": "2021-08-17T22:07:00.000Z",
+        "updatedAt": "2021-08-17T22:07:00.000Z",
         "deletedAt": null
       }
     }

@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-05-25T11:08:18.000Z",
-  "updatedAt": "2021-06-21T14:52:16.000Z",
+  "updatedAt": "2021-08-17T09:37:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,29 @@
         "aniId": 113676,
         "createdAt": "2020-10-12T16:15:25.000Z",
         "updatedAt": "2021-06-09T06:47:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dc981259": {
+        "authors": [
+          "Daktaryeon",
+          "Team Oldrock"
+        ],
+        "identifier": "manga-dc981259",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Crime And Punishment",
+        "url": "https://readmanganato.com/manga-dc981259",
+        "image": "https://avt.mkklcdnv6temp.com/8/h/18-1583497405.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 113676,
+        "createdAt": "2021-07-30T18:21:52.000Z",
+        "updatedAt": "2021-08-17T10:12:29.000Z",
         "deletedAt": null
       }
     }

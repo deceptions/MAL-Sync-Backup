@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:24.000Z",
-  "updatedAt": "2021-06-24T15:16:05.000Z",
+  "updatedAt": "2021-08-17T06:37:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -77,6 +77,28 @@
         "aniId": 87369,
         "createdAt": "2020-12-24T14:56:18.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-sp970098": {
+        "authors": [
+          "Hanzawa Kaori"
+        ],
+        "identifier": "manga-sp970098",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Comic Girls",
+        "url": "https://readmanganato.com/manga-sp970098",
+        "image": "https://avt.mkklcdnv6temp.com/21/h/13-1583488514.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96240,
+        "aniId": 87369,
+        "createdAt": "2021-08-17T06:37:10.000Z",
+        "updatedAt": "2021-08-17T07:07:00.000Z",
         "deletedAt": null
       }
     }

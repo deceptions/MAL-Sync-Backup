@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-02T18:52:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "cotton": {
+        "authors": [
+          "KONNO Kita"
+        ],
+        "identifier": "cotton",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cotton",
+        "url": "https://fanfox.net/manga/cotton/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2296/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3108,
+        "aniId": 33108,
+        "createdAt": "2021-08-17T08:07:00.000Z",
+        "updatedAt": "2021-08-17T08:37:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

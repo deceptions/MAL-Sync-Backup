@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:24.000Z",
-  "updatedAt": "2021-06-14T17:57:57.000Z",
+  "updatedAt": "2021-08-16T21:37:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 46879,
         "createdAt": "2021-06-14T17:57:57.000Z",
         "updatedAt": "2021-06-14T18:27:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ry953107": {
+        "authors": [
+          "Takahashi Yousuke"
+        ],
+        "identifier": "manga-ry953107",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gakkou Kaidan",
+        "url": "https://manganato.com/manga-ry953107",
+        "image": "https://avt.mkklcdnv6temp.com/11/y/2-1583466165.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16879,
+        "aniId": 46879,
+        "createdAt": "2021-08-16T21:37:34.000Z",
+        "updatedAt": "2021-08-16T22:07:00.000Z",
         "deletedAt": null
       }
     }

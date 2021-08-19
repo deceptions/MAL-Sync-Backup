@@ -11,6 +11,10 @@
     {
       "site": "AnimeLab",
       "url": "https://www.animelab.com/shows/trigun-badlands-rumble"
+    },
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/en/shows/trigun/trigun-badlands-rumble/"
     }
   ],
   "id": 4106,
@@ -22,7 +26,7 @@
   "category": "movie",
   "hentai": false,
   "createdAt": "2021-05-20T14:37:33.000Z",
-  "updatedAt": "2021-06-17T10:52:23.000Z",
+  "updatedAt": "2021-08-18T23:07:06.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -94,42 +98,6 @@
         "aniId": 4106,
         "createdAt": "2020-10-12T16:02:09.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Anime4you": {
-      "2910": {
-        "identifier": "2910",
-        "type": "anime",
-        "page": "Anime4you",
-        "title": "Trigun: Badlands Rumble (GerDub)",
-        "url": "https://www.anime4you.one/show/1/aid/2910",
-        "image": "https://cdn.anime4you.one/covers/230119020201015359.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 4106,
-        "aniId": 4106,
-        "createdAt": "2020-10-15T13:27:03.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
-        "deletedAt": null
-      },
-      "2911": {
-        "identifier": "2911",
-        "type": "anime",
-        "page": "Anime4you",
-        "title": "Trigun: Badlands Rumble (GerSub)",
-        "url": "https://www.anime4you.one/show/1/aid/2911",
-        "image": "https://cdn.anime4you.one/covers/230119040401015359.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 4106,
-        "aniId": 4106,
-        "createdAt": "2020-10-15T13:27:23.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }
     },

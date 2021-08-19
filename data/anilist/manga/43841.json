@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-02T12:45:42.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mimi_no_kaidan": {
+        "authors": [
+          "ITOU Junji"
+        ],
+        "identifier": "mimi_no_kaidan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mimi no Kaidan",
+        "url": "https://fanfox.net/manga/mimi_no_kaidan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8404/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13841,
+        "aniId": 43841,
+        "createdAt": "2021-08-18T01:07:04.000Z",
+        "updatedAt": "2021-08-18T01:37:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

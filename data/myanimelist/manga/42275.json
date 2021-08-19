@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:15.000Z",
-  "updatedAt": "2021-05-03T17:03:46.000Z",
+  "updatedAt": "2021-08-16T21:07:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 72275,
         "createdAt": "2021-03-26T07:49:36.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kq954999": {
+        "authors": [
+          "Seta Aomaru"
+        ],
+        "identifier": "manga-kq954999",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Blade Play",
+        "url": "https://manganato.com/manga-kq954999",
+        "image": "https://avt.mkklcdnv6temp.com/25/a/3-1583468661.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42275,
+        "aniId": 72275,
+        "createdAt": "2021-08-16T21:07:09.000Z",
+        "updatedAt": "2021-08-16T21:37:00.000Z",
         "deletedAt": null
       }
     }

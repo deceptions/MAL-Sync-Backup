@@ -18,7 +18,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:55.000Z",
-  "updatedAt": "2021-06-21T07:41:09.000Z",
+  "updatedAt": "2021-08-17T15:07:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -106,6 +106,28 @@
         "aniId": 86367,
         "createdAt": "2021-04-16T12:14:19.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-db954258": {
+        "authors": [
+          "Jyumonji Ao"
+        ],
+        "identifier": "manga-db954258",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hai To Gensou No Grimgal",
+        "url": "https://manganato.com/manga-db954258",
+        "image": "https://avt.mkklcdnv6temp.com/1/x/2-1583467699.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87637,
+        "aniId": 86367,
+        "createdAt": "2021-08-17T15:07:12.000Z",
+        "updatedAt": "2021-08-17T15:37:00.000Z",
         "deletedAt": null
       }
     }

@@ -61,6 +61,28 @@
         "updatedAt": "2021-07-07T05:59:51.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "number": {
+        "authors": [
+          "TSUBAKI Kawori"
+        ],
+        "identifier": "number",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Number",
+        "url": "https://fanfox.net/manga/number/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3860/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6314,
+        "aniId": 36314,
+        "createdAt": "2021-08-17T20:09:15.000Z",
+        "updatedAt": "2021-08-17T20:37:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -42,6 +42,28 @@
         "updatedAt": "2021-06-07T07:14:01.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "yuri_hyakkei": {
+        "authors": [
+          "Hachiko"
+        ],
+        "identifier": "yuri_hyakkei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yuri Hyakkei",
+        "url": "https://fanfox.net/manga/yuri_hyakkei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31436/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122224,
+        "aniId": 111508,
+        "createdAt": "2021-08-18T00:07:02.000Z",
+        "updatedAt": "2021-08-18T00:37:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

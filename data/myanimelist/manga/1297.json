@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:32.000Z",
-  "updatedAt": "2021-07-07T14:30:59.000Z",
+  "updatedAt": "2021-08-16T03:38:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -144,6 +144,29 @@
         "aniId": 31297,
         "createdAt": "2021-03-20T11:34:51.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cu959429": {
+        "authors": [
+          "Nagai Akira",
+          "Nogizaka Tarou"
+        ],
+        "identifier": "manga-cu959429",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Team Medical Dragon",
+        "url": "https://manganato.com/manga-cu959429",
+        "image": "https://avt.mkklcdnv6temp.com/13/j/6-1583474656.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1297,
+        "aniId": 31297,
+        "createdAt": "2021-08-16T03:37:10.000Z",
+        "updatedAt": "2021-08-16T04:07:00.000Z",
         "deletedAt": null
       }
     }

@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-05T08:19:17.000Z",
-  "updatedAt": "2021-06-21T13:51:04.000Z",
+  "updatedAt": "2021-08-16T13:39:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 103881,
         "createdAt": "2020-10-12T16:11:22.000Z",
         "updatedAt": "2021-06-05T08:49:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bk979319": {
+        "authors": [
+          "Yi Duo Yi Duo"
+        ],
+        "identifier": "manga-bk979319",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Life Of A Lily",
+        "url": "https://readmanganato.com/manga-bk979319",
+        "image": "https://avt.mkklcdnv6temp.com/36/y/16-1583494793.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 103881,
+        "createdAt": "2021-08-16T13:39:22.000Z",
+        "updatedAt": "2021-08-16T13:39:22.000Z",
         "deletedAt": null
       }
     }

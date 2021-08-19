@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:17.000Z",
-  "updatedAt": "2021-06-12T03:38:21.000Z",
+  "updatedAt": "2021-08-17T13:08:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 30045,
         "createdAt": "2021-06-12T03:38:18.000Z",
         "updatedAt": "2021-06-12T04:08:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ichigo_100": {
+        "authors": [
+          "KAWASHITA Mizuki"
+        ],
+        "identifier": "ichigo_100",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ichigo 100%",
+        "url": "https://fanfox.net/manga/ichigo_100/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/43/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45,
+        "aniId": 30045,
+        "createdAt": "2021-08-17T13:07:02.000Z",
+        "updatedAt": "2021-08-17T13:37:00.000Z",
         "deletedAt": null
       }
     }

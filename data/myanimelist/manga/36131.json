@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:00.000Z",
-  "updatedAt": "2021-07-14T15:21:03.000Z",
+  "updatedAt": "2021-08-18T01:07:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,6 +82,27 @@
         "aniId": 66131,
         "createdAt": "2021-05-31T09:33:53.000Z",
         "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      },
+      "manga-sj952066": {
+        "authors": [
+          "Type-Moon",
+          "Hiroyama Hiroshi"
+        ],
+        "identifier": "manga-sj952066",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fate/kaleid Liner Prisma Illya Drei!",
+        "url": "https://readmanganato.com/manga-sj952066",
+        "image": "https://avt.mkklcdnv6temp.com/26/o/1-1583464736.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36131,
+        "aniId": 66131,
+        "createdAt": "2021-08-18T01:07:12.000Z",
+        "updatedAt": "2021-08-18T01:37:00.000Z",
         "deletedAt": null
       }
     }

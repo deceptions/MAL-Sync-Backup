@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:23.000Z",
-  "updatedAt": "2021-04-26T07:27:51.000Z",
+  "updatedAt": "2021-08-16T19:37:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 30526,
         "createdAt": "2020-10-12T16:04:55.000Z",
         "updatedAt": "2021-06-03T00:24:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-or965800": {
+        "authors": [
+          "Ohkawa Ageha",
+          "Clamp"
+        ],
+        "identifier": "manga-or965800",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shirahime-Syo",
+        "url": "https://readmanganato.com/manga-or965800",
+        "image": "https://avt.mkklcdnv6temp.com/20/f/10-1583482897.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 526,
+        "aniId": 30526,
+        "createdAt": "2021-08-16T19:36:59.000Z",
+        "updatedAt": "2021-08-17T10:37:00.000Z",
         "deletedAt": null
       }
     }

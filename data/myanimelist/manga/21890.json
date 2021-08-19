@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-05T14:21:19.000Z",
-  "updatedAt": "2021-06-05T14:21:19.000Z",
+  "updatedAt": "2021-08-17T00:07:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 51890,
         "createdAt": "2020-10-12T16:12:11.000Z",
         "updatedAt": "2021-06-05T15:30:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tl958520": {
+        "authors": [
+          "Sakira"
+        ],
+        "identifier": "manga-tl958520",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sailor Danshi",
+        "url": "https://manganato.com/manga-tl958520",
+        "image": "https://avt.mkklcdnv6temp.com/29/h/5-1583472992.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21890,
+        "aniId": 51890,
+        "createdAt": "2021-08-17T00:07:12.000Z",
+        "updatedAt": "2021-08-17T00:37:00.000Z",
         "deletedAt": null
       }
     }

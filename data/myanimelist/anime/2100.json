@@ -11,7 +11,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:25.000Z",
-  "updatedAt": "2021-04-27T04:19:01.000Z",
+  "updatedAt": "2021-08-18T14:09:01.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -47,6 +47,25 @@
         "aniId": 2100,
         "createdAt": "2020-10-12T15:57:05.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2694": {
+        "identifier": "2694",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Silent Möbius 2",
+        "url": "https://pahe.win/a/2694",
+        "image": "https://i.animepahe.com/posters/c080dfec11cacd2eaef18ca02f4eeff9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2100,
+        "aniId": 2100,
+        "createdAt": "2021-08-18T14:08:53.000Z",
+        "updatedAt": "2021-08-18T14:36:59.000Z",
         "deletedAt": null
       }
     }

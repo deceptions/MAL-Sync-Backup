@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:42.000Z",
-  "updatedAt": "2021-05-09T23:18:42.000Z",
+  "updatedAt": "2021-08-15T08:39:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 99039,
         "createdAt": "2021-05-11T15:17:46.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vz972708": {
+        "authors": [
+          "Yatera Keita"
+        ],
+        "identifier": "manga-vz972708",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Onideka",
+        "url": "https://manganato.com/manga-vz972708",
+        "image": "https://avt.mkklcdnv6temp.com/19/d/14-1583490432.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 100919,
+        "aniId": 99039,
+        "createdAt": "2021-08-15T08:39:11.000Z",
+        "updatedAt": "2021-08-16T08:07:00.000Z",
         "deletedAt": null
       }
     }

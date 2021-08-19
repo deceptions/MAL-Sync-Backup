@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:46.000Z",
-  "updatedAt": "2021-06-06T13:19:50.000Z",
+  "updatedAt": "2021-08-17T21:07:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,28 @@
         "aniId": 84749,
         "createdAt": "2021-06-06T13:19:50.000Z",
         "updatedAt": "2021-06-06T13:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ochitekita_ryuuou_to_horobiyuku_majo_no_kuni": {
+        "authors": [
+          "MAISAKA Kou"
+        ],
+        "identifier": "ochitekita_ryuuou_to_horobiyuku_majo_no_kuni",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ochitekita Ryuuou to Horobiyuku Majo no Kuni",
+        "url": "https://fanfox.net/manga/ochitekita_ryuuou_to_horobiyuku_majo_no_kuni/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12705/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54749,
+        "aniId": 84749,
+        "createdAt": "2021-08-17T21:07:11.000Z",
+        "updatedAt": "2021-08-17T21:37:00.000Z",
         "deletedAt": null
       }
     }

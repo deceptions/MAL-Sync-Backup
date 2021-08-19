@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:59.000Z",
-  "updatedAt": "2021-07-17T11:03:02.000Z",
+  "updatedAt": "2021-08-18T04:37:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 86219,
         "createdAt": "2021-01-17T10:33:41.000Z",
         "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zf951614": {
+        "authors": [
+          "Sakisaka Io"
+        ],
+        "identifier": "manga-zf951614",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Omoi, Omoware, Furi, Furare",
+        "url": "https://readmanganato.com/manga-zf951614",
+        "image": "https://avt.mkklcdnv6temp.com/10/u/1-1583464085.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89217,
+        "aniId": 86219,
+        "createdAt": "2021-08-18T04:37:00.000Z",
+        "updatedAt": "2021-08-18T05:07:00.000Z",
         "deletedAt": null
       }
     }

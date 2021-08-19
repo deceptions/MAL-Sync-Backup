@@ -10,14 +10,53 @@
   "image": "https://avt.mkklcdnv6temp.com/20/i/21-1590646955.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actor": 1,
+  "malId": 119393,
+  "aniId": 110144,
   "createdAt": "2021-08-14T01:07:22.000Z",
-  "updatedAt": "2021-08-14T01:07:22.000Z",
+  "updatedAt": "2021-08-16T08:07:00.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "I ♂ Took A Trip to an Otome Game",
+      "Otome Game ni Trip shita Ore♂",
+      "乙ゲーにトリップした俺♂"
+    ],
+    "authors": [
+      "Kano, Ikusa"
+    ],
+    "id": 119393,
+    "type": "manga",
+    "title": "Otoge ni Trip shita Ore♂",
+    "url": "https://myanimelist.net/manga/119393/Otoge_ni_Trip_shita_Ore♂",
+    "image": "https://cdn.myanimelist.net/images/manga/1/217512.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:56.000Z",
+    "updatedAt": "2021-08-14T01:07:09.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "乙ゲーにトリップした俺♂",
+      "I ♂ Tripped into an Otome Game"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ikusa Kano"
+    ],
+    "id": 110144,
+    "malId": 119393,
+    "type": "manga",
+    "title": "Otoge ni Trip Shita Ore♂",
+    "url": "https://anilist.co/manga/110144",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110144-6h75Rm3Ginvh.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:58:08.000Z",
+    "updatedAt": "2021-06-18T06:25:50.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/119393/Otoge_ni_Trip_shita_Ore♂"
 }

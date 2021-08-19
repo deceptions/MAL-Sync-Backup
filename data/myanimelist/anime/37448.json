@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:01.000Z",
-  "updatedAt": "2021-05-01T07:33:13.000Z",
+  "updatedAt": "2021-08-17T22:07:55.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -49,6 +49,25 @@
         "aniId": 101314,
         "createdAt": "2020-10-12T16:01:06.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "2594": {
+        "identifier": "2594",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Ladyspo",
+        "url": "https://pahe.win/a/2594",
+        "image": "https://i.animepahe.com/posters/86e95c3b04e28240be912afe97116004.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37448,
+        "aniId": 101314,
+        "createdAt": "2021-08-17T22:07:53.000Z",
+        "updatedAt": "2021-08-17T22:36:59.000Z",
         "deletedAt": null
       }
     }

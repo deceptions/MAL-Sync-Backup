@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T14:36:41.000Z",
-  "updatedAt": "2021-06-21T16:29:31.000Z",
+  "updatedAt": "2021-08-17T06:07:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,28 @@
         "aniId": 125344,
         "createdAt": "2020-10-12T16:18:08.000Z",
         "updatedAt": "2021-06-07T14:51:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hisokana_hana_emi": {
+        "authors": [
+          "Yumemitsuki"
+        ],
+        "identifier": "hisokana_hana_emi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hisokana Hana emi",
+        "url": "https://fanfox.net/manga/hisokana_hana_emi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32503/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 125344,
+        "createdAt": "2021-08-17T06:07:32.000Z",
+        "updatedAt": "2021-08-17T06:07:43.000Z",
         "deletedAt": null
       }
     }

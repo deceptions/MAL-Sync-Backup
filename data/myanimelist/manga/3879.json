@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:54.000Z",
-  "updatedAt": "2021-04-28T10:49:40.000Z",
+  "updatedAt": "2021-08-17T16:39:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 33879,
         "createdAt": "2020-10-12T16:03:44.000Z",
         "updatedAt": "2021-06-02T16:10:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pv966430": {
+        "authors": [
+          "Umezawa Haruto"
+        ],
+        "identifier": "manga-pv966430",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Live",
+        "url": "https://manganato.com/manga-pv966430",
+        "image": "https://avt.mkklcdnv6temp.com/41/m/10-1583483668.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3879,
+        "aniId": 33879,
+        "createdAt": "2021-08-17T16:39:24.000Z",
+        "updatedAt": "2021-08-17T17:07:00.000Z",
         "deletedAt": null
       }
     }

@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:06.000Z",
-  "updatedAt": "2021-04-26T04:57:25.000Z",
+  "updatedAt": "2021-08-17T03:07:33.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -29,6 +29,25 @@
         "aniId": 611,
         "createdAt": "2020-10-12T15:50:50.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "platonic-chain": {
+        "identifier": "platonic-chain",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Platonic Chain",
+        "url": "https://gogoanime.pe/category/platonic-chain",
+        "image": "https://gogocdn.net/cover/platonic-chain.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 611,
+        "aniId": 611,
+        "createdAt": "2021-08-17T03:07:26.000Z",
+        "updatedAt": "2021-08-17T03:36:59.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:24.000Z",
-  "updatedAt": "2021-04-22T10:58:49.000Z",
+  "updatedAt": "2021-08-17T16:39:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,6 +78,28 @@
         "aniId": 30644,
         "createdAt": "2021-04-22T10:58:50.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-te955939": {
+        "authors": [
+          "Umezawa Haruto"
+        ],
+        "identifier": "manga-te955939",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Bremen",
+        "url": "https://manganato.com/manga-te955939",
+        "image": "https://avt.mkklcdnv6temp.com/46/u/3-1583469519.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 644,
+        "aniId": 30644,
+        "createdAt": "2021-08-17T16:39:05.000Z",
+        "updatedAt": "2021-08-17T17:07:00.000Z",
         "deletedAt": null
       }
     }

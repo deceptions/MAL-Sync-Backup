@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 115218,
   "createdAt": "2021-08-14T18:06:59.000Z",
-  "updatedAt": "2021-08-14T18:07:10.000Z",
+  "updatedAt": "2021-08-16T07:58:52.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "오빠야 누나야",
+      "忙內禁愛令"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ginyu"
+    ],
+    "id": 115218,
+    "malId": null,
+    "type": "manga",
+    "title": "Oppaya Nunaya",
+    "url": "https://anilist.co/manga/115218",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115218-M5Jt5O4IvXqv.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-04T16:18:57.000Z",
+    "updatedAt": "2021-08-14T18:37:13.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

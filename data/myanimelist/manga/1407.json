@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:33.000Z",
-  "updatedAt": "2021-03-05T05:20:35.000Z",
+  "updatedAt": "2021-08-16T11:37:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,6 +78,28 @@
         "aniId": 31407,
         "createdAt": "2021-03-05T05:20:35.000Z",
         "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kimagure_orange_road": {
+        "authors": [
+          "MATSUMOTO Izumi"
+        ],
+        "identifier": "kimagure_orange_road",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimagure Orange Road",
+        "url": "https://fanfox.net/manga/kimagure_orange_road/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/54/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1407,
+        "aniId": 31407,
+        "createdAt": "2021-08-16T11:37:00.000Z",
+        "updatedAt": "2021-08-16T12:07:00.000Z",
         "deletedAt": null
       }
     }

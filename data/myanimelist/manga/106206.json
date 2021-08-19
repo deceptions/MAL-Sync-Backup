@@ -15,7 +15,31 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:02.000Z",
-  "updatedAt": "2021-05-19T01:01:24.000Z",
+  "updatedAt": "2021-08-18T21:09:19.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-xa975335": {
+        "authors": [
+          "Inutoki",
+          "Shouhei"
+        ],
+        "identifier": "manga-xa975335",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yuusha In Maou N Chi",
+        "url": "https://manganato.com/manga-xa975335",
+        "image": "https://avt.mkklcdnv6temp.com/8/j/15-1583491765.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106206,
+        "aniId": 98324,
+        "createdAt": "2021-08-18T21:09:09.000Z",
+        "updatedAt": "2021-08-18T21:37:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

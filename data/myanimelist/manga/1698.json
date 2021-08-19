@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:36.000Z",
-  "updatedAt": "2021-04-27T04:19:32.000Z",
+  "updatedAt": "2021-08-15T16:07:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,29 @@
         "aniId": 31698,
         "createdAt": "2020-10-12T16:04:49.000Z",
         "updatedAt": "2021-06-02T23:38:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "monster_collection_majuutsukai_no_shoujo": {
+        "authors": [
+          "ITOH Sei",
+          "YASUDA Hitoshi"
+        ],
+        "identifier": "monster_collection_majuutsukai_no_shoujo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Monster Collection - Majuutsukai no Shoujo",
+        "url": "https://fanfox.net/manga/monster_collection_majuutsukai_no_shoujo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10733/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1698,
+        "aniId": 31698,
+        "createdAt": "2021-08-15T16:07:03.000Z",
+        "updatedAt": "2021-08-15T16:37:00.000Z",
         "deletedAt": null
       }
     }

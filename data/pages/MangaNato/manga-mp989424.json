@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 137868,
   "createdAt": "2021-08-03T07:19:45.000Z",
-  "updatedAt": "2021-08-03T07:19:52.000Z",
+  "updatedAt": "2021-08-17T10:12:26.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "건강이 없습니다",
+      "I Am Not Healthy",
+      "I Have No Health  "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Haron Lee",
+      "Vanilla"
+    ],
+    "id": 137868,
+    "malId": null,
+    "type": "manga",
+    "title": "Geongangi Eopseumnida",
+    "url": "https://anilist.co/manga/137868",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137868-5qPHXU3MS2EQ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-15T00:07:00.000Z",
+    "updatedAt": "2021-08-15T00:07:00.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

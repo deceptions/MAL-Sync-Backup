@@ -14,6 +14,10 @@
     {
       "site": "AnimeLab",
       "url": "https://www.animelab.com/shows/kemono-jihen"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81392166"
     }
   ],
   "id": 114085,
@@ -25,7 +29,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:46:02.000Z",
-  "updatedAt": "2021-06-17T17:19:57.000Z",
+  "updatedAt": "2021-08-15T09:07:00.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -99,25 +103,6 @@
         "aniId": 114085,
         "createdAt": "2020-12-31T22:23:26.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "Anime4you": {
-      "4950": {
-        "identifier": "4950",
-        "type": "anime",
-        "page": "Anime4you",
-        "title": "Kemono Jihen (GerSub)",
-        "url": "https://www.anime4you.one/show/1/aid/4950",
-        "image": "https://cdn.anime4you.one/covers/kemono_jihen_visual.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 40908,
-        "aniId": 114085,
-        "createdAt": "2021-01-10T15:21:41.000Z",
-        "updatedAt": "2021-05-20T15:21:58.000Z",
         "deletedAt": null
       }
     },

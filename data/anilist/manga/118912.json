@@ -15,7 +15,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T12:06:44.000Z",
-  "updatedAt": "2021-06-21T15:28:38.000Z",
+  "updatedAt": "2021-08-17T09:08:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 118912,
         "createdAt": "2020-10-12T16:17:51.000Z",
         "updatedAt": "2021-06-07T13:42:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "pon_pon_pon": {
+        "authors": [
+          "Emily"
+        ],
+        "identifier": "pon_pon_pon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "PON PON PON!",
+        "url": "https://fanfox.net/manga/pon_pon_pon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32220/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 118912,
+        "createdAt": "2021-08-17T09:08:03.000Z",
+        "updatedAt": "2021-08-17T09:08:14.000Z",
         "deletedAt": null
       }
     }

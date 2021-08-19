@@ -8,6 +8,10 @@
     {
       "site": "Hulu",
       "url": "http://www.hulu.com/special-a"
+    },
+    {
+      "site": "Hidive",
+      "url": "https://www.hidive.com/tv/special-a"
     }
   ],
   "id": 3470,
@@ -19,7 +23,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:33:24.000Z",
-  "updatedAt": "2021-06-17T10:40:21.000Z",
+  "updatedAt": "2021-08-15T17:07:00.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -127,25 +131,6 @@
         "aniId": 3470,
         "createdAt": "2020-10-12T17:23:11.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "Anime4you": {
-      "2131": {
-        "identifier": "2131",
-        "type": "anime",
-        "page": "Anime4you",
-        "title": "Special A (GerSub)",
-        "url": "https://www.anime4you.one/show/1/aid/2131",
-        "image": "https://cdn.anime4you.one/covers/180718121207074526.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 3470,
-        "aniId": 3470,
-        "createdAt": "2020-10-15T12:20:01.000Z",
-        "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
       }
     },

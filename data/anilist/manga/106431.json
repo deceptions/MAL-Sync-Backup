@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-05T08:45:21.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "lilium_terrarium": {
+        "authors": [
+          "ED"
+        ],
+        "identifier": "lilium_terrarium",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Lilium Terrarium",
+        "url": "https://fanfox.net/manga/lilium_terrarium/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30508/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122871,
+        "aniId": 106431,
+        "createdAt": "2021-08-17T07:07:31.000Z",
+        "updatedAt": "2021-08-17T07:37:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

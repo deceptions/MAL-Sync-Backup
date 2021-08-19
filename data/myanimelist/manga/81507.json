@@ -1,7 +1,8 @@
 {
   "altTitle": [
     "Battle Angel Alita: Mars Chronicle",
-    "Battle Angel Alita: The Martian War Chronicles, Gunnm Mars Chronicle",
+    "Battle Angel Alita: The Martian War Chronicles",
+    "Gunnm Mars Chronicle",
     "銃夢火星戦記"
   ],
   "authors": [
@@ -15,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:36.000Z",
-  "updatedAt": "2021-05-31T09:38:12.000Z",
+  "updatedAt": "2021-08-15T16:38:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +82,28 @@
         "aniId": 86597,
         "createdAt": "2021-05-31T09:38:12.000Z",
         "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "gunnm_mars_chronicle": {
+        "authors": [
+          "KISHIRO Yukito"
+        ],
+        "identifier": "gunnm_mars_chronicle",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Gunnm Mars Chronicle",
+        "url": "https://fanfox.net/manga/gunnm_mars_chronicle/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14633/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 81507,
+        "aniId": 86597,
+        "createdAt": "2021-08-15T16:38:55.000Z",
+        "updatedAt": "2021-08-15T17:07:00.000Z",
         "deletedAt": null
       }
     }

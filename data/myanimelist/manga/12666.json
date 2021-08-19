@@ -23,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:47.000Z",
-  "updatedAt": "2021-06-21T16:46:42.000Z",
+  "updatedAt": "2021-08-17T06:37:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -67,6 +67,28 @@
         "aniId": 42666,
         "createdAt": "2021-06-21T16:46:33.000Z",
         "updatedAt": "2021-06-21T17:14:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "junsui_adolescence": {
+        "authors": [
+          "Kazuma Kowo"
+        ],
+        "identifier": "junsui_adolescence",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Junsui Adolescence",
+        "url": "https://fanfox.net/manga/junsui_adolescence/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4473/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12666,
+        "aniId": 42666,
+        "createdAt": "2021-08-17T06:37:42.000Z",
+        "updatedAt": "2021-08-17T07:07:00.000Z",
         "deletedAt": null
       }
     }

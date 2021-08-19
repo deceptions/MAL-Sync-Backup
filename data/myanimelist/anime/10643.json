@@ -11,7 +11,7 @@
   "category": "Special",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:07.000Z",
-  "updatedAt": "2021-04-29T07:49:41.000Z",
+  "updatedAt": "2021-08-17T11:38:49.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +30,25 @@
         "aniId": 10643,
         "createdAt": "2020-10-12T15:56:55.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4491": {
+        "identifier": "4491",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Gintama: Dai Hanseikai",
+        "url": "https://pahe.win/a/4491",
+        "image": "https://i.animepahe.com/posters/94d169e5627a97660be2689ecf9d086e038063b91598da6598fea788a0f6b409.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10643,
+        "aniId": 10643,
+        "createdAt": "2021-08-17T11:37:57.000Z",
+        "updatedAt": "2021-08-17T12:06:59.000Z",
         "deletedAt": null
       }
     }

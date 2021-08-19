@@ -1,7 +1,8 @@
 {
   "altTitle": [
     "White Cat Legend",
-    "Dalisi Rizhi, The Journal of Dali Temple",
+    "Dalisi Rizhi",
+    "The Journal of Dali Temple",
     "大理寺日志"
   ],
   "id": 38742,
@@ -12,7 +13,7 @@
   "category": "ONA",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:07.000Z",
-  "updatedAt": "2021-05-01T10:32:41.000Z",
+  "updatedAt": "2021-08-15T17:07:53.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -69,6 +70,25 @@
         "aniId": 114119,
         "createdAt": "2020-10-12T16:00:11.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "animepahe": {
+      "4497": {
+        "identifier": "4497",
+        "type": "anime",
+        "page": "animepahe",
+        "title": "Da Li Si Rizhi",
+        "url": "https://pahe.win/a/4497",
+        "image": "https://i.animepahe.com/posters/4fe2d91a844009b217a330ca38147368f8ebae7a6f1781b26494822bdcda1f40.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38742,
+        "aniId": 114119,
+        "createdAt": "2021-08-15T17:07:51.000Z",
+        "updatedAt": "2021-08-15T17:36:59.000Z",
         "deletedAt": null
       }
     }

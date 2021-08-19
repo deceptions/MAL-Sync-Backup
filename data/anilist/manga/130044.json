@@ -16,7 +16,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-21T03:12:57.000Z",
-  "updatedAt": "2021-06-21T17:23:22.000Z",
+  "updatedAt": "2021-08-18T13:37:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "9d39efab-9ab7-4a4d-9f89-9b81e3796fc3": {
+        "authors": [
+          "Hitsuji Gamei",
+          "Fushimi Saika"
+        ],
+        "identifier": "9d39efab-9ab7-4a4d-9f89-9b81e3796fc3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shikkaku kara Hajimeru Nariagari Madou Shidou!",
+        "url": "https://mangadex.org/title/9d39efab-9ab7-4a4d-9f89-9b81e3796fc3",
+        "image": "https://uploads.mangadex.org/covers/9d39efab-9ab7-4a4d-9f89-9b81e3796fc3/d3d39bdc-2ba2-46ec-8e05-b48cfa71615b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 130044,
+        "createdAt": "2020-10-12T16:20:36.000Z",
+        "updatedAt": "2021-08-19T07:48:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

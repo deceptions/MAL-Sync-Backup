@@ -16,5 +16,29 @@
   "createdAt": "2021-02-06T12:19:55.000Z",
   "updatedAt": "2021-08-06T12:47:31.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "529bc24a-67b9-4bbb-8e04-c207d99551b2": {
+        "authors": [
+          "Ootsuka Mahiro",
+          "Otaku Beam"
+        ],
+        "identifier": "529bc24a-67b9-4bbb-8e04-c207d99551b2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Spiritual Lunch",
+        "url": "https://mangadex.org/title/529bc24a-67b9-4bbb-8e04-c207d99551b2",
+        "image": "https://uploads.mangadex.org/covers/529bc24a-67b9-4bbb-8e04-c207d99551b2/201a7e5e-9a9f-4b8d-b149-f37f4c7b38f6.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110602,
+        "aniId": null,
+        "createdAt": "2021-08-18T04:07:15.000Z",
+        "updatedAt": "2021-08-18T04:07:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

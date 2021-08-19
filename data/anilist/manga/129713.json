@@ -19,7 +19,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-09T13:04:15.000Z",
-  "updatedAt": "2021-06-21T17:21:02.000Z",
+  "updatedAt": "2021-08-17T04:37:11.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ln988796": {
+        "authors": [
+          "Bubu Planet Studio / Yi Li Ge"
+        ],
+        "identifier": "manga-ln988796",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "A Tough First Love",
+        "url": "https://manganato.com/manga-ln988796",
+        "image": "https://avt.mkklcdnv6temp.com/3/u/24-1618023523.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 129713,
+        "createdAt": "2021-08-17T04:37:00.000Z",
+        "updatedAt": "2021-08-17T04:37:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

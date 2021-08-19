@@ -11,13 +11,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 63849,
+  "aniId": 85282,
   "createdAt": "2021-06-02T15:01:01.000Z",
-  "updatedAt": "2021-06-02T15:01:01.000Z",
+  "updatedAt": "2021-08-19T07:49:32.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Peephole",
+      "穴殺人"
+    ],
+    "authors": [
+      "Larsson"
+    ],
+    "id": 63849,
+    "type": "manga",
+    "title": "Ana Satsujin",
+    "url": "https://myanimelist.net/manga/63849/Ana_Satsujin",
+    "image": "https://cdn.myanimelist.net/images/manga/2/128593.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:45:05.000Z",
+    "updatedAt": "2021-08-15T13:37:10.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Peephole",
+      "穴殺人",
+      "Murder Hole",
+      "洞穴偷窥杀人事件",
+      "A pain in the Miyaichi's bust",
+      "Enmeiji Reina no Koi",
+      "延命寺玲奈の恋",
+      "Satsubatsu Memoria",
+      "さつばつメモリアル",
+      "Kaika Sengen",
+      "開花宣言",
+      "구멍 살인"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Larsson"
+    ],
+    "id": 85282,
+    "malId": 63849,
+    "type": "manga",
+    "title": "Ana Satsujin",
+    "url": "https://anilist.co/manga/85282",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85282-zhyX9uenfxFX.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:50:49.000Z",
+    "updatedAt": "2021-08-18T12:37:21.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/63849/Ana_Satsujin"
 }

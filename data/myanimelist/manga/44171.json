@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:18.000Z",
-  "updatedAt": "2021-05-06T21:47:32.000Z",
+  "updatedAt": "2021-08-17T15:37:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 74171,
         "createdAt": "2020-10-12T16:05:36.000Z",
         "updatedAt": "2021-06-03T13:40:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "omairi_desu_yo": {
+        "authors": [
+          "YAMAMOTO Kotetsuko"
+        ],
+        "identifier": "omairi_desu_yo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Omairi desu yo",
+        "url": "https://fanfox.net/manga/omairi_desu_yo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11381/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44171,
+        "aniId": 74171,
+        "createdAt": "2021-08-17T15:37:28.000Z",
+        "updatedAt": "2021-08-17T16:07:00.000Z",
         "deletedAt": null
       }
     }

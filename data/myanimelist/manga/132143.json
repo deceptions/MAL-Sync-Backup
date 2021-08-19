@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-28T12:15:44.000Z",
-  "updatedAt": "2021-06-21T07:29:43.000Z",
+  "updatedAt": "2021-08-17T20:09:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,6 +64,28 @@
         "aniId": 127739,
         "createdAt": "2021-07-09T05:13:20.000Z",
         "updatedAt": "2021-07-09T05:43:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "nichijou_dewa_saenai_tada_no_ossan_jitsu_wa_chijou_saikyou_no_ikusagami": {
+        "authors": [
+          "AINO Jin"
+        ],
+        "identifier": "nichijou_dewa_saenai_tada_no_ossan_jitsu_wa_chijou_saikyou_no_ikusagami",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Nichijou dewa Saenai tada no Ossan, Jitsu wa Chijou Saikyou no Ikusagami",
+        "url": "https://fanfox.net/manga/nichijou_dewa_saenai_tada_no_ossan_jitsu_wa_chijou_saikyou_no_ikusagami/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35509/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 132143,
+        "aniId": null,
+        "createdAt": "2021-08-17T20:09:04.000Z",
+        "updatedAt": "2021-08-19T07:49:45.000Z",
         "deletedAt": null
       }
     }

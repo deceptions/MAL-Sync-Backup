@@ -46,6 +46,28 @@
         "updatedAt": "2021-06-05T19:05:03.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "himitsu_no_kakera": {
+        "authors": [
+          "FUJISAWA Makoto"
+        ],
+        "identifier": "himitsu_no_kakera",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Himitsu no Kakera",
+        "url": "https://fanfox.net/manga/himitsu_no_kakera/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27640/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86180,
+        "aniId": 93883,
+        "createdAt": "2021-08-17T06:07:44.000Z",
+        "updatedAt": "2021-08-17T06:37:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

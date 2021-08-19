@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-10T19:43:31.000Z",
-  "updatedAt": "2021-03-29T13:01:43.000Z",
+  "updatedAt": "2021-08-18T20:08:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,29 @@
         "aniId": 123290,
         "createdAt": "2021-03-29T13:01:44.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jm986747": {
+        "authors": [
+          "Sakurai Yuu",
+          "Monitsunanoni"
+        ],
+        "identifier": "manga-jm986747",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tensei-Saki De Suterareta Node, Mofumofu-Tachi To Oryouri Shimasu",
+        "url": "https://manganato.com/manga-jm986747",
+        "image": "https://avt.mkklcdnv6temp.com/19/e/22-1600661245.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 130796,
+        "aniId": null,
+        "createdAt": "2021-08-18T20:08:13.000Z",
+        "updatedAt": "2021-08-19T07:49:43.000Z",
         "deletedAt": null
       }
     }

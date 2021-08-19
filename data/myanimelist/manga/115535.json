@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:38.000Z",
-  "updatedAt": "2021-05-22T12:43:38.000Z",
+  "updatedAt": "2021-08-19T06:37:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,29 @@
         "aniId": 104195,
         "createdAt": "2020-10-12T16:13:46.000Z",
         "updatedAt": "2021-06-05T23:55:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cg979589": {
+        "authors": [
+          "Fumi Fumiko",
+          "Kaoru Ooshima"
+        ],
+        "identifier": "manga-cg979589",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Otokonoko Doushi Renai Chuu.",
+        "url": "https://manganato.com/manga-cg979589",
+        "image": "https://avt.mkklcdnv6temp.com/47/e/16-1583495163.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115535,
+        "aniId": 104195,
+        "createdAt": "2021-08-19T06:37:17.000Z",
+        "updatedAt": "2021-08-19T07:07:06.000Z",
         "deletedAt": null
       }
     }

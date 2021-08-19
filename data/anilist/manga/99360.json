@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-28T06:28:43.000Z",
-  "updatedAt": "2021-06-21T13:28:21.000Z",
+  "updatedAt": "2021-08-17T04:07:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "everyday_lily": {
+        "authors": [
+          "Gom Mali"
+        ],
+        "identifier": "everyday_lily",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Everyday Lily",
+        "url": "https://fanfox.net/manga/everyday_lily/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21833/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 99360,
+        "createdAt": "2021-08-17T04:07:04.000Z",
+        "updatedAt": "2021-08-17T04:07:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

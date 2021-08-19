@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:38.000Z",
-  "updatedAt": "2021-05-08T13:17:21.000Z",
+  "updatedAt": "2021-08-15T10:37:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,28 @@
         "aniId": 86089,
         "createdAt": "2021-05-08T13:17:21.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-oa951757": {
+        "authors": [
+          "Yanagisawa Kimio"
+        ],
+        "identifier": "manga-oa951757",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Roppongi Black Cross",
+        "url": "https://manganato.com/manga-oa951757",
+        "image": "https://avt.mkklcdnv6temp.com/15/t/1-1583464292.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83087,
+        "aniId": 86089,
+        "createdAt": "2021-08-15T10:37:04.000Z",
+        "updatedAt": "2021-08-15T11:07:00.000Z",
         "deletedAt": null
       }
     }

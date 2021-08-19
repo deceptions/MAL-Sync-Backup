@@ -84,6 +84,28 @@
         "updatedAt": "2021-08-10T18:09:16.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hana_yamata": {
+        "authors": [
+          "Sou"
+        ],
+        "identifier": "hana_yamata",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hana Yamata",
+        "url": "https://fanfox.net/manga/hana_yamata/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13075/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34977,
+        "aniId": 64977,
+        "createdAt": "2021-08-15T15:07:33.000Z",
+        "updatedAt": "2021-08-15T15:37:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

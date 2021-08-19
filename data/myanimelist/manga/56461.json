@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:48.000Z",
-  "updatedAt": "2021-05-08T14:17:52.000Z",
+  "updatedAt": "2021-08-16T04:37:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 88221,
         "createdAt": "2020-10-12T16:09:30.000Z",
         "updatedAt": "2021-06-04T18:03:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mn964322": {
+        "authors": [
+          "Miyazaki Maya"
+        ],
+        "identifier": "manga-mn964322",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Genocider (Akiyoshi Takahiro)",
+        "url": "https://manganato.com/manga-mn964322",
+        "image": "https://avt.mkklcdnv6temp.com/26/n/9-1583481140.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56461,
+        "aniId": 88221,
+        "createdAt": "2021-08-16T04:37:02.000Z",
+        "updatedAt": "2021-08-16T05:07:00.000Z",
         "deletedAt": null
       }
     }

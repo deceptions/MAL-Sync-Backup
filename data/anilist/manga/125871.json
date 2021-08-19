@@ -18,5 +18,28 @@
   "createdAt": "2021-07-07T17:29:53.000Z",
   "updatedAt": "2021-08-11T06:09:28.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ki988243": {
+        "authors": [
+          "Hirai Kazumasa"
+        ],
+        "identifier": "manga-ki988243",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Death Hunter",
+        "url": "https://readmanganato.com/manga-ki988243",
+        "image": "https://avt.mkklcdnv6temp.com/30/x/23-1613969128.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 125871,
+        "createdAt": "2021-08-16T23:08:11.000Z",
+        "updatedAt": "2021-08-16T23:08:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

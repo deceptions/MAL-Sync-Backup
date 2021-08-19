@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-02T17:26:02.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mr_applicant": {
+        "authors": [
+          "TAKAYAMA Shinobu"
+        ],
+        "identifier": "mr_applicant",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mr. Applicant",
+        "url": "https://fanfox.net/manga/mr_applicant/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9773/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33493,
+        "aniId": 63493,
+        "createdAt": "2021-08-17T19:08:01.000Z",
+        "updatedAt": "2021-08-17T19:37:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

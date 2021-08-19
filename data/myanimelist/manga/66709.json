@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:11.000Z",
-  "updatedAt": "2021-05-09T19:17:25.000Z",
+  "updatedAt": "2021-08-16T01:07:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -62,6 +62,29 @@
         "aniId": 90464,
         "createdAt": "2021-05-10T02:48:55.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mc963559": {
+        "authors": [
+          "Hunting Cap Brothers",
+          "Oksg"
+        ],
+        "identifier": "manga-mc963559",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sekai Seifuku - Junketsu No White Light",
+        "url": "https://readmanganato.com/manga-mc963559",
+        "image": "https://avt.mkklcdnv6temp.com/2/s/9-1583480202.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 66709,
+        "aniId": 90464,
+        "createdAt": "2021-08-16T01:07:29.000Z",
+        "updatedAt": "2021-08-16T01:37:00.000Z",
         "deletedAt": null
       }
     }

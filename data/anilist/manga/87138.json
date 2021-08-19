@@ -83,6 +83,28 @@
         "updatedAt": "2021-07-27T14:21:35.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "koneko_hiroimashita": {
+        "authors": [
+          "Yohachi"
+        ],
+        "identifier": "koneko_hiroimashita",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koneko Hiroimashita",
+        "url": "https://fanfox.net/manga/koneko_hiroimashita/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/19579/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97844,
+        "aniId": 87138,
+        "createdAt": "2021-08-19T04:08:25.000Z",
+        "updatedAt": "2021-08-19T04:37:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

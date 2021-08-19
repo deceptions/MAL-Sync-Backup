@@ -91,6 +91,29 @@
         "updatedAt": "2021-06-12T03:08:18.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "sekiro_gaiden_shinazu_hanbei": {
+        "authors": [
+          "HIKAMI Keiichi",
+          "YAMAMOTO Shin"
+        ],
+        "identifier": "sekiro_gaiden_shinazu_hanbei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sekiro Gaiden: Shinazu Hanbei",
+        "url": "https://fanfox.net/manga/sekiro_gaiden_shinazu_hanbei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32352/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125301,
+        "aniId": 114160,
+        "createdAt": "2021-08-15T04:37:42.000Z",
+        "updatedAt": "2021-08-15T05:07:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

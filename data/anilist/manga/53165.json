@@ -88,6 +88,28 @@
         "updatedAt": "2021-05-31T13:52:54.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "nanamaru_sanbatsu": {
+        "authors": [
+          "SUGIMOTO Ikura"
+        ],
+        "identifier": "nanamaru_sanbatsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Nanamaru Sanbatsu",
+        "url": "https://fanfox.net/manga/nanamaru_sanbatsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8547/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23165,
+        "aniId": 53165,
+        "createdAt": "2021-08-18T17:37:12.000Z",
+        "updatedAt": "2021-08-18T18:07:01.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

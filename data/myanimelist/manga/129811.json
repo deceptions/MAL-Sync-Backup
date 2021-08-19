@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:24.000Z",
-  "updatedAt": "2021-06-24T16:15:05.000Z",
+  "updatedAt": "2021-08-17T15:37:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 118998,
         "createdAt": "2021-07-13T13:15:01.000Z",
         "updatedAt": "2021-07-13T13:45:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "my-darling-next-door": {
+        "authors": [
+          "Rukana"
+        ],
+        "identifier": "my-darling-next-door",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "My Darling Next Door",
+        "url": "https://mangasee123.com/manga/My-Darling-Next-Door",
+        "image": "https://cover.nep.li/cover/My-Darling-Next-Door.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129811,
+        "aniId": 118998,
+        "createdAt": "2021-08-17T15:37:22.000Z",
+        "updatedAt": "2021-08-17T16:07:00.000Z",
         "deletedAt": null
       }
     }

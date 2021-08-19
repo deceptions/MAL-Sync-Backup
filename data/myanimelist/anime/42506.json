@@ -52,25 +52,6 @@
         "deletedAt": null
       }
     },
-    "Anime4you": {
-      "4981": {
-        "identifier": "4981",
-        "type": "anime",
-        "page": "Anime4you",
-        "title": "World Witches Hasshin Shimasu! (GerSub)",
-        "url": "https://www.anime4you.one/show/1/aid/4981",
-        "image": "https://cdn.anime4you.one/covers/world-witches-visual.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 42506,
-        "aniId": 121681,
-        "createdAt": "2021-01-12T17:22:21.000Z",
-        "updatedAt": "2021-05-20T15:21:58.000Z",
-        "deletedAt": null
-      }
-    },
     "Gogoanime": {
       "world-witches-hasshin-shimasu": {
         "identifier": "world-witches-hasshin-shimasu",
@@ -87,6 +68,23 @@
         "aniId": 121681,
         "createdAt": "2021-01-12T17:51:34.000Z",
         "updatedAt": "2021-05-20T15:21:58.000Z",
+        "deletedAt": null
+      },
+      "world-witches-hasshin-shimasu-dub": {
+        "identifier": "world-witches-hasshin-shimasu-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "World Witches Hasshin Shimasu! (Dub)",
+        "url": "https://gogoanime.pe/category/world-witches-hasshin-shimasu-dub",
+        "image": "https://gogocdn.net/cover/world-witches-hasshin-shimasu-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42506,
+        "aniId": 121681,
+        "createdAt": "2021-08-15T16:07:02.000Z",
+        "updatedAt": "2021-08-15T16:36:59.000Z",
         "deletedAt": null
       }
     },

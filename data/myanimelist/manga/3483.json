@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:51.000Z",
-  "updatedAt": "2021-05-06T23:48:33.000Z",
+  "updatedAt": "2021-08-16T21:38:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 33483,
         "createdAt": "2021-05-06T23:48:33.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kk951393": {
+        "authors": [
+          "Yokoyama Mitsuteru"
+        ],
+        "identifier": "manga-kk951393",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sangokushi",
+        "url": "https://manganato.com/manga-kk951393",
+        "image": "https://avt.mkklcdnv6temp.com/3/g/1-1583463793.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3483,
+        "aniId": 33483,
+        "createdAt": "2021-08-16T21:37:42.000Z",
+        "updatedAt": "2021-08-16T22:07:00.000Z",
         "deletedAt": null
       }
     }

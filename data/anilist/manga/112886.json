@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T21:24:45.000Z",
-  "updatedAt": "2021-06-21T14:48:56.000Z",
+  "updatedAt": "2021-08-18T02:07:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,29 @@
         "aniId": 112886,
         "createdAt": "2020-10-12T16:18:54.000Z",
         "updatedAt": "2021-06-07T21:29:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "turandot_no_renkinjutsushi": {
+        "authors": [
+          "GOTOU Keisuke",
+          "KATOU Hiroyuki"
+        ],
+        "identifier": "turandot_no_renkinjutsushi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Turandot no Renkinjutsushi",
+        "url": "https://fanfox.net/manga/turandot_no_renkinjutsushi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36599/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 112886,
+        "createdAt": "2021-08-18T02:07:00.000Z",
+        "updatedAt": "2021-08-18T02:07:19.000Z",
         "deletedAt": null
       }
     }

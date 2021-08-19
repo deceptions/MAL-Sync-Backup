@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:03.000Z",
-  "updatedAt": "2021-03-22T20:06:08.000Z",
+  "updatedAt": "2021-08-16T01:37:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,6 +84,29 @@
         "aniId": 109174,
         "createdAt": "2021-03-22T20:06:08.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-eb981936": {
+        "authors": [
+          "Yuki Tanaka",
+          "Kento Matsuura"
+        ],
+        "identifier": "manga-eb981936",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tokyo Shinobi Squad",
+        "url": "https://readmanganato.com/manga-eb981936",
+        "image": "https://avt.mkklcdnv6temp.com/33/c/18-1583498368.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120176,
+        "aniId": 109174,
+        "createdAt": "2021-08-16T01:36:59.000Z",
+        "updatedAt": "2021-08-16T02:07:00.000Z",
         "deletedAt": null
       }
     }

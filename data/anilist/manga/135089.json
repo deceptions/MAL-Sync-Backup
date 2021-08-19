@@ -17,5 +17,50 @@
   "createdAt": "2021-06-04T07:48:57.000Z",
   "updatedAt": "2021-08-08T16:39:16.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-md989438": {
+        "authors": [
+          "Isiki"
+        ],
+        "identifier": "manga-md989438",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Make It Only Love",
+        "url": "https://manganato.com/manga-md989438",
+        "image": "https://avt.mkklcdnv6temp.com/31/g/24-1628091278.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139347,
+        "aniId": 135089,
+        "createdAt": "2021-08-18T08:07:09.000Z",
+        "updatedAt": "2021-08-18T08:37:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "make_it_only_love": {
+        "authors": [
+          "ISIKI"
+        ],
+        "identifier": "make_it_only_love",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Make It Only Love",
+        "url": "https://fanfox.net/manga/make_it_only_love/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39002/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139347,
+        "aniId": 135089,
+        "createdAt": "2021-08-18T08:08:16.000Z",
+        "updatedAt": "2021-08-18T08:37:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

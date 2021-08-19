@@ -9,7 +9,7 @@
     "Sanneko"
   ],
   "id": 135503,
-  "malId": null,
+  "malId": 139593,
   "type": "manga",
   "title": "Shokubutsu Mahou Chito de Nonbiri Ryoshu Seikatsu Hajimemasu: Zense no Chishiki wo Kushi Shite Nogyo Shitara, Gyakuten Jinsei Hajimatta Kudan",
   "url": "https://anilist.co/manga/135503",
@@ -17,9 +17,33 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-13T13:38:19.000Z",
-  "updatedAt": "2021-08-14T14:37:12.000Z",
+  "updatedAt": "2021-08-17T10:37:00.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "030157c5-08d1-44c9-b0ed-9d9234f96dff": {
+        "authors": [
+          "Ryoto Kae",
+          "Takashi iwasaki",
+          "Sanneko"
+        ],
+        "identifier": "030157c5-08d1-44c9-b0ed-9d9234f96dff",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shokubutsu Mahou Chito de Nonbiri Ryoshu Seikatsu Hajimemasu Zense no Chishiki o Kushi Shite Nogyo Shitara, Gyakuten Jinsei Hajimatta Kudan",
+        "url": "https://mangadex.org/title/030157c5-08d1-44c9-b0ed-9d9234f96dff",
+        "image": "https://uploads.mangadex.org/covers/030157c5-08d1-44c9-b0ed-9d9234f96dff/59307cac-bca3-4bb0-ba33-cb99b5a7cb19.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 139593,
+        "aniId": 135503,
+        "createdAt": "2020-12-03T11:53:13.000Z",
+        "updatedAt": "2021-08-17T10:13:58.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-kf987462": {
         "authors": [
@@ -36,11 +60,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
+        "actor": null,
         "malId": null,
         "aniId": 135503,
         "createdAt": "2021-06-07T16:06:59.000Z",
-        "updatedAt": "2021-06-13T16:27:20.000Z",
+        "updatedAt": "2021-08-16T16:07:04.000Z",
         "deletedAt": null
       }
     }
