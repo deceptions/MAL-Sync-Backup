@@ -14,9 +14,32 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-29T08:35:15.000Z",
-  "updatedAt": "2021-06-29T08:35:15.000Z",
+  "updatedAt": "2021-08-20T21:17:27.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "c96fd0f0-603b-4a09-a589-32a7e14e0936": {
+        "authors": [
+          "Sumimori Sai",
+          "Ryuuga Shou"
+        ],
+        "identifier": "c96fd0f0-603b-4a09-a589-32a7e14e0936",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ore no Kantei Skill ga Cheat Sugite",
+        "url": "https://mangadex.org/title/c96fd0f0-603b-4a09-a589-32a7e14e0936",
+        "image": "https://uploads.mangadex.org/covers/c96fd0f0-603b-4a09-a589-32a7e14e0936/2db8f947-fb1f-44f0-b465-c90cfd753997.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 134942,
+        "aniId": 129122,
+        "createdAt": "2020-10-12T16:21:41.000Z",
+        "updatedAt": "2021-08-21T12:16:06.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-jn986970": {
         "authors": [

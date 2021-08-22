@@ -19,5 +19,28 @@
   "createdAt": "2021-07-25T17:51:56.000Z",
   "updatedAt": "2021-07-26T07:51:34.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "saving-sweets-for-after-hours": {
+        "authors": [
+          "KANAE Sato"
+        ],
+        "identifier": "saving-sweets-for-after-hours",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Saving Sweets for After-Hours",
+        "url": "https://mangasee123.com/manga/Saving-Sweets-for-After-Hours",
+        "image": "https://cover.nep.li/cover/Saving-Sweets-for-After-Hours.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 138951,
+        "aniId": 128489,
+        "createdAt": "2021-08-20T00:40:09.000Z",
+        "updatedAt": "2021-08-20T01:07:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

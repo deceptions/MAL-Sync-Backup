@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-06T10:50:01.000Z",
-  "updatedAt": "2021-05-05T17:32:45.000Z",
+  "updatedAt": "2021-08-21T04:16:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 79585,
         "createdAt": "2021-05-05T17:32:46.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-rh960942": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "manga-rh960942",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Cinderella Kishi",
+        "url": "https://manganato.com/manga-rh960942",
+        "image": "https://avt.mkklcdnv6temp.com/20/q/7-1583477039.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49585,
+        "aniId": 79585,
+        "createdAt": "2021-08-21T04:16:11.000Z",
+        "updatedAt": "2021-08-21T04:46:06.000Z",
         "deletedAt": null
       }
     }

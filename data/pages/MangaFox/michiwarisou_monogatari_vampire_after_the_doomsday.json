@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 80877,
-  "aniId": null,
+  "aniId": 93074,
   "createdAt": "2021-08-17T22:37:02.000Z",
-  "updatedAt": "2021-08-19T07:48:25.000Z",
+  "updatedAt": "2021-08-19T08:07:06.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-08-17T22:37:12.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Vampire After the Doomsday",
+      "道割草物語"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shin Takekawa"
+    ],
+    "id": 93074,
+    "malId": 80877,
+    "type": "manga",
+    "title": "Michiwarikusa Monogatari",
+    "url": "https://anilist.co/manga/93074",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx93074-ylK76jxnZGPu.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:52:01.000Z",
+    "updatedAt": "2021-06-18T00:24:02.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/80877/Michiwarikusa_Monogatari"
 }

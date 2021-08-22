@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:35.000Z",
-  "updatedAt": "2021-07-10T10:13:39.000Z",
+  "updatedAt": "2021-08-21T08:46:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 107097,
         "createdAt": "2020-10-12T16:14:49.000Z",
         "updatedAt": "2021-06-06T08:25:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gf983514": {
+        "authors": [
+          "Shirosaki"
+        ],
+        "identifier": "manga-gf983514",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Will Always Guard You",
+        "url": "https://manganato.com/manga-gf983514",
+        "image": "https://avt.mkklcdnv6temp.com/41/n/19-1583500685.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114615,
+        "aniId": 107097,
+        "createdAt": "2021-08-21T08:46:09.000Z",
+        "updatedAt": "2021-08-21T09:16:06.000Z",
         "deletedAt": null
       }
     }

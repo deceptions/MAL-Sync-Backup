@@ -23,5 +23,29 @@
   "createdAt": "2021-05-23T08:12:58.000Z",
   "updatedAt": "2021-06-18T09:34:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ig986015": {
+        "authors": [
+          "Toyama Monaka",
+          "Karasuma Kanatsu"
+        ],
+        "identifier": "manga-ig986015",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Saikawa Fusai No Renai Jijou - Nananen Jikkuri",
+        "url": "https://readmanganato.com/manga-ig986015",
+        "image": "https://avt.mkklcdnv6temp.com/39/z/21-1595991672.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 109707,
+        "aniId": 120960,
+        "createdAt": "2021-08-20T18:16:38.000Z",
+        "updatedAt": "2021-08-20T21:16:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

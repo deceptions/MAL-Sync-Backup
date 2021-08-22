@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:30.000Z",
-  "updatedAt": "2021-06-25T05:15:07.000Z",
+  "updatedAt": "2021-08-19T15:37:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 87441,
         "createdAt": "2021-06-25T05:14:56.000Z",
         "updatedAt": "2021-06-25T05:45:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dm980921": {
+        "authors": [
+          "Kosuke Fujishima"
+        ],
+        "identifier": "manga-dm980921",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Toppu Gp",
+        "url": "https://readmanganato.com/manga-dm980921",
+        "image": "https://avt.mkklcdnv6temp.com/46/i/17-1583496935.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98334,
+        "aniId": 87441,
+        "createdAt": "2021-08-19T15:37:28.000Z",
+        "updatedAt": "2021-08-19T16:07:06.000Z",
         "deletedAt": null
       }
     }

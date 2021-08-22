@@ -84,6 +84,28 @@
         "updatedAt": "2021-06-03T13:48:57.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "bokura_no_kiseki": {
+        "authors": [
+          "KUMETA Natsuo"
+        ],
+        "identifier": "bokura_no_kiseki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bokura no Kiseki",
+        "url": "https://fanfox.net/manga/bokura_no_kiseki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8360/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16686,
+        "aniId": 46686,
+        "createdAt": "2021-08-20T14:08:16.000Z",
+        "updatedAt": "2021-08-20T14:37:09.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 138097,
   "createdAt": "2021-08-18T17:07:10.000Z",
-  "updatedAt": "2021-08-18T17:07:20.000Z",
+  "updatedAt": "2021-08-20T08:35:09.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "이혼해주세요, 남편님!",
+      "Divorce Me, Husband!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Rantesias",
+      "Nugu"
+    ],
+    "id": 138097,
+    "malId": null,
+    "type": "manga",
+    "title": "Ihonhaejuseyo, Nampyeonnim!",
+    "url": "https://anilist.co/manga/138097",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138097-rg3FFQEryR77.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-19T13:37:07.000Z",
+    "updatedAt": "2021-08-19T13:37:07.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

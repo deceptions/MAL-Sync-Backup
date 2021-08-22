@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-03T12:10:47.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "transistor_teaset": {
+        "authors": [
+          "YOSHIMI Sato"
+        ],
+        "identifier": "transistor_teaset",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Transistor Teaset",
+        "url": "https://fanfox.net/manga/transistor_teaset/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5586/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 13293,
+        "aniId": 43293,
+        "createdAt": "2021-08-17T22:39:14.000Z",
+        "updatedAt": "2021-08-19T08:07:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -42,6 +42,49 @@
         "updatedAt": "2021-06-04T22:00:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-vq972599": {
+        "authors": [
+          "Nagai Go",
+          "Team Moon"
+        ],
+        "identifier": "manga-vq972599",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Devilman Tai Yami No Teiou",
+        "url": "https://manganato.com/manga-vq972599",
+        "image": "https://avt.mkklcdnv6temp.com/16/z/14-1583490358.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75719,
+        "aniId": 92226,
+        "createdAt": "2021-08-20T19:16:37.000Z",
+        "updatedAt": "2021-08-20T19:46:06.000Z",
+        "deletedAt": null
+      },
+      "manga-vp972598": {
+        "authors": [
+          "Go Nagai"
+        ],
+        "identifier": "manga-vp972598",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Devilman Vs. Hades",
+        "url": "https://manganato.com/manga-vp972598",
+        "image": "https://avt.mkklcdnv6temp.com/16/y/14-1583490357.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75719,
+        "aniId": 92226,
+        "createdAt": "2021-08-21T03:17:49.000Z",
+        "updatedAt": "2021-08-21T03:46:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

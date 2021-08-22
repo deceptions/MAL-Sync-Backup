@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:15.000Z",
-  "updatedAt": "2021-02-21T06:33:32.000Z",
+  "updatedAt": "2021-08-20T19:16:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 37700,
         "createdAt": "2020-10-12T16:02:48.000Z",
         "updatedAt": "2021-06-02T09:31:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-uq956051": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "manga-uq956051",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dororon Enma-Kun",
+        "url": "https://manganato.com/manga-uq956051",
+        "image": "https://avt.mkklcdnv6temp.com/50/x/3-1583469684.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7700,
+        "aniId": 37700,
+        "createdAt": "2021-08-20T19:16:34.000Z",
+        "updatedAt": "2021-08-20T19:46:06.000Z",
         "deletedAt": null
       }
     }

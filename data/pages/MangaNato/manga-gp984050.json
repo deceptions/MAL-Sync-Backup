@@ -11,14 +11,35 @@
   "image": "https://avt.mkklcdnv6temp.com/11/q/20-1583501481.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 122605,
   "createdAt": "2021-07-25T15:51:33.000Z",
-  "updatedAt": "2021-07-25T15:51:33.000Z",
+  "updatedAt": "2021-08-19T16:08:19.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "爱你有些小偏执",
+      "Paranoid Love"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tian Dao Xia",
+      "Can Can"
+    ],
+    "id": 122605,
+    "malId": null,
+    "type": "manga",
+    "title": "Ai Ni Youxie Xiao Pianzhi",
+    "url": "https://anilist.co/manga/122605",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122605-wOuBJnK8tBdH.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-07T11:36:19.000Z",
+    "updatedAt": "2021-08-19T16:08:19.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -109,6 +109,28 @@
         "updatedAt": "2021-06-03T20:48:57.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "yongbi": {
+        "authors": [
+          "Ryu Ki-Woon"
+        ],
+        "identifier": "yongbi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yongbi",
+        "url": "https://fanfox.net/manga/yongbi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9398/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 10685,
+        "aniId": 40685,
+        "createdAt": "2021-08-20T16:46:11.000Z",
+        "updatedAt": "2021-08-20T21:16:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

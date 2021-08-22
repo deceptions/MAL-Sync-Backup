@@ -23,5 +23,29 @@
   "createdAt": "2021-05-22T16:12:58.000Z",
   "updatedAt": "2021-08-08T07:48:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ee981513": {
+        "authors": [
+          "Skeleton Wizard",
+          "China Reading"
+        ],
+        "identifier": "manga-ee981513",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Battle Frenzy",
+        "url": "https://manganato.com/manga-ee981513",
+        "image": "https://avt.mkklcdnv6temp.com/17/p/18-1583497772.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 113632,
+        "createdAt": "2021-06-01T15:41:11.000Z",
+        "updatedAt": "2021-08-20T08:35:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

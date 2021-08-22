@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:57.000Z",
-  "updatedAt": "2021-04-16T04:44:39.000Z",
+  "updatedAt": "2021-08-20T12:38:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,6 +82,28 @@
         "aniId": 98489,
         "createdAt": "2021-04-22T06:28:21.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yb975610": {
+        "authors": [
+          "Shigusawa Keiichi"
+        ],
+        "identifier": "manga-yb975610",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kino No Tabi - The Beautiful World (Novel)",
+        "url": "https://readmanganato.com/manga-yb975610",
+        "image": "https://avt.mkklcdnv6temp.com/13/p/15-1583491952.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104475,
+        "aniId": 98489,
+        "createdAt": "2021-08-20T12:38:18.000Z",
+        "updatedAt": "2021-08-20T13:07:09.000Z",
         "deletedAt": null
       }
     }

@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-03T13:53:07.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "majo_to_boku": {
+        "authors": [
+          "YAMAKAWA Aiji"
+        ],
+        "identifier": "majo_to_boku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Majo to Boku",
+        "url": "https://fanfox.net/manga/majo_to_boku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8051/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20294,
+        "aniId": 50294,
+        "createdAt": "2021-08-20T04:08:03.000Z",
+        "updatedAt": "2021-08-20T04:37:08.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

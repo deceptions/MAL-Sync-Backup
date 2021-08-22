@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 132165,
   "createdAt": "2021-02-28T16:46:34.000Z",
-  "updatedAt": "2021-07-15T17:03:29.000Z",
+  "updatedAt": "2021-08-20T08:34:10.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "악녀를 죽여 줘",
+      "Kill the Villainess  ",
+      "Matar a la Villana"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Wol-Saeng Sa",
+      "Haegi"
+    ],
+    "id": 132165,
+    "malId": null,
+    "type": "manga",
+    "title": "Angnyeoreul Jugyeo Jwo",
+    "url": "https://anilist.co/manga/132165",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132165-uz2PyhECYrHZ.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T08:12:58.000Z",
+    "updatedAt": "2021-07-27T12:51:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

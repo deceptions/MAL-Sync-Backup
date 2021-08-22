@@ -18,7 +18,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-13T21:08:19.000Z",
-  "updatedAt": "2021-06-17T14:42:24.000Z",
+  "updatedAt": "2021-08-19T15:07:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "76e91506-ed91-4584-9288-4201797eacad": {
+        "authors": [
+          "Tsujimura Mizuki",
+          "Arakawa Naoshi"
+        ],
+        "identifier": "76e91506-ed91-4584-9288-4201797eacad",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A School Frozen in Time",
+        "url": "https://mangadex.org/title/76e91506-ed91-4584-9288-4201797eacad",
+        "image": "https://uploads.mangadex.org/covers/76e91506-ed91-4584-9288-4201797eacad/d8c99a02-343a-4a80-bd30-1a22c3f5dcf0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13729,
+        "aniId": 43729,
+        "createdAt": "2021-08-19T15:07:18.000Z",
+        "updatedAt": "2021-08-19T15:07:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

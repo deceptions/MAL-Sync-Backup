@@ -42,6 +42,28 @@
         "updatedAt": "2021-06-02T20:49:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "honto_yajuu": {
+        "authors": [
+          "YAMAMOTO Kotetsuko"
+        ],
+        "identifier": "honto_yajuu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Honto Yajuu",
+        "url": "https://fanfox.net/manga/honto_yajuu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6194/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14720,
+        "aniId": 44720,
+        "createdAt": "2021-08-19T12:37:13.000Z",
+        "updatedAt": "2021-08-19T13:07:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

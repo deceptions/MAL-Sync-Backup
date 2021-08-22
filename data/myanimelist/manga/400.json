@@ -16,7 +16,31 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:21.000Z",
-  "updatedAt": "2021-04-26T04:58:26.000Z",
+  "updatedAt": "2021-08-20T16:16:38.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "disney-kilala-princess": {
+        "authors": [
+          "KODAKA Nao",
+          "TANAKA Rika"
+        ],
+        "identifier": "disney-kilala-princess",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Disney Kilala Princess",
+        "url": "https://mangasee123.com/manga/Disney-Kilala-Princess",
+        "image": "https://cover.nep.li/cover/Disney-Kilala-Princess.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 400,
+        "aniId": 101954,
+        "createdAt": "2021-08-20T16:16:31.000Z",
+        "updatedAt": "2021-08-20T16:46:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

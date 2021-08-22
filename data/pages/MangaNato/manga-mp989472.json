@@ -12,13 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 138096,
   "createdAt": "2021-08-11T16:39:59.000Z",
-  "updatedAt": "2021-08-11T16:40:01.000Z",
+  "updatedAt": "2021-08-20T08:35:06.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "오필리어가 공작가를 벗어나지 못하는 이유",
+      "The Reason Why Ophelia Can't Get Away From the Duke  ",
+      "The Reason Why Ophelia Can't Leave The Duke's House",
+      "Why Ophelia Can't Leave the Duke's Family"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "A-Ri Joo",
+      "Samo"
+    ],
+    "id": 138096,
+    "malId": null,
+    "type": "manga",
+    "title": "Ophelia-ga Gongjakgareul Beoseonaji Motaneun Iyu",
+    "url": "https://anilist.co/manga/138096",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138096-LKGSD2MYtlQI.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-19T13:37:07.000Z",
+    "updatedAt": "2021-08-19T13:37:07.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

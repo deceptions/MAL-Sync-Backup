@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:04.000Z",
-  "updatedAt": "2021-05-05T12:02:32.000Z",
+  "updatedAt": "2021-08-22T00:16:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 69169,
         "createdAt": "2021-05-05T12:02:32.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ashita_no_kyouko_san": {
+        "authors": [
+          "IWASAKI Masakazu"
+        ],
+        "identifier": "ashita_no_kyouko_san",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ashita no Kyouko-san",
+        "url": "https://fanfox.net/manga/ashita_no_kyouko_san/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10614/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39169,
+        "aniId": 69169,
+        "createdAt": "2021-08-22T00:16:27.000Z",
+        "updatedAt": "2021-08-22T00:46:06.000Z",
         "deletedAt": null
       }
     }

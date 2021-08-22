@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:19.000Z",
-  "updatedAt": "2021-05-19T05:01:57.000Z",
+  "updatedAt": "2021-08-20T21:46:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,29 @@
         "aniId": 38566,
         "createdAt": "2021-05-19T05:01:58.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yj951866": {
+        "authors": [
+          "Dynamic Pro",
+          "Nagai Go"
+        ],
+        "identifier": "manga-yj951866",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Susanoou",
+        "url": "https://manganato.com/manga-yj951866",
+        "image": "https://avt.mkklcdnv6temp.com/19/h/1-1583464453.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8566,
+        "aniId": 38566,
+        "createdAt": "2021-08-20T21:46:49.000Z",
+        "updatedAt": "2021-08-20T22:16:06.000Z",
         "deletedAt": null
       }
     }

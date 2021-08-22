@@ -18,5 +18,28 @@
   "createdAt": "2021-05-20T14:52:04.000Z",
   "updatedAt": "2021-06-18T01:58:54.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lj962492": {
+        "authors": [
+          "Itou Junji"
+        ],
+        "identifier": "manga-lj962492",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Demon's Voice",
+        "url": "https://manganato.com/manga-lj962492",
+        "image": "https://avt.mkklcdnv6temp.com/20/m/8-1583478951.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82195,
+        "aniId": 98242,
+        "createdAt": "2021-08-20T22:16:06.000Z",
+        "updatedAt": "2021-08-20T22:46:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:05.000Z",
-  "updatedAt": "2021-06-30T23:51:02.000Z",
+  "updatedAt": "2021-08-21T14:16:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 86294,
         "createdAt": "2021-06-30T23:50:19.000Z",
         "updatedAt": "2021-07-01T00:20:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kl955046": {
+        "authors": [
+          "Tsukiko"
+        ],
+        "identifier": "manga-kl955046",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tsuru Tsuru To Zara Zara No Aida",
+        "url": "https://manganato.com/manga-kl955046",
+        "image": "https://avt.mkklcdnv6temp.com/26/m/3-1583468718.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63775,
+        "aniId": 86294,
+        "createdAt": "2021-08-21T14:16:07.000Z",
+        "updatedAt": "2021-08-21T14:46:06.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:24.000Z",
-  "updatedAt": "2021-05-02T10:02:12.000Z",
+  "updatedAt": "2021-08-19T22:37:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,48 @@
         "aniId": 109213,
         "createdAt": "2020-10-12T16:11:55.000Z",
         "updatedAt": "2021-06-05T12:00:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vc956111": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "manga-vc956111",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Cutey Honey",
+        "url": "https://manganato.com/manga-vc956111",
+        "image": "https://avt.mkklcdnv6temp.com/3/c/4-1583469774.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16941,
+        "aniId": 109213,
+        "createdAt": "2021-08-19T22:37:06.000Z",
+        "updatedAt": "2021-08-19T23:07:06.000Z",
+        "deletedAt": null
+      },
+      "manga-gq959825": {
+        "authors": [
+          "Nagai Go"
+        ],
+        "identifier": "manga-gq959825",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Cutey Honey '90",
+        "url": "https://manganato.com/manga-gq959825",
+        "image": "https://avt.mkklcdnv6temp.com/28/f/6-1583475281.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16941,
+        "aniId": 109213,
+        "createdAt": "2021-08-19T22:38:27.000Z",
+        "updatedAt": "2021-08-19T23:07:06.000Z",
         "deletedAt": null
       }
     }

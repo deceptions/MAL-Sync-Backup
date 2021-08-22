@@ -13,7 +13,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:04.000Z",
-  "updatedAt": "2021-06-27T03:49:21.000Z",
+  "updatedAt": "2021-08-21T10:16:17.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -123,6 +123,23 @@
         "aniId": 9941,
         "createdAt": "2020-11-14T21:53:27.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      },
+      "tiger-bunny-dub": {
+        "identifier": "tiger-bunny-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tiger & Bunny (Dub)",
+        "url": "https://gogoanime.pe/category/tiger-bunny-dub",
+        "image": "https://gogocdn.net/cover/tiger-bunny-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9941,
+        "aniId": 9941,
+        "createdAt": "2021-08-21T10:16:07.000Z",
+        "updatedAt": "2021-08-21T10:46:06.000Z",
         "deletedAt": null
       }
     },

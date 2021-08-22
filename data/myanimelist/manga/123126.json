@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:10.000Z",
-  "updatedAt": "2021-07-04T15:01:42.000Z",
+  "updatedAt": "2021-08-20T03:07:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,28 @@
         "aniId": 113144,
         "createdAt": "2021-05-31T13:25:39.000Z",
         "updatedAt": "2021-05-31T13:52:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "by_spring": {
+        "authors": [
+          "YUZUKI Ei"
+        ],
+        "identifier": "by_spring",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "By Spring",
+        "url": "https://fanfox.net/manga/by_spring/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32132/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123126,
+        "aniId": 113144,
+        "createdAt": "2021-08-20T03:07:31.000Z",
+        "updatedAt": "2021-08-20T03:37:08.000Z",
         "deletedAt": null
       }
     }

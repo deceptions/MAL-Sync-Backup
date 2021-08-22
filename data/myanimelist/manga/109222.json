@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T18:09:13.000Z",
-  "updatedAt": "2021-06-08T05:52:40.000Z",
+  "updatedAt": "2021-08-20T01:09:24.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 105451,
         "createdAt": "2020-10-12T18:09:14.000Z",
         "updatedAt": "2021-06-08T07:20:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "pompo-the-cinphile": {
+        "authors": [
+          "SUGITANI Shougo"
+        ],
+        "identifier": "pompo-the-cinphile",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Pompo - The Cinéphile",
+        "url": "https://mangasee123.com/manga/Pompo-The-Cinphile",
+        "image": "https://cover.nep.li/cover/Pompo-The-Cinphile.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109222,
+        "aniId": 105451,
+        "createdAt": "2021-08-20T01:09:21.000Z",
+        "updatedAt": "2021-08-20T01:37:06.000Z",
         "deletedAt": null
       }
     }

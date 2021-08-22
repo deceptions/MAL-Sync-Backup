@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-17T16:58:35.000Z",
-  "updatedAt": "2021-06-17T16:58:35.000Z",
+  "updatedAt": "2021-08-19T17:40:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 123954,
         "createdAt": "2020-10-12T16:20:00.000Z",
         "updatedAt": "2021-06-17T17:03:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_legendary_weapon_became_my_bride_when_i_overwhelmed_the_production_job": {
+        "authors": [
+          "Amaui Shiroichi"
+        ],
+        "identifier": "the_legendary_weapon_became_my_bride_when_i_overwhelmed_the_production_job",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Legendary Weapon Became My Bride When I Overwhelmed the Production Job",
+        "url": "https://fanfox.net/manga/the_legendary_weapon_became_my_bride_when_i_overwhelmed_the_production_job/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34379/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133682,
+        "aniId": 123954,
+        "createdAt": "2021-08-19T17:40:18.000Z",
+        "updatedAt": "2021-08-19T18:07:06.000Z",
         "deletedAt": null
       }
     }

@@ -14,9 +14,9 @@
   "active": true,
   "actor": 1,
   "malId": 70557,
-  "aniId": null,
+  "aniId": 91203,
   "createdAt": "2021-03-29T23:01:21.000Z",
-  "updatedAt": "2021-08-19T07:49:42.000Z",
+  "updatedAt": "2021-08-19T08:07:06.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,26 @@
     "updatedAt": "2021-08-19T01:08:34.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "OUT -アウト-"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tatsuya Iguchi",
+      "Makoto Mizuta"
+    ],
+    "id": 91203,
+    "malId": 70557,
+    "type": "manga",
+    "title": "Out",
+    "url": "https://anilist.co/manga/91203",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91203-CYKw5DdNDjny.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:51:31.000Z",
+    "updatedAt": "2021-06-17T23:54:10.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/70557/Out"
 }

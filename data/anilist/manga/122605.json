@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T11:36:19.000Z",
-  "updatedAt": "2021-06-21T16:15:11.000Z",
+  "updatedAt": "2021-08-19T16:08:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,29 @@
         "aniId": 122605,
         "createdAt": "2020-10-12T16:17:50.000Z",
         "updatedAt": "2021-06-07T11:59:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gp984050": {
+        "authors": [
+          "Can Can",
+          "Summer Zoo"
+        ],
+        "identifier": "manga-gp984050",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Paranoid Love",
+        "url": "https://manganato.com/manga-gp984050",
+        "image": "https://avt.mkklcdnv6temp.com/11/q/20-1583501481.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 122605,
+        "createdAt": "2021-07-25T15:51:33.000Z",
+        "updatedAt": "2021-08-19T16:08:19.000Z",
         "deletedAt": null
       }
     }

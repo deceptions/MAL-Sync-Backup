@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 13293,
-  "aniId": null,
+  "aniId": 43293,
   "createdAt": "2021-08-17T22:39:14.000Z",
-  "updatedAt": "2021-08-19T07:49:40.000Z",
+  "updatedAt": "2021-08-19T08:07:06.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -35,6 +35,26 @@
     "updatedAt": "2021-08-17T22:39:23.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "トランジスタティーセット～電気街路図～",
+      "Transistor Teaset - Denkigairozu"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sato Yoshimi"
+    ],
+    "id": 43293,
+    "malId": 13293,
+    "type": "manga",
+    "title": "Transistor Teaset: Denki Gairozu",
+    "url": "https://anilist.co/manga/43293",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43293-8gri9iuf9x3m.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:42:33.000Z",
+    "updatedAt": "2021-06-17T14:34:00.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/13293/Transistor_Teaset__Denki_Gairozu"
 }

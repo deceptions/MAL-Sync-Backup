@@ -9,13 +9,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 99930,
+  "aniId": 98179,
   "createdAt": "2021-08-06T07:50:43.000Z",
-  "updatedAt": "2021-08-06T07:50:43.000Z",
+  "updatedAt": "2021-08-20T08:37:08.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Oshioki X-Cute",
+      "おしおきエクスキュート"
+    ],
+    "authors": [
+      "Sanshoku, Amido."
+    ],
+    "id": 99930,
+    "type": "manga",
+    "title": "Oshioki Execute",
+    "url": "https://myanimelist.net/manga/99930/Oshioki_Execute",
+    "image": "https://cdn.myanimelist.net/images/manga/2/189358.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:46:36.000Z",
+    "updatedAt": "2021-07-27T07:21:45.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Oshioki Execute",
+      "おしおきエクスキュート",
+      "Oshioki Ekusukyuto",
+      "Oshioki X-Cute",
+      "Punishment Execute"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Amido Sanshoku"
+    ],
+    "id": 98179,
+    "malId": 99930,
+    "type": "manga",
+    "title": "Oshioki Execute",
+    "url": "https://anilist.co/manga/98179",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98179-4kpZVHDEOygo.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:54:45.000Z",
+    "updatedAt": "2021-06-18T01:58:04.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/99930/Oshioki_Execute"
 }

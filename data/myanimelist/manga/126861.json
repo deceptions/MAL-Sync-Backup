@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-16T08:32:52.000Z",
-  "updatedAt": "2021-07-16T09:02:51.000Z",
+  "updatedAt": "2021-08-20T20:46:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 119419,
         "createdAt": "2020-10-12T16:19:33.000Z",
         "updatedAt": "2021-06-07T22:06:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "soitogete_ryuujin_san": {
+        "authors": [
+          "SETSUNA Kai"
+        ],
+        "identifier": "soitogete_ryuujin_san",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Soitogete, Ryuujin-san",
+        "url": "https://fanfox.net/manga/soitogete_ryuujin_san/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33849/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126861,
+        "aniId": 119419,
+        "createdAt": "2021-08-20T20:46:42.000Z",
+        "updatedAt": "2021-08-20T21:16:06.000Z",
         "deletedAt": null
       }
     }

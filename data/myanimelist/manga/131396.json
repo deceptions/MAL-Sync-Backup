@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-03-08T13:19:31.000Z",
-  "updatedAt": "2021-06-07T21:21:55.000Z",
+  "updatedAt": "2021-08-19T17:38:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,29 @@
         "aniId": 118707,
         "createdAt": "2021-03-08T11:41:12.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ij985544": {
+        "authors": [
+          "Kawahara Reki",
+          "Tomo Hirokawa"
+        ],
+        "identifier": "manga-ij985544",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sword Art Online - Lycoris",
+        "url": "https://readmanganato.com/manga-ij985544",
+        "image": "https://avt.mkklcdnv6temp.com/20/n/21-1590647966.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 131396,
+        "aniId": 118707,
+        "createdAt": "2021-08-19T17:37:26.000Z",
+        "updatedAt": "2021-08-20T08:37:08.000Z",
         "deletedAt": null
       }
     }

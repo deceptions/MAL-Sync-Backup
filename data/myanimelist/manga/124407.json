@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:13.000Z",
-  "updatedAt": "2021-06-08T06:50:15.000Z",
+  "updatedAt": "2021-08-22T00:47:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 105273,
         "createdAt": "2020-10-12T16:21:19.000Z",
         "updatedAt": "2021-06-08T06:50:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "koroshiya_s_no_yuragi": {
+        "authors": [
+          "FUNAMOTO Erika"
+        ],
+        "identifier": "koroshiya_s_no_yuragi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koroshiya S no Yuragi",
+        "url": "https://fanfox.net/manga/koroshiya_s_no_yuragi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35405/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124407,
+        "aniId": null,
+        "createdAt": "2021-08-22T00:46:07.000Z",
+        "updatedAt": "2021-08-22T00:47:00.000Z",
         "deletedAt": null
       }
     }

@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:38.000Z",
-  "updatedAt": "2021-05-22T10:43:08.000Z",
+  "updatedAt": "2021-08-19T14:38:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 110281,
         "createdAt": "2020-10-12T16:13:58.000Z",
         "updatedAt": "2021-06-06T01:26:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cm979821": {
+        "authors": [
+          "Atsuko Yusen"
+        ],
+        "identifier": "manga-cm979821",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dekoboko Sugar Days",
+        "url": "https://manganato.com/manga-cm979821",
+        "image": "https://avt.mkklcdnv6temp.com/5/x/17-1583495475.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115289,
+        "aniId": 110281,
+        "createdAt": "2021-08-19T14:38:30.000Z",
+        "updatedAt": "2021-08-19T15:07:06.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:05.000Z",
-  "updatedAt": "2021-06-05T13:49:27.000Z",
+  "updatedAt": "2021-08-20T07:38:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 98799,
         "createdAt": "2020-10-12T16:12:08.000Z",
         "updatedAt": "2021-06-05T14:07:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "3_pun_instant_no_chinmoku": {
+        "authors": [
+          "ICHINASHI Kimi"
+        ],
+        "identifier": "3_pun_instant_no_chinmoku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "3-pun Instant no Chinmoku",
+        "url": "https://fanfox.net/manga/3_pun_instant_no_chinmoku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/24905/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107053,
+        "aniId": 98799,
+        "createdAt": "2021-08-20T07:38:10.000Z",
+        "updatedAt": "2021-08-20T08:07:15.000Z",
         "deletedAt": null
       }
     }

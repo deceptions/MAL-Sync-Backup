@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 11425,
-  "aniId": null,
+  "aniId": 41425,
   "createdAt": "2021-08-18T14:37:01.000Z",
-  "updatedAt": "2021-08-19T07:49:30.000Z",
+  "updatedAt": "2021-08-19T08:07:06.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-08-18T14:37:12.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "グラップラー刃牙",
+      "Baki the Grappler"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Keisuke Itagaki"
+    ],
+    "id": 41425,
+    "malId": 11425,
+    "type": "manga",
+    "title": "Grappler Baki",
+    "url": "https://anilist.co/manga/41425",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41425-h4goOXcXI7yY.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:41:18.000Z",
+    "updatedAt": "2021-06-17T13:51:54.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/11425/Grappler_Baki"
 }

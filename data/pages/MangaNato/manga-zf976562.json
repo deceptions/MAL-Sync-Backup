@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 25363,
-  "aniId": null,
+  "aniId": 55363,
   "createdAt": "2021-07-05T07:00:11.000Z",
-  "updatedAt": "2021-07-05T07:00:22.000Z",
+  "updatedAt": "2021-08-20T10:37:08.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,27 @@
     "updatedAt": "2021-07-05T07:00:22.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "純愛ツイッター",
+      "Jun Ai Twitter",
+      "Jun-Ai Twitter"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mio Mamura"
+    ],
+    "id": 55363,
+    "malId": 25363,
+    "type": "manga",
+    "title": "Junai Twitter",
+    "url": "https://anilist.co/manga/55363",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/25363.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-20T10:07:09.000Z",
+    "updatedAt": "2021-08-20T10:07:09.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/25363/Junai_Twitter"
 }

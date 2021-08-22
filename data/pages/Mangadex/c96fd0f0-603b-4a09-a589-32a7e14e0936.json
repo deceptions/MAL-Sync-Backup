@@ -12,13 +12,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 134942,
+  "aniId": 129122,
   "createdAt": "2020-10-12T16:21:41.000Z",
-  "updatedAt": "2021-06-08T02:56:23.000Z",
+  "updatedAt": "2021-08-21T12:16:06.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "俺の『鑑定』スキルがチートすぎて～伝説の勇者を読み“盗り”最強へ～"
+    ],
+    "authors": [
+      "Ryuuga, Shou",
+      "Sumimori, Sai"
+    ],
+    "id": 134942,
+    "type": "manga",
+    "title": "Ore no \"Kantei\" Skill ga Cheat Sugite: Densetsu no Yuusha wo Yomi \"Tori\" Saikyou e",
+    "url": "https://myanimelist.net/manga/134942/Ore_no_Kantei_Skill_ga_Cheat_Sugite__Densetsu_no_Yuusha_wo_Yomi_Tori_Saikyou_e",
+    "image": "https://cdn.myanimelist.net/images/manga/3/242680.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-06-29T08:35:15.000Z",
+    "updatedAt": "2021-08-20T21:17:27.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "俺の『鑑定』スキルがチートすぎて ～伝説の勇者を読み“盗り”最強へ～"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sai Sumimori",
+      "Kisa Touma",
+      "Shou Ryuuga"
+    ],
+    "id": 129122,
+    "malId": 134942,
+    "type": "manga",
+    "title": "Ore no \"Kantei\" Skill ga Cheat Sugite: Densetsu no Yuusha wo Yomi \"Tori\" Saikyou e",
+    "url": "https://anilist.co/manga/129122",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129122-zfJdAbcqNBOc.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-29T08:12:23.000Z",
+    "updatedAt": "2021-06-18T11:35:23.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/134942/Ore_no_Kantei_Skill_ga_Cheat_Sugite__Densetsu_no_Yuusha_wo_Yomi_Tori_Saikyou_e"
 }
