@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 116002,
-  "aniId": null,
+  "aniId": 105926,
   "createdAt": "2020-10-12T16:14:02.000Z",
-  "updatedAt": "2021-06-06T10:29:03.000Z",
+  "updatedAt": "2021-08-24T08:36:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,26 @@
     "updatedAt": "2021-06-06T02:19:59.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "カラスの嫁入り",
+      "Crow's Marriage"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Riko Sakura"
+    ],
+    "id": 105926,
+    "malId": 116002,
+    "type": "manga",
+    "title": "Karasu no Yomeiri",
+    "url": "https://anilist.co/manga/105926",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105926-zsBlha25HAau.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-24T08:06:34.000Z",
+    "updatedAt": "2021-08-24T08:06:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/116002/Karasu_no_Yomeiri"
 }

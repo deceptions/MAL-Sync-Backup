@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:22.000Z",
-  "updatedAt": "2021-04-09T11:50:59.000Z",
+  "updatedAt": "2021-08-23T07:46:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -100,6 +100,28 @@
         "aniId": 46542,
         "createdAt": "2021-04-16T11:44:51.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lm951995": {
+        "authors": [
+          "Tennouji Kitsune"
+        ],
+        "identifier": "manga-lm951995",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Upotte!!",
+        "url": "https://readmanganato.com/manga-lm951995",
+        "image": "https://avt.mkklcdnv6temp.com/23/z/1-1583464640.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16542,
+        "aniId": 46542,
+        "createdAt": "2021-08-23T07:46:06.000Z",
+        "updatedAt": "2021-08-23T08:16:06.000Z",
         "deletedAt": null
       }
     }

@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-09T05:25:21.000Z",
-  "updatedAt": "2021-06-21T15:26:48.000Z",
+  "updatedAt": "2021-08-23T11:38:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-eo981897": {
+        "authors": [
+          "Ke Xiao"
+        ],
+        "identifier": "manga-eo981897",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Cursed Sculpture",
+        "url": "https://manganato.com/manga-eo981897",
+        "image": "https://avt.mkklcdnv6temp.com/31/s/18-1583498314.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 118603,
+        "createdAt": "2021-08-21T07:46:09.000Z",
+        "updatedAt": "2021-08-23T11:38:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

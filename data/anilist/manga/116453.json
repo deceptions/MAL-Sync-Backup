@@ -21,5 +21,28 @@
   "createdAt": "2021-06-17T21:20:50.000Z",
   "updatedAt": "2021-08-07T21:26:51.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "vengeance_of_the_heavenly_demon": {
+        "authors": [
+          "Shi Bu Ci Yuan"
+        ],
+        "identifier": "vengeance_of_the_heavenly_demon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Vengeance of the Heavenly Demon",
+        "url": "https://fanfox.net/manga/vengeance_of_the_heavenly_demon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30818/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 116453,
+        "createdAt": "2021-08-24T07:36:45.000Z",
+        "updatedAt": "2021-08-24T07:36:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Issen",
-    "SHIROI Hakuto"
+    "SHIROI Hakuto",
+    "Issen"
   ],
   "identifier": "408e2919-4c44-4245-8783-57ef612bc8ef",
   "type": "manga",
@@ -12,53 +12,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 102005,
-  "aniId": 108185,
+  "actor": 1,
+  "malId": 113710,
+  "aniId": null,
   "createdAt": "2020-10-12T16:12:03.000Z",
-  "updatedAt": "2021-06-05T12:59:28.000Z",
+  "updatedAt": "2021-08-23T14:50:39.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
-      "Comic-ban BanG Dream!",
-      "コミック版 BanG Dream! バンドリ"
+      "BanG Dream! 4-koma Bandori!",
+      "BanG Dream! よんこま ばんどりっ!"
     ],
     "authors": [
-      "Kashiwabara, Mami"
+      "Shiroi, Hakuto"
     ],
-    "id": 102005,
+    "id": 113710,
     "type": "manga",
-    "title": "BanG Dream!",
-    "url": "https://myanimelist.net/manga/102005/BanG_Dream",
-    "image": "https://cdn.myanimelist.net/images/manga/2/196446.jpg",
+    "title": "BanG Dream! Yonkoma: Bandori!",
+    "url": "https://myanimelist.net/manga/113710/BanG_Dream_Yonkoma__Bandori",
+    "image": "https://cdn.myanimelist.net/images/manga/3/232397.jpg",
     "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:44.000Z",
-    "updatedAt": "2021-05-17T12:55:00.000Z",
+    "createdAt": "2021-08-23T14:37:34.000Z",
+    "updatedAt": "2021-08-23T14:37:34.000Z",
     "deletedAt": null
   },
-  "Anilist": {
-    "altTitle": [
-      "BanG Dream!",
-      "BanG Dream! バンドリ"
-    ],
-    "externalLinks": [],
-    "authors": [
-      "Kou Nakamura",
-      "Mami Kashiwabara",
-      "Bushiroad "
-    ],
-    "id": 108185,
-    "malId": 102005,
-    "type": "manga",
-    "title": "BanG Dream!",
-    "url": "https://anilist.co/manga/108185",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108185-jfOZsSQ3L4mf.jpg",
-    "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:54:54.000Z",
-    "updatedAt": "2021-06-18T05:37:22.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/manga/102005/BanG_Dream"
+  "Anilist": null,
+  "malUrl": "https://myanimelist.net/manga/113710/BanG_Dream_Yonkoma__Bandori"
 }

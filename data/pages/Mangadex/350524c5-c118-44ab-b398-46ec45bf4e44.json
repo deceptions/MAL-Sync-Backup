@@ -11,13 +11,31 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 1,
+  "malId": 138907,
   "aniId": 124227,
   "createdAt": "2021-02-12T20:35:44.000Z",
-  "updatedAt": "2021-06-08T11:25:22.000Z",
+  "updatedAt": "2021-08-23T11:12:07.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "altTitle": [
+      "Rin-chan Wants to Flirt",
+      "りんちゃんは据え膳したい"
+    ],
+    "authors": [
+      "Sumida, Yuuki"
+    ],
+    "id": 138907,
+    "type": "manga",
+    "title": "Rin-chan wa Suezen Shitai",
+    "url": "https://myanimelist.net/manga/138907/Rin-chan_wa_Suezen_Shitai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/248391.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-07-29T19:22:11.000Z",
+    "updatedAt": "2021-07-29T19:22:11.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "りんちゃんは据え膳したい",
@@ -39,5 +57,5 @@
     "updatedAt": "2021-07-24T06:51:34.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/138907/Rin-chan_wa_Suezen_Shitai"
 }

@@ -49,6 +49,28 @@
         "updatedAt": "2021-06-05T17:06:54.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "louvre_no_neko": {
+        "authors": [
+          "MATSUMOTO Taiyou"
+        ],
+        "identifier": "louvre_no_neko",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Louvre no Neko",
+        "url": "https://fanfox.net/manga/louvre_no_neko/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32236/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99622,
+        "aniId": 101320,
+        "createdAt": "2021-08-22T06:16:21.000Z",
+        "updatedAt": "2021-08-22T06:46:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

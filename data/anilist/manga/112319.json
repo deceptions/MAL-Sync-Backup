@@ -19,5 +19,28 @@
   "createdAt": "2021-05-31T10:30:42.000Z",
   "updatedAt": "2021-07-27T12:23:11.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "the_top_clan_leader_in_history": {
+        "authors": [
+          "Chao Ji Nei Rong"
+        ],
+        "identifier": "the_top_clan_leader_in_history",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Top Clan Leader In History",
+        "url": "https://fanfox.net/manga/the_top_clan_leader_in_history/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33022/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 112319,
+        "createdAt": "2021-08-23T05:16:07.000Z",
+        "updatedAt": "2021-08-23T05:16:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

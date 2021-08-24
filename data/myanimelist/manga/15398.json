@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:11.000Z",
-  "updatedAt": "2021-05-02T02:32:23.000Z",
+  "updatedAt": "2021-08-23T07:46:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 45398,
         "createdAt": "2020-10-12T16:02:31.000Z",
         "updatedAt": "2021-06-02T07:22:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nh964816": {
+        "authors": [
+          "Momoshiro"
+        ],
+        "identifier": "manga-nh964816",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "S Kareshi Joujou",
+        "url": "https://manganato.com/manga-nh964816",
+        "image": "https://avt.mkklcdnv6temp.com/41/i/9-1583481806.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15398,
+        "aniId": 45398,
+        "createdAt": "2021-08-23T07:46:17.000Z",
+        "updatedAt": "2021-08-23T08:16:06.000Z",
         "deletedAt": null
       }
     }

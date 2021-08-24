@@ -63,6 +63,28 @@
         "updatedAt": "2021-06-01T16:01:16.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hwaja": {
+        "authors": [
+          "Hong Jac-Ga"
+        ],
+        "identifier": "hwaja",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hwaja",
+        "url": "https://fanfox.net/manga/hwaja/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15552/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41805,
+        "aniId": 71805,
+        "createdAt": "2021-08-22T04:46:09.000Z",
+        "updatedAt": "2021-08-22T05:16:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

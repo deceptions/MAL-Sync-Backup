@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 130583,
   "createdAt": "2021-02-18T16:42:59.000Z",
-  "updatedAt": "2021-07-15T22:33:03.000Z",
+  "updatedAt": "2021-08-23T11:38:58.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "アサシンの休日",
+      "The Assassin's Holiday"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Minami Uota"
+    ],
+    "id": 130583,
+    "malId": null,
+    "type": "manga",
+    "title": "Assassin no Kyuujitsu",
+    "url": "https://anilist.co/manga/130583",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130583-hrUGBHsnikYA.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-14T05:08:19.000Z",
+    "updatedAt": "2021-08-23T11:37:14.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

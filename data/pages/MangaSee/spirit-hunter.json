@@ -11,14 +11,35 @@
   "image": "https://cover.nep.li/cover/Spirit-Hunter.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
+  "active": true,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 131135,
   "createdAt": "2021-08-21T22:16:41.000Z",
-  "updatedAt": "2021-08-21T22:16:41.000Z",
+  "updatedAt": "2021-08-22T11:31:44.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "뫼신 사냥꾼",
+      "Moshin Hunter"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Seun-Hyeon Bang",
+      "Hyeon-Seung Yun"
+    ],
+    "id": 131135,
+    "malId": null,
+    "type": "manga",
+    "title": "Moesin Sanyangkkun",
+    "url": "https://anilist.co/manga/131135",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131135-dmS3h1bo6ny0.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-02T04:31:16.000Z",
+    "updatedAt": "2021-08-07T21:18:31.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

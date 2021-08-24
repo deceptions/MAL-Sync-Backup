@@ -20,5 +20,28 @@
   "createdAt": "2021-07-27T07:21:35.000Z",
   "updatedAt": "2021-07-27T07:21:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-va953483": {
+        "authors": [
+          "Yamaguchi Mikoto"
+        ],
+        "identifier": "manga-va953483",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gakuen Dragon Slayer",
+        "url": "https://manganato.com/manga-va953483",
+        "image": "https://avt.mkklcdnv6temp.com/24/v/2-1583466663.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 107036,
+        "createdAt": "2021-08-24T07:36:45.000Z",
+        "updatedAt": "2021-08-24T07:36:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

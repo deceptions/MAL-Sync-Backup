@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:51.000Z",
-  "updatedAt": "2021-04-28T05:20:41.000Z",
+  "updatedAt": "2021-08-23T04:16:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 33522,
         "createdAt": "2020-10-12T16:05:59.000Z",
         "updatedAt": "2021-06-03T16:23:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kieli": {
+        "authors": [
+          "KABEI Yukako"
+        ],
+        "identifier": "kieli",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kieli",
+        "url": "https://fanfox.net/manga/kieli/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6988/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3522,
+        "aniId": 33522,
+        "createdAt": "2021-08-23T04:16:09.000Z",
+        "updatedAt": "2021-08-23T04:46:06.000Z",
         "deletedAt": null
       }
     }

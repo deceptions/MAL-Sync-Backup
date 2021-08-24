@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:27.000Z",
-  "updatedAt": "2021-05-21T12:43:38.000Z",
+  "updatedAt": "2021-08-23T22:36:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 101207,
         "createdAt": "2020-10-12T16:19:49.000Z",
         "updatedAt": "2021-06-07T22:53:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hj984918": {
+        "authors": [
+          "Sakai Mayu"
+        ],
+        "identifier": "manga-hj984918",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gunjou Reflection",
+        "url": "https://manganato.com/manga-hj984918",
+        "image": "https://avt.mkklcdnv6temp.com/44/k/20-1584162296.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112686,
+        "aniId": 101207,
+        "createdAt": "2021-08-23T22:36:33.000Z",
+        "updatedAt": "2021-08-23T23:06:33.000Z",
         "deletedAt": null
       }
     }

@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 138222,
   "createdAt": "2021-08-20T17:46:34.000Z",
-  "updatedAt": "2021-08-20T17:46:34.000Z",
+  "updatedAt": "2021-08-24T09:49:26.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "신과 함께 레벨업",
+      "Leveling With The Gods"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "O-Hyeon",
+      "Black Ajin "
+    ],
+    "id": 138222,
+    "malId": null,
+    "type": "manga",
+    "title": "Singwa Hamkke Level Up",
+    "url": "https://anilist.co/manga/138222",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138222-PyVZk5MOWP07.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-23T00:16:17.000Z",
+    "updatedAt": "2021-08-23T00:46:17.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

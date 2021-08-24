@@ -64,6 +64,28 @@
         "updatedAt": "2021-08-16T15:37:00.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "vampire_game": {
+        "authors": [
+          "Judal"
+        ],
+        "identifier": "vampire_game",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Vampire Game",
+        "url": "https://fanfox.net/manga/vampire_game/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1068/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 562,
+        "aniId": 30562,
+        "createdAt": "2021-08-22T18:47:01.000Z",
+        "updatedAt": "2021-08-22T19:16:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -20,7 +20,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-23T08:12:58.000Z",
-  "updatedAt": "2021-06-21T16:21:31.000Z",
+  "updatedAt": "2021-08-23T11:39:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,28 @@
         "aniId": 123489,
         "createdAt": "2020-10-12T16:18:14.000Z",
         "updatedAt": "2021-06-07T16:34:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gu984355": {
+        "authors": [
+          "Gi Meng-Gi"
+        ],
+        "identifier": "manga-gu984355",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "No Longer A Heroine!",
+        "url": "https://readmanganato.com/manga-gu984355",
+        "image": "https://avt.mkklcdnv6temp.com/23/a/20-1583501909.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123489,
+        "createdAt": "2021-06-14T09:58:46.000Z",
+        "updatedAt": "2021-08-23T11:40:09.000Z",
         "deletedAt": null
       }
     }

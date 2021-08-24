@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-14T05:08:19.000Z",
-  "updatedAt": "2021-06-21T17:26:12.000Z",
+  "updatedAt": "2021-08-23T11:37:14.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "6cae4162-3f71-4924-b279-76e44007096c": {
+        "authors": [
+          "Uota Minami"
+        ],
+        "identifier": "6cae4162-3f71-4924-b279-76e44007096c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Assassin no Kyuujitsu",
+        "url": "https://mangadex.org/title/6cae4162-3f71-4924-b279-76e44007096c",
+        "image": "https://uploads.mangadex.org/covers/6cae4162-3f71-4924-b279-76e44007096c/01d58103-eba9-4d15-99df-b38abc62b89d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 130583,
+        "createdAt": "2021-02-18T16:42:59.000Z",
+        "updatedAt": "2021-08-23T11:38:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:20.000Z",
-  "updatedAt": "2021-05-29T18:13:54.000Z",
+  "updatedAt": "2021-08-23T00:47:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 105831,
         "createdAt": "2020-10-12T16:17:57.000Z",
         "updatedAt": "2021-06-07T12:25:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hazureta_minna_no_atama_no_neji": {
+        "authors": [
+          "Yohsuken"
+        ],
+        "identifier": "hazureta_minna_no_atama_no_neji",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hazureta Minna no Atama no Neji",
+        "url": "https://fanfox.net/manga/hazureta_minna_no_atama_no_neji/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32309/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110918,
+        "aniId": 105831,
+        "createdAt": "2021-08-23T00:47:18.000Z",
+        "updatedAt": "2021-08-23T01:16:06.000Z",
         "deletedAt": null
       }
     }

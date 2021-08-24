@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 137280,
   "createdAt": "2021-08-09T12:40:31.000Z",
-  "updatedAt": "2021-08-09T12:40:33.000Z",
+  "updatedAt": "2021-08-23T11:11:52.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "나 혼자 만렙 뉴비",
+      "Solo Max-Level Newbie",
+      "I Am The Top Ranker Newbie"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "WAN.Z",
+      "Seuwingbaet",
+      "Meseullou"
+    ],
+    "id": 137280,
+    "malId": null,
+    "type": "manga",
+    "title": "Na Honja Mallep Newbie",
+    "url": "https://anilist.co/manga/137280",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137280-gfI8YFNnPw0O.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-31T14:52:00.000Z",
+    "updatedAt": "2021-08-08T11:09:16.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

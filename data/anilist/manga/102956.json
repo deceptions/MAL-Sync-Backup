@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-05T13:53:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "heroines_game": {
+        "authors": [
+          "IORI Tabasa"
+        ],
+        "identifier": "heroines_game",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Heroines Game",
+        "url": "https://fanfox.net/manga/heroines_game/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35617/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109775,
+        "aniId": 102956,
+        "createdAt": "2021-08-22T06:16:09.000Z",
+        "updatedAt": "2021-08-22T06:46:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

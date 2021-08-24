@@ -11,13 +11,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 123489,
   "createdAt": "2021-06-14T09:58:46.000Z",
-  "updatedAt": "2021-06-14T09:58:46.000Z",
+  "updatedAt": "2021-08-23T11:40:09.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "No Longer A Heroine!",
+      "여주실격!",
+      "女主失格！",
+      "L'héroïne disqualifiée !",
+      "HER SECRET!",
+      "여주실격!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Maenggi Ki"
+    ],
+    "id": 123489,
+    "malId": null,
+    "type": "manga",
+    "title": "Yeojusilgyeog!",
+    "url": "https://anilist.co/manga/123489",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123489-IrKY8xsD3ylx.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-23T08:12:58.000Z",
+    "updatedAt": "2021-08-23T11:39:48.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

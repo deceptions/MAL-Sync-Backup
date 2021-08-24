@@ -18,5 +18,28 @@
   "createdAt": "2021-06-02T12:00:51.000Z",
   "updatedAt": "2021-06-18T08:36:32.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ht985276": {
+        "authors": [
+          "Mikumo George"
+        ],
+        "identifier": "manga-ht985276",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Purely, Honestly, Immorally Love",
+        "url": "https://manganato.com/manga-ht985276",
+        "image": "https://avt.mkklcdnv6temp.com/9/a/21-1588701196.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132928,
+        "aniId": 117655,
+        "createdAt": "2021-08-22T03:46:07.000Z",
+        "updatedAt": "2021-08-22T04:16:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

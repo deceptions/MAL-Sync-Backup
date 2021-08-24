@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-03T20:20:52.000Z",
-  "updatedAt": "2021-07-03T20:34:17.000Z",
+  "updatedAt": "2021-08-22T18:47:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 124510,
         "createdAt": "2020-10-12T16:21:48.000Z",
         "updatedAt": "2021-06-08T03:04:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ja987283": {
+        "authors": [
+          "Ato Rie"
+        ],
+        "identifier": "manga-ja987283",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Usotsuki Android",
+        "url": "https://manganato.com/manga-ja987283",
+        "image": "https://avt.mkklcdnv6temp.com/41/j/22-1606534997.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132327,
+        "aniId": 124510,
+        "createdAt": "2021-08-22T18:47:11.000Z",
+        "updatedAt": "2021-08-22T19:16:06.000Z",
         "deletedAt": null
       }
     }

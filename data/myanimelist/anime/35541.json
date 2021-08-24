@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:54.000Z",
-  "updatedAt": "2021-05-01T04:02:02.000Z",
+  "updatedAt": "2021-08-23T08:46:26.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -47,6 +47,25 @@
         "aniId": 109870,
         "createdAt": "2020-10-12T15:52:34.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "turning-mecard": {
+        "identifier": "turning-mecard",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Turning Mecard",
+        "url": "https://gogoanime.pe/category/turning-mecard",
+        "image": "https://gogocdn.net/cover/turning-mecard.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35541,
+        "aniId": 109870,
+        "createdAt": "2021-08-23T08:46:22.000Z",
+        "updatedAt": "2021-08-23T09:16:06.000Z",
         "deletedAt": null
       }
     }

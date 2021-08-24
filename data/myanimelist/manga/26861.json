@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:27.000Z",
-  "updatedAt": "2021-05-26T16:39:05.000Z",
+  "updatedAt": "2021-08-24T08:08:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 56861,
         "createdAt": "2021-03-26T13:19:25.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "seven-sisters": {
+        "authors": [
+          "FUJIOKA Toki"
+        ],
+        "identifier": "seven-sisters",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Seven Sisters!",
+        "url": "https://mangasee123.com/manga/Seven-Sisters",
+        "image": "https://cover.nep.li/cover/Seven-Sisters.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26861,
+        "aniId": 56861,
+        "createdAt": "2021-08-24T08:07:21.000Z",
+        "updatedAt": "2021-08-24T08:36:33.000Z",
         "deletedAt": null
       }
     }

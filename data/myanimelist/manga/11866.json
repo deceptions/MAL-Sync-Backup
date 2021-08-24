@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:42.000Z",
-  "updatedAt": "2021-07-09T18:44:21.000Z",
+  "updatedAt": "2021-08-24T09:06:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 41866,
         "createdAt": "2021-07-09T18:44:11.000Z",
         "updatedAt": "2021-07-09T19:13:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wg951841": {
+        "authors": [
+          "Nakamura Ching"
+        ],
+        "identifier": "manga-wg951841",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gunjou",
+        "url": "https://manganato.com/manga-wg951841",
+        "image": "https://avt.mkklcdnv6temp.com/18/i/1-1583464409.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11866,
+        "aniId": 41866,
+        "createdAt": "2021-08-24T09:06:33.000Z",
+        "updatedAt": "2021-08-24T09:36:33.000Z",
         "deletedAt": null
       }
     }

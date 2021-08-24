@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:42.000Z",
-  "updatedAt": "2021-05-17T07:55:18.000Z",
+  "updatedAt": "2021-08-22T01:48:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 97817,
         "createdAt": "2020-10-12T16:19:11.000Z",
         "updatedAt": "2021-06-07T21:29:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vb972758": {
+        "authors": [
+          "Michinoku Atami"
+        ],
+        "identifier": "manga-vb972758",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Otoshiana Ni Hamerarete",
+        "url": "https://manganato.com/manga-vb972758",
+        "image": "https://avt.mkklcdnv6temp.com/20/f/14-1583490468.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101182,
+        "aniId": 97817,
+        "createdAt": "2021-08-22T01:48:06.000Z",
+        "updatedAt": "2021-08-22T02:16:06.000Z",
         "deletedAt": null
       }
     }

@@ -85,6 +85,28 @@
         "updatedAt": "2021-05-22T03:42:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "apollo_s_song": {
+        "authors": [
+          "TEZUKA Osamu"
+        ],
+        "identifier": "apollo_s_song",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Apollo's Song",
+        "url": "https://fanfox.net/manga/apollo_s_song/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14455/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1410,
+        "aniId": 31410,
+        "createdAt": "2021-08-22T23:17:07.000Z",
+        "updatedAt": "2021-08-22T23:46:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

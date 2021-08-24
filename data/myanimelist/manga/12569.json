@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:46.000Z",
-  "updatedAt": "2021-05-01T11:35:02.000Z",
+  "updatedAt": "2021-08-23T04:46:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 42569,
         "createdAt": "2020-10-12T16:07:32.000Z",
         "updatedAt": "2021-06-04T03:36:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "not_simple": {
+        "authors": [
+          "ONO Natsume"
+        ],
+        "identifier": "not_simple",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Not Simple",
+        "url": "https://fanfox.net/manga/not_simple/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36970/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12569,
+        "aniId": 42569,
+        "createdAt": "2021-08-23T04:46:17.000Z",
+        "updatedAt": "2021-08-23T05:16:06.000Z",
         "deletedAt": null
       }
     }

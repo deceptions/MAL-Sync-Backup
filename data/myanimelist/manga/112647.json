@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:27.000Z",
-  "updatedAt": "2021-07-09T12:13:19.000Z",
+  "updatedAt": "2021-08-23T04:16:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 100000,
         "createdAt": "2021-07-09T12:13:16.000Z",
         "updatedAt": "2021-07-09T12:43:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "koukishin_wa_joshikousei_wo_korosu": {
+        "authors": [
+          "TAKAHASHI Seiichi"
+        ],
+        "identifier": "koukishin_wa_joshikousei_wo_korosu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koukishin wa Joshikousei wo Korosu",
+        "url": "https://fanfox.net/manga/koukishin_wa_joshikousei_wo_korosu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26837/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112647,
+        "aniId": 100000,
+        "createdAt": "2021-08-23T04:16:18.000Z",
+        "updatedAt": "2021-08-23T04:46:06.000Z",
         "deletedAt": null
       }
     }

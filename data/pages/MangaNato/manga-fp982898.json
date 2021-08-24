@@ -13,13 +13,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 107053,
   "createdAt": "2021-05-29T07:42:23.000Z",
-  "updatedAt": "2021-08-10T10:39:30.000Z",
+  "updatedAt": "2021-08-23T11:40:12.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "My Mobster Girlfriend",
+      "我的反派女友",
+      "My Villain Girlfriend",
+      "My Girlfriend is a Villain"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Xingkong She",
+      "Dian Chi Qi Hao",
+      "Bei Xiao"
+    ],
+    "id": 107053,
+    "malId": null,
+    "type": "manga",
+    "title": "Wo De Fanpai Nüyou",
+    "url": "https://anilist.co/manga/107053",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n107053-7W9GEVbqT93f.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-23T00:13:08.000Z",
+    "updatedAt": "2021-08-23T11:39:57.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

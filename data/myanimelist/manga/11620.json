@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:34.000Z",
-  "updatedAt": "2021-05-13T05:25:47.000Z",
+  "updatedAt": "2021-08-22T05:46:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -103,6 +103,28 @@
         "aniId": 41620,
         "createdAt": "2021-05-13T05:25:48.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lq962999": {
+        "authors": [
+          "Wachi Masaki"
+        ],
+        "identifier": "manga-lq962999",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mondlicht - Tsuki No Tsubasa",
+        "url": "https://manganato.com/manga-lq962999",
+        "image": "https://avt.mkklcdnv6temp.com/35/j/8-1583479523.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11620,
+        "aniId": 41620,
+        "createdAt": "2021-08-22T05:46:07.000Z",
+        "updatedAt": "2021-08-22T06:16:06.000Z",
         "deletedAt": null
       }
     }

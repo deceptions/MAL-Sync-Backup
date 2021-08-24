@@ -11,13 +11,40 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 118424,
   "createdAt": "2021-01-09T02:50:52.000Z",
-  "updatedAt": "2021-08-05T19:50:47.000Z",
+  "updatedAt": "2021-08-23T11:38:55.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Archmage Returns After 4000 years",
+      "4000년 만에 귀환한 대마도사",
+      "The Great Mage Returns After 4000 Years",
+      "Sang Penyihir Agung Kembali Setelah 4000 Tahun",
+      "Архимаг, который вернулся спустя 4 тысячи лет",
+      "بازگشت ساحر اعظم پس از ۴ هزار سال",
+      " جادوگر بزرگ پس از ۴۰۰۰ سال برمی‌گردد"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Nakhasan",
+      "Deok-Yong Kim",
+      "Barnicle"
+    ],
+    "id": 118424,
+    "malId": null,
+    "type": "manga",
+    "title": "4000 Nyeon Mane Gwihwanhan Daemadosa",
+    "url": "https://anilist.co/manga/118424",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118424-JbTApgnIP1ON.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T12:13:17.000Z",
+    "updatedAt": "2021-08-23T11:37:45.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

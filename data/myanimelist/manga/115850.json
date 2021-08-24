@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:39.000Z",
-  "updatedAt": "2021-05-22T16:12:58.000Z",
+  "updatedAt": "2021-08-24T11:02:12.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 104988,
         "createdAt": "2020-10-12T16:14:03.000Z",
         "updatedAt": "2021-06-06T02:05:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "scarlet-yuino-chiri": {
+        "authors": [
+          "YUINO Chiri"
+        ],
+        "identifier": "scarlet-yuino-chiri",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Scarlet (YUINO Chiri)",
+        "url": "https://mangasee123.com/manga/Scarlet-YUINO-Chiri",
+        "image": "https://cover.nep.li/cover/Scarlet-YUINO-Chiri.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 115850,
+        "aniId": 104988,
+        "createdAt": "2021-04-15T11:44:17.000Z",
+        "updatedAt": "2021-08-24T11:02:23.000Z",
         "deletedAt": null
       }
     }

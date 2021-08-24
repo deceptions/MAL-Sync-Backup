@@ -12,13 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 125229,
   "createdAt": "2021-05-29T07:43:55.000Z",
-  "updatedAt": "2021-08-06T13:21:08.000Z",
+  "updatedAt": "2021-08-22T17:33:37.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Nuna at Our Office",
+      "오피스 누나 이야기",
+      "The Story About My Office Noona",
+      "My Office Noona's Story"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Wasakbasak",
+      "Jane Kim"
+    ],
+    "id": 125229,
+    "malId": null,
+    "type": "manga",
+    "title": "Opiseu Nuna Iyagi",
+    "url": "https://anilist.co/manga/125229",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b125229-qzYD6ASYpXpY.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-23T13:13:17.000Z",
+    "updatedAt": "2021-08-18T19:07:12.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

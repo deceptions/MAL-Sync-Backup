@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-02T18:15:23.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "witches": {
+        "authors": [
+          "IGARASHI Daisuke"
+        ],
+        "identifier": "witches",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Witches",
+        "url": "https://fanfox.net/manga/witches/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2738/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2139,
+        "aniId": 32139,
+        "createdAt": "2021-08-23T06:16:07.000Z",
+        "updatedAt": "2021-08-23T06:46:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 128221,
   "createdAt": "2021-05-29T16:12:54.000Z",
-  "updatedAt": "2021-08-02T16:19:50.000Z",
+  "updatedAt": "2021-08-22T17:33:34.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "I Got Pregnant with the Tyrant's Child",
+      "폭군의 아이를 가졌습니다",
+      "I Gave Birth to the Tyrant's Child"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "SF_JD",
+      "Ryuran"
+    ],
+    "id": 128221,
+    "malId": null,
+    "type": "manga",
+    "title": "Pokgunui Aireul Gajyeotseumnida",
+    "url": "https://anilist.co/manga/128221",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b128221-03CXWsR59Dra.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-29T16:12:54.000Z",
+    "updatedAt": "2021-08-07T21:23:41.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

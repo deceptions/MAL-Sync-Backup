@@ -14,9 +14,9 @@
   "active": true,
   "actor": 2,
   "malId": 109157,
-  "aniId": null,
+  "aniId": 101447,
   "createdAt": "2020-10-12T16:09:03.000Z",
-  "updatedAt": "2021-06-04T15:24:16.000Z",
+  "updatedAt": "2021-08-22T09:46:06.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,26 @@
     "updatedAt": "2021-06-04T15:19:27.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "もっと話をしたいのだけど。"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hashi Nanase",
+      "Rino Kawamura"
+    ],
+    "id": 101447,
+    "malId": 109157,
+    "type": "manga",
+    "title": "Motto Hanashi wo Shitai no Dakedo.",
+    "url": "https://anilist.co/manga/101447",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx101447-sCt2KOGj5NAA.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-22T09:16:17.000Z",
+    "updatedAt": "2021-08-22T09:16:17.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/109157/Motto_Hanashi_wo_Shitai_no_dakedo"
 }

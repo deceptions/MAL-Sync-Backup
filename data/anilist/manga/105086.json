@@ -84,6 +84,28 @@
         "updatedAt": "2021-07-19T18:18:31.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "libidors": {
+        "authors": [
+          "Masaki Kasahara"
+        ],
+        "identifier": "libidors",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Libidors",
+        "url": "https://fanfox.net/manga/libidors/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30591/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118324,
+        "aniId": 105086,
+        "createdAt": "2021-08-23T19:06:48.000Z",
+        "updatedAt": "2021-08-23T19:36:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -19,5 +19,28 @@
   "createdAt": "2021-05-30T20:12:13.000Z",
   "updatedAt": "2021-06-18T08:28:02.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "inu_to_neko_docchi_mo_katteru_to_mainichi_tanoshii": {
+        "authors": [
+          "MATSUMOTO Hidekichi"
+        ],
+        "identifier": "inu_to_neko_docchi_mo_katteru_to_mainichi_tanoshii",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Inu to Neko docchi mo Katteru to Mainichi tanoshii",
+        "url": "https://fanfox.net/manga/inu_to_neko_docchi_mo_katteru_to_mainichi_tanoshii/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35563/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113465,
+        "aniId": 116701,
+        "createdAt": "2021-08-23T19:36:44.000Z",
+        "updatedAt": "2021-08-23T20:06:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

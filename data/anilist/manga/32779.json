@@ -82,6 +82,28 @@
         "updatedAt": "2021-05-31T10:00:42.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "brother_x_brother": {
+        "authors": [
+          "KISARAGI Hirotaka"
+        ],
+        "identifier": "brother_x_brother",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Brother X Brother",
+        "url": "https://fanfox.net/manga/brother_x_brother/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2146/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2779,
+        "aniId": 32779,
+        "createdAt": "2021-08-23T05:17:29.000Z",
+        "updatedAt": "2021-08-23T05:46:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }
