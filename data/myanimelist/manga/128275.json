@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-28T14:44:07.000Z",
-  "updatedAt": "2021-07-14T02:21:50.000Z",
+  "updatedAt": "2021-08-26T03:08:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,29 @@
         "aniId": 107238,
         "createdAt": "2021-07-14T02:20:59.000Z",
         "updatedAt": "2021-07-14T02:50:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "bestia-sanda-makoto": {
+        "authors": [
+          "ARISAKA Ako",
+          "SANDA Makoto"
+        ],
+        "identifier": "bestia-sanda-makoto",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bestia (SANDA Makoto)",
+        "url": "https://mangasee123.com/manga/Bestia-SANDA-Makoto",
+        "image": "https://cover.nep.li/cover/Bestia-SANDA-Makoto.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128275,
+        "aniId": 107238,
+        "createdAt": "2021-08-26T03:08:03.000Z",
+        "updatedAt": "2021-08-26T03:36:33.000Z",
         "deletedAt": null
       }
     }

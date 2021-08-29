@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-05T05:41:50.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "oni_futatsu": {
+        "authors": [
+          "FUJIMATSU Mei"
+        ],
+        "identifier": "oni_futatsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Oni futatsu",
+        "url": "https://fanfox.net/manga/oni_futatsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26749/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105915,
+        "aniId": 100503,
+        "createdAt": "2021-08-24T16:08:22.000Z",
+        "updatedAt": "2021-08-24T16:36:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

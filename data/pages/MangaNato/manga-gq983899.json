@@ -11,13 +11,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 123438,
+  "aniId": 115411,
   "createdAt": "2021-06-18T07:50:49.000Z",
-  "updatedAt": "2021-06-18T07:50:49.000Z",
+  "updatedAt": "2021-08-26T09:06:33.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Wicked Trapper: Hunter of Heroes",
+      "禍つ罠師の勇者狩り"
+    ],
+    "authors": [
+      "Wadapen."
+    ],
+    "id": 123438,
+    "type": "manga",
+    "title": "Magatsu Wanashi no Yuushagari",
+    "url": "https://myanimelist.net/manga/123438/Magatsu_Wanashi_no_Yuushagari",
+    "image": "https://cdn.myanimelist.net/images/manga/3/231000.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:48:11.000Z",
+    "updatedAt": "2021-08-25T22:07:28.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "禍つ罠師の勇者狩り",
+      "Magatsu Wanashi no Yuushagari",
+      "Wazawaitsu Wanashi no Yuusha kari",
+      "Wicked Trapper: Hunter of Heroes"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "wadapen."
+    ],
+    "id": 115411,
+    "malId": 123438,
+    "type": "manga",
+    "title": "Magatsu Wanashi no Yuusha kari",
+    "url": "https://anilist.co/manga/115411",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115411-meLeqwegB2Wl.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:00.000Z",
+    "updatedAt": "2021-06-18T08:02:01.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/123438/Magatsu_Wanashi_no_Yuushagari"
 }

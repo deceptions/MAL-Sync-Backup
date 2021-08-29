@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:39.000Z",
-  "updatedAt": "2021-05-01T21:03:31.000Z",
+  "updatedAt": "2021-08-25T12:37:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 106056,
         "createdAt": "2021-05-01T21:03:31.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jx986780": {
+        "authors": [
+          "Sayo Ichi"
+        ],
+        "identifier": "manga-jx986780",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Monster And Parent",
+        "url": "https://manganato.com/manga-jx986780",
+        "image": "https://avt.mkklcdnv6temp.com/20/p/22-1601270237.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 115728,
+        "aniId": 106056,
+        "createdAt": "2021-08-25T12:36:58.000Z",
+        "updatedAt": "2021-08-26T09:06:33.000Z",
         "deletedAt": null
       }
     }

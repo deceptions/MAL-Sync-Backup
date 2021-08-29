@@ -4,7 +4,9 @@
     "Pink Sabbath",
     "桃色サバス"
   ],
-  "authors": [],
+  "authors": [
+    "Nakatsu, Kenji"
+  ],
   "id": 4562,
   "type": "manga",
   "title": "Momoiro Sabbath",
@@ -13,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:00.000Z",
-  "updatedAt": "2021-04-28T20:20:20.000Z",
+  "updatedAt": "2021-08-26T16:39:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +37,28 @@
         "aniId": 34562,
         "createdAt": "2020-10-12T16:04:43.000Z",
         "updatedAt": "2021-06-02T22:53:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ki961491": {
+        "authors": [
+          "Nakatsu Kenji"
+        ],
+        "identifier": "manga-ki961491",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Momoiro Sabbath",
+        "url": "https://manganato.com/manga-ki961491",
+        "image": "https://avt.mkklcdnv6temp.com/40/a/7-1583477789.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4562,
+        "aniId": 34562,
+        "createdAt": "2021-08-26T16:39:06.000Z",
+        "updatedAt": "2021-08-26T17:06:33.000Z",
         "deletedAt": null
       }
     }

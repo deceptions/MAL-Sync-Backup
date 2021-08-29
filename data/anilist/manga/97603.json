@@ -84,6 +84,28 @@
         "updatedAt": "2021-05-29T20:42:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kakushigoto": {
+        "authors": [
+          "KUMETA Kouji"
+        ],
+        "identifier": "kakushigoto",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kakushigoto",
+        "url": "https://fanfox.net/manga/kakushigoto/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18499/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94169,
+        "aniId": 97603,
+        "createdAt": "2021-08-28T05:06:49.000Z",
+        "updatedAt": "2021-08-28T05:36:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

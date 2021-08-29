@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:28.000Z",
-  "updatedAt": "2021-05-31T13:24:27.000Z",
+  "updatedAt": "2021-08-27T15:36:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 30958,
         "createdAt": "2020-10-12T16:04:42.000Z",
         "updatedAt": "2021-06-02T22:47:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ra969083": {
+        "authors": [
+          "Otsuichi"
+        ],
+        "identifier": "manga-ra969083",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Goth",
+        "url": "https://readmanganato.com/manga-ra969083",
+        "image": "https://avt.mkklcdnv6temp.com/35/q/12-1583487162.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 958,
+        "aniId": 30958,
+        "createdAt": "2021-08-27T15:36:43.000Z",
+        "updatedAt": "2021-08-27T16:06:33.000Z",
         "deletedAt": null
       }
     }

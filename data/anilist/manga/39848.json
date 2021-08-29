@@ -45,6 +45,28 @@
         "updatedAt": "2021-06-02T09:24:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "guardian_hearts": {
+        "authors": [
+          "AMATSU Sae"
+        ],
+        "identifier": "guardian_hearts",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Guardian Hearts",
+        "url": "https://fanfox.net/manga/guardian_hearts/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8590/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9848,
+        "aniId": 39848,
+        "createdAt": "2021-08-27T12:36:33.000Z",
+        "updatedAt": "2021-08-27T13:06:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

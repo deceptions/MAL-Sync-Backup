@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 109945,
-  "aniId": null,
+  "aniId": 123659,
   "createdAt": "2020-10-12T16:10:55.000Z",
-  "updatedAt": "2021-06-05T09:07:46.000Z",
+  "updatedAt": "2021-08-25T23:06:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -35,6 +35,27 @@
     "updatedAt": "2021-06-05T04:50:40.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Sweet Sweet Revenge",
+      "Sweet Sweet リベンジ",
+      "Ｓｗｅｅｔ　Ｓｗｅｅｔ　リベンジ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shushushu Sakurai"
+    ],
+    "id": 123659,
+    "malId": 109945,
+    "type": "manga",
+    "title": "Sweet Sweet Revenge",
+    "url": "https://anilist.co/manga/123659",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123659-jbdfotFMI9qP.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-25T22:36:34.000Z",
+    "updatedAt": "2021-08-25T22:36:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/109945/Sweet_Sweet_Revenge"
 }

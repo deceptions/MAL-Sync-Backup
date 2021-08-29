@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:12.000Z",
-  "updatedAt": "2021-07-08T22:14:19.000Z",
+  "updatedAt": "2021-08-26T10:37:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -79,6 +79,28 @@
         "aniId": 100029,
         "createdAt": "2021-07-08T22:13:18.000Z",
         "updatedAt": "2021-07-08T22:43:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "otohime_diver": {
+        "authors": [
+          "ENDOU Okito"
+        ],
+        "identifier": "otohime_diver",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Otohime Diver",
+        "url": "https://fanfox.net/manga/otohime_diver/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27175/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109236,
+        "aniId": 100029,
+        "createdAt": "2021-08-26T10:36:39.000Z",
+        "updatedAt": "2021-08-26T11:06:33.000Z",
         "deletedAt": null
       }
     }

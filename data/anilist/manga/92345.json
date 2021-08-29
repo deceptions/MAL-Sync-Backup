@@ -17,5 +17,29 @@
   "createdAt": "2021-05-20T14:51:49.000Z",
   "updatedAt": "2021-06-18T00:03:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-cc980337": {
+        "authors": [
+          "Magica Quartet",
+          "Arata Mai"
+        ],
+        "identifier": "manga-cc980337",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tomoe Mami's Mundane Everyday Life",
+        "url": "https://manganato.com/manga-cc980337",
+        "image": "https://avt.mkklcdnv6temp.com/24/w/17-1583496149.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 76319,
+        "aniId": 92345,
+        "createdAt": "2021-08-28T13:06:43.000Z",
+        "updatedAt": "2021-08-28T13:36:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

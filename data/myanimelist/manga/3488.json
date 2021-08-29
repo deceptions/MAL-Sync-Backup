@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:51.000Z",
-  "updatedAt": "2021-04-09T05:51:18.000Z",
+  "updatedAt": "2021-08-26T15:37:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 33488,
         "createdAt": "2021-04-09T05:51:18.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "alto": {
+        "authors": [
+          "KOIO Minato"
+        ],
+        "identifier": "alto",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Alto",
+        "url": "https://fanfox.net/manga/alto/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3926/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3488,
+        "aniId": 33488,
+        "createdAt": "2021-08-26T15:37:31.000Z",
+        "updatedAt": "2021-08-26T16:06:33.000Z",
         "deletedAt": null
       }
     }

@@ -81,6 +81,28 @@
         "updatedAt": "2021-07-01T12:50:01.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kimi_ga_suki": {
+        "authors": [
+          "WATANABE Ayu"
+        ],
+        "identifier": "kimi_ga_suki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi ga Suki",
+        "url": "https://fanfox.net/manga/kimi_ga_suki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1634/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3605,
+        "aniId": 33605,
+        "createdAt": "2021-08-27T13:37:38.000Z",
+        "updatedAt": "2021-08-27T14:06:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

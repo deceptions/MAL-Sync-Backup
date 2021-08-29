@@ -10,7 +10,7 @@
   "category": "ONA",
   "hentai": false,
   "createdAt": "2021-05-12T04:25:21.000Z",
-  "updatedAt": "2021-07-12T22:46:41.000Z",
+  "updatedAt": "2021-08-26T04:06:57.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -29,6 +29,25 @@
         "aniId": 137138,
         "createdAt": "2021-07-12T22:46:39.000Z",
         "updatedAt": "2021-07-26T22:51:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "cosmos-trailer": {
+        "identifier": "cosmos-trailer",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cosmos Trailer",
+        "url": "https://gogoanime.pe/category/cosmos-trailer",
+        "image": "https://gogocdn.net/cover/cosmos-trailer.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42317,
+        "aniId": 137138,
+        "createdAt": "2021-08-26T04:06:51.000Z",
+        "updatedAt": "2021-08-26T04:36:33.000Z",
         "deletedAt": null
       }
     }

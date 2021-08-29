@@ -41,6 +41,29 @@
         "updatedAt": "2021-06-02T21:40:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "super-robot-retsuden": {
+        "authors": [
+          "ISHIKAWA Ken",
+          "NAGAI Go"
+        ],
+        "identifier": "super-robot-retsuden",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Super Robot Retsuden",
+        "url": "https://mangasee123.com/manga/Super-Robot-Retsuden",
+        "image": "https://cover.nep.li/cover/Super-Robot-Retsuden.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37701,
+        "aniId": 67701,
+        "createdAt": "2021-08-27T11:37:08.000Z",
+        "updatedAt": "2021-08-27T12:06:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

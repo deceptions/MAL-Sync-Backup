@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:03.000Z",
-  "updatedAt": "2021-04-15T12:45:57.000Z",
+  "updatedAt": "2021-08-28T18:06:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 67707,
         "createdAt": "2021-04-15T12:45:58.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ta955935": {
+        "authors": [
+          "Arakawa Naoshi"
+        ],
+        "identifier": "manga-ta955935",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shigatsu Wa Kimi No Uso",
+        "url": "https://manganato.com/manga-ta955935",
+        "image": "https://avt.mkklcdnv6temp.com/46/r/3-1583469514.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37707,
+        "aniId": 67707,
+        "createdAt": "2021-08-28T18:06:41.000Z",
+        "updatedAt": "2021-08-28T18:36:33.000Z",
         "deletedAt": null
       }
     }

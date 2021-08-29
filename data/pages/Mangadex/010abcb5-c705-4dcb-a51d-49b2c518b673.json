@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 128260,
   "createdAt": "2020-12-17T15:26:01.000Z",
-  "updatedAt": "2021-07-26T21:21:37.000Z",
+  "updatedAt": "2021-08-26T08:55:20.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ギャルゲーマーに褒められたい",
+      "I Want to Be Praised by a Gal Gamer!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Geshumaro"
+    ],
+    "id": 128260,
+    "malId": null,
+    "type": "manga",
+    "title": "Gyaru Gamer Homeraretai",
+    "url": "https://anilist.co/manga/128260",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128260-UvDEvwIPkbXA.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-02T17:00:52.000Z",
+    "updatedAt": "2021-08-26T01:37:38.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

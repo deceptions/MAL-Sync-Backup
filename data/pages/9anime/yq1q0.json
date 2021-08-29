@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 42004,
-  "aniId": null,
+  "aniId": 138474,
   "createdAt": "2021-07-01T01:20:34.000Z",
-  "updatedAt": "2021-07-01T01:20:34.000Z",
+  "updatedAt": "2021-08-28T17:06:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -31,6 +31,23 @@
     "updatedAt": "2021-07-10T01:13:54.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "슈퍼 시크릿",
+      "Everybody's Got a Secret"
+    ],
+    "externalLinks": [],
+    "id": 138474,
+    "malId": 42004,
+    "type": "anime",
+    "title": "Super Secret",
+    "url": "https://anilist.co/anime/138474",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138474-YoQOY4IX1Lzk.jpg",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-08-28T16:36:33.000Z",
+    "updatedAt": "2021-08-28T16:36:33.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/42004/Super_Secret"
 }

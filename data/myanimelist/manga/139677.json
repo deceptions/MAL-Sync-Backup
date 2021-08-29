@@ -36,9 +36,33 @@
         "active": true,
         "actor": 1,
         "malId": 139677,
-        "aniId": null,
+        "aniId": 128945,
         "createdAt": "2021-05-29T06:14:46.000Z",
-        "updatedAt": "2021-08-24T09:49:04.000Z",
+        "updatedAt": "2021-08-26T12:36:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-demonic-contract": {
+        "authors": [
+          "Cloud Light",
+          "Kim Yoon-Kyung",
+          "YOON Jiseon"
+        ],
+        "identifier": "the-demonic-contract",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Demonic Contract",
+        "url": "https://mangasee123.com/manga/The-Demonic-Contract",
+        "image": "https://cover.nep.li/cover/The-Demonic-Contract.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 139677,
+        "aniId": 128945,
+        "createdAt": "2021-07-17T16:03:18.000Z",
+        "updatedAt": "2021-08-26T08:55:03.000Z",
         "deletedAt": null
       }
     }

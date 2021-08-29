@@ -14,9 +14,9 @@
   "active": true,
   "actor": 1,
   "malId": 12043,
-  "aniId": null,
+  "aniId": 42043,
   "createdAt": "2020-10-12T16:21:22.000Z",
-  "updatedAt": "2021-06-08T07:02:23.000Z",
+  "updatedAt": "2021-08-24T17:36:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -38,6 +38,28 @@
     "updatedAt": "2021-06-08T02:22:46.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "皇帝と呼ばれた男",
+      "Koutei to Yobareta Otoko",
+      "The man called \"Царь\"",
+      "皇帝(ツァーリ)と呼ばれた男"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yuu Higashino"
+    ],
+    "id": 42043,
+    "malId": 12043,
+    "type": "manga",
+    "title": "Tsari to Yobareta Otoko",
+    "url": "https://anilist.co/manga/42043",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42043-Anr759sN0jJ5.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-24T17:06:34.000Z",
+    "updatedAt": "2021-08-24T17:06:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/12043/Tsari_to_Yobareta_Otoko"
 }

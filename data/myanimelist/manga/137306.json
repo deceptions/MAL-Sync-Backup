@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-08T08:42:16.000Z",
-  "updatedAt": "2021-06-08T08:42:16.000Z",
+  "updatedAt": "2021-08-28T07:36:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 127910,
         "createdAt": "2020-11-27T12:01:43.000Z",
         "updatedAt": "2021-06-08T08:42:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jq987351": {
+        "authors": [
+          "Yukishiro Ichi"
+        ],
+        "identifier": "manga-jq987351",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hone Dragon No Mana Musume",
+        "url": "https://manganato.com/manga-jq987351",
+        "image": "https://avt.mkklcdnv6temp.com/44/h/22-1607569622.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 137306,
+        "aniId": 127910,
+        "createdAt": "2021-08-28T07:36:54.000Z",
+        "updatedAt": "2021-08-28T08:06:33.000Z",
         "deletedAt": null
       }
     }

@@ -14,9 +14,9 @@
   "active": true,
   "actor": 2,
   "malId": 126835,
-  "aniId": null,
+  "aniId": 113542,
   "createdAt": "2020-10-12T16:15:59.000Z",
-  "updatedAt": "2021-06-07T07:40:12.000Z",
+  "updatedAt": "2021-08-27T09:36:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,27 @@
     "updatedAt": "2021-06-06T18:49:29.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "フェンリル",
+      "The Another Secret History of Mongols"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Chuugaku Akamatsu",
+      "Mioko Oonishi"
+    ],
+    "id": 113542,
+    "malId": 126835,
+    "type": "manga",
+    "title": "Fenrir",
+    "url": "https://anilist.co/manga/113542",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113542-MKLRzW5xiMSd.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-27T09:06:34.000Z",
+    "updatedAt": "2021-08-27T09:06:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/126835/Fenrir"
 }

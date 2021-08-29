@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:15.000Z",
-  "updatedAt": "2021-03-21T15:35:04.000Z",
+  "updatedAt": "2021-08-25T13:07:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,29 @@
         "aniId": 110944,
         "createdAt": "2021-01-16T18:31:54.000Z",
         "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ee982013": {
+        "authors": [
+          "Ryuu Inari",
+          "Itsuwa Katou"
+        ],
+        "identifier": "manga-ee982013",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Save & Load No Dekiru Yadoya-San",
+        "url": "https://manganato.com/manga-ee982013",
+        "image": "https://avt.mkklcdnv6temp.com/35/x/18-1583498489.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 124904,
+        "aniId": 110944,
+        "createdAt": "2021-06-29T08:33:08.000Z",
+        "updatedAt": "2021-08-26T09:06:33.000Z",
         "deletedAt": null
       }
     }

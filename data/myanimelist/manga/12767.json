@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:48.000Z",
-  "updatedAt": "2021-05-01T13:04:21.000Z",
+  "updatedAt": "2021-08-27T01:37:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,50 @@
         "aniId": 42767,
         "createdAt": "2020-10-12T16:03:00.000Z",
         "updatedAt": "2021-06-02T10:54:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-rq968599": {
+        "authors": [
+          "Youkihi"
+        ],
+        "identifier": "manga-rq968599",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Nemureru Hoshi",
+        "url": "https://manganato.com/manga-rq968599",
+        "image": "https://avt.mkklcdnv6temp.com/17/y/12-1583486478.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12767,
+        "aniId": 42767,
+        "createdAt": "2021-08-27T01:36:38.000Z",
+        "updatedAt": "2021-08-27T02:06:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "nemureru_hoshi": {
+        "authors": [
+          "Youkihi"
+        ],
+        "identifier": "nemureru_hoshi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Nemureru Hoshi",
+        "url": "https://fanfox.net/manga/nemureru_hoshi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9965/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12767,
+        "aniId": 42767,
+        "createdAt": "2021-08-27T02:06:39.000Z",
+        "updatedAt": "2021-08-27T02:36:33.000Z",
         "deletedAt": null
       }
     }

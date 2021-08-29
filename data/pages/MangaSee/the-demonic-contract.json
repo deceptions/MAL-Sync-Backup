@@ -13,13 +13,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 1,
+  "malId": 139677,
   "aniId": 128945,
   "createdAt": "2021-07-17T16:03:18.000Z",
-  "updatedAt": "2021-07-17T16:03:18.000Z",
+  "updatedAt": "2021-08-26T08:55:03.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "altTitle": [
+      "The Demonic Contract",
+      "Asmodian's Contract",
+      "Ma-jokui Gyeyak",
+      "마족의 계약"
+    ],
+    "authors": [
+      "Kim, Yunkyeong",
+      "Yeoul"
+    ],
+    "id": 139677,
+    "type": "manga",
+    "title": "The Demonic Contract",
+    "url": "https://myanimelist.net/manga/139677/The_Demonic_Contract",
+    "image": "https://cdn.myanimelist.net/images/manga/3/249353.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "createdAt": "2021-08-24T03:07:06.000Z",
+    "updatedAt": "2021-08-24T03:07:06.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "The Demonic Contract",
@@ -34,7 +55,7 @@
       "Ji-Seon Yun"
     ],
     "id": 128945,
-    "malId": null,
+    "malId": 139677,
     "type": "manga",
     "title": "Majogui Gyeyak",
     "url": "https://anilist.co/manga/128945",
@@ -42,8 +63,8 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-21T10:13:07.000Z",
-    "updatedAt": "2021-08-07T21:19:01.000Z",
+    "updatedAt": "2021-08-26T12:06:34.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/139677/The_Demonic_Contract"
 }

@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-04T15:58:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "skyward_saga_of_kain": {
+        "authors": [
+          "KENMOTSU Chiyo"
+        ],
+        "identifier": "skyward_saga_of_kain",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Skyward Saga of Kain",
+        "url": "https://fanfox.net/manga/skyward_saga_of_kain/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/17873/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94415,
+        "aniId": 86627,
+        "createdAt": "2021-08-28T12:36:37.000Z",
+        "updatedAt": "2021-08-28T13:06:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

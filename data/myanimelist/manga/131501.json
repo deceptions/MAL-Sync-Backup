@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-03-04T15:20:08.000Z",
-  "updatedAt": "2021-06-04T09:50:00.000Z",
+  "updatedAt": "2021-08-28T07:37:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 121647,
         "createdAt": "2021-06-04T09:50:00.000Z",
         "updatedAt": "2021-06-04T10:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "noraneko_to_ookami": {
+        "authors": [
+          "MIYUKI Mitsubachi"
+        ],
+        "identifier": "noraneko_to_ookami",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Noraneko to Ookami",
+        "url": "https://fanfox.net/manga/noraneko_to_ookami/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36502/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131501,
+        "aniId": 121647,
+        "createdAt": "2021-08-28T07:37:00.000Z",
+        "updatedAt": "2021-08-28T08:06:33.000Z",
         "deletedAt": null
       }
     }

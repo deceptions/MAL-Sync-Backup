@@ -10,7 +10,7 @@
   "category": "ONA",
   "hentai": false,
   "createdAt": "2021-05-14T19:55:44.000Z",
-  "updatedAt": "2021-07-19T10:03:27.000Z",
+  "updatedAt": "2021-08-26T04:37:41.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -29,6 +29,25 @@
         "aniId": null,
         "createdAt": "2021-06-21T07:23:45.000Z",
         "updatedAt": "2021-06-21T07:23:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "naze-nani-dendrogram": {
+        "identifier": "naze-nani-dendrogram",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Naze Nani Dendrogram",
+        "url": "https://gogoanime.pe/category/naze-nani-dendrogram",
+        "image": "https://gogocdn.net/cover/naze-nani-dendrogram.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41636,
+        "aniId": null,
+        "createdAt": "2021-08-26T04:37:31.000Z",
+        "updatedAt": "2021-08-26T04:37:41.000Z",
         "deletedAt": null
       }
     }

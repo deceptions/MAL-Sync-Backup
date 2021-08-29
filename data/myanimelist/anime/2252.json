@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:27.000Z",
-  "updatedAt": "2021-06-29T05:49:27.000Z",
+  "updatedAt": "2021-08-26T13:06:42.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -68,6 +68,23 @@
         "aniId": 2252,
         "createdAt": "2020-12-29T05:22:38.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      },
+      "devilman": {
+        "identifier": "devilman",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Devilman",
+        "url": "https://gogoanime.pe/category/devilman",
+        "image": "https://gogocdn.net/cover/devilman.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2252,
+        "aniId": 2252,
+        "createdAt": "2021-08-26T13:06:39.000Z",
+        "updatedAt": "2021-08-26T13:36:33.000Z",
         "deletedAt": null
       }
     }

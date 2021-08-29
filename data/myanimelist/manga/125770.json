@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-18T23:03:18.000Z",
-  "updatedAt": "2021-07-17T03:33:06.000Z",
+  "updatedAt": "2021-08-24T22:07:49.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaSee": {
@@ -62,6 +62,28 @@
         "aniId": 114613,
         "createdAt": "2021-07-17T03:33:03.000Z",
         "updatedAt": "2021-07-17T04:02:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sword_art_online_progressive_houei_no_barcarole": {
+        "authors": [
+          "KAWAHARA Reki"
+        ],
+        "identifier": "sword_art_online_progressive_houei_no_barcarole",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sword Art Online: Progressive - Houei no Barcarole",
+        "url": "https://fanfox.net/manga/sword_art_online_progressive_houei_no_barcarole/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36632/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125770,
+        "aniId": 114613,
+        "createdAt": "2021-08-24T22:07:41.000Z",
+        "updatedAt": "2021-08-24T22:36:33.000Z",
         "deletedAt": null
       }
     }

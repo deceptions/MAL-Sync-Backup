@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:44.000Z",
-  "updatedAt": "2021-06-02T22:01:11.000Z",
+  "updatedAt": "2021-08-27T16:37:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,29 @@
         "aniId": 49381,
         "createdAt": "2020-10-12T16:04:33.000Z",
         "updatedAt": "2021-06-02T22:03:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "himuro_no_tenchi_fate_school_life": {
+        "authors": [
+          "Mashin Eiichirou",
+          "Type-Moon"
+        ],
+        "identifier": "himuro_no_tenchi_fate_school_life",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Himuro no Tenchi Fate/School Life",
+        "url": "https://fanfox.net/manga/himuro_no_tenchi_fate_school_life/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11641/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19381,
+        "aniId": 49381,
+        "createdAt": "2021-08-27T16:36:39.000Z",
+        "updatedAt": "2021-08-27T17:06:33.000Z",
         "deletedAt": null
       }
     }

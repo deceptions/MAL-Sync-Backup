@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Saruno Itsuki",
-    "Yuuhiro"
+    "Yuuhiro",
+    "Saruno Itsuki"
   ],
   "identifier": "d577918a-076d-4db7-9ce6-24a8c275a03e",
   "type": "manga",
@@ -12,13 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 127855,
+  "aniId": 120843,
   "createdAt": "2020-10-12T16:20:57.000Z",
-  "updatedAt": "2021-06-08T01:23:18.000Z",
+  "updatedAt": "2021-08-26T09:06:33.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "An Ordinary Person Returns From a Distance. I Have to Work Again!",
+      "一般人遠方より帰る。また働かねば！"
+    ],
+    "authors": [
+      "Yuuhiro",
+      "Saruno, Itsuki"
+    ],
+    "id": 127855,
+    "type": "manga",
+    "title": "Ippanjin Enpou yori Kaeru. Mata Hatarakaneba!",
+    "url": "https://myanimelist.net/manga/127855/Ippanjin_Enpou_yori_Kaeru_Mata_Hatarakaneba",
+    "image": "https://cdn.myanimelist.net/images/manga/1/241037.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-08-24T22:07:39.000Z",
+    "updatedAt": "2021-08-24T22:07:39.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "一般人遠方より帰る。また働かねば！"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tsukugu",
+      "Itsuki Saruno",
+      "Yuuhiro"
+    ],
+    "id": 120843,
+    "malId": 127855,
+    "type": "manga",
+    "title": "Ippanjin Enpou yori Kaeru. Mata Hatarakaneba!",
+    "url": "https://anilist.co/manga/120843",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120843-1Zcp1hnDvJJd.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-27T23:21:36.000Z",
+    "updatedAt": "2021-07-27T23:21:36.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/127855/Ippanjin_Enpou_yori_Kaeru_Mata_Hatarakaneba"
 }

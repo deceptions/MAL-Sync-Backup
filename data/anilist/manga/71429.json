@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-03T01:00:51.000Z",
-  "updatedAt": "2021-06-17T19:55:20.000Z",
+  "updatedAt": "2021-08-28T02:06:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "c191c3b8-d036-46eb-a4a9-f3e691a0ea8d": {
+        "authors": [
+          "Natsumizu Ritsu"
+        ],
+        "identifier": "c191c3b8-d036-46eb-a4a9-f3e691a0ea8d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "K-sensei no Yajuu na Aijou",
+        "url": "https://mangadex.org/title/c191c3b8-d036-46eb-a4a9-f3e691a0ea8d",
+        "image": "https://uploads.mangadex.org/covers/c191c3b8-d036-46eb-a4a9-f3e691a0ea8d/256f8593-e7d9-4c6f-90e9-12e993f4e5a6.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 71429,
+        "createdAt": "2021-08-28T02:06:54.000Z",
+        "updatedAt": "2021-08-28T02:06:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 40620,
-  "aniId": null,
+  "aniId": 112802,
   "createdAt": "2021-08-24T11:06:34.000Z",
-  "updatedAt": "2021-08-24T11:06:34.000Z",
+  "updatedAt": "2021-08-24T11:36:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -30,6 +30,28 @@
     "updatedAt": "2021-08-23T17:07:06.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Life Lessons with Uramichi Oniisan",
+      "うらみちお兄さん"
+    ],
+    "externalLinks": [
+      {
+        "site": "Funimation",
+        "url": "https://www.funimation.com/shows/life-lessons-with-uramichi-oniisan/"
+      }
+    ],
+    "id": 112802,
+    "malId": 40620,
+    "type": "anime",
+    "title": "Uramichi Oniisan",
+    "url": "https://anilist.co/anime/112802",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112802-FUNqgb2R1LS8.jpg",
+    "category": "tv",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:45:59.000Z",
+    "updatedAt": "2021-07-03T07:33:56.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/40620/Uramichi_Oniisan"
 }

@@ -11,13 +11,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 45337,
+  "aniId": 75337,
   "createdAt": "2021-04-15T23:44:17.000Z",
-  "updatedAt": "2021-04-15T23:44:17.000Z",
+  "updatedAt": "2021-08-28T00:06:33.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "BULLET ARMORS バレットアーマーズ"
+    ],
+    "authors": [
+      "Moricha"
+    ],
+    "id": 45337,
+    "type": "manga",
+    "title": "Bullet Armors",
+    "url": "https://myanimelist.net/manga/45337/Bullet_Armors",
+    "image": "https://cdn.myanimelist.net/images/manga/2/105867.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:44:21.000Z",
+    "updatedAt": "2021-08-02T23:52:05.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "BULLET ARMORS バレットアーマーズ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Moricha",
+      "koya",
+      "Thibaud Desbief",
+      "Edward Kondo"
+    ],
+    "id": 75337,
+    "malId": 45337,
+    "type": "manga",
+    "title": "Bullet Armors",
+    "url": "https://anilist.co/manga/75337",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b75337-HZqe6F9snCJ2.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:49:26.000Z",
+    "updatedAt": "2021-06-17T20:25:20.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/45337/Bullet_Armors"
 }

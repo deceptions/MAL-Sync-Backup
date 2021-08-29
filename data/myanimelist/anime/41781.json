@@ -11,7 +11,46 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2021-07-21T19:34:28.000Z",
-  "updatedAt": "2021-07-21T19:34:28.000Z",
+  "updatedAt": "2021-08-24T17:37:38.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "q573": {
+        "identifier": "q573",
+        "type": "anime",
+        "page": "9anime",
+        "title": "BanG Dream! Movie: Episode of Roselia - II: Song I Am.",
+        "url": "https://www12.9anime.to/watch/bang-dream-movie-episode-of-roselia-ii-song-i-am.q573",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/c5/c5b31dedbc59f5310ce1564ea519ab7b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41781,
+        "aniId": 117764,
+        "createdAt": "2021-08-28T12:37:24.000Z",
+        "updatedAt": "2021-08-28T13:06:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bang-dream-movie-episode-of-roselia-ii-song-i-am": {
+        "identifier": "bang-dream-movie-episode-of-roselia-ii-song-i-am",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "BanG Dream! Movie: Episode of Roselia - II: Song I Am.",
+        "url": "https://gogoanime.pe/category/bang-dream-movie-episode-of-roselia-ii-song-i-am",
+        "image": "https://gogocdn.net/cover/bang-dream-movie-episode-of-roselia-ii-song-i-am.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41781,
+        "aniId": 117764,
+        "createdAt": "2021-08-28T13:37:29.000Z",
+        "updatedAt": "2021-08-28T14:06:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

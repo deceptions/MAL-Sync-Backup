@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:46.000Z",
-  "updatedAt": "2021-04-27T19:21:32.000Z",
+  "updatedAt": "2021-08-24T16:36:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 32888,
         "createdAt": "2020-10-12T16:04:42.000Z",
         "updatedAt": "2021-06-02T22:49:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kana": {
+        "authors": [
+          "TAMEGAI Tohru"
+        ],
+        "identifier": "kana",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kana",
+        "url": "https://fanfox.net/manga/kana/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/159/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2888,
+        "aniId": 32888,
+        "createdAt": "2021-08-24T16:36:33.000Z",
+        "updatedAt": "2021-08-24T17:06:33.000Z",
         "deletedAt": null
       }
     }

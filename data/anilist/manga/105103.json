@@ -19,5 +19,28 @@
   "createdAt": "2021-06-17T05:27:35.000Z",
   "updatedAt": "2021-06-18T04:35:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "yuzu-the-pet-vet": {
+        "authors": [
+          "ITO Mingo"
+        ],
+        "identifier": "yuzu-the-pet-vet",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yuzu the Pet Vet",
+        "url": "https://mangasee123.com/manga/Yuzu-the-Pet-Vet",
+        "image": "https://cover.nep.li/cover/Yuzu-the-Pet-Vet.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118030,
+        "aniId": 105103,
+        "createdAt": "2021-08-28T18:38:53.000Z",
+        "updatedAt": "2021-08-28T19:06:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

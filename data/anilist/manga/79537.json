@@ -81,6 +81,28 @@
         "updatedAt": "2021-05-20T15:40:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "rere_hello": {
+        "authors": [
+          "MINAMI Touko"
+        ],
+        "identifier": "rere_hello",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "ReRe Hello",
+        "url": "https://fanfox.net/manga/rere_hello/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12497/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49537,
+        "aniId": 79537,
+        "createdAt": "2021-08-27T00:36:43.000Z",
+        "updatedAt": "2021-08-27T01:06:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

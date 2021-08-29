@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:01.000Z",
-  "updatedAt": "2021-06-30T22:21:39.000Z",
+  "updatedAt": "2021-08-27T13:38:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,6 +82,29 @@
         "aniId": 34650,
         "createdAt": "2021-06-30T22:21:30.000Z",
         "updatedAt": "2021-06-30T22:50:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "x-blade": {
+        "authors": [
+          "IDA Tatsuhiko",
+          "SHIKI Satoshi"
+        ],
+        "identifier": "x-blade",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "XBlade",
+        "url": "https://mangasee123.com/manga/X-Blade",
+        "image": "https://cover.nep.li/cover/X-Blade.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4650,
+        "aniId": 34650,
+        "createdAt": "2021-08-27T13:38:04.000Z",
+        "updatedAt": "2021-08-27T14:06:33.000Z",
         "deletedAt": null
       }
     }

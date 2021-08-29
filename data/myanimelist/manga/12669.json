@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:47.000Z",
-  "updatedAt": "2021-05-01T12:33:43.000Z",
+  "updatedAt": "2021-08-26T17:06:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 42669,
         "createdAt": "2020-10-12T16:05:33.000Z",
         "updatedAt": "2021-06-03T13:27:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ok965667": {
+        "authors": [
+          "Mizuno Touko"
+        ],
+        "identifier": "manga-ok965667",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sweet Peach!",
+        "url": "https://manganato.com/manga-ok965667",
+        "image": "https://avt.mkklcdnv6temp.com/15/j/10-1583482725.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12669,
+        "aniId": 42669,
+        "createdAt": "2021-08-26T16:39:38.000Z",
+        "updatedAt": "2021-08-26T17:36:33.000Z",
         "deletedAt": null
       }
     }

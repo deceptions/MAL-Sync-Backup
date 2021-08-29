@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:18.000Z",
-  "updatedAt": "2021-05-20T11:30:54.000Z",
+  "updatedAt": "2021-08-26T03:36:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 102202,
         "createdAt": "2020-10-12T16:11:29.000Z",
         "updatedAt": "2021-06-05T08:40:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "crossing-time": {
+        "authors": [
+          "SATO Yoshimi"
+        ],
+        "identifier": "crossing-time",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Crossing Time",
+        "url": "https://mangasee123.com/manga/Crossing-Time",
+        "image": "https://cover.nep.li/cover/Crossing-Time.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 110243,
+        "aniId": 102202,
+        "createdAt": "2021-03-25T01:49:03.000Z",
+        "updatedAt": "2021-08-26T09:06:33.000Z",
         "deletedAt": null
       }
     },

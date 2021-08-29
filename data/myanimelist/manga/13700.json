@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:00.000Z",
-  "updatedAt": "2021-04-26T13:13:34.000Z",
+  "updatedAt": "2021-08-24T14:36:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 43700,
         "createdAt": "2021-04-26T13:13:37.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "katakoi-triangle": {
+        "authors": [
+          "AMANO Shinobu"
+        ],
+        "identifier": "katakoi-triangle",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Katakoi Triangle",
+        "url": "https://mangasee123.com/manga/Katakoi-Triangle",
+        "image": "https://cover.nep.li/cover/Katakoi-Triangle.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13700,
+        "aniId": 43700,
+        "createdAt": "2021-08-24T14:36:50.000Z",
+        "updatedAt": "2021-08-24T15:06:33.000Z",
         "deletedAt": null
       }
     }

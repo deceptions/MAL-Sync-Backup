@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:43.000Z",
-  "updatedAt": "2021-05-12T10:55:10.000Z",
+  "updatedAt": "2021-08-27T09:08:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,29 @@
         "aniId": 85985,
         "createdAt": "2020-10-12T16:08:25.000Z",
         "updatedAt": "2021-06-04T09:56:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ko961871": {
+        "authors": [
+          "Kamachi Kazuma",
+          "Nishino Ryuu"
+        ],
+        "identifier": "manga-ko961871",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Toaru Majutsu No Heavy Zashiki Warashi Ga Kantan Na Satsujinhi No Konkatsu Jijou",
+        "url": "https://manganato.com/manga-ko961871",
+        "image": "https://avt.mkklcdnv6temp.com/2/g/8-1583478258.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85141,
+        "aniId": 85985,
+        "createdAt": "2021-08-27T09:07:57.000Z",
+        "updatedAt": "2021-08-27T09:36:33.000Z",
         "deletedAt": null
       }
     }

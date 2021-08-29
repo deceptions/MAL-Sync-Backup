@@ -19,5 +19,28 @@
   "createdAt": "2021-07-31T17:52:00.000Z",
   "updatedAt": "2021-07-31T17:52:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-me989613": {
+        "authors": [
+          "Kim Soo-Bak"
+        ],
+        "identifier": "manga-me989613",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "A Summer Night’S Dream",
+        "url": "https://manganato.com/manga-me989613",
+        "image": "https://avt.mkklcdnv6temp.com/39/k/24-1630153913.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 137286,
+        "createdAt": "2021-08-28T23:06:36.000Z",
+        "updatedAt": "2021-08-28T23:06:36.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

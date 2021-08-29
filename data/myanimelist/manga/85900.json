@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:44.000Z",
-  "updatedAt": "2021-07-18T18:33:03.000Z",
+  "updatedAt": "2021-08-26T06:08:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -63,6 +63,29 @@
         "aniId": 93801,
         "createdAt": "2021-07-18T18:32:53.000Z",
         "updatedAt": "2021-07-18T19:02:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kuroko_no_basuke_replace_plus": {
+        "authors": [
+          "FUJIMAKI Tadatoshi",
+          "HIRABAYASHI Sawako"
+        ],
+        "identifier": "kuroko_no_basuke_replace_plus",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kuroko no Basuke - Replace Plus",
+        "url": "https://fanfox.net/manga/kuroko_no_basuke_replace_plus/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15418/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85900,
+        "aniId": 93801,
+        "createdAt": "2021-08-26T06:07:58.000Z",
+        "updatedAt": "2021-08-26T06:36:33.000Z",
         "deletedAt": null
       }
     }

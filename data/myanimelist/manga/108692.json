@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:10.000Z",
-  "updatedAt": "2021-05-19T21:31:24.000Z",
+  "updatedAt": "2021-08-28T05:37:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 101978,
         "createdAt": "2020-10-12T16:11:00.000Z",
         "updatedAt": "2021-06-05T05:02:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bt978954": {
+        "authors": [
+          "Yuuki Akira"
+        ],
+        "identifier": "manga-bt978954",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Aisareru Yori ￮-Saretai",
+        "url": "https://manganato.com/manga-bt978954",
+        "image": "https://avt.mkklcdnv6temp.com/23/g/16-1583494302.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108692,
+        "aniId": 101978,
+        "createdAt": "2021-08-28T05:37:03.000Z",
+        "updatedAt": "2021-08-28T06:06:33.000Z",
         "deletedAt": null
       }
     }

@@ -70,6 +70,28 @@
         "updatedAt": "2021-06-09T06:35:13.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "versailles_no_bara": {
+        "authors": [
+          "IKEDA Riyoko"
+        ],
+        "identifier": "versailles_no_bara",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Versailles no Bara",
+        "url": "https://fanfox.net/manga/versailles_no_bara/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/248/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 660,
+        "aniId": 30660,
+        "createdAt": "2021-08-26T16:07:00.000Z",
+        "updatedAt": "2021-08-26T16:36:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

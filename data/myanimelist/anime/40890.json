@@ -13,7 +13,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T19:28:58.000Z",
-  "updatedAt": "2021-07-22T04:34:08.000Z",
+  "updatedAt": "2021-08-26T16:06:39.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -51,6 +51,25 @@
         "aniId": 114334,
         "createdAt": "2021-01-22T04:04:06.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gundam-g-no-reconguista-movie-ii-bellri-gekishin": {
+        "identifier": "gundam-g-no-reconguista-movie-ii-bellri-gekishin",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gundam: G no Reconguista Movie II - Bellri Gekishin",
+        "url": "https://gogoanime.pe/category/gundam-g-no-reconguista-movie-ii-bellri-gekishin",
+        "image": "https://gogocdn.net/cover/gundam-g-no-reconguista-movie-ii-bellri-gekishin.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40890,
+        "aniId": 114334,
+        "createdAt": "2021-08-26T16:06:37.000Z",
+        "updatedAt": "2021-08-26T16:36:33.000Z",
         "deletedAt": null
       }
     }

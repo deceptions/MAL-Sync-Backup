@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2021-07-27T01:52:31.000Z",
-  "updatedAt": "2021-07-27T01:52:31.000Z",
+  "updatedAt": "2021-08-27T13:37:36.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -29,6 +29,25 @@
         "aniId": null,
         "createdAt": "2021-07-27T01:52:29.000Z",
         "updatedAt": "2021-07-27T01:52:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "shouwa-ahozoushi-akanuke-ichiban": {
+        "identifier": "shouwa-ahozoushi-akanuke-ichiban",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shouwa Ahozoushi Akanuke Ichiban!",
+        "url": "https://gogoanime.pe/category/shouwa-ahozoushi-akanuke-ichiban",
+        "image": "https://gogocdn.net/cover/shouwa-ahozoushi-akanuke-ichiban.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17211,
+        "aniId": null,
+        "createdAt": "2021-08-27T13:36:54.000Z",
+        "updatedAt": "2021-08-27T13:37:36.000Z",
         "deletedAt": null
       }
     }

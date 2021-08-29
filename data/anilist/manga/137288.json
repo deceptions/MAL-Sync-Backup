@@ -20,5 +20,28 @@
   "createdAt": "2021-07-31T18:22:00.000Z",
   "updatedAt": "2021-07-31T18:22:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mi989543": {
+        "authors": [
+          "Touwa Akatsuki"
+        ],
+        "identifier": "manga-mi989543",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Rokuhime Wa Kami Goe Ni Koi Ni Suru",
+        "url": "https://manganato.com/manga-mi989543",
+        "image": "https://avt.mkklcdnv6temp.com/35/u/24-1629473948.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 137288,
+        "createdAt": "2021-08-20T17:16:06.000Z",
+        "updatedAt": "2021-08-26T08:55:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

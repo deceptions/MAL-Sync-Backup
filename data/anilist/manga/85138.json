@@ -86,6 +86,28 @@
         "updatedAt": "2021-06-02T15:30:50.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "ib_instant_bullet": {
+        "authors": [
+          "AKASAKA Aka"
+        ],
+        "identifier": "ib_instant_bullet",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "ib - Instant Bullet",
+        "url": "https://fanfox.net/manga/ib_instant_bullet/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13076/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58313,
+        "aniId": 85138,
+        "createdAt": "2021-08-25T13:07:26.000Z",
+        "updatedAt": "2021-08-25T13:36:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

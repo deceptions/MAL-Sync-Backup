@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:35.000Z",
-  "updatedAt": "2021-07-21T19:35:50.000Z",
+  "updatedAt": "2021-08-26T05:06:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 97456,
         "createdAt": "2021-01-21T19:04:35.000Z",
         "updatedAt": "2021-05-20T15:38:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-um972095": {
+        "authors": [
+          "Kimura Mitsuhiro"
+        ],
+        "identifier": "manga-um972095",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dullahan-Chan Wa Kubittake",
+        "url": "https://manganato.com/manga-um972095",
+        "image": "https://avt.mkklcdnv6temp.com/7/u/14-1583489987.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99846,
+        "aniId": 97456,
+        "createdAt": "2021-08-26T05:06:36.000Z",
+        "updatedAt": "2021-08-26T05:36:33.000Z",
         "deletedAt": null
       }
     }
