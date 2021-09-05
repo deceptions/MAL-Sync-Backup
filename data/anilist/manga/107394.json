@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-04T08:49:34.000Z",
-  "updatedAt": "2021-06-21T14:00:03.000Z",
+  "updatedAt": "2021-08-31T18:07:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,28 @@
         "aniId": 107394,
         "createdAt": "2020-10-12T16:08:13.000Z",
         "updatedAt": "2021-06-04T09:00:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ei982317": {
+        "authors": [
+          "Jung I-Lu"
+        ],
+        "identifier": "manga-ei982317",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Appa Sijipga?",
+        "url": "https://manganato.com/manga-ei982317",
+        "image": "https://avt.mkklcdnv6temp.com/47/g/18-1583498938.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 107394,
+        "createdAt": "2021-08-31T18:07:15.000Z",
+        "updatedAt": "2021-08-31T18:07:16.000Z",
         "deletedAt": null
       }
     }

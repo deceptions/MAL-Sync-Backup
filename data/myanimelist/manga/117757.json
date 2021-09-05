@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:51.000Z",
-  "updatedAt": "2021-06-01T16:01:19.000Z",
+  "updatedAt": "2021-09-01T01:45:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 110708,
         "createdAt": "2021-06-01T16:01:19.000Z",
         "updatedAt": "2021-06-01T16:31:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tanzawa_sudachi_is_here": {
+        "authors": [
+          "Gakubuchi Aiko"
+        ],
+        "identifier": "tanzawa_sudachi_is_here",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tanzawa Sudachi is here!",
+        "url": "https://fanfox.net/manga/tanzawa_sudachi_is_here/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30166/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117757,
+        "aniId": 110708,
+        "createdAt": "2021-09-01T01:45:48.000Z",
+        "updatedAt": "2021-09-01T02:15:45.000Z",
         "deletedAt": null
       }
     }

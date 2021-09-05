@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:39.000Z",
-  "updatedAt": "2021-07-23T10:04:01.000Z",
+  "updatedAt": "2021-08-30T20:06:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 59887,
         "createdAt": "2021-07-23T10:03:49.000Z",
         "updatedAt": "2021-07-23T10:33:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "servamp": {
+        "authors": [
+          "TANAKA Strike"
+        ],
+        "identifier": "servamp",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Servamp",
+        "url": "https://fanfox.net/manga/servamp/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12956/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29887,
+        "aniId": 59887,
+        "createdAt": "2021-08-30T20:06:56.000Z",
+        "updatedAt": "2021-08-30T20:36:34.000Z",
         "deletedAt": null
       }
     }

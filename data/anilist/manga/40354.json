@@ -63,6 +63,28 @@
         "updatedAt": "2021-07-16T15:02:20.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "wangan_midnight": {
+        "authors": [
+          "KUSUNOKI Michiharu"
+        ],
+        "identifier": "wangan_midnight",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Wangan Midnight",
+        "url": "https://fanfox.net/manga/wangan_midnight/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/726/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10354,
+        "aniId": 40354,
+        "createdAt": "2021-09-02T10:15:59.000Z",
+        "updatedAt": "2021-09-02T10:45:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:24.000Z",
-  "updatedAt": "2021-04-15T13:15:38.000Z",
+  "updatedAt": "2021-08-31T11:37:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +48,25 @@
         "aniId": 1972,
         "createdAt": "2020-10-12T15:53:17.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "meitantei-holmes-dub": {
+        "identifier": "meitantei-holmes-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Meitantei Holmes (Dub)",
+        "url": "https://gogoanime.pe/category/meitantei-holmes-dub",
+        "image": "https://gogocdn.net/cover/meitantei-holmes-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1972,
+        "aniId": 1972,
+        "createdAt": "2021-08-31T11:37:44.000Z",
+        "updatedAt": "2021-08-31T12:06:42.000Z",
         "deletedAt": null
       }
     }

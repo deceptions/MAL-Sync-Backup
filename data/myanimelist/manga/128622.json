@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-07T23:20:46.000Z",
-  "updatedAt": "2021-06-07T23:20:46.000Z",
+  "updatedAt": "2021-09-03T10:16:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 120481,
         "createdAt": "2020-10-12T16:19:56.000Z",
         "updatedAt": "2021-06-08T00:19:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-id985612": {
+        "authors": [
+          "Kitamura Mashu"
+        ],
+        "identifier": "manga-id985612",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kokohore Boketsu-Chan",
+        "url": "https://manganato.com/manga-id985612",
+        "image": "https://avt.mkklcdnv6temp.com/23/m/21-1591032113.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128622,
+        "aniId": 120481,
+        "createdAt": "2021-09-03T10:16:25.000Z",
+        "updatedAt": "2021-09-03T10:45:45.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,31 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-04-29T16:50:31.000Z",
-  "updatedAt": "2021-04-29T16:50:31.000Z",
+  "updatedAt": "2021-08-31T21:16:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-cf980340": {
+        "authors": [
+          "Mei Aota",
+          "Magica Quartet"
+        ],
+        "identifier": "manga-cf980340",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Floating Madoka",
+        "url": "https://manganato.com/manga-cf980340",
+        "image": "https://avt.mkklcdnv6temp.com/24/z/17-1583496153.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89365,
+        "aniId": null,
+        "createdAt": "2021-08-31T21:16:06.000Z",
+        "updatedAt": "2021-08-31T21:16:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

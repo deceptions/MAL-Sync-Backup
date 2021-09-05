@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 138692,
   "createdAt": "2021-07-16T03:02:22.000Z",
-  "updatedAt": "2021-07-16T03:02:33.000Z",
+  "updatedAt": "2021-09-03T07:15:49.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "My Boyfriend Got Me Falling in Love",
+      "年下男友套路深",
+      "This Boy Got Me Falling Hard",
+      "My Boyfriend Got Me Fell In Love"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "La Mian",
+      "Man Man Niang"
+    ],
+    "id": 138692,
+    "malId": null,
+    "type": "manga",
+    "title": "Nianxia Nanyou Taolu Shen",
+    "url": "https://anilist.co/manga/138692",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138692-Wl22S1bXlxMa.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-02T07:15:46.000Z",
+    "updatedAt": "2021-09-02T07:15:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

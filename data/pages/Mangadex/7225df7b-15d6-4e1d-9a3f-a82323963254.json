@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 113449,
-  "aniId": null,
+  "aniId": 100407,
   "createdAt": "2020-10-12T16:10:50.000Z",
-  "updatedAt": "2021-06-05T08:54:50.000Z",
+  "updatedAt": "2021-09-04T23:45:45.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,27 @@
     "updatedAt": "2021-06-05T03:49:58.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "デジログ恋愛生活",
+      "Digi-log Renai Seikatsu",
+      "Digital x Analog"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Makoto Mitsuno"
+    ],
+    "id": 100407,
+    "malId": 113449,
+    "type": "manga",
+    "title": "Digilog Renai Seikatsu",
+    "url": "https://anilist.co/manga/100407",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/100407-72FbSNruqcy6.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-04T23:15:46.000Z",
+    "updatedAt": "2021-09-04T23:15:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/113449/Digilog_Renai_Seikatsu"
 }

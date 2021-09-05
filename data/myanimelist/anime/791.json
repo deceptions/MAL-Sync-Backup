@@ -12,7 +12,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:08.000Z",
-  "updatedAt": "2021-07-01T00:21:45.000Z",
+  "updatedAt": "2021-08-29T16:37:28.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -31,6 +31,25 @@
         "aniId": 791,
         "createdAt": "2021-01-01T13:03:20.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "arion": {
+        "identifier": "arion",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Arion",
+        "url": "https://gogoanime.pe/category/arion",
+        "image": "https://gogocdn.net/cover/arion.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 791,
+        "aniId": 791,
+        "createdAt": "2021-08-29T16:36:38.000Z",
+        "updatedAt": "2021-08-29T17:06:34.000Z",
         "deletedAt": null
       }
     }

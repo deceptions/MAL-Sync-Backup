@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:08.000Z",
-  "updatedAt": "2021-07-26T18:22:49.000Z",
+  "updatedAt": "2021-09-04T14:45:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 44787,
         "createdAt": "2021-01-26T18:11:18.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-no960471": {
+        "authors": [
+          "Bikke"
+        ],
+        "identifier": "manga-no960471",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ame Nochi Hare",
+        "url": "https://manganato.com/manga-no960471",
+        "image": "https://avt.mkklcdnv6temp.com/2/t/7-1583476379.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14787,
+        "aniId": 44787,
+        "createdAt": "2021-09-04T14:45:57.000Z",
+        "updatedAt": "2021-09-04T15:15:45.000Z",
         "deletedAt": null
       }
     }

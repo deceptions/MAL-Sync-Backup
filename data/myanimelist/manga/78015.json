@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:31.000Z",
-  "updatedAt": "2021-05-07T07:19:34.000Z",
+  "updatedAt": "2021-08-30T20:37:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 97671,
         "createdAt": "2021-05-07T07:19:34.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mushikago_no_cagaster": {
+        "authors": [
+          "HASHIMOTO Kachou"
+        ],
+        "identifier": "mushikago_no_cagaster",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mushikago no Cagaster",
+        "url": "https://fanfox.net/manga/mushikago_no_cagaster/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27064/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 78015,
+        "aniId": 97671,
+        "createdAt": "2021-08-30T20:37:39.000Z",
+        "updatedAt": "2021-08-30T21:06:34.000Z",
         "deletedAt": null
       }
     }

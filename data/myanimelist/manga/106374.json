@@ -15,7 +15,31 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-04-29T17:21:05.000Z",
-  "updatedAt": "2021-04-29T17:21:05.000Z",
+  "updatedAt": "2021-08-29T21:08:25.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-cv980330": {
+        "authors": [
+          "Magica Quartet",
+          "Papa"
+        ],
+        "identifier": "manga-cv980330",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Veranda Of Madoka",
+        "url": "https://manganato.com/manga-cv980330",
+        "image": "https://avt.mkklcdnv6temp.com/24/p/17-1583496140.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106374,
+        "aniId": 134007,
+        "createdAt": "2021-08-29T21:08:23.000Z",
+        "updatedAt": "2021-08-29T21:36:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

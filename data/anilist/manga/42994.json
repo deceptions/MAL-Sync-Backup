@@ -44,6 +44,50 @@
         "updatedAt": "2021-06-03T16:13:18.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-ki952365": {
+        "authors": [
+          "Nightow Yasuhiro"
+        ],
+        "identifier": "manga-ki952365",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kekkai Sensen - Mafuugai Kessha",
+        "url": "https://manganato.com/manga-ki952365",
+        "image": "https://avt.mkklcdnv6temp.com/36/t/1-1583465142.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12994,
+        "aniId": 42994,
+        "createdAt": "2021-08-31T07:38:33.000Z",
+        "updatedAt": "2021-08-31T08:06:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kekkai_sensen_mafuugai_kessha": {
+        "authors": [
+          "NIGHTOW Yasuhiro"
+        ],
+        "identifier": "kekkai_sensen_mafuugai_kessha",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kekkai Sensen - Mafuugai Kessha",
+        "url": "https://fanfox.net/manga/kekkai_sensen_mafuugai_kessha/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7612/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12994,
+        "aniId": 42994,
+        "createdAt": "2021-08-31T07:38:46.000Z",
+        "updatedAt": "2021-08-31T08:06:42.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

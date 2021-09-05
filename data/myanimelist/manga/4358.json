@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:59.000Z",
-  "updatedAt": "2021-05-30T02:42:13.000Z",
+  "updatedAt": "2021-09-04T13:46:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 34358,
         "createdAt": "2020-10-12T16:02:49.000Z",
         "updatedAt": "2021-06-02T09:40:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-oi957965": {
+        "authors": [
+          "Mashima Hiro"
+        ],
+        "identifier": "manga-oi957965",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Monster Soul",
+        "url": "https://manganato.com/manga-oi957965",
+        "image": "https://avt.mkklcdnv6temp.com/11/b/5-1583472289.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4358,
+        "aniId": 34358,
+        "createdAt": "2021-09-04T13:46:50.000Z",
+        "updatedAt": "2021-09-04T14:15:45.000Z",
         "deletedAt": null
       }
     }

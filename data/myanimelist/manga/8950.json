@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:21.000Z",
-  "updatedAt": "2021-04-27T13:19:31.000Z",
+  "updatedAt": "2021-08-30T23:37:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 38950,
         "createdAt": "2020-10-12T16:13:49.000Z",
         "updatedAt": "2021-06-06T00:23:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hanamaru-youchien": {
+        "authors": [
+          "Yuto"
+        ],
+        "identifier": "hanamaru-youchien",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hanamaru Youchien",
+        "url": "https://mangasee123.com/manga/Hanamaru-Youchien",
+        "image": "https://cover.nep.li/cover/Hanamaru-Youchien.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 8950,
+        "aniId": 38950,
+        "createdAt": "2021-04-27T13:19:31.000Z",
+        "updatedAt": "2021-08-31T08:06:42.000Z",
         "deletedAt": null
       }
     }

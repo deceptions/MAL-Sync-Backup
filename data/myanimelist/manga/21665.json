@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:58.000Z",
-  "updatedAt": "2021-04-02T21:01:30.000Z",
+  "updatedAt": "2021-09-01T05:17:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 51665,
         "createdAt": "2021-04-02T21:01:30.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-np955324": {
+        "authors": [
+          "Matsumoto Jiro"
+        ],
+        "identifier": "manga-np955324",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Jigoku No Alice",
+        "url": "https://manganato.com/manga-np955324",
+        "image": "https://avt.mkklcdnv6temp.com/34/m/3-1583469035.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21665,
+        "aniId": 51665,
+        "createdAt": "2021-09-01T05:16:16.000Z",
+        "updatedAt": "2021-09-01T05:45:45.000Z",
         "deletedAt": null
       }
     }

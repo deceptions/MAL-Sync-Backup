@@ -11,13 +11,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 131041,
+  "aniId": 118985,
   "createdAt": "2021-03-11T05:39:51.000Z",
-  "updatedAt": "2021-08-29T00:36:39.000Z",
+  "updatedAt": "2021-08-29T13:06:34.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "The Weakest Tamer Began a Journey to Pick up Trash.",
+      "最弱テイマーはゴミ拾いの旅を始めました。＠COMIC"
+    ],
+    "authors": [
+      "Fukino, Tou",
+      "Honobonoru500"
+    ],
+    "id": 131041,
+    "type": "manga",
+    "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita. @comic",
+    "url": "https://myanimelist.net/manga/131041/Saijaku_Tamer_wa_Gomi_Hiroi_no_Tabi_wo_Hajimemashita_comic",
+    "image": "https://cdn.myanimelist.net/images/manga/1/236905.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-11-10T21:44:11.000Z",
+    "updatedAt": "2021-08-29T00:37:35.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "最弱テイマーはゴミ拾いの旅を始めました。",
+      " The Weakest Tamer Began a Journey to Pick up Trash."
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Honobonoru500",
+      "Tou Fukino",
+      "Nama"
+    ],
+    "id": 118985,
+    "malId": 131041,
+    "type": "manga",
+    "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
+    "url": "https://anilist.co/manga/118985",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118985-NVZu49f9XBya.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:33.000Z",
+    "updatedAt": "2021-06-18T09:03:23.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/131041/Saijaku_Tamer_wa_Gomi_Hiroi_no_Tabi_wo_Hajimemashita_comic"
 }

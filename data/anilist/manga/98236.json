@@ -25,7 +25,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-01T17:31:16.000Z",
-  "updatedAt": "2021-06-18T01:58:54.000Z",
+  "updatedAt": "2021-08-30T23:37:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -47,6 +47,28 @@
         "aniId": 98236,
         "createdAt": "2020-10-12T16:08:52.000Z",
         "updatedAt": "2021-06-04T14:34:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "lovesickness-junji-ito-story-collection": {
+        "authors": [
+          "ITOU Junji"
+        ],
+        "identifier": "lovesickness-junji-ito-story-collection",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Lovesickness - Junji Ito Story Collection",
+        "url": "https://mangasee123.com/manga/Lovesickness-Junji-Ito-Story-Collection",
+        "image": "https://cover.nep.li/cover/Lovesickness-Junji-Ito-Story-Collection.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 92968,
+        "aniId": 98236,
+        "createdAt": "2021-05-11T16:25:01.000Z",
+        "updatedAt": "2021-08-31T08:02:52.000Z",
         "deletedAt": null
       }
     }

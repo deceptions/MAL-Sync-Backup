@@ -42,6 +42,28 @@
         "updatedAt": "2021-06-02T18:42:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kamen_rider_spirits": {
+        "authors": [
+          "ISHINOMORI Shotaro"
+        ],
+        "identifier": "kamen_rider_spirits",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kamen Rider Spirits",
+        "url": "https://fanfox.net/manga/kamen_rider_spirits/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/891/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4742,
+        "aniId": 34742,
+        "createdAt": "2021-09-03T19:47:01.000Z",
+        "updatedAt": "2021-09-03T20:15:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

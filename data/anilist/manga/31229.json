@@ -60,6 +60,28 @@
         "updatedAt": "2021-06-07T15:24:08.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "short_cuts": {
+        "authors": [
+          "FURUYA Usamaru"
+        ],
+        "identifier": "short_cuts",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Short Cuts",
+        "url": "https://fanfox.net/manga/short_cuts/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3748/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1229,
+        "aniId": 31229,
+        "createdAt": "2021-09-02T08:46:05.000Z",
+        "updatedAt": "2021-09-02T09:15:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

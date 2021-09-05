@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:15.000Z",
-  "updatedAt": "2021-05-04T01:33:13.000Z",
+  "updatedAt": "2021-09-04T09:16:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 54839,
         "createdAt": "2020-10-12T16:10:06.000Z",
         "updatedAt": "2021-06-04T22:24:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sono_go_no_crows": {
+        "authors": [
+          "TAKAHASHI Hiroshi"
+        ],
+        "identifier": "sono_go_no_crows",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sono Go no Crows",
+        "url": "https://fanfox.net/manga/sono_go_no_crows/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10167/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24839,
+        "aniId": 54839,
+        "createdAt": "2021-09-04T09:15:49.000Z",
+        "updatedAt": "2021-09-04T09:45:45.000Z",
         "deletedAt": null
       }
     }

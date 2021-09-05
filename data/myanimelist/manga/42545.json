@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:15.000Z",
-  "updatedAt": "2021-05-30T04:12:24.000Z",
+  "updatedAt": "2021-08-30T05:37:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 72545,
         "createdAt": "2021-04-13T09:15:43.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ii986317": {
+        "authors": [
+          "Seo Kouji"
+        ],
+        "identifier": "manga-ii986317",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Half & Half (Seo Kouji)",
+        "url": "https://manganato.com/manga-ii986317",
+        "image": "https://avt.mkklcdnv6temp.com/1/w/21-1598068293.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42545,
+        "aniId": 72545,
+        "createdAt": "2021-08-30T05:37:15.000Z",
+        "updatedAt": "2021-08-30T06:06:34.000Z",
         "deletedAt": null
       }
     }

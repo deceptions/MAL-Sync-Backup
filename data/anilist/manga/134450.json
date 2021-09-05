@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-25T05:08:19.000Z",
-  "updatedAt": "2021-06-21T17:59:22.000Z",
+  "updatedAt": "2021-08-31T19:07:11.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-jm987247": {
+        "authors": [
+          "Lilyquali"
+        ],
+        "identifier": "manga-jm987247",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Me And My Professor",
+        "url": "https://readmanganato.com/manga-jm987247",
+        "image": "https://avt.mkklcdnv6temp.com/39/q/22-1605888994.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 134450,
+        "createdAt": "2021-07-07T01:00:02.000Z",
+        "updatedAt": "2021-08-31T19:36:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

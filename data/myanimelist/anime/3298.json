@@ -1,7 +1,8 @@
 {
   "altTitle": [
     "Hatenkou Yugi",
-    "Hatenkou Yugi, Dazzle",
+    "Hatenkou Yugi",
+    "Dazzle",
     "破天荒遊戯"
   ],
   "id": 3298,
@@ -12,7 +13,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:36.000Z",
-  "updatedAt": "2021-04-15T14:16:09.000Z",
+  "updatedAt": "2021-08-30T08:36:52.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -31,6 +32,25 @@
         "aniId": 3298,
         "createdAt": "2020-10-12T15:56:25.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hatenkou-yuugi": {
+        "identifier": "hatenkou-yuugi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hatenkou Yuugi",
+        "url": "https://gogoanime.pe/category/hatenkou-yuugi",
+        "image": "https://gogocdn.net/images/anime/H/hatenkou-yuugi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3298,
+        "aniId": 3298,
+        "createdAt": "2021-08-30T08:36:49.000Z",
+        "updatedAt": "2021-08-30T09:06:34.000Z",
         "deletedAt": null
       }
     }

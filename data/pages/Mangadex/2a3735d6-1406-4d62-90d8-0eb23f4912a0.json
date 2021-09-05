@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 10036,
-  "aniId": null,
+  "aniId": 40036,
   "createdAt": "2020-10-12T16:11:41.000Z",
-  "updatedAt": "2021-06-05T12:50:14.000Z",
+  "updatedAt": "2021-08-30T01:06:34.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,27 @@
     "updatedAt": "2021-06-05T10:52:20.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "B級グルメ倶楽部",
+      "B Grade Gourmet Club",
+      "B-Kyuu Gourmet Kurabu"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ichiko Ima"
+    ],
+    "id": 40036,
+    "malId": 10036,
+    "type": "manga",
+    "title": "B-Kyuu Gourmet Club",
+    "url": "https://anilist.co/manga/40036",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/10036.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-30T00:36:35.000Z",
+    "updatedAt": "2021-08-30T00:36:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/10036/B-kyuu_Gourmet_Club"
 }

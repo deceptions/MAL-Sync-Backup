@@ -21,5 +21,29 @@
   "createdAt": "2021-05-28T20:23:33.000Z",
   "updatedAt": "2021-06-18T10:31:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-jp986772": {
+        "authors": [
+          "Yohachi",
+          "Nagatsuki Haruka"
+        ],
+        "identifier": "manga-jp986772",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Queen Of Hearts In Wonderland",
+        "url": "https://manganato.com/manga-jp986772",
+        "image": "https://avt.mkklcdnv6temp.com/20/h/22-1601224680.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130777,
+        "aniId": 124526,
+        "createdAt": "2021-09-01T10:46:23.000Z",
+        "updatedAt": "2021-09-01T11:15:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

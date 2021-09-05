@@ -11,7 +11,7 @@
   "category": "ONA",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:03.000Z",
-  "updatedAt": "2021-05-01T08:32:11.000Z",
+  "updatedAt": "2021-08-29T18:37:28.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +30,42 @@
         "aniId": null,
         "createdAt": "2020-10-12T15:50:11.000Z",
         "updatedAt": "2019-10-12T16:02:23.000Z",
+        "deletedAt": null
+      },
+      "02p69": {
+        "identifier": "02p69",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yinhun x KFC",
+        "url": "https://www12.9anime.to/watch/yinhun-x-kfc.02p69",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/61/61fa063426b0a6e4d639e39677ad7fd5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37864,
+        "aniId": null,
+        "createdAt": "2021-08-29T18:37:25.000Z",
+        "updatedAt": "2021-08-29T18:37:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yinhun-x-kfc": {
+        "identifier": "yinhun-x-kfc",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yinhun x KFC",
+        "url": "https://gogoanime.pe/category/yinhun-x-kfc",
+        "image": "https://gogocdn.net/cover/yinhun-x-kfc.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37864,
+        "aniId": null,
+        "createdAt": "2021-08-30T09:06:37.000Z",
+        "updatedAt": "2021-08-30T09:06:37.000Z",
         "deletedAt": null
       }
     }

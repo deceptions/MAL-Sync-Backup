@@ -13,13 +13,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 138625,
   "createdAt": "2021-08-24T12:36:44.000Z",
-  "updatedAt": "2021-08-24T12:37:04.000Z",
+  "updatedAt": "2021-09-01T08:10:59.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "남주를 꼬시려던 건 아니었습니다",
+      "I Didn't Mean to Seduce the Male Lead"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Lazy Piece",
+      "Salty",
+      "Dancheong"
+    ],
+    "id": 138625,
+    "malId": null,
+    "type": "manga",
+    "title": "Namjureul Kkosiryeodeon Geon Anieotseumnida",
+    "url": "https://anilist.co/manga/138625",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138625-DJPvJG9BcYzI.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-31T20:45:48.000Z",
+    "updatedAt": "2021-08-31T20:45:48.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

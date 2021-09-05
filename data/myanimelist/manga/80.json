@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:17.000Z",
-  "updatedAt": "2021-05-23T08:13:39.000Z",
+  "updatedAt": "2021-09-04T16:16:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,52 @@
         "aniId": 30080,
         "createdAt": "2020-10-12T16:05:15.000Z",
         "updatedAt": "2021-06-03T11:12:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "angelic_layer": {
+        "authors": [
+          "OHKAWA Ageha",
+          "CLAMP"
+        ],
+        "identifier": "angelic_layer",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Angelic Layer",
+        "url": "https://fanfox.net/manga/angelic_layer/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/133/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80,
+        "aniId": 30080,
+        "createdAt": "2021-09-04T16:16:42.000Z",
+        "updatedAt": "2021-09-04T16:45:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xz956334": {
+        "authors": [
+          "Ohkawa Ageha",
+          "Clamp"
+        ],
+        "identifier": "manga-xz956334",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Angelic Layer",
+        "url": "https://readmanganato.com/manga-xz956334",
+        "image": "https://avt.mkklcdnv6temp.com/11/p/4-1583470140.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80,
+        "aniId": 30080,
+        "createdAt": "2021-09-04T16:16:50.000Z",
+        "updatedAt": "2021-09-04T16:45:45.000Z",
         "deletedAt": null
       }
     }

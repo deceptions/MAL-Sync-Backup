@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:05.000Z",
-  "updatedAt": "2021-04-27T11:21:10.000Z",
+  "updatedAt": "2021-09-04T06:17:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 35407,
         "createdAt": "2020-10-12T16:14:11.000Z",
         "updatedAt": "2021-06-06T03:07:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ct980302": {
+        "authors": [
+          "Kanako Inuki"
+        ],
+        "identifier": "manga-ct980302",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kuchisake Onna Densetsu",
+        "url": "https://manganato.com/manga-ct980302",
+        "image": "https://avt.mkklcdnv6temp.com/23/o/17-1583496103.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5407,
+        "aniId": 35407,
+        "createdAt": "2021-09-04T06:16:27.000Z",
+        "updatedAt": "2021-09-04T06:45:45.000Z",
         "deletedAt": null
       }
     }

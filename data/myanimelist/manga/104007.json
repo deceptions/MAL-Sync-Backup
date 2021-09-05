@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:56.000Z",
-  "updatedAt": "2021-03-26T22:19:57.000Z",
+  "updatedAt": "2021-09-04T06:16:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 101836,
         "createdAt": "2021-03-26T22:19:58.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xs974901": {
+        "authors": [
+          "Yoshikawa Hideaki"
+        ],
+        "identifier": "manga-xs974901",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "One More Age",
+        "url": "https://manganato.com/manga-xs974901",
+        "image": "https://avt.mkklcdnv6temp.com/1/c/14-1583491512.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104007,
+        "aniId": 101836,
+        "createdAt": "2021-09-04T06:15:58.000Z",
+        "updatedAt": "2021-09-04T06:45:45.000Z",
         "deletedAt": null
       }
     }

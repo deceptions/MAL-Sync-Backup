@@ -15,14 +15,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:21.000Z",
-  "updatedAt": "2021-05-28T21:55:03.000Z",
+  "updatedAt": "2021-08-31T18:38:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "099992b1-ce62-4a28-8133-d39c004ab470": {
         "authors": [
-          "宮古蜂",
-          "Aresanzui"
+          "Aresanzui",
+          "宮古蜂"
         ],
         "identifier": "099992b1-ce62-4a28-8133-d39c004ab470",
         "type": "manga",
@@ -37,7 +37,7 @@
         "malId": 126140,
         "aniId": 118959,
         "createdAt": "2020-10-12T16:19:11.000Z",
-        "updatedAt": "2021-06-07T21:29:08.000Z",
+        "updatedAt": "2021-08-31T18:37:53.000Z",
         "deletedAt": null
       }
     },
@@ -61,6 +61,28 @@
         "aniId": 118959,
         "createdAt": "2021-05-28T21:55:03.000Z",
         "updatedAt": "2021-05-28T23:23:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tonari_no_seki_ni_natta_bishoujo_ga_horesaseyou_to_karakatte_kuru_ga_itsunomanika_kaeriuchi_ni_shite": {
+        "authors": [
+          "Aresanzui"
+        ],
+        "identifier": "tonari_no_seki_ni_natta_bishoujo_ga_horesaseyou_to_karakatte_kuru_ga_itsunomanika_kaeriuchi_ni_shite",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tonari no Seki ni Natta Bishoujo ga Horesaseyou to Karakatte Kuru ga Itsunomanika Kaeriuchi ni Shite Ita",
+        "url": "https://fanfox.net/manga/tonari_no_seki_ni_natta_bishoujo_ga_horesaseyou_to_karakatte_kuru_ga_itsunomanika_kaeriuchi_ni_shite/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39188/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126140,
+        "aniId": 118959,
+        "createdAt": "2021-09-02T06:45:51.000Z",
+        "updatedAt": "2021-09-02T07:15:45.000Z",
         "deletedAt": null
       }
     }

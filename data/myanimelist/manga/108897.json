@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:11.000Z",
-  "updatedAt": "2021-05-19T23:01:35.000Z",
+  "updatedAt": "2021-09-03T00:46:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 102419,
         "createdAt": "2020-10-12T16:11:49.000Z",
         "updatedAt": "2021-06-05T11:24:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cj979692": {
+        "authors": [
+          "Ishihara Keiko"
+        ],
+        "identifier": "manga-cj979692",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Itsuwari No Freya",
+        "url": "https://manganato.com/manga-cj979692",
+        "image": "https://avt.mkklcdnv6temp.com/1/d/16-1583495304.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108897,
+        "aniId": 102419,
+        "createdAt": "2021-09-03T00:46:41.000Z",
+        "updatedAt": "2021-09-03T01:15:45.000Z",
         "deletedAt": null
       }
     }

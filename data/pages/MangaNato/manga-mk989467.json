@@ -11,13 +11,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 138624,
   "createdAt": "2021-08-09T05:39:54.000Z",
-  "updatedAt": "2021-08-09T05:39:57.000Z",
+  "updatedAt": "2021-09-01T08:11:06.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "1년차 만렙 매니저"
+    ],
+    "externalLinks": [],
+    "authors": [],
+    "id": 138624,
+    "malId": null,
+    "type": "manga",
+    "title": "1-nyeoncha Mallem Maenijeo",
+    "url": "https://anilist.co/manga/138624",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/default.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-31T16:37:00.000Z",
+    "updatedAt": "2021-08-31T16:37:00.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

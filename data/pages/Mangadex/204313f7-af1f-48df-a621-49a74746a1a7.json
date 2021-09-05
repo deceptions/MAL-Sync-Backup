@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 119760,
-  "aniId": null,
+  "aniId": 109339,
   "createdAt": "2020-10-12T16:16:26.000Z",
-  "updatedAt": "2021-06-07T07:18:38.000Z",
+  "updatedAt": "2021-09-01T14:45:45.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-06-06T22:48:58.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "視線の虜",
+      "Prisoner of Your Glance"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "  Takiba"
+    ],
+    "id": 109339,
+    "malId": 119760,
+    "type": "manga",
+    "title": "Shisen no Toriko",
+    "url": "https://anilist.co/manga/109339",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109339-t6uxoDLtWkf0.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-09-01T14:15:46.000Z",
+    "updatedAt": "2021-09-01T14:15:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/119760/Shisen_no_Toriko"
 }

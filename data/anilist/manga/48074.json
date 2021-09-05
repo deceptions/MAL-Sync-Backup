@@ -18,5 +18,29 @@
   "createdAt": "2021-05-24T14:08:19.000Z",
   "updatedAt": "2021-06-17T16:04:53.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-pq966973": {
+        "authors": [
+          "Ishikawa Ken",
+          "Nagai Go"
+        ],
+        "identifier": "manga-pq966973",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Getter Robo",
+        "url": "https://manganato.com/manga-pq966973",
+        "image": "https://avt.mkklcdnv6temp.com/10/d/11-1583484374.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18074,
+        "aniId": 48074,
+        "createdAt": "2021-09-03T19:16:02.000Z",
+        "updatedAt": "2021-09-03T19:45:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -8,7 +8,7 @@
     "Rekomaru Otoi"
   ],
   "id": 111389,
-  "malId": null,
+  "malId": 139615,
   "type": "manga",
   "title": "Uso Bitch Senpai",
   "url": "https://anilist.co/manga/111389",
@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-21T19:43:38.000Z",
-  "updatedAt": "2021-08-07T21:22:01.000Z",
+  "updatedAt": "2021-08-29T07:36:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -33,11 +33,33 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
-        "malId": null,
+        "actor": 2,
+        "malId": 139615,
         "aniId": 111389,
         "createdAt": "2020-10-12T16:21:40.000Z",
-        "updatedAt": "2021-06-08T06:38:37.000Z",
+        "updatedAt": "2021-08-29T14:12:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jh986842": {
+        "authors": [
+          "Rekomaru Otoi"
+        ],
+        "identifier": "manga-jh986842",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Uso-Bitch Senpai",
+        "url": "https://manganato.com/manga-jh986842",
+        "image": "https://avt.mkklcdnv6temp.com/23/d/22-1601569584.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 139615,
+        "aniId": 111389,
+        "createdAt": "2021-06-06T19:49:10.000Z",
+        "updatedAt": "2021-08-29T14:36:34.000Z",
         "deletedAt": null
       }
     }

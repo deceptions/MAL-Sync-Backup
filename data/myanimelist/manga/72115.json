@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:19.000Z",
-  "updatedAt": "2021-05-10T14:42:41.000Z",
+  "updatedAt": "2021-08-30T11:37:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 85716,
         "createdAt": "2021-05-12T15:25:12.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kenkouki_hi_no_kuni_daiteikokugun_kurenai_ikki_tousentai": {
+        "authors": [
+          "NOGUCHI Koyuri"
+        ],
+        "identifier": "kenkouki_hi_no_kuni_daiteikokugun_kurenai_ikki_tousentai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kenkouki - Hi no Kuni Daiteikokugun Kurenai Ikki Tousentai",
+        "url": "https://fanfox.net/manga/kenkouki_hi_no_kuni_daiteikokugun_kurenai_ikki_tousentai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14082/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72115,
+        "aniId": 85716,
+        "createdAt": "2021-08-30T11:37:06.000Z",
+        "updatedAt": "2021-08-30T12:06:34.000Z",
         "deletedAt": null
       }
     }

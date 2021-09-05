@@ -15,7 +15,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:49.000Z",
-  "updatedAt": "2021-06-07T23:50:46.000Z",
+  "updatedAt": "2021-09-02T05:16:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 33232,
         "createdAt": "2021-06-07T23:51:03.000Z",
         "updatedAt": "2021-06-08T00:20:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "book_club": {
+        "authors": [
+          "CHO Ju Hee"
+        ],
+        "identifier": "book_club",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Book Club",
+        "url": "https://fanfox.net/manga/book_club/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1311/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3232,
+        "aniId": 33232,
+        "createdAt": "2021-09-02T05:16:02.000Z",
+        "updatedAt": "2021-09-02T05:45:45.000Z",
         "deletedAt": null
       }
     }

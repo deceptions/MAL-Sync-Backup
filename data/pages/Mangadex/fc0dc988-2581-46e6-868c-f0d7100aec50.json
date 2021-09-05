@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 6863,
-  "aniId": null,
+  "aniId": 36863,
   "createdAt": "2021-07-11T11:44:56.000Z",
-  "updatedAt": "2021-07-11T11:45:04.000Z",
+  "updatedAt": "2021-09-04T03:15:45.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,25 @@
     "updatedAt": "2021-07-11T11:45:03.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Pure Shadow"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kahori Onozuka"
+    ],
+    "id": 36863,
+    "malId": 6863,
+    "type": "manga",
+    "title": "Pure Shadow",
+    "url": "https://anilist.co/manga/36863",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/6863.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-09-04T02:45:46.000Z",
+    "updatedAt": "2021-09-04T02:45:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/6863/Kiyora_Kage"
 }

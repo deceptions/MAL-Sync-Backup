@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 124304,
-  "aniId": null,
+  "aniId": 138599,
   "createdAt": "2020-10-12T16:19:44.000Z",
-  "updatedAt": "2021-06-07T22:32:01.000Z",
+  "updatedAt": "2021-08-31T08:36:42.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -35,6 +35,25 @@
     "updatedAt": "2021-05-10T23:43:22.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ブラザー・トラップ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kyou Hinata"
+    ],
+    "id": 138599,
+    "malId": 124304,
+    "type": "manga",
+    "title": "Brother Trap",
+    "url": "https://anilist.co/manga/138599",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138599-7IFVEqw117HB.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-31T08:06:43.000Z",
+    "updatedAt": "2021-08-31T08:36:43.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/124304/Brother_Trap"
 }

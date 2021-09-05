@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-12-28T05:11:07.000Z",
-  "updatedAt": "2021-06-13T09:09:19.000Z",
+  "updatedAt": "2021-09-01T09:16:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 124540,
         "createdAt": "2021-06-13T09:08:39.000Z",
         "updatedAt": "2021-06-13T09:38:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hiyori_chan_no_onegai_wa_zettai": {
+        "authors": [
+          "Misaki Saginomiya"
+        ],
+        "identifier": "hiyori_chan_no_onegai_wa_zettai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hiyori-chan no Onegai wa Zettai",
+        "url": "https://fanfox.net/manga/hiyori_chan_no_onegai_wa_zettai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39182/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132278,
+        "aniId": 124540,
+        "createdAt": "2021-09-01T09:15:58.000Z",
+        "updatedAt": "2021-09-01T09:45:45.000Z",
         "deletedAt": null
       }
     }

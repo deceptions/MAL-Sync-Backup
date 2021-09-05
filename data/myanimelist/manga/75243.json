@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:23.000Z",
-  "updatedAt": "2021-03-23T23:16:12.000Z",
+  "updatedAt": "2021-09-01T05:46:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -99,6 +99,28 @@
         "aniId": 92154,
         "createdAt": "2021-03-23T23:16:13.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cp959424": {
+        "authors": [
+          "Akai Higasa"
+        ],
+        "identifier": "manga-cp959424",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Oushitsu Kyoushi Haine",
+        "url": "https://readmanganato.com/manga-cp959424",
+        "image": "https://avt.mkklcdnv6temp.com/13/e/6-1583474649.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75243,
+        "aniId": 92154,
+        "createdAt": "2021-09-01T05:46:20.000Z",
+        "updatedAt": "2021-09-01T06:15:45.000Z",
         "deletedAt": null
       }
     }

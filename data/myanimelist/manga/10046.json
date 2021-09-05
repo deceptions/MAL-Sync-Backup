@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:26.000Z",
-  "updatedAt": "2021-07-06T20:29:51.000Z",
+  "updatedAt": "2021-09-03T05:46:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 40046,
         "createdAt": "2021-01-06T20:05:54.000Z",
         "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-re953087": {
+        "authors": [
+          "Ojiro Makoto"
+        ],
+        "identifier": "manga-re953087",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Katekin",
+        "url": "https://manganato.com/manga-re953087",
+        "image": "https://avt.mkklcdnv6temp.com/11/k/2-1583466140.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10046,
+        "aniId": 40046,
+        "createdAt": "2021-09-03T05:46:18.000Z",
+        "updatedAt": "2021-09-03T06:15:45.000Z",
         "deletedAt": null
       }
     }

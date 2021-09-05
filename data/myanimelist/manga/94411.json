@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:20.000Z",
-  "updatedAt": "2021-06-17T16:58:16.000Z",
+  "updatedAt": "2021-08-31T01:07:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 103651,
         "createdAt": "2020-10-12T16:13:36.000Z",
         "updatedAt": "2021-06-05T22:38:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cc979437": {
+        "authors": [
+          "Nozomi Temote"
+        ],
+        "identifier": "manga-cc979437",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Pandamic",
+        "url": "https://manganato.com/manga-cc979437",
+        "image": "https://avt.mkklcdnv6temp.com/41/l/16-1583494952.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94411,
+        "aniId": 103651,
+        "createdAt": "2021-08-31T01:07:41.000Z",
+        "updatedAt": "2021-08-31T01:36:34.000Z",
         "deletedAt": null
       }
     }

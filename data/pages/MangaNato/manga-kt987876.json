@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 129632,
   "createdAt": "2021-05-29T06:45:07.000Z",
-  "updatedAt": "2021-08-11T08:40:25.000Z",
+  "updatedAt": "2021-08-30T08:31:02.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "튜토리얼이 너무 어렵다",
+      "The Tutorial is Too Hard"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gandara",
+      "Imae Daiki"
+    ],
+    "id": 129632,
+    "malId": null,
+    "type": "manga",
+    "title": "Tutorial Neomu Eoryeopda",
+    "url": "https://anilist.co/manga/129632",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129632-ArHo6qvYQoHs.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T09:43:08.000Z",
+    "updatedAt": "2021-08-07T21:26:41.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

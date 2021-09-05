@@ -12,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 2,
+  "malId": 139473,
   "aniId": 115302,
   "createdAt": "2020-10-12T16:18:25.000Z",
-  "updatedAt": "2021-07-15T05:21:19.000Z",
+  "updatedAt": "2021-09-04T13:40:14.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "altTitle": [
+      "Beware of the Oppas!",
+      "Geu Oppa-deureul Josimhae!",
+      "그 오빠들을 조심해!"
+    ],
+    "authors": [
+      "Plutus",
+      "Min, Iyeong"
+    ],
+    "id": 139473,
+    "type": "manga",
+    "title": "Beware of the Brothers!",
+    "url": "https://myanimelist.net/manga/139473/Beware_of_the_Brothers",
+    "image": "https://cdn.myanimelist.net/images/manga/3/249117.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "createdAt": "2021-09-03T22:46:30.000Z",
+    "updatedAt": "2021-09-03T22:46:30.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "그 오빠들을 조심해!",
@@ -50,5 +70,5 @@
     "updatedAt": "2021-06-21T14:57:36.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/139473/Beware_of_the_Brothers"
 }

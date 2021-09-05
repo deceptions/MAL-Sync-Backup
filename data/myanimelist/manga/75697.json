@@ -1,6 +1,7 @@
 {
   "altTitle": [
-    "Battlefield, [Battle Field]",
+    "Battlefield",
+    "[Battle Field]",
     "[BATTLE FIELD]"
   ],
   "authors": [
@@ -14,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:23.000Z",
-  "updatedAt": "2021-05-11T01:12:51.000Z",
+  "updatedAt": "2021-09-01T22:16:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +37,28 @@
         "aniId": 92223,
         "createdAt": "2020-10-12T16:07:39.000Z",
         "updatedAt": "2021-06-04T04:26:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "battle-field": {
+        "authors": [
+          "SHIMAMOTO Kazuhiko"
+        ],
+        "identifier": "battle-field",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Battle Field",
+        "url": "https://mangasee123.com/manga/Battle-Field",
+        "image": "https://cover.nep.li/cover/Battle-Field.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75697,
+        "aniId": 92223,
+        "createdAt": "2021-09-01T22:15:56.000Z",
+        "updatedAt": "2021-09-01T22:45:45.000Z",
         "deletedAt": null
       }
     }

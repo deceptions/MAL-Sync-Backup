@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:47.000Z",
-  "updatedAt": "2021-03-09T14:40:29.000Z",
+  "updatedAt": "2021-08-30T01:07:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 63143,
         "createdAt": "2020-10-12T16:08:48.000Z",
         "updatedAt": "2021-06-04T12:54:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dm952169": {
+        "authors": [
+          "Asano Masumi"
+        ],
+        "identifier": "manga-dm952169",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sore Ga Seiyuu!",
+        "url": "https://manganato.com/manga-dm952169",
+        "image": "https://avt.mkklcdnv6temp.com/30/f/1-1583464883.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33143,
+        "aniId": 63143,
+        "createdAt": "2021-08-30T01:06:58.000Z",
+        "updatedAt": "2021-08-30T01:36:35.000Z",
         "deletedAt": null
       }
     }

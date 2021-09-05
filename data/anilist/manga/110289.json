@@ -19,5 +19,28 @@
   "createdAt": "2021-07-29T08:21:40.000Z",
   "updatedAt": "2021-08-06T16:47:34.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "52070b82-d2b0-4dd5-ad39-dda678538f3b": {
+        "authors": [
+          "Kim Junghyun"
+        ],
+        "identifier": "52070b82-d2b0-4dd5-ad39-dda678538f3b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Raid (SF)",
+        "url": "https://mangadex.org/title/52070b82-d2b0-4dd5-ad39-dda678538f3b",
+        "image": "https://uploads.mangadex.org/covers/52070b82-d2b0-4dd5-ad39-dda678538f3b/546a26db-c5ba-4ab4-ad7a-79ba5df40efe.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 110289,
+        "createdAt": "2020-10-12T16:16:32.000Z",
+        "updatedAt": "2021-09-03T15:13:44.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

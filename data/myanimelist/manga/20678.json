@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:52.000Z",
-  "updatedAt": "2021-07-09T13:13:31.000Z",
+  "updatedAt": "2021-09-03T23:46:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 50678,
         "createdAt": "2021-07-09T13:13:26.000Z",
         "updatedAt": "2021-07-09T13:43:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-iu957429": {
+        "authors": [
+          "Sugita Naoya"
+        ],
+        "identifier": "manga-iu957429",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Swot",
+        "url": "https://manganato.com/manga-iu957429",
+        "image": "https://avt.mkklcdnv6temp.com/45/a/4-1583471585.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20678,
+        "aniId": 50678,
+        "createdAt": "2021-09-03T23:46:00.000Z",
+        "updatedAt": "2021-09-04T00:15:45.000Z",
         "deletedAt": null
       }
     }

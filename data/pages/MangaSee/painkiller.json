@@ -10,14 +10,36 @@
   "image": "https://cover.nep.li/cover/Painkiller.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 109402,
   "createdAt": "2021-03-25T18:19:35.000Z",
-  "updatedAt": "2021-03-25T18:19:35.000Z",
+  "updatedAt": "2021-08-29T20:06:46.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "PAINKILLER",
+      "페인킬러",
+      " Pain Killer",
+      "Pain Killer-正义的背后"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ho-Yun Jeon"
+    ],
+    "id": 109402,
+    "malId": null,
+    "type": "manga",
+    "title": "PAINKILLER",
+    "url": "https://anilist.co/manga/109402",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b109402-vXeLflJF12A4.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-07T21:52:33.000Z",
+    "updatedAt": "2021-08-29T20:06:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

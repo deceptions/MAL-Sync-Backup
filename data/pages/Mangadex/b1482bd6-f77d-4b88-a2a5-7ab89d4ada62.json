@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 125500,
-  "aniId": null,
+  "aniId": 111968,
   "createdAt": "2020-10-12T16:17:16.000Z",
-  "updatedAt": "2021-06-07T06:13:53.000Z",
+  "updatedAt": "2021-09-03T01:15:45.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,26 @@
     "updatedAt": "2021-07-15T11:51:44.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ソシャゲ彼女",
+      "Social Game Girlfriend"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kentaurosu"
+    ],
+    "id": 111968,
+    "malId": 125500,
+    "type": "manga",
+    "title": "Social Game Kanojo",
+    "url": "https://anilist.co/manga/111968",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111968-qIewxz2mEyhZ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-07T06:20:11.000Z",
+    "updatedAt": "2021-09-03T00:45:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/125500/Soshage_Kanojo"
 }

@@ -15,7 +15,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-18T13:32:21.000Z",
-  "updatedAt": "2021-07-18T13:32:21.000Z",
+  "updatedAt": "2021-09-04T21:15:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "cd75c9e8-98cc-4c79-a493-0d4ad5c77bd2": {
+        "authors": [
+          "Saito Takao"
+        ],
+        "identifier": "cd75c9e8-98cc-4c79-a493-0d4ad5c77bd2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kitty Hawker",
+        "url": "https://mangadex.org/title/cd75c9e8-98cc-4c79-a493-0d4ad5c77bd2",
+        "image": "https://uploads.mangadex.org/covers/cd75c9e8-98cc-4c79-a493-0d4ad5c77bd2/c97a6028-cbd0-46e4-9ab0-ee23e54f0821.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28273,
+        "aniId": 58273,
+        "createdAt": "2021-09-04T21:15:46.000Z",
+        "updatedAt": "2021-09-04T21:15:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

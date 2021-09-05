@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:14.000Z",
-  "updatedAt": "2021-05-31T09:47:33.000Z",
+  "updatedAt": "2021-09-04T15:46:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -145,6 +145,26 @@
         "aniId": 86320,
         "createdAt": "2021-05-31T09:47:34.000Z",
         "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      },
+      "manga-kr988226": {
+        "authors": [
+          "Akagi Hirotaka"
+        ],
+        "identifier": "manga-kr988226",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shimoneta To Iu Gainen Ga Sonzai Shinai Taikutsu Na Sekai: Man**-Hen",
+        "url": "https://readmanganato.com/manga-kr988226",
+        "image": "https://avt.mkklcdnv6temp.com/29/x/23-1613926643.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68571,
+        "aniId": 86320,
+        "createdAt": "2021-09-04T15:46:00.000Z",
+        "updatedAt": "2021-09-04T16:15:45.000Z",
         "deletedAt": null
       }
     }

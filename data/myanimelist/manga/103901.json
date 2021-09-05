@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:55.000Z",
-  "updatedAt": "2021-05-18T04:54:55.000Z",
+  "updatedAt": "2021-08-31T07:38:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 99137,
         "createdAt": "2020-10-12T16:10:46.000Z",
         "updatedAt": "2021-06-05T03:12:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xm975221": {
+        "authors": [
+          "Gondaira Hitsuji"
+        ],
+        "identifier": "manga-xm975221",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Poro No Ryuugaku-Ki",
+        "url": "https://manganato.com/manga-xm975221",
+        "image": "https://avt.mkklcdnv6temp.com/6/q/15-1583491706.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103901,
+        "aniId": 99137,
+        "createdAt": "2021-08-31T07:38:30.000Z",
+        "updatedAt": "2021-08-31T08:06:42.000Z",
         "deletedAt": null
       }
     }

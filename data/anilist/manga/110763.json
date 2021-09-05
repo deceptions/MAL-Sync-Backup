@@ -41,6 +41,50 @@
         "updatedAt": "2021-06-06T17:40:03.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-ep981450": {
+        "authors": [
+          "Yukimoto Syuji"
+        ],
+        "identifier": "manga-ep981450",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shark Girl",
+        "url": "https://manganato.com/manga-ep981450",
+        "image": "https://avt.mkklcdnv6temp.com/15/f/18-1583497673.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 120957,
+        "aniId": 110763,
+        "createdAt": "2021-06-04T22:49:18.000Z",
+        "updatedAt": "2021-09-03T15:15:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shark_girl": {
+        "authors": [
+          "Yukimoto Syuji"
+        ],
+        "identifier": "shark_girl",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shark Girl",
+        "url": "https://fanfox.net/manga/shark_girl/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30253/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 120957,
+        "aniId": 110763,
+        "createdAt": "2021-09-02T02:15:51.000Z",
+        "updatedAt": "2021-09-03T15:15:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

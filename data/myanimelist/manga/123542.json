@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:11.000Z",
-  "updatedAt": "2021-04-12T20:17:59.000Z",
+  "updatedAt": "2021-09-02T22:45:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,29 @@
         "aniId": 113529,
         "createdAt": "2020-10-12T16:17:58.000Z",
         "updatedAt": "2021-06-07T12:45:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tsubame_tippuofu": {
+        "authors": [
+          "WATANUKI Hiroya",
+          "[Add]"
+        ],
+        "identifier": "tsubame_tippuofu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tsubame Tippuofu!",
+        "url": "https://fanfox.net/manga/tsubame_tippuofu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32350/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 123542,
+        "aniId": 113529,
+        "createdAt": "2021-09-02T22:45:51.000Z",
+        "updatedAt": "2021-09-03T07:45:45.000Z",
         "deletedAt": null
       }
     }

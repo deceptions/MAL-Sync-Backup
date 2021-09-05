@@ -15,5 +15,25 @@
   "createdAt": "2021-08-20T02:07:06.000Z",
   "updatedAt": "2021-08-20T02:07:06.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "mini-van-special": {
+        "identifier": "mini-van-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mini Van Special",
+        "url": "https://gogoanime.pe/category/mini-van-special",
+        "image": "https://gogocdn.net/cover/mini-van-special.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20999,
+        "aniId": 101431,
+        "createdAt": "2021-09-04T09:16:50.000Z",
+        "updatedAt": "2021-09-04T09:45:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

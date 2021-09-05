@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:28.000Z",
-  "updatedAt": "2021-05-17T03:56:54.000Z",
+  "updatedAt": "2021-09-01T07:46:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -79,6 +79,28 @@
         "aniId": 57587,
         "createdAt": "2021-05-17T03:56:54.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-oz952808": {
+        "authors": [
+          "Sasaki Takeshi"
+        ],
+        "identifier": "manga-oz952808",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "King Golf",
+        "url": "https://manganato.com/manga-oz952808",
+        "image": "https://avt.mkklcdnv6temp.com/2/f/2-1583465776.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27587,
+        "aniId": 57587,
+        "createdAt": "2021-09-01T07:46:19.000Z",
+        "updatedAt": "2021-09-01T08:15:45.000Z",
         "deletedAt": null
       }
     }

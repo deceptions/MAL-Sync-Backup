@@ -12,13 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 86497,
   "createdAt": "2020-12-17T05:56:47.000Z",
-  "updatedAt": "2021-08-27T06:37:03.000Z",
+  "updatedAt": "2021-09-03T15:13:23.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "SStudy",
+      "나성기의 스터디",
+      "清起摩羅の勉強会",
+      "Sex Study",
+      "Sunggi's Study Group"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Edge Edge",
+      "Husky Nom"
+    ],
+    "id": 86497,
+    "malId": null,
+    "type": "manga",
+    "title": "SStudy",
+    "url": "https://anilist.co/manga/86497",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86497-DNF9k9l58W8x.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-06-02T07:17:03.000Z",
+    "updatedAt": "2021-08-23T11:37:05.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

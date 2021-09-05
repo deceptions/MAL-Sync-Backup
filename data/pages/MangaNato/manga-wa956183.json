@@ -11,13 +11,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 35171,
+  "aniId": 65171,
   "createdAt": "2021-08-27T16:38:07.000Z",
-  "updatedAt": "2021-08-27T16:38:17.000Z",
+  "updatedAt": "2021-08-30T08:36:34.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "See, Hear, Love",
+      "보지 못하고 듣지 못하고 사랑해"
+    ],
+    "authors": [
+      "Go, Yeong-Hun"
+    ],
+    "id": 35171,
+    "type": "manga",
+    "title": "Can't See Can't Hear But Love",
+    "url": "https://myanimelist.net/manga/35171/Cant_See_Cant_Hear_But_Love",
+    "image": "https://cdn.myanimelist.net/images/manga/2/104251.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:43:57.000Z",
+    "updatedAt": "2021-08-27T16:38:17.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "See, Hear, Love",
+      "보지 못하고 듣지 못하고 사랑해",
+      "Can't See Can't Hear But Love"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yeong-Hun Go"
+    ],
+    "id": 65171,
+    "malId": 35171,
+    "type": "manga",
+    "title": "Boji Motago Deutji Motago Saranghae",
+    "url": "https://anilist.co/manga/65171",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b65171-J4zgcREJOUqw.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:48:02.000Z",
+    "updatedAt": "2021-06-17T19:13:57.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/35171/Cant_See_Cant_Hear_But_Love"
 }

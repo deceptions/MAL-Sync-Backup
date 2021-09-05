@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:19.000Z",
-  "updatedAt": "2021-08-04T17:50:05.000Z",
+  "updatedAt": "2021-09-03T19:16:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,6 +84,29 @@
         "aniId": 38571,
         "createdAt": "2021-07-04T03:39:56.000Z",
         "updatedAt": "2021-07-04T03:59:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-oh965816": {
+        "authors": [
+          "Ishikawa Ken",
+          "Nagai Go"
+        ],
+        "identifier": "manga-oh965816",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shin Getter Robo",
+        "url": "https://manganato.com/manga-oh965816",
+        "image": "https://avt.mkklcdnv6temp.com/20/u/10-1583482921.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8571,
+        "aniId": 38571,
+        "createdAt": "2021-09-03T19:15:59.000Z",
+        "updatedAt": "2021-09-03T19:45:45.000Z",
         "deletedAt": null
       }
     }

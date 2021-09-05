@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:22.000Z",
-  "updatedAt": "2021-04-29T14:50:51.000Z",
+  "updatedAt": "2021-08-30T11:37:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 106073,
         "createdAt": "2020-10-12T16:16:13.000Z",
         "updatedAt": "2021-06-06T20:38:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hb985310": {
+        "authors": [
+          "Torikai Akane"
+        ],
+        "identifier": "manga-hb985310",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Saturn Return",
+        "url": "https://manganato.com/manga-hb985310",
+        "image": "https://avt.mkklcdnv6temp.com/10/j/21-1589039268.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126748,
+        "aniId": 106073,
+        "createdAt": "2021-08-30T11:36:55.000Z",
+        "updatedAt": "2021-08-30T12:06:34.000Z",
         "deletedAt": null
       }
     }

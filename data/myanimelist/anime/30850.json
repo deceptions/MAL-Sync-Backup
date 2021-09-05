@@ -12,7 +12,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:37.000Z",
-  "updatedAt": "2021-04-30T13:19:03.000Z",
+  "updatedAt": "2021-08-29T13:37:36.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -65,6 +65,25 @@
         "aniId": 98173,
         "createdAt": "2020-10-12T15:53:33.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ufo-gakuen-no-himitsu": {
+        "identifier": "ufo-gakuen-no-himitsu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "UFO Gakuen no Himitsu",
+        "url": "https://gogoanime.pe/category/ufo-gakuen-no-himitsu",
+        "image": "https://gogocdn.net/images/upload/UFO Gakuen no Himitsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30850,
+        "aniId": 98173,
+        "createdAt": "2021-08-29T13:36:35.000Z",
+        "updatedAt": "2021-08-29T14:06:34.000Z",
         "deletedAt": null
       }
     }

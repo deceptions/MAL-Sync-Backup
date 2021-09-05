@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 134450,
   "createdAt": "2021-07-07T01:00:02.000Z",
-  "updatedAt": "2021-07-07T01:00:14.000Z",
+  "updatedAt": "2021-08-31T19:36:33.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "My Professor and I",
+      "我與教授難以啟齒",
+      "I can't tell the professor"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "KarasuTsubasa"
+    ],
+    "id": 134450,
+    "malId": null,
+    "type": "manga",
+    "title": "Wo Yu Jiao Shou Nan Yi Qi Chi",
+    "url": "https://anilist.co/manga/134450",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134450-oJ1XCcZfPn6v.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-25T05:08:19.000Z",
+    "updatedAt": "2021-08-31T19:07:11.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }
