@@ -15,7 +15,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2021-05-31T13:28:56.000Z",
-  "updatedAt": "2021-05-31T13:28:56.000Z",
+  "updatedAt": "2021-09-11T23:04:59.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaNato": {
@@ -37,6 +37,28 @@
         "aniId": 102354,
         "createdAt": "2021-05-31T13:28:56.000Z",
         "updatedAt": "2021-06-02T01:01:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "gwijeongudam": {
+        "authors": [
+          "QTT"
+        ],
+        "identifier": "gwijeongudam",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Gwijeongudam",
+        "url": "https://fanfox.net/manga/gwijeongudam/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25417/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131171,
+        "aniId": 102354,
+        "createdAt": "2021-09-11T23:04:51.000Z",
+        "updatedAt": "2021-09-11T23:34:33.000Z",
         "deletedAt": null
       }
     }

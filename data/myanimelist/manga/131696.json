@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-12-04T23:11:29.000Z",
-  "updatedAt": "2021-06-04T23:19:18.000Z",
+  "updatedAt": "2021-09-09T01:34:55.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 125628,
         "createdAt": "2020-12-04T23:11:32.000Z",
         "updatedAt": "2021-06-08T08:55:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "aragane-no-ko": {
+        "authors": [
+          "SASAKI Nao"
+        ],
+        "identifier": "aragane-no-ko",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Aragane no Ko",
+        "url": "https://mangasee123.com/manga/Aragane-no-Ko",
+        "image": "https://cover.nep.li/cover/Aragane-no-Ko.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131696,
+        "aniId": 125628,
+        "createdAt": "2021-09-09T01:34:53.000Z",
+        "updatedAt": "2021-09-09T02:04:29.000Z",
         "deletedAt": null
       }
     }

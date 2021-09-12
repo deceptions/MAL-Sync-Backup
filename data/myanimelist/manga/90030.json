@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:02.000Z",
-  "updatedAt": "2021-04-07T17:21:27.000Z",
+  "updatedAt": "2021-09-09T01:05:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -79,6 +79,28 @@
         "aniId": 95177,
         "createdAt": "2021-04-07T17:21:27.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bv979004": {
+        "authors": [
+          "Yakan Tsuzura"
+        ],
+        "identifier": "manga-bv979004",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kainushi Juujin To Pet Joshikousei",
+        "url": "https://manganato.com/manga-bv979004",
+        "image": "https://avt.mkklcdnv6temp.com/25/d/16-1583494370.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90030,
+        "aniId": 95177,
+        "createdAt": "2021-09-09T01:05:42.000Z",
+        "updatedAt": "2021-09-09T01:34:29.000Z",
         "deletedAt": null
       }
     }

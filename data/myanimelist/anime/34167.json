@@ -10,7 +10,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2021-03-30T08:00:50.000Z",
-  "updatedAt": "2021-03-30T08:00:50.000Z",
+  "updatedAt": "2021-09-07T00:36:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Gogoanime": {
@@ -29,6 +29,25 @@
         "aniId": 104867,
         "createdAt": "2021-03-30T08:00:51.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "n3nvl": {
+        "identifier": "n3nvl",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cocolors",
+        "url": "https://www12.9anime.to/watch/cocolors.n3nvl",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/dd/dd74dd3106351551effc3bc67f12ae1b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34167,
+        "aniId": 104867,
+        "createdAt": "2021-09-07T00:36:34.000Z",
+        "updatedAt": "2021-09-07T01:04:29.000Z",
         "deletedAt": null
       }
     }

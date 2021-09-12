@@ -14,7 +14,7 @@
   "category": "Special",
   "hentai": false,
   "createdAt": "2021-01-25T04:13:52.000Z",
-  "updatedAt": "2021-07-25T04:22:34.000Z",
+  "updatedAt": "2021-09-09T18:05:05.000Z",
   "deletedAt": null,
   "Pages": {
     "animepahe": {
@@ -30,9 +30,28 @@
         "active": true,
         "actor": null,
         "malId": 22695,
-        "aniId": null,
+        "aniId": 138864,
         "createdAt": "2021-01-25T04:13:52.000Z",
-        "updatedAt": "2021-01-25T04:13:52.000Z",
+        "updatedAt": "2021-09-07T17:04:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "3rqoy": {
+        "identifier": "3rqoy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dragon Ball Z: Summer Vacation Special",
+        "url": "https://www12.9anime.to/watch/dragon-ball-z-summer-vacation-special.3rqoy",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/ab/ab8d1af950ce5d2cce7b5c1048504124.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22695,
+        "aniId": 138864,
+        "createdAt": "2021-09-09T18:05:03.000Z",
+        "updatedAt": "2021-09-09T18:34:29.000Z",
         "deletedAt": null
       }
     }

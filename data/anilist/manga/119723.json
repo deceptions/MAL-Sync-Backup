@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T23:52:15.000Z",
-  "updatedAt": "2021-06-21T15:47:13.000Z",
+  "updatedAt": "2021-09-05T18:47:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 119723,
         "createdAt": "2020-10-12T16:20:03.000Z",
         "updatedAt": "2021-06-08T00:33:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lg988589": {
+        "authors": [
+          "Bulman-Issnyang"
+        ],
+        "identifier": "manga-lg988589",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Trigger (Bulman-Issnyang)",
+        "url": "https://manganato.com/manga-lg988589",
+        "image": "https://avt.mkklcdnv6temp.com/45/b/23-1616514908.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 119723,
+        "createdAt": "2021-06-13T04:39:20.000Z",
+        "updatedAt": "2021-09-06T12:56:03.000Z",
         "deletedAt": null
       }
     }

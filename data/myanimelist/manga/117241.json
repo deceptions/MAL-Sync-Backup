@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:50.000Z",
-  "updatedAt": "2021-07-17T16:04:44.000Z",
+  "updatedAt": "2021-09-09T10:51:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 107555,
         "createdAt": "2020-10-12T16:15:15.000Z",
         "updatedAt": "2021-06-06T13:41:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ex981380": {
+        "authors": [
+          "Type-Moon"
+        ],
+        "identifier": "manga-ex981380",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fate/grand Order: Epic Of Remnant - Seven Duels Of Swordsmasters",
+        "url": "https://manganato.com/manga-ex981380",
+        "image": "https://avt.mkklcdnv6temp.com/12/r/18-1583497579.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 117241,
+        "aniId": 107555,
+        "createdAt": "2021-06-06T10:49:19.000Z",
+        "updatedAt": "2021-09-09T10:52:03.000Z",
         "deletedAt": null
       }
     },

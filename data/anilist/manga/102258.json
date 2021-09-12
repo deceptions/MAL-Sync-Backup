@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-05T23:22:08.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "yasashii_hikari": {
+        "authors": [
+          "NAKAMURA Hinata"
+        ],
+        "identifier": "yasashii_hikari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yasashii Hikari",
+        "url": "https://fanfox.net/manga/yasashii_hikari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28159/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118644,
+        "aniId": 102258,
+        "createdAt": "2021-09-06T22:04:43.000Z",
+        "updatedAt": "2021-09-06T22:34:29.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

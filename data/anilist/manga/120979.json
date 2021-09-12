@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T15:00:13.000Z",
-  "updatedAt": "2021-06-18T09:34:40.000Z",
+  "updatedAt": "2021-09-05T23:16:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -65,6 +65,30 @@
         "aniId": 120979,
         "createdAt": "2021-02-18T20:34:04.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ks988001": {
+        "authors": [
+          "Warita Koma",
+          "Nenohi Akisuzu",
+          "Sonohara Ao"
+        ],
+        "identifier": "manga-ks988001",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Jingai Hime Sama, Hajimemashita - Free Life Fantasy Online",
+        "url": "https://readmanganato.com/manga-ks988001",
+        "image": "https://avt.mkklcdnv6temp.com/20/v/23-1612517688.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133502,
+        "aniId": 120979,
+        "createdAt": "2021-06-02T01:02:07.000Z",
+        "updatedAt": "2021-09-06T00:15:45.000Z",
         "deletedAt": null
       }
     }

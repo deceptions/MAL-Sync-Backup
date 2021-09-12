@@ -19,5 +19,29 @@
   "createdAt": "2021-05-27T01:28:43.000Z",
   "updatedAt": "2021-06-18T08:33:12.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "undead-girl-murder-farce": {
+        "authors": [
+          "AOSAKI Yuugo",
+          "TOMOYAMA Haruka"
+        ],
+        "identifier": "undead-girl-murder-farce",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Undead Girl Murder Farce",
+        "url": "https://mangasee123.com/manga/Undead-Girl-Murder-Farce",
+        "image": "https://cover.nep.li/cover/Undead-Girl-Murder-Farce.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98437,
+        "aniId": 117306,
+        "createdAt": "2021-09-11T15:06:39.000Z",
+        "updatedAt": "2021-09-11T15:34:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

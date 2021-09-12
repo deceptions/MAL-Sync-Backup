@@ -13,9 +13,9 @@
   "active": true,
   "actor": 2,
   "malId": 131016,
-  "aniId": null,
+  "aniId": 125770,
   "createdAt": "2020-10-12T16:15:15.000Z",
-  "updatedAt": "2021-06-06T13:35:10.000Z",
+  "updatedAt": "2021-09-05T13:45:45.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-06-06T12:19:38.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "あの夜のプール",
+      "The Pool That Night"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Puku Puku  "
+    ],
+    "id": 125770,
+    "malId": 131016,
+    "type": "manga",
+    "title": "Ano Yoru no Pool",
+    "url": "https://anilist.co/manga/125770",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125770-24R5LmD10aEE.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-09-05T13:15:46.000Z",
+    "updatedAt": "2021-09-05T13:15:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/131016/Ano_Yoru_no_Pool"
 }

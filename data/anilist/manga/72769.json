@@ -19,5 +19,29 @@
   "createdAt": "2021-05-20T14:48:55.000Z",
   "updatedAt": "2021-06-17T20:01:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "phi-brain-kami-no-puzzle": {
+        "authors": [
+          "TOGAWA Yoshiki",
+          "YADATE Hajime"
+        ],
+        "identifier": "phi-brain-kami-no-puzzle",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Phi Brain - Kami no Puzzle",
+        "url": "https://mangasee123.com/manga/Phi-Brain-Kami-No-Puzzle",
+        "image": "https://cover.nep.li/cover/Phi-Brain-Kami-No-Puzzle.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42769,
+        "aniId": 72769,
+        "createdAt": "2021-09-06T03:46:22.000Z",
+        "updatedAt": "2021-09-06T04:15:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

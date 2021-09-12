@@ -11,13 +11,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 117241,
+  "aniId": 107555,
   "createdAt": "2021-06-06T10:49:19.000Z",
-  "updatedAt": "2021-06-06T10:49:19.000Z",
+  "updatedAt": "2021-09-09T10:52:03.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Fate/Grand Order -Epic of Remnant- Pseudo-Singularity III: The Stage of Carnage, Shimousa - Seven Duels of Swordmasters",
+      "Fate/Grand Order: Epic of Remnant - Pseudo-Singularity III - The Stage of Carnage, Shimousa - Seven Duels of Swordmasters",
+      "Fate/Grand Order-Epic of Remnant-亜種特異点3/亜種並行世界 屍山血河舞台 下総国 英霊剣豪七番勝負"
+    ],
+    "authors": [
+      "Wataru, Rei"
+    ],
+    "id": 117241,
+    "type": "manga",
+    "title": "Fate/Grand Order: Epic of Remnant - Ashu Tokuiten III/Ashu Heikou Sekai - Shizan Ketsuga Butai Shimousa no Kuni - Eirei Kengou Nanaban Shoubu",
+    "url": "https://myanimelist.net/manga/117241/Fate_Grand_Order__Epic_of_Remnant_-_Ashu_Tokuiten_III_Ashu_Heikou_Sekai_-_Shizan_Ketsuga_Butai_Shimousa_no_Kuni_-_Eirei_Kengou_Nanaban_Shoubu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/226273.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:50.000Z",
+    "updatedAt": "2021-09-09T10:51:59.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Fate/Grand Order -Epic of Remnant- Pseudo-Singularity III: The Stage of Carnage, Shimousa – Seven Duels of Swordmasters",
+      "Fate/Grand Order -Epic of Remnant- 亜種特異点III 屍山血河舞台 下総国 英霊剣豪七番勝負"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Rei Watari",
+      "Type-Moon"
+    ],
+    "id": 107555,
+    "malId": 117241,
+    "type": "manga",
+    "title": "Fate/Grand Order: Epic of Remnant - Ashu Tokuiten III Shizenketsuga Butai Shimousa Kuni - Eirei Kengou Nanaban Shoubu",
+    "url": "https://anilist.co/manga/107555",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107555-qoLmnmwQUli7.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:57:55.000Z",
+    "updatedAt": "2021-09-08T20:05:23.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/117241/Fate_Grand_Order__Epic_of_Remnant_-_Ashu_Tokuiten_III_Ashu_Heikou_Sekai_-_Shizan_Ketsuga_Butai_Shimousa_no_Kuni_-_Eirei_Kengou_Nanaban_Shoubu"
 }

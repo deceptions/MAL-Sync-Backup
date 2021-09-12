@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:12.000Z",
-  "updatedAt": "2021-06-17T06:28:26.000Z",
+  "updatedAt": "2021-09-09T21:05:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 112850,
         "createdAt": "2020-12-17T06:26:24.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "desire-pandora": {
+        "authors": [
+          "HIZUKI Akira"
+        ],
+        "identifier": "desire-pandora",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Desire Pandora",
+        "url": "https://mangasee123.com/manga/Desire-Pandora",
+        "image": "https://cover.nep.li/cover/Desire-Pandora.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 109168,
+        "aniId": 112850,
+        "createdAt": "2021-09-09T15:34:55.000Z",
+        "updatedAt": "2021-09-10T07:34:29.000Z",
         "deletedAt": null
       }
     }

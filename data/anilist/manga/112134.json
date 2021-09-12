@@ -63,6 +63,28 @@
         "updatedAt": "2021-08-05T00:47:29.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kirara_fantasia": {
+        "authors": [
+          "Kounosu Satori"
+        ],
+        "identifier": "kirara_fantasia",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kirara Fantasia",
+        "url": "https://fanfox.net/manga/kirara_fantasia/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31612/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122311,
+        "aniId": 112134,
+        "createdAt": "2021-09-10T01:05:09.000Z",
+        "updatedAt": "2021-09-10T01:34:29.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -11,13 +11,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 137812,
+  "aniId": 135981,
   "createdAt": "2021-08-27T23:06:37.000Z",
-  "updatedAt": "2021-08-27T23:06:37.000Z",
+  "updatedAt": "2021-09-09T11:04:29.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "The Hunters Guild: Red Hood",
+      "レッドフード"
+    ],
+    "authors": [
+      "Kawaguchi, Yuuki"
+    ],
+    "id": 137812,
+    "type": "manga",
+    "title": "Red Hood",
+    "url": "https://myanimelist.net/manga/137812/Red_Hood",
+    "image": "https://cdn.myanimelist.net/images/manga/1/247439.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-06-27T16:49:32.000Z",
+    "updatedAt": "2021-09-08T06:04:35.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "The Hunters Guild: Red Hood",
+      "レッドフード",
+      "El gremio de cazadores: red hood"
+    ],
+    "externalLinks": [
+      {
+        "site": "VIZ",
+        "url": "https://www.viz.com/shonenjump/chapters/the-hunters-guild-red-hood"
+      },
+      {
+        "site": "MangaPlus",
+        "url": "https://mangaplus.shueisha.co.jp/titles/100165"
+      }
+    ],
+    "authors": [
+      "Yuuki Kawaguchi"
+    ],
+    "id": 135981,
+    "malId": 137812,
+    "type": "manga",
+    "title": "Red Hood",
+    "url": "https://anilist.co/manga/135981",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b135981-krZDKLxbtHnf.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-22T20:44:52.000Z",
+    "updatedAt": "2021-08-09T18:39:16.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/137812/Red_Hood"
 }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:52.000Z",
-  "updatedAt": "2021-07-28T13:52:48.000Z",
+  "updatedAt": "2021-09-09T01:05:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 107463,
         "createdAt": "2020-10-12T16:16:41.000Z",
         "updatedAt": "2021-06-07T00:57:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-eg981415": {
+        "authors": [
+          "Akitaka Imakoshi"
+        ],
+        "identifier": "manga-eg981415",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Curtain's Up, I'm Off",
+        "url": "https://manganato.com/manga-eg981415",
+        "image": "https://avt.mkklcdnv6temp.com/13/y/18-1583497625.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118160,
+        "aniId": 107463,
+        "createdAt": "2021-09-09T01:05:01.000Z",
+        "updatedAt": "2021-09-09T01:34:29.000Z",
         "deletedAt": null
       }
     }

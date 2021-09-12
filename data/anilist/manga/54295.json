@@ -70,6 +70,29 @@
         "updatedAt": "2021-05-20T15:40:04.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mahoushoujo_kazumi_magica_the_innocent_malice": {
+        "authors": [
+          "HIRAMATSU Masaki",
+          "Magica Quartet"
+        ],
+        "identifier": "mahoushoujo_kazumi_magica_the_innocent_malice",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mahoushoujo Kazumi Magica - The Innocent Malice",
+        "url": "https://fanfox.net/manga/mahoushoujo_kazumi_magica_the_innocent_malice/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8846/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24295,
+        "aniId": 54295,
+        "createdAt": "2021-09-05T03:46:03.000Z",
+        "updatedAt": "2021-09-05T04:15:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

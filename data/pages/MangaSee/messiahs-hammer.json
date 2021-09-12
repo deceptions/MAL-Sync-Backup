@@ -11,13 +11,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 126912,
+  "aniId": 107480,
   "createdAt": "2021-03-30T14:00:50.000Z",
-  "updatedAt": "2021-03-30T14:00:50.000Z",
+  "updatedAt": "2021-09-10T07:34:29.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Messiah's Hammer",
+      "メシアの鉄槌"
+    ],
+    "authors": [
+      "Amidamuku"
+    ],
+    "id": 126912,
+    "type": "manga",
+    "title": "Messiah no Tettsui",
+    "url": "https://myanimelist.net/manga/126912/Messiah_no_Tettsui",
+    "image": "https://cdn.myanimelist.net/images/manga/2/230654.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:48:22.000Z",
+    "updatedAt": "2021-09-10T01:35:30.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "メシアの鉄槌",
+      "弥赛亚的铁锤",
+      "彌賽亞的鐵錘"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Muku Amida"
+    ],
+    "id": 107480,
+    "malId": 126912,
+    "type": "manga",
+    "title": "Messiah no Tettsui",
+    "url": "https://anilist.co/manga/107480",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107480-bgPXIfygFEjM.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:15.000Z",
+    "updatedAt": "2021-06-18T05:29:42.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/126912/Messiah_no_Tettsui"
 }

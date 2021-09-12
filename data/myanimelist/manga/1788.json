@@ -43,6 +43,30 @@
         "updatedAt": "2021-06-02T23:04:13.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "shuffle": {
+        "authors": [
+          "HIJITA Ko",
+          "KUSAKA Shiroi",
+          "NAVEL"
+        ],
+        "identifier": "shuffle",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shuffle!",
+        "url": "https://mangasee123.com/manga/Shuffle",
+        "image": "https://cover.nep.li/cover/Shuffle.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1788,
+        "aniId": 31788,
+        "createdAt": "2021-09-05T20:46:21.000Z",
+        "updatedAt": "2021-09-05T21:15:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

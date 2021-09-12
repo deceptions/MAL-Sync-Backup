@@ -18,5 +18,28 @@
   "createdAt": "2021-09-03T16:15:46.000Z",
   "updatedAt": "2021-09-03T16:15:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "tacit": {
+        "authors": [
+          "Kim Dazzi"
+        ],
+        "identifier": "tacit",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tacit",
+        "url": "https://mangasee123.com/manga/Tacit",
+        "image": "https://cover.nep.li/cover/Tacit.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 138570,
+        "createdAt": "2021-08-21T22:16:47.000Z",
+        "updatedAt": "2021-09-10T15:16:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

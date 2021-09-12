@@ -60,6 +60,28 @@
         "updatedAt": "2021-08-30T07:36:34.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "don_dracula": {
+        "authors": [
+          "TEZUKA Osamu"
+        ],
+        "identifier": "don_dracula",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Don Dracula",
+        "url": "https://fanfox.net/manga/don_dracula/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14454/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12138,
+        "aniId": 42138,
+        "createdAt": "2021-09-09T19:04:33.000Z",
+        "updatedAt": "2021-09-09T19:34:29.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

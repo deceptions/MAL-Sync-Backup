@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:19.000Z",
-  "updatedAt": "2021-04-26T19:19:20.000Z",
+  "updatedAt": "2021-09-09T21:05:30.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +48,25 @@
         "aniId": 1581,
         "createdAt": "2020-10-12T16:26:50.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gift-eternal-rainbow": {
+        "identifier": "gift-eternal-rainbow",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gift Eternal Rainbow",
+        "url": "https://gogoanime.pe/category/gift-eternal-rainbow",
+        "image": "https://gogocdn.net/images/anime/G/gift-eternal-rainbow.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1581,
+        "aniId": 1581,
+        "createdAt": "2021-09-09T21:04:46.000Z",
+        "updatedAt": "2021-09-09T21:34:29.000Z",
         "deletedAt": null
       }
     }

@@ -14,9 +14,45 @@
   "category": "ONA",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:05.000Z",
-  "updatedAt": "2021-07-01T12:20:04.000Z",
+  "updatedAt": "2021-09-06T08:46:26.000Z",
   "deletedAt": null,
   "Pages": {
+    "9anime": {
+      "ljym": {
+        "identifier": "ljym",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cike Wu Liuqi Fanwai",
+        "url": "https://www12.9anime.to/watch/killer-seven.ljym",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2019/07/663461967e4bb52c715a6c0efb2ee444.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 38410,
+        "aniId": 107913,
+        "createdAt": "2020-10-12T15:53:04.000Z",
+        "updatedAt": "2021-09-07T07:34:29.000Z",
+        "deletedAt": null
+      },
+      "27q2": {
+        "identifier": "27q2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cike Wu Liuqi Fanwai (Dub)",
+        "url": "https://www12.9anime.to/watch/killer-seven-dub.27q2",
+        "image": "//static.9anime.to/i/cache/images/e/e9/e94917a8053e5bc03f5b3fef07e14bf3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38410,
+        "aniId": 107913,
+        "createdAt": "2020-10-12T19:10:47.000Z",
+        "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      }
+    },
     "Aniwatch": {
       "2756": {
         "identifier": "2756",
@@ -52,25 +88,6 @@
         "aniId": 107913,
         "createdAt": "2020-10-12T16:00:08.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
-        "deletedAt": null
-      }
-    },
-    "9anime": {
-      "27q2": {
-        "identifier": "27q2",
-        "type": "anime",
-        "page": "9anime",
-        "title": "Cike Wu Liuqi Fanwai (Dub)",
-        "url": "https://www12.9anime.to/watch/killer-seven-dub.27q2",
-        "image": "//static.9anime.to/i/cache/images/e/e9/e94917a8053e5bc03f5b3fef07e14bf3.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 38410,
-        "aniId": 107913,
-        "createdAt": "2020-10-12T19:10:47.000Z",
-        "updatedAt": "2021-05-20T15:21:55.000Z",
         "deletedAt": null
       }
     },

@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-04T07:06:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "risou_no_kareshitachi": {
+        "authors": [
+          "HONDA Honomi"
+        ],
+        "identifier": "risou_no_kareshitachi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Risou no Kareshitachi",
+        "url": "https://fanfox.net/manga/risou_no_kareshitachi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13638/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67797,
+        "aniId": 85684,
+        "createdAt": "2021-09-11T17:36:35.000Z",
+        "updatedAt": "2021-09-11T18:04:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

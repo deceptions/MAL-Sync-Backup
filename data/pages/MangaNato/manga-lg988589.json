@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 119723,
   "createdAt": "2021-06-13T04:39:20.000Z",
-  "updatedAt": "2021-06-13T04:39:20.000Z",
+  "updatedAt": "2021-09-06T12:56:03.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "트리거",
+      "Teurigeo"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Bulmaninnyang"
+    ],
+    "id": 119723,
+    "malId": null,
+    "type": "manga",
+    "title": "Trigger",
+    "url": "https://anilist.co/manga/119723",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b119723-FPNUXa237FUK.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-07T23:52:15.000Z",
+    "updatedAt": "2021-09-05T18:47:37.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:33.000Z",
-  "updatedAt": "2021-07-16T21:04:11.000Z",
+  "updatedAt": "2021-09-05T15:47:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 97385,
         "createdAt": "2020-10-12T16:10:26.000Z",
         "updatedAt": "2021-06-05T00:39:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xj974892": {
+        "authors": [
+          "Kimino Sakurako"
+        ],
+        "identifier": "manga-xj974892",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Love Live! Sunshine!!",
+        "url": "https://manganato.com/manga-xj974892",
+        "image": "https://avt.mkklcdnv6temp.com/50/y/14-1583491506.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99529,
+        "aniId": 97385,
+        "createdAt": "2021-09-05T15:47:40.000Z",
+        "updatedAt": "2021-09-05T16:15:45.000Z",
         "deletedAt": null
       }
     }

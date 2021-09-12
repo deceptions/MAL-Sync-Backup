@@ -42,6 +42,50 @@
         "updatedAt": "2021-06-04T07:59:29.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "sugar_sugar_rune": {
+        "authors": [
+          "ANNO Moyoco"
+        ],
+        "identifier": "sugar_sugar_rune",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sugar Sugar Rune",
+        "url": "https://fanfox.net/manga/sugar_sugar_rune/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/890/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 429,
+        "aniId": 30429,
+        "createdAt": "2021-09-05T15:15:57.000Z",
+        "updatedAt": "2021-09-05T15:45:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yw959031": {
+        "authors": [
+          "Anno Moyoco"
+        ],
+        "identifier": "manga-yw959031",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sugar Sugar Rune",
+        "url": "https://manganato.com/manga-yw959031",
+        "image": "https://avt.mkklcdnv6temp.com/48/w/5-1583473799.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 429,
+        "aniId": 30429,
+        "createdAt": "2021-09-05T18:15:58.000Z",
+        "updatedAt": "2021-09-05T18:45:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

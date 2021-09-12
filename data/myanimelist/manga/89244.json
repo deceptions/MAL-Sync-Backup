@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:59.000Z",
-  "updatedAt": "2021-06-22T17:16:02.000Z",
+  "updatedAt": "2021-09-05T23:47:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 87418,
         "createdAt": "2020-10-12T16:08:28.000Z",
         "updatedAt": "2021-06-04T10:22:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ik954845": {
+        "authors": [
+          "Spike Chunsoft"
+        ],
+        "identifier": "manga-ik954845",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Zettai Zetsubou Shoujo - Danganronpa Another Episode",
+        "url": "https://manganato.com/manga-ik954845",
+        "image": "https://avt.mkklcdnv6temp.com/20/f/3-1583468468.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89244,
+        "aniId": 87418,
+        "createdAt": "2021-09-05T23:46:37.000Z",
+        "updatedAt": "2021-09-06T00:15:45.000Z",
         "deletedAt": null
       }
     }

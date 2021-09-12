@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:49.000Z",
-  "updatedAt": "2021-05-18T00:55:35.000Z",
+  "updatedAt": "2021-09-06T04:46:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 98645,
         "createdAt": "2021-05-29T07:15:07.000Z",
         "updatedAt": "2021-05-29T07:42:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "soushi_souai_liberum": {
+        "authors": [
+          "Liberum"
+        ],
+        "identifier": "soushi_souai_liberum",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Soushi Souai (Liberum)",
+        "url": "https://fanfox.net/manga/soushi_souai_liberum/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/23235/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103488,
+        "aniId": 98645,
+        "createdAt": "2021-09-06T04:46:48.000Z",
+        "updatedAt": "2021-09-06T05:15:45.000Z",
         "deletedAt": null
       }
     }

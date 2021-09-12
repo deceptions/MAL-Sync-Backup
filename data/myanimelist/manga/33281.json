@@ -15,7 +15,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:47.000Z",
-  "updatedAt": "2021-05-05T08:02:44.000Z",
+  "updatedAt": "2021-09-09T21:34:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 63281,
         "createdAt": "2020-10-12T16:03:36.000Z",
         "updatedAt": "2021-06-02T15:11:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "a_bias_girl": {
+        "authors": [
+          "WIE Sung-Soo"
+        ],
+        "identifier": "a_bias_girl",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "A Bias Girl",
+        "url": "https://fanfox.net/manga/a_bias_girl/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9735/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33281,
+        "aniId": 63281,
+        "createdAt": "2021-09-09T21:34:34.000Z",
+        "updatedAt": "2021-09-09T22:04:29.000Z",
         "deletedAt": null
       }
     }

@@ -11,13 +11,38 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 138766,
   "createdAt": "2021-08-17T11:07:52.000Z",
-  "updatedAt": "2021-08-17T11:07:52.000Z",
+  "updatedAt": "2021-09-09T10:51:46.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "超凡进化",
+      "Super Evolution",
+      "Advanced Evolution"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Zilaishui",
+      "Luan",
+      "Ning En",
+      "Lu Lai Fozu",
+      "Xiong Jiang"
+    ],
+    "id": 138766,
+    "malId": null,
+    "type": "manga",
+    "title": "Chaofan Jinhua",
+    "url": "https://anilist.co/manga/138766",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138766-IXW3YzoFDBCY.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-05T17:15:46.000Z",
+    "updatedAt": "2021-09-05T17:15:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

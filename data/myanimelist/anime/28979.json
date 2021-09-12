@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:33.000Z",
-  "updatedAt": "2021-08-07T07:47:50.000Z",
+  "updatedAt": "2021-09-10T15:05:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -31,6 +31,23 @@
         "aniId": 20995,
         "createdAt": "2020-10-12T15:49:59.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "80kwq": {
+        "identifier": "80kwq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "To LOVE-Ru Darkness 2nd (Dub)",
+        "url": "https://www12.9anime.to/watch/to-love-ru-darkness-2-dub.80kwq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/d4/d4178d37b9c1ef0ae10f6e497f073524.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28979,
+        "aniId": 20995,
+        "createdAt": "2021-09-10T15:05:11.000Z",
+        "updatedAt": "2021-09-10T15:34:33.000Z",
         "deletedAt": null
       }
     },
@@ -69,6 +86,23 @@
         "aniId": 20995,
         "createdAt": "2020-10-12T16:02:06.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      },
+      "to-love-ru-darkness-2nd-dub": {
+        "identifier": "to-love-ru-darkness-2nd-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "To LOVE-Ru Darkness 2nd (Dub)",
+        "url": "https://gogoanime.pe/category/to-love-ru-darkness-2nd-dub",
+        "image": "https://gogocdn.net/cover/to-love-ru-darkness-2nd-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28979,
+        "aniId": 20995,
+        "createdAt": "2021-09-11T10:34:41.000Z",
+        "updatedAt": "2021-09-11T11:04:33.000Z",
         "deletedAt": null
       }
     },

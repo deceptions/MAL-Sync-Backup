@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 9200,
-  "aniId": null,
+  "aniId": 9200,
   "createdAt": "2021-05-22T08:44:00.000Z",
-  "updatedAt": "2021-05-22T08:44:00.000Z",
+  "updatedAt": "2021-09-07T15:04:29.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -30,6 +30,26 @@
     "updatedAt": "2021-05-22T08:43:59.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "少女チャングムの夢",
+      "Shoujo Changumu no Yume",
+      "Janggeum's Dream",
+      "Changumu no Yume - Dae Jang Geum",
+      "장금이의 꿈"
+    ],
+    "externalLinks": [],
+    "id": 9200,
+    "malId": 9200,
+    "type": "anime",
+    "title": "Dae Jang Geum: Jang Geum's Dream 2",
+    "url": "https://anilist.co/anime/9200",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9200.jpg",
+    "category": "tv",
+    "hentai": false,
+    "createdAt": "2021-09-07T14:34:29.000Z",
+    "updatedAt": "2021-09-07T14:34:29.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/9200/Dae_Jang_Geum__Jang_Geums_Dream_2"
 }

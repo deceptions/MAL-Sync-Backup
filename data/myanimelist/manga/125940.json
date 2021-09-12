@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:21.000Z",
-  "updatedAt": "2021-05-31T09:17:41.000Z",
+  "updatedAt": "2021-09-11T15:07:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 108028,
         "createdAt": "2021-05-31T09:17:41.000Z",
         "updatedAt": "2021-05-31T09:30:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shioris-diary": {
+        "authors": [
+          "Tsuyatsuya"
+        ],
+        "identifier": "shioris-diary",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shiori's Diary",
+        "url": "https://mangasee123.com/manga/Shioris-Diary",
+        "image": "https://cover.nep.li/cover/Shioris-Diary.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125940,
+        "aniId": 108028,
+        "createdAt": "2021-09-11T15:06:59.000Z",
+        "updatedAt": "2021-09-11T15:34:33.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:41.000Z",
-  "updatedAt": "2021-07-11T23:45:21.000Z",
+  "updatedAt": "2021-09-10T10:35:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 111685,
         "createdAt": "2021-01-11T23:21:54.000Z",
         "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jt986854": {
+        "authors": [
+          "Takahashi Natsuko"
+        ],
+        "identifier": "manga-jt986854",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Subaru To Suu-San",
+        "url": "https://manganato.com/manga-jt986854",
+        "image": "https://avt.mkklcdnv6temp.com/23/p/22-1601638858.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100753,
+        "aniId": 111685,
+        "createdAt": "2021-09-10T10:34:36.000Z",
+        "updatedAt": "2021-09-10T11:04:29.000Z",
         "deletedAt": null
       }
     }

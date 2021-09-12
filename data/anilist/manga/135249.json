@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-08T12:55:21.000Z",
-  "updatedAt": "2021-06-21T18:45:32.000Z",
+  "updatedAt": "2021-09-06T18:05:10.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-kr987952": {
+        "authors": [
+          "Manji Maji"
+        ],
+        "identifier": "manga-kr987952",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Binbou Reijou No Kanchigai Seijo Den",
+        "url": "https://manganato.com/manga-kr987952",
+        "image": "https://avt.mkklcdnv6temp.com/18/u/23-1612286341.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 135249,
+        "createdAt": "2021-06-13T10:08:21.000Z",
+        "updatedAt": "2021-09-07T07:19:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -20,7 +20,32 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-30T07:42:14.000Z",
-  "updatedAt": "2021-07-28T12:51:48.000Z",
+  "updatedAt": "2021-09-09T17:04:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lw989031": {
+        "authors": [
+          "Jeong Aro",
+          "Kkom-I",
+          "Lee Hae In"
+        ],
+        "identifier": "manga-lw989031",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "She’S Over The Top!",
+        "url": "https://manganato.com/manga-lw989031",
+        "image": "https://avt.mkklcdnv6temp.com/13/i/24-1621069878.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 134833,
+        "createdAt": "2021-06-10T09:08:28.000Z",
+        "updatedAt": "2021-09-09T18:36:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

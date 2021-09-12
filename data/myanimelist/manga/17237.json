@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:26.000Z",
-  "updatedAt": "2021-06-14T03:09:20.000Z",
+  "updatedAt": "2021-09-09T12:05:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 47237,
         "createdAt": "2021-01-26T23:10:06.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-iy954807": {
+        "authors": [
+          "Yoshino Takumi"
+        ],
+        "identifier": "manga-iy954807",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Rain (Sumikawa Megumi)",
+        "url": "https://manganato.com/manga-iy954807",
+        "image": "https://avt.mkklcdnv6temp.com/19/i/3-1583468427.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 17237,
+        "aniId": 47237,
+        "createdAt": "2021-05-31T09:18:21.000Z",
+        "updatedAt": "2021-09-09T16:04:29.000Z",
         "deletedAt": null
       }
     }

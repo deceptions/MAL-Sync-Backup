@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:23.000Z",
-  "updatedAt": "2021-07-04T19:30:42.000Z",
+  "updatedAt": "2021-09-08T08:35:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 102865,
         "createdAt": "2021-07-04T19:30:33.000Z",
         "updatedAt": "2021-07-04T19:59:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sensei_suki_desu": {
+        "authors": [
+          "MIURA Kouji"
+        ],
+        "identifier": "sensei_suki_desu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sensei, Suki desu.",
+        "url": "https://fanfox.net/manga/sensei_suki_desu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27687/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111762,
+        "aniId": 102865,
+        "createdAt": "2021-09-08T08:34:35.000Z",
+        "updatedAt": "2021-09-08T09:04:29.000Z",
         "deletedAt": null
       }
     }

@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:41.000Z",
-  "updatedAt": "2021-04-28T01:18:50.000Z",
+  "updatedAt": "2021-09-11T14:04:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +30,25 @@
         "aniId": 4050,
         "createdAt": "2020-10-12T15:57:07.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kouchuu-ouja-mushiking-mori-no-tami-no-densetsu": {
+        "identifier": "kouchuu-ouja-mushiking-mori-no-tami-no-densetsu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kouchuu Ouja Mushiking: Mori no Tami no Densetsu",
+        "url": "https://gogoanime.pe/category/kouchuu-ouja-mushiking-mori-no-tami-no-densetsu",
+        "image": "https://gogocdn.net/cover/ouchuu-ouja-mushiking-mori-no-tami-no-densetsu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4050,
+        "aniId": 4050,
+        "createdAt": "2021-09-11T14:04:54.000Z",
+        "updatedAt": "2021-09-11T14:34:33.000Z",
         "deletedAt": null
       }
     }

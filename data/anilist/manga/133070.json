@@ -18,5 +18,28 @@
   "createdAt": "2021-05-23T21:08:18.000Z",
   "updatedAt": "2021-08-24T11:36:34.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "the-game-that-i-came-from": {
+        "authors": [
+          "MOKF"
+        ],
+        "identifier": "the-game-that-i-came-from",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Game That I Came From",
+        "url": "https://mangasee123.com/manga/The-Game-That-I-Came-From",
+        "image": "https://cover.nep.li/cover/The-Game-That-I-Came-From.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 133070,
+        "createdAt": "2021-09-10T22:34:53.000Z",
+        "updatedAt": "2021-09-10T22:34:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

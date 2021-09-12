@@ -19,5 +19,28 @@
   "createdAt": "2021-05-20T22:42:58.000Z",
   "updatedAt": "2021-08-15T05:37:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "yahwacheop": {
+        "authors": [
+          "Byeonduck"
+        ],
+        "identifier": "yahwacheop",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yahwacheop",
+        "url": "https://fanfox.net/manga/yahwacheop/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35843/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 139429,
+        "aniId": 111621,
+        "createdAt": "2021-09-07T00:34:44.000Z",
+        "updatedAt": "2021-09-07T07:34:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

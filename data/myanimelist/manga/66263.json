@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:09.000Z",
-  "updatedAt": "2021-04-16T04:44:27.000Z",
+  "updatedAt": "2021-09-06T07:16:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,50 @@
         "aniId": 85353,
         "createdAt": "2021-04-16T04:44:28.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hatsu_haru": {
+        "authors": [
+          "FUJISAWA Shizuki"
+        ],
+        "identifier": "hatsu_haru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hatsu Haru",
+        "url": "https://fanfox.net/manga/hatsu_haru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13568/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 66263,
+        "aniId": 85353,
+        "createdAt": "2021-09-06T07:15:58.000Z",
+        "updatedAt": "2021-09-06T07:45:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hn954722": {
+        "authors": [
+          "Fujisawa Shizuki"
+        ],
+        "identifier": "manga-hn954722",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hatsu Haru",
+        "url": "https://manganato.com/manga-hn954722",
+        "image": "https://avt.mkklcdnv6temp.com/16/t/3-1583468305.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 66263,
+        "aniId": 85353,
+        "createdAt": "2021-09-06T07:16:02.000Z",
+        "updatedAt": "2021-09-06T07:45:45.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:41.000Z",
-  "updatedAt": "2021-04-22T06:29:41.000Z",
+  "updatedAt": "2021-09-12T00:35:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,6 +82,29 @@
         "aniId": 60381,
         "createdAt": "2021-04-22T06:29:41.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tk961145": {
+        "authors": [
+          "Nishimura Mitsuru",
+          "Amaji Gumi"
+        ],
+        "identifier": "manga-tk961145",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hell's Kitchen",
+        "url": "https://manganato.com/manga-tk961145",
+        "image": "https://avt.mkklcdnv6temp.com/27/f/7-1583477286.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30381,
+        "aniId": 60381,
+        "createdAt": "2021-09-12T00:34:58.000Z",
+        "updatedAt": "2021-09-12T01:04:33.000Z",
         "deletedAt": null
       }
     }

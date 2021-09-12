@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-03T20:04:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "cosmic_color": {
+        "authors": [
+          "YOMOTO Shimako"
+        ],
+        "identifier": "cosmic_color",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cosmic Color",
+        "url": "https://fanfox.net/manga/cosmic_color/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12648/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54179,
+        "aniId": 84179,
+        "createdAt": "2021-09-05T03:15:48.000Z",
+        "updatedAt": "2021-09-05T03:45:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

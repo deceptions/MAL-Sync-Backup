@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 138917,
   "createdAt": "2021-08-28T08:07:31.000Z",
-  "updatedAt": "2021-08-28T08:07:41.000Z",
+  "updatedAt": "2021-09-10T07:18:40.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "지구식 구원자 전형",
+      "The Earth Savior Selection"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Jeong-Su Ha",
+      "Oetu",
+      "Ye-Heum Lee"
+    ],
+    "id": 138917,
+    "malId": null,
+    "type": "manga",
+    "title": "Jigusik Guwonja Jeonhyeong",
+    "url": "https://anilist.co/manga/138917",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138917-y7anqkKff2U2.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-09T21:04:30.000Z",
+    "updatedAt": "2021-09-09T21:34:30.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

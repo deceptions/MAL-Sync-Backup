@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:46.000Z",
-  "updatedAt": "2021-07-15T02:20:52.000Z",
+  "updatedAt": "2021-09-06T03:46:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 84797,
         "createdAt": "2020-10-12T16:07:31.000Z",
         "updatedAt": "2021-06-04T03:28:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hito-kui": {
+        "authors": [
+          "Mita",
+          "OOTA Youkan"
+        ],
+        "identifier": "hito-kui",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hito Kui",
+        "url": "https://mangasee123.com/manga/Hito-Kui",
+        "image": "https://cover.nep.li/cover/Hito-Kui.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54797,
+        "aniId": 84797,
+        "createdAt": "2021-09-06T03:46:29.000Z",
+        "updatedAt": "2021-09-06T04:15:45.000Z",
         "deletedAt": null
       }
     }

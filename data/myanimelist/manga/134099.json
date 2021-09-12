@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-24T01:25:38.000Z",
-  "updatedAt": "2021-07-23T08:05:20.000Z",
+  "updatedAt": "2021-09-05T13:45:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,6 +84,28 @@
         "aniId": 123181,
         "createdAt": "2021-05-31T09:36:03.000Z",
         "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ore_no_shibou_flag_ga_todomaru_tokoro_wo_shiranai_novel": {
+        "authors": [
+          "Izumi (泉)"
+        ],
+        "identifier": "ore_no_shibou_flag_ga_todomaru_tokoro_wo_shiranai_novel",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai (Novel)",
+        "url": "https://fanfox.net/manga/ore_no_shibou_flag_ga_todomaru_tokoro_wo_shiranai_novel/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35421/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 134099,
+        "aniId": 123181,
+        "createdAt": "2021-09-05T13:45:50.000Z",
+        "updatedAt": "2021-09-05T14:15:45.000Z",
         "deletedAt": null
       }
     }

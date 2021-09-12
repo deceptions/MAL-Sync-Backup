@@ -95,6 +95,28 @@
         "updatedAt": "2021-07-10T14:43:18.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "ping_pong": {
+        "authors": [
+          "MATSUMOTO Taiyo"
+        ],
+        "identifier": "ping_pong",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ping Pong",
+        "url": "https://fanfox.net/manga/ping_pong/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2828/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5744,
+        "aniId": 35744,
+        "createdAt": "2021-09-05T03:45:51.000Z",
+        "updatedAt": "2021-09-05T04:15:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

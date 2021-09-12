@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 133518,
   "createdAt": "2021-06-04T08:49:35.000Z",
-  "updatedAt": "2021-06-04T08:49:35.000Z",
+  "updatedAt": "2021-09-10T23:46:35.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "First Master",
+      "第一掌门"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mou Liang",
+      "Tang Xin"
+    ],
+    "id": 133518,
+    "malId": null,
+    "type": "manga",
+    "title": "Di Yi Zhangmen",
+    "url": "https://anilist.co/manga/133518",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx133518-UHYilam283j7.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-21T13:16:16.000Z",
+    "updatedAt": "2021-08-21T13:16:16.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

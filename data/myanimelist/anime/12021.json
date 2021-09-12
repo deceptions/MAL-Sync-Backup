@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:10.000Z",
-  "updatedAt": "2021-07-15T23:32:31.000Z",
+  "updatedAt": "2021-09-11T05:35:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +30,25 @@
         "aniId": 12021,
         "createdAt": "2020-10-12T15:50:37.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "poyopoyo-kansatsu-nikki": {
+        "identifier": "poyopoyo-kansatsu-nikki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Poyopoyo Kansatsu Nikki",
+        "url": "https://gogoanime.pe/category/poyopoyo-kansatsu-nikki",
+        "image": "https://gogocdn.net/images/anime/P/Poyopoyo-Kansatsu-Nikki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12021,
+        "aniId": 12021,
+        "createdAt": "2021-09-11T05:34:55.000Z",
+        "updatedAt": "2021-09-11T06:04:33.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:56.000Z",
-  "updatedAt": "2021-06-05T21:48:57.000Z",
+  "updatedAt": "2021-09-06T11:45:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 103035,
         "createdAt": "2020-10-12T16:13:26.000Z",
         "updatedAt": "2021-06-05T22:17:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sorairo_flutter": {
+        "authors": [
+          "Okura"
+        ],
+        "identifier": "sorairo_flutter",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sorairo Flutter",
+        "url": "https://fanfox.net/manga/sorairo_flutter/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29106/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104004,
+        "aniId": 103035,
+        "createdAt": "2021-09-06T11:45:50.000Z",
+        "updatedAt": "2021-09-06T12:15:45.000Z",
         "deletedAt": null
       }
     }

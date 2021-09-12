@@ -70,6 +70,28 @@
         "updatedAt": "2021-05-20T15:40:50.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "sensor": {
+        "authors": [
+          "ITOU Junji"
+        ],
+        "identifier": "sensor",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sensor",
+        "url": "https://mangasee123.com/manga/Sensor",
+        "image": "https://cover.nep.li/cover/Sensor.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115507,
+        "aniId": 104831,
+        "createdAt": "2021-09-09T16:35:08.000Z",
+        "updatedAt": "2021-09-09T17:04:29.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

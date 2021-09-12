@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 132992,
-  "aniId": null,
+  "aniId": 138601,
   "createdAt": "2020-10-12T16:09:20.000Z",
-  "updatedAt": "2021-06-04T18:34:20.000Z",
+  "updatedAt": "2021-09-07T00:34:29.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -35,6 +35,25 @@
     "updatedAt": "2021-06-04T17:19:38.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ひとでなしの恋恋ロ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Pepu"
+    ],
+    "id": 138601,
+    "malId": 132992,
+    "type": "manga",
+    "title": "Hitodenashi no Kokoro",
+    "url": "https://anilist.co/manga/138601",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b138601-cW0JVJo0n2WS.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-07T00:04:30.000Z",
+    "updatedAt": "2021-09-07T00:04:30.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/132992/Hitodenashi_no_Kokoro"
 }

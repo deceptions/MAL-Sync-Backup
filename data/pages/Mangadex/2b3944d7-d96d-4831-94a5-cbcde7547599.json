@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 130861,
-  "aniId": null,
+  "aniId": 121529,
   "createdAt": "2020-10-12T16:20:33.000Z",
-  "updatedAt": "2021-06-08T00:50:40.000Z",
+  "updatedAt": "2021-09-05T16:15:45.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-06-08T00:50:37.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ねむれない",
+      "Sleepless"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Fiok Lee"
+    ],
+    "id": 121529,
+    "malId": 130861,
+    "type": "manga",
+    "title": "Nemurenai",
+    "url": "https://anilist.co/manga/121529",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121529-fGAYSYTe8pBR.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-09-05T15:45:46.000Z",
+    "updatedAt": "2021-09-05T15:45:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/130861/Nemurenai"
 }

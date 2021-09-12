@@ -25,5 +25,28 @@
   "createdAt": "2021-05-29T04:12:13.000Z",
   "updatedAt": "2021-06-18T10:33:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "four-kisses-in-secret": {
+        "authors": [
+          "KAMINO Ruri"
+        ],
+        "identifier": "four-kisses-in-secret",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Four Kisses, in Secret",
+        "url": "https://mangasee123.com/manga/Four-Kisses-in-Secret",
+        "image": "https://cover.nep.li/cover/Four-Kisses-in-Secret.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130344,
+        "aniId": 124754,
+        "createdAt": "2021-09-09T21:05:34.000Z",
+        "updatedAt": "2021-09-09T21:34:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:05.000Z",
-  "updatedAt": "2021-04-15T22:14:48.000Z",
+  "updatedAt": "2021-09-06T12:46:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,50 @@
         "aniId": 44447,
         "createdAt": "2021-04-15T22:14:48.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kc961611": {
+        "authors": [
+          "James P. Hogan"
+        ],
+        "identifier": "manga-kc961611",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mirai No Futatsu No Kao",
+        "url": "https://manganato.com/manga-kc961611",
+        "image": "https://avt.mkklcdnv6temp.com/44/l/7-1583477960.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14447,
+        "aniId": 44447,
+        "createdAt": "2021-09-06T12:46:51.000Z",
+        "updatedAt": "2021-09-06T13:04:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mirai_no_futatsu_no_kao": {
+        "authors": [
+          "James P. Hogan"
+        ],
+        "identifier": "mirai_no_futatsu_no_kao",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mirai no Futatsu no Kao",
+        "url": "https://fanfox.net/manga/mirai_no_futatsu_no_kao/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12520/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14447,
+        "aniId": 44447,
+        "createdAt": "2021-09-11T19:08:35.000Z",
+        "updatedAt": "2021-09-11T19:34:33.000Z",
         "deletedAt": null
       }
     }

@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-02T11:34:52.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "eien_no_with": {
+        "authors": [
+          "Miyauchi Saya"
+        ],
+        "identifier": "eien_no_with",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Eien no With",
+        "url": "https://fanfox.net/manga/eien_no_with/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1903/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4964,
+        "aniId": 34964,
+        "createdAt": "2021-09-11T01:04:55.000Z",
+        "updatedAt": "2021-09-11T01:34:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

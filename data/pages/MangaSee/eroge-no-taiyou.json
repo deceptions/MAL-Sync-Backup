@@ -12,13 +12,51 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 78633,
+  "aniId": 85577,
   "createdAt": "2021-01-02T01:19:31.000Z",
-  "updatedAt": "2021-07-02T01:20:10.000Z",
+  "updatedAt": "2021-09-09T11:04:29.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "The conquest of Taiyou in the Eroge Industry",
+      "エロゲの太陽"
+    ],
+    "authors": [
+      "Buredo"
+    ],
+    "id": 78633,
+    "type": "manga",
+    "title": "Eroge no Taiyou",
+    "url": "https://myanimelist.net/manga/78633/Eroge_no_Taiyou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/136235.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:45:32.000Z",
+    "updatedAt": "2021-09-09T08:34:54.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "The conquest of Taiyou in the Eroge Industry",
+      "エロゲの太陽"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Buredo"
+    ],
+    "id": 85577,
+    "malId": 78633,
+    "type": "manga",
+    "title": "Eroge no Taiyou",
+    "url": "https://anilist.co/manga/85577",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55577-7OLYvS8okzsb.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:51:52.000Z",
+    "updatedAt": "2021-06-17T21:51:41.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/78633/Eroge_no_Taiyou"
 }

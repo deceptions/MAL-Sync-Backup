@@ -14,9 +14,9 @@
   "active": true,
   "actor": 1,
   "malId": 113710,
-  "aniId": null,
+  "aniId": 108149,
   "createdAt": "2020-10-12T16:12:03.000Z",
-  "updatedAt": "2021-08-23T14:50:39.000Z",
+  "updatedAt": "2021-09-10T21:04:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -37,6 +37,28 @@
     "updatedAt": "2021-08-23T14:37:34.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "BanG Dream! よんこま ばんどりっ!",
+      "4-panel BanG Dream!",
+      "Yon Koma: Bandori! "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Issen",
+      "Hakuto Shiroi"
+    ],
+    "id": 108149,
+    "malId": 113710,
+    "type": "manga",
+    "title": "BanG Dream! 4-koma: Bandori!",
+    "url": "https://anilist.co/manga/108149",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108149-NqYJF8A6cbSh.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-10T20:34:34.000Z",
+    "updatedAt": "2021-09-10T20:34:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/113710/BanG_Dream_Yonkoma__Bandori"
 }

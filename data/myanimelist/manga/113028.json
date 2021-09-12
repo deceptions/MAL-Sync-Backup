@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:29.000Z",
-  "updatedAt": "2021-05-21T15:13:27.000Z",
+  "updatedAt": "2021-09-05T23:45:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 101576,
         "createdAt": "2020-10-12T16:13:34.000Z",
         "updatedAt": "2021-06-05T22:24:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cs979475": {
+        "authors": [
+          "Mio Tatsumoto"
+        ],
+        "identifier": "manga-cs979475",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hi No Ataranai Basho",
+        "url": "https://manganato.com/manga-cs979475",
+        "image": "https://avt.mkklcdnv6temp.com/42/w/16-1583495002.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113028,
+        "aniId": 101576,
+        "createdAt": "2021-09-05T23:45:48.000Z",
+        "updatedAt": "2021-09-06T00:15:45.000Z",
         "deletedAt": null
       }
     }

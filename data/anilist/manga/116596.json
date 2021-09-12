@@ -40,6 +40,50 @@
         "updatedAt": "2021-06-07T20:44:20.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-iw986231": {
+        "authors": [
+          "Asano Yukiko"
+        ],
+        "identifier": "manga-iw986231",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hannari Girori No Yoriko-San",
+        "url": "https://manganato.com/manga-iw986231",
+        "image": "https://avt.mkklcdnv6temp.com/48/o/21-1597331295.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102716,
+        "aniId": 116596,
+        "createdAt": "2021-09-07T16:04:35.000Z",
+        "updatedAt": "2021-09-07T16:34:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hannari-girori-no-yoriko-san": {
+        "authors": [
+          "ASANO Yukiko"
+        ],
+        "identifier": "hannari-girori-no-yoriko-san",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hannari Girori no Yoriko-san",
+        "url": "https://mangasee123.com/manga/Hannari-Girori-no-Yoriko-san",
+        "image": "https://cover.nep.li/cover/Hannari-Girori-no-Yoriko-san.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102716,
+        "aniId": 116596,
+        "createdAt": "2021-09-07T16:34:48.000Z",
+        "updatedAt": "2021-09-07T17:04:29.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

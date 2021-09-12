@@ -105,6 +105,28 @@
         "updatedAt": "2021-05-29T05:42:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "city": {
+        "authors": [
+          "ARAWI Keiichi"
+        ],
+        "identifier": "city",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "City",
+        "url": "https://fanfox.net/manga/city/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/22035/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101554,
+        "aniId": 97700,
+        "createdAt": "2021-09-11T23:05:12.000Z",
+        "updatedAt": "2021-09-11T23:34:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

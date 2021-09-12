@@ -12,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 138761,
   "createdAt": "2021-06-11T21:09:35.000Z",
-  "updatedAt": "2021-06-11T21:09:35.000Z",
+  "updatedAt": "2021-09-05T16:20:51.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "吾将称王",
+      "Take The Crown"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tengyao Chao"
+    ],
+    "id": 138761,
+    "malId": null,
+    "type": "manga",
+    "title": "Wu Jiang Cheng Wang",
+    "url": "https://anilist.co/manga/138761",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138761-OdRt2hahJCHI.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-05T07:45:46.000Z",
+    "updatedAt": "2021-09-05T07:45:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

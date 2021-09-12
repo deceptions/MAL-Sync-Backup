@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-07T21:23:51.000Z",
-  "updatedAt": "2021-08-07T21:23:51.000Z",
+  "updatedAt": "2021-09-08T04:34:41.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-vs953501": {
+        "authors": [
+          "The Imitation Crystal"
+        ],
+        "identifier": "manga-vs953501",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "End Of Goldfish Kingdom",
+        "url": "https://manganato.com/manga-vs953501",
+        "image": "https://avt.mkklcdnv6temp.com/25/l/2-1583466685.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 98127,
+        "createdAt": "2021-09-08T04:34:41.000Z",
+        "updatedAt": "2021-09-08T04:34:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }
