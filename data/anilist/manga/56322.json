@@ -86,6 +86,28 @@
         "updatedAt": "2021-08-16T23:07:00.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "fuusuke": {
+        "authors": [
+          "TEZUKA Osamu"
+        ],
+        "identifier": "fuusuke",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fuusuke",
+        "url": "https://fanfox.net/manga/fuusuke/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9249/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26322,
+        "aniId": 56322,
+        "createdAt": "2021-09-17T18:10:46.000Z",
+        "updatedAt": "2021-09-17T18:40:42.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

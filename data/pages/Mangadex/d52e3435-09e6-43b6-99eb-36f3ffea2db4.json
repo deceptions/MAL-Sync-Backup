@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 94521,
-  "aniId": null,
+  "aniId": 112862,
   "createdAt": "2020-10-12T16:08:58.000Z",
-  "updatedAt": "2021-06-04T14:34:50.000Z",
+  "updatedAt": "2021-09-15T05:50:13.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,26 @@
     "updatedAt": "2021-06-04T14:19:58.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "たそがれたかこ",
+      "Twilight Takako"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kiwa Irie "
+    ],
+    "id": 112862,
+    "malId": 94521,
+    "type": "manga",
+    "title": "Tasogare Takako",
+    "url": "https://anilist.co/manga/112862",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112862-dqY8yf6lUHXP.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-15T05:20:14.000Z",
+    "updatedAt": "2021-09-15T05:20:14.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/94521/Tasogare_Takako"
 }

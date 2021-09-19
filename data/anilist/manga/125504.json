@@ -68,6 +68,34 @@
         "updatedAt": "2021-06-08T05:32:21.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "oppai_yuri_anthology": {
+        "authors": [
+          "Itou Hachi",
+          "Endo",
+          "Kanda Dan",
+          "Kanro Ame",
+          "Doggy",
+          "Guu",
+          "Kurou"
+        ],
+        "identifier": "oppai_yuri_anthology",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Oppai Yuri Anthology",
+        "url": "https://fanfox.net/manga/oppai_yuri_anthology/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37361/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130896,
+        "aniId": 125504,
+        "createdAt": "2021-09-14T00:04:44.000Z",
+        "updatedAt": "2021-09-14T00:34:40.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -17,5 +17,25 @@
   "createdAt": "2021-06-27T07:19:19.000Z",
   "updatedAt": "2021-06-27T07:19:19.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "tadaima-chibi-godzilla": {
+        "identifier": "tadaima-chibi-godzilla",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tadaima! Chibi Godzilla",
+        "url": "https://gogoanime.pe/category/tadaima-chibi-godzilla",
+        "image": "https://gogocdn.net/cover/tadaima-chibi-godzilla.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42500,
+        "aniId": 122248,
+        "createdAt": "2021-09-17T05:10:55.000Z",
+        "updatedAt": "2021-09-17T05:40:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -12,11 +12,34 @@
   "type": "manga",
   "title": "Inu to Kuzu",
   "url": "https://anilist.co/manga/135930",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135930-mKhc6lpdYmEp.png",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135930-mxPxahht8jqB.png",
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-21T08:20:50.000Z",
-  "updatedAt": "2021-08-14T02:36:59.000Z",
+  "updatedAt": "2021-09-18T00:10:43.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "dog-and-scum": {
+        "authors": [
+          "ASAGA Iori"
+        ],
+        "identifier": "dog-and-scum",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dog and Scum",
+        "url": "https://mangasee123.com/manga/Dog-and-Scum",
+        "image": "https://cover.nep.li/cover/Dog-and-Scum.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 138015,
+        "aniId": 135930,
+        "createdAt": "2021-09-12T04:36:27.000Z",
+        "updatedAt": "2021-09-12T05:04:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 130378,
-  "aniId": null,
+  "aniId": 117943,
   "createdAt": "2020-10-12T16:20:27.000Z",
-  "updatedAt": "2021-06-08T00:56:05.000Z",
+  "updatedAt": "2021-09-17T03:40:42.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -35,6 +35,27 @@
     "updatedAt": "2021-06-08T00:25:24.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "こえでおしごと！！",
+      "Work Using Voice!!",
+      "Working with Voice!!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Azure Konno"
+    ],
+    "id": 117943,
+    "malId": 130378,
+    "type": "manga",
+    "title": "Koe de Oshigoto!!",
+    "url": "https://anilist.co/manga/117943",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117943-joh1SxoB5IxC.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-17T03:10:42.000Z",
+    "updatedAt": "2021-09-17T03:10:42.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/130378/Koe_de_Oshigoto"
 }

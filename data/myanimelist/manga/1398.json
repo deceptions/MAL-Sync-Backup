@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:33.000Z",
-  "updatedAt": "2021-06-05T00:51:19.000Z",
+  "updatedAt": "2021-09-18T02:10:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -100,6 +100,28 @@
         "aniId": 31398,
         "createdAt": "2021-06-18T17:53:14.000Z",
         "updatedAt": "2021-06-18T18:20:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "monkey_high": {
+        "authors": [
+          "AKIRA Shouko"
+        ],
+        "identifier": "monkey_high",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Monkey High!",
+        "url": "https://fanfox.net/manga/monkey_high/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1999/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1398,
+        "aniId": 31398,
+        "createdAt": "2021-09-18T02:10:56.000Z",
+        "updatedAt": "2021-09-18T02:40:42.000Z",
         "deletedAt": null
       }
     }

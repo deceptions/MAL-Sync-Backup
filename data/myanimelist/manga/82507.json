@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:38.000Z",
-  "updatedAt": "2021-06-04T04:51:07.000Z",
+  "updatedAt": "2021-09-17T15:11:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 85712,
         "createdAt": "2020-10-12T16:07:40.000Z",
         "updatedAt": "2021-06-04T09:01:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shichifuku_mafia": {
+        "authors": [
+          "TERAI Akane"
+        ],
+        "identifier": "shichifuku_mafia",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shichifuku Mafia",
+        "url": "https://fanfox.net/manga/shichifuku_mafia/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14961/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82507,
+        "aniId": 85712,
+        "createdAt": "2021-09-17T15:10:59.000Z",
+        "updatedAt": "2021-09-17T15:40:42.000Z",
         "deletedAt": null
       }
     }

@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:10.000Z",
-  "updatedAt": "2021-04-26T08:57:58.000Z",
+  "updatedAt": "2021-09-15T19:41:43.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +30,25 @@
         "aniId": 927,
         "createdAt": "2020-10-12T15:49:57.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "transformers-superlink": {
+        "identifier": "transformers-superlink",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Transformers Superlink",
+        "url": "https://gogoanime.pe/category/transformers-superlink",
+        "image": "https://gogocdn.net/cover/transformers-superlink.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 927,
+        "aniId": 927,
+        "createdAt": "2021-09-15T19:40:57.000Z",
+        "updatedAt": "2021-09-15T20:10:42.000Z",
         "deletedAt": null
       }
     }

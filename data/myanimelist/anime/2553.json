@@ -1,7 +1,8 @@
 {
   "altTitle": [
     "A Dog of Flanders",
-    "Sekai Meisaku Gekijou, A Dog of Flanders",
+    "Sekai Meisaku Gekijou",
+    "A Dog of Flanders",
     "フランダースの犬"
   ],
   "id": 2553,
@@ -12,7 +13,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:30.000Z",
-  "updatedAt": "2021-05-30T15:12:33.000Z",
+  "updatedAt": "2021-09-17T12:11:45.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -31,6 +32,25 @@
         "aniId": 2553,
         "createdAt": "2020-10-12T15:52:22.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "flanders-no-inu": {
+        "identifier": "flanders-no-inu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Flanders no Inu",
+        "url": "https://gogoanime.pe/category/flanders-no-inu",
+        "image": "https://gogocdn.net/cover/flanders-no-inu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2553,
+        "aniId": 2553,
+        "createdAt": "2021-09-17T12:11:43.000Z",
+        "updatedAt": "2021-09-17T12:40:42.000Z",
         "deletedAt": null
       }
     }

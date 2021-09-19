@@ -39,6 +39,50 @@
         "updatedAt": "2021-06-05T11:18:57.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-ka987457": {
+        "authors": [
+          "Wakita Akane"
+        ],
+        "identifier": "manga-ka987457",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yousei No Okyaku-Sama",
+        "url": "https://manganato.com/manga-ka987457",
+        "image": "https://avt.mkklcdnv6temp.com/48/m/22-1608909119.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133531,
+        "aniId": 119494,
+        "createdAt": "2021-09-15T18:40:54.000Z",
+        "updatedAt": "2021-09-15T19:10:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yousei_no_okyaku_sama": {
+        "authors": [
+          "WAKITA Akane"
+        ],
+        "identifier": "yousei_no_okyaku_sama",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yousei no Okyaku-sama",
+        "url": "https://fanfox.net/manga/yousei_no_okyaku_sama/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36924/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133531,
+        "aniId": 119494,
+        "createdAt": "2021-09-17T09:40:46.000Z",
+        "updatedAt": "2021-09-17T10:10:42.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

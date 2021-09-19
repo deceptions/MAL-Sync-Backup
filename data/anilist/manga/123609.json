@@ -61,6 +61,28 @@
         "updatedAt": "2021-08-15T14:37:00.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hapiel": {
+        "authors": [
+          "Hira Masuo"
+        ],
+        "identifier": "hapiel",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hapiel",
+        "url": "https://fanfox.net/manga/hapiel/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35448/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130012,
+        "aniId": 123609,
+        "createdAt": "2021-09-15T22:10:46.000Z",
+        "updatedAt": "2021-09-15T22:40:42.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

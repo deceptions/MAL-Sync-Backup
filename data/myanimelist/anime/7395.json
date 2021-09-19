@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:55.000Z",
-  "updatedAt": "2021-04-28T18:48:32.000Z",
+  "updatedAt": "2021-09-16T13:11:23.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -31,6 +31,25 @@
         "aniId": 7395,
         "createdAt": "2020-10-12T15:53:55.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "card-wang-mix-master-dub": {
+        "identifier": "card-wang-mix-master-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Card Wang: Mix Master (Dub)",
+        "url": "https://gogoanime.pe/category/card-wang-mix-master-dub",
+        "image": "https://gogocdn.net/cover/card-wang-mix-master-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7395,
+        "aniId": 7395,
+        "createdAt": "2021-09-16T13:11:13.000Z",
+        "updatedAt": "2021-09-16T13:40:42.000Z",
         "deletedAt": null
       }
     }

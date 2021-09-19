@@ -10,14 +10,38 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/14486/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 86087,
   "createdAt": "2021-05-02T09:31:52.000Z",
-  "updatedAt": "2021-05-02T09:31:52.000Z",
+  "updatedAt": "2021-09-14T09:35:08.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "DEAD DAYS",
+      "데드데이즈 (DEAD DAYS)",
+      "活屍日誌 - DEAD DAYS",
+      "活尸日志-DEAD DAYS",
+      "DEAD DAYS - Gumeun Fantastic Series 1",
+      "วันโลกดับ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "DEY"
+    ],
+    "id": 86087,
+    "malId": null,
+    "type": "manga",
+    "title": "DEAD DAYS",
+    "url": "https://anilist.co/manga/86087",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56087-Z3Nhqymp7PB7.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-30T06:12:13.000Z",
+    "updatedAt": "2021-09-13T10:05:07.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

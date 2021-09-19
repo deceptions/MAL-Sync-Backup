@@ -12,7 +12,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:30.000Z",
-  "updatedAt": "2021-03-15T16:03:40.000Z",
+  "updatedAt": "2021-09-14T09:34:56.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -69,6 +69,25 @@
         "aniId": 2560,
         "createdAt": "2021-03-15T16:03:41.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "terra-e": {
+        "identifier": "terra-e",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Terra e...",
+        "url": "https://gogoanime.pe/category/terra-e",
+        "image": "https://gogocdn.net/cover/terra-e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2560,
+        "aniId": 2560,
+        "createdAt": "2021-09-14T09:34:54.000Z",
+        "updatedAt": "2021-09-14T10:04:40.000Z",
         "deletedAt": null
       }
     }

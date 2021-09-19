@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:35.000Z",
-  "updatedAt": "2021-08-17T21:38:32.000Z",
+  "updatedAt": "2021-09-17T22:12:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 31595,
         "createdAt": "2020-10-12T16:03:34.000Z",
         "updatedAt": "2021-06-02T14:54:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nk965245": {
+        "authors": [
+          "Suenobu Keiko"
+        ],
+        "identifier": "manga-nk965245",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Vitamin",
+        "url": "https://manganato.com/manga-nk965245",
+        "image": "https://avt.mkklcdnv6temp.com/7/j/10-1583482440.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1595,
+        "aniId": 31595,
+        "createdAt": "2021-09-17T22:12:38.000Z",
+        "updatedAt": "2021-09-17T22:40:42.000Z",
         "deletedAt": null
       }
     }

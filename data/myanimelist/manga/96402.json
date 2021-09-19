@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:24.000Z",
-  "updatedAt": "2021-05-31T09:20:21.000Z",
+  "updatedAt": "2021-09-13T17:05:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -79,6 +79,50 @@
         "aniId": 87167,
         "createdAt": "2021-03-22T15:36:06.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-sr970152": {
+        "authors": [
+          "Ringo Takanashi"
+        ],
+        "identifier": "manga-sr970152",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Nina-San No Mahou Seikatsu",
+        "url": "https://manganato.com/manga-sr970152",
+        "image": "https://avt.mkklcdnv6temp.com/22/l/13-1583488555.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96402,
+        "aniId": 87167,
+        "createdAt": "2021-09-13T17:04:46.000Z",
+        "updatedAt": "2021-09-13T17:34:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "nina_san_no_mahou_seikatsu": {
+        "authors": [
+          "TAKANASHI Ringo"
+        ],
+        "identifier": "nina_san_no_mahou_seikatsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Nina-san no Mahou Seikatsu",
+        "url": "https://fanfox.net/manga/nina_san_no_mahou_seikatsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18817/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96402,
+        "aniId": 87167,
+        "createdAt": "2021-09-14T10:05:04.000Z",
+        "updatedAt": "2021-09-14T10:34:44.000Z",
         "deletedAt": null
       }
     }

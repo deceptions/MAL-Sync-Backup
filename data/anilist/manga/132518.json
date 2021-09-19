@@ -17,5 +17,28 @@
   "createdAt": "2021-06-05T09:48:57.000Z",
   "updatedAt": "2021-06-18T12:22:30.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "yuusha-shoutai-kamoku-yuusha-wa": {
+        "authors": [
+          "ISHIGUCHI Juu"
+        ],
+        "identifier": "yuusha-shoutai-kamoku-yuusha-wa",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yuusha Shoutai Kamoku Yuusha Wa Nagasarenai",
+        "url": "https://mangasee123.com/manga/Yuusha-Shoutai-Kamoku-Yuusha-Wa",
+        "image": "https://cover.nep.li/cover/Yuusha-Shoutai-Kamoku-Yuusha-Wa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136862,
+        "aniId": 132518,
+        "createdAt": "2021-09-12T04:36:17.000Z",
+        "updatedAt": "2021-09-12T05:04:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

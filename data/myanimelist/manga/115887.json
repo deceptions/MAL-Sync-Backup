@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:40.000Z",
-  "updatedAt": "2021-04-26T04:59:12.000Z",
+  "updatedAt": "2021-09-12T01:35:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 104484,
         "createdAt": "2020-10-12T16:13:57.000Z",
         "updatedAt": "2021-06-06T01:11:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cu979829": {
+        "authors": [
+          "Tsubaki Ayasugi"
+        ],
+        "identifier": "manga-cu979829",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shoujo Kageki Revue Starlight - The Live - Show Must Go On",
+        "url": "https://readmanganato.com/manga-cu979829",
+        "image": "https://avt.mkklcdnv6temp.com/6/f/17-1583495485.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115887,
+        "aniId": 104484,
+        "createdAt": "2021-09-12T01:35:42.000Z",
+        "updatedAt": "2021-09-12T02:04:34.000Z",
         "deletedAt": null
       }
     }

@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 39334,
-  "aniId": null,
+  "aniId": 139272,
   "createdAt": "2020-10-12T15:51:28.000Z",
-  "updatedAt": "2019-10-12T16:02:23.000Z",
+  "updatedAt": "2021-09-15T11:20:13.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -30,6 +30,23 @@
     "updatedAt": "2021-05-01T11:33:01.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Beyond Creation",
+      "Beyond Creation"
+    ],
+    "externalLinks": [],
+    "id": 139272,
+    "malId": 39334,
+    "type": "anime",
+    "title": "Beyond Creation",
+    "url": "https://anilist.co/anime/139272",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139272-wy7aD7g2flr7.png",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-09-15T05:20:13.000Z",
+    "updatedAt": "2021-09-15T10:50:13.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/39334/Beyond_Creation"
 }

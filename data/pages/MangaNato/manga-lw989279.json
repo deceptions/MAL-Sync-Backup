@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 139198,
   "createdAt": "2021-07-24T18:22:27.000Z",
-  "updatedAt": "2021-07-24T18:22:36.000Z",
+  "updatedAt": "2021-09-15T16:44:07.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "새벽 두 시의 신데렐라"
+    ],
+    "externalLinks": [],
+    "authors": [],
+    "id": 139198,
+    "malId": null,
+    "type": "manga",
+    "title": "Saebyeok Du Siui Cinderella",
+    "url": "https://anilist.co/manga/139198",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/default.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-14T04:34:41.000Z",
+    "updatedAt": "2021-09-14T04:34:41.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

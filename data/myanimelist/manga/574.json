@@ -60,6 +60,28 @@
         "updatedAt": "2021-05-20T15:25:53.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "world_embryo": {
+        "authors": [
+          "MORIYAMA Daisuke"
+        ],
+        "identifier": "world_embryo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "World Embryo",
+        "url": "https://fanfox.net/manga/world_embryo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9654/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 574,
+        "aniId": 30574,
+        "createdAt": "2021-09-14T15:04:56.000Z",
+        "updatedAt": "2021-09-14T15:34:43.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

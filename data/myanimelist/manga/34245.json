@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:49.000Z",
-  "updatedAt": "2021-05-05T11:32:22.000Z",
+  "updatedAt": "2021-09-12T03:34:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 64245,
         "createdAt": "2020-10-12T16:03:58.000Z",
         "updatedAt": "2021-06-02T17:47:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kyou-curry": {
+        "authors": [
+          "SHIMANO Yae"
+        ],
+        "identifier": "kyou-curry",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kyou, Curry!",
+        "url": "https://mangasee123.com/manga/Kyou-Curry",
+        "image": "https://cover.nep.li/cover/Kyou-Curry.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34245,
+        "aniId": 64245,
+        "createdAt": "2021-09-12T03:34:49.000Z",
+        "updatedAt": "2021-09-12T04:04:34.000Z",
         "deletedAt": null
       }
     }

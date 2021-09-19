@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:41.000Z",
-  "updatedAt": "2021-04-28T00:49:20.000Z",
+  "updatedAt": "2021-09-17T03:41:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +30,25 @@
         "aniId": 4021,
         "createdAt": "2020-10-12T15:48:47.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "antique-bakery": {
+        "identifier": "antique-bakery",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Antique Bakery",
+        "url": "https://gogoanime.pe/category/antique-bakery",
+        "image": "https://gogocdn.net/images/anime/Antique Bakery.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4021,
+        "aniId": 4021,
+        "createdAt": "2021-09-17T03:41:44.000Z",
+        "updatedAt": "2021-09-17T04:10:42.000Z",
         "deletedAt": null
       }
     }

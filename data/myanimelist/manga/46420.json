@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:27.000Z",
-  "updatedAt": "2021-07-23T09:04:22.000Z",
+  "updatedAt": "2021-09-12T04:04:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 76420,
         "createdAt": "2020-10-12T16:05:50.000Z",
         "updatedAt": "2021-06-03T15:21:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "majime-na-jikan": {
+        "authors": [
+          "SEIKE Yukiko"
+        ],
+        "identifier": "majime-na-jikan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Majime na Jikan",
+        "url": "https://mangasee123.com/manga/Majime-Na-Jikan",
+        "image": "https://cover.nep.li/cover/Majime-Na-Jikan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46420,
+        "aniId": 76420,
+        "createdAt": "2021-09-12T04:04:50.000Z",
+        "updatedAt": "2021-09-12T04:34:33.000Z",
         "deletedAt": null
       }
     }

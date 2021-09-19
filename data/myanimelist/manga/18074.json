@@ -39,6 +39,29 @@
         "updatedAt": "2021-09-03T19:45:45.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "getter_robo": {
+        "authors": [
+          "ISHIKAWA Ken",
+          "NAGAI Go"
+        ],
+        "identifier": "getter_robo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Getter Robo",
+        "url": "https://fanfox.net/manga/getter_robo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7254/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18074,
+        "aniId": 48074,
+        "createdAt": "2021-09-13T03:04:38.000Z",
+        "updatedAt": "2021-09-13T03:34:35.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:04.000Z",
-  "updatedAt": "2021-03-15T23:32:51.000Z",
+  "updatedAt": "2021-09-13T09:35:32.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -50,6 +50,25 @@
         "aniId": 471,
         "createdAt": "2021-03-15T23:32:52.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "to-heart-2": {
+        "identifier": "to-heart-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "To Heart 2",
+        "url": "https://gogoanime.pe/category/to-heart-2",
+        "image": "https://gogocdn.net/images/anime/T/to-heart.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 471,
+        "aniId": 471,
+        "createdAt": "2021-09-13T09:34:52.000Z",
+        "updatedAt": "2021-09-13T10:04:34.000Z",
         "deletedAt": null
       }
     }

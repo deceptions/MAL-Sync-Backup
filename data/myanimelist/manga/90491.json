@@ -82,6 +82,28 @@
         "updatedAt": "2021-08-16T19:37:00.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "after_hours": {
+        "authors": [
+          "NISHIO Yuuta"
+        ],
+        "identifier": "after_hours",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "After Hours",
+        "url": "https://fanfox.net/manga/after_hours/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/16115/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90491,
+        "aniId": 86292,
+        "createdAt": "2021-09-12T20:04:55.000Z",
+        "updatedAt": "2021-09-12T20:34:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

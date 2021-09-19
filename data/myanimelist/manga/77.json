@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:17.000Z",
-  "updatedAt": "2021-05-29T15:13:24.000Z",
+  "updatedAt": "2021-09-14T20:35:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 30077,
         "createdAt": "2021-05-04T03:34:12.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nu960503": {
+        "authors": [
+          "Watase Yuu"
+        ],
+        "identifier": "manga-nu960503",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Alice 19Th",
+        "url": "https://readmanganato.com/manga-nu960503",
+        "image": "https://avt.mkklcdnv6temp.com/3/z/7-1583476436.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 77,
+        "aniId": 30077,
+        "createdAt": "2021-09-14T20:35:18.000Z",
+        "updatedAt": "2021-09-14T21:04:51.000Z",
         "deletedAt": null
       }
     }

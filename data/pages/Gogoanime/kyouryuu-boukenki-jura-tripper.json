@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 2487,
-  "aniId": null,
+  "aniId": 2487,
   "createdAt": "2021-07-16T08:02:33.000Z",
-  "updatedAt": "2021-07-16T08:02:42.000Z",
+  "updatedAt": "2021-09-15T10:50:13.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -31,6 +31,24 @@
     "updatedAt": "2021-07-16T08:02:42.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "恐竜冒険記ジュラトリッパー",
+      "Dino Adventure Jurassic Tripper",
+      "Der Planet der Dinosaurier"
+    ],
+    "externalLinks": [],
+    "id": 2487,
+    "malId": 2487,
+    "type": "anime",
+    "title": "Kyouryuu Boukenki Jura Tripper",
+    "url": "https://anilist.co/anime/2487",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2487-dDVkZFYQEFd0.jpg",
+    "category": "tv",
+    "hentai": false,
+    "createdAt": "2021-09-15T10:20:13.000Z",
+    "updatedAt": "2021-09-15T10:20:13.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/2487/Kyouryuu_Boukenki_Jura_Tripper"
 }

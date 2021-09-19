@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:22.000Z",
-  "updatedAt": "2021-08-15T03:37:32.000Z",
+  "updatedAt": "2021-09-16T12:40:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -100,6 +100,28 @@
         "aniId": 100856,
         "createdAt": "2021-08-15T03:37:30.000Z",
         "updatedAt": "2021-08-15T04:07:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_king_of_fighters_a_new_beginning": {
+        "authors": [
+          "AZUMA Kyoutarou"
+        ],
+        "identifier": "the_king_of_fighters_a_new_beginning",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The King of Fighters: A New Beginning",
+        "url": "https://fanfox.net/manga/the_king_of_fighters_a_new_beginning/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27764/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111263,
+        "aniId": 100856,
+        "createdAt": "2021-09-16T12:40:47.000Z",
+        "updatedAt": "2021-09-16T13:10:42.000Z",
         "deletedAt": null
       }
     }

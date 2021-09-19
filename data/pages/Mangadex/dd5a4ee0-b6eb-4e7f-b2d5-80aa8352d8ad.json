@@ -14,9 +14,9 @@
   "active": true,
   "actor": null,
   "malId": 87912,
-  "aniId": null,
+  "aniId": 94516,
   "createdAt": "2021-08-05T02:50:17.000Z",
-  "updatedAt": "2021-08-05T02:50:19.000Z",
+  "updatedAt": "2021-09-13T10:04:35.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -38,6 +38,27 @@
     "updatedAt": "2021-08-05T02:50:19.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "特公 零 TOKKO ZERO",
+      "Tokkou Rei"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tooru Fujisawa",
+      "Yukai Asada"
+    ],
+    "id": 94516,
+    "malId": 87912,
+    "type": "manga",
+    "title": "Tokkou Zero",
+    "url": "https://anilist.co/manga/94516",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/94516-Okziknhyulxk.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-13T09:34:35.000Z",
+    "updatedAt": "2021-09-13T09:34:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/87912/Tokkou_Zero"
 }

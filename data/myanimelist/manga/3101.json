@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:48.000Z",
-  "updatedAt": "2021-04-27T22:49:50.000Z",
+  "updatedAt": "2021-09-12T18:05:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 33101,
         "createdAt": "2020-10-12T16:03:07.000Z",
         "updatedAt": "2021-06-02T11:52:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "deep-love-pao-no-monogatari": {
+        "authors": [
+          "KUROSAWA Akiyo",
+          "YOSHI"
+        ],
+        "identifier": "deep-love-pao-no-monogatari",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Deep Love - Pao no Monogatari",
+        "url": "https://mangasee123.com/manga/Deep-Love-Pao-No-Monogatari",
+        "image": "https://cover.nep.li/cover/Deep-Love-Pao-No-Monogatari.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3101,
+        "aniId": 33101,
+        "createdAt": "2021-09-12T18:05:01.000Z",
+        "updatedAt": "2021-09-12T18:34:34.000Z",
         "deletedAt": null
       }
     }

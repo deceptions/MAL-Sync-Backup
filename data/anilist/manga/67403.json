@@ -83,6 +83,28 @@
         "updatedAt": "2021-05-20T15:40:04.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "josei_danshi": {
+        "authors": [
+          "KENMOTSU Chiyo"
+        ],
+        "identifier": "josei_danshi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Josei Danshi",
+        "url": "https://fanfox.net/manga/josei_danshi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10463/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37403,
+        "aniId": 67403,
+        "createdAt": "2021-09-15T15:51:19.000Z",
+        "updatedAt": "2021-09-15T16:20:13.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

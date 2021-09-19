@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:10.000Z",
-  "updatedAt": "2021-05-29T09:44:14.000Z",
+  "updatedAt": "2021-09-18T19:11:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +81,29 @@
         "aniId": 130057,
         "createdAt": "2021-05-29T09:44:14.000Z",
         "updatedAt": "2021-05-29T10:12:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "senki-to-yobareta-otoko": {
+        "authors": [
+          "HAANA Denka",
+          "TANO Kakashi"
+        ],
+        "identifier": "senki-to-yobareta-otoko",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Senki to Yobareta Otoko",
+        "url": "https://mangasee123.com/manga/Senki-to-Yobareta-Otoko",
+        "image": "https://cover.nep.li/cover/Senki-to-Yobareta-Otoko.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 123095,
+        "aniId": 130057,
+        "createdAt": "2021-09-18T19:11:17.000Z",
+        "updatedAt": "2021-09-18T20:10:42.000Z",
         "deletedAt": null
       }
     }

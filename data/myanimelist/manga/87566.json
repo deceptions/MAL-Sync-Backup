@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-08-05T08:19:44.000Z",
-  "updatedAt": "2021-08-05T08:19:44.000Z",
+  "updatedAt": "2021-09-16T06:11:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 94401,
         "createdAt": "2021-08-07T21:22:11.000Z",
         "updatedAt": "2021-08-07T21:22:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mq989651": {
+        "authors": [
+          "Ozawa Mari"
+        ],
+        "identifier": "manga-mq989651",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sekai De Ichiban Yasashii Ongaku",
+        "url": "https://manganato.com/manga-mq989651",
+        "image": "https://avt.mkklcdnv6temp.com/41/c/24-1631763502.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87566,
+        "aniId": 94401,
+        "createdAt": "2021-09-16T06:11:30.000Z",
+        "updatedAt": "2021-09-16T06:40:42.000Z",
         "deletedAt": null
       }
     }

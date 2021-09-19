@@ -20,7 +20,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-30T06:12:13.000Z",
-  "updatedAt": "2021-06-21T13:19:36.000Z",
+  "updatedAt": "2021-09-13T10:05:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,28 @@
         "aniId": 86087,
         "createdAt": "2020-10-12T16:11:43.000Z",
         "updatedAt": "2021-06-05T12:44:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dead_days": {
+        "authors": [
+          "DEY"
+        ],
+        "identifier": "dead_days",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "DEAD DAYS",
+        "url": "https://fanfox.net/manga/dead_days/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14486/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 86087,
+        "createdAt": "2021-05-02T09:31:52.000Z",
+        "updatedAt": "2021-09-14T09:35:08.000Z",
         "deletedAt": null
       }
     }

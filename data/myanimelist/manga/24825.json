@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:15.000Z",
-  "updatedAt": "2021-06-01T15:42:12.000Z",
+  "updatedAt": "2021-09-18T04:10:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,6 +78,28 @@
         "aniId": 54825,
         "createdAt": "2021-04-26T20:19:30.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-oi958017": {
+        "authors": [
+          "Iwamoto Naoki"
+        ],
+        "identifier": "manga-oi958017",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Magico (Iwamoto Naoki)",
+        "url": "https://readmanganato.com/manga-oi958017",
+        "image": "https://avt.mkklcdnv6temp.com/12/u/5-1583472350.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24825,
+        "aniId": 54825,
+        "createdAt": "2021-09-18T04:10:47.000Z",
+        "updatedAt": "2021-09-18T04:40:42.000Z",
         "deletedAt": null
       }
     }

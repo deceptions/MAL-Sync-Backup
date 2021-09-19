@@ -18,13 +18,13 @@
   "id": 789,
   "malId": 789,
   "type": "anime",
-  "title": "Shinigami no Ballad",
+  "title": "Shinigami no Ballad.",
   "url": "https://anilist.co/anime/789",
   "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx789-ov0gY7QpKE2j.jpg",
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:34:44.000Z",
-  "updatedAt": "2021-08-19T10:37:06.000Z",
+  "updatedAt": "2021-09-14T22:20:13.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -79,6 +79,23 @@
         "aniId": 789,
         "createdAt": "2020-10-12T16:01:52.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      },
+      "shinigami-no-ballad": {
+        "identifier": "shinigami-no-ballad",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shinigami no Ballad.",
+        "url": "https://gogoanime.pe/category/shinigami-no-ballad",
+        "image": "https://gogocdn.net/cover/shinigami-no-ballad.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 789,
+        "aniId": 789,
+        "createdAt": "2021-09-13T08:34:47.000Z",
+        "updatedAt": "2021-09-13T09:04:34.000Z",
         "deletedAt": null
       }
     },

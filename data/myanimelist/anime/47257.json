@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2021-02-02T10:31:47.000Z",
-  "updatedAt": "2021-07-02T19:34:08.000Z",
+  "updatedAt": "2021-09-12T14:35:18.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,7 +30,24 @@
         "malId": 47257,
         "aniId": 129277,
         "createdAt": "2021-02-02T10:34:58.000Z",
-        "updatedAt": "2021-07-09T15:15:35.000Z",
+        "updatedAt": "2021-09-12T14:35:07.000Z",
+        "deletedAt": null
+      },
+      "rlmpo": {
+        "identifier": "rlmpo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shinigami Bocchan to Kuro Maid (Dub)",
+        "url": "https://www12.9anime.to/watch/the-duke-of-death-and-his-maid-dub.rlmpo",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/c3/c3e001fb4b26e4cd014ad07f4ca2f797.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47257,
+        "aniId": 129277,
+        "createdAt": "2021-09-12T14:35:18.000Z",
+        "updatedAt": "2021-09-12T15:04:33.000Z",
         "deletedAt": null
       }
     },
@@ -88,6 +105,23 @@
         "aniId": 129277,
         "createdAt": "2021-07-04T15:02:32.000Z",
         "updatedAt": "2021-07-04T15:29:50.000Z",
+        "deletedAt": null
+      },
+      "shinigami-bocchan-to-kuro-maid-dub": {
+        "identifier": "shinigami-bocchan-to-kuro-maid-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shinigami Bocchan to Kuro Maid (Dub)",
+        "url": "https://gogoanime.pe/category/shinigami-bocchan-to-kuro-maid-dub",
+        "image": "https://gogocdn.net/cover/shinigami-bocchan-to-kuro-maid-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47257,
+        "aniId": 129277,
+        "createdAt": "2021-09-12T22:34:54.000Z",
+        "updatedAt": "2021-09-12T23:04:33.000Z",
         "deletedAt": null
       }
     }

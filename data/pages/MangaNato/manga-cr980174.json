@@ -14,9 +14,9 @@
   "active": true,
   "actor": null,
   "malId": 116509,
-  "aniId": null,
+  "aniId": 109243,
   "createdAt": "2021-07-05T21:31:03.000Z",
-  "updatedAt": "2021-07-05T21:31:03.000Z",
+  "updatedAt": "2021-09-12T10:34:33.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -38,6 +38,27 @@
     "updatedAt": "2021-06-06T03:19:37.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "さよなら、僕のご主人様",
+      "Goodbye, my master."
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Roku Takase",
+      "Mizuki  Tachibana"
+    ],
+    "id": 109243,
+    "malId": 116509,
+    "type": "manga",
+    "title": "Sayonara, Boku no Goshujin-sama",
+    "url": "https://anilist.co/manga/109243",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109243-Z6cho0DXiiE6.png",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-09-12T10:04:34.000Z",
+    "updatedAt": "2021-09-12T10:04:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/116509/Sayonara_Boku_no_Goshujinsama"
 }

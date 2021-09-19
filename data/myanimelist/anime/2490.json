@@ -11,7 +11,7 @@
   "category": "Movie",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:29.000Z",
-  "updatedAt": "2021-05-01T20:32:01.000Z",
+  "updatedAt": "2021-09-16T03:12:40.000Z",
   "deletedAt": null,
   "Pages": {
     "animepahe": {
@@ -30,6 +30,25 @@
         "aniId": 2490,
         "createdAt": "2020-11-01T20:18:51.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "6l9p7": {
+        "identifier": "6l9p7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "One Piece: Mezase! Kaizoku Yakyuu Ou",
+        "url": "https://www12.9anime.to/watch/one-piece-mezase-kaizoku-yakyuu-ou.6l9p7",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/95/957f3fec3da71e66fd764e6a6c4e679c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2490,
+        "aniId": 2490,
+        "createdAt": "2021-09-16T03:12:37.000Z",
+        "updatedAt": "2021-09-16T03:40:42.000Z",
         "deletedAt": null
       }
     }

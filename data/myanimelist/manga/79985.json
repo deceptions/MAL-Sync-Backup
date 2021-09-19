@@ -14,7 +14,7 @@
   "category": "One-shot",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:34.000Z",
-  "updatedAt": "2021-05-11T15:12:01.000Z",
+  "updatedAt": "2021-09-15T15:51:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 85608,
         "createdAt": "2020-10-12T16:07:57.000Z",
         "updatedAt": "2021-06-04T06:27:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "starbiter_satsuki": {
+        "authors": [
+          "MASHIMA Hiro"
+        ],
+        "identifier": "starbiter_satsuki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Starbiter Satsuki",
+        "url": "https://fanfox.net/manga/starbiter_satsuki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14313/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 79985,
+        "aniId": 85608,
+        "createdAt": "2021-09-15T15:50:17.000Z",
+        "updatedAt": "2021-09-15T16:20:13.000Z",
         "deletedAt": null
       }
     }

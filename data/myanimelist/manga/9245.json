@@ -59,6 +59,28 @@
         "updatedAt": "2021-09-10T13:34:34.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "midnight": {
+        "authors": [
+          "TEZUKA Osamu"
+        ],
+        "identifier": "midnight",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Midnight",
+        "url": "https://fanfox.net/manga/midnight/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3710/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9245,
+        "aniId": 39245,
+        "createdAt": "2021-09-12T05:04:33.000Z",
+        "updatedAt": "2021-09-12T05:34:33.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

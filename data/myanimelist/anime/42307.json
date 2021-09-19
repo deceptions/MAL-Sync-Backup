@@ -1,7 +1,11 @@
 {
   "altTitle": [
     "The World Ends with You The Animation",
-    "It's a Wonderful World, This Wonderful World, Subarashiki Konosekai, Subaseka, TWEWY",
+    "It's a Wonderful World",
+    "This Wonderful World",
+    "Subarashiki Konosekai",
+    "Subaseka",
+    "TWEWY",
     "すばらしきこのせかい The Animation"
   ],
   "id": 42307,
@@ -12,7 +16,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:16.000Z",
-  "updatedAt": "2021-04-17T03:14:18.000Z",
+  "updatedAt": "2021-09-17T18:41:12.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -31,6 +35,23 @@
         "aniId": 120376,
         "createdAt": "2020-10-12T15:49:22.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "w19j6": {
+        "identifier": "w19j6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Subarashiki Kono Sekai The Animation (Dub)",
+        "url": "https://www12.9anime.to/watch/the-world-ends-with-you-the-animation-dub.w19j6",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/6d/6dabc241892ec10e1b0cda6b27c41c11.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42307,
+        "aniId": 120376,
+        "createdAt": "2021-09-17T19:11:18.000Z",
+        "updatedAt": "2021-09-17T19:40:42.000Z",
         "deletedAt": null
       }
     },
@@ -88,6 +109,23 @@
         "aniId": 120376,
         "createdAt": "2021-04-14T16:47:30.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      },
+      "subarashiki-kono-sekai-the-animation-dub": {
+        "identifier": "subarashiki-kono-sekai-the-animation-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Subarashiki Kono Sekai The Animation (Dub)",
+        "url": "https://gogoanime.pe/category/subarashiki-kono-sekai-the-animation-dub",
+        "image": "https://gogocdn.net/cover/subarashiki-kono-sekai-the-animation-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42307,
+        "aniId": 120376,
+        "createdAt": "2021-09-17T21:11:43.000Z",
+        "updatedAt": "2021-09-17T21:40:42.000Z",
         "deletedAt": null
       }
     }

@@ -13,13 +13,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 132457,
   "createdAt": "2021-05-29T07:14:58.000Z",
-  "updatedAt": "2021-09-05T10:47:36.000Z",
+  "updatedAt": "2021-09-14T20:14:16.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Celestial Returned from Hell",
+      "지옥에서 돌아온 성좌님",
+      "The Constellation That Returned From Hell"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Geulsseuneungigye",
+      "Sichi"
+    ],
+    "id": 132457,
+    "malId": null,
+    "type": "manga",
+    "title": "Jiogeseo Doraon Seongjwanim",
+    "url": "https://anilist.co/manga/132457",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132457-sGQqSZbDoKJR.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-23T01:13:17.000Z",
+    "updatedAt": "2021-09-06T01:15:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

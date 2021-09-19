@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:39.000Z",
-  "updatedAt": "2021-04-18T13:44:38.000Z",
+  "updatedAt": "2021-09-12T02:35:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -79,6 +79,28 @@
         "aniId": 97728,
         "createdAt": "2021-04-18T13:44:38.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vj973018": {
+        "authors": [
+          "Nakayama Atsushi"
+        ],
+        "identifier": "manga-vj973018",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Uratarou",
+        "url": "https://readmanganato.com/manga-vj973018",
+        "image": "https://avt.mkklcdnv6temp.com/25/t/14-1583490659.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100217,
+        "aniId": 97728,
+        "createdAt": "2021-09-12T02:34:59.000Z",
+        "updatedAt": "2021-09-12T03:04:33.000Z",
         "deletedAt": null
       }
     }

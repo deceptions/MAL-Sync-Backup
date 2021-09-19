@@ -11,7 +11,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:23.000Z",
-  "updatedAt": "2021-04-27T00:19:20.000Z",
+  "updatedAt": "2021-09-15T06:50:18.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +30,25 @@
         "aniId": 1885,
         "createdAt": "2020-10-12T15:54:21.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "master-of-epic-the-animation-age": {
+        "identifier": "master-of-epic-the-animation-age",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Master of Epic: The Animation Age",
+        "url": "https://gogoanime.pe/category/master-of-epic-the-animation-age",
+        "image": "https://gogocdn.net/cover/master-of-epic-the-animation-age.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1885,
+        "aniId": 1885,
+        "createdAt": "2021-09-15T06:50:16.000Z",
+        "updatedAt": "2021-09-15T07:20:13.000Z",
         "deletedAt": null
       }
     }

@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 139200,
   "createdAt": "2021-09-06T09:45:48.000Z",
-  "updatedAt": "2021-09-06T09:45:56.000Z",
+  "updatedAt": "2021-09-14T20:14:25.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "성좌들이 나만 좋아해",
+      "I’m the Only One Loved by the Constellations!",
+      "naneun byeoljaliege salangbadneun yuilhan salam-ida!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Corgibear",
+      "Super Comix Studio"
+    ],
+    "id": 139200,
+    "malId": null,
+    "type": "manga",
+    "title": "Seongjwadeuri Naman Joahae",
+    "url": "https://anilist.co/manga/139200",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139200-HfUqy6O02Rjh.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-14T10:35:51.000Z",
+    "updatedAt": "2021-09-14T10:35:51.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

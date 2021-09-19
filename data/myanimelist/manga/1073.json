@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:29.000Z",
-  "updatedAt": "2021-04-26T16:50:21.000Z",
+  "updatedAt": "2021-09-14T11:35:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 31073,
         "createdAt": "2020-10-12T16:15:57.000Z",
         "updatedAt": "2021-06-06T18:11:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ra968683": {
+        "authors": [
+          "Matsuba Hiro"
+        ],
+        "identifier": "manga-ra968683",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Motto Kokoro Ni Hoshi No Kagayaki Wo",
+        "url": "https://manganato.com/manga-ra968683",
+        "image": "https://avt.mkklcdnv6temp.com/21/c/12-1583486592.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1073,
+        "aniId": 31073,
+        "createdAt": "2021-09-14T11:35:16.000Z",
+        "updatedAt": "2021-09-14T12:04:43.000Z",
         "deletedAt": null
       }
     }

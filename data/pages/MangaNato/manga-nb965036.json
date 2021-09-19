@@ -10,14 +10,54 @@
   "image": "https://avt.mkklcdnv6temp.com/49/q/9-1583482164.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actor": 2,
+  "malId": 21359,
+  "aniId": 51359,
   "createdAt": "2021-09-11T22:34:39.000Z",
-  "updatedAt": "2021-09-11T22:34:39.000Z",
+  "updatedAt": "2021-09-12T14:34:33.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Hishintan",
+      "秘身譚 ヴィータ・アルカーナ"
+    ],
+    "authors": [
+      "Itoh, Mami"
+    ],
+    "id": 21359,
+    "type": "manga",
+    "title": "Vita Arcana",
+    "url": "https://myanimelist.net/manga/21359/Vita_Arcana",
+    "image": "https://cdn.myanimelist.net/images/manga/3/77127.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:42:56.000Z",
+    "updatedAt": "2021-09-11T22:34:45.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "秘身譚 ヴィータ・アルカーナ",
+      "Vita Arcana",
+      "Hishintan -Vita Arcana-",
+      "Hishintan"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mami Itoh"
+    ],
+    "id": 51359,
+    "malId": 21359,
+    "type": "manga",
+    "title": "Hishintan: Vita Arcana",
+    "url": "https://anilist.co/manga/51359",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/21359.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:45:42.000Z",
+    "updatedAt": "2021-06-17T17:01:03.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/21359/Vita_Arcana"
 }

@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 39335,
-  "aniId": null,
+  "aniId": 139082,
   "createdAt": "2021-07-28T06:23:28.000Z",
-  "updatedAt": "2021-07-28T06:23:31.000Z",
+  "updatedAt": "2021-09-15T02:20:13.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -30,6 +30,23 @@
     "updatedAt": "2021-07-28T06:23:31.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Lamp Man",
+      "The Lamp Man"
+    ],
+    "externalLinks": [],
+    "id": 139082,
+    "malId": 39335,
+    "type": "anime",
+    "title": "The Lamp Man",
+    "url": "https://anilist.co/anime/139082",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139082-EzB0b0tIutBG.png",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-09-11T04:34:34.000Z",
+    "updatedAt": "2021-09-15T01:50:13.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/39335/The_Lamp_Man"
 }

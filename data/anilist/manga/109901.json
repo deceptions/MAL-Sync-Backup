@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-26T17:19:20.000Z",
-  "updatedAt": "2021-06-26T17:19:20.000Z",
+  "updatedAt": "2021-09-13T23:34:53.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-hq985151": {
+        "authors": [
+          "Maruyama Kyosuke"
+        ],
+        "identifier": "manga-hq985151",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tsuyoshi",
+        "url": "https://manganato.com/manga-hq985151",
+        "image": "https://avt.mkklcdnv6temp.com/3/n/21-1587095092.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 109901,
+        "createdAt": "2021-09-13T23:34:53.000Z",
+        "updatedAt": "2021-09-13T23:34:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }
