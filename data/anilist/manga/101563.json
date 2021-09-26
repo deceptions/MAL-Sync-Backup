@@ -23,7 +23,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-25T14:08:38.000Z",
-  "updatedAt": "2021-06-18T03:29:50.000Z",
+  "updatedAt": "2021-09-23T16:41:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -46,6 +46,29 @@
         "aniId": 101563,
         "createdAt": "2020-10-12T16:12:40.000Z",
         "updatedAt": "2021-08-07T16:18:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-grandmaster-of-demonic-cultivation": {
+        "authors": [
+          "",
+          "Mo Xiang Tong Xiu"
+        ],
+        "identifier": "the-grandmaster-of-demonic-cultivation",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Grandmaster of Demonic Cultivation",
+        "url": "https://mangasee123.com/manga/The-Grandmaster-of-Demonic-Cultivation",
+        "image": "https://cover.nep.li/cover/The-Grandmaster-of-Demonic-Cultivation.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 137200,
+        "aniId": 101563,
+        "createdAt": "2021-03-11T21:39:37.000Z",
+        "updatedAt": "2021-09-23T16:41:58.000Z",
         "deletedAt": null
       }
     },

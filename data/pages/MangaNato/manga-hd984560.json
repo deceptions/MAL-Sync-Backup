@@ -11,13 +11,50 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 123808,
+  "aniId": 113219,
   "createdAt": "2021-05-28T22:23:33.000Z",
-  "updatedAt": "2021-05-28T22:23:33.000Z",
+  "updatedAt": "2021-09-23T19:45:23.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "一畳間まんきつ暮らし！"
+    ],
+    "authors": [
+      "Hisamakumako"
+    ],
+    "id": 123808,
+    "type": "manga",
+    "title": "Ichijouma Mankitsugurashi!",
+    "url": "https://myanimelist.net/manga/123808/Ichijouma_Mankitsugurashi",
+    "image": "https://cdn.myanimelist.net/images/manga/3/226540.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:48:11.000Z",
+    "updatedAt": "2021-09-23T17:11:21.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "一畳間まんきつ暮らし",
+      "Ichijyoma Mankitsu Gurashi"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kumako Hisama"
+    ],
+    "id": 113219,
+    "malId": 123808,
+    "type": "manga",
+    "title": "Ichijouma Mankitsu Gurashi",
+    "url": "https://anilist.co/manga/113219",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113219-itbUaMhLs446.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:01.000Z",
+    "updatedAt": "2021-06-18T07:27:30.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/123808/Ichijouma_Mankitsugurashi"
 }

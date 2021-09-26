@@ -11,13 +11,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 80119,
+  "aniId": 86303,
   "createdAt": "2021-01-28T19:18:01.000Z",
-  "updatedAt": "2021-07-28T19:24:30.000Z",
+  "updatedAt": "2021-09-23T19:45:23.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "Miss Kobayashi's Dragon Maid",
+      "The maid dragon of Kobayashi-san",
+      "小林さんちのメイドラゴン"
+    ],
+    "authors": [
+      "Cool-kyou Shinja"
+    ],
+    "id": 80119,
+    "type": "manga",
+    "title": "Kobayashi-san Chi no Maid Dragon",
+    "url": "https://myanimelist.net/manga/80119/Kobayashi-san_Chi_no_Maid_Dragon",
+    "image": "https://cdn.myanimelist.net/images/manga/3/138919.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:45:34.000Z",
+    "updatedAt": "2021-09-23T10:11:14.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Miss Kobayashi's Dragon Maid",
+      "小林さんちのメイドラゴン",
+      "Kobayashi-san Chi no Maid Dragon",
+      "The maid dragon of Kobayashi-san",
+      "Дракорничная госпожи Кобаяси"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Cool-kyou Shinja",
+      "Jenny McKeon"
+    ],
+    "id": 86303,
+    "malId": 80119,
+    "type": "manga",
+    "title": "Kobayashi-san Chi no Maidragon",
+    "url": "https://anilist.co/manga/86303",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86303-DItZrA3hbaJf.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:51:59.000Z",
+    "updatedAt": "2021-08-20T19:16:06.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/80119/Kobayashi-san_Chi_no_Maid_Dragon"
 }

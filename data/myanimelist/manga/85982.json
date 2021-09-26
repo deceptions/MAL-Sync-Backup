@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:44.000Z",
-  "updatedAt": "2021-06-04T23:50:49.000Z",
+  "updatedAt": "2021-09-24T05:47:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 93817,
         "createdAt": "2020-10-12T16:10:18.000Z",
         "updatedAt": "2021-06-04T23:50:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wl974168": {
+        "authors": [
+          "Mishima Kazuhiko"
+        ],
+        "identifier": "manga-wl974168",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ikujinashi No Kimi Ni Sasageru",
+        "url": "https://manganato.com/manga-wl974168",
+        "image": "https://avt.mkklcdnv6temp.com/40/q/14-1583491159.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85982,
+        "aniId": 93817,
+        "createdAt": "2021-09-24T05:46:55.000Z",
+        "updatedAt": "2021-09-24T06:15:23.000Z",
         "deletedAt": null
       }
     }

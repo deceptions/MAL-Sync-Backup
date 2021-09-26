@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-24T10:08:18.000Z",
-  "updatedAt": "2021-06-21T14:31:31.000Z",
+  "updatedAt": "2021-09-24T11:45:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,28 @@
         "aniId": 111735,
         "createdAt": "2021-06-02T06:01:31.000Z",
         "updatedAt": "2021-06-02T06:01:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "metropolitan_system": {
+        "authors": [
+          "Tu Jun"
+        ],
+        "identifier": "metropolitan_system",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Metropolitan System",
+        "url": "https://fanfox.net/manga/metropolitan_system/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30261/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 111735,
+        "createdAt": "2021-09-24T11:45:26.000Z",
+        "updatedAt": "2021-09-24T11:45:26.000Z",
         "deletedAt": null
       }
     }

@@ -13,13 +13,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 135369,
   "createdAt": "2021-06-29T16:51:48.000Z",
-  "updatedAt": "2021-09-01T02:47:25.000Z",
+  "updatedAt": "2021-09-24T19:04:11.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "서울역 드루이드",
+      "Seoul Station Druid"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hwalseonggom",
+      "Seol-Woo Jin",
+      "Seong-Ho Moon"
+    ],
+    "id": 135369,
+    "malId": null,
+    "type": "manga",
+    "title": "Seoulyeok Druid",
+    "url": "https://anilist.co/manga/135369",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135369-uSOpgGsmylOW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-10T16:08:20.000Z",
+    "updatedAt": "2021-08-26T00:06:44.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

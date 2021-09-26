@@ -11,13 +11,38 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 129951,
   "createdAt": "2021-05-28T20:24:44.000Z",
-  "updatedAt": "2021-09-15T00:51:24.000Z",
+  "updatedAt": "2021-09-24T19:03:59.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "仙尊洛无极",
+      "Luo Wuji, the Reverent Saint",
+      "The Reverent Saint, Luo Wuji",
+      "The Immortal Emperor Luo Wuji Has Returned  "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Da Mo Wang Manhua",
+      "Luoshu",
+      "Shitou Mao",
+      "Aren"
+    ],
+    "id": 129951,
+    "malId": null,
+    "type": "manga",
+    "title": "Xianzun Luo Wuji",
+    "url": "https://anilist.co/manga/129951",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129951-q8pZyQ7VWiwj.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T01:42:57.000Z",
+    "updatedAt": "2021-09-24T17:15:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:04.000Z",
-  "updatedAt": "2021-05-06T03:33:31.000Z",
+  "updatedAt": "2021-09-20T12:41:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 69199,
         "createdAt": "2020-10-12T16:04:36.000Z",
         "updatedAt": "2021-06-02T22:10:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "duction-man": {
+        "authors": [
+          "INOKUMA Shinobu"
+        ],
+        "identifier": "duction-man",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Duction Man",
+        "url": "https://mangasee123.com/manga/Duction-Man",
+        "image": "https://cover.nep.li/cover/Duction-Man.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39199,
+        "aniId": 69199,
+        "createdAt": "2021-09-20T12:41:01.000Z",
+        "updatedAt": "2021-09-20T13:10:42.000Z",
         "deletedAt": null
       }
     }

@@ -22,7 +22,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T09:12:58.000Z",
-  "updatedAt": "2021-08-07T21:21:21.000Z",
+  "updatedAt": "2021-09-22T21:42:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -45,6 +45,28 @@
         "aniId": 100851,
         "createdAt": "2020-10-12T16:11:01.000Z",
         "updatedAt": "2021-06-05T08:51:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ac977737": {
+        "authors": [
+          "Yuanqi Gongchang"
+        ],
+        "identifier": "manga-ac977737",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Love Is Cherry Pink",
+        "url": "https://manganato.com/manga-ac977737",
+        "image": "https://avt.mkklcdnv6temp.com/48/x/15-1583493423.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 100851,
+        "createdAt": "2021-09-22T21:42:30.000Z",
+        "updatedAt": "2021-09-22T21:42:41.000Z",
         "deletedAt": null
       }
     }

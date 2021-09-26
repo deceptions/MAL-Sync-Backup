@@ -10,7 +10,7 @@
   "category": "Special",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:59.000Z",
-  "updatedAt": "2021-07-15T14:32:22.000Z",
+  "updatedAt": "2021-09-24T20:15:43.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +48,25 @@
         "aniId": 8440,
         "createdAt": "2021-01-15T14:03:24.000Z",
         "updatedAt": "2021-05-20T15:21:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "black-lagoon-omake": {
+        "identifier": "black-lagoon-omake",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Black Lagoon Omake",
+        "url": "https://gogoanime.pe/category/black-lagoon-omake",
+        "image": "https://gogocdn.net/cover/black-lagoon-omake.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8440,
+        "aniId": 8440,
+        "createdAt": "2021-09-24T20:15:26.000Z",
+        "updatedAt": "2021-09-24T20:45:23.000Z",
         "deletedAt": null
       }
     }

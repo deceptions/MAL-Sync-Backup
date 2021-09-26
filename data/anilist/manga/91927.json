@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-04T03:53:29.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "pandora_nemu_youko": {
+        "authors": [
+          "NEMU Youko"
+        ],
+        "identifier": "pandora_nemu_youko",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Pandora (NEMU Youko)",
+        "url": "https://fanfox.net/manga/pandora_nemu_youko/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14255/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 74057,
+        "aniId": 91927,
+        "createdAt": "2021-09-22T17:10:54.000Z",
+        "updatedAt": "2021-09-22T19:10:49.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

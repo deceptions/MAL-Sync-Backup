@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:33.000Z",
-  "updatedAt": "2021-07-05T20:59:52.000Z",
+  "updatedAt": "2021-09-23T10:42:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 79573,
         "createdAt": "2020-10-12T16:06:11.000Z",
         "updatedAt": "2021-06-03T17:51:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hatoko_san_to_rabukome": {
+        "authors": [
+          "SUZUKI Daisuke"
+        ],
+        "identifier": "hatoko_san_to_rabukome",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hatoko-san to Rabukome",
+        "url": "https://fanfox.net/manga/hatoko_san_to_rabukome/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12211/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 49573,
+        "aniId": 79573,
+        "createdAt": "2021-09-23T10:42:10.000Z",
+        "updatedAt": "2021-09-23T19:45:23.000Z",
         "deletedAt": null
       }
     }

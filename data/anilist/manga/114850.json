@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-31T00:42:13.000Z",
-  "updatedAt": "2021-06-21T14:56:16.000Z",
+  "updatedAt": "2021-09-20T05:11:02.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lr988526": {
+        "authors": [
+          "Nametake"
+        ],
+        "identifier": "manga-lr988526",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Toshishita No Senpai-Chan 2",
+        "url": "https://manganato.com/manga-lr988526",
+        "image": "https://avt.mkklcdnv6temp.com/42/k/23-1615873433.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 114850,
+        "createdAt": "2021-09-20T05:10:56.000Z",
+        "updatedAt": "2021-09-20T05:11:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

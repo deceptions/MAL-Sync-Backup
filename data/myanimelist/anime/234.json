@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:01.000Z",
-  "updatedAt": "2021-04-25T23:27:24.000Z",
+  "updatedAt": "2021-09-25T08:16:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -46,6 +46,25 @@
         "aniId": 234,
         "createdAt": "2020-10-12T15:56:19.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "dan-doh": {
+        "identifier": "dan-doh",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dan Doh!!",
+        "url": "https://gogoanime.pe/category/dan-doh",
+        "image": "https://gogocdn.net/images/anime/D/dan-doh.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 234,
+        "aniId": 234,
+        "createdAt": "2021-09-25T08:16:25.000Z",
+        "updatedAt": "2021-09-25T08:45:23.000Z",
         "deletedAt": null
       }
     }

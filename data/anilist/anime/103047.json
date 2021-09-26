@@ -1,9 +1,14 @@
 {
   "altTitle": [
-    "Violet Evergarden: The Movie",
+    "Violet Evergarden: the Movie",
     "ヴァイオレット・エヴァーガーデン (劇場版)"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81193214"
+    }
+  ],
   "id": 103047,
   "malId": 37987,
   "type": "anime",
@@ -13,7 +18,7 @@
   "category": "movie",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:43.000Z",
-  "updatedAt": "2021-06-17T16:18:47.000Z",
+  "updatedAt": "2021-09-25T14:15:23.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -32,6 +37,23 @@
         "aniId": 103047,
         "createdAt": "2020-10-12T15:54:53.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      },
+      "zlr02": {
+        "identifier": "zlr02",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Violet Evergarden Movie (Dub)",
+        "url": "https://www12.9anime.to/watch/violet-evergarden-movie-dub.zlr02",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/79/79804524848846dfdd994aab825c1791.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37987,
+        "aniId": 103047,
+        "createdAt": "2021-09-25T00:45:57.000Z",
+        "updatedAt": "2021-09-25T01:15:23.000Z",
         "deletedAt": null
       }
     },
@@ -70,6 +92,23 @@
         "aniId": 103047,
         "createdAt": "2020-12-27T07:42:19.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      },
+      "violet-evergarden-movie-dub": {
+        "identifier": "violet-evergarden-movie-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Violet Evergarden Movie (Dub)",
+        "url": "https://gogoanime.pe/category/violet-evergarden-movie-dub",
+        "image": "https://gogocdn.net/cover/violet-evergarden-movie-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37987,
+        "aniId": 103047,
+        "createdAt": "2021-09-25T00:15:26.000Z",
+        "updatedAt": "2021-09-25T00:45:23.000Z",
         "deletedAt": null
       }
     }

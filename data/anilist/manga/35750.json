@@ -41,6 +41,50 @@
         "updatedAt": "2021-06-03T10:09:47.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-ed959638": {
+        "authors": [
+          "Shimura Takako"
+        ],
+        "identifier": "manga-ed959638",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dounika Naru Hibi",
+        "url": "https://manganato.com/manga-ed959638",
+        "image": "https://avt.mkklcdnv6temp.com/21/e/6-1583475002.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5750,
+        "aniId": 35750,
+        "createdAt": "2021-09-25T20:16:34.000Z",
+        "updatedAt": "2021-09-25T20:45:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dounika_naru_hibi": {
+        "authors": [
+          "SHIMURA Takako"
+        ],
+        "identifier": "dounika_naru_hibi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dounika Naru Hibi",
+        "url": "https://fanfox.net/manga/dounika_naru_hibi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2493/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5750,
+        "aniId": 35750,
+        "createdAt": "2021-09-25T20:45:47.000Z",
+        "updatedAt": "2021-09-25T21:15:23.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

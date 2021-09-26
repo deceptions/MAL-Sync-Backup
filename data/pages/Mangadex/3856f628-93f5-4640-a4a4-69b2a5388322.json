@@ -13,9 +13,9 @@
   "active": true,
   "actor": 2,
   "malId": 121595,
-  "aniId": null,
+  "aniId": 106255,
   "createdAt": "2020-10-12T16:13:26.000Z",
-  "updatedAt": "2021-06-06T13:33:27.000Z",
+  "updatedAt": "2021-09-20T08:40:45.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -36,6 +36,28 @@
     "updatedAt": "2021-06-05T21:50:09.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "While Being Seen Off by Campanella",
+      "3番線のカンパネルラ",
+      "3-bansen no Campanella",
+      "While being seen off by Campanella."
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Atsuki Kyouyama"
+    ],
+    "id": 106255,
+    "malId": 121595,
+    "type": "manga",
+    "title": "3 Ban Sen no Campanella",
+    "url": "https://anilist.co/manga/106255",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106255-RTEIvUeJGBaG.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-20T08:10:43.000Z",
+    "updatedAt": "2021-09-20T08:10:43.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/121595/3-bansen_no_Campanella"
 }

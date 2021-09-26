@@ -18,5 +18,28 @@
   "createdAt": "2021-06-15T06:27:53.000Z",
   "updatedAt": "2021-09-04T11:46:05.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "almost_friends": {
+        "authors": [
+          "Huang Erye"
+        ],
+        "identifier": "almost_friends",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Almost Friends",
+        "url": "https://fanfox.net/manga/almost_friends/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38845/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 135410,
+        "createdAt": "2021-09-19T05:41:00.000Z",
+        "updatedAt": "2021-09-19T05:41:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

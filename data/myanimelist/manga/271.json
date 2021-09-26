@@ -1,7 +1,9 @@
 {
   "altTitle": [
     "Mink",
-    "Cyber Idol Mink, Yamaneko-za wa Ittousei, The Wildcat Constellation",
+    "Cyber Idol Mink",
+    "Yamaneko-za wa Ittousei",
+    "The Wildcat Constellation",
     "電脳少女☆Mink"
   ],
   "authors": [
@@ -15,7 +17,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:20.000Z",
-  "updatedAt": "2021-04-26T02:28:42.000Z",
+  "updatedAt": "2021-09-20T22:41:07.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-qc967611": {
+        "authors": [
+          "Tachikawa Megumi"
+        ],
+        "identifier": "manga-qc967611",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Wildcat Constellation",
+        "url": "https://manganato.com/manga-qc967611",
+        "image": "https://avt.mkklcdnv6temp.com/31/v/11-1583485158.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 271,
+        "aniId": null,
+        "createdAt": "2021-09-20T22:41:05.000Z",
+        "updatedAt": "2021-09-20T22:41:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

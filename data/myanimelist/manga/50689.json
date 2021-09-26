@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:36.000Z",
-  "updatedAt": "2021-03-29T15:00:50.000Z",
+  "updatedAt": "2021-09-20T20:41:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,28 @@
         "aniId": 80689,
         "createdAt": "2021-03-29T15:00:52.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-by959333": {
+        "authors": [
+          "Oosaki Tomohito"
+        ],
+        "identifier": "manga-by959333",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Te To Kuchi",
+        "url": "https://manganato.com/manga-by959333",
+        "image": "https://avt.mkklcdnv6temp.com/9/y/6-1583474508.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50689,
+        "aniId": 80689,
+        "createdAt": "2021-09-20T20:41:21.000Z",
+        "updatedAt": "2021-09-20T21:10:42.000Z",
         "deletedAt": null
       }
     }

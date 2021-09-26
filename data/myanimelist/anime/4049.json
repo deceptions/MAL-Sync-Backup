@@ -1,7 +1,10 @@
 {
   "altTitle": [
     "Pandalian",
-    "Madou Kiden Pandalian, Legend of the Magical Beans Pandalian, Pandarian, PandaMonium",
+    "Madou Kiden Pandalian",
+    "Legend of the Magical Beans Pandalian",
+    "Pandarian",
+    "PandaMonium",
     "魔豆奇伝パンダリアン"
   ],
   "id": 4049,
@@ -12,7 +15,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:41.000Z",
-  "updatedAt": "2021-04-28T01:18:40.000Z",
+  "updatedAt": "2021-09-20T00:11:02.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +51,25 @@
         "aniId": 4049,
         "createdAt": "2020-10-12T15:55:03.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pandalian-dub": {
+        "identifier": "pandalian-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pandalian (Dub)",
+        "url": "https://gogoanime.pe/category/pandalian-dub",
+        "image": "https://gogocdn.net/cover/pandalian-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4049,
+        "aniId": 4049,
+        "createdAt": "2021-09-20T00:10:45.000Z",
+        "updatedAt": "2021-09-20T00:40:42.000Z",
         "deletedAt": null
       }
     }

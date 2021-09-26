@@ -12,13 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 139503,
   "createdAt": "2021-06-15T19:57:33.000Z",
-  "updatedAt": "2021-08-29T18:37:28.000Z",
+  "updatedAt": "2021-09-22T15:03:26.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Get Rich or Game Over",
+      "레벨이 갑이다",
+      "My Level's The Best",
+      "Reberi Gabida"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yeong-Su",
+      "TtalBaBo",
+      "Jin"
+    ],
+    "id": 139503,
+    "malId": null,
+    "type": "manga",
+    "title": "Level-i Gabida",
+    "url": "https://anilist.co/manga/139503",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b139503-WAVhIdqGV7Yp.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-21T17:40:44.000Z",
+    "updatedAt": "2021-09-21T17:40:44.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

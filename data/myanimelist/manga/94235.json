@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:19.000Z",
-  "updatedAt": "2021-07-15T19:33:51.000Z",
+  "updatedAt": "2021-09-21T00:11:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,28 @@
         "aniId": 100674,
         "createdAt": "2021-01-24T13:14:01.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-uy971507": {
+        "authors": [
+          "Fukami Makoto"
+        ],
+        "identifier": "manga-uy971507",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mahou Shoujo Tokushuusen Asuka",
+        "url": "https://manganato.com/manga-uy971507",
+        "image": "https://avt.mkklcdnv6temp.com/46/v/13-1583489477.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94235,
+        "aniId": 100674,
+        "createdAt": "2021-09-21T00:11:14.000Z",
+        "updatedAt": "2021-09-21T00:40:42.000Z",
         "deletedAt": null
       }
     }

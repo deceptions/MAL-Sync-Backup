@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-18T21:33:22.000Z",
-  "updatedAt": "2021-06-22T04:45:23.000Z",
+  "updatedAt": "2021-09-21T10:41:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,30 @@
         "aniId": 122464,
         "createdAt": "2021-06-22T04:45:12.000Z",
         "updatedAt": "2021-06-22T05:14:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jq987099": {
+        "authors": [
+          "Togashi Seiya",
+          "Kaduki Wawano",
+          "Kasukabeakira"
+        ],
+        "identifier": "manga-jq987099",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "After The Holy Sword Reincarnates Into A Human Being, It’S Troubled Because It Is Favored By The Hero",
+        "url": "https://manganato.com/manga-jq987099",
+        "image": "https://avt.mkklcdnv6temp.com/33/q/22-1604200813.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132565,
+        "aniId": 122464,
+        "createdAt": "2021-09-21T10:40:58.000Z",
+        "updatedAt": "2021-09-21T11:10:42.000Z",
         "deletedAt": null
       }
     }

@@ -16,7 +16,31 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:52.000Z",
-  "updatedAt": "2021-05-23T12:13:17.000Z",
+  "updatedAt": "2021-09-21T00:41:44.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-dz980882": {
+        "authors": [
+          "Ren Hirose",
+          "Hiromi Taihei"
+        ],
+        "identifier": "manga-dz980882",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Magician Wants Normality",
+        "url": "https://manganato.com/manga-dz980882",
+        "image": "https://avt.mkklcdnv6temp.com/44/y/17-1583496881.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118250,
+        "aniId": 113217,
+        "createdAt": "2021-09-21T00:40:46.000Z",
+        "updatedAt": "2021-09-21T01:10:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

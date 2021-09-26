@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:08.000Z",
-  "updatedAt": "2021-05-01T23:02:41.000Z",
+  "updatedAt": "2021-09-25T06:46:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -56,6 +56,28 @@
         "aniId": 44700,
         "createdAt": "2020-10-12T16:19:15.000Z",
         "updatedAt": "2021-06-07T21:33:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-uv953430": {
+        "authors": [
+          "Makimura Satoru"
+        ],
+        "identifier": "manga-uv953430",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Real Clothes",
+        "url": "https://manganato.com/manga-uv953430",
+        "image": "https://avt.mkklcdnv6temp.com/23/a/2-1583466594.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14700,
+        "aniId": 44700,
+        "createdAt": "2021-09-25T06:46:48.000Z",
+        "updatedAt": "2021-09-25T07:15:23.000Z",
         "deletedAt": null
       }
     }

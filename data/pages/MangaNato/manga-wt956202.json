@@ -11,13 +11,49 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 28226,
+  "aniId": 58226,
   "createdAt": "2021-06-02T08:23:36.000Z",
-  "updatedAt": "2021-06-02T08:23:36.000Z",
+  "updatedAt": "2021-09-23T09:10:05.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "煩悩寺"
+    ],
+    "authors": [
+      "Aki★Eda"
+    ],
+    "id": 28226,
+    "type": "manga",
+    "title": "Bonnouji",
+    "url": "https://myanimelist.net/manga/28226/Bonnouji",
+    "image": "https://cdn.myanimelist.net/images/manga/2/159423.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:43:30.000Z",
+    "updatedAt": "2021-09-03T11:16:42.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "煩悩寺"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Aki Eda"
+    ],
+    "id": 58226,
+    "malId": 28226,
+    "type": "manga",
+    "title": "Bonnouji",
+    "url": "https://anilist.co/manga/58226",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx58226-RJMupEnHIYXs.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:47:30.000Z",
+    "updatedAt": "2021-09-23T07:11:33.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/28226/Bonnouji"
 }

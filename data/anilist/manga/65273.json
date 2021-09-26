@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-02T23:46:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "principal": {
+        "authors": [
+          "IKUEMI Ryo"
+        ],
+        "identifier": "principal",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Principal",
+        "url": "https://mangasee123.com/manga/Principal",
+        "image": "https://cover.nep.li/cover/Principal.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35273,
+        "aniId": 65273,
+        "createdAt": "2021-09-24T05:46:43.000Z",
+        "updatedAt": "2021-09-24T06:15:23.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

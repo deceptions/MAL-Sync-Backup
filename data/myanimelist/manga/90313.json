@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:03.000Z",
-  "updatedAt": "2021-05-13T21:25:11.000Z",
+  "updatedAt": "2021-09-22T01:11:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 86732,
         "createdAt": "2021-05-24T16:38:26.000Z",
         "updatedAt": "2021-05-24T17:08:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wh953616": {
+        "authors": [
+          "Kokuzawa Yousuke"
+        ],
+        "identifier": "manga-wh953616",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shinobi No Ban",
+        "url": "https://manganato.com/manga-wh953616",
+        "image": "https://avt.mkklcdnv6temp.com/29/m/2-1583466837.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90313,
+        "aniId": 86732,
+        "createdAt": "2021-09-22T01:11:10.000Z",
+        "updatedAt": "2021-09-22T01:40:44.000Z",
         "deletedAt": null
       }
     }

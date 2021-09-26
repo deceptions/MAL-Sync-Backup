@@ -94,6 +94,39 @@
         "updatedAt": "2021-07-20T22:03:47.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "himegoto_comic_anthology": {
+        "authors": [
+          "ARIKAWA Kinu",
+          "ASHIDA Yuri",
+          "bkub",
+          "Bokupikka",
+          "Chacha",
+          "Emiri",
+          "Hitsujibako",
+          "Ichimi",
+          "ISHIZAKA Kenta",
+          "KANAME Nagi",
+          "Naharu",
+          "Nek"
+        ],
+        "identifier": "himegoto_comic_anthology",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Himegoto Comic Anthology",
+        "url": "https://fanfox.net/manga/himegoto_comic_anthology/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/17003/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93120,
+        "aniId": 96027,
+        "createdAt": "2021-09-24T03:15:27.000Z",
+        "updatedAt": "2021-09-24T03:45:23.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

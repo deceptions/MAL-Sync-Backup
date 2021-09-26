@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-20T23:09:02.000Z",
-  "updatedAt": "2021-04-20T23:27:29.000Z",
+  "updatedAt": "2021-09-20T18:11:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 117789,
         "createdAt": "2020-10-12T16:19:17.000Z",
         "updatedAt": "2021-06-07T21:34:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kuronou_syndrome": {
+        "authors": [
+          "ISHIKAWA Oreo"
+        ],
+        "identifier": "kuronou_syndrome",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kuronou Syndrome",
+        "url": "https://fanfox.net/manga/kuronou_syndrome/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33687/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126247,
+        "aniId": 117789,
+        "createdAt": "2021-09-20T18:10:52.000Z",
+        "updatedAt": "2021-09-20T18:40:42.000Z",
         "deletedAt": null
       }
     }

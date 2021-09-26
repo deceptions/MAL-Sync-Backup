@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:46.000Z",
-  "updatedAt": "2021-04-27T19:50:00.000Z",
+  "updatedAt": "2021-09-25T21:46:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 32902,
         "createdAt": "2020-10-12T16:05:29.000Z",
         "updatedAt": "2021-06-03T12:57:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-of965814": {
+        "authors": [
+          "Hikawa Hekiru"
+        ],
+        "identifier": "manga-of965814",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shin Kankaku Iyashikei Mahou Shoujo Behoimi-Chan",
+        "url": "https://manganato.com/manga-of965814",
+        "image": "https://avt.mkklcdnv6temp.com/20/s/10-1583482915.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2902,
+        "aniId": 32902,
+        "createdAt": "2021-09-25T21:45:37.000Z",
+        "updatedAt": "2021-09-25T22:15:23.000Z",
         "deletedAt": null
       }
     }

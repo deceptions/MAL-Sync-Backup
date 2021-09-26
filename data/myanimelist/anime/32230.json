@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:42.000Z",
-  "updatedAt": "2021-04-30T18:19:57.000Z",
+  "updatedAt": "2021-09-21T06:41:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -31,6 +31,25 @@
         "aniId": 102765,
         "createdAt": "2020-10-12T15:51:11.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "xi-you-ji": {
+        "identifier": "xi-you-ji",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Xi You Ji",
+        "url": "https://gogoanime.pe/category/xi-you-ji",
+        "image": "https://gogocdn.net/cover/xi-you-ji.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32230,
+        "aniId": 102765,
+        "createdAt": "2021-09-21T06:40:55.000Z",
+        "updatedAt": "2021-09-21T07:10:42.000Z",
         "deletedAt": null
       }
     }

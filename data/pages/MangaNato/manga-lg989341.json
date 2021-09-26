@@ -12,13 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 139464,
   "createdAt": "2021-07-25T05:51:34.000Z",
-  "updatedAt": "2021-07-25T05:51:35.000Z",
+  "updatedAt": "2021-09-21T06:58:13.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "One Pair Lady",
+      "원 페어 레이디",
+      "One Fair Lady"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Eun-Gyeom Joo",
+      "Yojeongyong",
+      "Ant Studio"
+    ],
+    "id": 139464,
+    "malId": null,
+    "type": "manga",
+    "title": "One Pair Lady",
+    "url": "https://anilist.co/manga/139464",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139464-CLDfxjuVtG4D.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-20T10:10:43.000Z",
+    "updatedAt": "2021-09-21T00:10:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

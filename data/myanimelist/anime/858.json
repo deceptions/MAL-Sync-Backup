@@ -12,7 +12,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:38:09.000Z",
-  "updatedAt": "2021-04-26T07:57:49.000Z",
+  "updatedAt": "2021-09-22T16:11:08.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -31,6 +31,25 @@
         "aniId": 858,
         "createdAt": "2020-10-12T15:51:35.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gunparade-orchestra": {
+        "identifier": "gunparade-orchestra",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gunparade Orchestra",
+        "url": "https://gogoanime.pe/category/gunparade-orchestra",
+        "image": "https://gogocdn.net/cover/gunparade-orchestra.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 858,
+        "aniId": 858,
+        "createdAt": "2021-09-22T16:11:06.000Z",
+        "updatedAt": "2021-09-22T16:40:49.000Z",
         "deletedAt": null
       }
     }

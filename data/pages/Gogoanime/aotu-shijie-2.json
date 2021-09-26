@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 36345,
-  "aniId": null,
+  "aniId": 103162,
   "createdAt": "2021-08-24T07:36:34.000Z",
-  "updatedAt": "2021-08-24T07:36:44.000Z",
+  "updatedAt": "2021-09-22T18:40:49.000Z",
   "deletedAt": null,
   "Mal": {
     "altTitle": [
@@ -30,6 +30,23 @@
     "updatedAt": "2021-08-24T07:36:44.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "凹凸世界 第二季",
+      "AOTU World 2"
+    ],
+    "externalLinks": [],
+    "id": 103162,
+    "malId": 36345,
+    "type": "anime",
+    "title": "AOTU Shijie 2",
+    "url": "https://anilist.co/anime/103162",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b103162-0H3xaRojRJqV.png",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-09-22T18:10:49.000Z",
+    "updatedAt": "2021-09-22T18:10:49.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/36345/AOTU_Shijie_2"
 }

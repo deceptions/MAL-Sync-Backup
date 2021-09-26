@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-08-19T03:37:17.000Z",
-  "updatedAt": "2021-08-19T03:37:17.000Z",
+  "updatedAt": "2021-09-20T19:11:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 118312,
         "createdAt": "2020-10-12T16:19:55.000Z",
         "updatedAt": "2021-08-19T07:49:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ku987703": {
+        "authors": [
+          "Akai Maruboro"
+        ],
+        "identifier": "manga-ku987703",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Soukyuu No Shihai-Sha ~ Isekai Oppai Musouden",
+        "url": "https://manganato.com/manga-ku987703",
+        "image": "https://avt.mkklcdnv6temp.com/8/r/23-1611243855.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 138727,
+        "aniId": 118312,
+        "createdAt": "2021-05-29T09:44:23.000Z",
+        "updatedAt": "2021-09-20T19:26:03.000Z",
         "deletedAt": null
       }
     }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:17.000Z",
-  "updatedAt": "2021-04-25T00:57:01.000Z",
+  "updatedAt": "2021-09-25T15:15:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 86126,
         "createdAt": "2021-04-25T00:57:01.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ya953835": {
+        "authors": [
+          "Kigitsu Katsuhisa"
+        ],
+        "identifier": "manga-ya953835",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Meitantei Marnie",
+        "url": "https://manganato.com/manga-ya953835",
+        "image": "https://avt.mkklcdnv6temp.com/37/f/2-1583467129.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70637,
+        "aniId": 86126,
+        "createdAt": "2021-09-25T15:15:28.000Z",
+        "updatedAt": "2021-09-25T15:45:23.000Z",
         "deletedAt": null
       }
     }

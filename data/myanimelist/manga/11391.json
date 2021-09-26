@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:33.000Z",
-  "updatedAt": "2021-05-17T11:55:10.000Z",
+  "updatedAt": "2021-09-23T20:45:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 41391,
         "createdAt": "2020-10-12T16:04:15.000Z",
         "updatedAt": "2021-06-02T19:49:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "atsu-atsu-trattoria": {
+        "authors": [
+          "WASHIO Mie"
+        ],
+        "identifier": "atsu-atsu-trattoria",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Atsu Atsu Trattoria",
+        "url": "https://mangasee123.com/manga/Atsu-Atsu-Trattoria",
+        "image": "https://cover.nep.li/cover/Atsu-Atsu-Trattoria.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11391,
+        "aniId": 41391,
+        "createdAt": "2021-09-23T20:45:48.000Z",
+        "updatedAt": "2021-09-23T21:15:23.000Z",
         "deletedAt": null
       }
     }

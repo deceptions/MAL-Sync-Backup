@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:35.000Z",
-  "updatedAt": "2021-06-13T06:09:21.000Z",
+  "updatedAt": "2021-09-22T19:11:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 31603,
         "createdAt": "2021-07-06T14:00:02.000Z",
         "updatedAt": "2021-07-06T14:29:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sakura_tsuushin": {
+        "authors": [
+          "U-Jin"
+        ],
+        "identifier": "sakura_tsuushin",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sakura Tsuushin",
+        "url": "https://fanfox.net/manga/sakura_tsuushin/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/759/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1603,
+        "aniId": 31603,
+        "createdAt": "2021-09-22T19:11:03.000Z",
+        "updatedAt": "2021-09-22T19:40:49.000Z",
         "deletedAt": null
       }
     }

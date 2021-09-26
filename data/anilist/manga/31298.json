@@ -129,6 +129,29 @@
         "updatedAt": "2021-06-05T12:48:57.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "golgo_13": {
+        "authors": [
+          "KOIKE Kazuo",
+          "SAITO Takao"
+        ],
+        "identifier": "golgo_13",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Golgo 13",
+        "url": "https://fanfox.net/manga/golgo_13/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7140/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1298,
+        "aniId": 31298,
+        "createdAt": "2021-09-21T07:11:03.000Z",
+        "updatedAt": "2021-09-21T07:40:42.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

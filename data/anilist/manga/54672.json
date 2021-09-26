@@ -37,6 +37,28 @@
         "updatedAt": "2021-06-02T07:49:36.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "delinquent_cinderella": {
+        "authors": [
+          "HWANG Mi-Ri"
+        ],
+        "identifier": "delinquent_cinderella",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Delinquent Cinderella",
+        "url": "https://fanfox.net/manga/delinquent_cinderella/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8873/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24672,
+        "aniId": 54672,
+        "createdAt": "2021-09-19T15:12:08.000Z",
+        "updatedAt": "2021-09-19T15:40:42.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

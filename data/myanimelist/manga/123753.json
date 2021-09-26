@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T18:21:44.000Z",
-  "updatedAt": "2021-06-02T18:31:21.000Z",
+  "updatedAt": "2021-09-20T18:11:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,29 @@
         "aniId": 105299,
         "createdAt": "2021-04-07T18:50:57.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ga959835": {
+        "authors": [
+          "Kozo Takahashi",
+          "Tukasa Saimura"
+        ],
+        "identifier": "manga-ga959835",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Crueler Than Dead",
+        "url": "https://manganato.com/manga-ga959835",
+        "image": "https://avt.mkklcdnv6temp.com/28/p/6-1583475293.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123753,
+        "aniId": 105299,
+        "createdAt": "2021-09-20T18:11:23.000Z",
+        "updatedAt": "2021-09-20T18:40:42.000Z",
         "deletedAt": null
       }
     }

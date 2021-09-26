@@ -13,5 +13,78 @@
   "createdAt": "2021-08-19T16:38:38.000Z",
   "updatedAt": "2021-09-18T17:40:54.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "kwoyv": {
+        "identifier": "kwoyv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Star Wars: Visions (Dub)",
+        "url": "https://www12.9anime.to/watch/star-wars-visions-dub.kwoyv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a9/a9e874f385f4df6584b8b24015172143.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49357,
+        "aniId": 138060,
+        "createdAt": "2021-09-22T12:10:52.000Z",
+        "updatedAt": "2021-09-22T12:40:49.000Z",
+        "deletedAt": null
+      },
+      "3rqm8": {
+        "identifier": "3rqm8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Star Wars: Visions",
+        "url": "https://www12.9anime.to/watch/star-wars-visions.3rqm8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/36/366b9d8c1681e25187723122fec07baa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49357,
+        "aniId": 138060,
+        "createdAt": "2021-09-22T12:10:53.000Z",
+        "updatedAt": "2021-09-22T12:40:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "star-wars-visions": {
+        "identifier": "star-wars-visions",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Star Wars: Visions",
+        "url": "https://gogoanime.pe/category/star-wars-visions",
+        "image": "https://gogocdn.net/cover/star-wars-visions.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49357,
+        "aniId": 138060,
+        "createdAt": "2021-09-22T15:41:51.000Z",
+        "updatedAt": "2021-09-22T16:10:49.000Z",
+        "deletedAt": null
+      },
+      "star-wars-visions-dub": {
+        "identifier": "star-wars-visions-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Star Wars: Visions (Dub)",
+        "url": "https://gogoanime.pe/category/star-wars-visions-dub",
+        "image": "https://gogocdn.net/cover/star-wars-visions-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49357,
+        "aniId": 138060,
+        "createdAt": "2021-09-22T16:40:52.000Z",
+        "updatedAt": "2021-09-22T17:10:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

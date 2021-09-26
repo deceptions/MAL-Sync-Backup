@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 120907,
   "createdAt": "2021-05-28T21:57:04.000Z",
-  "updatedAt": "2021-08-31T05:06:49.000Z",
+  "updatedAt": "2021-09-20T19:28:29.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "불패검선",
+      "The Undefeatable Swordsman"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "FIST CAT",
+      "Chanyeong Kim"
+    ],
+    "id": 120907,
+    "malId": null,
+    "type": "manga",
+    "title": "Bulpaegeomseon",
+    "url": "https://anilist.co/manga/120907",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b120907-K1LMQMdOqaDC.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-21T10:13:07.000Z",
+    "updatedAt": "2021-09-23T02:10:59.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

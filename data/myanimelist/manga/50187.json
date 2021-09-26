@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:34.000Z",
-  "updatedAt": "2021-05-07T20:18:22.000Z",
+  "updatedAt": "2021-09-25T05:45:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 80187,
         "createdAt": "2020-10-12T16:06:15.000Z",
         "updatedAt": "2021-06-03T18:21:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ky961607": {
+        "authors": [
+          "Takishima Asaka"
+        ],
+        "identifier": "manga-ky961607",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Seiten No Hekigan",
+        "url": "https://manganato.com/manga-ky961607",
+        "image": "https://avt.mkklcdnv6temp.com/44/h/7-1583477951.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50187,
+        "aniId": 80187,
+        "createdAt": "2021-09-25T05:45:54.000Z",
+        "updatedAt": "2021-09-25T06:15:23.000Z",
         "deletedAt": null
       }
     }

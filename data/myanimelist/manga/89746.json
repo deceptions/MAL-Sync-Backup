@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-04-03T09:31:01.000Z",
-  "updatedAt": "2021-06-04T11:50:18.000Z",
+  "updatedAt": "2021-09-23T13:42:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 95113,
         "createdAt": "2021-04-03T09:31:02.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "fukurousou-aki-arimasu": {
+        "authors": [
+          "MATSUZUKI Kou"
+        ],
+        "identifier": "fukurousou-aki-arimasu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Fukurousou Aki Arimasu",
+        "url": "https://mangasee123.com/manga/Fukurousou-Aki-Arimasu",
+        "image": "https://cover.nep.li/cover/Fukurousou-Aki-Arimasu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89746,
+        "aniId": 95113,
+        "createdAt": "2021-09-23T13:42:31.000Z",
+        "updatedAt": "2021-09-23T14:10:55.000Z",
         "deletedAt": null
       }
     }

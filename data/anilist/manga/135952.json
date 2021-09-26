@@ -21,5 +21,29 @@
   "createdAt": "2021-06-22T00:44:52.000Z",
   "updatedAt": "2021-08-27T04:36:34.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "b4c43bfb-4bbb-4f0c-a3ae-7a263b3d0d0f": {
+        "authors": [
+          "DK",
+          "Touka Riri"
+        ],
+        "identifier": "b4c43bfb-4bbb-4f0c-a3ae-7a263b3d0d0f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Smartphone in Love",
+        "url": "https://mangadex.org/title/b4c43bfb-4bbb-4f0c-a3ae-7a263b3d0d0f",
+        "image": "https://uploads.mangadex.org/covers/b4c43bfb-4bbb-4f0c-a3ae-7a263b3d0d0f/84296478-f3c9-4e2f-b419-8f1146a1f194.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 135952,
+        "createdAt": "2021-09-22T21:11:12.000Z",
+        "updatedAt": "2021-09-22T21:11:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

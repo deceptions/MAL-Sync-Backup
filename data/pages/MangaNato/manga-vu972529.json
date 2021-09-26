@@ -9,13 +9,50 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 100412,
+  "aniId": 97538,
   "createdAt": "2021-06-10T17:38:29.000Z",
-  "updatedAt": "2021-06-10T17:38:39.000Z",
+  "updatedAt": "2021-09-24T19:15:23.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "altTitle": [
+      "うれしょん！"
+    ],
+    "authors": [
+      "Kazumi, Yoshiyuki"
+    ],
+    "id": 100412,
+    "type": "manga",
+    "title": "Ureshon!",
+    "url": "https://myanimelist.net/manga/100412/Ureshon",
+    "image": "https://cdn.myanimelist.net/images/manga/2/187267.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:46:41.000Z",
+    "updatedAt": "2021-09-24T00:16:24.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "うれしょん！",
+      "Happee!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yoshiyuki Kazumi"
+    ],
+    "id": 97538,
+    "malId": 100412,
+    "type": "manga",
+    "title": "Ureshon!",
+    "url": "https://anilist.co/manga/97538",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx97538-Bb1SadN9RrTy.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:54:49.000Z",
+    "updatedAt": "2021-06-18T01:35:20.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/100412/Ureshon"
 }

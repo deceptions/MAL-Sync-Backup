@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-12-08T20:39:50.000Z",
-  "updatedAt": "2021-06-08T20:55:31.000Z",
+  "updatedAt": "2021-09-21T11:40:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 118384,
         "createdAt": "2020-10-12T16:19:32.000Z",
         "updatedAt": "2021-06-07T22:05:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hi985291": {
+        "authors": [
+          "Kawakita Mitsuo"
+        ],
+        "identifier": "manga-hi985291",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tabi Gyaru",
+        "url": "https://manganato.com/manga-hi985291",
+        "image": "https://avt.mkklcdnv6temp.com/9/o/21-1588827589.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126940,
+        "aniId": 118384,
+        "createdAt": "2021-09-21T11:40:45.000Z",
+        "updatedAt": "2021-09-21T12:10:42.000Z",
         "deletedAt": null
       }
     }

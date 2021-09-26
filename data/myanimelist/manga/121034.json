@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:05.000Z",
-  "updatedAt": "2021-05-24T09:08:47.000Z",
+  "updatedAt": "2021-09-23T11:41:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 113649,
         "createdAt": "2021-06-02T06:31:03.000Z",
         "updatedAt": "2021-06-02T06:31:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "gusha_no_hoshi": {
+        "authors": [
+          "ENDO Hiroki"
+        ],
+        "identifier": "gusha_no_hoshi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Gusha no Hoshi",
+        "url": "https://fanfox.net/manga/gusha_no_hoshi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32941/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121034,
+        "aniId": 113649,
+        "createdAt": "2021-09-23T11:41:07.000Z",
+        "updatedAt": "2021-09-23T12:10:56.000Z",
         "deletedAt": null
       }
     }

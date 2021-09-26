@@ -16,7 +16,28 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-06T09:17:31.000Z",
-  "updatedAt": "2021-08-06T09:17:31.000Z",
+  "updatedAt": "2021-09-20T18:11:03.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-av978304": {
+        "authors": [],
+        "identifier": "manga-av978304",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Escape Devildom",
+        "url": "https://readmanganato.com/manga-av978304",
+        "image": "https://avt.mkklcdnv6temp.com/8/f/16-1583493761.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 100443,
+        "createdAt": "2021-09-10T13:35:43.000Z",
+        "updatedAt": "2021-09-20T19:25:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

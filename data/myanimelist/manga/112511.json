@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:26.000Z",
-  "updatedAt": "2021-04-03T09:01:31.000Z",
+  "updatedAt": "2021-09-19T09:41:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 101650,
         "createdAt": "2021-04-03T09:01:31.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bm979269": {
+        "authors": [
+          "Izumi Kaneyoshi"
+        ],
+        "identifier": "manga-bm979269",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Called Game",
+        "url": "https://manganato.com/manga-bm979269",
+        "image": "https://avt.mkklcdnv6temp.com/35/c/16-1583494730.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112511,
+        "aniId": 101650,
+        "createdAt": "2021-09-19T09:40:48.000Z",
+        "updatedAt": "2021-09-19T10:10:42.000Z",
         "deletedAt": null
       }
     }
