@@ -19,7 +19,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-19T20:50:52.000Z",
-  "updatedAt": "2021-06-21T18:59:53.000Z",
+  "updatedAt": "2021-09-28T04:03:44.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ju987229": {
+        "authors": [
+          "황규영"
+        ],
+        "identifier": "manga-ju987229",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Strongest Ever",
+        "url": "https://manganato.com/manga-ju987229",
+        "image": "https://avt.mkklcdnv6temp.com/38/x/22-1605776591.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 135875,
+        "createdAt": "2021-05-29T00:12:33.000Z",
+        "updatedAt": "2021-09-28T09:58:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

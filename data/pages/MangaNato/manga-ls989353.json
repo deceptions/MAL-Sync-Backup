@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 139671,
   "createdAt": "2021-07-26T18:51:46.000Z",
-  "updatedAt": "2021-07-26T18:51:46.000Z",
+  "updatedAt": "2021-09-27T08:04:24.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Martial Emperor's Life After Seclusion",
+      "武帝隐居之后的生活"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yi Bai Jun",
+      "Ting Yi",
+      "Ci Wei Zuo Fei Ji"
+    ],
+    "id": 139671,
+    "malId": null,
+    "type": "manga",
+    "title": "Wudi Yinju Zhihou de Shenguo",
+    "url": "https://anilist.co/manga/139671",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b139671-6uMoxZYYbDRS.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-27T02:16:25.000Z",
+    "updatedAt": "2021-09-27T02:16:25.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

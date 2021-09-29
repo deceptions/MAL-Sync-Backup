@@ -16,5 +16,28 @@
   "createdAt": "2021-03-01T10:44:33.000Z",
   "updatedAt": "2021-08-29T11:07:07.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "shinkuro---hairikomu-zaiakukan": {
+        "authors": [
+          "SAKABE Shuuichi"
+        ],
+        "identifier": "shinkuro---hairikomu-zaiakukan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shinkuro - Hairikomu Zaiakukan",
+        "url": "https://mangasee123.com/manga/Shinkuro---Hairikomu-Zaiakukan",
+        "image": "https://cover.nep.li/cover/Shinkuro---Hairikomu-Zaiakukan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 119004,
+        "aniId": null,
+        "createdAt": "2021-03-01T10:44:34.000Z",
+        "updatedAt": "2021-08-29T15:07:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

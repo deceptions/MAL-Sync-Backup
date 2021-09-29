@@ -48,6 +48,28 @@
         "updatedAt": "2021-06-05T19:24:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "witchblade": {
+        "authors": [
+          "KOBAYASHI Yasuko"
+        ],
+        "identifier": "witchblade",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Witchblade",
+        "url": "https://fanfox.net/manga/witchblade/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2708/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1899,
+        "aniId": 31899,
+        "createdAt": "2021-09-29T02:33:24.000Z",
+        "updatedAt": "2021-09-29T03:03:02.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -19,5 +19,28 @@
   "createdAt": "2021-09-21T17:40:44.000Z",
   "updatedAt": "2021-09-21T17:40:44.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mf989440": {
+        "authors": [
+          "Updating"
+        ],
+        "identifier": "manga-mf989440",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Unbreakable",
+        "url": "https://manganato.com/manga-mf989440",
+        "image": "https://avt.mkklcdnv6temp.com/31/i/24-1628225575.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 139501,
+        "createdAt": "2021-08-06T06:50:43.000Z",
+        "updatedAt": "2021-09-26T17:49:44.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

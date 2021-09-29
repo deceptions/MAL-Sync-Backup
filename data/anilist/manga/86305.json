@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-04T10:36:20.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "gaitou-alice": {
+        "authors": [
+          "KURAGE Ichi"
+        ],
+        "identifier": "gaitou-alice",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Gaitou Alice",
+        "url": "https://mangasee123.com/manga/Gaitou-Alice",
+        "image": "https://cover.nep.li/cover/Gaitou-Alice.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89261,
+        "aniId": 86305,
+        "createdAt": "2021-09-28T00:04:39.000Z",
+        "updatedAt": "2021-09-28T00:33:02.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

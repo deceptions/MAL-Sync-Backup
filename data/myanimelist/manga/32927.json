@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:46.000Z",
-  "updatedAt": "2021-08-07T12:52:12.000Z",
+  "updatedAt": "2021-09-26T21:45:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -77,6 +77,28 @@
         "aniId": 62927,
         "createdAt": "2021-06-18T18:53:52.000Z",
         "updatedAt": "2021-06-18T19:20:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "lonely_wolf_lonely_sheep": {
+        "authors": [
+          "MIZUTANI Fuka"
+        ],
+        "identifier": "lonely_wolf_lonely_sheep",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Lonely Wolf Lonely Sheep",
+        "url": "https://fanfox.net/manga/lonely_wolf_lonely_sheep/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9762/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32927,
+        "aniId": 62927,
+        "createdAt": "2021-09-26T21:45:52.000Z",
+        "updatedAt": "2021-09-26T22:15:23.000Z",
         "deletedAt": null
       }
     }

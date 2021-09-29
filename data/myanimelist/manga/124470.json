@@ -17,7 +17,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:14.000Z",
-  "updatedAt": "2021-07-14T13:51:42.000Z",
+  "updatedAt": "2021-09-28T03:34:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -89,6 +89,28 @@
         "aniId": 112218,
         "createdAt": "2021-06-04T14:20:18.000Z",
         "updatedAt": "2021-06-04T14:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "re_zero_kara_hajimeru_isekai_seikatsu_daiyonshou_seiiki_to_gouyoku_no_majou": {
+        "authors": [
+          "NAGATSUKI Tappei"
+        ],
+        "identifier": "re_zero_kara_hajimeru_isekai_seikatsu_daiyonshou_seiiki_to_gouyoku_no_majou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Daiyonshou - Seiiki to Gouyoku no Majou",
+        "url": "https://fanfox.net/manga/re_zero_kara_hajimeru_isekai_seikatsu_daiyonshou_seiiki_to_gouyoku_no_majou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33365/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124470,
+        "aniId": 112218,
+        "createdAt": "2021-09-28T03:34:39.000Z",
+        "updatedAt": "2021-09-28T04:03:03.000Z",
         "deletedAt": null
       }
     }

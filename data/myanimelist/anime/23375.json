@@ -11,7 +11,27 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:39:27.000Z",
-  "updatedAt": "2021-04-30T02:49:13.000Z",
+  "updatedAt": "2021-09-28T23:04:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "minarai-diva": {
+        "identifier": "minarai-diva",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Minarai Diva",
+        "url": "https://gogoanime.pe/category/minarai-diva",
+        "image": "https://gogocdn.net/images/summer/Minarai_Diva.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23375,
+        "aniId": null,
+        "createdAt": "2021-09-28T23:03:02.000Z",
+        "updatedAt": "2021-09-28T23:04:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

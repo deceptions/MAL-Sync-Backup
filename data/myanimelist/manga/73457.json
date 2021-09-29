@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:21.000Z",
-  "updatedAt": "2021-07-19T15:03:13.000Z",
+  "updatedAt": "2021-09-27T01:16:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +35,28 @@
         "aniId": 91824,
         "createdAt": "2020-10-12T16:07:46.000Z",
         "updatedAt": "2021-06-04T05:10:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bf954088": {
+        "authors": [
+          "Ashihara Hinako"
+        ],
+        "identifier": "manga-bf954088",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Bread & Butter",
+        "url": "https://manganato.com/manga-bf954088",
+        "image": "https://avt.mkklcdnv6temp.com/46/h/2-1583467471.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73457,
+        "aniId": 91824,
+        "createdAt": "2021-09-27T01:16:53.000Z",
+        "updatedAt": "2021-09-27T01:45:23.000Z",
         "deletedAt": null
       }
     }

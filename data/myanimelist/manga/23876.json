@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:11.000Z",
-  "updatedAt": "2021-07-17T21:02:23.000Z",
+  "updatedAt": "2021-09-28T06:33:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 53876,
         "createdAt": "2020-10-12T16:03:18.000Z",
         "updatedAt": "2021-06-02T13:02:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mr963400": {
+        "authors": [
+          "Sato"
+        ],
+        "identifier": "manga-mr963400",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Living Dead!",
+        "url": "https://manganato.com/manga-mr963400",
+        "image": "https://avt.mkklcdnv6temp.com/47/z/8-1583480012.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23876,
+        "aniId": 53876,
+        "createdAt": "2021-09-28T06:33:12.000Z",
+        "updatedAt": "2021-09-28T07:03:03.000Z",
         "deletedAt": null
       }
     }

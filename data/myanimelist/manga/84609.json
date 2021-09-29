@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:42.000Z",
-  "updatedAt": "2021-08-04T05:49:52.000Z",
+  "updatedAt": "2021-09-28T20:04:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,29 @@
         "aniId": 93620,
         "createdAt": "2020-10-12T16:09:31.000Z",
         "updatedAt": "2021-06-04T18:06:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "magic-book-to-start-from-zero": {
+        "authors": [
+          "IWASAKI Takashi",
+          "KOBASHIRI Kakeru"
+        ],
+        "identifier": "magic-book-to-start-from-zero",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Magic Book to Start from Zero",
+        "url": "https://mangasee123.com/manga/Magic-Book-To-Start-From-Zero",
+        "image": "https://cover.nep.li/cover/Magic-Book-To-Start-From-Zero.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 84609,
+        "aniId": 93620,
+        "createdAt": "2021-01-15T04:02:53.000Z",
+        "updatedAt": "2021-09-29T00:03:02.000Z",
         "deletedAt": null
       }
     },

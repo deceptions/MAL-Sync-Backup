@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 139501,
   "createdAt": "2021-08-06T06:50:43.000Z",
-  "updatedAt": "2021-08-06T06:50:45.000Z",
+  "updatedAt": "2021-09-26T17:49:44.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "언브레이커블",
+      "Unbleakable"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Aro",
+      "MURAZI"
+    ],
+    "id": 139501,
+    "malId": null,
+    "type": "manga",
+    "title": "Unbreakable",
+    "url": "https://anilist.co/manga/139501",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139501-hfUrLdyVg06k.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-21T17:40:44.000Z",
+    "updatedAt": "2021-09-21T17:40:44.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

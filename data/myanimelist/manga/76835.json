@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:25.000Z",
-  "updatedAt": "2021-08-15T19:37:52.000Z",
+  "updatedAt": "2021-09-27T15:41:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 86260,
         "createdAt": "2021-02-15T19:35:59.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "harigane-service": {
+        "authors": [
+          "ARA Tatsuya"
+        ],
+        "identifier": "harigane-service",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Harigane Service",
+        "url": "https://mangasee123.com/manga/Harigane-Service",
+        "image": "https://cover.nep.li/cover/Harigane-Service.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 76835,
+        "aniId": 86260,
+        "createdAt": "2021-09-27T15:41:52.000Z",
+        "updatedAt": "2021-09-27T16:03:03.000Z",
         "deletedAt": null
       }
     }

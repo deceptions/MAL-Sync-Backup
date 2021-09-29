@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:59.000Z",
-  "updatedAt": "2021-07-11T16:15:12.000Z",
+  "updatedAt": "2021-09-28T00:04:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 34470,
         "createdAt": "2020-10-12T16:03:01.000Z",
         "updatedAt": "2021-06-02T11:10:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shitsuji-sama-no-okiniiri": {
+        "authors": [
+          "IZAWA Rei",
+          "TSUYAMA Fuyu"
+        ],
+        "identifier": "shitsuji-sama-no-okiniiri",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shitsuji-sama no Okiniiri",
+        "url": "https://mangasee123.com/manga/Shitsuji-Sama-No-Okiniiri",
+        "image": "https://cover.nep.li/cover/Shitsuji-Sama-No-Okiniiri.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4470,
+        "aniId": 34470,
+        "createdAt": "2021-09-28T00:04:11.000Z",
+        "updatedAt": "2021-09-28T00:33:02.000Z",
         "deletedAt": null
       }
     }

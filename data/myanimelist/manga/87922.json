@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:56.000Z",
-  "updatedAt": "2021-07-10T22:13:52.000Z",
+  "updatedAt": "2021-09-26T16:16:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 86759,
         "createdAt": "2021-07-10T22:13:42.000Z",
         "updatedAt": "2021-07-10T22:43:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hyakumanjou_labyrinth": {
+        "authors": [
+          "Takamichi"
+        ],
+        "identifier": "hyakumanjou_labyrinth",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hyakumanjou Labyrinth",
+        "url": "https://fanfox.net/manga/hyakumanjou_labyrinth/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15496/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87922,
+        "aniId": 86759,
+        "createdAt": "2021-09-26T16:16:26.000Z",
+        "updatedAt": "2021-09-26T16:45:23.000Z",
         "deletedAt": null
       }
     }

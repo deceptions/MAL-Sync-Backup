@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T04:12:58.000Z",
-  "updatedAt": "2021-08-23T18:36:43.000Z",
+  "updatedAt": "2021-09-28T03:34:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,30 @@
         "aniId": 112241,
         "createdAt": "2020-10-12T16:13:49.000Z",
         "updatedAt": "2021-06-06T10:16:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dm981295": {
+        "authors": [
+          "Butterfly Blue",
+          "Ba Ke",
+          "Bai Quan"
+        ],
+        "identifier": "manga-dm981295",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Virtual World: Close Combat Mage",
+        "url": "https://readmanganato.com/manga-dm981295",
+        "image": "https://avt.mkklcdnv6temp.com/9/p/18-1583497451.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 112241,
+        "createdAt": "2021-05-29T17:42:23.000Z",
+        "updatedAt": "2021-09-28T09:57:41.000Z",
         "deletedAt": null
       }
     }

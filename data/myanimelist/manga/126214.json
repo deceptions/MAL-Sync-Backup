@@ -13,7 +13,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:22.000Z",
-  "updatedAt": "2021-08-12T05:09:25.000Z",
+  "updatedAt": "2021-09-28T07:03:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +57,28 @@
         "aniId": 112167,
         "createdAt": "2021-08-12T05:09:23.000Z",
         "updatedAt": "2021-08-12T05:39:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "oshi_no_idol_ga_tonari_no_heya_ni_hikkoshite_kita": {
+        "authors": [
+          "Sekizui Hikinuki no Kei"
+        ],
+        "identifier": "oshi_no_idol_ga_tonari_no_heya_ni_hikkoshite_kita",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Oshi no Idol ga Tonari no Heya ni Hikkoshite Kita",
+        "url": "https://fanfox.net/manga/oshi_no_idol_ga_tonari_no_heya_ni_hikkoshite_kita/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31529/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126214,
+        "aniId": 112167,
+        "createdAt": "2021-09-28T07:03:04.000Z",
+        "updatedAt": "2021-09-28T07:33:02.000Z",
         "deletedAt": null
       }
     }

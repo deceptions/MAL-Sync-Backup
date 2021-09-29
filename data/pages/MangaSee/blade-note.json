@@ -11,14 +11,34 @@
   "image": "https://cover.nep.li/cover/Blade-Note.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 86982,
   "createdAt": "2021-03-27T00:19:15.000Z",
-  "updatedAt": "2021-03-27T00:19:15.000Z",
+  "updatedAt": "2021-09-27T23:34:34.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "블레이드 노트"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yun Jun Sic",
+      "Jihyeong Song"
+    ],
+    "id": 86982,
+    "malId": null,
+    "type": "manga",
+    "title": "Blade Note",
+    "url": "https://anilist.co/manga/86982",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86982-ljogoC1wYtfW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-25T06:14:54.000Z",
+    "updatedAt": "2021-09-27T23:34:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -7,14 +7,13 @@ The data is updated once a week. Wrong/missing mappings are not seldom, speciall
 <!--statstable-->
 | Page      | Total | MalID | noMalID | AniID | noAniID |
 | --------- | ----- | ----- | ------- | ----- | ------- |
-| 9anime    | 12981 | 12768 | 213     | 12371 | 610     |
-| Gogoanime | 8152  | 8008  | 144     | 7929  | 223     |
-| Mangadex  | 46071 | 25438 | 20633   | 26982 | 19089   |
-| MangaNato | 9808  | 5494  | 4314    | 6102  | 3706    |
+| 9anime    | 12986 | 12771 | 215     | 12373 | 613     |
+| Gogoanime | 8185  | 8040  | 145     | 7960  | 225     |
+| Mangadex  | 46074 | 25439 | 20635   | 26984 | 19090   |
+| MangaNato | 9873  | 5532  | 4341    | 6155  | 3718    |
 | Twistmoe  | 2001  | 1980  | 21      | 1975  | 26      |
-| animepahe | 3921  | 3919  | 2       | 3842  | 79      |
-| MangaFox  | 7527  | 4777  | 2750    | 4815  | 2712    |
-| MangaSee  | 6013  | 5128  | 885     | 5253  | 760     |
+| MangaFox  | 7856  | 4797  | 3059    | 4832  | 3024    |
+| MangaSee  | 6073  | 5146  | 927     | 5270  | 803     |
 <!--/statstable-->
 
 ## Structure

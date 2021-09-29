@@ -13,13 +13,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 112241,
   "createdAt": "2021-05-29T17:42:23.000Z",
-  "updatedAt": "2021-08-23T18:36:43.000Z",
+  "updatedAt": "2021-09-28T09:57:41.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Virtual World: Close Combat Mage",
+      "网游之近战法师",
+      "Virtual World: Close Combat Mage  "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hudie Lan"
+    ],
+    "id": 112241,
+    "malId": null,
+    "type": "manga",
+    "title": "Wangyou Zhi Jin Zhan Fashi",
+    "url": "https://anilist.co/manga/112241",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112241-LFjcUMxvrzta.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T04:12:58.000Z",
+    "updatedAt": "2021-09-28T03:34:25.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

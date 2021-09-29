@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:07.000Z",
-  "updatedAt": "2021-06-04T22:19:27.000Z",
+  "updatedAt": "2021-09-26T04:45:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 100984,
         "createdAt": "2020-10-12T16:10:05.000Z",
         "updatedAt": "2021-06-04T22:21:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-au977703": {
+        "authors": [
+          "Eniwa"
+        ],
+        "identifier": "manga-au977703",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "5-Nin No Ou",
+        "url": "https://manganato.com/manga-au977703",
+        "image": "https://avt.mkklcdnv6temp.com/48/c/15-1583493396.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107801,
+        "aniId": 100984,
+        "createdAt": "2021-09-26T04:45:41.000Z",
+        "updatedAt": "2021-09-26T05:15:23.000Z",
         "deletedAt": null
       }
     }

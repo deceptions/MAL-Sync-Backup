@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:17.000Z",
-  "updatedAt": "2021-06-16T23:28:15.000Z",
+  "updatedAt": "2021-09-26T05:46:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,6 +84,28 @@
         "aniId": 100310,
         "createdAt": "2021-06-16T23:27:57.000Z",
         "updatedAt": "2021-06-16T23:57:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tsuujou_kougeki_ga_zentai_kougeki_de_ni_kai_kougeki_no_okaa_san_wa_suki_desu_ka_novel": {
+        "authors": [
+          "INAKA Dachima"
+        ],
+        "identifier": "tsuujou_kougeki_ga_zentai_kougeki_de_ni_kai_kougeki_no_okaa_san_wa_suki_desu_ka_novel",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaa-san wa Suki desu ka? (Novel)",
+        "url": "https://fanfox.net/manga/tsuujou_kougeki_ga_zentai_kougeki_de_ni_kai_kougeki_no_okaa_san_wa_suki_desu_ka_novel/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27013/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109849,
+        "aniId": 100310,
+        "createdAt": "2021-09-26T05:45:28.000Z",
+        "updatedAt": "2021-09-26T06:15:23.000Z",
         "deletedAt": null
       }
     }

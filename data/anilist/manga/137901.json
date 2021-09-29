@@ -19,5 +19,28 @@
   "createdAt": "2021-08-15T06:37:00.000Z",
   "updatedAt": "2021-08-15T06:37:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "yuru_fuwa_noka_no_moji_bake_skill": {
+        "authors": [
+          "Shiraishi Arata"
+        ],
+        "identifier": "yuru_fuwa_noka_no_moji_bake_skill",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yuru Fuwa Noka No Moji Bake Skill",
+        "url": "https://fanfox.net/manga/yuru_fuwa_noka_no_moji_bake_skill/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32254/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 138924,
+        "aniId": 137901,
+        "createdAt": "2021-02-26T09:55:39.000Z",
+        "updatedAt": "2021-09-27T09:03:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

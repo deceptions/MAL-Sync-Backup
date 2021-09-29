@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-23T09:29:06.000Z",
-  "updatedAt": "2021-07-03T20:34:40.000Z",
+  "updatedAt": "2021-09-27T16:07:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 124242,
         "createdAt": "2021-07-03T20:34:33.000Z",
         "updatedAt": "2021-07-03T21:03:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "houjou_urara_no_renai_shousetsu_o_kaki_nasai": {
+        "authors": [
+          "Zawa"
+        ],
+        "identifier": "houjou_urara_no_renai_shousetsu_o_kaki_nasai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Houjou Urara no renai shousetsu o kaki nasai!",
+        "url": "https://fanfox.net/manga/houjou_urara_no_renai_shousetsu_o_kaki_nasai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35716/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130607,
+        "aniId": 124242,
+        "createdAt": "2021-09-27T16:06:56.000Z",
+        "updatedAt": "2021-09-27T16:33:02.000Z",
         "deletedAt": null
       }
     }

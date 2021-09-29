@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-08T10:42:56.000Z",
-  "updatedAt": "2021-06-08T10:42:56.000Z",
+  "updatedAt": "2021-09-28T01:03:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 122296,
         "createdAt": "2021-01-19T17:02:58.000Z",
         "updatedAt": "2021-06-08T10:43:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kr988000": {
+        "authors": [
+          "Nishino Kiina"
+        ],
+        "identifier": "manga-kr988000",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mikazuki Mao Can't Choose A Gender",
+        "url": "https://manganato.com/manga-kr988000",
+        "image": "https://avt.mkklcdnv6temp.com/20/u/23-1612517172.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135518,
+        "aniId": 122296,
+        "createdAt": "2021-09-28T01:03:23.000Z",
+        "updatedAt": "2021-09-28T01:33:03.000Z",
         "deletedAt": null
       }
     }

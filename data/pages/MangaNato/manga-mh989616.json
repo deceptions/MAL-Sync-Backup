@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 139741,
   "createdAt": "2021-08-28T16:37:23.000Z",
-  "updatedAt": "2021-08-28T16:37:23.000Z",
+  "updatedAt": "2021-09-28T23:51:15.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "我真不是邪神走狗",
+      "I'm Really Not the Evil God's Lackey"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Jiehuo Wan",
+      "Xu Jia",
+      "MR.Zhen Zhan"
+    ],
+    "id": 139741,
+    "malId": null,
+    "type": "manga",
+    "title": "Wo Zhen Bushi Xie Shen Zougou",
+    "url": "https://anilist.co/manga/139741",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b139741-PXMwhhhh70RG.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-28T08:33:04.000Z",
+    "updatedAt": "2021-09-28T08:33:04.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:35.000Z",
-  "updatedAt": "2021-05-22T02:13:08.000Z",
+  "updatedAt": "2021-09-27T23:34:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 104685,
         "createdAt": "2020-10-12T16:14:06.000Z",
         "updatedAt": "2021-06-06T02:30:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "bougyaku-no-kokekko": {
+        "authors": [
+          "SUZAKI Yousuke"
+        ],
+        "identifier": "bougyaku-no-kokekko",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bougyaku no Kokekko",
+        "url": "https://mangasee123.com/manga/Bougyaku-No-Kokekko",
+        "image": "https://cover.nep.li/cover/Bougyaku-No-Kokekko.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114504,
+        "aniId": 104685,
+        "createdAt": "2021-09-27T23:33:19.000Z",
+        "updatedAt": "2021-09-28T00:03:02.000Z",
         "deletedAt": null
       }
     }

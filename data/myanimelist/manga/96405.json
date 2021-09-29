@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:24.000Z",
-  "updatedAt": "2021-05-15T20:25:04.000Z",
+  "updatedAt": "2021-09-28T01:04:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 114354,
         "createdAt": "2020-10-12T16:12:32.000Z",
         "updatedAt": "2021-06-05T15:09:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bc978937": {
+        "authors": [
+          "Souda Momo"
+        ],
+        "identifier": "manga-bc978937",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Momoiro Ome-Chen",
+        "url": "https://manganato.com/manga-bc978937",
+        "image": "https://avt.mkklcdnv6temp.com/22/p/16-1583494278.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96405,
+        "aniId": 114354,
+        "createdAt": "2021-09-28T01:04:15.000Z",
+        "updatedAt": "2021-09-28T01:33:03.000Z",
         "deletedAt": null
       }
     }

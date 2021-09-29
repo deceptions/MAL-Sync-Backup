@@ -108,6 +108,28 @@
         "updatedAt": "2021-09-12T06:34:33.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kiniro_mosaic": {
+        "authors": [
+          "HARA Yui"
+        ],
+        "identifier": "kiniro_mosaic",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kiniro Mosaic",
+        "url": "https://fanfox.net/manga/kiniro_mosaic/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9190/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26036,
+        "aniId": 56036,
+        "createdAt": "2021-09-26T17:45:57.000Z",
+        "updatedAt": "2021-09-26T18:15:23.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

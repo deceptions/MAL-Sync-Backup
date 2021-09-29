@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 135875,
   "createdAt": "2021-05-29T00:12:33.000Z",
-  "updatedAt": "2021-07-20T19:34:10.000Z",
+  "updatedAt": "2021-09-28T09:58:05.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "사상최강",
+      "The Strongest in History",
+      "史上最強",
+      "사상최강"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gyu-Yeong Hwang",
+      "Da-Na Lee"
+    ],
+    "id": 135875,
+    "malId": null,
+    "type": "manga",
+    "title": "Sasangchoegang",
+    "url": "https://anilist.co/manga/135875",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b135875-MHum5tc4bsHt.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-19T20:50:52.000Z",
+    "updatedAt": "2021-09-28T04:03:44.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

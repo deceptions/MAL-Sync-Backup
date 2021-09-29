@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:15.000Z",
-  "updatedAt": "2021-08-12T17:37:52.000Z",
+  "updatedAt": "2021-09-26T02:15:31.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -36,7 +36,7 @@
         "type": "anime",
         "page": "9anime",
         "title": "Bakugan: Armored Alliance (Dub)",
-        "url": "https://www12.9anime.to/watch/bakugan-armored-alliance-dub.wr67",
+        "url": "https://9anime.to/watch/bakugan-armored-alliance-dub.wr67",
         "image": "//static.bunnycdn.ru/i/cache/images/a/a2/a24e60fdc37239c28e878f31fa22c052.jpg",
         "hentai": false,
         "sticky": false,
@@ -46,6 +46,25 @@
         "aniId": 116415,
         "createdAt": "2021-02-12T17:39:14.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bakugan-armored-alliance-dub": {
+        "identifier": "bakugan-armored-alliance-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bakugan: Armored Alliance (Dub)",
+        "url": "https://gogoanime.pe/category/bakugan-armored-alliance-dub",
+        "image": "https://gogocdn.net/cover/bakugan-armored-alliance-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41405,
+        "aniId": 116415,
+        "createdAt": "2021-09-26T02:15:28.000Z",
+        "updatedAt": "2021-09-26T02:45:23.000Z",
         "deletedAt": null
       }
     }

@@ -46,7 +46,7 @@
         "type": "anime",
         "page": "9anime",
         "title": "Re-Main",
-        "url": "https://www12.9anime.to/watch/re-main.3wny",
+        "url": "https://9anime.to/watch/re-main.3wny",
         "image": "https://static.bunnycdn.ru/i/cache/images/7/75/751a5c6b6aaf8d61a4c44d41d4f866b4.jpg",
         "hentai": false,
         "sticky": false,
@@ -63,7 +63,7 @@
         "type": "anime",
         "page": "9anime",
         "title": "Re-Main (Dub)",
-        "url": "https://www12.9anime.to/watch/re-main-dub.2o2r4",
+        "url": "https://9anime.to/watch/re-main-dub.2o2r4",
         "image": "https://static.bunnycdn.ru/i/cache/images/e/e8/e8a100c65af0260183d1db414bf80ddb.jpg",
         "hentai": false,
         "sticky": false,
@@ -92,6 +92,23 @@
         "aniId": 130549,
         "createdAt": "2021-07-04T03:13:07.000Z",
         "updatedAt": "2021-09-12T17:34:38.000Z",
+        "deletedAt": null
+      },
+      "re-main-dub": {
+        "identifier": "re-main-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Re-Main (Dub)",
+        "url": "https://gogoanime.pe/category/re-main-dub",
+        "image": "https://gogocdn.net/cover/re-main-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48406,
+        "aniId": 130549,
+        "createdAt": "2021-09-26T07:45:44.000Z",
+        "updatedAt": "2021-09-26T08:15:23.000Z",
         "deletedAt": null
       }
     }

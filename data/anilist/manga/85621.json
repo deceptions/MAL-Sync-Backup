@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-31T06:12:13.000Z",
-  "updatedAt": "2021-08-25T01:06:43.000Z",
+  "updatedAt": "2021-09-29T07:34:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 85621,
         "createdAt": "2020-10-12T16:07:13.000Z",
         "updatedAt": "2021-06-04T08:59:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bm951895": {
+        "authors": [
+          "Massstar"
+        ],
+        "identifier": "manga-bm951895",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Untouchable (Massstar)",
+        "url": "https://readmanganato.com/manga-bm951895",
+        "image": "https://avt.mkklcdnv6temp.com/20/i/1-1583464497.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 85621,
+        "createdAt": "2021-06-13T16:08:24.000Z",
+        "updatedAt": "2021-09-29T08:48:46.000Z",
         "deletedAt": null
       }
     }

@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T23:48:58.000Z",
-  "updatedAt": "2021-06-21T15:58:33.000Z",
+  "updatedAt": "2021-09-29T00:33:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,28 @@
         "aniId": 121945,
         "createdAt": "2020-10-12T16:16:32.000Z",
         "updatedAt": "2021-06-07T07:16:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hv984556": {
+        "authors": [
+          "Narae / Merbiseu"
+        ],
+        "identifier": "manga-hv984556",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Otome Equation",
+        "url": "https://manganato.com/manga-hv984556",
+        "image": "https://avt.mkklcdnv6temp.com/30/p/20-1583502204.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 121945,
+        "createdAt": "2021-09-29T00:33:13.000Z",
+        "updatedAt": "2021-09-29T00:33:13.000Z",
         "deletedAt": null
       }
     }

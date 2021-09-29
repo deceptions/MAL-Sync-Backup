@@ -10,7 +10,7 @@
   "category": "TV",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:01.000Z",
-  "updatedAt": "2021-05-01T07:33:33.000Z",
+  "updatedAt": "2021-09-27T16:44:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -19,7 +19,7 @@
         "type": "anime",
         "page": "9anime",
         "title": "Cardfight!! Vanguard (2018)",
-        "url": "https://9anime.ru/watch/cardfight-vanguard-2018.66xz",
+        "url": "https://9anime.to/watch/cardfight-vanguard-2018.66xz",
         "image": "http://static.akacdn.ru/static/images/2018/03/a0f328d666c4a648876ef3be423c7b42.jpg",
         "hentai": false,
         "sticky": false,
@@ -36,7 +36,7 @@
         "type": "anime",
         "page": "9anime",
         "title": "Cardfight!! Vanguard (2018) (Dub)",
-        "url": "https://9anime.ru/watch/cardfight-vanguard-2018-dub.px8x",
+        "url": "https://9anime.to/watch/cardfight-vanguard-2018-dub.px8x",
         "image": "http://static.akacdn.ru/static/images/2018/06/07ab04f2d0e53286103d275c3f7c83ef.jpg",
         "hentai": false,
         "sticky": false,
@@ -84,6 +84,23 @@
         "aniId": 101594,
         "createdAt": "2020-10-12T16:00:05.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "cardfight-vanguard-2018-dub": {
+        "identifier": "cardfight-vanguard-2018-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cardfight!! Vanguard (2018) (Dub)",
+        "url": "https://gogoanime.pe/category/cardfight-vanguard-2018-dub",
+        "image": "https://gogocdn.net/cover/cardfight-vanguard-2018-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37476,
+        "aniId": 101594,
+        "createdAt": "2021-09-27T16:44:33.000Z",
+        "updatedAt": "2021-09-27T17:03:02.000Z",
         "deletedAt": null
       }
     }
