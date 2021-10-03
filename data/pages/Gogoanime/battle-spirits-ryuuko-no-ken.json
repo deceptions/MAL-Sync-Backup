@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1068"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=516"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%88%E3%83%AB%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%84_%E9%BE%8D%E8%99%8E%E3%81%AE%E6%8B%B3"
+      }
+    ],
     "altTitle": [
       "Art of Fighting",
       "Battle Spirits: Dragon Tiger Fist",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/64045.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1068,
     "createdAt": "2020-10-12T15:38:11.000Z",
-    "updatedAt": "2021-09-17T06:10:44.000Z",
+    "updatedAt": "2021-09-30T18:38:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

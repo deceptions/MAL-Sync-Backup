@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5775"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3813"
+    }
+  ],
   "altTitle": [
     "Les Miserables",
     "Story of Jean Valjean",
@@ -11,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/30211.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 5775,
   "createdAt": "2021-09-03T01:45:53.000Z",
-  "updatedAt": "2021-09-03T01:45:53.000Z",
+  "updatedAt": "2021-10-01T20:39:05.000Z",
   "deletedAt": null,
   "Pages": {}
 }

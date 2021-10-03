@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nagiasu.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9387"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14858"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Nagi-Asu:_A_Lull_in_the_Sea"
+      }
+    ],
     "altTitle": [
       "A Lull in the Sea",
-      "Nagi no Asukara, Nagiasu",
+      "Nagi no Asukara",
+      "Nagiasu",
       "凪のあすから"
     ],
     "id": 16067,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/53549.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9387,
     "createdAt": "2020-10-12T15:39:16.000Z",
-    "updatedAt": "2021-06-01T15:42:32.000Z",
+    "updatedAt": "2021-10-02T16:02:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

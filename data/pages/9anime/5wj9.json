@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://dash.shueisha.co.jp/-denpa/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6322"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10519"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Denpa_teki_na_Kanojo"
+      }
+    ],
     "altTitle": [
-      "The Radio Wave-Like Girlfriend, Electromagnetic Girlfriend",
+      "The Radio Wave-Like Girlfriend",
+      "Electromagnetic Girlfriend",
       "電波的な彼女"
     ],
     "id": 5177,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1722/111810.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 6322,
     "createdAt": "2020-10-12T15:38:46.000Z",
-    "updatedAt": "2021-06-04T20:19:17.000Z",
+    "updatedAt": "2021-10-01T18:36:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

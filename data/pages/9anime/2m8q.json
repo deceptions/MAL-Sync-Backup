@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sakura-capusule.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10771"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17538"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AF%E3%83%A9%E3%82%AB%E3%83%97%E3%82%BB%E3%83%AB"
+      }
+    ],
     "altTitle": [
       "Sakura Capsule",
       "サクラカプセル"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/75512.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 10771,
     "createdAt": "2020-10-12T15:39:30.000Z",
-    "updatedAt": "2021-04-15T17:44:17.000Z",
+    "updatedAt": "2021-10-03T01:04:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

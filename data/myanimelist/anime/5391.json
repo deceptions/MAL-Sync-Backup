@@ -1,6 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime.sod.co.jp/pico.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4544"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8647"
+    }
+  ],
   "altTitle": [
-    "Boku no Piko OVA 2, Boku no Pico, Pico & Chico",
+    "Boku no Piko OVA 2",
+    "Boku no Pico",
+    "Pico & Chico",
     "ぴことちこ"
   ],
   "id": 5391,
@@ -10,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/39499.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 4544,
   "createdAt": "2020-10-12T15:38:47.000Z",
-  "updatedAt": "2021-04-28T08:19:00.000Z",
+  "updatedAt": "2021-10-01T19:09:03.000Z",
   "deletedAt": null,
   "Pages": {}
 }

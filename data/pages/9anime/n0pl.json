@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2251"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2281"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%89%89%E3%82%92%E9%96%8B%E3%81%91%E3%81%A6_(%E5%B0%8F%E8%AA%AC)#%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB"
+      }
+    ],
     "altTitle": [
       "Open the Door",
       "扉を開けて"
@@ -23,11 +37,12 @@
     "type": "anime",
     "title": "Tobira wo Akete",
     "url": "https://myanimelist.net/anime/3192/Tobira_wo_Akete",
-    "image": "https://cdn.myanimelist.net/images/anime/9/5027.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1920/112411.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 2251,
     "createdAt": "2020-10-12T15:38:36.000Z",
-    "updatedAt": "2021-04-27T18:19:20.000Z",
+    "updatedAt": "2021-10-01T11:08:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

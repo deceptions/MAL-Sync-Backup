@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=166"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=512"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Appleseed_%28OVA%29"
+    }
+  ],
   "altTitle": [
     "アップル・シード"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/6/27979.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 166,
   "createdAt": "2020-10-12T15:38:10.000Z",
-  "updatedAt": "2021-06-24T15:44:59.000Z",
+  "updatedAt": "2021-09-30T18:05:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

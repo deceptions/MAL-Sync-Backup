@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.broccoli.co.jp/dejiko/panyo/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=645"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=838"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Panyo_Panyo_Di_Gi_Charat"
+      }
+    ],
     "altTitle": [
-      "Di Gi Charat Panyo Panyo, DiGi Charat Panyo Panyo",
+      "Di Gi Charat Panyo Panyo",
+      "DiGi Charat Panyo Panyo",
       "ぱにょぱにょ　デ・ジ・キャラット"
     ],
     "id": 1597,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1970/97598.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 645,
     "createdAt": "2020-10-12T15:38:19.000Z",
-    "updatedAt": "2021-04-26T19:49:00.000Z",
+    "updatedAt": "2021-09-30T23:39:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

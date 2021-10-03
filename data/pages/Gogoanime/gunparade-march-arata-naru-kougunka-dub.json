@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=518"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2126"
+      }
+    ],
     "altTitle": [
       "Gunparade March: A New Song for the March",
       "ガンパレード・マーチ -新たなる行軍歌-"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/75520.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 518,
     "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2021-04-12T17:45:28.000Z",
+    "updatedAt": "2021-09-30T12:08:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,9 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Please_Teacher!"
+      }
+    ],
     "altTitle": [
       "Please Teacher: Marie Love Theater",
-      "Onegai Teacher Specials, Onegai Teacher: Marie Love Theater",
+      "Onegai Teacher Specials",
+      "Onegai Teacher: Marie Love Theater",
       "おねがい☆ティーチャー まりえ, 愛の劇場"
     ],
     "id": 7474,
@@ -27,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/17900.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 16,
     "createdAt": "2020-10-12T15:38:56.000Z",
-    "updatedAt": "2021-04-28T18:49:50.000Z",
+    "updatedAt": "2021-10-02T01:32:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

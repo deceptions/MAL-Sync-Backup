@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/hikaru"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=84"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3433"
+      }
+    ],
     "altTitle": [
       "ヒカルの碁 お正月スペシャル"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/60751.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 84,
     "createdAt": "2020-10-12T15:38:28.000Z",
-    "updatedAt": "2021-07-02T22:05:58.000Z",
+    "updatedAt": "2021-10-01T06:02:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

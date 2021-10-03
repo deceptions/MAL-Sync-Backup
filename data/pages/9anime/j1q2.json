@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ntv.co.jp/lupin-conan/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6432"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10605"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Lupin_III_vs_Detective_Conan"
+      }
+    ],
     "altTitle": [
-      "Lupin Sansei vs Meitantei Conan, Lupin III vs. Meitantei Conan",
+      "Lupin Sansei vs Meitantei Conan",
+      "Lupin III vs. Meitantei Conan",
       "ルパン三世 vs 名探偵コナン"
     ],
     "id": 6115,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/27602.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 6432,
     "createdAt": "2020-10-12T15:38:50.000Z",
-    "updatedAt": "2021-05-02T10:33:35.000Z",
+    "updatedAt": "2021-10-01T21:34:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

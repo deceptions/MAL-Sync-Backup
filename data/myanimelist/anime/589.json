@@ -1,6 +1,23 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1243"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1469"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ginga:_Nagareboshi_Gin"
+    }
+  ],
   "altTitle": [
-    "Ginga: Nagareboshi Gin, Silverfang, Silver Fang, The small hero. Birth of Gin",
+    "Ginga: Nagareboshi Gin",
+    "Silverfang",
+    "Silver Fang",
+    "The small hero. Birth of Gin",
     "銀牙　流れ星銀"
   ],
   "id": 589,
@@ -10,8 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/3/47461.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1243,
   "createdAt": "2020-10-12T15:38:06.000Z",
-  "updatedAt": "2021-04-26T04:27:56.000Z",
+  "updatedAt": "2021-09-30T15:08:55.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

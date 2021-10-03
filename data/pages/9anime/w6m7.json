@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1708"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3766"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Pugyuru#Anime"
+      }
+    ],
     "altTitle": [
       "ぷぎゅる"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/4405.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1708,
     "createdAt": "2020-10-12T15:38:08.000Z",
-    "updatedAt": "2021-04-26T07:27:30.000Z",
+    "updatedAt": "2021-09-30T16:40:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5288"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2370"
+    }
+  ],
   "altTitle": [
     "スカイヤーズ5"
   ],
@@ -9,8 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/31789.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 5288,
   "createdAt": "2020-10-12T15:39:09.000Z",
-  "updatedAt": "2021-04-29T09:48:50.000Z",
+  "updatedAt": "2021-10-02T10:35:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

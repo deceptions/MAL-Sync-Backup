@@ -15,9 +15,26 @@
   "updatedAt": "2021-05-20T15:21:56.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=777"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=191"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Patlabor:_The_Movie"
+      }
+    ],
     "altTitle": [
       "Patlabor: The Movie",
-      "Kidou Keisatsu Patlabor Gekijouban, Patlabor 1: The Movie, Patlabor: The Mobile Police, Mobile Police Patlabor: The Movie",
+      "Kidou Keisatsu Patlabor Gekijouban",
+      "Patlabor 1: The Movie",
+      "Patlabor: The Mobile Police",
+      "Mobile Police Patlabor: The Movie",
       "機動警察パトレイバー the Movie"
     ],
     "id": 1095,
@@ -27,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/74786.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 777,
     "createdAt": "2020-10-12T15:38:12.000Z",
-    "updatedAt": "2021-05-28T06:29:05.000Z",
+    "updatedAt": "2021-09-30T19:35:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

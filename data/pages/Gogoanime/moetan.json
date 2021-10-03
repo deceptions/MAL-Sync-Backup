@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ink-chan.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5185"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8034"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Moetan#Anime"
+      }
+    ],
     "altTitle": [
       "もえたん"
     ],
@@ -25,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/21540.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5185,
     "createdAt": "2020-10-12T15:38:28.000Z",
-    "updatedAt": "2021-04-15T11:15:47.000Z",
+    "updatedAt": "2021-10-01T06:05:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

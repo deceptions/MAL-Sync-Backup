@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=143"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=157"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Haunted_Junction"
+    }
+  ],
   "altTitle": [
     "HAUNTED じゃんくしょん"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1163/94507.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 143,
   "createdAt": "2020-10-12T15:38:07.000Z",
-  "updatedAt": "2021-04-26T05:27:21.000Z",
+  "updatedAt": "2021-09-30T15:39:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

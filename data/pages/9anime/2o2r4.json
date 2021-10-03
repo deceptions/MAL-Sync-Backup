@@ -15,6 +15,24 @@
   "updatedAt": "2021-09-25T19:15:23.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://re-main.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16090"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24104"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/RE-MAIN"
+      }
+    ],
     "altTitle": [
       "RE-MAIN",
       "RE-MAIN（リメイン）"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1838/114857.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 16090,
     "createdAt": "2021-06-30T04:50:11.000Z",
-    "updatedAt": "2021-09-25T18:46:24.000Z",
+    "updatedAt": "2021-10-02T18:01:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

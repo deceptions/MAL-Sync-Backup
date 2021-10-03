@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3305"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1215"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Belle_and_Sebastian_(Japanese_TV_series)"
+    }
+  ],
   "altTitle": [
     "Belle and Sebastian",
     "Jolie the Great Dog",
@@ -12,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/22959.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 3305,
   "createdAt": "2020-10-12T15:38:40.000Z",
-  "updatedAt": "2021-08-27T00:07:28.000Z",
+  "updatedAt": "2021-10-01T14:08:25.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

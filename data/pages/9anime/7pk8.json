@@ -15,9 +15,29 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.vap.co.jp/mama4/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1344"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1952"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mama_is_a_4th_Grader"
+      }
+    ],
     "altTitle": [
       "Mama is Just a Fourth Grade Pupil",
-      "Mama is a 4th Grader, Mama wa Shougaku Yonensei, Mama wa Shougaku 4-nensei",
+      "Mama is a 4th Grader",
+      "Mama wa Shougaku Yonensei",
+      "Mama wa Shougaku 4-nensei",
       "ママは小学４年生"
     ],
     "id": 333,
@@ -27,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/87408.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1344,
     "createdAt": "2020-10-12T15:38:02.000Z",
-    "updatedAt": "2021-04-26T00:57:14.000Z",
+    "updatedAt": "2021-09-30T12:40:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

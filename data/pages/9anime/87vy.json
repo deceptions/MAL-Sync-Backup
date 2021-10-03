@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sunrise-inc.co.jp/datacard/card0183.htm"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=830"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=980"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Brigadoon:_Marin_%26_Melan"
+      }
+    ],
     "altTitle": [
       "Brigadoon",
-      "Brigadoon Marin and Melan, MariMera",
+      "Brigadoon Marin and Melan",
+      "MariMera",
       "ブリガドーン まりんとメラン"
     ],
     "id": 1450,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/75820.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 830,
     "createdAt": "2020-10-12T15:38:17.000Z",
-    "updatedAt": "2021-04-26T17:19:00.000Z",
+    "updatedAt": "2021-09-30T22:33:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

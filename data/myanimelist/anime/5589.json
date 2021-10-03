@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ms-pictures.com/label/animan/products/offside/200704_offside_01.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5142"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8041"
+    }
+  ],
   "altTitle": [
     "オフサイドガール"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1637/112302.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 5142,
   "createdAt": "2021-08-12T23:38:00.000Z",
-  "updatedAt": "2021-08-12T23:38:00.000Z",
+  "updatedAt": "2021-10-01T19:39:17.000Z",
   "deletedAt": null,
   "Pages": {}
 }

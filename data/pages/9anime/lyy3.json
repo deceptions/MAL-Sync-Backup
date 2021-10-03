@@ -15,9 +15,30 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.thekaras.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2179"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5002"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Karas_%28anime%29"
+      }
+    ],
     "altTitle": [
       "Karas",
-      "Crow, Raven, Karas: The Prophecy, Karas: The Revelation",
+      "Crow",
+      "Raven",
+      "Karas: The Prophecy",
+      "Karas: The Revelation",
       "鴉 -KARAS-"
     ],
     "id": 389,
@@ -27,8 +48,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1054/98245.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2179,
     "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2021-05-01T00:02:13.000Z",
+    "updatedAt": "2021-09-30T13:32:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3150"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10670"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Nine_(manga)"
+      }
+    ],
     "altTitle": [
       "ナイン オリジナル版"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/49881.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 3150,
     "createdAt": "2021-01-29T23:27:52.000Z",
-    "updatedAt": "2021-07-29T23:51:44.000Z",
+    "updatedAt": "2021-10-02T05:32:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

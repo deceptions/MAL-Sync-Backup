@@ -15,10 +15,31 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.shin-mazinger.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6397"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10653"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mazinger_Edition_Z:_The_Impact!"
+      }
+    ],
     "altTitle": [
       "Mazinger Edition Z: The Impact!",
-      "Shin Mazinger Shogeki! Z-hen, True Mazinger, Z Mazinger",
-      "Ｚマジンガー; 真マジンガー 衝撃！Z編"
+      "Shin Mazinger Shogeki! Z-hen",
+      "True Mazinger",
+      "Z Mazinger",
+      "Ｚマジンガー",
+      "真マジンガー 衝撃！Z編"
     ],
     "id": 5485,
     "type": "anime",
@@ -27,8 +48,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1022/92865.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 6397,
     "createdAt": "2020-10-12T15:38:47.000Z",
-    "updatedAt": "2021-04-28T08:48:30.000Z",
+    "updatedAt": "2021-10-01T19:34:48.000Z",
     "deletedAt": null
   },
   "Anilist": {

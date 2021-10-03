@@ -15,8 +15,19 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tenipuri.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6442"
+      }
+    ],
     "altTitle": [
-      "Tennis no Ouji-sama OVA Another Story: Kako to Mirai no Message, Prince of Tennis: Another Story - Messages From Past and Future",
+      "Tennis no Ouji-sama OVA Another Story: Kako to Mirai no Message",
+      "Prince of Tennis: Another Story - Messages From Past and Future",
       "テニスの王子様　OVA ANOTHER STORY ～過去と未来のメッセージ"
     ],
     "id": 5751,
@@ -26,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/13553.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 6442,
     "createdAt": "2020-10-12T15:38:48.000Z",
-    "updatedAt": "2021-04-28T09:49:01.000Z",
+    "updatedAt": "2021-10-01T20:08:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

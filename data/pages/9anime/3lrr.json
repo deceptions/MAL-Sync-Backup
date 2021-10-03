@@ -15,8 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=759"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=765"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tenchi_Muyo%21_Mihoshi_Special"
+      }
+    ],
     "altTitle": [
-      "Tenchi Muyo! Mihoshi Special, Tenchi Muyo! Bangaihen: Galaxy Police Mihoshi's Space Adventure, Tenchi Muyou! Bangaihen: Uchuu Keiji Mihoshi Ginga Daibouken",
+      "Tenchi Muyo! Mihoshi Special",
+      "Tenchi Muyo! Bangaihen: Galaxy Police Mihoshi's Space Adventure",
+      "Tenchi Muyou! Bangaihen: Uchuu Keiji Mihoshi Ginga Daibouken",
       "天地無用! 番外篇 宇宙刑事[ギャラクシーポリス]美星 銀河大冒険[スペースアドベンチャー]"
     ],
     "id": 2725,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1274/94457.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 759,
     "createdAt": "2020-10-12T15:38:32.000Z",
-    "updatedAt": "2021-04-27T13:18:31.000Z",
+    "updatedAt": "2021-10-01T08:35:58.000Z",
     "deletedAt": null
   },
   "Anilist": {

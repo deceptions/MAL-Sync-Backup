@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.yamato2199.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10430"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16186"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Space_Battleship_Yamato_2199"
+      }
+    ],
     "altTitle": [
-      "Uchuu Senkan Yamato 2199: Hoshi-Meguru Hakobune, Space Battleship Yamato 2199: Odyssey of the Celestial Ark",
+      "Uchuu Senkan Yamato 2199: Hoshi-Meguru Hakobune",
+      "Space Battleship Yamato 2199: Odyssey of the Celestial Ark",
       "宇宙戦艦ヤマト2199 星巡る方舟"
     ],
     "id": 23249,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/67623.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 10430,
     "createdAt": "2020-10-12T15:39:26.000Z",
-    "updatedAt": "2021-04-26T15:42:19.000Z",
+    "updatedAt": "2021-10-02T22:38:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

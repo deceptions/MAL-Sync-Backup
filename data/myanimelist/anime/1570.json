@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4594"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6800"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Happiness!_(visual_novel)#Anime"
+    }
+  ],
   "altTitle": [
     "Happiness!",
     "はぴねす！"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/75250.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 4594,
   "createdAt": "2020-10-12T15:38:18.000Z",
-  "updatedAt": "2021-08-30T03:06:50.000Z",
+  "updatedAt": "2021-09-30T23:35:17.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

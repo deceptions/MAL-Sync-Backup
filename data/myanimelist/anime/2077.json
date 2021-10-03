@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/movie/KinDaichi/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1585"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2462"
+    }
+  ],
   "altTitle": [
     "The Cases of Young Kindaichi",
     "The Case Files of Young Kindaichi Movie",
@@ -12,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/25372.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 1585,
   "createdAt": "2021-09-17T22:12:15.000Z",
-  "updatedAt": "2021-09-17T22:12:15.000Z",
+  "updatedAt": "2021-10-01T04:01:03.000Z",
   "deletedAt": null,
   "Pages": {}
 }

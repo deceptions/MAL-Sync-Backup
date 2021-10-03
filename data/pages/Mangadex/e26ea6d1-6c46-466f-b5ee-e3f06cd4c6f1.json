@@ -13,11 +13,12 @@
   "active": true,
   "actor": null,
   "malId": 91255,
-  "aniId": null,
+  "aniId": 136201,
   "createdAt": "2020-10-12T16:20:10.000Z",
-  "updatedAt": "2021-06-07T23:30:46.000Z",
+  "updatedAt": "2021-09-30T13:30:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": null,
     "altTitle": [
       "靉靆"
     ],
@@ -35,6 +36,25 @@
     "updatedAt": "2021-05-14T03:24:51.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "靉靆"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yusa Saikawa"
+    ],
+    "id": 136201,
+    "malId": 91255,
+    "type": "manga",
+    "title": "Aitai",
+    "url": "https://anilist.co/manga/136201",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b136201-gIa8p20U8lj4.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-09-30T13:00:52.000Z",
+    "updatedAt": "2021-09-30T13:00:52.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/91255/Aitai"
 }

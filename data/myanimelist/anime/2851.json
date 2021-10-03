@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1730"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=498"
+    }
+  ],
   "altTitle": [
     "Ninku The Movie",
     "忍空"
@@ -10,8 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/4007.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 1730,
   "createdAt": "2020-10-12T15:38:33.000Z",
-  "updatedAt": "2021-07-13T06:16:03.000Z",
+  "updatedAt": "2021-10-01T09:33:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

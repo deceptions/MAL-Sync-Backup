@@ -15,6 +15,24 @@
   "updatedAt": "2021-06-29T10:50:48.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://makai-ouji.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9590"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15006"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Makai_Ouji:_Devils_and_Realist"
+      }
+    ],
     "altTitle": [
       "Devils and Realist",
       "Makai Ouji: Devils and Realist",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/49573.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9590,
     "createdAt": "2020-10-12T15:39:18.000Z",
-    "updatedAt": "2021-06-29T10:50:58.000Z",
+    "updatedAt": "2021-10-02T16:39:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

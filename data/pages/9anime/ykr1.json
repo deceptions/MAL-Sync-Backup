@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ponycanyon.co.jp/greengreen/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=834"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2291"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Green_Green"
+      }
+    ],
     "altTitle": [
       "Green Green",
-      "Green Green TV, Guri Guri",
+      "Green Green TV",
+      "Guri Guri",
       "グリーングリーン"
     ],
     "id": 133,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/75251.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 834,
     "createdAt": "2020-10-12T15:38:00.000Z",
-    "updatedAt": "2021-04-25T22:27:35.000Z",
+    "updatedAt": "2021-09-30T11:04:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

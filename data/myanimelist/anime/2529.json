@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2998"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=715"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Princess_Minerva#Anime"
+    }
+  ],
   "altTitle": [
     "プリンセス ミネルバ"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/73451.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 2998,
   "createdAt": "2020-10-12T15:38:30.000Z",
-  "updatedAt": "2021-04-27T09:49:30.000Z",
+  "updatedAt": "2021-10-01T07:06:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

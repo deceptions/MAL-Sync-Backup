@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nyanpire.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8225"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12414"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Nyanpire"
+      }
+    ],
     "altTitle": [
       "にゃんぱいあ The Animation"
     ],
@@ -25,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/46147.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8225,
     "createdAt": "2020-10-12T15:39:05.000Z",
-    "updatedAt": "2021-04-29T05:49:10.000Z",
+    "updatedAt": "2021-10-02T08:02:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

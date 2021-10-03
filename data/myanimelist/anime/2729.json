@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2894"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3579"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/X_TV"
+    }
+  ],
   "altTitle": [
     "X^2",
     "X: X2 double X",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/3681.jpg",
   "category": "Music",
   "hentai": false,
+  "anidbId": 2894,
   "createdAt": "2020-12-09T17:57:53.000Z",
-  "updatedAt": "2021-06-09T18:05:08.000Z",
+  "updatedAt": "2021-10-01T08:36:29.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

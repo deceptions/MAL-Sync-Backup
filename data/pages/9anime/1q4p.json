@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1312"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2532"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Appleseed_%28film%29"
+      }
+    ],
     "altTitle": [
       "Appleseed (2004)",
       "アップルシード"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/57231.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 1312,
     "createdAt": "2020-10-12T15:37:58.000Z",
-    "updatedAt": "2021-04-25T21:27:02.000Z",
+    "updatedAt": "2021-09-30T10:07:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

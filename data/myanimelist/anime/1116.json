@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1325"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1090"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Junkers_Come_Here"
+    }
+  ],
   "altTitle": [
-    "Yookasu Come Here, Junkers Come Home",
+    "Yookasu Come Here",
+    "Junkers Come Home",
     "ユンカース・カム・ヒア"
   ],
   "id": 1116,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1343/100456.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 1325,
   "createdAt": "2020-10-12T15:38:12.000Z",
-  "updatedAt": "2021-04-26T12:27:41.000Z",
+  "updatedAt": "2021-09-30T19:38:14.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

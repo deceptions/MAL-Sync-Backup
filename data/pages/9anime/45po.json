@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ytv.co.jp/massugu03/index_set.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1029"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2931"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/まっすぐにいこう。"
+      }
+    ],
     "altTitle": [
       "Go forward",
       "Let's Go Straight Ahead!",
@@ -28,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/76159.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1029,
     "createdAt": "2020-10-12T15:38:19.000Z",
-    "updatedAt": "2021-06-08T10:25:31.000Z",
+    "updatedAt": "2021-10-01T00:02:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

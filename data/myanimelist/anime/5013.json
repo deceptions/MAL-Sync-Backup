@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2367"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2309"
+    }
+  ],
   "altTitle": [
     "Adrift in the Pacific",
     "Jugo Shonen Hyoryuki",
@@ -13,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/9763.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 2367,
   "createdAt": "2021-03-04T14:21:44.000Z",
-  "updatedAt": "2021-09-27T18:04:14.000Z",
+  "updatedAt": "2021-10-01T18:04:10.000Z",
   "deletedAt": null,
   "Pages": {}
 }

@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.otome-zakuro.jp/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7512"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Otome_Yōkai_Zakuro"
+      }
+    ],
     "altTitle": [
-      "Otome Yokai Zakuro Picture Drama, Girl Demon Zakuro Picture Drama",
+      "Otome Yokai Zakuro Picture Drama",
+      "Girl Demon Zakuro Picture Drama",
       "おとめ妖怪 ざくろ"
     ],
     "id": 10180,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/28077.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 7512,
     "createdAt": "2020-10-12T15:39:05.000Z",
-    "updatedAt": "2021-04-29T05:49:01.000Z",
+    "updatedAt": "2021-10-02T08:01:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

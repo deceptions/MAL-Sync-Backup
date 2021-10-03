@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=289"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Piano:_The_Melody_of_a_Young_Girl%27s_Heart"
+      }
+    ],
     "altTitle": [
       "Piano Episodes 4.5, 6.5, 8.5 and 10.5",
       "PIANO"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/60007.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 289,
     "createdAt": "2020-10-12T15:39:26.000Z",
-    "updatedAt": "2021-04-30T02:19:46.000Z",
+    "updatedAt": "2021-10-02T22:36:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

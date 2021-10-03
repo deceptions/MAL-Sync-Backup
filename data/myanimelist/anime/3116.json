@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5793"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2177"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dash!_Yonkuro"
+    }
+  ],
   "altTitle": [
     "Mini 4WD",
     "ダッシュ！四駆郎"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/50417.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 5793,
   "createdAt": "2020-10-12T15:38:35.000Z",
-  "updatedAt": "2021-04-27T17:19:40.000Z",
+  "updatedAt": "2021-10-01T11:02:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

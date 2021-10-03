@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2334"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2549"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Silent_M%C3%B6bius#Films"
+    }
+  ],
   "altTitle": [
     "サイレントメビウス／THE MOTION PICTURE"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/32059.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 2334,
   "createdAt": "2020-10-12T15:38:25.000Z",
-  "updatedAt": "2021-04-15T13:44:57.000Z",
+  "updatedAt": "2021-10-01T04:04:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.macross.co.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=77"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=355"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Super_Dimension_Fortress_Macross"
+      }
+    ],
     "altTitle": [
       "Macross",
       "Choujikuu Yousai Macross",
@@ -31,8 +49,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1/2441.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 77,
     "createdAt": "2020-10-12T15:38:12.000Z",
-    "updatedAt": "2021-09-19T11:10:44.000Z",
+    "updatedAt": "2021-09-30T19:33:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4624"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6739"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Crayon_Shin_Chan#Movies"
+    }
+  ],
   "altTitle": [
-    "Eiga Crayon Shin-chan: Action Kamen vs. Haigure Maou, Crayon Shin-chan: Action Kamen vs. Haigure Devil",
+    "Eiga Crayon Shin-chan: Action Kamen vs. Haigure Maou",
+    "Crayon Shin-chan: Action Kamen vs. Haigure Devil",
     "映画 クレヨンしんちゃん　アクション仮面ＶＳハイグレ魔王"
   ],
   "id": 8358,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/22017.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 4624,
   "createdAt": "2020-10-12T15:38:58.000Z",
-  "updatedAt": "2021-04-28T22:19:50.000Z",
+  "updatedAt": "2021-10-02T03:33:14.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

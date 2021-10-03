@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4237"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6178"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kirarin_Revolution"
+    }
+  ],
   "altTitle": [
     "Kirarin Revolution",
     "きらりん☆レボリューション"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1796/94726.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 4237,
   "createdAt": "2020-10-12T15:38:18.000Z",
-  "updatedAt": "2021-04-26T18:48:30.000Z",
+  "updatedAt": "2021-09-30T23:04:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

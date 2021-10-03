@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5258"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8211"
+      }
+    ],
     "altTitle": [
       "The Curse of Kazuo Umezu",
       "楳図かずおの呪い"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/36315.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 5258,
     "createdAt": "2020-10-12T15:38:51.000Z",
-    "updatedAt": "2021-04-28T12:48:51.000Z",
+    "updatedAt": "2021-10-01T22:03:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

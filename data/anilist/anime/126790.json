@@ -3,7 +3,12 @@
     "Selection Project",
     "SELECTION PROJECT"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/selection-project/"
+    }
+  ],
   "id": 126790,
   "malId": 44275,
   "type": "anime",
@@ -13,7 +18,46 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-27T03:28:42.000Z",
-  "updatedAt": "2021-09-01T12:15:45.000Z",
+  "updatedAt": "2021-09-30T14:30:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "selection-project": {
+        "identifier": "selection-project",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Selection Project",
+        "url": "https://gogoanime.pe/category/selection-project",
+        "image": "https://gogocdn.net/cover/selection-project.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44275,
+        "aniId": 126790,
+        "createdAt": "2021-10-01T15:01:04.000Z",
+        "updatedAt": "2021-10-01T15:30:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "74l8": {
+        "identifier": "74l8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Selection Project",
+        "url": "https://9anime.to/watch/selection-project.74l8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/47/47c6c64bc9d469b54a915b25b7a5815c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44275,
+        "aniId": 126790,
+        "createdAt": "2021-10-01T15:02:53.000Z",
+        "updatedAt": "2021-10-01T15:30:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

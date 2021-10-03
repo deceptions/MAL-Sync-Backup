@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://fuse-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9074"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14165"
+      }
+    ],
     "altTitle": [
       "Fusé: Memoirs of a Huntress",
       "FUSE: Memoirs of the Hunter Girl",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/37313.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 9074,
     "createdAt": "2020-10-12T15:39:12.000Z",
-    "updatedAt": "2021-04-15T16:44:58.000Z",
+    "updatedAt": "2021-10-02T13:08:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

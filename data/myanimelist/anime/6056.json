@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5165"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1484"
+    }
+  ],
   "altTitle": [
     "Sasuke",
     "サスケ"
@@ -10,8 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/30805.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 5165,
   "createdAt": "2020-10-12T15:38:50.000Z",
-  "updatedAt": "2021-04-28T11:48:50.000Z",
+  "updatedAt": "2021-10-01T21:08:44.000Z",
   "deletedAt": null,
   "Pages": {}
 }

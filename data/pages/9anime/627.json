@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kc.kodansha.co.jp/hensemi/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8287"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12333"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Hen_Semi"
+      }
+    ],
     "altTitle": [
       "Hentai Seiri Seminar",
       "Hen Zemi",
@@ -28,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/75839.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8287,
     "createdAt": "2020-10-12T15:39:05.000Z",
-    "updatedAt": "2021-08-08T07:40:09.000Z",
+    "updatedAt": "2021-10-02T08:02:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

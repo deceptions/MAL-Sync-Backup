@@ -15,8 +15,19 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6365"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3507"
+      }
+    ],
     "altTitle": [
-      "My Dread is School!, School is Dreadful! Kanako Inuki Shout Collection",
+      "My Dread is School!",
+      "School is Dreadful! Kanako Inuki Shout Collection",
       "犬木加奈子絶叫コレクション 学校がこわい!"
     ],
     "id": 8920,
@@ -26,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1254/112156.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 6365,
     "createdAt": "2020-10-12T15:39:00.000Z",
-    "updatedAt": "2021-04-29T00:48:41.000Z",
+    "updatedAt": "2021-10-02T04:36:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

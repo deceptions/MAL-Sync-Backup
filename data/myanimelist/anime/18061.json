@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7647"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tiger_Mask"
+    }
+  ],
   "altTitle": [
     "タイガーマスク"
   ],
@@ -9,8 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/74485.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 7647,
   "createdAt": "2021-09-08T21:35:50.000Z",
-  "updatedAt": "2021-09-08T21:35:50.000Z",
+  "updatedAt": "2021-10-02T18:06:06.000Z",
   "deletedAt": null,
   "Pages": {}
 }

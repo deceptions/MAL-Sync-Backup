@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.dora-world.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4765"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3930"
+      }
+    ],
     "altTitle": [
       "Doraemon: Nobita no Kekkon Zenya",
       "ドラえもん のび太の結婚前夜 The night before a wedding"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/17096.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 4765,
     "createdAt": "2020-10-12T15:38:31.000Z",
-    "updatedAt": "2021-06-13T04:08:30.000Z",
+    "updatedAt": "2021-10-01T08:05:37.000Z",
     "deletedAt": null
   },
   "Anilist": {

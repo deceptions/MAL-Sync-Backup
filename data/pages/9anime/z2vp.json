@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/lineup/tv/kitaro/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1451"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1328"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/GeGeGe_no_Kitaro#TV_series"
+      }
+    ],
     "altTitle": [
-      "Cackling Kitarou, Spooky Kitarou",
+      "Cackling Kitarou",
+      "Spooky Kitarou",
       "ゲゲゲの鬼太郎"
     ],
     "id": 5688,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/27398.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1451,
     "createdAt": "2020-10-12T15:38:48.000Z",
-    "updatedAt": "2021-04-28T09:19:31.000Z",
+    "updatedAt": "2021-10-01T20:05:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

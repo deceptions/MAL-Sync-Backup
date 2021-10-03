@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=169"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=24"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=605"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/.hack//Sign"
+      }
+    ],
     "altTitle": [
       ".hack//Sign",
       ".hack//SIGN"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1443/94665.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 24,
     "createdAt": "2020-10-12T15:37:58.000Z",
-    "updatedAt": "2021-04-25T19:27:02.000Z",
+    "updatedAt": "2021-09-30T10:06:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

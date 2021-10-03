@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toriko-movie.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9671"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15111"
+      }
+    ],
     "altTitle": [
       "Toriko the Movie: Secret Recipe of Gourmet God!",
       "Gekijouban Toriko: Bishokushin no Special Menu",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/47417.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 9671,
     "createdAt": "2020-10-12T15:39:19.000Z",
-    "updatedAt": "2021-04-29T19:18:53.000Z",
+    "updatedAt": "2021-10-01T06:01:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

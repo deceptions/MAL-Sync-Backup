@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.vap.co.jp/amae/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4145"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6204"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Amaenaideyo%21%21_Katsu%21%21"
+      }
+    ],
     "altTitle": [
       "Ah My Buddha Katsu",
-      "Amaenaideyo!! 2, Amaenaideyo!! Katsu",
+      "Amaenaideyo!! 2",
+      "Amaenaideyo!! Katsu",
       "あまえないでよっ!! 喝!!"
     ],
     "id": 886,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/15153.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4145,
     "createdAt": "2020-10-12T15:38:09.000Z",
-    "updatedAt": "2021-06-04T13:51:10.000Z",
+    "updatedAt": "2021-09-30T17:36:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

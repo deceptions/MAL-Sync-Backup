@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://s.mxtv.jp/joker/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10714"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16151"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mysterious_Joker"
+      }
+    ],
     "altTitle": [
       "JOKER",
       "Mysterious Joker",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/64975.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10714,
     "createdAt": "2020-10-12T15:39:29.000Z",
-    "updatedAt": "2021-04-30T04:49:04.000Z",
+    "updatedAt": "2021-10-03T00:07:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

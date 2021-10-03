@@ -1,6 +1,17 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9264"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/If_You_Were_Me:_Anima_Vision_2"
+    }
+  ],
   "altTitle": [
-    "If You Were Me: Anima Vision 2 (2008), Byeol byeol i-ya-gi 2",
+    "If You Were Me: Anima Vision 2 (2008)",
+    "Byeol byeol i-ya-gi 2",
     "별별이야기 2: 여섯 빛깔 무지개"
   ],
   "id": 9447,
@@ -10,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/26149.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 9264,
   "createdAt": "2020-10-12T15:39:02.000Z",
-  "updatedAt": "2021-04-29T02:48:52.000Z",
+  "updatedAt": "2021-10-02T06:02:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

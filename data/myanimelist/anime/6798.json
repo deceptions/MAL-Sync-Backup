@@ -1,6 +1,25 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tamagotchi.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6321"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10957"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Let%27s_Go!_Tamagotchi#Animated_Series"
+    }
+  ],
   "altTitle": [
-    "Saa Ikoo! Tamagotchi, Let's Go! Tamagotchi",
+    "Saa Ikoo! Tamagotchi",
+    "Let's Go! Tamagotchi",
     "さぁイコー！たまごっち"
   ],
   "id": 6798,
@@ -10,8 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/15719.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 6321,
   "createdAt": "2020-10-12T15:38:53.000Z",
-  "updatedAt": "2021-04-28T14:49:21.000Z",
+  "updatedAt": "2021-10-01T23:32:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

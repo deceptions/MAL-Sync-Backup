@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.samumenco.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9967"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15498"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Samurai_Flamenco"
+      }
+    ],
     "altTitle": [
       "Samurai Flamenco",
       "Samumenco",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/54319.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9967,
     "createdAt": "2020-10-12T15:39:21.000Z",
-    "updatedAt": "2021-08-13T05:37:00.000Z",
+    "updatedAt": "2021-10-02T19:06:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

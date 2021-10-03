@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.conan-movie.jp/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4187"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6346"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Detective_Conan:_The_Private_Eyes%27_Requiem"
+      }
+    ],
     "altTitle": [
-      "Meitantei Conan: Tantei-tachi no Requiem, The Private Eyes' Requiem",
+      "Meitantei Conan: Tantei-tachi no Requiem",
+      "The Private Eyes' Requiem",
       "名探偵コナン　探偵たちの鎮魂歌[レクイエム]"
     ],
     "id": 1506,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1919/94322.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 4187,
     "createdAt": "2020-10-12T15:38:18.000Z",
-    "updatedAt": "2021-05-12T18:55:29.000Z",
+    "updatedAt": "2021-09-30T23:03:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

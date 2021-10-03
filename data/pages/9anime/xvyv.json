@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2091"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2118"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Dragon_Warrior_%28anime%29"
+      }
+    ],
     "altTitle": [
       "Dragon Warrior",
       "Dragon Quest: Legend of the Hero Abel",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1270/114210.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2091,
     "createdAt": "2020-10-12T15:38:33.000Z",
-    "updatedAt": "2021-04-27T14:19:40.000Z",
+    "updatedAt": "2021-10-01T09:10:37.000Z",
     "deletedAt": null
   },
   "Anilist": {

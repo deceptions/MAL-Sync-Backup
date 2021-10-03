@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.blacklagoon.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3395"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6159"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Black_Lagoon"
+      }
+    ],
     "altTitle": [
       "Black Lagoon",
       "BLACK LAGOON"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/25596.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3395,
     "createdAt": "2020-10-12T15:38:09.000Z",
-    "updatedAt": "2021-09-27T15:08:24.000Z",
+    "updatedAt": "2021-09-30T17:36:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

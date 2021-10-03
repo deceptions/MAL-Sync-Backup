@@ -1,6 +1,17 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4737"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7516"
+    }
+  ],
   "altTitle": [
-    "Honoo no Haramase Tenkousei Ue, Flaming Impregnating Transfer Student",
+    "Honoo no Haramase Tenkousei Ue",
+    "Flaming Impregnating Transfer Student",
     "炎の孕ませ転校生"
   ],
   "id": 4399,
@@ -10,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1198/104004.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 4737,
   "createdAt": "2020-10-12T15:38:43.000Z",
-  "updatedAt": "2021-04-28T03:19:00.000Z",
+  "updatedAt": "2021-10-01T16:09:54.000Z",
   "deletedAt": null,
   "Pages": {}
 }

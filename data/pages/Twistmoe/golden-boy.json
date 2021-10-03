@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=355"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=373"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Golden_Boy_(manga)#OVA"
+      }
+    ],
     "altTitle": [
       "Golden Boy",
       "ゴールデンボーイ"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/62867.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 355,
     "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2021-09-06T07:47:04.000Z",
+    "updatedAt": "2021-09-30T12:09:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.anne-happy.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11321"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17372"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Anne_Happy"
+      }
+    ],
     "altTitle": [
       "Anne-Happy",
       "Unhappy Go Lucky!",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/78701.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 11321,
     "createdAt": "2020-10-12T15:39:37.000Z",
-    "updatedAt": "2021-04-13T04:46:12.000Z",
+    "updatedAt": "2021-10-01T03:32:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

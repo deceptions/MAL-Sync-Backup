@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://lupicona-movie.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9841"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15284"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Lupin_the_3rd_vs._Detective_Conan:_The_Movie"
+      }
+    ],
     "altTitle": [
-      "Rupan Sansei vs. Meitantei Conan: The Movie, Rupan Sansei vs Meitantei Conan (Movie)",
+      "Rupan Sansei vs. Meitantei Conan: The Movie",
+      "Rupan Sansei vs Meitantei Conan (Movie)",
       "ルパン三世vs.名探偵コナン THE MOVIE"
     ],
     "id": 18429,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/51663.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 9841,
     "createdAt": "2020-10-12T15:39:20.000Z",
-    "updatedAt": "2021-04-14T18:14:27.000Z",
+    "updatedAt": "2021-10-02T18:10:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

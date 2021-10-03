@@ -15,6 +15,24 @@
   "updatedAt": "2021-07-31T09:21:48.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nhk.or.jp/nanami/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1950"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4132"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Nanami-chan"
+      }
+    ],
     "altTitle": [
       "ななみちゃん"
     ],
@@ -25,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/64205.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1950,
     "createdAt": "2020-10-12T15:38:08.000Z",
-    "updatedAt": "2021-07-31T08:52:40.000Z",
+    "updatedAt": "2021-09-30T16:35:32.000Z",
     "deletedAt": null
   },
   "Anilist": {

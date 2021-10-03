@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5925"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Norakuro"
+    }
+  ],
   "altTitle": [
     "Corporal Norakuro",
     "Norakuro Gocho",
@@ -11,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/85244.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 5925,
   "createdAt": "2020-10-12T15:38:43.000Z",
-  "updatedAt": "2021-04-28T03:18:40.000Z",
+  "updatedAt": "2021-10-01T16:09:14.000Z",
   "deletedAt": null,
   "Pages": {}
 }

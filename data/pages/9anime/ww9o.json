@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://pierrot.jp/title/kogepan/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=203"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1653"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kogepan"
+      }
+    ],
     "altTitle": [
       "Scorched Bread",
       "こげぱん"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/63859.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 203,
     "createdAt": "2020-10-12T15:38:06.000Z",
-    "updatedAt": "2021-04-26T04:27:46.000Z",
+    "updatedAt": "2021-09-30T15:07:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

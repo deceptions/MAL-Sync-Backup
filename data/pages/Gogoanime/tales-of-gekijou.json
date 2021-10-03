@@ -15,6 +15,16 @@
   "updatedAt": "2021-07-09T02:43:16.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8942"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA_%E3%82%AA%E3%83%96_%E3%82%B6_%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA_%E3%83%84%E3%82%A4%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B4"
+      }
+    ],
     "altTitle": [
       "Tales of the Heroes: Twin Brave Specials",
       "ているず おぶ 劇場"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/48841.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 8942,
     "createdAt": "2020-10-12T15:39:11.000Z",
-    "updatedAt": "2021-07-09T02:15:16.000Z",
+    "updatedAt": "2021-10-02T12:31:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

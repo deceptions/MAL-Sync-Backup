@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2369"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5440"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Bleach_(anime)"
+      }
+    ],
     "altTitle": [
       "Bleach: Memories in the Rain",
-      "Bleach: Jump Festa 2004, ブリーチ Memories in the Rain",
+      "Bleach: Jump Festa 2004",
+      "ブリーチ Memories in the Rain",
       "BLEACH Memories in the Rain"
     ],
     "id": 762,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/21947.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 2369,
     "createdAt": "2020-10-12T15:38:08.000Z",
-    "updatedAt": "2021-04-15T10:45:18.000Z",
+    "updatedAt": "2021-09-30T16:37:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

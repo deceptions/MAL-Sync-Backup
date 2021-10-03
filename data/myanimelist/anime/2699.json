@@ -1,7 +1,23 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1469"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1882"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Space_Pirate_Mito"
+    }
+  ],
   "altTitle": [
     "Space Pirate Mito",
-    "Uchu Kaizoku Mito no Daiboken, Stellar Buster Mito, Space Pirate Mito's Great Adventure",
+    "Uchu Kaizoku Mito no Daiboken",
+    "Stellar Buster Mito",
+    "Space Pirate Mito's Great Adventure",
     "宇宙海賊ミトの大冒険"
   ],
   "id": 2699,
@@ -11,8 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/60979.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1469,
   "createdAt": "2020-10-12T15:38:32.000Z",
-  "updatedAt": "2021-04-02T04:00:54.000Z",
+  "updatedAt": "2021-10-01T08:32:47.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,7 +1,23 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7918"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11845"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Armored_Trooper_Votoms"
+    }
+  ],
   "altTitle": [
-    "Armored Trooper Votoms: Case; Irvine",
-    "装甲騎兵ボトムズ Case;IRVINE"
+    "Armored Trooper Votoms: Case",
+    "Irvine",
+    "装甲騎兵ボトムズ Case",
+    "IRVINE"
   ],
   "id": 8248,
   "type": "anime",
@@ -10,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/23338.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 7918,
   "createdAt": "2020-10-12T15:38:58.000Z",
-  "updatedAt": "2021-04-28T22:19:01.000Z",
+  "updatedAt": "2021-10-02T03:08:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ghibli-museum.jp/welcome/exibition/006326.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8462"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Pandane_to_tamago_hime"
+      }
+    ],
     "altTitle": [
       "Mr. Dough and the Egg Princess",
       "パン種とタマゴ姫"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/27157.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 8462,
     "createdAt": "2020-10-12T15:39:03.000Z",
-    "updatedAt": "2021-04-29T04:18:52.000Z",
+    "updatedAt": "2021-10-02T06:37:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

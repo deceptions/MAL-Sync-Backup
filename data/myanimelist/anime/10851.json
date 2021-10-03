@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://entacom.org/clockup/product/dvd/euphoria.htm"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8508"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13245"
+    }
+  ],
   "altTitle": [
     "euphoria"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/75721.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 8508,
   "createdAt": "2020-10-29T19:12:16.000Z",
-  "updatedAt": "2021-05-17T08:54:45.000Z",
+  "updatedAt": "2021-10-02T09:39:45.000Z",
   "deletedAt": null,
   "Pages": {}
 }

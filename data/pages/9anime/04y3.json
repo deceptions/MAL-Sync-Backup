@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.watamote.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10064"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/WataMote"
+      }
+    ],
     "altTitle": [
       "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! Episode 13",
       "Watamote OVA",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/60743.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 10064,
     "createdAt": "2020-10-12T15:39:22.000Z",
-    "updatedAt": "2021-07-05T20:02:03.000Z",
+    "updatedAt": "2021-10-02T20:04:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

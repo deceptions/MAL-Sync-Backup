@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3533"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7391"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%9F%E3%81%8F%E3%81%AE%E6%98%9F%E5%BA%A7"
+    }
+  ],
   "altTitle": [
-    "The Sign of Otaku, An Adventure in the Otaku Galaxy",
+    "The Sign of Otaku",
+    "An Adventure in the Otaku Galaxy",
     "おたくの星座"
   ],
   "id": 7915,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/69359.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 3533,
   "createdAt": "2020-10-12T15:38:57.000Z",
-  "updatedAt": "2021-04-28T20:50:01.000Z",
+  "updatedAt": "2021-10-02T02:34:55.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

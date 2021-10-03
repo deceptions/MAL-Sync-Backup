@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=841"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=130"
+    }
+  ],
   "altTitle": [
     "CLAMP School Detectives",
     "CLAMP学園探偵団"
@@ -10,8 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1709/111109.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 841,
   "createdAt": "2020-10-12T15:38:22.000Z",
-  "updatedAt": "2021-04-26T23:49:00.000Z",
+  "updatedAt": "2021-10-01T01:39:35.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

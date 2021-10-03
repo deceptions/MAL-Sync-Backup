@@ -15,8 +15,28 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=813"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=757"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_Cockpit_%28film%29"
+      }
+    ],
     "altTitle": [
-      "The Cockpit: Kamikaze Stories, Seisouken Kiryuu, Slipstream, Onsoku Raigekitai, Sonic Boom Squadron, Tetsu no Ryuukihei, Knight of the Iron Dragon",
+      "The Cockpit: Kamikaze Stories",
+      "Seisouken Kiryuu",
+      "Slipstream",
+      "Onsoku Raigekitai",
+      "Sonic Boom Squadron",
+      "Tetsu no Ryuukihei",
+      "Knight of the Iron Dragon",
       "ザ・コクピット"
     ],
     "id": 2500,
@@ -26,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/18697.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 813,
     "createdAt": "2020-10-12T15:38:30.000Z",
-    "updatedAt": "2021-04-27T09:48:50.000Z",
+    "updatedAt": "2021-10-01T07:01:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

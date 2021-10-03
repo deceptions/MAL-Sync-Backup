@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=535"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=301"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Bubblegum_Crash"
+    }
+  ],
   "altTitle": [
     "バブルガムクラッシュ"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/2845.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 535,
   "createdAt": "2020-10-12T15:38:15.000Z",
-  "updatedAt": "2021-04-26T15:42:10.000Z",
+  "updatedAt": "2021-09-30T21:39:07.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

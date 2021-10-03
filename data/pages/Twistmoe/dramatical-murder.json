@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://dmmd-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10554"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16101"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Dramatical_Murder"
+      }
+    ],
     "altTitle": [
       "DRAMAtical Murder",
       "DMMd",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/75642.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10554,
     "createdAt": "2020-10-12T15:39:27.000Z",
-    "updatedAt": "2021-05-07T07:47:23.000Z",
+    "updatedAt": "2021-10-02T23:02:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

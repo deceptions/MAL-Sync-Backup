@@ -15,8 +15,19 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2366"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ginga_Hy%C5%8Dry%C5%AB_Vifam"
+      }
+    ],
     "altTitle": [
-      "Galactic Drifter Vifam: Memory of Ms. Kate, Round Vernian Vifam: Memory of Ms. Kate",
+      "Galactic Drifter Vifam: Memory of Ms. Kate",
+      "Round Vernian Vifam: Memory of Ms. Kate",
       "銀河漂流バイファム ケイトの記憶 涙の奪回作戦!!"
     ],
     "id": 9390,
@@ -26,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/59739.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2366,
     "createdAt": "2020-10-12T15:39:02.000Z",
-    "updatedAt": "2021-04-29T02:19:31.000Z",
+    "updatedAt": "2021-10-02T05:38:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

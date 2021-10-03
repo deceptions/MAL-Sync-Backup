@@ -15,8 +15,19 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6102"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10213"
+      }
+    ],
     "altTitle": [
-      "Gakko no Yurei, School Ghosts",
+      "Gakko no Yurei",
+      "School Ghosts",
       "学校の幽霊"
     ],
     "id": 20353,
@@ -26,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/54087.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 6102,
     "createdAt": "2020-10-12T15:39:22.000Z",
-    "updatedAt": "2021-04-29T22:48:34.000Z",
+    "updatedAt": "2021-10-02T20:02:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

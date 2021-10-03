@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2346"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1838"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Cyborg_009"
+      }
+    ],
     "altTitle": [
       "Cyborg 009",
       "Cyborg 009 (TV 2)",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/56741.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2346,
     "createdAt": "2020-10-12T15:38:44.000Z",
-    "updatedAt": "2021-04-28T04:49:00.000Z",
+    "updatedAt": "2021-10-01T17:06:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

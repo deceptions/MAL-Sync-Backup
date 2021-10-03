@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6983"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Nutcracker_Fantasy"
+      }
+    ],
     "altTitle": [
       "Nutcracker Fantasy",
       "くるみ割り人形"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/17651.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 6983,
     "createdAt": "2020-10-12T15:38:55.000Z",
-    "updatedAt": "2021-04-18T16:15:03.000Z",
+    "updatedAt": "2021-10-02T01:07:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

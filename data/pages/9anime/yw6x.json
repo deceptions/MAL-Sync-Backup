@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=224"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1052"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Neo_Ranga"
+      }
+    ],
     "altTitle": [
       "Nankai Kio Neoranga",
       "Strange World of the South Seas - Neoranga",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1473/92555.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 224,
     "createdAt": "2020-10-12T15:38:13.000Z",
-    "updatedAt": "2021-09-09T18:34:38.000Z",
+    "updatedAt": "2021-09-30T20:06:39.000Z",
     "deletedAt": null
   },
   "Anilist": {

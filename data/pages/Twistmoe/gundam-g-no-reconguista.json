@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.g-reco.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10531"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16104"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Gundam_Reconguista_in_G"
+      }
+    ],
     "altTitle": [
       "Gundam Reconguista in G",
       "G-Reco",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/63753.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10531,
     "createdAt": "2020-10-12T15:39:26.000Z",
-    "updatedAt": "2021-09-06T20:34:30.000Z",
+    "updatedAt": "2021-10-02T22:38:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

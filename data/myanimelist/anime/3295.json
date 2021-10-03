@@ -1,6 +1,23 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tatsunoko.co.jp/yatterman/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5522"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8783"
+    }
+  ],
   "altTitle": [
-    "Yattaman New Series, Yattaman Remake, Yattaaman 2, Yatterman (2008)",
+    "Yattaman New Series",
+    "Yattaman Remake",
+    "Yattaaman 2",
+    "Yatterman (2008)",
     "ヤッターマン"
   ],
   "id": 3295,
@@ -10,8 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/44217.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 5522,
   "createdAt": "2020-10-12T15:38:36.000Z",
-  "updatedAt": "2021-04-27T19:18:40.000Z",
+  "updatedAt": "2021-10-01T11:38:42.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

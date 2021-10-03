@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=42"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=729"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shadow_Skill"
+    }
+  ],
   "altTitle": [
     "Shadow Skill (1998)",
     "Shadow Skill TV",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/61189.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 42,
   "createdAt": "2020-10-12T15:38:07.000Z",
-  "updatedAt": "2021-09-18T21:10:44.000Z",
+  "updatedAt": "2021-09-30T16:04:45.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

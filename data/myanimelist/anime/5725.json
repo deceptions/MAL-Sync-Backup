@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5709"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9101"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dinosaur_King"
+    }
+  ],
   "altTitle": [
     "Dinosaur King D-Kids Adventure: Pterosaur Legend",
-    "Kodai Oja Kyoryu King: Yokuryu Densetsu, Dinosaur King D-Kids",
+    "Kodai Oja Kyoryu King: Yokuryu Densetsu",
+    "Dinosaur King D-Kids",
     "古代王者恐竜キング Dキッズ・アドベンチャー翼龍伝説"
   ],
   "id": 5725,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/23619.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 5709,
   "createdAt": "2020-10-12T15:38:48.000Z",
-  "updatedAt": "2021-05-23T00:43:19.000Z",
+  "updatedAt": "2021-10-01T20:07:33.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

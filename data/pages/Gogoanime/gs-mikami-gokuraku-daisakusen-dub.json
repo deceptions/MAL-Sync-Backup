@@ -15,6 +15,20 @@
   "updatedAt": "2021-08-12T00:39:18.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1506"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=416"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ghost_Sweeper_Mikami"
+      }
+    ],
     "altTitle": [
       "Ghost Sweeper Mikami Movie",
       "GS美神 極楽大作戦!!"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/49257.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 1506,
     "createdAt": "2020-10-12T15:38:35.000Z",
-    "updatedAt": "2021-08-11T19:10:19.000Z",
+    "updatedAt": "2021-10-01T10:33:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

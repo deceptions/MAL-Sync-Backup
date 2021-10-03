@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://tenipuri-movie.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8374"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12859"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_Prince_of_Tennis"
+      }
+    ],
     "altTitle": [
-      "Gekijouban Tennis no Ouji-sama: Eikokushiki Teikyuu Shiro Kessen!, Prince of Tennis: Eikokushiki Teikyuu Shiro Kessen!",
+      "Gekijouban Tennis no Ouji-sama: Eikokushiki Teikyuu Shiro Kessen!",
+      "Prince of Tennis: Eikokushiki Teikyuu Shiro Kessen!",
       "劇場版テニスの王子様 英国式庭球城決戦！"
     ],
     "id": 10731,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/32079.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 8374,
     "createdAt": "2020-10-12T15:39:07.000Z",
-    "updatedAt": "2021-04-29T08:18:30.000Z",
+    "updatedAt": "2021-10-02T09:33:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

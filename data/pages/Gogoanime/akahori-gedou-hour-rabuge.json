@@ -15,9 +15,26 @@
   "updatedAt": "2019-10-12T16:02:23.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2840"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5900"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Akahori_Gedou_Hour_Rabuge"
+      }
+    ],
     "altTitle": [
       "Akahori's Heretical Hour Love Game",
-      "Akahori Gedou Hour Love Game, Zettai Seigi Love Pheromone, Soreyuke! Gedou Otometai, Absolute Justice Love Pheromone",
+      "Akahori Gedou Hour Love Game",
+      "Zettai Seigi Love Pheromone",
+      "Soreyuke! Gedou Otometai",
+      "Absolute Justice Love Pheromone",
       "あかほり外道アワーらぶげ"
     ],
     "id": 309,
@@ -27,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/75541.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2840,
     "createdAt": "2020-10-12T15:38:02.000Z",
-    "updatedAt": "2021-04-26T00:27:35.000Z",
+    "updatedAt": "2021-09-30T12:37:06.000Z",
     "deletedAt": null
   },
   "Anilist": null,

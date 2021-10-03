@@ -15,9 +15,31 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.aratanarusekai.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9259"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15676"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Arata-naru_Sekai"
+      }
+    ],
     "altTitle": [
       "World's End",
-      "Arata naru Sekai: Mirai-hen, Arata-naru Sekai, Aratanaru Sekai, The World of Arata, Arata-naru Sekai: World's/Start/Load/End",
+      "Arata naru Sekai: Mirai-hen",
+      "Arata-naru Sekai",
+      "Aratanaru Sekai",
+      "The World of Arata",
+      "Arata-naru Sekai: World's/Start/Load/End",
       "アラタなるセカイ WORLD'S/START/LOAD/END"
     ],
     "id": 14373,
@@ -27,8 +49,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/42075.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 9259,
     "createdAt": "2020-10-12T15:39:14.000Z",
-    "updatedAt": "2021-06-07T02:49:50.000Z",
+    "updatedAt": "2021-10-02T14:08:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.pixy-soft.com/product/product02_xx.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4735"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7515"
+    }
+  ],
   "altTitle": [
     "姉☆孕みっくす"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/18252.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 4735,
   "createdAt": "2021-06-13T11:38:29.000Z",
-  "updatedAt": "2021-06-13T11:38:29.000Z",
+  "updatedAt": "2021-10-01T09:33:46.000Z",
   "deletedAt": null,
   "Pages": {}
 }

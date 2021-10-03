@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2901"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=635"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%82%A6%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%AC%E3%82%A4#.E3.82.A2.E3.83.8B.E3.83.A1"
+      }
+    ],
     "altTitle": [
       "EXPLORER WOMAN RAY (エクスプローラーウーマン・レイ)"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/56653.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2901,
     "createdAt": "2020-10-12T15:38:42.000Z",
-    "updatedAt": "2021-04-28T02:48:30.000Z",
+    "updatedAt": "2021-10-01T16:03:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

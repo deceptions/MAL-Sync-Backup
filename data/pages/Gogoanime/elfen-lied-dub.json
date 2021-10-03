@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.vap.co.jp/elfenlied/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1544"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4148"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Elfen_lied"
+      }
+    ],
     "altTitle": [
       "Elfen Lied",
-      "Elfen Song, Elfic Song",
+      "Elfen Song",
+      "Elfic Song",
       "エルフェンリート"
     ],
     "id": 226,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/6883.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1544,
     "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2021-06-02T11:02:14.000Z",
+    "updatedAt": "2021-09-30T11:39:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

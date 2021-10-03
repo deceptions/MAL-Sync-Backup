@@ -1,4 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.midori-ko.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8086"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13263"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E7%B7%91%E5%AD%90"
+    }
+  ],
   "altTitle": [
     "Midori-ko",
     "緑子"
@@ -10,8 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/73675.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 8086,
   "createdAt": "2020-10-12T15:39:04.000Z",
-  "updatedAt": "2021-04-12T19:46:58.000Z",
+  "updatedAt": "2021-10-02T07:31:02.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,7 +1,26 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.top2.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2120"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3920"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Diebuster"
+    }
+  ],
   "altTitle": [
     "Gunbuster 2",
-    "Aim for the Top! 2, DieBuster",
+    "Aim for the Top! 2",
+    "DieBuster",
     "トップをねらえ2！DIEBUSTER"
   ],
   "id": 1002,
@@ -11,8 +30,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/50475.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 2120,
   "createdAt": "2020-10-12T15:38:11.000Z",
-  "updatedAt": "2021-04-26T09:58:21.000Z",
+  "updatedAt": "2021-09-30T18:37:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

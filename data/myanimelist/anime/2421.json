@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=780"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2534"
+    }
+  ],
   "altTitle": [
     "Mr. Super Bear",
     "スーパークマさん"
@@ -10,8 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1681/112334.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 780,
   "createdAt": "2020-10-12T15:38:29.000Z",
-  "updatedAt": "2021-04-27T08:19:20.000Z",
+  "updatedAt": "2021-10-01T06:31:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

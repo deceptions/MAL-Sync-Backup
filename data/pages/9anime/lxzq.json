@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.vexille.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5106"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7812"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Vexille"
+      }
+    ],
     "altTitle": [
       "Vexille",
-      "Vexille: 2077 Nippon Sakoku, Vexille: 2077 Japan National Isolation",
+      "Vexille: 2077 Nippon Sakoku",
+      "Vexille: 2077 Japan National Isolation",
       "ベクシル 2077日本鎖国"
     ],
     "id": 2746,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/79923.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 5106,
     "createdAt": "2020-10-12T15:38:32.000Z",
-    "updatedAt": "2021-04-27T13:19:11.000Z",
+    "updatedAt": "2021-10-01T08:38:08.000Z",
     "deletedAt": null
   },
   "Anilist": {

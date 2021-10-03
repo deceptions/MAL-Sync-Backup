@@ -15,8 +15,15 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6990"
+      }
+    ],
     "altTitle": [
-      "Travel, The Trip",
+      "Travel",
+      "The Trip",
       "旅"
     ],
     "id": 7258,
@@ -26,8 +33,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/81224.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 6990,
     "createdAt": "2020-10-12T15:38:55.000Z",
-    "updatedAt": "2021-04-28T17:49:41.000Z",
+    "updatedAt": "2021-10-02T01:02:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

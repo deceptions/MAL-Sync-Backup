@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tms-e.com/english/search/index.php?pdt_no=218"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6600"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1373"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adventure_Island_%28video_game%29#Anime"
+      }
+    ],
     "altTitle": [
       "Bug-tte Honey",
       "Honey The Bug",
@@ -29,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/28163.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 6600,
     "createdAt": "2020-10-12T15:39:05.000Z",
-    "updatedAt": "2021-07-04T17:00:01.000Z",
+    "updatedAt": "2021-10-02T08:03:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

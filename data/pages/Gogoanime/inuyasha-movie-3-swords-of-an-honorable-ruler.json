@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1320"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2981"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/InuYasha_the_Movie_3:_Swords_of_an_Honorable_Ruler"
+      }
+    ],
     "altTitle": [
       "InuYasha the Movie 3: Swords of an Honorable Ruler",
       "Inu Yasha: Tenka Hadou no Ken",
@@ -29,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1658/95332.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 1320,
     "createdAt": "2020-10-12T15:38:04.000Z",
-    "updatedAt": "2021-09-17T22:12:50.000Z",
+    "updatedAt": "2021-09-30T14:04:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

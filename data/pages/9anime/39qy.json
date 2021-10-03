@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.giant-gorg.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2469"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=998"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%B7%A8%E7%A5%9E%E3%82%B4%E3%83%BC%E3%82%B0"
+      }
+    ],
     "altTitle": [
       "Giant Gorg",
-      "Kyoshin Gorg, Kyojin Gorg",
+      "Kyoshin Gorg",
+      "Kyojin Gorg",
       "巨神ゴーグ〈ジャイアントゴーグ〉"
     ],
     "id": 3327,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1784/97034.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2469,
     "createdAt": "2020-10-12T15:38:37.000Z",
-    "updatedAt": "2021-04-27T19:19:30.000Z",
+    "updatedAt": "2021-10-01T12:02:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

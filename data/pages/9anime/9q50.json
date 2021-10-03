@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.starchild.co.jp/special/nana/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=853"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=302"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Seven_of_Seven"
+      }
+    ],
     "altTitle": [
-      "Nana 7 of 7, Nana Seven of Seven",
+      "Nana 7 of 7",
+      "Nana Seven of Seven",
       "七人のナナ"
     ],
     "id": 623,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/35193.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 853,
     "createdAt": "2020-10-12T15:38:06.000Z",
-    "updatedAt": "2021-04-26T04:58:06.000Z",
+    "updatedAt": "2021-09-30T15:36:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.staynight.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3348"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5394"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Fate/Stay_Night"
+      }
+    ],
     "altTitle": [
       "Fate/stay night",
       "Fate - Stay Night",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/30327.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3348,
     "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2021-09-27T16:45:27.000Z",
+    "updatedAt": "2021-09-30T13:07:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

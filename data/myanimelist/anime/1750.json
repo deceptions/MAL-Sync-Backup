@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4145"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6204"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Amaenaideyo%21%21_Katsu%21%21"
+    }
+  ],
   "altTitle": [
     "Ah My Buddha Katsu Special",
-    "Amaenaide yo!! Katsu!!: Don't be Fooled!!, Amaenaide yo!! Katsu!! Special",
+    "Amaenaide yo!! Katsu!!: Don't be Fooled!!",
+    "Amaenaide yo!! Katsu!! Special",
     "あまえないでよっ!!喝!! ダマされないでよっ!!"
   ],
   "id": 1750,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/75971.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 4145,
   "createdAt": "2020-10-12T15:38:21.000Z",
-  "updatedAt": "2021-04-15T12:15:37.000Z",
+  "updatedAt": "2021-10-01T01:04:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

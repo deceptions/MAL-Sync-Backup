@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1714"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=803"
+    }
+  ],
   "altTitle": [
     "ナースエンジェルりりかＳＯＳ"
   ],
@@ -9,8 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/10506.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1714,
   "createdAt": "2020-10-12T15:38:06.000Z",
-  "updatedAt": "2021-04-26T04:57:55.000Z",
+  "updatedAt": "2021-09-30T15:35:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -29,6 +40,25 @@
         "aniId": 616,
         "createdAt": "2020-10-12T15:51:44.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "nurse-angel-ririka-sos": {
+        "identifier": "nurse-angel-ririka-sos",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nurse Angel Ririka SOS",
+        "url": "https://gogoanime.pe/category/nurse-angel-ririka-sos",
+        "image": "https://gogocdn.net/cover/nurse-angel-ririka-sos.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 616,
+        "aniId": 616,
+        "createdAt": "2021-09-29T21:06:39.000Z",
+        "updatedAt": "2021-09-29T21:36:19.000Z",
         "deletedAt": null
       }
     }

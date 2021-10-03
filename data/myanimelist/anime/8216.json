@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3055"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1048"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ああ播磨灘"
+    }
+  ],
   "altTitle": [
-    "Ah Harima-nada, Aah Harimanada",
+    "Ah Harima-nada",
+    "Aah Harimanada",
     "ああ播磨灘"
   ],
   "id": 8216,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/21286.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 3055,
   "createdAt": "2020-10-12T15:38:58.000Z",
-  "updatedAt": "2021-04-28T21:49:30.000Z",
+  "updatedAt": "2021-10-02T03:05:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,8 +15,25 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://shop.toei-video.co.jp/products/detail.php?product_id=8255"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7701"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3295"
+      }
+    ],
     "altTitle": [
-      "Be-Bop Highschool Kaizokuban, Be-Bop High School Kaizokuban, Be-Bop Pirated, Be-Bop Pirate Edition",
+      "Be-Bop Highschool Kaizokuban",
+      "Be-Bop High School Kaizokuban",
+      "Be-Bop Pirated",
+      "Be-Bop Pirate Edition",
       "Be-Bop 海賊版"
     ],
     "id": 24087,
@@ -26,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/62799.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 7701,
     "createdAt": "2020-10-12T15:39:28.000Z",
-    "updatedAt": "2021-04-12T17:16:08.000Z",
+    "updatedAt": "2021-10-02T23:36:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

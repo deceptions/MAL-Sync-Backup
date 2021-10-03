@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://devilsline.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13283"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20284"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Devils'_Line"
+      }
+    ],
     "altTitle": [
       "Devils' Line",
       "デビルズライン"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1991/109055.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 13283,
     "createdAt": "2020-10-12T15:39:55.000Z",
-    "updatedAt": "2021-09-16T18:10:57.000Z",
+    "updatedAt": "2021-09-30T19:31:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

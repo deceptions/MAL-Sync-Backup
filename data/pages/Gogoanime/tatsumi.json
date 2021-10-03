@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.natsume-anime.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5787"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9419"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Natsume_Yuujinchou"
+      }
+    ],
     "altTitle": [
       "Natsume's Book of Friends",
-      "Natsume Yujincho, Natsume Yujin-cho",
+      "Natsume Yujincho",
+      "Natsume Yujin-cho",
       "夏目友人帳"
     ],
     "id": 4081,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1681/108439.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5787,
     "createdAt": "2020-10-12T15:38:41.000Z",
-    "updatedAt": "2021-05-22T17:43:52.000Z",
+    "updatedAt": "2021-10-01T15:10:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

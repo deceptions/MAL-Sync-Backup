@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1586"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=732"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shutendoji_(manga)#OVAs"
+    }
+  ],
   "altTitle": [
     "Shuten Doji - The Star Hand Kid",
-    "Shuten Doji, Star Demon",
+    "Shuten Doji",
+    "Star Demon",
     "手天童子"
   ],
   "id": 1227,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/18492.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 1586,
   "createdAt": "2020-10-12T15:38:14.000Z",
-  "updatedAt": "2021-04-26T13:42:19.000Z",
+  "updatedAt": "2021-09-30T20:38:58.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

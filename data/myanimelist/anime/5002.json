@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4779"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3292"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Bari_Bari_Densetsu"
+    }
+  ],
   "altTitle": [
     "Baribari Densetsu",
     "Bari-Den",
@@ -13,8 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/58873.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 4779,
   "createdAt": "2020-12-08T11:39:50.000Z",
-  "updatedAt": "2021-06-08T11:56:22.000Z",
+  "updatedAt": "2021-10-01T18:03:40.000Z",
   "deletedAt": null,
   "Pages": {}
 }

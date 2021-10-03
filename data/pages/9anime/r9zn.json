@@ -15,9 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1806"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Fafner_in_the_Azure"
+      }
+    ],
     "altTitle": [
       "Fafner of the Blue Sky: Arcadian Memory",
-      "Soukyuu no Fafner: Arcadian Memory I - Tsuioku no Rakuen, Soukyuu no Fafner: Arcadian Memory II - Taiwa no Sekai",
+      "Soukyuu no Fafner: Arcadian Memory I - Tsuioku no Rakuen",
+      "Soukyuu no Fafner: Arcadian Memory II - Taiwa no Sekai",
       "蒼穹のファフナー Arcadian Memory"
     ],
     "id": 9494,
@@ -27,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/26384.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1806,
     "createdAt": "2020-10-12T15:39:02.000Z",
-    "updatedAt": "2021-04-29T02:49:11.000Z",
+    "updatedAt": "2021-10-02T06:04:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

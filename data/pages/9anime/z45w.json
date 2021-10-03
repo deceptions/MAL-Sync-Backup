@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2136"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2089"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/List_of_Lupin_III_television_specials#ep12"
+      }
+    ],
     "altTitle": [
       "Lupin III: Missed by a Dollar",
-      "Rupan Sansei, Lupin III: $1 Money Wars",
+      "Rupan Sansei",
+      "Lupin III: $1 Money Wars",
       "ルパン三世 1$マネーウォーズ"
     ],
     "id": 1422,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/67119.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 2136,
     "createdAt": "2020-10-12T15:38:16.000Z",
-    "updatedAt": "2021-04-26T16:48:40.000Z",
+    "updatedAt": "2021-09-30T22:07:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

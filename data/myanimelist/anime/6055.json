@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3208"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2195"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/F_(manga)"
+    }
+  ],
   "altTitle": [
-    "Formula-1 - Engines On The Track, Motori in Pista",
+    "Formula-1 - Engines On The Track",
+    "Motori in Pista",
     "Ｆ-エフ"
   ],
   "id": 6055,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/73616.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 3208,
   "createdAt": "2020-10-12T15:38:50.000Z",
-  "updatedAt": "2021-04-28T11:19:31.000Z",
+  "updatedAt": "2021-10-01T21:08:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

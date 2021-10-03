@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5317"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7078"
+      }
+    ],
     "altTitle": [
       "トゥインクルハート 銀河系までとどかない"
     ],
@@ -25,8 +35,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/28457.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 5317,
     "createdAt": "2020-10-12T15:39:05.000Z",
-    "updatedAt": "2021-04-29T06:48:50.000Z",
+    "updatedAt": "2021-10-02T08:31:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

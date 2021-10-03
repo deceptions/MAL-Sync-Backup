@@ -1,6 +1,17 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4060"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=98"
+    }
+  ],
   "altTitle": [
-    "A Well-Ordered Restaurant, The Restaurant of Many Orders",
+    "A Well-Ordered Restaurant",
+    "The Restaurant of Many Orders",
     "注文の多い料理店"
   ],
   "id": 4095,
@@ -10,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/7479.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 4060,
   "createdAt": "2020-10-12T15:38:41.000Z",
-  "updatedAt": "2021-04-28T01:49:00.000Z",
+  "updatedAt": "2021-10-01T15:31:02.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-07-22T13:33:48.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.dora-movie.com/movie_23/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6582"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1919"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Doraemon:_Nobita_in_the_Robot_Kingdom"
+      }
+    ],
     "altTitle": [
       "Doraemon the Movie: Nobita in the Robot Kingdom",
       "Doraemon: Nobita & Robot Kingdom",
@@ -28,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/72428.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 6582,
     "createdAt": "2020-10-12T15:38:31.000Z",
-    "updatedAt": "2021-07-22T13:04:32.000Z",
+    "updatedAt": "2021-10-01T08:05:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

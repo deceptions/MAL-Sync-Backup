@@ -1,6 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=791"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=324"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Zetsuai_1989"
+    }
+  ],
   "altTitle": [
-    "Desperate Love, Everlasting Love, Bronze: 1989",
+    "Desperate Love",
+    "Everlasting Love",
+    "Bronze: 1989",
     "絶愛-1989-"
   ],
   "id": 1041,
@@ -10,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/73226.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 791,
   "createdAt": "2020-10-12T15:38:11.000Z",
-  "updatedAt": "2021-04-26T10:57:37.000Z",
+  "updatedAt": "2021-09-30T19:05:14.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

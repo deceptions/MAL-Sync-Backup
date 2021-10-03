@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://5pb.jp/megane/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7878"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11811"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%9C%BC%E9%8F%A1%E3%81%AA%E3%82%AB%E3%83%8E%E3%82%B8%E3%83%A7"
+      }
+    ],
     "altTitle": [
-      "Gankyou na Kanojo, Glasses Girlfriends",
+      "Gankyou na Kanojo",
+      "Glasses Girlfriends",
       "眼鏡なカノジョ"
     ],
     "id": 9335,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1358/112335.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 7878,
     "createdAt": "2020-10-12T15:39:02.000Z",
-    "updatedAt": "2021-04-29T02:18:51.000Z",
+    "updatedAt": "2021-10-02T05:35:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

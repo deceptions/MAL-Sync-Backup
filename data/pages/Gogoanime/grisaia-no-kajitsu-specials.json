@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.grisaia-anime.com/kajitsu/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9749"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Le_Fruit_de_la_Grisaia"
+      }
+    ],
     "altTitle": [
-      "Le Fruit de la Grisaia Specials, The Fruit of Grisaia Specials",
+      "Le Fruit de la Grisaia Specials",
+      "The Fruit of Grisaia Specials",
       "グリザイアの果実"
     ],
     "id": 29101,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/71683.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 9749,
     "createdAt": "2020-10-12T15:39:33.000Z",
-    "updatedAt": "2021-04-17T23:44:29.000Z",
+    "updatedAt": "2021-10-01T13:32:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

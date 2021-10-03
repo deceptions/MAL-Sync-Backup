@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tsuritama.com"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8916"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13993"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tsuritama"
+      }
+    ],
     "altTitle": [
       "tsuritama",
       "Fishing Ball",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/69909.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8916,
     "createdAt": "2020-10-12T15:39:11.000Z",
-    "updatedAt": "2021-07-06T17:30:03.000Z",
+    "updatedAt": "2021-10-02T12:35:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

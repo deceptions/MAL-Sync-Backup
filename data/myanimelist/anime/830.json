@@ -1,7 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1642"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5825"
+    }
+  ],
   "altTitle": [
     "Sexfriend",
-    "Sex Friend, Sex Friend",
+    "Sex Friend",
+    "Sex Friend",
     "SEXFRIEND ～セックスフレンド～"
   ],
   "id": 830,
@@ -11,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/41591.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 1642,
   "createdAt": "2020-10-12T15:38:08.000Z",
-  "updatedAt": "2021-04-26T07:57:10.000Z",
+  "updatedAt": "2021-09-30T17:06:15.000Z",
   "deletedAt": null,
   "Pages": {}
 }

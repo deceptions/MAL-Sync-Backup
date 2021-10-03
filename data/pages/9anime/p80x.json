@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1032"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=585"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Dirty_Pair"
+      }
+    ],
     "altTitle": [
       "Dirty Pair: Project Eden",
       "ダーティペア the Movie"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1855/92685.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 1032,
     "createdAt": "2020-10-12T15:38:21.000Z",
-    "updatedAt": "2021-09-12T05:04:36.000Z",
+    "updatedAt": "2021-10-01T01:31:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

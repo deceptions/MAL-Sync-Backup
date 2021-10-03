@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://senyu.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9393"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14841"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/戦勇。"
+      }
+    ],
     "altTitle": [
       "Senyu.",
       "戦勇。"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/44858.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9393,
     "createdAt": "2020-10-12T15:39:16.000Z",
-    "updatedAt": "2021-09-17T17:10:54.000Z",
+    "updatedAt": "2021-10-02T15:34:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

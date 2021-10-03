@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4514"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8772"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/CLAMP_IN_WONDERLAND"
+    }
+  ],
   "altTitle": [
     "CLAMP IN WONDERLAND 2"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/59503.jpg",
   "category": "Music",
   "hentai": false,
+  "anidbId": 4514,
   "createdAt": "2020-10-12T15:38:32.000Z",
-  "updatedAt": "2021-04-27T13:48:50.000Z",
+  "updatedAt": "2021-10-01T09:03:26.000Z",
   "deletedAt": null,
   "Pages": {}
 }

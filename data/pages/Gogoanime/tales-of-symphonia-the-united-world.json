@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ova-tos.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6814"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11121"
+      }
+    ],
     "altTitle": [
       "Tales of Symphonia 2",
       "Tales of Symphonia The Animation: Tethe'alla Chapter",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/23211.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 6814,
     "createdAt": "2020-10-12T15:38:47.000Z",
-    "updatedAt": "2021-09-25T04:15:26.000Z",
+    "updatedAt": "2021-10-01T19:05:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

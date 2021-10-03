@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.komaneko.com "
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7306"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%93%E3%81%BE%E3%81%AD%E3%81%93"
+      }
+    ],
     "altTitle": [
       "Komaneko: the Curious Cat",
       "Komaneko: the Stop-motion Movie",
@@ -24,11 +38,12 @@
     "type": "anime",
     "title": "Komadori Eiga: Komaneko",
     "url": "https://myanimelist.net/anime/7547/Komadori_Eiga__Komaneko",
-    "image": "https://cdn.myanimelist.net/images/anime/5/60633.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1394/112307.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 7306,
     "createdAt": "2020-10-12T15:38:56.000Z",
-    "updatedAt": "2021-04-28T19:19:30.000Z",
+    "updatedAt": "2021-10-02T01:34:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

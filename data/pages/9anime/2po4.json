@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://sekai-ichi-movie.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9950"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14912"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sekai-ichi_Hatsukoi"
+      }
+    ],
     "altTitle": [
-      "Eiga Sekaiichi Hatsukoi, Sekai-ichi Hatsukoi Movie",
+      "Eiga Sekaiichi Hatsukoi",
+      "Sekai-ichi Hatsukoi Movie",
       "劇場版 世界一初恋 横澤隆史の場合"
     ],
     "id": 20371,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/65927.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 9950,
     "createdAt": "2020-10-12T15:39:22.000Z",
-    "updatedAt": "2021-04-15T17:14:27.000Z",
+    "updatedAt": "2021-10-02T20:03:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

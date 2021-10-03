@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://keroro.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10306"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15768"
+      }
+    ],
     "altTitle": [
-      "Keroro Gunsou TV 2, Keroro Gunsou (2014)",
+      "Keroro Gunsou TV 2",
+      "Keroro Gunsou (2014)",
       "ケロロ"
     ],
     "id": 21671,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/58163.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10306,
     "createdAt": "2020-10-12T15:39:24.000Z",
-    "updatedAt": "2021-04-30T00:19:33.000Z",
+    "updatedAt": "2021-10-02T21:09:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-08-31T12:06:42.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=617"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=290"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sherlock_Hound"
+      }
+    ],
     "altTitle": [
       "Sherlock Hound",
       "Famous Detective Holmes",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/75723.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 617,
     "createdAt": "2020-10-12T15:38:24.000Z",
-    "updatedAt": "2021-08-31T11:37:46.000Z",
+    "updatedAt": "2021-10-01T03:02:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

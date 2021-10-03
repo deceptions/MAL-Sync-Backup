@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=693"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=699"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC"
+      }
+    ],
     "altTitle": [
       "モルダイバー"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/37735.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 693,
     "createdAt": "2020-10-12T15:38:06.000Z",
-    "updatedAt": "2021-09-15T22:41:35.000Z",
+    "updatedAt": "2021-09-30T15:05:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

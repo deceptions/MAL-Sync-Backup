@@ -1,8 +1,8 @@
 {
   "authors": [
+    "Fei Tian Ye Xiang/非天夜翔",
     "Qualia",
-    "Wrap",
-    "Fei Tian Ye Xiang/非天夜翔"
+    "Wrap"
   ],
   "identifier": "a27c8d61-c262-4f74-9e12-59ea080eb231",
   "type": "manga",
@@ -13,53 +13,39 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 12587,
-  "aniId": 42587,
+  "actor": 2,
+  "malId": null,
+  "aniId": 129955,
   "createdAt": "2020-10-12T16:18:21.000Z",
-  "updatedAt": "2021-06-07T16:19:58.000Z",
+  "updatedAt": "2021-10-02T22:36:49.000Z",
   "deletedAt": null,
-  "Mal": {
-    "altTitle": [
-      "Yaoh",
-      "夜王 -yaoh-"
-    ],
-    "authors": [
-      "Kurashina, Ryou",
-      "Inoue, Noriyoshi"
-    ],
-    "id": 12587,
-    "type": "manga",
-    "title": "Yaou",
-    "url": "https://myanimelist.net/manga/12587/Yaou",
-    "image": "https://cdn.myanimelist.net/images/manga/5/147063.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:47.000Z",
-    "updatedAt": "2021-07-29T18:22:56.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "夜王 -yaoh-",
-      "Yaoh"
+      "Legend of Exorcism",
+      "天宝伏妖录",
+      "Legend Of Tang",
+      "La Leyenda de Tang",
+      "¿Quién aquí no es un príncipe o algo así?"
     ],
     "externalLinks": [],
     "authors": [
-      "Ryou Kurashina",
-      "Noriyoshi Inoue"
+      "Feitian Yexiang",
+      "Wrap",
+      "Zhengu Jin",
+      "Mianhuatang"
     ],
-    "id": 42587,
-    "malId": 12587,
+    "id": 129955,
+    "malId": null,
     "type": "manga",
-    "title": "Yaou",
-    "url": "https://anilist.co/manga/42587",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx42587-WHf28PB2EfG0.jpg",
+    "title": "Tianbao Fuyao Lu",
+    "url": "https://anilist.co/manga/129955",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129955-hGscSzOa2fLE.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:23.000Z",
-    "updatedAt": "2021-06-17T14:18:21.000Z",
+    "createdAt": "2021-06-07T16:34:58.000Z",
+    "updatedAt": "2021-10-02T17:31:12.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/12587/Yaou"
+  "malUrl": ""
 }

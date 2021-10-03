@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://chirok.jp/product/00000000024.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6998"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kihachirō_Kawamoto"
+      }
+    ],
     "altTitle": [
       "Briar-Rose or The Sleeping Beauty",
-      "Sleeping Beauty, Šípková Růženka aneb Spící krasavice",
+      "Sleeping Beauty",
+      "Šípková Růženka aneb Spící krasavice",
       "いばら姫またはねむり姫"
     ],
     "id": 7169,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/81213.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 6998,
     "createdAt": "2020-10-12T15:38:55.000Z",
-    "updatedAt": "2021-04-28T17:48:40.000Z",
+    "updatedAt": "2021-10-02T00:38:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

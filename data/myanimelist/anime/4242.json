@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3116"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2224"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Baxinger"
+    }
+  ],
   "altTitle": [
     "Galactic Gale Baxingar",
-    "Ginga Reppu Baxinger, Cosmo Ranger",
+    "Ginga Reppu Baxinger",
+    "Cosmo Ranger",
     "銀河烈風バクシンガー"
   ],
   "id": 4242,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/56417.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 3116,
   "createdAt": "2020-10-12T15:38:42.000Z",
-  "updatedAt": "2021-04-28T02:19:30.000Z",
+  "updatedAt": "2021-10-01T16:02:32.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

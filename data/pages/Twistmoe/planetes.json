@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.planet-es.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=895"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2654"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Planetes"
+      }
+    ],
     "altTitle": [
       "Planetes",
       "ΠΛΑΝΗΤΕΣ",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/50463.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 895,
     "createdAt": "2020-10-12T15:38:02.000Z",
-    "updatedAt": "2021-08-02T10:18:19.000Z",
+    "updatedAt": "2021-09-30T12:40:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,9 +15,29 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.natsume-anime.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8286"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12542"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Natsume's_Book_of_Friends"
+      }
+    ],
     "altTitle": [
       "Natsume's Book of Friends Season 3",
-      "Natsume Yuujinchou Three, Natsume Yuujinchou 3, Natsume Yujincho 3",
+      "Natsume Yuujinchou Three",
+      "Natsume Yuujinchou 3",
+      "Natsume Yujincho 3",
       "夏目友人帳 参"
     ],
     "id": 10379,
@@ -27,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/82394.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8286,
     "createdAt": "2020-10-12T15:39:06.000Z",
-    "updatedAt": "2021-05-26T16:38:21.000Z",
+    "updatedAt": "2021-10-02T08:33:52.000Z",
     "deletedAt": null
   },
   "Anilist": {

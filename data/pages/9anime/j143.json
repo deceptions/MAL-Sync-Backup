@@ -15,9 +15,25 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1884"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3329"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Saint_Seiya:_The_Movie"
+      }
+    ],
     "altTitle": [
       "Saint Seiya the Movie: Evil Goddess Eris",
-      "Saint Seiya: The Battle with Eris, Saint Seiya: Movie 1, Saint Seiya: The Legend of the Golden Apple",
+      "Saint Seiya: The Battle with Eris",
+      "Saint Seiya: Movie 1",
+      "Saint Seiya: The Legend of the Golden Apple",
       "聖闘士星矢 邪神エリス"
     ],
     "id": 1256,
@@ -27,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/26806.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 1884,
     "createdAt": "2020-10-12T15:38:14.000Z",
-    "updatedAt": "2021-04-26T14:11:59.000Z",
+    "updatedAt": "2021-09-30T21:04:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

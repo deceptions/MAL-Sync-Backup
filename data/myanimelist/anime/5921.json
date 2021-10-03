@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5813"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4623"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Utsunomiko"
+    }
+  ],
   "altTitle": [
-    "Utsunomiko: Earth Chapter, Utsu no Miko",
+    "Utsunomiko: Earth Chapter",
+    "Utsu no Miko",
     "宇宙皇子"
   ],
   "id": 5921,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/12811.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 5813,
   "createdAt": "2020-10-12T15:38:49.000Z",
-  "updatedAt": "2021-06-02T08:23:16.000Z",
+  "updatedAt": "2021-10-01T20:40:35.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

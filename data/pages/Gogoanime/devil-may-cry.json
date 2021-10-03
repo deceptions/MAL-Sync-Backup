@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://dmc-tv.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4776"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6905"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Devil_May_Cry"
+      }
+    ],
     "altTitle": [
       "Devil May Cry",
       "Devil May Cry: The Animated Series",
@@ -28,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/26417.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4776,
     "createdAt": "2020-10-12T15:38:20.000Z",
-    "updatedAt": "2021-07-31T06:22:08.000Z",
+    "updatedAt": "2021-10-01T00:40:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

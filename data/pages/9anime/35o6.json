@@ -15,8 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3053"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1474"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Majokko_Tickle"
+      }
+    ],
     "altTitle": [
-      "Magical Girl Tickle, Majokko Chikkuru, Magic Tikkle",
+      "Magical Girl Tickle",
+      "Majokko Chikkuru",
+      "Magic Tikkle",
       "魔女っ子チックル"
     ],
     "id": 3881,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/6935.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3053,
     "createdAt": "2020-10-12T15:38:40.000Z",
-    "updatedAt": "2021-04-28T00:18:40.000Z",
+    "updatedAt": "2021-10-01T14:33:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

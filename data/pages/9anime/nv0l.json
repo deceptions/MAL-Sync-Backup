@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9924"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15394"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%8F%82%E4%B9%97%E5%90%88%E4%BD%93_%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCGo!"
+      }
+    ],
     "altTitle": [
       "参乗合体 トランスフォーマーGo!"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/52537.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 9924,
     "createdAt": "2020-10-12T15:39:21.000Z",
-    "updatedAt": "2021-04-12T20:16:58.000Z",
+    "updatedAt": "2021-10-02T19:03:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

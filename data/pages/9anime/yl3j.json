@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1796"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1289"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Robby_the_Rascal"
+      }
+    ],
     "altTitle": [
       "Robby the Rascal",
-      "Saibotto Robocchi, Cybot Robotchi",
+      "Saibotto Robocchi",
+      "Cybot Robotchi",
       "サイボットロボッチ"
     ],
     "id": 7956,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/19447.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1796,
     "createdAt": "2020-10-12T15:38:57.000Z",
-    "updatedAt": "2021-04-12T19:46:28.000Z",
+    "updatedAt": "2021-10-02T02:35:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

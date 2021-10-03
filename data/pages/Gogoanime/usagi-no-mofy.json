@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.scp.co.jp/mofy/movie.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9297"
+      }
+    ],
     "altTitle": [
       "うさぎのモフィ"
     ],
@@ -25,8 +35,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/57215.jpg",
     "category": "ONA",
     "hentai": false,
+    "anidbId": 9297,
     "createdAt": "2020-10-12T15:39:24.000Z",
-    "updatedAt": "2021-05-22T10:44:22.000Z",
+    "updatedAt": "2021-10-02T21:31:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

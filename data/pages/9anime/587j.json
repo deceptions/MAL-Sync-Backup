@@ -15,8 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ytv.co.jp/conan/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=266"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Case_Closed"
+      }
+    ],
     "altTitle": [
-      "Meitantei Conan: Kuro no Soshiki to no Sesshoku, Episode 490.2, Case Closed: Black History 2",
+      "Meitantei Conan: Kuro no Soshiki to no Sesshoku",
+      "Episode 490.2",
+      "Case Closed: Black History 2",
       "名探偵コナン 黒のミステリースペシヤル 黒の組織との接触"
     ],
     "id": 9839,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/86592.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 266,
     "createdAt": "2020-10-12T15:39:03.000Z",
-    "updatedAt": "2021-04-29T04:19:21.000Z",
+    "updatedAt": "2021-10-02T06:39:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

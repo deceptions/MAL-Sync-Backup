@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tonikawa.com/news/news-41/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15421"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon_(manga)#Anime"
+    }
+  ],
   "altTitle": [
     "TONIKAWA: Over The Moon For You Episode 12.5 – Flashbacks",
     "Tonikaku Kawaii: Flashbacks",
@@ -13,8 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1980/110984.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 15421,
   "createdAt": "2020-12-31T06:18:14.000Z",
-  "updatedAt": "2021-09-27T16:44:05.000Z",
+  "updatedAt": "2021-10-01T14:01:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {
@@ -33,6 +48,25 @@
         "aniId": null,
         "createdAt": "2020-12-31T12:16:09.000Z",
         "updatedAt": "2020-12-31T12:42:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "9pvx": {
+        "identifier": "9pvx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tonikaku Kawaii: Kaisou",
+        "url": "https://9anime.to/watch/tonikawa-over-the-moon-for-you-episode-125-flashbacks.9pvx",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/65/65339e4be778c6aeae2648628d32a211.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 45598,
+        "aniId": null,
+        "createdAt": "2021-01-01T12:54:39.000Z",
+        "updatedAt": "2021-10-02T22:36:17.000Z",
         "deletedAt": null
       }
     }

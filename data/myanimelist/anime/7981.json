@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2586"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7545"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Obake_no_Q-tarō"
+    }
+  ],
   "altTitle": [
-    "Obake no Q-taro (1985), Shin Obake no Q-taro (1985)",
+    "Obake no Q-taro (1985)",
+    "Shin Obake no Q-taro (1985)",
     "オバケのQ太郎"
   ],
   "id": 7981,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/19489.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 2586,
   "createdAt": "2020-10-12T15:38:57.000Z",
-  "updatedAt": "2021-04-28T20:50:01.000Z",
+  "updatedAt": "2021-10-02T02:35:25.000Z",
   "deletedAt": null,
   "Pages": {}
 }

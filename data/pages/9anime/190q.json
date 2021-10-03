@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tenchi-web.com/2004/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=358"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=312"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tenchi_Muyo%21_GXP"
+      }
+    ],
     "altTitle": [
-      "Tenchi Muyou, Tenchi Muyo! GXP",
+      "Tenchi Muyou",
+      "Tenchi Muyo! GXP",
       "天地無用! GXP"
     ],
     "id": 1133,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/20295.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 358,
     "createdAt": "2020-10-12T15:38:13.000Z",
-    "updatedAt": "2021-04-26T12:28:01.000Z",
+    "updatedAt": "2021-09-30T20:01:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

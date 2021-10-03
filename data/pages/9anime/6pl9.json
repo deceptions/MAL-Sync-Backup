@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4701"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1448"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ninpen_Manmaru"
+      }
+    ],
     "altTitle": [
       "Manmaru the Ninja Penguin",
       "忍ペンまん丸"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/66675.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4701,
     "createdAt": "2020-10-12T15:39:02.000Z",
-    "updatedAt": "2021-04-29T02:49:01.000Z",
+    "updatedAt": "2021-10-02T06:02:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

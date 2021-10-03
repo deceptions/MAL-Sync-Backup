@@ -15,9 +15,28 @@
   "updatedAt": "2021-06-04T18:18:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tms-e.com/library/old/tv/data/t_karate.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5492"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=203"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Karate_Master"
+      }
+    ],
     "altTitle": [
       "Karate Master",
-      "Ichidai the Karate Fool, The Fanatical Karate Generation",
+      "Ichidai the Karate Fool",
+      "The Fanatical Karate Generation",
       "空手バカ一代"
     ],
     "id": 7479,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/59007.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5492,
     "createdAt": "2021-02-14T12:05:54.000Z",
-    "updatedAt": "2021-06-04T17:51:37.000Z",
+    "updatedAt": "2021-10-02T01:32:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

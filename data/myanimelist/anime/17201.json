@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3992"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4578"
+    }
+  ],
   "altTitle": [
     "刻の大地 ～花の王国の魔女～"
   ],
@@ -9,8 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1780/97622.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 3992,
   "createdAt": "2020-10-12T15:39:18.000Z",
-  "updatedAt": "2021-04-29T18:49:22.000Z",
+  "updatedAt": "2021-10-02T17:06:34.000Z",
   "deletedAt": null,
   "Pages": {}
 }

@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://akame.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10407"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15919"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Akame_ga_Kill"
+      }
+    ],
     "altTitle": [
       "Akame ga Kill!",
       "Akame ga Kiru!",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10407,
     "createdAt": "2020-10-12T15:39:25.000Z",
-    "updatedAt": "2021-09-27T16:41:44.000Z",
+    "updatedAt": "2021-10-01T20:01:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

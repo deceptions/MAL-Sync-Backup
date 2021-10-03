@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.shuffle-tv.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2844"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5375"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Shuffle%21"
+      }
+    ],
     "altTitle": [
       "Shuffle!",
       "SHUFFLE! (シャッフル!)"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/19622.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2844,
     "createdAt": "2020-10-12T15:37:59.000Z",
-    "updatedAt": "2021-09-29T08:03:13.000Z",
+    "updatedAt": "2021-09-30T10:33:32.000Z",
     "deletedAt": null
   },
   "Anilist": {

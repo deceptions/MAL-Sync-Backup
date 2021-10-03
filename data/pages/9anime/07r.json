@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://akb0048.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8816"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13805"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/AKB0048"
+      }
+    ],
     "altTitle": [
       "AKB0048",
       "AKB0048: First Stage",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/74157.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8816,
     "createdAt": "2020-10-12T15:39:10.000Z",
-    "updatedAt": "2021-09-29T08:37:10.000Z",
+    "updatedAt": "2021-10-02T11:35:32.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,6 +1,25 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.pico.bz/top.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4544"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11326"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Boku_no_Pico#pico.7E_Boku_no_Chiisana_Natsu_Monogatari"
+    }
+  ],
   "altTitle": [
-    "Boku no Pico OVA 3, Boku no Piko",
+    "Boku no Pico OVA 3",
+    "Boku no Piko",
     "ぴこ×CoCo×ちこ"
   ],
   "id": 4866,
@@ -10,8 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1123/103844.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 4544,
   "createdAt": "2020-10-12T15:38:44.000Z",
-  "updatedAt": "2021-04-28T05:48:50.000Z",
+  "updatedAt": "2021-10-01T17:35:54.000Z",
   "deletedAt": null,
   "Pages": {}
 }

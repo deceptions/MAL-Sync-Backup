@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://ballroom-official.jp"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12700"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18982"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%AB%E3%83%BC%E3%83%A0%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D"
+      }
+    ],
     "altTitle": [
       "Welcome to the Ballroom",
       "ボールルームへようこそ"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/86739.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 12700,
     "createdAt": "2020-10-12T15:39:51.000Z",
-    "updatedAt": "2021-09-28T11:03:53.000Z",
+    "updatedAt": "2021-10-01T08:03:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

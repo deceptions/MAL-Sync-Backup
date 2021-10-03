@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1631"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3475"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ashita_No_Joe"
+    }
+  ],
   "altTitle": [
     "あしたのジョー (1980)"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/51837.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 1631,
   "createdAt": "2020-10-12T15:38:34.000Z",
-  "updatedAt": "2021-08-15T23:37:14.000Z",
+  "updatedAt": "2021-10-01T09:37:38.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8586"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13298"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/IS_(Infinite_Stratos)"
+      }
+    ],
     "altTitle": [
       "IS: Infinite Stratos Encore - Koi ni Kogareru Sextet",
       "IS 〈インフィニット・ストラトス〉 アンコール『恋に焦がれる六重奏』"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/56161.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 8586,
     "createdAt": "2020-10-12T15:39:07.000Z",
-    "updatedAt": "2021-08-04T05:47:32.000Z",
+    "updatedAt": "2021-10-01T20:02:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

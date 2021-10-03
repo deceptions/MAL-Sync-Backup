@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3358"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5379"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Sensualist"
+    }
+  ],
   "altTitle": [
     "The Sensualist",
     "The Life of an Amorous Man",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/6/23790.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 3358,
   "createdAt": "2020-10-12T15:38:49.000Z",
-  "updatedAt": "2021-04-28T10:49:10.000Z",
+  "updatedAt": "2021-10-01T20:41:05.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=103"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1809"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kaze_no_Yojimbo"
+      }
+    ],
     "altTitle": [
       "Kaze no Yojimbo",
-      "Bodyguard of the Wind, Kaze no Youjimbo",
+      "Bodyguard of the Wind",
+      "Kaze no Youjimbo",
       "旋風の用心棒"
     ],
     "id": 1145,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/67573.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 103,
     "createdAt": "2020-10-12T15:38:13.000Z",
-    "updatedAt": "2021-05-14T09:25:21.000Z",
+    "updatedAt": "2021-09-30T20:03:39.000Z",
     "deletedAt": null
   },
   "Anilist": {

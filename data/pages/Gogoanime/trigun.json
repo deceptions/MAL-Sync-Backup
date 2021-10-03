@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=396"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=53"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=88"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Trigun"
+      }
+    ],
     "altTitle": [
       "Trigun",
       "トライガン"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/20310.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 53,
     "createdAt": "2020-10-12T15:37:58.000Z",
-    "updatedAt": "2021-06-02T11:02:15.000Z",
+    "updatedAt": "2021-09-30T10:02:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

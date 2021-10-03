@@ -1,7 +1,26 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.fujitv.co.jp/b_hp/atom/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=807"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1962"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Astro_boy"
+    }
+  ],
   "altTitle": [
     "Astro Boy (2003)",
-    "Astroboy, Astro Boy (2003)",
+    "Astroboy",
+    "Astro Boy (2003)",
     "アストロボーイ・鉄腕アトム"
   ],
   "id": 971,
@@ -11,8 +30,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1611/94026.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 807,
   "createdAt": "2020-10-12T15:38:10.000Z",
-  "updatedAt": "2021-06-05T12:19:27.000Z",
+  "updatedAt": "2021-09-30T18:31:42.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

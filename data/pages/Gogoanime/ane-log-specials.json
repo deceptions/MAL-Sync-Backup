@@ -15,9 +15,26 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.butaro.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7622"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/MM!"
+      }
+    ],
     "altTitle": [
       "MM! Hidden Camera Shorts",
-      "MM! Hidden Cam, MM! SS!, MM! Group, Emu Emu!",
+      "MM! Hidden Cam",
+      "MM! SS!",
+      "MM! Group",
+      "Emu Emu!",
       "えむえむっ! えすえすっ！"
     ],
     "id": 9581,
@@ -27,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/26547.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 7622,
     "createdAt": "2020-10-12T15:39:02.000Z",
-    "updatedAt": "2021-05-23T00:12:58.000Z",
+    "updatedAt": "2021-10-02T06:08:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

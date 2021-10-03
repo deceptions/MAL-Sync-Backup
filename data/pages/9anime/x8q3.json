@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=49"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=303"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Love_Hina"
+      }
+    ],
     "altTitle": [
       "Love Hina Again",
       "ラブ ひな Again"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/10289.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 49,
     "createdAt": "2020-10-12T15:38:00.000Z",
-    "updatedAt": "2021-09-04T07:46:37.000Z",
+    "updatedAt": "2021-09-30T11:34:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

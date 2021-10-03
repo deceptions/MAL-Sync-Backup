@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=471"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1030"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ys_(anime)"
+    }
+  ],
   "altTitle": [
     "Ys II: Castle in the Heavens",
     "Ys II",
@@ -12,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1984/110828.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 471,
   "createdAt": "2020-10-12T15:38:15.000Z",
-  "updatedAt": "2021-06-29T08:40:15.000Z",
+  "updatedAt": "2021-09-30T21:06:55.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

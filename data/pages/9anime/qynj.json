@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7935"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%8D%84%E5%A0%82%E9%9C%8A%E7%95%8C%E9%80%9A%E4%BF%A1"
+      }
+    ],
     "altTitle": [
       "Hell Hall-Spirit World Communication",
       "地獄堂霊界通信"
@@ -23,11 +33,12 @@
     "type": "anime",
     "title": "Jigokudou Reikai Tsuushin",
     "url": "https://myanimelist.net/anime/9824/Jigokudou_Reikai_Tsuushin",
-    "image": "https://cdn.myanimelist.net/images/anime/11/27198.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1217/112682.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 7935,
     "createdAt": "2020-10-12T15:39:03.000Z",
-    "updatedAt": "2021-04-29T04:19:03.000Z",
+    "updatedAt": "2021-10-02T06:38:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1647"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=496"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Virtua_Fighter_%28anime%29"
+      }
+    ],
     "altTitle": [
       "バーチャファイター"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1234/110241.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1647,
     "createdAt": "2020-10-12T15:38:10.000Z",
-    "updatedAt": "2021-07-19T14:04:51.000Z",
+    "updatedAt": "2021-09-30T18:09:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://ganime.jp/torinouta/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4855"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7440"
+      }
+    ],
     "altTitle": [
-      "Bird's Song; Bird's Poem",
+      "Bird's Song",
+      "Bird's Poem",
       "鳥の歌"
     ],
     "id": 5819,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/81195.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4855,
     "createdAt": "2020-10-12T15:38:48.000Z",
-    "updatedAt": "2021-04-28T10:18:31.000Z",
+    "updatedAt": "2021-10-01T20:32:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

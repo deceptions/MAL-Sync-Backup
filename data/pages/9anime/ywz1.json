@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=483"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2140"
+      }
+    ],
     "altTitle": [
       "Lensman: Power of the Lens",
       "GALACTIC PATROL　レンズマン"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1278/105917.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 483,
     "createdAt": "2020-10-12T15:38:32.000Z",
-    "updatedAt": "2021-04-27T13:49:10.000Z",
+    "updatedAt": "2021-10-01T09:03:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

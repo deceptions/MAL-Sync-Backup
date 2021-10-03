@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sasameki.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6462"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10701"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sasameki_Koto"
+      }
+    ],
     "altTitle": [
       "Whispered Words",
-      "Sasamekikoto, Sasame Kikoto",
+      "Sasamekikoto",
+      "Sasame Kikoto",
       "ささめきこと"
     ],
     "id": 6203,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/75225.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 6462,
     "createdAt": "2020-10-12T15:38:50.000Z",
-    "updatedAt": "2021-05-21T17:43:58.000Z",
+    "updatedAt": "2021-10-01T21:39:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

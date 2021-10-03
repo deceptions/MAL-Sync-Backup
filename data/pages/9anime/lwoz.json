@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.jcstaff.co.jp/sho-sai/kon-shokai/ko-index.htm"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8749"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7410"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Konpeki_no_Kantai"
+      }
+    ],
     "altTitle": [
-      "Kompeki no Kantai Special Episode: Development of the Sorai, Konpeki no Kantai Tokubetsu Hen: Sourai Kaihatsu Monogatari",
+      "Kompeki no Kantai Special Episode: Development of the Sorai",
+      "Konpeki no Kantai Tokubetsu Hen: Sourai Kaihatsu Monogatari",
       "紺碧の艦隊 特別編 蒼莱開発物語"
     ],
     "id": 10335,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/28412.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 8749,
     "createdAt": "2020-10-12T15:39:05.000Z",
-    "updatedAt": "2021-04-29T06:19:21.000Z",
+    "updatedAt": "2021-10-02T08:09:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

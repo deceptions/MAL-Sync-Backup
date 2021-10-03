@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kemeko.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5578"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9011"
+    }
+  ],
   "altTitle": [
-    "The Unknown Girlfriend, Kemeko DX",
+    "The Unknown Girlfriend",
+    "Kemeko DX",
     "ケメコデラックス！"
   ],
   "id": 3464,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/3/75538.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 5578,
   "createdAt": "2020-10-12T15:38:38.000Z",
-  "updatedAt": "2021-06-04T18:18:58.000Z",
+  "updatedAt": "2021-10-01T12:33:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

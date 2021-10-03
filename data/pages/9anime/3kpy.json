@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1156"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1515"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Twin_Signal"
+      }
+    ],
     "altTitle": [
       "Twin Signal",
       "TWIN SIGNAL~ファミリーゲーム~"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/65095.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1156,
     "createdAt": "2020-10-12T15:38:23.000Z",
-    "updatedAt": "2021-04-27T00:19:40.000Z",
+    "updatedAt": "2021-10-01T02:11:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

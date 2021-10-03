@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=162"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2401"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Bismark_(anime)"
+    }
+  ],
   "altTitle": [
     "Saber Rider and the Star Sheriffs",
     "Sei Juushi Bismark",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/24921.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 162,
   "createdAt": "2020-10-12T15:38:28.000Z",
-  "updatedAt": "2021-08-17T09:37:10.000Z",
+  "updatedAt": "2021-10-01T06:04:14.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

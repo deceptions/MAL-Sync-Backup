@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.eiken-anime.jp/works/works008.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1821"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2366"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/遊星仮面"
+      }
+    ],
     "altTitle": [
-      "Asteroid Mask, Planetary Mask",
+      "Asteroid Mask",
+      "Planetary Mask",
       "遊星仮面"
     ],
     "id": 12767,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/56383.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1821,
     "createdAt": "2020-10-12T15:39:11.000Z",
-    "updatedAt": "2021-04-29T12:18:40.000Z",
+    "updatedAt": "2021-10-02T12:33:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

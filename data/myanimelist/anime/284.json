@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1306"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3149"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Area_88"
+    }
+  ],
   "altTitle": [
     "Area 88 (2004)",
     "エリア８８"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/75571.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1306,
   "createdAt": "2020-10-12T15:38:02.000Z",
-  "updatedAt": "2021-04-25T23:57:33.000Z",
+  "updatedAt": "2021-09-30T12:32:02.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

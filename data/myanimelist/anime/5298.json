@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5739"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Yu-Gi-Oh!_5D%27s"
+    }
+  ],
   "altTitle": [
     "Yu-Gi-Oh! 5D's: Evolving Duel! Stardust vs. Red Daemon's",
     "遊☆戯☆王5D's 進化する決闘! スターダストVSレッド・デーモンズ"
@@ -10,8 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/10786.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 5739,
   "createdAt": "2020-10-12T15:38:47.000Z",
-  "updatedAt": "2021-04-28T07:50:01.000Z",
+  "updatedAt": "2021-10-01T19:04:13.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

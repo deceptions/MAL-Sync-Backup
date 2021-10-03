@@ -1,7 +1,24 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=216"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=756"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tekkaman_Blade_II"
+    }
+  ],
   "altTitle": [
     "Tekkaman Blade II",
-    "Tekkaman Blade 2, Space Knight Tekkaman Blade 2, Space Knight Tekkaman Blade OVA, Uchu no Kishi Tekkaman Blade OVA",
+    "Tekkaman Blade 2",
+    "Space Knight Tekkaman Blade 2",
+    "Space Knight Tekkaman Blade OVA",
+    "Uchu no Kishi Tekkaman Blade OVA",
     "宇宙の騎士テッカマンブレード II"
   ],
   "id": 1460,
@@ -11,8 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1521/96191.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 216,
   "createdAt": "2020-10-12T15:38:17.000Z",
-  "updatedAt": "2021-04-26T17:48:40.000Z",
+  "updatedAt": "2021-09-30T22:35:35.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

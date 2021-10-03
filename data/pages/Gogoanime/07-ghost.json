@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://07-ghost.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6239"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10468"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/07_Ghost"
+      }
+    ],
     "altTitle": [
       "07-Ghost",
       "07 Ghost",
@@ -30,8 +48,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/22605.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 6239,
     "createdAt": "2020-10-12T15:38:47.000Z",
-    "updatedAt": "2021-09-10T18:34:36.000Z",
+    "updatedAt": "2021-10-01T19:36:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

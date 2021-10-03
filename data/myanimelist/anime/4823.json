@@ -1,7 +1,23 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4334"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6541"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Humanoid_Monster_Bem"
+    }
+  ],
   "altTitle": [
     "Humanoid Monster Bem",
-    "Youkai Ningen Bemu, Yokai Ningen Bem, Humanoid Monster Bem (TV 2)",
+    "Youkai Ningen Bemu",
+    "Yokai Ningen Bem",
+    "Humanoid Monster Bem (TV 2)",
     "妖怪人間ベム"
   ],
   "id": 4823,
@@ -11,8 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/12183.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 4334,
   "createdAt": "2020-10-12T15:38:44.000Z",
-  "updatedAt": "2021-04-28T05:19:50.000Z",
+  "updatedAt": "2021-10-01T17:34:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

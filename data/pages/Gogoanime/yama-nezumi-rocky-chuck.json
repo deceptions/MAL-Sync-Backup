@@ -15,9 +15,26 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2309"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=432"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Fables_of_the_Green_Forest"
+      }
+    ],
     "altTitle": [
       "Fables of the Green Forest",
-      "Rocky Chuck the Mountain Rat, Rocky Chuck the Woodchuck, Peter Conttontail in The Green Forest, Peter Cottontail and Friends",
+      "Rocky Chuck the Mountain Rat",
+      "Rocky Chuck the Woodchuck",
+      "Peter Conttontail in The Green Forest",
+      "Peter Cottontail and Friends",
       "山ねずみ ロッキーチャック"
     ],
     "id": 4615,
@@ -27,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/56399.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2309,
     "createdAt": "2020-10-12T15:38:44.000Z",
-    "updatedAt": "2021-04-28T04:19:21.000Z",
+    "updatedAt": "2021-10-01T17:02:32.000Z",
     "deletedAt": null
   },
   "Anilist": {

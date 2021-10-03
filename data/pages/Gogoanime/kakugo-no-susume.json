@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=928"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Apocalypse_Zero#OVA"
+      }
+    ],
     "altTitle": [
       "Apocalypse Zero",
       "覚悟のススメ"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/16230.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 928,
     "createdAt": "2020-10-12T15:38:19.000Z",
-    "updatedAt": "2021-08-20T22:16:16.000Z",
+    "updatedAt": "2021-10-01T00:06:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

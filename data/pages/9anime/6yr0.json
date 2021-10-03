@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=169"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=24"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3532"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/.hack//Sign"
+      }
+    ],
     "altTitle": [
-      ".hack//Another Story, .hack//SIGN Episode 27",
+      ".hack//Another Story",
+      ".hack//SIGN Episode 27",
       ".hack//Intermezzo"
     ],
     "id": 1143,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/66499.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 24,
     "createdAt": "2020-10-12T15:38:13.000Z",
-    "updatedAt": "2021-04-15T11:45:28.000Z",
+    "updatedAt": "2021-09-30T20:03:19.000Z",
     "deletedAt": null
   },
   "Anilist": {

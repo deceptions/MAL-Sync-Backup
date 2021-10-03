@@ -1,4 +1,5 @@
 {
+  "externalLinks": [],
   "altTitle": [
     "外天楼"
   ],
@@ -13,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:48.000Z",
-  "updatedAt": "2021-05-05T10:32:31.000Z",
+  "updatedAt": "2021-10-03T01:01:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +36,28 @@
         "aniId": 64029,
         "createdAt": "2020-10-12T16:03:38.000Z",
         "updatedAt": "2021-06-02T15:24:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ng965115": {
+        "authors": [
+          "Ishiguro Masakazu"
+        ],
+        "identifier": "manga-ng965115",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Getenrou",
+        "url": "https://readmanganato.com/manga-ng965115",
+        "image": "https://avt.mkklcdnv6temp.com/2/m/10-1583482267.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34029,
+        "aniId": null,
+        "createdAt": "2021-10-03T01:01:03.000Z",
+        "updatedAt": "2021-10-03T01:01:23.000Z",
         "deletedAt": null
       }
     }

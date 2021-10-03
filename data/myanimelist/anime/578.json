@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=332"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=152"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Grave_of_the_fireflies"
+    }
+  ],
   "altTitle": [
     "Grave of the Fireflies",
     "Tombstone for Fireflies",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/75808.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 332,
   "createdAt": "2020-10-12T15:38:06.000Z",
-  "updatedAt": "2021-09-27T08:42:47.000Z",
+  "updatedAt": "2021-09-30T15:07:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

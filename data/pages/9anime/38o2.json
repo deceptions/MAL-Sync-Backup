@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.yattereiga.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6536"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10848"
+      }
+    ],
     "altTitle": [
-      "Gekijouban Yatterman: Shin Yattermecha Osu gou! Omocha no Kuni de Dai Ketsudan da Koron, Yatterman (movie 2009)",
+      "Gekijouban Yatterman: Shin Yattermecha Osu gou! Omocha no Kuni de Dai Ketsudan da Koron",
+      "Yatterman (movie 2009)",
       "劇場版 ヤッターマン 新ヤッターメカ大集合！ オモチャの国で大決断だコロン！"
     ],
     "id": 6693,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/22013.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 6536,
     "createdAt": "2020-10-12T15:38:52.000Z",
-    "updatedAt": "2021-04-28T14:19:20.000Z",
+    "updatedAt": "2021-10-01T23:05:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

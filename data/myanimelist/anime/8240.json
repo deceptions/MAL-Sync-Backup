@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2343"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1431"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kum-Kum"
+    }
+  ],
   "altTitle": [
     "Kum Kum",
-    "Wanpaku Omukashi Kumu Kumu, Naughty Prehistoric Kum Kum",
+    "Wanpaku Omukashi Kumu Kumu",
+    "Naughty Prehistoric Kum Kum",
     "わんぱく大昔クムクム"
   ],
   "id": 8240,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/65433.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 2343,
   "createdAt": "2020-10-12T15:38:58.000Z",
-  "updatedAt": "2021-04-28T22:18:51.000Z",
+  "updatedAt": "2021-10-02T03:07:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

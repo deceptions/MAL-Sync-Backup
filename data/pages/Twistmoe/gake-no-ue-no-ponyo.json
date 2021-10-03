@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ghibli.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5107"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7814"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ponyo"
+      }
+    ],
     "altTitle": [
       "Ponyo",
       "Ponyo on the Cliff by the Sea",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/8970.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 5107,
     "createdAt": "2020-10-12T15:38:33.000Z",
-    "updatedAt": "2021-08-13T12:37:05.000Z",
+    "updatedAt": "2021-10-01T09:34:58.000Z",
     "deletedAt": null
   },
   "Anilist": {

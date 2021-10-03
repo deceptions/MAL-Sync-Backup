@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://cgi2.nhk.or.jp/minna/search/index.cgi?id=MIN200602_01"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8456"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hanako_Oku"
+    }
+  ],
   "altTitle": [
     "Minna no Uta",
     "恋つぼみ"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/20527.jpg",
   "category": "Music",
   "hentai": false,
+  "anidbId": 8456,
   "createdAt": "2020-10-12T15:38:55.000Z",
-  "updatedAt": "2021-04-28T18:18:51.000Z",
+  "updatedAt": "2021-10-02T01:03:47.000Z",
   "deletedAt": null,
   "Pages": {}
 }

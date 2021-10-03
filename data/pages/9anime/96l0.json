@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.bs4.jp/nekop/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10593"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%8C%AB%E3%83%94%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC"
+      }
+    ],
     "altTitle": [
       "猫ピッチャー"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/61473.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10593,
     "createdAt": "2020-10-12T15:39:27.000Z",
-    "updatedAt": "2021-04-30T03:48:42.000Z",
+    "updatedAt": "2021-10-02T23:31:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7686"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=719"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Project_A-ko_4:_FINAL"
+    }
+  ],
   "altTitle": [
     "Project A-ko: Love & Robots",
-    "Project A-Ko: Kanketsuron, Project A-Ko: Love and Robots",
+    "Project A-Ko: Kanketsuron",
+    "Project A-Ko: Love and Robots",
     "プロジェクトA子 -FINAL-"
   ],
   "id": 1298,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/29212.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 7686,
   "createdAt": "2020-10-12T15:38:15.000Z",
-  "updatedAt": "2021-04-26T15:12:10.000Z",
+  "updatedAt": "2021-09-30T21:32:03.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

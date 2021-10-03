@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://date-a-bullet.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15100"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23706"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Date_A_Live_Fragment:_Date_A_Bullet#Anime_film"
+      }
+    ],
     "altTitle": [
       "Date A Live Fragment: Date A Bullet",
       "デート・ア・バレット デッド・オア・バレット"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1984/108425.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 15100,
     "createdAt": "2020-10-12T15:40:12.000Z",
-    "updatedAt": "2021-06-10T08:05:05.000Z",
+    "updatedAt": "2021-10-01T02:07:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://bokurano.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4861"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7213"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Bokurano"
+      }
+    ],
     "altTitle": [
       "Bokurano",
       "Bokurano: Ours",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1690/97048.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4861,
     "createdAt": "2020-10-12T15:38:20.000Z",
-    "updatedAt": "2021-06-20T04:21:00.000Z",
+    "updatedAt": "2021-10-01T00:36:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=197"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=615"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/index.html?curid=1590113"
+      }
+    ],
     "altTitle": [
       "Iria: Zeiram The Animation",
       "イ・リ・ア ゼイラム The Animation"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1193/112905.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 197,
     "createdAt": "2020-10-12T15:38:04.000Z",
-    "updatedAt": "2021-09-07T04:04:31.000Z",
+    "updatedAt": "2021-09-30T13:38:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

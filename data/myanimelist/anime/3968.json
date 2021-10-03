@@ -1,7 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=614"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=584"
+    }
+  ],
   "altTitle": [
     "Dragoon",
-    "Ryuki Denshou, Ryuuki Denshou",
+    "Ryuki Denshou",
+    "Ryuuki Denshou",
     "竜機伝承"
   ],
   "id": 3968,
@@ -11,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1168/112113.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 614,
   "createdAt": "2020-10-12T15:38:41.000Z",
-  "updatedAt": "2021-04-28T00:48:50.000Z",
+  "updatedAt": "2021-10-01T14:39:26.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

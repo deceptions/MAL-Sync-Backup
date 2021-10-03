@@ -1,4 +1,10 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://cheese.shogakukan.co.jp/category/toma_rei_002/"
+    }
+  ],
   "altTitle": [
     "The King's Beast",
     "王の獣～掩蔽のアルカナ～"
@@ -14,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:11.000Z",
-  "updatedAt": "2021-05-25T00:08:28.000Z",
+  "updatedAt": "2021-10-02T18:34:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +42,28 @@
         "aniId": 107544,
         "createdAt": "2020-10-12T16:17:17.000Z",
         "updatedAt": "2021-06-07T06:30:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fn983196": {
+        "authors": [
+          "Rei Toma"
+        ],
+        "identifier": "manga-fn983196",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "King's Beast",
+        "url": "https://manganato.com/manga-fn983196",
+        "image": "https://avt.mkklcdnv6temp.com/29/p/19-1583500257.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123397,
+        "aniId": 107544,
+        "createdAt": "2021-10-02T18:33:47.000Z",
+        "updatedAt": "2021-10-02T19:00:52.000Z",
         "deletedAt": null
       }
     }

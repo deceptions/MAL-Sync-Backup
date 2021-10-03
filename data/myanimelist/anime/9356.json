@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2655"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3324"
+    }
+  ],
   "altTitle": [
     "クール・クール・バイ"
   ],
@@ -9,8 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/54531.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 2655,
   "createdAt": "2020-10-12T15:39:02.000Z",
-  "updatedAt": "2021-04-11T10:52:09.000Z",
+  "updatedAt": "2021-10-02T05:36:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=840"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2042"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Idol_Defense_Force_Hummingbird"
+      }
+    ],
     "altTitle": [
       "Hummingbirds",
-      "Idol Defense Force Hummingbird, Idol Boueitai Hummingbird",
+      "Idol Defense Force Hummingbird",
+      "Idol Boueitai Hummingbird",
       "アイドル防衛隊ハミングバード"
     ],
     "id": 2465,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/44085.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 840,
     "createdAt": "2020-10-12T15:38:29.000Z",
-    "updatedAt": "2021-04-27T08:49:40.000Z",
+    "updatedAt": "2021-10-01T06:35:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

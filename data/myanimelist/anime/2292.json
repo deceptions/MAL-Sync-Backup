@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1275"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=682"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Adventure!_Iczer_3"
+    }
+  ],
   "altTitle": [
     "Iczer Reborn",
     "Adventures With Iczer 3",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/50033.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 1275,
   "createdAt": "2020-10-12T15:38:28.000Z",
-  "updatedAt": "2021-04-27T06:49:40.000Z",
+  "updatedAt": "2021-10-01T05:35:18.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

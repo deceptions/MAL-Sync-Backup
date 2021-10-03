@@ -15,9 +15,29 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.busourenkin.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4516"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6601"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Buso_Renkin"
+      }
+    ],
     "altTitle": [
       "Buso Renkin",
-      "BoRe, BuRe, Arms Alchemy",
+      "BoRe",
+      "BuRe",
+      "Arms Alchemy",
       "武装錬金"
     ],
     "id": 1536,
@@ -27,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/75566.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4516,
     "createdAt": "2020-10-12T15:38:18.000Z",
-    "updatedAt": "2021-04-15T12:45:27.000Z",
+    "updatedAt": "2021-09-30T23:06:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

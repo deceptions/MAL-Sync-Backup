@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7963"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2840"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Maison_Ikkoku"
+      }
+    ],
     "altTitle": [
       "Maison Ikkoku: Four Seasons Through the Passing Seasons",
       "Maison Ikkoku: Through the Passing of the Seasons",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/30539.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 7963,
     "createdAt": "2020-10-12T15:38:38.000Z",
-    "updatedAt": "2021-06-14T05:39:45.000Z",
+    "updatedAt": "2021-10-01T12:36:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

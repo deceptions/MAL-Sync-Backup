@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.liverp.co.jp/otari-man/otari-man.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7318"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%BC%E3%81%8F%E3%80%81%E3%82%AA%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3%E3%80%82"
+      }
+    ],
     "altTitle": [
       "ぼく、オタリーマン。"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/19796.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 7318,
     "createdAt": "2020-10-12T15:38:56.000Z",
-    "updatedAt": "2021-04-28T19:49:00.000Z",
+    "updatedAt": "2021-10-02T01:38:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

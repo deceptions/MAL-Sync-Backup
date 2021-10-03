@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4512"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9423"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Joe_vs_Joe"
+    }
+  ],
   "altTitle": [
     "Joe vs Joe",
     "Joe vs. Joe",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/8086.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 4512,
   "createdAt": "2020-10-12T15:38:42.000Z",
-  "updatedAt": "2021-06-12T07:08:25.000Z",
+  "updatedAt": "2021-10-01T16:04:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

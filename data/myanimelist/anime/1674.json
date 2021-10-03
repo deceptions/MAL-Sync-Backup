@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=507"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1782"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Captain_Tsubasa"
+    }
+  ],
   "altTitle": [
     "キャプテン翼Ｊ"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1140/92113.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 507,
   "createdAt": "2020-10-12T15:38:20.000Z",
-  "updatedAt": "2021-08-23T16:07:24.000Z",
+  "updatedAt": "2021-10-01T00:32:22.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,9 +15,27 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.hunter-ova.com/ova2/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=545"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2282"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Special:Search/Hunter_x_Hunter"
+      }
+    ],
     "altTitle": [
       "Hunter X Hunter OVA 2",
-      "ハンターｘハンター: Greed Island"
+      "HUNTER×HUNTER Greed Island"
     ],
     "id": 138,
     "type": "anime",
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/37203.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 545,
     "createdAt": "2020-10-12T15:38:00.000Z",
-    "updatedAt": "2021-07-04T03:44:46.000Z",
+    "updatedAt": "2021-09-30T11:05:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

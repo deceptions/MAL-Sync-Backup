@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2245"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1516"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Swan_Lake_%281981_film%29"
+    }
+  ],
   "altTitle": [
     "Swan Lake",
     "世界名作童話 白鳥の湖"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/5005.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 2245,
   "createdAt": "2020-10-12T15:38:36.000Z",
-  "updatedAt": "2021-08-25T02:37:38.000Z",
+  "updatedAt": "2021-10-01T11:08:06.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

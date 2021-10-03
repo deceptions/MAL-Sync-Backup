@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.project-index.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7599"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/List_of_Toaru_Majutsu_no_Index_episodes#Toaru_Majutsu_no_Index-tan"
+      }
+    ],
     "altTitle": [
       "A Certain Magical Index II: Specials",
       "Toaru Majutsu no Index-tan II Specials",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/28233.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 7599,
     "createdAt": "2020-10-12T15:39:05.000Z",
-    "updatedAt": "2021-07-22T19:35:13.000Z",
+    "updatedAt": "2021-10-02T08:05:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

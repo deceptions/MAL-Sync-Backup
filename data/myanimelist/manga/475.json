@@ -1,7 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%BC%E3%83%81%E3%82%AC%E3%83%BC%E3%83%AB"
+    }
+  ],
   "altTitle": [
     "Peach Girl",
-    "Peach Girl: Change of Heart, Peach Girl: Authentic",
+    "Peach Girl: Change of Heart",
+    "Peach Girl: Authentic",
     "ピーチガール"
   ],
   "authors": [
@@ -15,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:22.000Z",
-  "updatedAt": "2021-05-21T20:43:18.000Z",
+  "updatedAt": "2021-10-02T23:31:12.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +44,28 @@
         "aniId": 30475,
         "createdAt": "2020-10-12T16:09:29.000Z",
         "updatedAt": "2021-06-04T17:57:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "peach-girl": {
+        "authors": [
+          "UEDA Miwa"
+        ],
+        "identifier": "peach-girl",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Peach Girl",
+        "url": "https://mangasee123.com/manga/Peach-Girl",
+        "image": "https://cover.nep.li/cover/Peach-Girl.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 475,
+        "aniId": 30475,
+        "createdAt": "2021-10-02T23:30:56.000Z",
+        "updatedAt": "2021-10-03T00:00:52.000Z",
         "deletedAt": null
       }
     }

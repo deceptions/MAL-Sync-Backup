@@ -15,8 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://ribon.shueisha.co.jp/ohasta/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10367"
+      }
+    ],
     "altTitle": [
-      "Ribon Festa 2014, Ribbon Festa 2014, Tsubasa and Hotaru",
+      "Ribon Festa 2014",
+      "Ribbon Festa 2014",
+      "Tsubasa and Hotaru",
       "つばさとホタル"
     ],
     "id": 21781,
@@ -26,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/59507.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 10367,
     "createdAt": "2020-10-12T15:39:24.000Z",
-    "updatedAt": "2021-04-12T20:46:07.000Z",
+    "updatedAt": "2021-10-02T21:32:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:56.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3127"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7398"
+      }
+    ],
     "altTitle": [
       "Blue Seed Ver. 1.5 [Premium]",
       "ブルーシード 1.5"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/26709.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3127,
     "createdAt": "2020-10-27T11:10:49.000Z",
-    "updatedAt": "2021-04-27T11:19:51.000Z",
+    "updatedAt": "2021-10-01T14:38:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3389"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5979"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Itsudatte_My_Santa"
+    }
+  ],
   "altTitle": [
     "Itsudatte My Santa!",
-    "Watashi no Santa, Always My Santa",
+    "Watashi no Santa",
+    "Always My Santa",
     "いつだってMyサンタ！"
   ],
   "id": 588,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/2902.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 3389,
   "createdAt": "2020-10-12T15:38:06.000Z",
-  "updatedAt": "2021-06-04T23:18:58.000Z",
+  "updatedAt": "2021-09-30T15:08:45.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

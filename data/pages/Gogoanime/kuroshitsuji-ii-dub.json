@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kuroshitsuji.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7369"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11265"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Black_Butler"
+      }
+    ],
     "altTitle": [
       "Black Butler II",
-      "Kuroshitsuji 2, Black Butler 2",
+      "Kuroshitsuji 2",
+      "Black Butler 2",
       "黒執事II"
     ],
     "id": 6707,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/50499.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 7369,
     "createdAt": "2020-10-12T15:38:52.000Z",
-    "updatedAt": "2021-04-05T19:38:16.000Z",
+    "updatedAt": "2021-10-01T23:05:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

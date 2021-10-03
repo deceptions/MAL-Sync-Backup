@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=27"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=53"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Oh_My_Goddess!"
+    }
+  ],
   "altTitle": [
     "Oh! My Goddess",
     "Ah! My Goddess (OVA)",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/71215.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 27,
   "createdAt": "2020-10-12T15:37:58.000Z",
-  "updatedAt": "2021-09-06T03:45:47.000Z",
+  "updatedAt": "2021-09-30T10:06:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

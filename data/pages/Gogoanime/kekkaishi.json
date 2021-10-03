@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sunrise-inc.co.jp/kekkaishi/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4574"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6806"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kekkaishi"
+      }
+    ],
     "altTitle": [
       "Kekkaishi",
       "Barrier Master",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/75191.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4574,
     "createdAt": "2020-10-12T15:38:19.000Z",
-    "updatedAt": "2021-08-01T09:48:16.000Z",
+    "updatedAt": "2021-09-30T23:40:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

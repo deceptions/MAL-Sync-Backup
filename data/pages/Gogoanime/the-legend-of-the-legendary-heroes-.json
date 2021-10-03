@@ -15,9 +15,30 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.denyuden.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7315"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11250"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Densetsu_no_Y%C5%ABsha_no_Densetsu"
+      }
+    ],
     "altTitle": [
       "The Legend of the Legendary Heroes",
-      "DenYuDen, DenYuuDen, Densetsu no Yusha no Densetsu, LOLH",
+      "DenYuDen",
+      "DenYuuDen",
+      "Densetsu no Yusha no Densetsu",
+      "LOLH",
       "伝説の勇者の伝説"
     ],
     "id": 8086,
@@ -27,8 +48,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/73651.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 7315,
     "createdAt": "2020-10-12T15:38:57.000Z",
-    "updatedAt": "2021-06-03T08:30:54.000Z",
+    "updatedAt": "2021-10-02T02:39:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

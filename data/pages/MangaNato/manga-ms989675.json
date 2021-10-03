@@ -12,13 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 139556,
   "createdAt": "2021-09-21T05:11:15.000Z",
-  "updatedAt": "2021-09-21T05:11:24.000Z",
+  "updatedAt": "2021-10-02T22:36:13.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "나를 사랑하지 않는 그대에게",
+      "To You Who Do Not Love Me"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yeonseo",
+      "Ppada",
+      "Seol-On Han",
+      "saebyeok"
+    ],
+    "id": 139556,
+    "malId": null,
+    "type": "manga",
+    "title": "Nareul Saranghaji Anneun Geudaeege",
+    "url": "https://anilist.co/manga/139556",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139556-XVcYyrVDwn1m.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-23T11:40:55.000Z",
+    "updatedAt": "2021-09-23T11:40:55.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

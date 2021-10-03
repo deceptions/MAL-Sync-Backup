@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://blue-drop.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5383"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8265"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Blue_Drop#Anime"
+      }
+    ],
     "altTitle": [
       "Blue Drop",
       "Blue Drop: Tenshitachi no Gikyoku",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/50485.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5383,
     "createdAt": "2020-10-12T15:38:34.000Z",
-    "updatedAt": "2021-04-27T15:48:50.000Z",
+    "updatedAt": "2021-10-01T10:04:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

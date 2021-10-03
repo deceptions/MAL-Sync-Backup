@@ -15,6 +15,12 @@
   "updatedAt": "2019-10-12T16:02:23.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7775"
+      }
+    ],
     "altTitle": [
       "Hello Kitty in Heidi",
       "Hello Kitty and Friends: Heidi",
@@ -27,8 +33,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/58661.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 7775,
     "createdAt": "2020-10-12T15:39:25.000Z",
-    "updatedAt": "2021-04-30T01:19:34.000Z",
+    "updatedAt": "2021-10-02T22:04:26.000Z",
     "deletedAt": null
   },
   "Anilist": null,

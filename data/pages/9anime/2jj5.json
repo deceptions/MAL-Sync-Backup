@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2887"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=528"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Blue_Sonnet"
+      }
+    ],
     "altTitle": [
       "Blue Sonnet",
-      "Akai Kiba, Red Fang Blue Sonnet",
+      "Akai Kiba",
+      "Red Fang Blue Sonnet",
       "紅い牙 ブルー・ソネット"
     ],
     "id": 2051,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/41071.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2887,
     "createdAt": "2020-10-12T15:38:25.000Z",
-    "updatedAt": "2021-04-27T03:18:49.000Z",
+    "updatedAt": "2021-10-01T03:35:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,6 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3656"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Rec_(manga)"
+    }
+  ],
   "altTitle": [
-    "Rec Special, Rec Episode 7.5, Rec: The Unforgiven",
+    "Rec Special",
+    "Rec Episode 7.5",
+    "Rec: The Unforgiven",
     "レック 許されざる者"
   ],
   "id": 1847,
@@ -10,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/34619.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 3656,
   "createdAt": "2020-10-12T15:38:22.000Z",
-  "updatedAt": "2021-04-26T23:49:00.000Z",
+  "updatedAt": "2021-10-01T01:40:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

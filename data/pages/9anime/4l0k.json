@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4163"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7007"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Yagami-kun_no_Katei_no_Jijō"
+      }
+    ],
     "altTitle": [
-      "Yagami's Family Affairs, Yagami-kun's Family Affairs",
+      "Yagami's Family Affairs",
+      "Yagami-kun's Family Affairs",
       "八神くんの家庭の事情"
     ],
     "id": 4537,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/8713.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4163,
     "createdAt": "2020-10-12T15:38:43.000Z",
-    "updatedAt": "2021-04-28T04:18:30.000Z",
+    "updatedAt": "2021-10-01T16:37:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

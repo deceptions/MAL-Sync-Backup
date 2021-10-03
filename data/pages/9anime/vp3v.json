@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.shin-ei-animation.jp/sensoudouwashu/modules/bokugo/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3567"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6498"
+      }
+    ],
     "altTitle": [
-      "My Air Raid Shelter, My Bomb Shelter",
+      "My Air Raid Shelter",
+      "My Bomb Shelter",
       "ぼくの防空壕"
     ],
     "id": 20207,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/53783.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 3567,
     "createdAt": "2021-04-03T17:08:27.000Z",
-    "updatedAt": "2021-04-03T17:08:27.000Z",
+    "updatedAt": "2021-10-02T20:01:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

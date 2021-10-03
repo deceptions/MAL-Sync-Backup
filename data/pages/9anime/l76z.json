@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4207"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2312"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%A9%E3%83%AB%E3%81%AE%E9%81%BA%E7%94%A3"
+      }
+    ],
     "altTitle": [
       "Legacy of Aru Kararu",
-      "Archa Lyra, Aru Kararu no Isan",
+      "Archa Lyra",
+      "Aru Kararu no Isan",
       "アル・カラルの遺産"
     ],
     "id": 6078,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/13281.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4207,
     "createdAt": "2020-10-12T15:38:50.000Z",
-    "updatedAt": "2021-04-12T18:46:29.000Z",
+    "updatedAt": "2021-10-01T21:32:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

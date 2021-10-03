@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2344"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1475"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/恐竜探検隊ボーンフリー"
+      }
+    ],
     "altTitle": [
       "恐竜探検隊ボーンフリー"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/60897.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2344,
     "createdAt": "2020-10-12T15:39:04.000Z",
-    "updatedAt": "2021-08-22T02:46:08.000Z",
+    "updatedAt": "2021-10-02T07:09:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://magus-bride.jp/wildhunt/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16113"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Ancient_Magus'_Bride#Anime"
+    }
+  ],
   "altTitle": [
     "The Ancient Magus' Bride OVA",
     "Mahoutsukai no Yome OVA",
@@ -9,11 +23,51 @@
   "type": "anime",
   "title": "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi",
   "url": "https://myanimelist.net/anime/48438/Mahoutsukai_no_Yome__Nishi_no_Shounen_to_Seiran_no_Kishi",
-  "image": "https://cdn.myanimelist.net/images/anime/1283/113368.jpg",
+  "image": "https://cdn.myanimelist.net/images/anime/1454/117626.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 16113,
   "createdAt": "2021-06-14T13:27:43.000Z",
-  "updatedAt": "2021-09-10T18:35:34.000Z",
+  "updatedAt": "2021-09-30T15:33:55.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "3wl9": {
+        "identifier": "3wl9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi",
+        "url": "https://9anime.to/watch/mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi.3wl9",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/8b/8bed8aa8d2278622f14d12e6b7980548.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 48438,
+        "aniId": 130713,
+        "createdAt": "2021-03-10T18:40:10.000Z",
+        "updatedAt": "2021-10-01T10:00:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi": {
+        "identifier": "mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi",
+        "url": "https://gogoanime.pe/category/mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi",
+        "image": "https://gogocdn.net/cover/mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48438,
+        "aniId": 130713,
+        "createdAt": "2021-09-30T15:33:42.000Z",
+        "updatedAt": "2021-09-30T16:00:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

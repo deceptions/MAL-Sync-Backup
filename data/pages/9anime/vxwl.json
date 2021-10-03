@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6986"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4643"
+      }
+    ],
     "altTitle": [
       "Daddy Long-Legs",
       "あしながおじさん"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/54637.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 6986,
     "createdAt": "2020-10-12T15:39:22.000Z",
-    "updatedAt": "2021-04-29T22:49:13.000Z",
+    "updatedAt": "2021-10-02T20:06:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

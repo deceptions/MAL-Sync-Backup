@@ -15,9 +15,30 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/pokemon_hoso/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3419"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3582"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Pok%C3%A9mon_Chronicles"
+      }
+    ],
     "altTitle": [
       "Pokemon Chronicles",
-      "Pokémon Side Stories, Shuukan Pokemon Housoukyoku, Pokemon Hoso, Pocket Monsters Housoukyoku",
+      "Pokémon Side Stories",
+      "Shuukan Pokemon Housoukyoku",
+      "Pokemon Hoso",
+      "Pocket Monsters Housoukyoku",
       "ポケモン放送局"
     ],
     "id": 2363,
@@ -27,8 +48,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/21390.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3419,
     "createdAt": "2020-10-12T15:38:28.000Z",
-    "updatedAt": "2021-04-12T19:16:07.000Z",
+    "updatedAt": "2021-10-01T06:04:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

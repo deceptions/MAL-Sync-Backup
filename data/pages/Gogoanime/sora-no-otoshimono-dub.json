@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://newtype.kadocomic.jp/soraoto/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6658"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10764"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sora_no_Otoshimono#Anime"
+      }
+    ],
     "altTitle": [
       "Heaven's Lost Property",
-      "Lost Property of the Sky, Misplaced by Heaven",
+      "Lost Property of the Sky",
+      "Misplaced by Heaven",
       "そらのおとしもの"
     ],
     "id": 5958,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/50307.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 6658,
     "createdAt": "2020-10-12T15:38:49.000Z",
-    "updatedAt": "2021-05-03T20:21:50.000Z",
+    "updatedAt": "2021-10-01T21:03:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

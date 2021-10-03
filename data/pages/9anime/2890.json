@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=443"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=941"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Macross_7"
+      }
+    ],
     "altTitle": [
       "Macross 7: The Galaxy is Calling Me",
       "Macross 7: The Movie",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/80064.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 443,
     "createdAt": "2020-10-12T15:38:16.000Z",
-    "updatedAt": "2021-04-26T16:48:30.000Z",
+    "updatedAt": "2021-09-30T22:04:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

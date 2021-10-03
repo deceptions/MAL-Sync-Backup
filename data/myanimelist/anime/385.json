@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1085"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3083"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gilgamesh_%28anime%29"
+    }
+  ],
   "altTitle": [
     "Gilgamesh",
     "ギルガメッシュ"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/6640.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1085,
   "createdAt": "2020-10-12T15:38:03.000Z",
-  "updatedAt": "2021-07-02T22:04:59.000Z",
+  "updatedAt": "2021-09-30T13:31:22.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

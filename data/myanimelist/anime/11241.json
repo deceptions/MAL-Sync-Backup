@@ -1,7 +1,26 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.brave10.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8571"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13223"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brave_10"
+    }
+  ],
   "altTitle": [
     "Brave 10",
-    "Brave10, Brave Ten",
+    "Brave10",
+    "Brave Ten",
     "ブレイブ・テン"
   ],
   "id": 11241,
@@ -11,8 +30,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/34043.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 8571,
   "createdAt": "2020-10-12T15:39:08.000Z",
-  "updatedAt": "2021-05-06T13:48:22.000Z",
+  "updatedAt": "2021-10-02T10:33:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

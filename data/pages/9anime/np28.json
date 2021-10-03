@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.maql.co.jp/special/jintai/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8276"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13787"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Jinrui_wa_Suitaishimashita"
+      }
+    ],
     "altTitle": [
       "Humanity Has Declined",
       "Jintai",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/45704.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8276,
     "createdAt": "2020-10-12T15:39:05.000Z",
-    "updatedAt": "2021-06-15T16:28:03.000Z",
+    "updatedAt": "2021-10-02T08:31:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

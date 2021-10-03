@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.litchi-hikari-club.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9359"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14569"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/ライチ☆光クラブ"
+      }
+    ],
     "altTitle": [
       "Lychee Light Club",
-      "Litchi☆Hikari Club, Raichi Hikari Club",
+      "Litchi☆Hikari Club",
+      "Raichi Hikari Club",
       "ライチ DE 光クラブ"
     ],
     "id": 15045,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/40867.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9359,
     "createdAt": "2020-10-12T15:39:15.000Z",
-    "updatedAt": "2021-04-29T15:49:01.000Z",
+    "updatedAt": "2021-10-02T14:39:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-07-13T14:50:49.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sonymusic.co.jp/Animation/ROD/media/ovaindex.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=105"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=819"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Read_or_Die"
+      }
+    ],
     "altTitle": [
       "R.O.D - Read or Die",
       "ROD OVA",
@@ -28,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1/208.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 105,
     "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2021-07-13T14:24:39.000Z",
+    "updatedAt": "2021-09-30T11:37:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

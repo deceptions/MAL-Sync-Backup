@@ -1,6 +1,17 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1391"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1349"
+    }
+  ],
   "altTitle": [
-    "Magical Witchland, 3D Magical Play",
+    "Magical Witchland",
+    "3D Magical Play",
     "魔法遊戯 3D"
   ],
   "id": 2278,
@@ -10,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1/2513.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 1391,
   "createdAt": "2020-10-12T15:38:27.000Z",
-  "updatedAt": "2021-04-27T06:48:50.000Z",
+  "updatedAt": "2021-10-01T05:32:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3475"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3385"
+    }
+  ],
   "altTitle": [
     "めもりい"
   ],
@@ -9,8 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1325/92613.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 3475,
   "createdAt": "2020-10-12T15:38:24.000Z",
-  "updatedAt": "2021-06-02T18:00:51.000Z",
+  "updatedAt": "2021-10-01T03:04:14.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

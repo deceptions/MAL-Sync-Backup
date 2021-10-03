@@ -1,7 +1,27 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.himehime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4240"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6417"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://myanimelist.net/en.wikipedia.org/wiki/Hime-sama_Goyojin"
+    }
+  ],
   "altTitle": [
     "Princess Beware",
-    "Hime-sama Goyojin, Hime-sama Goyoujin, Princess, Be Careful!",
+    "Hime-sama Goyojin",
+    "Hime-sama Goyoujin",
+    "Princess, Be Careful!",
     "姫様ご用心"
   ],
   "id": 1884,
@@ -11,8 +31,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/9520.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 4240,
   "createdAt": "2020-10-12T15:38:23.000Z",
-  "updatedAt": "2021-04-27T00:19:19.000Z",
+  "updatedAt": "2021-10-01T02:09:03.000Z",
   "deletedAt": null,
   "Pages": {}
 }

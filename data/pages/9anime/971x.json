@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2613"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=526"
+      }
+    ],
     "altTitle": [
       "Black Lion",
       "Kuro no Shishi",
@@ -28,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1/1759.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2613,
     "createdAt": "2020-10-12T15:38:21.000Z",
-    "updatedAt": "2021-07-19T00:32:23.000Z",
+    "updatedAt": "2021-10-01T01:05:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

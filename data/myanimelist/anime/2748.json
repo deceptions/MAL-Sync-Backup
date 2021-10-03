@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1822"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1300"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E5%8B%9D%E5%B9%B3"
+    }
+  ],
   "altTitle": [
     "Dashing Kappei",
     "ダッシュ勝平"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1319/90363.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1822,
   "createdAt": "2020-10-12T15:38:32.000Z",
-  "updatedAt": "2021-04-27T13:19:01.000Z",
+  "updatedAt": "2021-10-01T08:38:29.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

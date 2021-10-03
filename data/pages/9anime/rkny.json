@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4225"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7182"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/OZ_(%E6%A8%B9%E3%81%AA%E3%81%A4%E3%81%BF)"
+      }
+    ],
     "altTitle": [
       "オズ"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/77858.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4225,
     "createdAt": "2020-10-12T15:38:33.000Z",
-    "updatedAt": "2021-04-27T13:49:40.000Z",
+    "updatedAt": "2021-10-01T09:06:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

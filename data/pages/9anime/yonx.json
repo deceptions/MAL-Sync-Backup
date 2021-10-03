@@ -15,6 +15,20 @@
   "updatedAt": "2019-10-12T16:02:23.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://karneval-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9186"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://pl.wikipedia.org/wiki/Karneval"
+      }
+    ],
     "altTitle": [
       "コミックスカバー裏コメント"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/64555.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 9186,
     "createdAt": "2020-10-12T15:39:27.000Z",
-    "updatedAt": "2021-04-30T03:19:04.000Z",
+    "updatedAt": "2021-10-02T23:05:14.000Z",
     "deletedAt": null
   },
   "Anilist": null,

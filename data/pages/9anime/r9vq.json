@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.pokemon.co.jp/anime/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=230"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=270"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Pok%C3%A9mon_%28anime%29"
+      }
+    ],
     "altTitle": [
       "Pokémon",
       "Pocket Monsters",
@@ -32,8 +50,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/73834.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 230,
     "createdAt": "2020-10-12T15:38:05.000Z",
-    "updatedAt": "2021-08-11T13:39:36.000Z",
+    "updatedAt": "2021-09-30T14:37:52.000Z",
     "deletedAt": null
   },
   "Anilist": {

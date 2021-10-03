@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.juiz.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6238"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10474"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Higashi_no_Eden"
+      }
+    ],
     "altTitle": [
       "Eden of The East",
       "Higashi no Eden",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/15033.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 6238,
     "createdAt": "2020-10-12T15:38:48.000Z",
-    "updatedAt": "2021-07-23T10:04:04.000Z",
+    "updatedAt": "2021-10-01T20:01:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

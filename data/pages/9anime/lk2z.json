@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1330"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3371"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%94%E3%81%8F%E3%81%9B%E3%82%93"
+      }
+    ],
     "altTitle": [
       "The Gokusen",
       "ごくせん"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/25273.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1330,
     "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2021-08-06T09:20:55.000Z",
+    "updatedAt": "2021-09-30T12:04:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

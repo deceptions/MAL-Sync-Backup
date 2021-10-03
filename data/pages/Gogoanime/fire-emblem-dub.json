@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1471"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=637"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fire_Emblem#Anime"
+      }
+    ],
     "altTitle": [
       "Fire Emblem",
       "ファイアーエムブレム"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1586/96256.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1471,
     "createdAt": "2020-10-12T15:38:33.000Z",
-    "updatedAt": "2021-04-15T14:15:19.000Z",
+    "updatedAt": "2021-10-01T09:05:57.000Z",
     "deletedAt": null
   },
   "Anilist": {

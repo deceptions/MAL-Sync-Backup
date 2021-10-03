@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.gundam.channel.or.jp/program/_0083_ova.shtml"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=717"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mobile_Suit_Gundam_0083:_Stardust_Memory"
+      }
+    ],
     "altTitle": [
       "Mobile Suit Gundam 0083: Stardust Memory",
-      "Kidou Senshi Gundam 0083: Stardust Memory, Gundam 0083",
+      "Kidou Senshi Gundam 0083: Stardust Memory",
+      "Gundam 0083",
       "機動戦士ガンダム0083 STARDUST MEMORY"
     ],
     "id": 84,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/26654.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 717,
     "createdAt": "2020-10-12T15:37:59.000Z",
-    "updatedAt": "2021-04-09T03:21:21.000Z",
+    "updatedAt": "2021-09-30T10:34:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

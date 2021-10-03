@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3470"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4314"
+    }
+  ],
   "altTitle": [
     "Pictures at an Exhibition",
     "展覧会の絵"
@@ -10,8 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1781/107246.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 3470,
   "createdAt": "2020-10-12T15:38:38.000Z",
-  "updatedAt": "2021-07-11T03:13:27.000Z",
+  "updatedAt": "2021-10-01T12:35:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -13,11 +13,12 @@
   "active": true,
   "actor": null,
   "malId": 59259,
-  "aniId": null,
+  "aniId": 139877,
   "createdAt": "2021-02-09T15:41:06.000Z",
-  "updatedAt": "2021-06-08T11:05:22.000Z",
+  "updatedAt": "2021-10-02T12:30:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": null,
     "altTitle": [
       "空の昴"
     ],
@@ -35,6 +36,25 @@
     "updatedAt": "2021-08-09T16:09:46.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "空の昴"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yukihisa Motoshima"
+    ],
+    "id": 139877,
+    "malId": 59259,
+    "type": "manga",
+    "title": "Sora no Subaru",
+    "url": "https://anilist.co/manga/139877",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139877-SINGQ6sB24ao.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-02T12:00:53.000Z",
+    "updatedAt": "2021-10-02T12:00:53.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/59259/Sora_no_Subaru"
 }

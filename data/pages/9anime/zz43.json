@@ -15,9 +15,29 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.anime-int.com/works/?type=ova"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1655"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=35"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kishin_Corps:_Alien_Defender_Geo-Armor"
+      }
+    ],
     "altTitle": [
       "Kishin Corps",
-      "Alien Defender Geo-Armor - Kishin Corps, Machine-God Corps, Panzer Robot",
+      "Alien Defender Geo-Armor - Kishin Corps",
+      "Machine-God Corps",
+      "Panzer Robot",
       "機神兵団"
     ],
     "id": 3061,
@@ -27,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1409/97288.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1655,
     "createdAt": "2020-10-12T15:38:35.000Z",
-    "updatedAt": "2021-04-27T16:49:20.000Z",
+    "updatedAt": "2021-10-01T10:34:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

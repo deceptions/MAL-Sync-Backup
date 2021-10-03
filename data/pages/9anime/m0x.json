@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ntv.co.jp/bungaku/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7056"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11096"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Aoi_Bungaku"
+      }
+    ],
     "altTitle": [
       "Blue Literature",
       "青い文学シリーズ"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/17471.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 7056,
     "createdAt": "2020-10-12T15:38:55.000Z",
-    "updatedAt": "2021-07-12T19:46:14.000Z",
+    "updatedAt": "2021-10-02T00:39:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

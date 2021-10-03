@@ -15,6 +15,12 @@
   "updatedAt": "2021-07-18T04:32:20.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=116"
+      }
+    ],
     "altTitle": [
       "こみっくパーティー"
     ],
@@ -25,8 +31,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/5319.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 116,
     "createdAt": "2020-10-12T15:38:07.000Z",
-    "updatedAt": "2021-07-18T04:03:03.000Z",
+    "updatedAt": "2021-09-30T16:08:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

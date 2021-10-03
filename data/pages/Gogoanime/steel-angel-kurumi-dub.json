@@ -15,6 +15,16 @@
   "updatedAt": "2021-08-28T09:06:33.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=88"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=326"
+      }
+    ],
     "altTitle": [
       "Steel Angel Kurumi",
       "鋼鉄天使くるみ"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1036/97570.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 88,
     "createdAt": "2020-10-12T15:38:05.000Z",
-    "updatedAt": "2021-08-28T08:37:24.000Z",
+    "updatedAt": "2021-09-30T15:02:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

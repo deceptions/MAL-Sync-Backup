@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sunrise-inc.co.jp/seikai/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=447"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Banner_of_the_Stars"
+      }
+    ],
     "altTitle": [
       "Banner of the Stars",
       "Battle Flag of the Stars",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/61111.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4,
     "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2021-04-26T01:58:08.000Z",
+    "updatedAt": "2021-09-30T13:33:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

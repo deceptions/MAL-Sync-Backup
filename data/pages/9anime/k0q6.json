@@ -15,8 +15,15 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=69"
+      }
+    ],
     "altTitle": [
-      "One Piece Strawhat Theater, One Piece: Mugiwara Theater",
+      "One Piece Strawhat Theater",
+      "One Piece: Mugiwara Theater",
       "ワンピース 麦わら劇場"
     ],
     "id": 2680,
@@ -26,8 +33,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/70745.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 69,
     "createdAt": "2020-10-12T15:38:31.000Z",
-    "updatedAt": "2021-04-14T06:15:28.000Z",
+    "updatedAt": "2021-10-01T08:08:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

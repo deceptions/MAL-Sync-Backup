@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3639"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7227"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8B%E3%83%A1%E4%B8%89%E9%8A%83%E5%A3%AB#.E3.82.A2.E3.83.8B.E3.83.A1.E4.B8.89.E9.8A.83.E5.A3.AB.E3.82.A2.E3.83.A9.E3.83.9F.E3.82.B9.E3.81.AE.E5.86.92.E9.99.BA"
+      }
+    ],
     "altTitle": [
       "The Three Musketeers: Aramis the Adventure",
-      "Anime San Juushi: Aramis no Dai Boken, Three Musketeers",
+      "Anime San Juushi: Aramis no Dai Boken",
+      "Three Musketeers",
       "アニメ三銃士　アラミスの冒険"
     ],
     "id": 2334,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/2601.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 3639,
     "createdAt": "2020-10-12T15:38:28.000Z",
-    "updatedAt": "2021-04-27T07:48:50.000Z",
+    "updatedAt": "2021-10-01T06:01:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3603"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7136"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%98%9F%E7%8C%AB%E3%83%95%E3%83%AB%E3%83%8F%E3%82%A6%E3%82%B9"
+      }
+    ],
     "altTitle": [
       "Star Cat Fullhouse",
-      "Hoshineko, Star Cat Fullhouse.",
+      "Hoshineko",
+      "Star Cat Fullhouse.",
       "星猫フルハウス"
     ],
     "id": 5927,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/89299.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3603,
     "createdAt": "2020-10-12T15:38:49.000Z",
-    "updatedAt": "2021-04-28T10:49:00.000Z",
+    "updatedAt": "2021-10-01T20:41:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

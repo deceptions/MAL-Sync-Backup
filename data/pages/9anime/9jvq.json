@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3667"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1960"
+      }
+    ],
     "altTitle": [
       "Alpenrose",
-      "Alpenrose of Fire Judy and Randy, Flower of the Mountain, Flaming Alpen Rose: Jeudi & Lundi, Hono no Alpenrose Jeudi & Lundi, Hono no Alpenrose Judy & Landy, Blazing Alpenrose: Judy & Randy",
+      "Alpenrose of Fire Judy and Randy",
+      "Flower of the Mountain",
+      "Flaming Alpen Rose: Jeudi & Lundi",
+      "Hono no Alpenrose Jeudi & Lundi",
+      "Hono no Alpenrose Judy & Landy",
+      "Blazing Alpenrose: Judy & Randy",
       "炎のアルペンローゼ・ジュディ＆ランディ"
     ],
     "id": 3807,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/6776.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3667,
     "createdAt": "2020-10-12T15:38:40.000Z",
-    "updatedAt": "2021-04-27T23:20:11.000Z",
+    "updatedAt": "2021-10-01T14:05:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://gakuenheaven.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4326"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6311"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Gakuen_Heaven"
+      }
+    ],
     "altTitle": [
       "Gakuen Heaven",
       "Boy's Love Scramble",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/70143.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4326,
     "createdAt": "2020-10-12T15:38:09.000Z",
-    "updatedAt": "2021-06-15T03:58:25.000Z",
+    "updatedAt": "2021-09-30T17:10:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

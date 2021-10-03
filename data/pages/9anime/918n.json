@@ -15,9 +15,26 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3647"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1360"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Adventures_of_the_Little_Prince_(TV_series)"
+      }
+    ],
     "altTitle": [
       "The Prince of the Stars: Le Petit Prince",
-      "Hoshi no Ojisama Petit Prince, The Little Prince, Le Petit Prince, The Adventures of the Little Prince",
+      "Hoshi no Ojisama Petit Prince",
+      "The Little Prince",
+      "Le Petit Prince",
+      "The Adventures of the Little Prince",
       "星の王子さま　プチ・プランス"
     ],
     "id": 3811,
@@ -27,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/36539.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3647,
     "createdAt": "2020-10-12T15:38:40.000Z",
-    "updatedAt": "2021-04-27T23:20:11.000Z",
+    "updatedAt": "2021-10-01T14:06:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

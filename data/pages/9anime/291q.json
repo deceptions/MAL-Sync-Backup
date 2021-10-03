@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://pierrot.jp/title/es/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=624"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=72"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/E%27s_Otherwise"
+      }
+    ],
     "altTitle": [
       "E's Otherwise",
       "エスアザーワイズ"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/6260.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 624,
     "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2021-06-18T12:58:28.000Z",
+    "updatedAt": "2021-09-30T12:03:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

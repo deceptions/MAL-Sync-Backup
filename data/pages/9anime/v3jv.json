@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:58.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4845"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=701"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Nanako_SOS"
+      }
+    ],
     "altTitle": [
       "Nanako SOS",
       "Nana the Super Girl",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/6635.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4845,
     "createdAt": "2020-10-12T15:38:39.000Z",
-    "updatedAt": "2021-07-14T14:51:41.000Z",
+    "updatedAt": "2021-10-01T13:06:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

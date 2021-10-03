@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tms-e.com/library/old/tv/data/t_attack.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=757"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1186"
+      }
+    ],
     "altTitle": [
-      "Mila Superstar, Attack Number One",
+      "Mila Superstar",
+      "Attack Number One",
       "アタックNo.1"
     ],
     "id": 1550,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/59517.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 757,
     "createdAt": "2020-10-12T15:38:18.000Z",
-    "updatedAt": "2021-04-15T11:45:57.000Z",
+    "updatedAt": "2021-09-30T23:09:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

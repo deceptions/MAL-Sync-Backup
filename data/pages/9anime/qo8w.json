@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ciao.shogakukan.co.jp/kongetu/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8310"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12566"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/ショコラの魔法"
+      }
+    ],
     "altTitle": [
       "The Magic of Chocolate",
-      "Chocolate no Mahou, Shokora no Mahou",
+      "Chocolate no Mahou",
+      "Shokora no Mahou",
       "ショコラの魔法"
     ],
     "id": 9935,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/35601.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 8310,
     "createdAt": "2020-10-12T15:39:04.000Z",
-    "updatedAt": "2021-04-15T16:14:39.000Z",
+    "updatedAt": "2021-10-02T07:06:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

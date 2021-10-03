@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1271"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1993"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Getter_Robo_G"
+    }
+  ],
   "altTitle": [
     "Getter Robo G",
-    "Getta Robo G, Starvengers",
+    "Getta Robo G",
+    "Starvengers",
     "ゲッターロボG"
   ],
   "id": 4486,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/58399.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1271,
   "createdAt": "2020-10-12T15:38:43.000Z",
-  "updatedAt": "2021-04-28T03:49:01.000Z",
+  "updatedAt": "2021-10-01T16:35:13.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

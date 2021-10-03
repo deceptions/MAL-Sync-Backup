@@ -15,6 +15,16 @@
   "updatedAt": "2019-10-12T16:02:23.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7731"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Peeping_Life"
+      }
+    ],
     "altTitle": [
       "Peeping Life Gekijou Original Han",
       "Peeping Life Gekijou Original Ban",
@@ -28,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/59037.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 7731,
     "createdAt": "2020-10-12T15:39:26.000Z",
-    "updatedAt": "2021-06-23T08:15:09.000Z",
+    "updatedAt": "2021-10-02T22:06:06.000Z",
     "deletedAt": null
   },
   "Anilist": null,

@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10555"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16099"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/みならいディーバ"
+    }
+  ],
   "altTitle": [
     "Apprentice Diva",
     "みならいディーバ"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/64441.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 10555,
   "createdAt": "2020-10-12T15:39:27.000Z",
-  "updatedAt": "2021-09-28T23:04:04.000Z",
+  "updatedAt": "2021-10-02T23:03:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Gogoanime": {

@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9723"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15758"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/GUNDAM_PERFECT_MISSION"
+    }
+  ],
   "altTitle": [
     "30th GUNDAM PERFECT MISSION"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/63385.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 9723,
   "createdAt": "2020-10-12T15:38:55.000Z",
-  "updatedAt": "2021-04-28T17:19:11.000Z",
+  "updatedAt": "2021-10-02T00:35:56.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

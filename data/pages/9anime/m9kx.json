@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6062"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9094"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%B0%8F%E3%81%95%E3%81%AA%E6%81%8B%E3%81%AE%E3%82%82%E3%81%AE%E3%81%8C%E3%81%9F%E3%82%8A"
+      }
+    ],
     "altTitle": [
       "小さな恋のものがたり チッチとサリー初恋の四季"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1125/106813.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 6062,
     "createdAt": "2020-10-12T15:39:29.000Z",
-    "updatedAt": "2021-04-30T05:18:33.000Z",
+    "updatedAt": "2021-10-03T00:09:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

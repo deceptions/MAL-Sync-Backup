@@ -15,8 +15,29 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.hihirecords.com/moomin/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1009"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2006"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Moomin_(1990_TV_series)"
+      }
+    ],
     "altTitle": [
-      "Mumins, Delightful Moomin Family, Fun Family Moomin, The Moomins",
+      "Mumins",
+      "Delightful Moomin Family",
+      "Fun Family Moomin",
+      "The Moomins",
       "楽しいムーミン一家"
     ],
     "id": 2150,
@@ -26,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/26765.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1009,
     "createdAt": "2020-10-12T15:38:26.000Z",
-    "updatedAt": "2021-04-27T04:49:41.000Z",
+    "updatedAt": "2021-10-01T04:34:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

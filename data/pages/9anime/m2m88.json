@@ -15,7 +15,26 @@
   "updatedAt": "2021-07-25T04:53:33.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ntv.co.jp/anpanman/movie2007/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7552"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8270"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Anpanman#Videography"
+      }
+    ],
     "altTitle": [
+      "Anpanman: Purun, the Soap Bubble",
       "それいけ! アンパンマン シャボン玉のプルン"
     ],
     "id": 21293,
@@ -25,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/56229.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 7552,
     "createdAt": "2021-07-25T04:53:33.000Z",
-    "updatedAt": "2021-07-25T04:53:33.000Z",
+    "updatedAt": "2021-10-02T20:39:34.000Z",
     "deletedAt": null
   },
   "Anilist": null,

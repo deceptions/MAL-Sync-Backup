@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://sp.sunrise-inc.co.jp/s/chronicle_info.php?crid=186"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3338"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15236"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Dinozaurs"
+      }
+    ],
     "altTitle": [
       "DinoZaurs",
-      "Prehistoric Warriors, Dinozaurs: The Series",
+      "Prehistoric Warriors",
+      "Dinozaurs: The Series",
       "ダイノゾーン"
     ],
     "id": 3499,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/67413.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3338,
     "createdAt": "2020-10-12T15:38:38.000Z",
-    "updatedAt": "2021-04-27T21:18:30.000Z",
+    "updatedAt": "2021-10-01T12:37:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

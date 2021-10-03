@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.takeshobo.co.jp/sp/kemocha/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6762"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10971"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/けものとチャット"
+      }
+    ],
     "altTitle": [
-      "Kemocha, Chatting with Creatures",
+      "Kemocha",
+      "Chatting with Creatures",
       "けものとチャット"
     ],
     "id": 6932,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/16117.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 6762,
     "createdAt": "2020-10-12T15:38:54.000Z",
-    "updatedAt": "2021-04-28T16:18:41.000Z",
+    "updatedAt": "2021-10-02T00:03:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

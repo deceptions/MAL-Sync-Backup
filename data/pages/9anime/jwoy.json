@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tatsunoko.co.jp/works/mock/mock.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3605"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1408"
+      }
+    ],
     "altTitle": [
       "Saban's Adventures of Pinocchio",
       "樫の木モック"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/23505.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3605,
     "createdAt": "2020-10-12T15:38:30.000Z",
-    "updatedAt": "2021-04-27T10:48:30.000Z",
+    "updatedAt": "2021-10-01T07:33:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

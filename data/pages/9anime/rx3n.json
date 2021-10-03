@@ -15,6 +15,16 @@
   "updatedAt": "2021-06-25T10:14:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7342"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3297"
+      }
+    ],
     "altTitle": [
       "ボ～イ フレンド"
     ],
@@ -25,8 +35,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1161/95950.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 7342,
     "createdAt": "2020-10-12T15:39:06.000Z",
-    "updatedAt": "2021-05-22T20:43:38.000Z",
+    "updatedAt": "2021-10-02T08:36:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

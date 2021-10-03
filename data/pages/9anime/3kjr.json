@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2071"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3842"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sakigake!!_Otokojuku"
+      }
+    ],
     "altTitle": [
       "Charge!! Men's Private School",
       "Valiantly Forge Ahead!! Men's Cram School (1988)",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1672/94168.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 2071,
     "createdAt": "2020-10-12T15:38:41.000Z",
-    "updatedAt": "2021-04-28T01:18:30.000Z",
+    "updatedAt": "2021-10-01T15:05:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

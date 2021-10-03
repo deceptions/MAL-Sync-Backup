@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.servamp.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11366"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17328"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/SERVAMP_-%E3%82%B5%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%97-"
+      }
+    ],
     "altTitle": [
       "SERVAMP",
       "SERVAMP（サーヴァンプ）"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/80953.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 11366,
     "createdAt": "2020-10-12T15:39:38.000Z",
-    "updatedAt": "2021-09-24T18:45:34.000Z",
+    "updatedAt": "2021-10-01T02:07:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

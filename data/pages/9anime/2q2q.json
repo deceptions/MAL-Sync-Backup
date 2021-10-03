@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.starchild.co.jp/special/sukinayo/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9236"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14420"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Suki-tte_Ii_na_yo."
+      }
+    ],
     "altTitle": [
-      "Say \"I Love You\".",
-      "Suki-tte Ii na yo., Sukinayo",
+      "Say \"I Love You.\"",
+      "Suki-tte Ii na yo.",
+      "Sukinayo",
       "好きっていいなよ。"
     ],
     "id": 14289,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/39777.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9236,
     "createdAt": "2020-10-12T15:39:14.000Z",
-    "updatedAt": "2021-06-06T16:20:29.000Z",
+    "updatedAt": "2021-10-02T14:06:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

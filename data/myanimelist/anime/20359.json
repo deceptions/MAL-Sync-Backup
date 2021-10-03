@@ -1,6 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10039"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E3%81%8F%E3%82%93%E3%81%A87%E4%BA%BA%E3%81%AE%E9%AD%94%E5%A5%B3"
+    }
+  ],
   "altTitle": [
-    "Yamada-kun to Nananin no Majo, Yamada-kun and the Seven Witches, Yamada-kun and the 7 Witches",
+    "Yamada-kun to Nananin no Majo",
+    "Yamada-kun and the Seven Witches",
+    "Yamada-kun and the 7 Witches",
     "山田くんと7人の魔女"
   ],
   "id": 20359,
@@ -10,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/58865.jpg",
   "category": "ONA",
   "hentai": false,
+  "anidbId": 10039,
   "createdAt": "2020-10-12T15:39:22.000Z",
-  "updatedAt": "2021-05-26T17:39:05.000Z",
+  "updatedAt": "2021-10-02T20:02:53.000Z",
   "deletedAt": null,
   "Pages": {}
 }

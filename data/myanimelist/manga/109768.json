@@ -1,4 +1,5 @@
 {
+  "externalLinks": null,
   "altTitle": [
     "デミライフ！"
   ],
@@ -13,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:17.000Z",
-  "updatedAt": "2021-05-20T06:31:24.000Z",
+  "updatedAt": "2021-09-29T14:36:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +36,28 @@
         "aniId": 100279,
         "createdAt": "2020-10-12T16:14:27.000Z",
         "updatedAt": "2021-06-06T05:12:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "demi_life": {
+        "authors": [
+          "OHI Pikachi"
+        ],
+        "identifier": "demi_life",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Demi Life!",
+        "url": "https://fanfox.net/manga/demi_life/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29287/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109768,
+        "aniId": 100279,
+        "createdAt": "2021-09-29T14:36:22.000Z",
+        "updatedAt": "2021-09-29T15:06:19.000Z",
         "deletedAt": null
       }
     }

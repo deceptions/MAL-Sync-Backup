@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://chaoshead.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6088"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10182"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Chaos%3BHead"
+      }
+    ],
     "altTitle": [
       "ChäoS",
       "HEAd",
@@ -29,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/15443.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 6088,
     "createdAt": "2020-10-12T15:38:45.000Z",
-    "updatedAt": "2021-09-05T03:46:47.000Z",
+    "updatedAt": "2021-10-01T18:02:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

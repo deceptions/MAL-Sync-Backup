@@ -15,8 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kamosuzo.tv"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5305"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Moyashimon"
+      }
+    ],
     "altTitle": [
-      "Moyashimon: Microbe Theatre Deluxe, Moyasimon, Tales of Agriculture",
+      "Moyashimon: Microbe Theatre Deluxe",
+      "Moyasimon",
+      "Tales of Agriculture",
       "もやしもん　菌劇場デラックス"
     ],
     "id": 3618,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/25163.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 5305,
     "createdAt": "2020-10-12T15:38:39.000Z",
-    "updatedAt": "2021-04-27T21:49:11.000Z",
+    "updatedAt": "2021-10-01T13:06:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

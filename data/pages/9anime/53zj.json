@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.idolmaster-anime.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9701"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15129"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/THE_IDOLM@STER_MOVIE"
+      }
+    ],
     "altTitle": [
       "THE IDOLM@STER MOVIE: BEYOND THE BRILLIANT FUTURE!",
-      "The Idolmaster Movie: Beyond the Brilliant Future, The iDOLM@STER Movie: To the Other Side of the Light!",
+      "The Idolmaster Movie: Beyond the Brilliant Future",
+      "The iDOLM@STER Movie: To the Other Side of the Light!",
       "THE IDOLM＠STER MOVIE 輝きの向こう側へ！"
     ],
     "id": 17437,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/71801.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 9701,
     "createdAt": "2020-10-12T15:39:19.000Z",
-    "updatedAt": "2021-04-11T09:21:08.000Z",
+    "updatedAt": "2021-10-02T17:32:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

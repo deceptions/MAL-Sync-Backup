@@ -15,6 +15,16 @@
   "updatedAt": "2021-06-07T09:48:59.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5519"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1001"
+      }
+    ],
     "altTitle": [
       "まんが日本絵巻"
     ],
@@ -25,8 +35,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/27280.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5519,
     "createdAt": "2020-10-12T15:39:03.000Z",
-    "updatedAt": "2021-06-07T09:20:44.000Z",
+    "updatedAt": "2021-10-02T07:00:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

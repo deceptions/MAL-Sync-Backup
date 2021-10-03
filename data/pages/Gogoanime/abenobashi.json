@@ -15,9 +15,30 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.gainax.co.jp/anime/abesho/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=70"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=820"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Abenobashi_Mahou_Shoutengai"
+      }
+    ],
     "altTitle": [
       "Magical☆Shopping Arcade Abenobashi",
-      "Abenobashi Magic Shopping District, Abenobashi Mahoh Shotengai, Magical Shopping Street Abenobashi, Magical Shopping Arcade Abenobashi",
+      "Abenobashi Magic Shopping District",
+      "Abenobashi Mahoh Shotengai",
+      "Magical Shopping Street Abenobashi",
+      "Magical Shopping Arcade Abenobashi",
       "アベノ橋魔法☆商店街"
     ],
     "id": 306,
@@ -27,8 +48,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1350/113655.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 70,
     "createdAt": "2020-10-12T15:38:02.000Z",
-    "updatedAt": "2021-04-26T00:27:35.000Z",
+    "updatedAt": "2021-09-30T12:36:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

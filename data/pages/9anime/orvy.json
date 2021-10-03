@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4898"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23302"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%AB%E3%82%B7%E3%83%AD%E3%82%AF%E3%83%9E"
+      }
+    ],
     "altTitle": [
       "かってにシロクマ"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/27218.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4898,
     "createdAt": "2020-10-12T15:39:03.000Z",
-    "updatedAt": "2021-04-11T18:51:32.000Z",
+    "updatedAt": "2021-10-02T06:38:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

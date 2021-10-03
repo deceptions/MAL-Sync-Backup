@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kojika-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6091"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10306"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kodomo_no_Jikan#Anime"
+      }
+    ],
     "altTitle": [
-      "Kodomo no Jikan: Second Term, Kodomo no Jikan OVA 3",
+      "Kodomo no Jikan: Second Term",
+      "Kodomo no Jikan OVA 3",
       "こどものじかん 2学期"
     ],
     "id": 4195,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/39447.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 6091,
     "createdAt": "2020-10-12T15:38:42.000Z",
-    "updatedAt": "2021-04-30T15:19:23.000Z",
+    "updatedAt": "2021-10-01T15:38:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/tv/patoru/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2128"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3589"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%94%E3%83%9D%E3%83%91%E3%83%9D%E3%83%91%E3%83%88%E3%83%AB%E3%81%8F%E3%82%93"
+      }
+    ],
     "altTitle": [
       "Pi Po Pa Po Patrol",
-      "Pipopapo Patrol-kun, Pipo Papo Patrol-kun",
+      "Pipopapo Patrol-kun",
+      "Pipo Papo Patrol-kun",
       "ピポパポパトルくん"
     ],
     "id": 3458,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/5740.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2128,
     "createdAt": "2020-10-12T15:38:38.000Z",
-    "updatedAt": "2021-04-27T20:49:00.000Z",
+    "updatedAt": "2021-10-01T12:33:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

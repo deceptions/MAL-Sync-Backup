@@ -1,6 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2729"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tokimeki_Tonight"
+    }
+  ],
   "altTitle": [
-    "Tokimeki Tonight Specials, Heart-Thumping Tonight Recaps, Heart-Thumping Tonight Specials",
+    "Tokimeki Tonight Specials",
+    "Heart-Thumping Tonight Recaps",
+    "Heart-Thumping Tonight Specials",
     "ときめきトゥナイト・スペシャル"
   ],
   "id": 10594,
@@ -10,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/29257.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 2729,
   "createdAt": "2020-10-12T15:39:06.000Z",
-  "updatedAt": "2021-04-29T07:49:31.000Z",
+  "updatedAt": "2021-10-02T09:06:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Gogoanime": {

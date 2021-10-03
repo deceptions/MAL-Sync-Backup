@@ -15,9 +15,30 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ntv.co.jp/corda"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10210"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15701"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E9%87%91%E8%89%B2%E3%81%AE%E3%82%B3%E3%83%AB%E3%83%803"
+      }
+    ],
     "altTitle": [
       "La corda d'oro: Blue♪Sky",
-      "Kiniro no Chord Blue♪Sky, La Corda D'Oro Blue♪Sky, Kin-iro no Corda 3, Kin'iro no Chord 3",
+      "Kiniro no Chord Blue♪Sky",
+      "La Corda D'Oro Blue♪Sky",
+      "Kin-iro no Corda 3",
+      "Kin'iro no Chord 3",
       "金色のコルダ Blue♪Sky"
     ],
     "id": 20971,
@@ -27,8 +48,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/59779.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10210,
     "createdAt": "2020-10-12T15:39:23.000Z",
-    "updatedAt": "2021-04-29T07:19:30.000Z",
+    "updatedAt": "2021-10-02T20:33:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

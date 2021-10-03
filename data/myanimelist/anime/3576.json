@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4763"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7519"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dinosaur_King"
+    }
+  ],
   "altTitle": [
     "Dinosaur King",
-    "Kodai Oja Kyoryu King D-Kids Adventure, Ancient Ruler Dinosaur King",
+    "Kodai Oja Kyoryu King D-Kids Adventure",
+    "Ancient Ruler Dinosaur King",
     "古代王者 恐竜キング Ｄキッズアドベンチャー"
   ],
   "id": 3576,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/75397.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 4763,
   "createdAt": "2020-10-12T15:38:38.000Z",
-  "updatedAt": "2021-05-23T01:42:58.000Z",
+  "updatedAt": "2021-10-01T13:02:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

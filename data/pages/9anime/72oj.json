@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.bandaivisual.co.jp/yamato/data/7_last.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1956"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3645"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Space_Battleship_Yamato#Final_Yamato_.28.E5.AE.87.E5.AE.99.E6.88.A6.E8.89.A6.E3.83.A4.E3.83.9E.E3.83.88_.E5.AE.8C.E7.B5.90.E7.B7.A8.29"
+      }
+    ],
     "altTitle": [
       "Space Battleship Yamato - Final Chapter",
-      "Final Yamato, Uchu Senkan Yamato Kanketsu Hen",
+      "Final Yamato",
+      "Uchu Senkan Yamato Kanketsu Hen",
       "宇宙戦艦ヤマト・完結編"
     ],
     "id": 3072,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/61231.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 1956,
     "createdAt": "2020-10-12T15:38:35.000Z",
-    "updatedAt": "2021-04-20T07:14:49.000Z",
+    "updatedAt": "2021-10-01T10:36:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3168"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5381"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Amaenaideyo%21%21"
+    }
+  ],
   "altTitle": [
     "Ah! My Buddha Special",
     "Amaenaide yo!! Special",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/32069.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 3168,
   "createdAt": "2020-10-12T15:38:21.000Z",
-  "updatedAt": "2021-04-26T22:18:31.000Z",
+  "updatedAt": "2021-10-01T01:03:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

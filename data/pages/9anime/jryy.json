@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4315"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3808"
+      }
+    ],
     "altTitle": [
       "Galaxy Express 999: Eternal Traveller Emeraldas",
       "Ginga Tetsudo 999: Eien no Tabibito Emeraldas",
@@ -27,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/15483.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 4315,
     "createdAt": "2020-10-12T15:38:52.000Z",
-    "updatedAt": "2021-04-28T14:48:41.000Z",
+    "updatedAt": "2021-10-01T23:07:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1077"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=319"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Golgo_13"
+      }
+    ],
     "altTitle": [
       "Golgo 13: Queen Bee",
       "ゴルゴ１３　ＱＵＥＥＮ　ＢＥＥ"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/38653.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1077,
     "createdAt": "2020-10-12T15:38:21.000Z",
-    "updatedAt": "2021-08-04T06:48:21.000Z",
+    "updatedAt": "2021-10-01T01:05:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

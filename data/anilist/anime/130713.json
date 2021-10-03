@@ -1,9 +1,18 @@
 {
   "altTitle": [
-    "魔法使いの嫁 西の少年と青嵐の騎士",
-    "The Ancient Magus' Bride OVA"
+    "The Ancient Magus' Bride: The Boy from the West and the Knight of the Blue Storm",
+    "魔法使いの嫁 西の少年と青嵐の騎士"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GRZXQJJ8Y/The-Ancient-Magus-Bride"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://crunchyroll.com/series/GRZXQJJ8Y/The-Ancient-Magus-Bride"
+    }
+  ],
   "id": 130713,
   "malId": 48438,
   "type": "anime",
@@ -13,7 +22,46 @@
   "category": "ova",
   "hentai": false,
   "createdAt": "2021-05-22T00:12:57.000Z",
-  "updatedAt": "2021-06-17T18:13:02.000Z",
+  "updatedAt": "2021-10-01T08:30:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "3wl9": {
+        "identifier": "3wl9",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi",
+        "url": "https://9anime.to/watch/mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi.3wl9",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/8b/8bed8aa8d2278622f14d12e6b7980548.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 48438,
+        "aniId": 130713,
+        "createdAt": "2021-03-10T18:40:10.000Z",
+        "updatedAt": "2021-10-01T10:00:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi": {
+        "identifier": "mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi",
+        "url": "https://gogoanime.pe/category/mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi",
+        "image": "https://gogocdn.net/cover/mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48438,
+        "aniId": 130713,
+        "createdAt": "2021-09-30T15:33:42.000Z",
+        "updatedAt": "2021-09-30T16:00:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

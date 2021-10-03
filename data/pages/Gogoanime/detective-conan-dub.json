@@ -15,6 +15,24 @@
   "updatedAt": "2021-07-25T14:51:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ytv.co.jp/conan/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=266"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=454"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Case_Closed"
+      }
+    ],
     "altTitle": [
       "Case Closed",
       "Meitantei Conan",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/75199.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 266,
     "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2021-09-27T08:41:07.000Z",
+    "updatedAt": "2021-09-30T12:02:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

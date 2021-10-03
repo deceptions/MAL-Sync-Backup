@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=198"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=369"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/801_T.T.S._Airbats"
+      }
+    ],
     "altTitle": [
       "801 T.T.S. Airbats",
       "Blue Sky Girl Squadron",
@@ -29,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1306/100405.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 198,
     "createdAt": "2020-10-12T15:38:14.000Z",
-    "updatedAt": "2021-06-27T20:20:10.000Z",
+    "updatedAt": "2021-09-30T20:39:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.bandaivisual.co.jp/yamato/data/5_eien.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2239"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3654"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Space_Battleship_Yamato#Be_Forever_Yamato_.28.E3.83.A4.E3.83.9E.E3.83.88.E3.82.88.E6.B0.B8.E9.81.A0.E3.81.AB.29"
+      }
+    ],
     "altTitle": [
       "Be Forever Yamato",
-      "Yamato to Eternity, Yamato yo Eien ni",
+      "Yamato to Eternity",
+      "Yamato yo Eien ni",
       "ヤマトよ永遠に"
     ],
     "id": 3069,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/83042.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 2239,
     "createdAt": "2020-10-12T15:38:35.000Z",
-    "updatedAt": "2021-04-18T13:44:19.000Z",
+    "updatedAt": "2021-10-01T10:35:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

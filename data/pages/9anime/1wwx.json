@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=808"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1433"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kero_Kero_Chime"
+      }
+    ],
     "altTitle": [
       "ケロケロちゃいむ"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/26176.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 808,
     "createdAt": "2020-10-12T15:38:25.000Z",
-    "updatedAt": "2021-04-27T03:48:51.000Z",
+    "updatedAt": "2021-10-01T03:40:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

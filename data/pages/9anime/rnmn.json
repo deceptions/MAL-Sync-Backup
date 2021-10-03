@@ -15,9 +15,31 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nippon-animation.co.jp/work/haikara_san.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2019"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1429"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Haikara-san_ga_Tooru"
+      }
+    ],
     "altTitle": [
       "Smart-san",
-      "Here Comes Ms. Modern, Mademoiselle Anne, Haikara-san Passes, Comes Miss High-Collar, Haikara-san ga Toru",
+      "Here Comes Ms. Modern",
+      "Mademoiselle Anne",
+      "Haikara-san Passes",
+      "Comes Miss High-Collar",
+      "Haikara-san ga Toru",
       "はいからさんが通る"
     ],
     "id": 3335,
@@ -27,8 +49,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/22741.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2019,
     "createdAt": "2020-10-12T15:38:37.000Z",
-    "updatedAt": "2021-04-19T07:44:18.000Z",
+    "updatedAt": "2021-10-01T12:03:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

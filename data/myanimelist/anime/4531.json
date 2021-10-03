@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2789"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1880"
+    }
+  ],
   "altTitle": [
     "ダークキャット"
   ],
@@ -9,8 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1216/94235.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 2789,
   "createdAt": "2020-10-12T15:38:43.000Z",
-  "updatedAt": "2021-04-28T03:49:40.000Z",
+  "updatedAt": "2021-10-01T16:36:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

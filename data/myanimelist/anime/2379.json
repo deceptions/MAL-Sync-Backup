@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.vanilla-jp.com/catalog/tokubetu/re_tokuju1.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1878"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4186"
+    }
+  ],
   "altTitle": [
     "Private Sessions",
     "特別授業"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/5937.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 1878,
   "createdAt": "2020-10-29T19:44:05.000Z",
-  "updatedAt": "2021-04-29T19:48:32.000Z",
+  "updatedAt": "2021-10-01T06:05:33.000Z",
   "deletedAt": null,
   "Pages": {}
 }

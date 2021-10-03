@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1388"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3610"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Handsome_na_Kanojo"
+    }
+  ],
   "altTitle": [
     "Handsome Girl",
     "Handsome na Kanojo",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/34835.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 1388,
   "createdAt": "2020-10-12T15:38:12.000Z",
-  "updatedAt": "2021-04-26T11:58:15.000Z",
+  "updatedAt": "2021-09-30T19:38:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

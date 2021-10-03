@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5760"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7309"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E8%BF%B7%E8%B5%B0%E7%8E%8B_%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC"
+    }
+  ],
   "altTitle": [
     "迷走王 ボーダー"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/43745.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 5760,
   "createdAt": "2020-10-12T15:39:17.000Z",
-  "updatedAt": "2021-06-03T16:49:20.000Z",
+  "updatedAt": "2021-10-02T16:04:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

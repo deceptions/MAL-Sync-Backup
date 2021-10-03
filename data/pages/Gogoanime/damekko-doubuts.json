@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kids-station.com/minisite/damekko/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2824"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4994"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Damekko_D%C5%8Dbutsu"
+      }
+    ],
     "altTitle": [
-      "Damekko Dobutsu, Useless Animals",
+      "Damekko Dobutsu",
+      "Useless Animals",
       "だめっこどうぶつ"
     ],
     "id": 485,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1/485.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2824,
     "createdAt": "2020-10-12T15:38:04.000Z",
-    "updatedAt": "2021-03-31T20:01:03.000Z",
+    "updatedAt": "2021-09-30T14:10:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

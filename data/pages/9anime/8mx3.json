@@ -15,8 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2509"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/List_of_Tenchi_Muyo!_episodes"
+      }
+    ],
     "altTitle": [
-      "Sachi Tookaraji Gojitsudan Specials, Here Comes Jurai Part 2, Tenchi Muyou! Ryouohki 2nd Season Picture Drama",
+      "Sachi Tookaraji Gojitsudan Specials",
+      "Here Comes Jurai Part 2",
+      "Tenchi Muyou! Ryouohki 2nd Season Picture Drama",
       "天地無用！魎皇鬼"
     ],
     "id": 10351,
@@ -26,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/28449.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 2509,
     "createdAt": "2020-10-12T15:39:05.000Z",
-    "updatedAt": "2021-04-29T06:48:41.000Z",
+    "updatedAt": "2021-10-02T08:30:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

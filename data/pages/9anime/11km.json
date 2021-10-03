@@ -15,8 +15,21 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.shakugan.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6757"
+      }
+    ],
     "altTitle": [
-      "Shakugan no Shana-tan G, Shakugan no Shana-tan Dos, Shakugan no Shana-tan Tri, Shakugan no Shana-tan Frontier",
+      "Shakugan no Shana-tan G",
+      "Shakugan no Shana-tan Dos",
+      "Shakugan no Shana-tan Tri",
+      "Shakugan no Shana-tan Frontier",
       "灼眼のシャナたん"
     ],
     "id": 7375,
@@ -26,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/17657.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 6757,
     "createdAt": "2020-10-12T15:38:55.000Z",
-    "updatedAt": "2021-04-28T18:48:41.000Z",
+    "updatedAt": "2021-10-02T01:06:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

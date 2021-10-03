@@ -1,7 +1,26 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.vandread.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=177"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=269"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Vandread"
+    }
+  ],
   "altTitle": [
     "Vandread",
-    "Vandread Stage One, Vandread First Stage",
+    "Vandread Stage One",
+    "Vandread First Stage",
     "ヴァンドレッド"
   ],
   "id": 180,
@@ -11,8 +30,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/75446.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 177,
   "createdAt": "2020-10-12T15:38:00.000Z",
-  "updatedAt": "2021-04-25T22:57:33.000Z",
+  "updatedAt": "2021-09-30T11:33:05.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

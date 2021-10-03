@@ -1,6 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3585"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1211"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Bomberman_B-Daman_Bakugaiden"
+    }
+  ],
   "altTitle": [
-    "Bomberman Bedaman Bakugaiden, Bomberman Bidaman Bakugaiden, Bomber Man & Marbleman's Explosive Side Story",
+    "Bomberman Bedaman Bakugaiden",
+    "Bomberman Bidaman Bakugaiden",
+    "Bomber Man & Marbleman's Explosive Side Story",
     "B[ボンバーマン]ビーダマン爆外伝"
   ],
   "id": 1672,
@@ -10,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/86375.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 3585,
   "createdAt": "2020-10-12T15:38:20.000Z",
-  "updatedAt": "2021-04-26T21:18:30.000Z",
+  "updatedAt": "2021-10-01T00:32:02.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

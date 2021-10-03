@@ -15,9 +15,26 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3434"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=768"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Violence_Jack"
+      }
+    ],
     "altTitle": [
       "Violence Jack: Slumking",
-      "Violence Jack: Harlem Bomber, Violence Jack: Slum King, Violence Jack: Harlem Bomber Hen, Violence Jack: Harlem Bomber Arc",
+      "Violence Jack: Harlem Bomber",
+      "Violence Jack: Slum King",
+      "Violence Jack: Harlem Bomber Hen",
+      "Violence Jack: Harlem Bomber Arc",
       "バイオレンス ジャック 〜ハーレム・ボンバー編〜"
     ],
     "id": 1341,
@@ -27,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/12873.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3434,
     "createdAt": "2020-10-12T15:38:15.000Z",
-    "updatedAt": "2021-04-26T15:41:59.000Z",
+    "updatedAt": "2021-09-30T21:37:58.000Z",
     "deletedAt": null
   },
   "Anilist": {

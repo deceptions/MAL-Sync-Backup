@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.asahi.co.jp/mimi/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7974"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12040"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E9%A3%9F%E3%83%91%E3%83%B3%E3%83%9F%E3%83%9F%E3%83%BC"
+      }
+    ],
     "altTitle": [
       "White Bread Mimi",
       "食パンミミー"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/78816.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 7974,
     "createdAt": "2020-10-12T15:39:02.000Z",
-    "updatedAt": "2021-04-29T03:18:51.000Z",
+    "updatedAt": "2021-10-02T06:07:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

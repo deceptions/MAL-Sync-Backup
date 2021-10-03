@@ -15,8 +15,19 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1896"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3682"
+      }
+    ],
     "altTitle": [
-      "Himitsu no Akko-chan (1989), Secret Little Akko",
+      "Himitsu no Akko-chan (1989)",
+      "Secret Little Akko",
       "ひみつのアッコちゃん"
     ],
     "id": 12569,
@@ -26,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/35227.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 1896,
     "createdAt": "2020-10-12T15:39:11.000Z",
-    "updatedAt": "2021-04-29T11:49:11.000Z",
+    "updatedAt": "2021-10-02T12:06:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

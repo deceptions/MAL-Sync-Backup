@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nabari.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5630"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9102"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Nabari_no_Ou"
+      }
+    ],
     "altTitle": [
       "Nabari no Ou",
-      "Nabari no Oh, King of Nabari",
+      "Nabari no Oh",
+      "King of Nabari",
       "隠の王"
     ],
     "id": 3655,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/79037.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5630,
     "createdAt": "2020-10-12T15:38:39.000Z",
-    "updatedAt": "2021-04-15T14:44:57.000Z",
+    "updatedAt": "2021-10-01T13:33:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,4 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hanyo-yashahime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16141"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24332"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yashahime:_Princess_Half-Demon"
+    }
+  ],
   "altTitle": [
     "Yashahime: Princess Half-Demon: The Second Act",
     "Hanyou no Yashahime: Sengoku Otogizoushi 2nd Season",
@@ -11,8 +29,48 @@
   "image": "https://cdn.myanimelist.net/images/anime/1513/116926.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 16141,
   "createdAt": "2021-07-20T02:49:43.000Z",
-  "updatedAt": "2021-09-27T08:37:14.000Z",
+  "updatedAt": "2021-10-02T11:01:03.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou": {
+        "identifier": "hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou",
+        "url": "https://gogoanime.pe/category/hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou",
+        "image": "https://gogocdn.net/cover/hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48505,
+        "aniId": 131264,
+        "createdAt": "2021-10-02T11:00:54.000Z",
+        "updatedAt": "2021-10-02T11:30:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "86mq": {
+        "identifier": "86mq",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou",
+        "url": "https://9anime.to/watch/yashahime-princess-half-demon-the-second-act.86mq",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/26/26cd663672cfdd766d165fd874de14c8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48505,
+        "aniId": 131264,
+        "createdAt": "2021-10-02T11:01:34.000Z",
+        "updatedAt": "2021-10-02T11:30:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,6 +1,17 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1905"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1479"
+    }
+  ],
   "altTitle": [
-    "Miracle Girl Limit-chan, Cybernella",
+    "Miracle Girl Limit-chan",
+    "Cybernella",
     "ミラクル少女リミットちゃん"
   ],
   "id": 3630,
@@ -10,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/17491.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1905,
   "createdAt": "2020-10-12T15:38:39.000Z",
-  "updatedAt": "2021-04-27T22:18:30.000Z",
+  "updatedAt": "2021-10-01T13:08:03.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1232"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3885"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E5%BF%97_%28%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB%29"
+      }
+    ],
     "altTitle": [
       "Great Conquest: Romance of Three Kingdoms",
       "Sangokushi [2] Choukou Moyu!",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/72330.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 1232,
     "createdAt": "2020-10-12T15:38:57.000Z",
-    "updatedAt": "2021-09-24T18:45:25.000Z",
+    "updatedAt": "2021-10-02T02:06:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

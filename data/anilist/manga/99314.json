@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-05T12:48:57.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "afurete_shimau": {
+        "authors": [
+          "ARAI Yoshimi"
+        ],
+        "identifier": "afurete_shimau",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Afurete Shimau",
+        "url": "https://fanfox.net/manga/afurete_shimau/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27019/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108368,
+        "aniId": 99314,
+        "createdAt": "2021-09-30T08:36:21.000Z",
+        "updatedAt": "2021-09-30T09:36:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

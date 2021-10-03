@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.mmv.co.jp/special/daimao/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6968"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11179"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ichiban_Ushiro_no_Daima%C5%8D"
+      }
+    ],
     "altTitle": [
-      "Mo Hitotsu Omake no Daimaou, Another Extra Daimaou",
+      "Mo Hitotsu Omake no Daimaou",
+      "Another Extra Daimaou",
       "いちばんうしろの大魔王"
     ],
     "id": 8465,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/80505.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 6968,
     "createdAt": "2020-10-12T15:38:59.000Z",
-    "updatedAt": "2021-04-07T21:50:58.000Z",
+    "updatedAt": "2021-10-02T03:38:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,7 +1,26 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hicbc.com/tv/ray/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4049"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6163"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ray_the_Animation"
+    }
+  ],
   "altTitle": [
     "Ray The Animation",
-    "Ray Project, Ray: The Animation",
+    "Ray Project",
+    "Ray: The Animation",
     "RAY THE ANIMATION"
   ],
   "id": 919,
@@ -11,8 +30,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/33315.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 4049,
   "createdAt": "2020-10-12T15:38:10.000Z",
-  "updatedAt": "2021-04-26T08:57:23.000Z",
+  "updatedAt": "2021-09-30T18:03:16.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

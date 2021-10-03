@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=885"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=86"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hen_(manga)"
+    }
+  ],
   "altTitle": [
     "Strange Love",
     "変"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/4818.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 885,
   "createdAt": "2020-10-12T15:38:28.000Z",
-  "updatedAt": "2021-06-21T01:51:00.000Z",
+  "updatedAt": "2021-10-01T05:39:38.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

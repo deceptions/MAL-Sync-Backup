@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=338"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2927"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Starship_Girl_Yamamoto_Yohko"
+      }
+    ],
     "altTitle": [
       "Starship Girl Yamamoto Yohko",
       "Space Cruiser Yoko Yamamoto",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1702/90153.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 338,
     "createdAt": "2020-10-12T15:38:12.000Z",
-    "updatedAt": "2021-09-09T14:34:59.000Z",
+    "updatedAt": "2021-09-30T19:36:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

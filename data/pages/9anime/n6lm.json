@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/ova/seiya/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=343"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1797"
+      }
+    ],
     "altTitle": [
       "Saint Seiya: The Hades Chapter - Sanctuary",
-      "Saint Seiya Hades, Saint Seiya: The Hades Sanctuary Chapter",
+      "Saint Seiya Hades",
+      "Saint Seiya: The Hades Sanctuary Chapter",
       "聖闘士星矢 冥王ハーデス十二宮編"
     ],
     "id": 1257,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/16343.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 343,
     "createdAt": "2020-10-12T15:38:14.000Z",
-    "updatedAt": "2021-04-26T14:41:39.000Z",
+    "updatedAt": "2021-09-30T21:04:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=490"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=146"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fake_%28anime%29"
+    }
+  ],
   "altTitle": [
     "FAKE"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/25196.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 490,
   "createdAt": "2020-10-12T15:38:03.000Z",
-  "updatedAt": "2021-04-12T19:45:28.000Z",
+  "updatedAt": "2021-09-30T13:08:35.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

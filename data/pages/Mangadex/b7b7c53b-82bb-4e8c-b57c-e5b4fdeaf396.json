@@ -13,11 +13,12 @@
   "active": true,
   "actor": null,
   "malId": 120258,
-  "aniId": null,
+  "aniId": 109863,
   "createdAt": "2021-07-16T05:32:53.000Z",
-  "updatedAt": "2021-07-16T05:33:02.000Z",
+  "updatedAt": "2021-09-30T11:00:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": null,
     "altTitle": [
       "Assertive Fox Spirit",
       "おしかけ妖狐さま"
@@ -36,6 +37,26 @@
     "updatedAt": "2021-07-16T05:33:02.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "おしかけ妖狐さま",
+      "Assertive Fox Spirit"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Herio"
+    ],
+    "id": 109863,
+    "malId": 120258,
+    "type": "manga",
+    "title": "Oshikake Yoko-sama",
+    "url": "https://anilist.co/manga/109863",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109863-z5fMiEnZ7Fmk.png",
+    "category": "one_shot",
+    "hentai": true,
+    "createdAt": "2021-09-30T10:30:52.000Z",
+    "updatedAt": "2021-09-30T10:30:52.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/120258/Oshikake_Youko-sama"
 }

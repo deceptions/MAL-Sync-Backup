@@ -1,7 +1,23 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2329"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1388"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%A4%A2%E3%81%AE%E6%98%9F%E3%81%AE%E3%83%9C%E3%82%BF%E3%83%B3%E3%83%8E%E3%83%BC%E3%82%BA"
+    }
+  ],
   "altTitle": [
     "Dream Star Button Nose",
-    "Bouton d'Or, Prinzessin Erdbeer, Button Nose",
+    "Bouton d'Or",
+    "Prinzessin Erdbeer",
+    "Button Nose",
     "夢の星のボタンノーズ"
   ],
   "id": 3812,
@@ -11,8 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/74470.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 2329,
   "createdAt": "2020-10-12T15:38:40.000Z",
-  "updatedAt": "2021-04-27T23:48:30.000Z",
+  "updatedAt": "2021-10-01T14:06:16.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

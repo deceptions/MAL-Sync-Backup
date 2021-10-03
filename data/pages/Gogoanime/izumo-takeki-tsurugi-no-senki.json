@@ -15,9 +15,30 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.trinet-ent.com/izumo/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2833"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5092"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Izumo:_Takeki_Tsurugi_no_Senki"
+      }
+    ],
     "altTitle": [
       "Izumo: Flash of a Brave Sword",
-      "Izumo: Flash of a Brave Sword, Izumo: Takeki Ken no Hirameki, Izumo2, Izumo TTnS",
+      "Izumo: Flash of a Brave Sword",
+      "Izumo: Takeki Ken no Hirameki",
+      "Izumo2",
+      "Izumo TTnS",
       "IZUMO -猛き剣の閃記-"
     ],
     "id": 2523,
@@ -27,8 +48,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/18482.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2833,
     "createdAt": "2020-10-12T15:38:30.000Z",
-    "updatedAt": "2021-04-27T09:49:20.000Z",
+    "updatedAt": "2021-10-01T07:05:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

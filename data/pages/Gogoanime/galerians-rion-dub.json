@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:58.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2618"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3423"
+      }
+    ],
     "altTitle": [
       "Galerians: Rion (2003)",
       "ガレリアンズ：リオン"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/38577.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2618,
     "createdAt": "2020-10-12T15:38:19.000Z",
-    "updatedAt": "2021-07-08T21:13:26.000Z",
+    "updatedAt": "2021-10-01T00:01:52.000Z",
     "deletedAt": null
   },
   "Anilist": {

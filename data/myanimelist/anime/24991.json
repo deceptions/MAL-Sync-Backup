@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ngnl.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9998"
+    }
+  ],
   "altTitle": [
     "NGNL Specials",
     "ノーゲーム・ノーライフ ミニ"
@@ -10,8 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/71783.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 9998,
   "createdAt": "2020-10-12T15:39:29.000Z",
-  "updatedAt": "2021-08-21T07:16:09.000Z",
+  "updatedAt": "2021-10-02T10:32:42.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

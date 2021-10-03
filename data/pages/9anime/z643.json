@@ -15,8 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1571"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=554"
+      }
+    ],
     "altTitle": [
-      "City Hunter - Live on Stage, City Hunter: Death of the Vicious Criminal Saeba Ryo, City Hunter - Death of Evil Ryo Saeba",
+      "City Hunter - Live on Stage",
+      "City Hunter: Death of the Vicious Criminal Saeba Ryo",
+      "City Hunter - Death of Evil Ryo Saeba",
       "シティーハンタースペシャル 緊急生中継!?凶悪犯冴羽リョウの最期"
     ],
     "id": 1479,
@@ -26,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1920/92378.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 1571,
     "createdAt": "2020-10-12T15:38:17.000Z",
-    "updatedAt": "2021-04-15T13:15:58.000Z",
+    "updatedAt": "2021-09-30T22:38:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

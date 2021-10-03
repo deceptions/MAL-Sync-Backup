@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2823"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1726"
+      }
+    ],
     "altTitle": [
       "Nell the Wandering Girl",
       "Little Nell",
@@ -27,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1496/101490.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2823,
     "createdAt": "2020-10-12T15:38:40.000Z",
-    "updatedAt": "2021-04-28T00:18:30.000Z",
+    "updatedAt": "2021-10-01T14:32:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

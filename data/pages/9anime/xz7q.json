@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.brainpowered.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=372"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=122"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Brain_Powerd"
+      }
+    ],
     "altTitle": [
       "Brain Powered",
       "ブレンパワード"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1749/91562.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 372,
     "createdAt": "2020-10-12T15:38:18.000Z",
-    "updatedAt": "2021-04-26T18:49:10.000Z",
+    "updatedAt": "2021-09-30T23:07:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

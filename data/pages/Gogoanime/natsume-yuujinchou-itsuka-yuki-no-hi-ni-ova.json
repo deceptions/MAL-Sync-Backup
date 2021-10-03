@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.aniplex.co.jp/natsume/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10447"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17081"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%B3#OVA"
+      }
+    ],
     "altTitle": [
       "Natsume Yuujinchou OVA",
       "Natsume Yujincho OVA",
@@ -29,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/79742.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 10447,
     "createdAt": "2020-10-12T15:39:22.000Z",
-    "updatedAt": "2021-07-16T05:32:40.000Z",
+    "updatedAt": "2021-10-02T20:07:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

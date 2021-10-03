@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6498"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1027"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/マンガ日本経済入門"
+    }
+  ],
   "altTitle": [
     "マンガ日本経済入門"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/29513.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 6498,
   "createdAt": "2020-10-12T17:17:21.000Z",
-  "updatedAt": "2021-04-12T17:46:58.000Z",
+  "updatedAt": "2021-10-02T09:30:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Gogoanime": {

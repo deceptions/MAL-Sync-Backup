@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=322"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=672"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Green_Legend_Ran"
+    }
+  ],
   "altTitle": [
     "グリーンレジェンド乱"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1882/96360.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 322,
   "createdAt": "2020-10-12T15:38:13.000Z",
-  "updatedAt": "2021-08-09T15:40:17.000Z",
+  "updatedAt": "2021-09-30T20:07:40.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

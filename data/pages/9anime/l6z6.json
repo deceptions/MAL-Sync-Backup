@@ -15,8 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sonymusic.co.jp/Animation/kasho/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=168"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4879"
+      }
+    ],
     "altTitle": [
-      "Kashou no Tsuki, Hiyoi no Tsuki, Moon of The Fiery Night",
+      "Kashou no Tsuki",
+      "Hiyoi no Tsuki",
+      "Moon of The Fiery Night",
       "火宵の月 ~秋狂言~"
     ],
     "id": 1036,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/77669.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 168,
     "createdAt": "2020-10-12T15:38:11.000Z",
-    "updatedAt": "2021-04-26T10:57:17.000Z",
+    "updatedAt": "2021-09-30T19:04:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

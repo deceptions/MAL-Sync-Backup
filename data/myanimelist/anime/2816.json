@@ -1,7 +1,26 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1815"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1295"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Daimos"
+    }
+  ],
   "altTitle": [
     "Daimos",
-    "Generał Daimos, Fighting General Daimos, Fighting King Daimos, Daimos, Starbirds, Battle Commander Daimos",
+    "Generał Daimos",
+    "Fighting General Daimos",
+    "Fighting King Daimos",
+    "Daimos",
+    "Starbirds",
+    "Battle Commander Daimos",
     "闘将ダイモス"
   ],
   "id": 2816,
@@ -11,8 +30,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/52301.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1815,
   "createdAt": "2020-10-12T15:38:33.000Z",
-  "updatedAt": "2021-04-27T14:19:31.000Z",
+  "updatedAt": "2021-10-01T09:10:07.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

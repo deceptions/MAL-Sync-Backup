@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2543"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=257"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Shadow_Skill"
+      }
+    ],
     "altTitle": [
       "Shadow Skill 1",
       "Shadow Skill: Epilogue",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/4352.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2543,
     "createdAt": "2020-10-12T15:38:34.000Z",
-    "updatedAt": "2021-09-19T09:41:02.000Z",
+    "updatedAt": "2021-10-01T10:09:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

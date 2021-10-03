@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.dgray-man.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4549"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6764"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/D.Gray-man"
+      }
+    ],
     "altTitle": [
       "D.Gray-man",
       "D. Gray-man",
@@ -28,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/75194.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4549,
     "createdAt": "2020-10-12T15:38:17.000Z",
-    "updatedAt": "2021-09-27T17:08:55.000Z",
+    "updatedAt": "2021-09-30T22:38:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

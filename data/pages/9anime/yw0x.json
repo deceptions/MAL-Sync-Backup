@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://copihan.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8403"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12989"
+      }
+    ],
     "altTitle": [
       "こぴはん"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/75584.jpg",
     "category": "ONA",
     "hentai": false,
+    "anidbId": 8403,
     "createdAt": "2020-10-12T15:39:07.000Z",
-    "updatedAt": "2021-07-17T14:32:33.000Z",
+    "updatedAt": "2021-10-02T09:37:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

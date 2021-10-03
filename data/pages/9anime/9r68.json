@@ -15,9 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3434"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=769"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Violence_Jack"
+      }
+    ],
     "altTitle": [
       "Violence Jack: Evil Town",
-      "Violence Jack: Evil Town, Violence Jack Jigoku Gai, Violence Jack 2, Violence Jack: Jigoku Gai Hen, Violence Jack: Jigoku Gai Arc",
+      "Violence Jack: Evil Town",
+      "Violence Jack Jigoku Gai",
+      "Violence Jack 2",
+      "Violence Jack: Jigoku Gai Hen",
+      "Violence Jack: Jigoku Gai Arc",
       "バイオレンス ジャック 〜地獄街編〜"
     ],
     "id": 1342,
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/12874.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3434,
     "createdAt": "2020-10-12T15:38:15.000Z",
-    "updatedAt": "2021-04-26T15:41:49.000Z",
+    "updatedAt": "2021-09-30T21:38:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3411"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hammerboy"
+    }
+  ],
   "altTitle": [
     "Hammerboy",
     "망치"
@@ -10,8 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/15380.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 3411,
   "createdAt": "2020-10-12T15:38:52.000Z",
-  "updatedAt": "2021-04-28T14:19:21.000Z",
+  "updatedAt": "2021-10-01T23:05:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

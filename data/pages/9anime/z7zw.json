@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ai-tenchi.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10727"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16109"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tenchi_Muyo!"
+      }
+    ],
     "altTitle": [
       "Tenchi Muyo! Love",
       "愛・天地無用!"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/67801.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10727,
     "createdAt": "2020-10-12T15:39:28.000Z",
-    "updatedAt": "2021-04-30T04:48:43.000Z",
+    "updatedAt": "2021-10-03T00:04:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,8 +15,28 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/lineup/tv/runrun/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2043"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3632"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Hana_no_Ko_Lunlun"
+      }
+    ],
     "altTitle": [
-      "Hana no Ko Lunlun Movie, Hana no Ko Runrun, Hello Cherry Garden: Lun Lun the Flower Child",
+      "Hana no Ko Lunlun Movie",
+      "Hana no Ko Runrun",
+      "Hello Cherry Garden: Lun Lun the Flower Child",
       "花の子ルンルン こんにちわ桜の国"
     ],
     "id": 9264,
@@ -26,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/61333.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 2043,
     "createdAt": "2020-10-12T15:39:01.000Z",
-    "updatedAt": "2021-04-29T01:49:42.000Z",
+    "updatedAt": "2021-10-02T05:33:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

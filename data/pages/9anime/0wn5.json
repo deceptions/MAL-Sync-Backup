@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2319"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3843"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86!!%E6%8B%89%E9%BA%BA%E7%94%B7"
+      }
+    ],
     "altTitle": [
-      "Ramenman (Movie), Fight!! Ramenman: Light the Darkness!!",
+      "Ramenman (Movie)",
+      "Fight!! Ramenman: Light the Darkness!!",
       "闘将!!拉麺男"
     ],
     "id": 16728,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1760/96433.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 2319,
     "createdAt": "2020-10-12T15:39:18.000Z",
-    "updatedAt": "2021-04-29T18:18:41.000Z",
+    "updatedAt": "2021-10-02T16:37:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

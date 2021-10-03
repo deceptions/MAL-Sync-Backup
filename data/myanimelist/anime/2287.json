@@ -1,7 +1,23 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4696"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1371"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Kakuto_Ryori_Densetsu_Bistro_Recipe"
+    }
+  ],
   "altTitle": [
     "Fighting Foodons",
-    "Bistro Recipe, Bistro Recipe - Fighting Chef Zen, Legend of Grapple Cooking Bistro Recipe",
+    "Bistro Recipe",
+    "Bistro Recipe - Fighting Chef Zen",
+    "Legend of Grapple Cooking Bistro Recipe",
     "格闘料理伝説ビストロレシピ"
   ],
   "id": 2287,
@@ -11,8 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1715/105092.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 4696,
   "createdAt": "2020-10-12T15:38:28.000Z",
-  "updatedAt": "2021-04-27T06:49:29.000Z",
+  "updatedAt": "2021-10-01T05:34:28.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

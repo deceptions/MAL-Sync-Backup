@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3390"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5140"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/List_of_Case_Closed_OVAs"
+      }
+    ],
     "altTitle": [
       "Meitantei Conan: Conan VS KID VS Yaiba",
       "名探偵コナン: Conan VS KID VS YAIBA"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1518/108529.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3390,
     "createdAt": "2020-10-12T15:38:16.000Z",
-    "updatedAt": "2021-04-15T13:15:08.000Z",
+    "updatedAt": "2021-09-30T21:42:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,8 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=683"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6340"
+      }
+    ],
     "altTitle": [
-      "Torajima no Mime, Mii the Tabby, Miime the Tabby",
+      "Torajima no Mime",
+      "Mii the Tabby",
+      "Miime the Tabby",
       "トラジマのミーめ"
     ],
     "id": 9344,
@@ -26,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/25879.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 683,
     "createdAt": "2020-10-12T15:39:02.000Z",
-    "updatedAt": "2021-04-29T02:18:51.000Z",
+    "updatedAt": "2021-10-02T05:35:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

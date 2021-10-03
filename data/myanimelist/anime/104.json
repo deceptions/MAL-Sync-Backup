@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=131"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ayashi_no_ceres"
+    }
+  ],
   "altTitle": [
     "Ceres, Celestial Legend",
     "妖しのセレス"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/23580.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 131,
   "createdAt": "2020-10-12T15:37:59.000Z",
-  "updatedAt": "2021-05-12T07:55:09.000Z",
+  "updatedAt": "2021-09-30T10:37:42.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

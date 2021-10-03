@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.bestack.co.jp/narue/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=586"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2128"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_World_of_Narue"
+      }
+    ],
     "altTitle": [
       "The World of Narue",
       "Narue's world",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/19048.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 586,
     "createdAt": "2020-10-12T15:38:09.000Z",
-    "updatedAt": "2021-07-17T16:03:00.000Z",
+    "updatedAt": "2021-09-30T17:08:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1176"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tachikoma"
+      }
+    ],
     "altTitle": [
       "Ghost in the Shell: Stand Alone Complex 2nd GIG - Tachikomatic Days",
       "Ghost in the Shell: Stand Alone Complex 2nd GIG - Tachikoma Specials",
@@ -27,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/5799.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 1176,
     "createdAt": "2020-10-12T15:38:38.000Z",
-    "updatedAt": "2021-09-26T22:16:19.000Z",
+    "updatedAt": "2021-10-01T12:36:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

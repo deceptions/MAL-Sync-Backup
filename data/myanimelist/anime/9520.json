@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2195"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1627"
+    }
+  ],
   "altTitle": [
     "ゼロテスター"
   ],
@@ -9,8 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1296/96987.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 2195,
   "createdAt": "2020-10-12T15:39:02.000Z",
-  "updatedAt": "2021-04-29T02:49:31.000Z",
+  "updatedAt": "2021-10-02T06:05:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5015"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2715"
+    }
+  ],
   "altTitle": [
     "シークエンス"
   ],
@@ -9,8 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/89598.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 5015,
   "createdAt": "2020-10-12T15:38:25.000Z",
-  "updatedAt": "2021-04-27T04:18:49.000Z",
+  "updatedAt": "2021-10-01T04:04:13.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

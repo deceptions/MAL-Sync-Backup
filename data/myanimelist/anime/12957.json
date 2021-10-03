@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.vanilla-jp.com/catalog/first/kasumi/main.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8965"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14232"
+    }
+  ],
   "altTitle": [
     "First Love"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1338/103754.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 8965,
   "createdAt": "2020-10-12T19:03:18.000Z",
-  "updatedAt": "2021-04-12T20:15:47.000Z",
+  "updatedAt": "2021-10-02T12:37:14.000Z",
   "deletedAt": null,
   "Pages": {}
 }

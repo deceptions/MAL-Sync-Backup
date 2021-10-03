@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3431"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tachikoma"
+      }
+    ],
     "altTitle": [
       "Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikomatic Days",
       "Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikoma na Hibi",
@@ -27,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/30203.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 3431,
     "createdAt": "2020-10-12T15:39:08.000Z",
-    "updatedAt": "2021-04-29T09:18:40.000Z",
+    "updatedAt": "2021-10-02T10:06:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

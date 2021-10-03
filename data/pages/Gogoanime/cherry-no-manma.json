@@ -15,9 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6670"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7176"
+      }
+    ],
     "altTitle": [
       "Cherry no Manma",
-      "CnM, Cherry no Mama",
+      "CnM",
+      "Cherry no Mama",
       "Cherryのまんま"
     ],
     "id": 6346,
@@ -27,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/16025.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 6670,
     "createdAt": "2020-10-12T15:38:51.000Z",
-    "updatedAt": "2021-04-28T13:18:31.000Z",
+    "updatedAt": "2021-10-01T22:06:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

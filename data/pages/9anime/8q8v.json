@@ -15,9 +15,26 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.oofuri.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4923"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ookiku_Furikabutte"
+      }
+    ],
     "altTitle": [
       "Big Windup!",
-      "Ookiku Furikabutte - The Basics of Basics, Oofuri, Ohkiku Furikabutte, Swing Big!",
+      "Ookiku Furikabutte - The Basics of Basics",
+      "Oofuri",
+      "Ohkiku Furikabutte",
+      "Swing Big!",
       "おおきく振りかぶって 基本のキホン"
     ],
     "id": 3887,
@@ -27,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1588/108620.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 4923,
     "createdAt": "2020-10-12T15:38:40.000Z",
-    "updatedAt": "2021-04-23T19:27:19.000Z",
+    "updatedAt": "2021-10-01T14:34:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

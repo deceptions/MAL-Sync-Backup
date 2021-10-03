@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.dragonaut.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5112"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Dragonaut_-The_Resonance-"
+      }
+    ],
     "altTitle": [
-      "Dragonaut: The Resonance OVA, Dragonaut: The Resonance Special",
+      "Dragonaut: The Resonance OVA",
+      "Dragonaut: The Resonance Special",
       "ドラゴノーツ-ザ・レソナンス- 孤島 -閉ざされた狂騒-"
     ],
     "id": 5072,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/31303.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 5112,
     "createdAt": "2020-10-12T15:38:45.000Z",
-    "updatedAt": "2021-04-28T06:48:40.000Z",
+    "updatedAt": "2021-10-01T18:08:10.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10060"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16599"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E8%92%BC%E3%81%8D%E3%82%A6%E3%83%AB"
+    }
+  ],
   "altTitle": [
     "Uru in Blue",
     "Blue Uru",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/71915.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 10060,
   "createdAt": "2020-10-12T15:39:22.000Z",
-  "updatedAt": "2021-04-29T22:49:03.000Z",
+  "updatedAt": "2021-10-02T20:04:34.000Z",
   "deletedAt": null,
   "Pages": {}
 }

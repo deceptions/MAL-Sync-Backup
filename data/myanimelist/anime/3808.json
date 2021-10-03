@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3489"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1947"
+    }
+  ],
   "altTitle": [
     "Futari Daka",
     "Twin Hawks",
@@ -12,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/59891.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 3489,
   "createdAt": "2021-09-23T01:11:52.000Z",
-  "updatedAt": "2021-09-23T01:11:52.000Z",
+  "updatedAt": "2021-10-01T14:05:46.000Z",
   "deletedAt": null,
   "Pages": {}
 }

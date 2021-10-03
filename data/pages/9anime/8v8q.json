@@ -15,8 +15,24 @@
   "updatedAt": "2021-06-22T10:14:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7713"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7011"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/三国志_(日本テレビ)"
+      }
+    ],
     "altTitle": [
-      "Romance of the Three Kingdoms, Sangokushi I, Sangokushi (special)",
+      "Romance of the Three Kingdoms",
+      "Sangokushi I",
+      "Sangokushi (special)",
       "三国志"
     ],
     "id": 8677,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1843/103238.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 7713,
     "createdAt": "2020-10-12T15:39:00.000Z",
-    "updatedAt": "2021-05-23T13:43:18.000Z",
+    "updatedAt": "2021-10-02T04:08:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

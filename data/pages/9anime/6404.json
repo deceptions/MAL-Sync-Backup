@@ -15,8 +15,19 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4314"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7131"
+      }
+    ],
     "altTitle": [
-      "Blue Flames, Aoi Honoo",
+      "Blue Flames",
+      "Aoi Honoo",
       "青き炎"
     ],
     "id": 3306,
@@ -26,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/25644.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4314,
     "createdAt": "2020-10-12T15:38:37.000Z",
-    "updatedAt": "2021-04-27T19:19:00.000Z",
+    "updatedAt": "2021-10-01T11:39:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

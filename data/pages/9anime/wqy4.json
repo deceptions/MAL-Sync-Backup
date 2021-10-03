@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nagoyatv.com/battlespirits_brave/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7675"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11730"
+      }
+    ],
     "altTitle": [
-      "Battlespirits: Brave, Battle Spirits Season 3",
+      "Battlespirits: Brave",
+      "Battle Spirits Season 3",
       "バトルスピリッツ ブレイヴ"
     ],
     "id": 9346,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/72210.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 7675,
     "createdAt": "2020-10-12T15:39:02.000Z",
-    "updatedAt": "2021-04-29T02:19:01.000Z",
+    "updatedAt": "2021-10-02T05:35:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

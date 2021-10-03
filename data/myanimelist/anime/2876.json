@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5343"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1668"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Metamorphoses_%28film%29"
+    }
+  ],
   "altTitle": [
     "Winds of Change",
-    "Orpheus of the Stars, Metamorphoses",
+    "Orpheus of the Stars",
+    "Metamorphoses",
     "星のオルフェウス"
   ],
   "id": 2876,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/78891.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 5343,
   "createdAt": "2020-10-12T15:38:33.000Z",
-  "updatedAt": "2021-04-27T14:50:00.000Z",
+  "updatedAt": "2021-10-01T09:33:58.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

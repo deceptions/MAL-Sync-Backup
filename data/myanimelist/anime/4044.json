@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1447"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1483"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Y%C5%8Dkai_Ningen_Bem"
+    }
+  ],
   "altTitle": [
-    "Yokai Ningen Bem, Demon-man Bem",
+    "Yokai Ningen Bem",
+    "Demon-man Bem",
     "妖怪人間ベム"
   ],
   "id": 4044,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/64521.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1447,
   "createdAt": "2020-10-12T15:38:41.000Z",
-  "updatedAt": "2021-04-28T01:18:39.000Z",
+  "updatedAt": "2021-10-01T15:06:05.000Z",
   "deletedAt": null,
   "Pages": {}
 }

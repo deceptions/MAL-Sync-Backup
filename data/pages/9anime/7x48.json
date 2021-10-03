@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=583"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=254"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Wei%C3%9F_Kreuz"
+      }
+    ],
     "altTitle": [
       "Knight Hunters",
-      "Weiss Kreuz, White Cross",
+      "Weiss Kreuz",
+      "White Cross",
       "Weiß kreuz　ヴァイス　クロイツ"
     ],
     "id": 447,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/23697.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 583,
     "createdAt": "2020-10-12T15:38:04.000Z",
-    "updatedAt": "2021-05-29T14:13:06.000Z",
+    "updatedAt": "2021-09-30T14:03:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

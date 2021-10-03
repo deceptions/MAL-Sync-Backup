@@ -15,6 +15,16 @@
   "updatedAt": "2021-08-28T12:36:33.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5186"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sketchbook_(manga)"
+      }
+    ],
     "altTitle": [
       "スケッチブック ～full color's～ピクチャードラマ"
     ],
@@ -25,8 +35,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/63003.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 5186,
     "createdAt": "2021-02-02T18:02:04.000Z",
-    "updatedAt": "2021-09-03T12:16:01.000Z",
+    "updatedAt": "2021-10-01T22:02:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

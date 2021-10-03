@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6982"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2587"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Stingiest_Man_in_Town"
+    }
+  ],
   "altTitle": [
     "The Stingiest Man in Town",
-    "A Christmas Carol, The Number One Miser of the City",
+    "A Christmas Carol",
+    "The Number One Miser of the City",
     "町一番のけちんぼう"
   ],
   "id": 19971,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/70125.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 6982,
   "createdAt": "2020-10-12T15:39:22.000Z",
-  "updatedAt": "2021-04-29T22:19:34.000Z",
+  "updatedAt": "2021-10-02T19:37:25.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

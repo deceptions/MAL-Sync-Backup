@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1300"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=499"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mermaid_Saga"
+      }
+    ],
     "altTitle": [
       "Mermaid's Scar",
-      "Ningyo no Kizu, Rumic World 5",
+      "Ningyo no Kizu",
+      "Rumic World 5",
       "人魚の傷"
     ],
     "id": 2017,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1/2144.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1300,
     "createdAt": "2020-10-12T15:38:24.000Z",
-    "updatedAt": "2021-04-27T02:48:50.000Z",
+    "updatedAt": "2021-10-01T03:09:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

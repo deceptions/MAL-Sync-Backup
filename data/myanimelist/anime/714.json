@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1356"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1414"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/High_School!_Kimengumi"
+    }
+  ],
   "altTitle": [
     "Funny Faces in High School",
     "High School Funny-face Club",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1146/106160.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1356,
   "createdAt": "2020-10-12T15:38:07.000Z",
-  "updatedAt": "2021-07-16T05:32:22.000Z",
+  "updatedAt": "2021-09-30T16:10:05.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

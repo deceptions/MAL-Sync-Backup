@@ -1,4 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/fresh_precure/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6280"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10499"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fresh_Pretty_Cure!"
+    }
+  ],
   "altTitle": [
     "Fresh Pretty Cure",
     "フレッシュプリキュア！"
@@ -10,8 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/21267.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 6280,
   "createdAt": "2020-10-12T15:38:48.000Z",
-  "updatedAt": "2021-04-28T09:19:30.000Z",
+  "updatedAt": "2021-09-30T19:33:33.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -30,6 +49,25 @@
         "aniId": 5684,
         "createdAt": "2020-10-12T15:48:50.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "fresh-pretty-cure": {
+        "identifier": "fresh-pretty-cure",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Fresh Pretty Cure",
+        "url": "https://gogoanime.pe/category/fresh-pretty-cure",
+        "image": "https://gogocdn.net/images/anime/F/fresh-pretty-cure.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5684,
+        "aniId": 5684,
+        "createdAt": "2021-09-30T19:33:14.000Z",
+        "updatedAt": "2021-09-30T20:00:52.000Z",
         "deletedAt": null
       }
     }

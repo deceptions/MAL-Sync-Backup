@@ -15,6 +15,12 @@
   "updatedAt": "2021-05-27T15:58:56.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13142"
+      }
+    ],
     "altTitle": [
       "エデン"
     ],
@@ -25,8 +31,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/51349.jpg",
     "category": "Music",
     "hentai": false,
+    "anidbId": 13142,
     "createdAt": "2021-05-27T15:58:55.000Z",
-    "updatedAt": "2021-05-27T15:58:55.000Z",
+    "updatedAt": "2021-10-02T19:02:23.000Z",
     "deletedAt": null
   },
   "Anilist": null,

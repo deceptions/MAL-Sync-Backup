@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.aquarion.info/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2830"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4796"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sousei_no_Aquarion"
+      }
+    ],
     "altTitle": [
       "Aquarion",
-      "Genesis of Aquarion, Holy Genesis Aquarion",
+      "Genesis of Aquarion",
+      "Holy Genesis Aquarion",
       "創聖のアクエリオン"
     ],
     "id": 478,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/76291.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2830,
     "createdAt": "2020-10-12T15:38:04.000Z",
-    "updatedAt": "2021-04-15T13:14:37.000Z",
+    "updatedAt": "2021-09-30T14:09:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

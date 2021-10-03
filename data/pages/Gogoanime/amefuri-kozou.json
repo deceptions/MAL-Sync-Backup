@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3614"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4987"
+      }
+    ],
     "altTitle": [
       "Rain Boy",
       "雨ふり小僧"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/54631.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3614,
     "createdAt": "2020-10-12T15:38:51.000Z",
-    "updatedAt": "2021-05-23T14:12:58.000Z",
+    "updatedAt": "2021-10-01T22:33:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

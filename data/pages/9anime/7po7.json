@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.pokemon.co.jp/anime/movie/1998/pika.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6796"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4618"
+      }
+    ],
     "altTitle": [
       "Pokemon: Pikachu's Summer Vacation",
-      "Pocket Monsters: Pikachu no Natsuyasumi, Pikachu Short 1",
+      "Pocket Monsters: Pikachu no Natsuyasumi",
+      "Pikachu Short 1",
       "ピカチュウのなつやすみ"
     ],
     "id": 5526,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/26367.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 6796,
     "createdAt": "2020-10-12T15:38:47.000Z",
-    "updatedAt": "2021-04-28T08:49:11.000Z",
+    "updatedAt": "2021-10-01T19:36:57.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=59"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1034"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Night_Warriors:_Darkstalkers%27_Revenge_%28anime%29"
+      }
+    ],
     "altTitle": [
       "Night Warriors: Darkstalkers' Revenge",
       "Vampire Hunter: The Animated Series",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/7358.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 59,
     "createdAt": "2020-10-12T15:38:23.000Z",
-    "updatedAt": "2021-04-27T01:19:20.000Z",
+    "updatedAt": "2021-10-01T02:39:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

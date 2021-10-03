@@ -15,7 +15,18 @@
   "updatedAt": "2021-06-23T17:44:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anpan-movie.com/2014/pc/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10581"
+      }
+    ],
     "altTitle": [
+      "Anpanman: Apple Boy and Everyone's Hope",
       "それいけ! アンパンマン りんごぼうやとみんなの願い"
     ],
     "id": 23617,
@@ -25,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/71817.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 10581,
     "createdAt": "2020-10-12T15:39:27.000Z",
-    "updatedAt": "2021-05-27T17:29:29.000Z",
+    "updatedAt": "2021-10-02T23:08:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

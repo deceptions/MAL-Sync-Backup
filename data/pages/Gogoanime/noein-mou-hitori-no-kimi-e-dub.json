@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.noein.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3512"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5887"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Noein"
+      }
+    ],
     "altTitle": [
       "Noein: to your other self",
       "Noein: Toward Another You",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1/584.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3512,
     "createdAt": "2020-10-12T15:38:06.000Z",
-    "updatedAt": "2021-04-26T04:27:45.000Z",
+    "updatedAt": "2021-09-30T15:08:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

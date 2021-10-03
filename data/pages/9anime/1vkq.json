@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tigerandbunny.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8101"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12198"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tiger_&_Bunny"
+      }
+    ],
     "altTitle": [
       "Tiger & Bunny",
       "Tiger and Bunny",
@@ -28,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/29466.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8101,
     "createdAt": "2020-10-12T15:39:04.000Z",
-    "updatedAt": "2021-08-21T10:16:17.000Z",
+    "updatedAt": "2021-10-02T07:07:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

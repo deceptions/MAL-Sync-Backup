@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2893"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3110"
+    }
+  ],
   "altTitle": [
     "CLOVER"
   ],
@@ -9,8 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/3710.jpg",
   "category": "Music",
   "hentai": false,
+  "anidbId": 2893,
   "createdAt": "2020-10-12T15:38:23.000Z",
-  "updatedAt": "2021-04-27T00:19:30.000Z",
+  "updatedAt": "2021-10-01T02:10:04.000Z",
   "deletedAt": null,
   "Pages": {}
 }

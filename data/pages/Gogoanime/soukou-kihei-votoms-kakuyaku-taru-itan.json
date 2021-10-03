@@ -15,6 +15,20 @@
   "updatedAt": "2021-09-08T21:34:29.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3998"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6972"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Armored_Trooper_VOTOMS"
+      }
+    ],
     "altTitle": [
       "Armored Trooper Votoms: The Defrost",
       "Armored Trooper Votoms: The Heretic Saint",
@@ -31,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1212/94628.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3998,
     "createdAt": "2020-10-12T15:38:30.000Z",
-    "updatedAt": "2021-09-08T21:05:11.000Z",
+    "updatedAt": "2021-10-01T07:34:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

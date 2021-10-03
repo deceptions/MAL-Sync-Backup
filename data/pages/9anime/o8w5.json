@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nhk.or.jp/bs/joshianime/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8208"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12396"
+      }
+    ],
     "altTitle": [
       "Kawamo wo Suberu Kaze",
       "A Wind Skimming the River's Surface",
@@ -30,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/28531.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 8208,
     "createdAt": "2020-10-12T15:39:05.000Z",
-    "updatedAt": "2021-07-09T10:43:26.000Z",
+    "updatedAt": "2021-10-01T11:31:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2795"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=331"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%90%E3%82%A4%E3%82%B9"
+    }
+  ],
   "altTitle": [
     "The Tokyo Project",
     "トウキョウ・バイス"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/54321.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 2795,
   "createdAt": "2020-10-12T15:38:24.000Z",
-  "updatedAt": "2021-07-12T08:15:04.000Z",
+  "updatedAt": "2021-10-01T03:07:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4667"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2013"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BA%E6%98%8EBOY%E3%82%AB%E3%83%8B%E3%83%91%E3%83%B3"
+    }
+  ],
   "altTitle": [
-    "Inventor Boy Kanipan, Gadget Boy Kanipan",
+    "Inventor Boy Kanipan",
+    "Gadget Boy Kanipan",
     "発明BOYカニパン"
   ],
   "id": 3689,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/3/46389.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 4667,
   "createdAt": "2020-10-12T15:38:39.000Z",
-  "updatedAt": "2021-04-27T22:48:30.000Z",
+  "updatedAt": "2021-10-01T13:36:06.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

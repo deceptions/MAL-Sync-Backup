@@ -1,4 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://shinnonakama.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15853"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23947"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Banished_From_The_Heroes'_Party,_I_Decided_to_Live_a_Quiet_Life_in_the_Countryside"
+    }
+  ],
   "altTitle": [
     "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside",
     "I Was Kicked out of the Hero's Party Because I Wasn't a True Companion so I Decided to Have a Slow Life at the Frontier",
@@ -11,8 +29,29 @@
   "image": "https://cdn.myanimelist.net/images/anime/1723/117854.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 15853,
   "createdAt": "2021-09-27T08:44:06.000Z",
-  "updatedAt": "2021-09-27T08:44:06.000Z",
+  "updatedAt": "2021-10-01T17:01:13.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "n1ol": {
+        "identifier": "n1ol",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+        "url": "https://9anime.to/watch/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside.n1ol",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/c7/c7d5738f62408fc0cf77f82f2374bb03.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44037,
+        "aniId": 126213,
+        "createdAt": "2021-10-02T11:01:33.000Z",
+        "updatedAt": "2021-10-02T11:30:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3328"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5154"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hamtaro"
+    }
+  ],
   "altTitle": [
     "Hamtaro: Ham-Hams Ahoy!",
-    "Hamtaro OVA 2, Tottoko Hamutarou: Hamuchanzu no Takara Sagashi Daisaku Hamuha! Sutekina Umi Nonatsuyasumi",
+    "Hamtaro OVA 2",
+    "Tottoko Hamutarou: Hamuchanzu no Takara Sagashi Daisaku Hamuha! Sutekina Umi Nonatsuyasumi",
     "ハムちゃんずの宝さがし大作戦〜はむはー!すてきな海のなつやすみ〜"
   ],
   "id": 8949,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/24826.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 3328,
   "createdAt": "2020-10-12T15:39:00.000Z",
-  "updatedAt": "2021-04-12T19:46:38.000Z",
+  "updatedAt": "2021-10-02T04:37:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

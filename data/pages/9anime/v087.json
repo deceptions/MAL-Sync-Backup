@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4601"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6786"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Hanoka"
+      }
+    ],
     "altTitle": [
       "HANOKA～葉ノ香～"
     ],
@@ -22,11 +36,12 @@
     "type": "anime",
     "title": "Hanoka",
     "url": "https://myanimelist.net/anime/1812/Hanoka",
-    "image": "https://cdn.myanimelist.net/images/anime/1/1812.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1710/101586.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4601,
     "createdAt": "2020-10-12T15:38:22.000Z",
-    "updatedAt": "2021-04-26T23:18:59.000Z",
+    "updatedAt": "2021-10-01T01:34:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9090"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13222"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Seitokai_no_Ichizon"
+      }
+    ],
     "altTitle": [
       "Student Council's Discretion Level 2",
       "生徒会の一存 Lv.2"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/75645.jpg",
     "category": "ONA",
     "hentai": false,
+    "anidbId": 9090,
     "createdAt": "2020-10-12T15:39:06.000Z",
-    "updatedAt": "2021-07-29T18:22:39.000Z",
+    "updatedAt": "2021-10-02T08:38:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

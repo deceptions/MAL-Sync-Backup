@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://akudama-drive.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15437"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23366"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%80%E3%83%9E%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96"
+      }
+    ],
     "altTitle": [
       "Akudama Drive",
       "アクダマドライブ"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 15437,
     "createdAt": "2020-10-12T15:40:15.000Z",
-    "updatedAt": "2021-09-27T15:38:55.000Z",
+    "updatedAt": "2021-09-30T11:02:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

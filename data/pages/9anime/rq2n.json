@@ -15,8 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=82"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2124"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Dual%21_Parare_Runrun_Monogatari"
+      }
+    ],
     "altTitle": [
-      "Dual! Parallel Trouble Adventures Special, Dual Parallel! Trouble Adventures - Final Frontier, Dual! Parallel Lunlun Monogatari Special",
+      "Dual! Parallel Trouble Adventures Special",
+      "Dual Parallel! Trouble Adventures - Final Frontier",
+      "Dual! Parallel Lunlun Monogatari Special",
       "デュアル！ぱられルンルン物語「ファイナル・フロンティア」"
     ],
     "id": 993,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/26319.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 82,
     "createdAt": "2020-10-12T15:38:11.000Z",
-    "updatedAt": "2021-04-26T09:57:37.000Z",
+    "updatedAt": "2021-09-30T18:36:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

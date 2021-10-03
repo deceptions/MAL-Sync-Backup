@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=254"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=289"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Plastic_Little"
+    }
+  ],
   "altTitle": [
     "Plastic Little: The Adventures of Captain Tita",
     "プラスチックリトル"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/2599.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 254,
   "createdAt": "2020-10-12T15:38:28.000Z",
-  "updatedAt": "2021-06-05T21:50:29.000Z",
+  "updatedAt": "2021-10-01T06:01:02.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

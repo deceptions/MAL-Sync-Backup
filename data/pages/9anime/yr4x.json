@@ -15,9 +15,21 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2291"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2078"
+      }
+    ],
     "altTitle": [
       "Little Women II: Jo's Boys",
-      "Sekai Meisaku Gekijou, Ai no Wakakusa Monogatari II, Little Men",
+      "Sekai Meisaku Gekijou",
+      "Ai no Wakakusa Monogatari II",
+      "Little Men",
       "若草物語ナンとジョー先生"
     ],
     "id": 2558,
@@ -27,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/3276.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2291,
     "createdAt": "2020-10-12T15:38:30.000Z",
-    "updatedAt": "2021-04-27T10:19:00.000Z",
+    "updatedAt": "2021-10-01T07:09:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

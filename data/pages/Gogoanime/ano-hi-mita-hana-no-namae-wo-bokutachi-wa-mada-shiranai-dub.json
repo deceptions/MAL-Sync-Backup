@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.anohana.jp/tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8181"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12368"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Anohana:_The_Flower_We_Saw_That_Day"
+      }
+    ],
     "altTitle": [
       "anohana: The Flower We Saw That Day",
       "AnoHana",
@@ -28,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/79697.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8181,
     "createdAt": "2020-10-12T15:39:04.000Z",
-    "updatedAt": "2021-09-27T15:07:34.000Z",
+    "updatedAt": "2021-10-02T07:10:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

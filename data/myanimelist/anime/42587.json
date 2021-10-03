@@ -1,4 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://yuyuyu.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15665"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23555"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yuki_Yuna_Is_a_Hero#Anime"
+    }
+  ],
   "altTitle": [
     "Yuki Yuna is a Hero: The Great Mankai Chapter",
     "Yuki Yuna is a Hero: The Great Full Blossom Chapter",
@@ -11,8 +29,48 @@
   "image": "https://cdn.myanimelist.net/images/anime/1139/116580.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 15665,
   "createdAt": "2020-10-12T16:57:27.000Z",
-  "updatedAt": "2021-09-27T08:42:36.000Z",
+  "updatedAt": "2021-10-01T18:02:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "yuuki-yuuna-wa-yuusha-de-aru-dai-mankai-no-shou": {
+        "identifier": "yuuki-yuuna-wa-yuusha-de-aru-dai-mankai-no-shou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou",
+        "url": "https://gogoanime.pe/category/yuuki-yuuna-wa-yuusha-de-aru-dai-mankai-no-shou",
+        "image": "https://gogocdn.net/cover/yuuki-yuuna-wa-yuusha-de-aru-dai-mankai-no-shou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42587,
+        "aniId": 122292,
+        "createdAt": "2021-10-01T19:00:52.000Z",
+        "updatedAt": "2021-10-01T19:30:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "106x": {
+        "identifier": "106x",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou",
+        "url": "https://9anime.to/watch/yuki-yuna-is-a-hero-the-great-mankai-chapter.106x",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a7/a766014d90291a2428f85d7e810dc33e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42587,
+        "aniId": 122292,
+        "createdAt": "2021-10-02T00:31:03.000Z",
+        "updatedAt": "2021-10-02T01:00:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

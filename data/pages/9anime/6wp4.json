@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.majin.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5246"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8209"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tokyo_Majin_Gakuen_Kenpuch%C5%8D:_T%C5%8D"
+      }
+    ],
     "altTitle": [
       "Tokyo Majin Gakuen Kenpucho: Tou Kenbu Hen",
       "Tokyo Majin Gakuen Kenpucho Tou: Dainimaku",
@@ -28,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/21754.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5246,
     "createdAt": "2020-10-12T15:38:31.000Z",
-    "updatedAt": "2021-09-05T06:16:03.000Z",
+    "updatedAt": "2021-10-01T08:09:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

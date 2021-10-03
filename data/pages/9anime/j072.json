@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2762"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1772"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Soar_High!_Isami"
+      }
+    ],
     "altTitle": [
       "Soar High! Isami",
       "Fly! Isami",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/21083.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2762,
     "createdAt": "2020-10-12T15:38:35.000Z",
-    "updatedAt": "2021-04-27T16:48:50.000Z",
+    "updatedAt": "2021-10-01T10:33:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

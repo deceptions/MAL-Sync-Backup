@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5008"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7074"
+      }
+    ],
     "altTitle": [
       "The Chocolate Picture Panic Show",
       "ザ・チョコレートパニック・ピクチャーショー"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/81052.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 5008,
     "createdAt": "2020-10-12T15:38:48.000Z",
-    "updatedAt": "2021-04-28T09:18:31.000Z",
+    "updatedAt": "2021-10-01T19:40:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

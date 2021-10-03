@@ -15,9 +15,29 @@
   "updatedAt": "2021-07-22T15:03:48.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.suparobo.jp/srw_lineup/ova/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3394"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4431"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Super_Robot_Wars_Original_Generation:_The_Animation"
+      }
+    ],
     "altTitle": [
       "Super Robot Wars Original Generation: The Animation",
-      "Super Robot Taisen Original Generation - The Animation, Super Robot Wars OG: The Animation, SRWOG",
+      "Super Robot Taisen Original Generation - The Animation",
+      "Super Robot Wars OG: The Animation",
+      "SRWOG",
       "スーパーロボット大戦 ORIGINAL GENERATION THE ANIMATION"
     ],
     "id": 1544,
@@ -27,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/24378.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3394,
     "createdAt": "2021-05-24T19:38:27.000Z",
-    "updatedAt": "2021-05-24T19:38:27.000Z",
+    "updatedAt": "2021-09-30T23:08:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

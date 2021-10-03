@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4862"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3476"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ashita_No_Joe"
+    }
+  ],
   "altTitle": [
     "あしたのジョー２"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/53557.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 4862,
   "createdAt": "2020-10-12T18:58:38.000Z",
-  "updatedAt": "2021-04-26T19:19:29.000Z",
+  "updatedAt": "2021-10-01T09:37:57.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

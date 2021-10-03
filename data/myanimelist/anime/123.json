@@ -1,7 +1,26 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://pierrot.jp/archives/tv_list_1995/tv_030.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=87"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=178"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fushigi_Yuugi"
+    }
+  ],
   "altTitle": [
     "Mysterious Play",
-    "Fushigi Yugi, Curious Play",
+    "Fushigi Yugi",
+    "Curious Play",
     "ふしぎ遊戯"
   ],
   "id": 123,
@@ -11,8 +30,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/20140.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 87,
   "createdAt": "2020-10-12T15:37:59.000Z",
-  "updatedAt": "2021-03-29T12:18:54.000Z",
+  "updatedAt": "2021-09-30T11:01:42.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

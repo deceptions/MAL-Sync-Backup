@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime.prisma-illya.jp/2wei/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10091"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15630"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Fate/kaleid_liner_Prisma_Illya"
+      }
+    ],
     "altTitle": [
       "Fate/Kaleid Liner Prisma Illya 2Wei!",
-      "Prisma Illya 2wei!, Prisma☆Illya 2nd Season",
+      "Prisma Illya 2wei!",
+      "Prisma☆Illya 2nd Season",
       "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!"
     ],
     "id": 20509,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/64175.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10091,
     "createdAt": "2020-10-12T15:39:22.000Z",
-    "updatedAt": "2021-04-26T13:42:40.000Z",
+    "updatedAt": "2021-10-02T20:05:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

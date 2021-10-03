@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://shop.toei-video.co.jp/products/detail.php?product_id=7523"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4235"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3294"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Be-Bop_High_School"
+      }
+    ],
     "altTitle": [
-      "Be-Bop-High School, Be-Bop High School",
+      "Be-Bop-High School",
+      "Be-Bop High School",
       "ビー・バップ・ハイスクール"
     ],
     "id": 9645,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/26707.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4235,
     "createdAt": "2020-10-12T15:39:03.000Z",
-    "updatedAt": "2021-04-29T03:48:31.000Z",
+    "updatedAt": "2021-10-02T06:31:12.000Z",
     "deletedAt": null
   },
   "Anilist": {

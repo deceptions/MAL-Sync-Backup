@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nhk.or.jp/bs/joshianime/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8208"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12396"
+    }
+  ],
   "altTitle": [
     "Kawamo wo Suberu Kaze",
     "A Wind Skimming the River's Surface",
@@ -14,8 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/28531.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 8208,
   "createdAt": "2020-10-12T15:39:05.000Z",
-  "updatedAt": "2021-07-09T10:43:26.000Z",
+  "updatedAt": "2021-10-01T11:31:02.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -34,6 +49,25 @@
         "aniId": 10178,
         "createdAt": "2020-10-12T15:54:10.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "otona-joshi-no-anime-time": {
+        "identifier": "otona-joshi-no-anime-time",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Otona Joshi no Anime Time",
+        "url": "https://gogoanime.pe/category/otona-joshi-no-anime-time",
+        "image": "https://gogocdn.net/cover/otona-joshi-no-anime-time.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10178,
+        "aniId": 10178,
+        "createdAt": "2021-10-01T11:30:52.000Z",
+        "updatedAt": "2021-10-01T12:00:52.000Z",
         "deletedAt": null
       }
     }

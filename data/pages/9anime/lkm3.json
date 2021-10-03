@@ -15,9 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4880"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13113"
+      }
+    ],
     "altTitle": [
       "Naruto Shippuden: Konoha Gakuen - Special",
-      "NARUTO Shippu Konoha Gakuen Den Special, Konoha High",
+      "NARUTO Shippu Konoha Gakuen Den Special",
+      "Konoha High",
       "NARUTO 疾風伝「疾風! \"木ノ葉学園\"伝」"
     ],
     "id": 4134,
@@ -27,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/51895.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 4880,
     "createdAt": "2020-10-12T15:38:42.000Z",
-    "updatedAt": "2021-04-15T14:45:18.000Z",
+    "updatedAt": "2021-10-01T15:34:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

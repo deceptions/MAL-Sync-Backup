@@ -15,9 +15,30 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kuroshitsuji.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10402"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16030"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Black_Butler"
+      }
+    ],
     "altTitle": [
       "Black Butler: Book of Circus",
-      "Kuroshitsuji Circus Hen, Kuroshitsuji Shin Series, Black Butler 3, Kuroshitsuji III",
+      "Kuroshitsuji Circus Hen",
+      "Kuroshitsuji Shin Series",
+      "Black Butler 3",
+      "Kuroshitsuji III",
       "黒執事 Book of Circus"
     ],
     "id": 22145,
@@ -27,8 +48,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/64811.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10402,
     "createdAt": "2020-10-12T15:39:25.000Z",
-    "updatedAt": "2021-04-14T05:45:37.000Z",
+    "updatedAt": "2021-10-02T21:38:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

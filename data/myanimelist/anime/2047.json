@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3473"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3386"
+    }
+  ],
   "altTitle": [
     "Mermaid",
     "人魚"
@@ -10,8 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/27252.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 3473,
   "createdAt": "2020-10-12T15:38:25.000Z",
-  "updatedAt": "2021-04-27T03:18:30.000Z",
+  "updatedAt": "2021-10-01T03:35:14.000Z",
   "deletedAt": null,
   "Pages": {}
 }

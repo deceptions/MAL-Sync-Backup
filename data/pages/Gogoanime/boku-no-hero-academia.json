@@ -15,6 +15,24 @@
   "updatedAt": "2021-07-25T04:53:36.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.heroaca.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11739"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17786"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/My_Hero_Academia"
+      }
+    ],
     "altTitle": [
       "My Hero Academia",
       "僕のヒーローアカデミア"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 11739,
     "createdAt": "2020-10-12T15:39:41.000Z",
-    "updatedAt": "2021-09-27T08:33:54.000Z",
+    "updatedAt": "2021-09-30T23:33:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

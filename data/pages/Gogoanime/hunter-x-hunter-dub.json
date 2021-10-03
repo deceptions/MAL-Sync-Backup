@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nippon-animation.co.jp/na/hunter/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=132"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1134"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Hunter_×_Hunter_(1999_TV_series)"
+      }
+    ],
     "altTitle": [
       "Hunter x Hunter",
       "HxH",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/19473.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 132,
     "createdAt": "2020-10-12T15:38:00.000Z",
-    "updatedAt": "2021-06-30T15:51:04.000Z",
+    "updatedAt": "2021-09-30T11:05:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

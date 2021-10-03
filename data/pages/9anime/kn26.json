@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7462"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7279"
+      }
+    ],
     "altTitle": [
       "Izumo (1991)",
       "IZUMO [イズモ]"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1035/96202.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 7462,
     "createdAt": "2021-02-21T09:03:30.000Z",
-    "updatedAt": "2021-08-21T09:16:08.000Z",
+    "updatedAt": "2021-10-01T20:38:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

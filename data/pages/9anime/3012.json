@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kinonotabi.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=575"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1965"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kino%27s_Journey"
+      }
+    ],
     "altTitle": [
       "Kino's Journey",
       "Kino's Travels: The Beautiful World",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1763/95397.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 575,
     "createdAt": "2020-10-12T15:38:04.000Z",
-    "updatedAt": "2021-07-01T00:21:13.000Z",
+    "updatedAt": "2021-09-30T14:10:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

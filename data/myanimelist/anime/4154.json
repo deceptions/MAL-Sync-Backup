@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tatsunoko.co.jp/works/yattodetaman/yattodetaman.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1781"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1749"
+    }
+  ],
   "altTitle": [
     "Firebird",
-    "Calendar Man, Calendarman",
+    "Calendar Man",
+    "Calendarman",
     "タイムボカンシリーズ　ヤットデタマン"
   ],
   "id": 4154,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/7645.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1781,
   "createdAt": "2020-10-12T15:38:42.000Z",
-  "updatedAt": "2021-04-28T01:49:50.000Z",
+  "updatedAt": "2021-10-01T15:35:16.000Z",
   "deletedAt": null,
   "Pages": {}
 }

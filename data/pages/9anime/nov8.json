@@ -15,9 +15,25 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.starchild.co.jp/special/kombock/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4247"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Cubix"
+      }
+    ],
     "altTitle": [
       "Cubix",
-      "Robot-chan Cubix, Robots for Everyone, Lobojjang Kyubigseu",
+      "Robot-chan Cubix",
+      "Robots for Everyone",
+      "Lobojjang Kyubigseu",
       "로보짱 큐빅스"
     ],
     "id": 3772,
@@ -27,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/20756.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4247,
     "createdAt": "2020-10-12T15:38:40.000Z",
-    "updatedAt": "2021-04-27T23:19:31.000Z",
+    "updatedAt": "2021-10-01T14:03:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

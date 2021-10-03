@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tbs.co.jp/ichigomashimaro/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2787"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Strawberry_Marshmallow"
+      }
+    ],
     "altTitle": [
-      "Strawberry Marshmallow Prologue, Ichigo Mashimaro - S1",
+      "Strawberry Marshmallow Prologue",
+      "Ichigo Mashimaro - S1",
       "苺ましまろ"
     ],
     "id": 4156,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/19666.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 2787,
     "createdAt": "2020-10-12T15:38:42.000Z",
-    "updatedAt": "2021-04-28T01:50:00.000Z",
+    "updatedAt": "2021-10-01T15:35:37.000Z",
     "deletedAt": null
   },
   "Anilist": {

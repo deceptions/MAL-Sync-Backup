@@ -15,9 +15,25 @@
   "updatedAt": "2019-10-12T16:02:23.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://tsukigakirei.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12761"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tsuki_ga_Kirei"
+      }
+    ],
     "altTitle": [
       "Tsukigakirei: First Half - The Road So Far",
-      "Tsuki ga Kirei Recap, Tsuki ga Kirei Episode 6.5, Tsuki ga Kirei Special",
+      "Tsuki ga Kirei Recap",
+      "Tsuki ga Kirei Episode 6.5",
+      "Tsuki ga Kirei Special",
       "月がきれい 前半抄"
     ],
     "id": 35602,
@@ -27,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/85819.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 12761,
     "createdAt": "2020-10-12T15:39:54.000Z",
-    "updatedAt": "2021-06-02T19:31:42.000Z",
+    "updatedAt": "2021-10-02T17:02:02.000Z",
     "deletedAt": null
   },
   "Anilist": null,

@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4657"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6318"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%9F%E3%82%8A%E6%9A%AE%E3%82%89%E3%81%97"
+    }
+  ],
   "altTitle": [
-    "Futari Kurashi, Futari Gurashi",
+    "Futari Kurashi",
+    "Futari Gurashi",
     "ふたり暮らし"
   ],
   "id": 8765,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/24195.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 4657,
   "createdAt": "2020-10-12T15:39:00.000Z",
-  "updatedAt": "2021-04-29T00:18:51.000Z",
+  "updatedAt": "2021-10-02T04:31:32.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

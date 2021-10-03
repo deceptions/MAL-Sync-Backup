@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www3.nhk.or.jp/anime/nintama/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3626"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3465"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Nintama_Rantarou"
+      }
+    ],
     "altTitle": [
-      "Ninja Boy Rantaro, Rakudaii Nintama Rantarou",
+      "Ninja Boy Rantaro",
+      "Rakudaii Nintama Rantarou",
       "忍たま乱太郎"
     ],
     "id": 1199,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/74028.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3626,
     "createdAt": "2020-10-12T15:38:14.000Z",
-    "updatedAt": "2021-04-26T13:12:19.000Z",
+    "updatedAt": "2021-09-30T20:34:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

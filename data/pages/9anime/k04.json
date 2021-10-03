@@ -15,9 +15,30 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://newtype.kadocomic.jp/soraoto/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7628"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11659"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sora_no_Otoshimono#Anime"
+      }
+    ],
     "altTitle": [
       "Heaven's Lost Property: Forte",
-      "Sora no Otoshimono: f, Lost Property of the Sky 2, Misplaced by Heaven 2, Heaven's Lost Property 2",
+      "Sora no Otoshimono: f",
+      "Lost Property of the Sky 2",
+      "Misplaced by Heaven 2",
+      "Heaven's Lost Property 2",
       "そらのおとしものf（フォルテ）"
     ],
     "id": 8407,
@@ -27,8 +48,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/50309.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 7628,
     "createdAt": "2020-10-12T15:38:59.000Z",
-    "updatedAt": "2021-05-11T02:43:12.000Z",
+    "updatedAt": "2021-10-02T03:35:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

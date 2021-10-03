@@ -15,9 +15,26 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=486"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=666"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Galaxy_Fraulein_Yuna"
+      }
+    ],
     "altTitle": [
       "Galaxy Fraulein Yuna",
-      "Galaxy Fraulein Yuna OVA 1, Galaxy Fraulein Yuna: Siren's Sadness, Ginga Ojou-sama Densetsu Yuna, Sorrowful Saline",
+      "Galaxy Fraulein Yuna OVA 1",
+      "Galaxy Fraulein Yuna: Siren's Sadness",
+      "Ginga Ojou-sama Densetsu Yuna",
+      "Sorrowful Saline",
       "銀河お嬢様伝説ユナ ～哀しみのセイレーン～"
     ],
     "id": 2473,
@@ -27,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1402/94331.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 486,
     "createdAt": "2020-10-12T15:38:29.000Z",
-    "updatedAt": "2021-05-30T21:42:33.000Z",
+    "updatedAt": "2021-10-01T06:36:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

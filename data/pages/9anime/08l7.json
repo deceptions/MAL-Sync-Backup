@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2740"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1755"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_Genie_Family"
+      }
+    ],
     "altTitle": [
       "Bob in the Bottle",
       "The Genie Family",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/30200.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2740,
     "createdAt": "2020-10-12T15:38:33.000Z",
-    "updatedAt": "2021-04-12T18:45:47.000Z",
+    "updatedAt": "2021-10-01T09:35:18.000Z",
     "deletedAt": null
   },
   "Anilist": {

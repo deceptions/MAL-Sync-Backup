@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://sea-story.tv"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6402"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10658"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Umi_Monogatari_~Anata_ga_Ite_Kureta_Koto~"
+      }
+    ],
     "altTitle": [
       "Umi Monogatari",
-      "Umimonogatari Anata ga Itekuretakoto, Sea Story",
+      "Umimonogatari Anata ga Itekuretakoto",
+      "Sea Story",
       "うみものがたり　～あなたがいてくれたコト～"
     ],
     "id": 6129,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/15586.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 6402,
     "createdAt": "2020-10-12T15:38:50.000Z",
-    "updatedAt": "2021-05-11T18:25:30.000Z",
+    "updatedAt": "2021-10-01T21:35:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

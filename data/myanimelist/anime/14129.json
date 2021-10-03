@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9209"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14497"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/STARLESS"
+    }
+  ],
   "altTitle": [
     "STARLESS 21st Century nymphomaniacs."
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/44281.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 9209,
   "createdAt": "2020-10-25T09:29:19.000Z",
-  "updatedAt": "2021-04-25T09:57:11.000Z",
+  "updatedAt": "2021-10-02T14:04:23.000Z",
   "deletedAt": null,
   "Pages": {}
 }

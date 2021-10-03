@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=604"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=928"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/A_Tree_of_Palme"
+    }
+  ],
   "altTitle": [
     "A Tree of Palme",
     "Arbre de Palmem",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/12909.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 604,
   "createdAt": "2020-10-12T15:38:13.000Z",
-  "updatedAt": "2021-08-14T04:37:52.000Z",
+  "updatedAt": "2021-09-30T20:03:07.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

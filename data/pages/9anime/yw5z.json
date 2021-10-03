@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=69"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15396"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_One_Piece_episodes#TV_specials"
+      }
+    ],
     "altTitle": [
       "One Piece Special",
       "One Piece: Episode of Merry - The Tale of One More Friend",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/61015.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 69,
     "createdAt": "2020-10-12T15:39:21.000Z",
-    "updatedAt": "2021-07-17T11:32:22.000Z",
+    "updatedAt": "2021-10-02T19:01:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

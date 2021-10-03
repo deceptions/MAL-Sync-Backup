@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:58.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.supermilk-chan.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=543"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1019"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_Super_Milk-Chan_Show"
+      }
+    ],
     "altTitle": [
       "Super Milk-Chan",
       "The Super Milk Show",
@@ -28,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/78075.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 543,
     "createdAt": "2020-10-12T15:38:21.000Z",
-    "updatedAt": "2021-07-16T09:02:23.000Z",
+    "updatedAt": "2021-10-01T01:03:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

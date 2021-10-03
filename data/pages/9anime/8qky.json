@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1879"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=962"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E9%9B%B2%E7%95%8C%E3%81%AE%E8%BF%B7%E5%AE%AEZEGUY"
+      }
+    ],
     "altTitle": [
       "Mask of Zeguy",
-      "Labyrinth of the Cloud World: Zeguy, Zeguy: Cloudworld Labyrinth",
+      "Labyrinth of the Cloud World: Zeguy",
+      "Zeguy: Cloudworld Labyrinth",
       "雲界の迷宮ZEGUY"
     ],
     "id": 1176,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/6215.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1879,
     "createdAt": "2020-10-12T15:38:13.000Z",
-    "updatedAt": "2021-04-12T19:15:38.000Z",
+    "updatedAt": "2021-09-30T20:08:40.000Z",
     "deletedAt": null
   },
   "Anilist": {

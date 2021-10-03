@@ -20,5 +20,28 @@
   "createdAt": "2021-05-30T04:12:13.000Z",
   "updatedAt": "2021-06-18T04:24:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ve972861": {
+        "authors": [
+          "Jin Qiu"
+        ],
+        "identifier": "manga-ve972861",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Beauty Game",
+        "url": "https://readmanganato.com/manga-ve972861",
+        "image": "https://avt.mkklcdnv6temp.com/22/j/14-1583490546.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116177,
+        "aniId": 104205,
+        "createdAt": "2021-10-01T04:32:33.000Z",
+        "updatedAt": "2021-10-01T05:00:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

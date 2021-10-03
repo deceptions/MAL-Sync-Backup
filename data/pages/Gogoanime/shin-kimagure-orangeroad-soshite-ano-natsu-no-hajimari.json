@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=284"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=34"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kimagure_Orange_Road"
+      }
+    ],
     "altTitle": [
       "New Kimagure Orange Road: And Then",
       "The Beginning of That Summer",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1460/96602.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 284,
     "createdAt": "2020-10-12T15:38:25.000Z",
-    "updatedAt": "2021-08-14T09:37:09.000Z",
+    "updatedAt": "2021-10-01T04:04:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

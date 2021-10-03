@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3350"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6211"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/Good_Morning%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A2"
+      }
+    ],
     "altTitle": [
       "グッドモーニング・アルテア"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/54605.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3350,
     "createdAt": "2020-10-12T15:38:29.000Z",
-    "updatedAt": "2021-04-27T09:19:00.000Z",
+    "updatedAt": "2021-10-01T06:37:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

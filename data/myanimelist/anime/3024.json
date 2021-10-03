@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2482"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=452"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Princess_Knight"
+    }
+  ],
   "altTitle": [
     "Princess Knight",
     "リボンの騎士"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/4403.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 2482,
   "createdAt": "2020-10-12T15:38:35.000Z",
-  "updatedAt": "2021-08-25T22:36:36.000Z",
+  "updatedAt": "2021-10-01T10:32:03.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

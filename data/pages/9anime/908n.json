@@ -15,9 +15,29 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.anime-int.com/works/adpolice/tv/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=452"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=292"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/A.D._Police:_To_Protect_and_Serve"
+      }
+    ],
     "altTitle": [
       "A.D. Police: To Protect and Serve",
-      "A.D. Police, AD Police, Advanced Police",
+      "A.D. Police",
+      "AD Police",
+      "Advanced Police",
       "アドバンスドポリス"
     ],
     "id": 1349,
@@ -27,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/15440.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 452,
     "createdAt": "2020-10-12T15:38:15.000Z",
-    "updatedAt": "2021-04-15T10:45:38.000Z",
+    "updatedAt": "2021-09-30T21:39:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

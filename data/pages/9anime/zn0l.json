@@ -15,8 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.gintetsu.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4692"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6975"
+      }
+    ],
     "altTitle": [
-      "The Galaxy Railways 2, Ginga Tetsudou Monogatari II, The Galaxy Railways: Eternal Divergence",
+      "The Galaxy Railways 2",
+      "Ginga Tetsudou Monogatari II",
+      "The Galaxy Railways: Eternal Divergence",
       "銀河鉄道物語 ～永遠への分岐点～"
     ],
     "id": 2717,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/77281.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4692,
     "createdAt": "2020-10-12T15:38:32.000Z",
-    "updatedAt": "2021-04-27T12:49:29.000Z",
+    "updatedAt": "2021-10-01T08:34:59.000Z",
     "deletedAt": null
   },
   "Anilist": {

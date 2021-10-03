@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nippon-animation.co.jp/work/arabian_sindbad.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=785"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1181"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Arabian_Nights:_Sinbad%27s_Adventures"
+      }
+    ],
     "altTitle": [
-      "Sindbad the Sailor, The Arabian Nights: Adventures of Sinbad",
+      "Sindbad the Sailor",
+      "The Arabian Nights: Adventures of Sinbad",
       "アラビアンナイト シンドバットの冒険"
     ],
     "id": 2825,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/31935.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 785,
     "createdAt": "2020-10-12T15:38:33.000Z",
-    "updatedAt": "2021-04-07T10:38:40.000Z",
+    "updatedAt": "2021-10-01T09:10:57.000Z",
     "deletedAt": null
   },
   "Anilist": {

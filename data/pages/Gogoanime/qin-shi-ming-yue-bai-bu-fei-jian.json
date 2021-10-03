@@ -15,9 +15,26 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.qinsmoon.com"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8954"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Qin%27s_Moon"
+      }
+    ],
     "altTitle": [
       "Qin's Moon: Hundred Steps Flying Sword",
-      "Qín Shí Míng Yuè, The Legend of Swordsman, Qin's Moon, Qin Shi Ming Yue",
+      "Qín Shí Míng Yuè",
+      "The Legend of Swordsman",
+      "Qin's Moon",
+      "Qin Shi Ming Yue",
       "秦时明月"
     ],
     "id": 9806,
@@ -27,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/63587.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8954,
     "createdAt": "2020-10-12T15:39:03.000Z",
-    "updatedAt": "2021-04-29T04:19:01.000Z",
+    "updatedAt": "2021-10-02T06:37:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

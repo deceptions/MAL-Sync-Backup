@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kyousogiga.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8300"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13434"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/京騒戯画"
+      }
+    ],
     "altTitle": [
-      "Kyousougiga, Kyousogiga",
+      "Kyousougiga",
+      "Kyousogiga",
       "京騒戯画"
     ],
     "id": 10893,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/61947.jpg",
     "category": "ONA",
     "hentai": false,
+    "anidbId": 8300,
     "createdAt": "2020-10-12T15:39:07.000Z",
-    "updatedAt": "2021-03-31T05:30:50.000Z",
+    "updatedAt": "2021-10-02T10:02:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

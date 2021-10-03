@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5014"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7529"
+    }
+  ],
   "altTitle": [
     "ガデュリン"
   ],
@@ -9,8 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1175/97146.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 5014,
   "createdAt": "2020-10-12T15:38:55.000Z",
-  "updatedAt": "2021-04-28T17:19:21.000Z",
+  "updatedAt": "2021-10-02T00:36:16.000Z",
   "deletedAt": null,
   "Pages": {}
 }

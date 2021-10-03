@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://sk8-project.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15736"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23777"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/SK8_the_Infinity"
+      }
+    ],
     "altTitle": [
       "SK8 the Infinity",
       "SK Eight",
@@ -28,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1264/110117.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 15736,
     "createdAt": "2020-12-30T17:47:30.000Z",
-    "updatedAt": "2021-09-27T16:04:14.000Z",
+    "updatedAt": "2021-09-30T12:01:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

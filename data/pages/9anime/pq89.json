@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.b-ch.com/cgi-bin/contents/ttl/det.cgi?ttl_c=156"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=50"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Argento_Soma"
+      }
+    ],
     "altTitle": [
       "Argento Soma OVA",
       "Argento Soma Episode 24.5",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/3194.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 50,
     "createdAt": "2020-10-12T15:38:21.000Z",
-    "updatedAt": "2021-08-24T09:07:03.000Z",
+    "updatedAt": "2021-10-01T01:09:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

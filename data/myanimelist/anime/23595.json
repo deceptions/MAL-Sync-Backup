@@ -1,6 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=223"
+    }
+  ],
   "altTitle": [
-    "Meifon's Special Information Corner, Kaisetsu Corner, Seihou Tenshi Angel Special",
+    "Meifon's Special Information Corner",
+    "Kaisetsu Corner",
+    "Seihou Tenshi Angel Special",
     "美鳳のすぺしゃる解説コーナー"
   ],
   "id": 23595,
@@ -10,8 +18,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/61647.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 223,
   "createdAt": "2020-10-12T15:39:27.000Z",
-  "updatedAt": "2021-04-30T03:19:34.000Z",
+  "updatedAt": "2021-10-02T23:07:54.000Z",
   "deletedAt": null,
   "Pages": {}
 }

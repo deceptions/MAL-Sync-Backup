@@ -15,8 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://shugo-chara.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6947"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11104"
+      }
+    ],
     "altTitle": [
-      "Shugo Chara!!! Dokki Doki, Shugo Chara! Third, Shugo Chara! Pucchi Puchi",
+      "Shugo Chara!!! Dokki Doki",
+      "Shugo Chara! Third",
+      "Shugo Chara! Pucchi Puchi",
       "しゅごキャラ！パーティー！"
     ],
     "id": 7082,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/17170.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 6947,
     "createdAt": "2020-10-12T15:38:54.000Z",
-    "updatedAt": "2021-06-05T14:18:58.000Z",
+    "updatedAt": "2021-10-02T00:34:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

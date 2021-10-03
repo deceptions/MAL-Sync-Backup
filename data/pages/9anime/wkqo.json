@@ -15,8 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8868"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14283"
+      }
+    ],
     "altTitle": [
-      "Shooting Star Lens, Ribon Festa 2012, Ribbon Festa 2012",
+      "Shooting Star Lens",
+      "Ribon Festa 2012",
+      "Ribbon Festa 2012",
       "流れ星レンズ"
     ],
     "id": 13833,
@@ -26,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/38377.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 8868,
     "createdAt": "2020-10-12T15:39:13.000Z",
-    "updatedAt": "2021-06-01T15:23:29.000Z",
+    "updatedAt": "2021-10-02T13:38:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

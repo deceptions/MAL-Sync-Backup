@@ -15,9 +15,29 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://toaru-project.com/railgun_s/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9484"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14853"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/A_Certain_Scientific_Railgun"
+      }
+    ],
     "altTitle": [
       "A Certain Scientific Railgun S",
-      "Toaru Kagaku no Railgun 2, Toaru Kagaku no Choudenjihou 2, A Certain Scientific Railgun 2",
+      "Toaru Kagaku no Railgun 2",
+      "Toaru Kagaku no Choudenjihou 2",
+      "A Certain Scientific Railgun 2",
       "とある科学の超電磁砲S"
     ],
     "id": 16049,
@@ -27,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/75610.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9484,
     "createdAt": "2020-10-12T15:39:16.000Z",
-    "updatedAt": "2021-04-07T19:51:22.000Z",
+    "updatedAt": "2021-10-02T16:01:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

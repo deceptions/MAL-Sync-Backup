@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.hanayume.com/kamisama/limited16.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9873"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kamisama_Kiss"
+      }
+    ],
     "altTitle": [
-      "Kami-sama Hajimemashita OVA, Kamisama Kiss OVA",
+      "Kami-sama Hajimemashita OVA",
+      "Kamisama Kiss OVA",
       "神様はじめました"
     ],
     "id": 18661,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/56425.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 9873,
     "createdAt": "2020-10-12T15:39:20.000Z",
-    "updatedAt": "2021-04-10T01:21:12.000Z",
+    "updatedAt": "2021-10-02T18:36:28.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2719"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7148"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E8%B2%A0%E3%81%91%E3%82%8B%E3%81%AA!%E9%AD%94%E5%89%A3%E9%81%93"
+    }
+  ],
   "altTitle": [
-    "Don't Lose, Makendo!, Makeru na! Makendo",
+    "Don't Lose, Makendo!",
+    "Makeru na! Makendo",
     "負けるな！魔剣道"
   ],
   "id": 2081,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/53189.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 2719,
   "createdAt": "2020-10-12T15:38:25.000Z",
-  "updatedAt": "2021-04-27T03:49:19.000Z",
+  "updatedAt": "2021-10-01T04:01:54.000Z",
   "deletedAt": null,
   "Pages": {}
 }

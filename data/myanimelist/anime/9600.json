@@ -1,4 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/gtaste/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7668"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11728"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/G-Taste"
+    }
+  ],
   "altTitle": [
     "G-Best",
     "G-Best －G-tasteベストセレクション－"
@@ -10,8 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/61779.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 7668,
   "createdAt": "2020-10-12T15:39:02.000Z",
-  "updatedAt": "2021-04-29T03:19:01.000Z",
+  "updatedAt": "2021-10-02T06:09:05.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

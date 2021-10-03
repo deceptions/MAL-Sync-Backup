@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://gargantia.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9556"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%BF%A0%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%AB%E3%82%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2"
+      }
+    ],
     "altTitle": [
       "Gargantia on the Verdurous Planet: Specials",
-      "Suisei no Gargantia Episode 14, Suisei no Gargantia Episode 15",
+      "Suisei no Gargantia Episode 14",
+      "Suisei no Gargantia Episode 15",
       "翠星のガルガンティア 完全新作"
     ],
     "id": 19211,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/51509.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 9556,
     "createdAt": "2020-10-12T15:39:21.000Z",
-    "updatedAt": "2021-04-22T03:57:28.000Z",
+    "updatedAt": "2021-10-02T19:04:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

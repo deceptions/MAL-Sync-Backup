@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=485"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1362"
+    }
+  ],
   "altTitle": [
     "Galaxy Express 999",
     "Ginga Tetsudo 999",
@@ -13,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/3/50505.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 485,
   "createdAt": "2020-10-12T15:38:15.000Z",
-  "updatedAt": "2021-09-06T18:04:31.000Z",
+  "updatedAt": "2021-09-30T21:32:55.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3324"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1886"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Plawres_Sanshiro"
+    }
+  ],
   "altTitle": [
     "Plastic Model Wrestling Sanshiro",
     "Jumaru",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1/1873.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 3324,
   "createdAt": "2020-10-12T15:38:22.000Z",
-  "updatedAt": "2021-04-27T00:18:49.000Z",
+  "updatedAt": "2021-10-01T02:07:42.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.square-enix.co.jp/ff7acc/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1208"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11339"
+      }
+    ],
     "altTitle": [
       "デンゼルを中心としたオリジナルアニメ"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/51623.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1208,
     "createdAt": "2020-10-12T15:38:50.000Z",
-    "updatedAt": "2021-03-30T01:30:51.000Z",
+    "updatedAt": "2021-10-01T21:36:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

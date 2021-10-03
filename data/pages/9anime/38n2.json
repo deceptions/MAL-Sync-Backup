@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1862"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4503"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Techno_Police_21C"
+      }
+    ],
     "altTitle": [
       "Techno Police",
       "The Robots are The... Technopolice",
@@ -24,11 +38,12 @@
     "type": "anime",
     "title": "Techno Police 21C",
     "url": "https://myanimelist.net/anime/5090/Techno_Police_21C",
-    "image": "https://cdn.myanimelist.net/images/anime/13/67173.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1335/112413.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 1862,
     "createdAt": "2020-10-12T15:38:46.000Z",
-    "updatedAt": "2021-04-28T06:49:00.000Z",
+    "updatedAt": "2021-10-01T18:09:30.000Z",
     "deletedAt": null
   },
   "Anilist": {

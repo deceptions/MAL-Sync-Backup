@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4040"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=119"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Jungle_King_Tar-chan"
+      }
+    ],
     "altTitle": [
-      "Jungle King Taa-chan, Jungle no Ohja Ta-chan",
+      "Jungle King Taa-chan",
+      "Jungle no Ohja Ta-chan",
       "ジャングルの王者ターちゃん"
     ],
     "id": 3418,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1948/106089.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4040,
     "createdAt": "2020-10-12T15:38:37.000Z",
-    "updatedAt": "2021-04-10T09:50:58.000Z",
+    "updatedAt": "2021-10-01T12:08:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

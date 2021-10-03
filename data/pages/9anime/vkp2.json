@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6180"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/McDull,_Prince_de_la_Bun"
+      }
+    ],
     "altTitle": [
       "McDull, Prince de la Bun",
       "McDull Movie 2",
@@ -28,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1200/112734.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 6180,
     "createdAt": "2021-03-17T16:33:01.000Z",
-    "updatedAt": "2021-09-17T16:41:33.000Z",
+    "updatedAt": "2021-10-02T06:38:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

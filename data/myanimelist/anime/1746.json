@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1775"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3091"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Zoids:_Fuzors"
+    }
+  ],
   "altTitle": [
     "Zoids Fuzors",
     "ゾイド・フューザーズ"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1/1746.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1775,
   "createdAt": "2020-10-12T15:38:21.000Z",
-  "updatedAt": "2021-07-01T00:22:44.000Z",
+  "updatedAt": "2021-10-01T01:03:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

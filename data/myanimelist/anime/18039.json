@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9353"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15128"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Rescue_Me!"
+    }
+  ],
   "altTitle": [
     "れすきゅーME!"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/52033.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 9353,
   "createdAt": "2020-10-12T15:39:19.000Z",
-  "updatedAt": "2021-06-19T05:21:10.000Z",
+  "updatedAt": "2021-10-02T18:05:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

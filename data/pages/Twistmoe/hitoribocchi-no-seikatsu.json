@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://hitoribocchi.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13989"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20806"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%AE%E2%97%8B%E2%97%8B%E7%94%9F%E6%B4%BB"
+      }
+    ],
     "altTitle": [
-      "Hitoribocchi no ○○ Seikatsu, Hitori Bocchi's ○○ Lifestyle",
+      "Hitoribocchi no ○○ Seikatsu",
+      "Hitori Bocchi's ○○ Lifestyle",
       "ひとりぼっちの○○生活"
     ],
     "id": 37614,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1130/99458.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 13989,
     "createdAt": "2020-10-12T15:40:02.000Z",
-    "updatedAt": "2021-04-06T10:08:21.000Z",
+    "updatedAt": "2021-10-01T14:31:32.000Z",
     "deletedAt": null
   },
   "Anilist": {

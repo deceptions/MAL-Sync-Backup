@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www3.nhk.or.jp/anime/emily/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4895"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7475"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Emily_of_New_Moon"
+      }
+    ],
     "altTitle": [
-      "Kaze no Shojo Emily, Emily of the New Moon",
+      "Kaze no Shojo Emily",
+      "Emily of the New Moon",
       "風の少女エミリー"
     ],
     "id": 1878,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/29088.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4895,
     "createdAt": "2020-10-12T15:38:22.000Z",
-    "updatedAt": "2021-04-27T00:19:00.000Z",
+    "updatedAt": "2021-10-01T02:08:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

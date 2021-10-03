@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tbs.co.jp/anime/photokano/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9520"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14902"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Photo_Kano#Anime"
+      }
+    ],
     "altTitle": [
       "Photo Kano",
-      "Foto Kano, Photograph Girlfriend",
+      "Foto Kano",
+      "Photograph Girlfriend",
       "フォトカノ"
     ],
     "id": 16397,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/49199.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9520,
     "createdAt": "2020-10-12T15:39:17.000Z",
-    "updatedAt": "2021-05-01T20:33:01.000Z",
+    "updatedAt": "2021-10-02T16:08:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

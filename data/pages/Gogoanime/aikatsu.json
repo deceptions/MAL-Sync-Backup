@@ -15,8 +15,29 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.aikatsu.net/01/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9348"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14566"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Aikatsu!"
+      }
+    ],
     "altTitle": [
-      "Aikatsu! Idol Katsudou! Idol ga Tsudou!, Aidoru ga Tsudou!, Aikatsu! 2, Idol ga Tsudou! 2",
+      "Aikatsu! Idol Katsudou! Idol ga Tsudou!",
+      "Aidoru ga Tsudou!",
+      "Aikatsu! 2",
+      "Idol ga Tsudou! 2",
       "アイカツ！アイドルカツドウ！"
     ],
     "id": 15061,
@@ -26,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/74783.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9348,
     "createdAt": "2020-10-12T15:39:15.000Z",
-    "updatedAt": "2021-04-22T13:56:59.000Z",
+    "updatedAt": "2021-10-02T15:00:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

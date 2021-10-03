@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://sayoasa.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13262"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19848"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%AE%E6%9C%9D%E3%81%AB%E7%B4%84%E6%9D%9F%E3%81%AE%E8%8A%B1%E3%82%92%E3%81%8B%E3%81%96%E3%82%8D%E3%81%86"
+      }
+    ],
     "altTitle": [
       "Maquia: When the Promised Flower Blooms",
-      "Let's Decorate the Promised Flowers in the Morning of Farewells, SayoAsa",
+      "Let's Decorate the Promised Flowers in the Morning of Farewells",
+      "SayoAsa",
       "さよならの朝に約束の花をかざろう"
     ],
     "id": 35851,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/89556.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 13262,
     "createdAt": "2020-10-12T15:39:55.000Z",
-    "updatedAt": "2021-04-15T17:16:21.000Z",
+    "updatedAt": "2021-10-02T13:01:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

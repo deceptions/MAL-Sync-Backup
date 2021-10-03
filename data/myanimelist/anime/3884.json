@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=459"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=44"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Maze_%28anime%29"
+    }
+  ],
   "altTitle": [
     "Maze: The Mega-Burst Space - Hot Springs",
-    "Maze☆Bakunetsu Jikuu Special, Maze Megaburst Space Special",
+    "Maze☆Bakunetsu Jikuu Special",
+    "Maze Megaburst Space Special",
     "MAZE☆爆熱時空"
   ],
   "id": 3884,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/6943.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 459,
   "createdAt": "2020-10-12T15:38:40.000Z",
-  "updatedAt": "2021-04-28T00:19:00.000Z",
+  "updatedAt": "2021-10-01T14:33:56.000Z",
   "deletedAt": null,
   "Pages": {}
 }

@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=799"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4657"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/Lesson_XX"
+      }
+    ],
     "altTitle": [
       "Lesson XX"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/25994.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 799,
     "createdAt": "2020-10-12T15:38:23.000Z",
-    "updatedAt": "2021-07-25T23:51:36.000Z",
+    "updatedAt": "2021-10-01T02:12:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

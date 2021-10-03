@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/youkai-watch/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9930"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13724"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yo-kai_Watch"
+      }
+    ],
     "altTitle": [
       "Yo-kai Watch",
       "Yokai Watch",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/58137.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9930,
     "createdAt": "2020-10-12T15:39:21.000Z",
-    "updatedAt": "2021-05-20T11:31:25.000Z",
+    "updatedAt": "2021-10-02T19:02:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

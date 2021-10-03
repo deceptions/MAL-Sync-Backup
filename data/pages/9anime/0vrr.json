@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2317"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3659"
+      }
+    ],
     "altTitle": [
       "新メイプルタウン物語 パームタウン編 こんにちは! 新しい町"
     ],
@@ -25,8 +35,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/30641.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 2317,
     "createdAt": "2020-10-12T15:39:08.000Z",
-    "updatedAt": "2021-04-29T09:18:41.000Z",
+    "updatedAt": "2021-10-02T10:08:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

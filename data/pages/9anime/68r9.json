@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/lineup/movie/movie_gulliver/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2203"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1945"
+      }
+    ],
     "altTitle": [
-      "Gulliver's Space Travels: Beyond the Moon, Gulliver Boy",
+      "Gulliver's Space Travels: Beyond the Moon",
+      "Gulliver Boy",
       "ガリバーの宇宙旅行"
     ],
     "id": 2833,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/45358.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 2203,
     "createdAt": "2020-10-12T15:38:33.000Z",
-    "updatedAt": "2021-04-27T14:49:11.000Z",
+    "updatedAt": "2021-10-01T09:31:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

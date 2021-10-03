@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.symphogear-gx.com/products/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10321"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Symphogear"
+      }
+    ],
     "altTitle": [
       "Symphogear GX Specials",
       "戦姫絶唱シンフォギアGX 戦姫絶唱しないシンフォギア"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/77264.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 10321,
     "createdAt": "2020-10-12T15:39:41.000Z",
-    "updatedAt": "2021-06-21T21:45:01.000Z",
+    "updatedAt": "2021-10-01T21:32:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

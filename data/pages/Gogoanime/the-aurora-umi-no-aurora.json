@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3681"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8658"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/The_AURORA_%E6%B5%B7%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9"
+      }
+    ],
     "altTitle": [
       "The Aurora",
-      "The Sea's Aurora, Umi no Aurora",
+      "The Sea's Aurora",
+      "Umi no Aurora",
       "海のオーロラ"
     ],
     "id": 5943,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1021/94476.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 3681,
     "createdAt": "2020-10-12T15:38:49.000Z",
-    "updatedAt": "2021-04-28T10:49:31.000Z",
+    "updatedAt": "2021-10-01T21:02:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

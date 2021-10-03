@@ -15,9 +15,29 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.maql.co.jp/special/anime-myyour/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5435"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8507"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Myself_%3B_Yourself"
+      }
+    ],
     "altTitle": [
-      "Myself; Yourself",
-      "マイセルフ; ユアセルフ"
+      "Myself",
+      "Yourself",
+      "マイセルフ",
+      "ユアセルフ"
     ],
     "id": 2926,
     "type": "anime",
@@ -26,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/75247.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5435,
     "createdAt": "2020-10-12T15:38:34.000Z",
-    "updatedAt": "2021-04-02T23:00:56.000Z",
+    "updatedAt": "2021-10-01T09:38:28.000Z",
     "deletedAt": null
   },
   "Anilist": {

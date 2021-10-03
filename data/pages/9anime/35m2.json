@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1529"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1774"
+      }
+    ],
     "altTitle": [
       "Dragon League",
       "ドラゴンリーグ"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/49791.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1529,
     "createdAt": "2020-10-12T15:38:46.000Z",
-    "updatedAt": "2021-04-06T21:08:26.000Z",
+    "updatedAt": "2021-10-01T18:36:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

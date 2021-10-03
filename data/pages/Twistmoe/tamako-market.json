@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tamakomarket.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9525"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14908"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tamako_Market"
+      }
+    ],
     "altTitle": [
       "Tamako Market",
       "たまこまーけっと"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/79594.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9525,
     "createdAt": "2020-10-12T15:39:17.000Z",
-    "updatedAt": "2021-08-15T16:07:12.000Z",
+    "updatedAt": "2021-10-02T07:31:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1855"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1985"
+    }
+  ],
   "altTitle": [
     "ギルスティン"
   ],
@@ -9,8 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/3/33889.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 1855,
   "createdAt": "2021-08-01T03:47:59.000Z",
-  "updatedAt": "2021-08-01T03:47:59.000Z",
+  "updatedAt": "2021-10-02T11:31:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Gogoanime": {

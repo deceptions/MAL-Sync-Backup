@@ -1,7 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=616"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1977"
+    }
+  ],
   "altTitle": [
     "Lord of Lords Ryu Knight: Adeu's Legend",
-    "Lord of Lords Adeu's Legend OVA, Haou Daikei Ryuu Knight: Adeu Legend",
+    "Lord of Lords Adeu's Legend OVA",
+    "Haou Daikei Ryuu Knight: Adeu Legend",
     "覇王大系リューナイト アデュー・レジェンド"
   ],
   "id": 1849,
@@ -11,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/52143.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 616,
   "createdAt": "2020-10-12T15:38:22.000Z",
-  "updatedAt": "2021-04-26T23:49:09.000Z",
+  "updatedAt": "2021-10-01T01:40:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

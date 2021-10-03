@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2540"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3490"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sailor_moon"
+      }
+    ],
     "altTitle": [
       "Bishoujo Senshi Sailor Moon Super S Special",
       "美少女戦士セーラームーンSuperSスペシャル"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/4619.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 2540,
     "createdAt": "2020-10-12T15:38:35.000Z",
-    "updatedAt": "2021-08-15T11:38:21.000Z",
+    "updatedAt": "2021-10-01T10:36:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

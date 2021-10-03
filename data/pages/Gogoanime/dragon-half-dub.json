@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=149"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=542"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Dragon_Half"
+      }
+    ],
     "altTitle": [
       "ドラゴンハーフ"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/14220.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 149,
     "createdAt": "2020-10-12T15:38:09.000Z",
-    "updatedAt": "2021-06-17T21:51:14.000Z",
+    "updatedAt": "2021-09-30T17:33:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

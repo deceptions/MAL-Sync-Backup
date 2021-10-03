@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.mahousyoujo.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2650"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4382"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Okusama_wa_Mahou_Shoujo"
+      }
+    ],
     "altTitle": [
       "Madam is a Magical Girl",
-      "Bewitched Agnes, Bewitched Bride",
+      "Bewitched Agnes",
+      "Bewitched Bride",
       "奥さまは魔法少女"
     ],
     "id": 614,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/19126.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2650,
     "createdAt": "2020-10-12T15:38:06.000Z",
-    "updatedAt": "2021-04-26T04:57:35.000Z",
+    "updatedAt": "2021-09-30T15:35:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

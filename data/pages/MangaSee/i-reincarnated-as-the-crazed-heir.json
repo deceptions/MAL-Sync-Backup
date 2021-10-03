@@ -13,13 +13,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 138397,
   "createdAt": "2021-08-23T18:07:17.000Z",
-  "updatedAt": "2021-09-26T16:17:50.000Z",
+  "updatedAt": "2021-10-01T09:41:13.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "망나니 소교주로 환생했다",
+      "I Reincarnated as the Crazed Heir",
+      "Vice-Lord's Rebirth"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Jaemu",
+      "Eun-Ho Dae",
+      "Ma-Du Jeon"
+    ],
+    "id": 138397,
+    "malId": null,
+    "type": "manga",
+    "title": "Mangnani Sogyojuro Hwansaenghaetda",
+    "url": "https://anilist.co/manga/138397",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138397-j8vSu7sWGBjF.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-26T21:36:34.000Z",
+    "updatedAt": "2021-09-26T16:18:01.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

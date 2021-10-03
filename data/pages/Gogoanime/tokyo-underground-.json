@@ -15,6 +15,24 @@
   "updatedAt": "2021-06-12T06:38:18.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://pierrot.jp/title/tug/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=20"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=888"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tokyo_Underground"
+      }
+    ],
     "altTitle": [
       "Tokyo Underground",
       "東京アンダーグラウンド"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/21036.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 20,
     "createdAt": "2020-10-12T15:38:00.000Z",
-    "updatedAt": "2021-05-18T19:01:46.000Z",
+    "updatedAt": "2021-09-30T11:31:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

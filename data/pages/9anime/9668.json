@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3050"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1517"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Marvelous_Melmo"
+      }
+    ],
     "altTitle": [
       "Marvelous Melmo",
       "Fushigi na Merumo",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/11275.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3050,
     "createdAt": "2021-05-15T12:55:55.000Z",
-    "updatedAt": "2021-07-23T10:54:09.000Z",
+    "updatedAt": "2021-10-01T19:34:37.000Z",
     "deletedAt": null
   },
   "Anilist": {

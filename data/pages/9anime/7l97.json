@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=724"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1129"
+      }
+    ],
     "altTitle": [
       "Refrain Blue",
       "Refrain Blue"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/75869.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 724,
     "createdAt": "2020-10-12T15:38:07.000Z",
-    "updatedAt": "2021-07-08T16:13:27.000Z",
+    "updatedAt": "2021-09-30T16:04:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

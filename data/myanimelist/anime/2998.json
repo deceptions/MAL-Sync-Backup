@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2878"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4875"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hi_no_tori"
+    }
+  ],
   "altTitle": [
     "The Phoenix -Space-",
-    "Firebird: Space Chapter, Phoenix: Universe",
+    "Firebird: Space Chapter",
+    "Phoenix: Universe",
     "火の鳥　宇宙編"
   ],
   "id": 2998,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/3/14209.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 2878,
   "createdAt": "2020-10-12T15:38:34.000Z",
-  "updatedAt": "2021-04-12T18:16:38.000Z",
+  "updatedAt": "2021-10-01T10:08:06.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

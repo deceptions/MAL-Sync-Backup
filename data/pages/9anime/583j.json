@@ -15,6 +15,12 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6920"
+      }
+    ],
     "altTitle": [
       "金太郎"
     ],
@@ -25,8 +31,9 @@
     "image": "https://myanimelist.cdn-dena.com/images/affiliates/logo-cdjapan.png",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 6920,
     "createdAt": "2020-10-12T15:39:07.000Z",
-    "updatedAt": "2021-04-29T08:19:01.000Z",
+    "updatedAt": "2021-10-02T09:35:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

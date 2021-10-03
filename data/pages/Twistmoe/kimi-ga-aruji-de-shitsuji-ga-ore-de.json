@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kimiaru.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5235"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8151"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kimi_ga_Aruji_de_Shitsuji_ga_Ore_de#Anime"
+      }
+    ],
     "altTitle": [
-      "They Are My Noble Masters, Kimiaru",
+      "They Are My Noble Masters",
+      "Kimiaru",
       "君が主で執事が俺で"
     ],
     "id": 3229,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/21532.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5235,
     "createdAt": "2020-10-12T15:38:36.000Z",
-    "updatedAt": "2021-04-27T18:48:30.000Z",
+    "updatedAt": "2021-10-01T11:33:32.000Z",
     "deletedAt": null
   },
   "Anilist": {

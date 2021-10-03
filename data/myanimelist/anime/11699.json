@@ -1,6 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.takeshobo.co.jp/sp/yuru/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8253"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13201"
+    }
+  ],
   "altTitle": [
-    "Yurumates ha?, Yurumeitsu ha?, Yurumeitsu wa?",
+    "Yurumates ha?",
+    "Yurumeitsu ha?",
+    "Yurumeitsu wa?",
     "ゆるめいつ は?"
   ],
   "id": 11699,
@@ -10,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/32647.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 8253,
   "createdAt": "2020-10-12T15:39:09.000Z",
-  "updatedAt": "2021-04-29T10:19:11.000Z",
+  "updatedAt": "2021-10-02T11:03:16.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

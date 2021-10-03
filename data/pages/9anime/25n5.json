@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2560"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=453"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Maeterlinck's_Blue_Bird:_Tyltyl_and_Mytyl's_Adventurous_Journey"
+      }
+    ],
     "altTitle": [
       "Maeterlinck's Blue Bird",
       "Tyltyl and Mytyl's Adventurous Journey",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/55609.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2560,
     "createdAt": "2021-01-03T03:50:53.000Z",
-    "updatedAt": "2021-07-03T04:05:36.000Z",
+    "updatedAt": "2021-10-01T14:32:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

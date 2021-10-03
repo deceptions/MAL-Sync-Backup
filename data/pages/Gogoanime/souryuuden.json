@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1533"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=84"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sohryuden:_Legend_of_the_Dragon_Kings"
+      }
+    ],
     "altTitle": [
       "Legend of the Dragon Kings",
-      "Sohryuuden: Legend of the Four Kings, Sohryuden",
+      "Sohryuuden: Legend of the Four Kings",
+      "Sohryuden",
       "創竜伝"
     ],
     "id": 1742,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/31923.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1533,
     "createdAt": "2020-10-12T15:38:21.000Z",
-    "updatedAt": "2021-04-26T21:49:00.000Z",
+    "updatedAt": "2021-10-01T01:02:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -41,6 +41,28 @@
         "updatedAt": "2021-05-20T15:40:31.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mabusasa": {
+        "authors": [
+          "Nanase (ななせ)"
+        ],
+        "identifier": "mabusasa",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "MabuSasa",
+        "url": "https://fanfox.net/manga/mabusasa/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32705/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123765,
+        "aniId": 114796,
+        "createdAt": "2021-10-02T16:31:22.000Z",
+        "updatedAt": "2021-10-02T17:00:52.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

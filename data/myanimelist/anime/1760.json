@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1076"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=640"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Golgo_13"
+    }
+  ],
   "altTitle": [
     "Golgo 13: The Professional",
     "Golgo 13: The Professional",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1476/102570.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 1076,
   "createdAt": "2020-10-12T15:38:21.000Z",
-  "updatedAt": "2021-08-30T00:07:27.000Z",
+  "updatedAt": "2021-10-01T01:05:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

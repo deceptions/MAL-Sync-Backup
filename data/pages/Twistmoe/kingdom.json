@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www9.nhk.or.jp/anime/kingdom/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8791"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13783"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/キングダム_(漫画)"
+      }
+    ],
     "altTitle": [
       "Kingdom",
       "キングダム"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/39511.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8791,
     "createdAt": "2020-10-12T15:39:10.000Z",
-    "updatedAt": "2021-09-13T07:05:01.000Z",
+    "updatedAt": "2021-09-30T10:31:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

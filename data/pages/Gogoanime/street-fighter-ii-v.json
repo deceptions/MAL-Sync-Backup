@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=772"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=644"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Street_Fighter_II_V"
+      }
+    ],
     "altTitle": [
       "Street Fighter II: The Animated Series",
       "Street Fighter 2 V",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/29992.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 772,
     "createdAt": "2020-10-12T15:38:09.000Z",
-    "updatedAt": "2021-05-10T00:48:32.000Z",
+    "updatedAt": "2021-09-30T17:34:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

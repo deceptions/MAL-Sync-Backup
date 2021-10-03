@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/tv/gaiking/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3704"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5894"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Gaiking_Legend_of_Daiku-Maryu"
+      }
+    ],
     "altTitle": [
-      "Great Sky Demon Dragon Gaiking, Gaiking: Legend of Daikuu-Maryuu",
+      "Great Sky Demon Dragon Gaiking",
+      "Gaiking: Legend of Daikuu-Maryuu",
       "ガイキング Legend of Daiku-Maryu"
     ],
     "id": 1845,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/74215.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3704,
     "createdAt": "2020-10-12T15:38:22.000Z",
-    "updatedAt": "2021-04-15T12:15:48.000Z",
+    "updatedAt": "2021-10-01T01:39:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

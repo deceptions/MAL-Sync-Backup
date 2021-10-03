@@ -1,6 +1,24 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ben-to.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8292"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ben-To"
+    }
+  ],
   "altTitle": [
-    "Ben-To Specials, Bento Specials, Ben-Tou Specials, Bento Picture Drama, Ben-Tou Picture Drama",
+    "Ben-To Specials",
+    "Bento Specials",
+    "Ben-Tou Specials",
+    "Bento Picture Drama",
+    "Ben-Tou Picture Drama",
     "ベン・トー"
   ],
   "id": 12447,
@@ -10,8 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/34953.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 8292,
   "createdAt": "2020-10-12T15:39:11.000Z",
-  "updatedAt": "2021-05-09T08:48:24.000Z",
+  "updatedAt": "2021-10-02T12:03:33.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

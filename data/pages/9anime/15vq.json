@@ -15,8 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kissdum.com/bd.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4931"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Engage_Planet_Kiss_Dum"
+      }
+    ],
     "altTitle": [
-      "Kiss Dum OVA, Kiss Dum Special, Kiss Dum Interlude",
+      "Kiss Dum OVA",
+      "Kiss Dum Special",
+      "Kiss Dum Interlude",
       "キスダム: オモカゲ"
     ],
     "id": 11505,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/69105.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 4931,
     "createdAt": "2020-10-12T15:39:09.000Z",
-    "updatedAt": "2021-05-13T09:55:13.000Z",
+    "updatedAt": "2021-10-02T10:37:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

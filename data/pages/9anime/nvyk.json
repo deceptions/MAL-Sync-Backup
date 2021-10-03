@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://boku-ben.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14289"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21294"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/We_Never_Learn"
+      }
+    ],
     "altTitle": [
       "We Never Learn: BOKUBEN",
       "BokuBen",
@@ -28,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1602/100510.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 14289,
     "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2021-09-27T11:35:23.000Z",
+    "updatedAt": "2021-10-01T02:32:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,6 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1004"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6876"
+    }
+  ],
   "altTitle": [
-    "Grandeek Gaiden, Grandeek Sidestory, Grandeek: The Alternative",
+    "Grandeek Gaiden",
+    "Grandeek Sidestory",
+    "Grandeek: The Alternative",
     "GRANDEEK"
   ],
   "id": 2365,
@@ -10,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/2617.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 1004,
   "createdAt": "2020-10-12T15:38:28.000Z",
-  "updatedAt": "2021-04-27T07:49:00.000Z",
+  "updatedAt": "2021-10-01T06:04:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

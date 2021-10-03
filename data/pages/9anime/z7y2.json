@@ -15,9 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7210"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Idol_Ace"
+      }
+    ],
     "altTitle": [
       "Idol Ace",
-      "Idol Ace Teaser, Idol A",
+      "Idol Ace Teaser",
+      "Idol A",
       "アイドルA"
     ],
     "id": 7569,
@@ -27,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/18140.jpg",
     "category": "ONA",
     "hentai": false,
+    "anidbId": 7210,
     "createdAt": "2020-10-12T15:38:56.000Z",
-    "updatedAt": "2021-04-28T19:19:42.000Z",
+    "updatedAt": "2021-10-02T01:35:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,4 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://baki-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15737"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24512"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baki_the_Grappler#Anime_series"
+    }
+  ],
   "altTitle": [
     "The Boy Fascinating the Fighting God",
     "範馬刃牙 SON OF OGRE"
@@ -10,8 +28,82 @@
   "image": "https://cdn.myanimelist.net/images/anime/1072/116472.jpg",
   "category": "ONA",
   "hentai": false,
+  "anidbId": 15737,
   "createdAt": "2021-08-26T18:36:42.000Z",
-  "updatedAt": "2021-08-26T18:36:42.000Z",
+  "updatedAt": "2021-09-30T10:32:22.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "8o5q": {
+        "identifier": "8o5q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hanma Baki: Son of Ogre",
+        "url": "https://9anime.to/watch/the-boy-fascinating-the-fighting-god.8o5q",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/dc/dc56afb8fccdca3f15d38787064879c9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42940,
+        "aniId": 124195,
+        "createdAt": "2021-09-30T09:07:50.000Z",
+        "updatedAt": "2021-09-30T09:36:19.000Z",
+        "deletedAt": null
+      },
+      "m22mv": {
+        "identifier": "m22mv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hanma Baki: Son of Ogre (Dub)",
+        "url": "https://9anime.to/watch/the-boy-fascinating-the-fighting-god-dub.m22mv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a7/a7b34496963f251cedb4f18eb35dbfb6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42940,
+        "aniId": 124195,
+        "createdAt": "2021-09-30T09:36:30.000Z",
+        "updatedAt": "2021-09-30T09:57:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hanma-baki-son-of-ogre": {
+        "identifier": "hanma-baki-son-of-ogre",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hanma Baki: Son of Ogre",
+        "url": "https://gogoanime.pe/category/hanma-baki-son-of-ogre",
+        "image": "https://gogocdn.net/cover/hanma-baki-son-of-ogre.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42940,
+        "aniId": 124195,
+        "createdAt": "2021-09-30T10:33:03.000Z",
+        "updatedAt": "2021-09-30T11:00:52.000Z",
+        "deletedAt": null
+      },
+      "hanma-baki-son-of-ogre-dub": {
+        "identifier": "hanma-baki-son-of-ogre-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hanma Baki: Son of Ogre (Dub)",
+        "url": "https://gogoanime.pe/category/hanma-baki-son-of-ogre-dub",
+        "image": "https://gogocdn.net/cover/hanma-baki-son-of-ogre-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42940,
+        "aniId": 124195,
+        "createdAt": "2021-09-30T18:00:52.000Z",
+        "updatedAt": "2021-09-30T18:30:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

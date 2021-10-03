@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=672"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=414"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/D4_Princess"
+    }
+  ],
   "altTitle": [
     "Drill for Princess",
     "D4 プリンセス"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/6/36383.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 672,
   "createdAt": "2020-10-12T15:38:32.000Z",
-  "updatedAt": "2021-06-09T17:34:37.000Z",
+  "updatedAt": "2021-10-01T08:35:39.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

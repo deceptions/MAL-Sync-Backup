@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.madhouse.co.jp/works/2000-1999/works_movie_cardcapturesakura.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=513"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=966"
+      }
+    ],
     "altTitle": [
       "Cardcaptor Sakura The Movie",
-      "Card Captor Sakura, Cardcaptors: The Movie",
+      "Card Captor Sakura",
+      "Cardcaptors: The Movie",
       "劇場版 カードキャプターさくら"
     ],
     "id": 371,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1733/90336.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 513,
     "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2021-03-31T03:01:04.000Z",
+    "updatedAt": "2021-09-30T13:09:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

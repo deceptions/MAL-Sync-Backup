@@ -1,4 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tv.sbs.co.kr/scan2go/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8668"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14365"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Scan2Go"
+    }
+  ],
   "altTitle": [
     "Scan2Go",
     "스캔2고"
@@ -10,8 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1544/100121.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 8668,
   "createdAt": "2020-10-12T15:39:07.000Z",
-  "updatedAt": "2021-04-29T08:48:50.000Z",
+  "updatedAt": "2021-10-02T09:40:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

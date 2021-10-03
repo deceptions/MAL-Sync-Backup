@@ -15,9 +15,30 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.bandaivisual.co.jp/hgj/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=353"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1820"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Heat_Guy_J"
+      }
+    ],
     "altTitle": [
       "HeatGuy J Special",
-      "HeatGuy J: Captive - Angel, Habitat Ground Jewdo Special, Heat Guy Jay Special, HeatGuy-J Special",
+      "HeatGuy J: Captive - Angel",
+      "Habitat Ground Jewdo Special",
+      "Heat Guy Jay Special",
+      "HeatGuy-J Special",
       "ヒートガイジェイ"
     ],
     "id": 1774,
@@ -27,8 +48,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/56995.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 353,
     "createdAt": "2020-10-12T15:38:21.000Z",
-    "updatedAt": "2021-04-26T22:49:01.000Z",
+    "updatedAt": "2021-10-01T01:07:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

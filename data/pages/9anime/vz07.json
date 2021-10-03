@@ -15,8 +15,28 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.rescue-w.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4113"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6234"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Yomigaeru_Sora_-_Rescue_Wings"
+      }
+    ],
     "altTitle": [
-      "Yomigaeru Sora: Rescue Wings Special, Yomigaeru Sora: Rescue Wings OVA, Yomigaeru Sora: Rescue Wings Episode 13 - A Last Job",
+      "Yomigaeru Sora: Rescue Wings Special",
+      "Yomigaeru Sora: Rescue Wings OVA",
+      "Yomigaeru Sora: Rescue Wings Episode 13 - A Last Job",
       "よみがえる空 -RESCUE WINGS- 最後の仕事"
     ],
     "id": 1843,
@@ -26,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1/1843.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 4113,
     "createdAt": "2020-10-12T15:38:22.000Z",
-    "updatedAt": "2021-04-15T11:46:17.000Z",
+    "updatedAt": "2021-10-01T01:39:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

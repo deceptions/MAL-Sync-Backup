@@ -15,9 +15,29 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/lineup/movie/horus/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2209"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=894"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Hols:_Prince_of_the_Sun"
+      }
+    ],
     "altTitle": [
       "The Little Norse Prince",
-      "Horus: Prince of the Sun, Hols: Prince of the Sun, Little Norse Prince Valiant",
+      "Horus: Prince of the Sun",
+      "Hols: Prince of the Sun",
+      "Little Norse Prince Valiant",
       "太陽の王子 ホルスの大冒険"
     ],
     "id": 1044,
@@ -27,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/3602.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 2209,
     "createdAt": "2020-10-12T15:38:12.000Z",
-    "updatedAt": "2021-04-26T10:57:46.000Z",
+    "updatedAt": "2021-09-30T19:05:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-07-11T21:15:01.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=410"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=335"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kurogane_Communication"
+      }
+    ],
     "altTitle": [
       "Kurogane Communication",
       "Tetsu Komyunikeishon",
@@ -30,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/25228.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 410,
     "createdAt": "2020-10-12T15:38:20.000Z",
-    "updatedAt": "2021-07-11T20:45:23.000Z",
+    "updatedAt": "2021-10-01T00:08:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

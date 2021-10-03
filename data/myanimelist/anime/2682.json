@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2097"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3685"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Aoki_Densetsu_Shoot!"
+    }
+  ],
   "altTitle": [
     "Blue Legend Shoot!",
-    "Aoki Densetsu Shoot! (1994), Blue Legend Shoot! (1994)",
+    "Aoki Densetsu Shoot! (1994)",
+    "Blue Legend Shoot! (1994)",
     "蒼き伝説　シュート！"
   ],
   "id": 2682,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1453/96649.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 2097,
   "createdAt": "2020-10-12T15:38:31.000Z",
-  "updatedAt": "2021-04-27T12:19:30.000Z",
+  "updatedAt": "2021-10-01T08:08:57.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

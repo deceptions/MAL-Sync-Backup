@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3510"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7145"
+    }
+  ],
   "altTitle": [
     "Pokemon: Pikachu's Summer Festival!",
     "Pocket Monsters: Pikachu no Natsu Matsuri",
@@ -11,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/12259.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 3510,
   "createdAt": "2021-08-21T11:46:27.000Z",
-  "updatedAt": "2021-08-21T11:46:27.000Z",
+  "updatedAt": "2021-10-01T20:35:54.000Z",
   "deletedAt": null,
   "Pages": {}
 }

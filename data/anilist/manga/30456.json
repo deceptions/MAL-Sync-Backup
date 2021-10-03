@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-05T19:33:48.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "monochrome_factor": {
+        "authors": [
+          "SORANO Kairi"
+        ],
+        "identifier": "monochrome_factor",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Monochrome Factor",
+        "url": "https://fanfox.net/manga/monochrome_factor/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1814/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 456,
+        "aniId": 30456,
+        "createdAt": "2021-10-01T01:31:27.000Z",
+        "updatedAt": "2021-10-01T02:00:52.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

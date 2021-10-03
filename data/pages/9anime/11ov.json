@@ -15,8 +15,19 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5007"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2313"
+      }
+    ],
     "altTitle": [
-      "Bavi Stock II: The Revenge of Eyesman - Ai no Kodou no Kanata ni, Bavi Stock I: Hateshi Naki Hyouteki",
+      "Bavi Stock II: The Revenge of Eyesman - Ai no Kodou no Kanata ni",
+      "Bavi Stock I: Hateshi Naki Hyouteki",
       "バビ・ストック"
     ],
     "id": 10105,
@@ -26,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/27876.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 5007,
     "createdAt": "2020-10-12T15:39:04.000Z",
-    "updatedAt": "2021-04-29T05:48:30.000Z",
+    "updatedAt": "2021-10-02T07:36:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

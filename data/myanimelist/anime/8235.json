@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1008"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=455"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Moomin_(1972_TV_series)"
+    }
+  ],
   "altTitle": [
-    "Shin Muumin, New Moomin",
+    "Shin Muumin",
+    "New Moomin",
     "ムーミン"
   ],
   "id": 8235,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/47155.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1008,
   "createdAt": "2020-10-12T15:38:58.000Z",
-  "updatedAt": "2021-04-28T22:18:51.000Z",
+  "updatedAt": "2021-10-02T03:07:14.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

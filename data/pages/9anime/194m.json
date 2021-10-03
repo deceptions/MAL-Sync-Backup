@@ -15,6 +15,12 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9230"
+      }
+    ],
     "altTitle": [
       "OniAi Specials",
       "お兄ちゃんだけど愛さえあれば関係ないよねっ"
@@ -26,8 +32,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/46981.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 9230,
     "createdAt": "2020-10-12T15:39:16.000Z",
-    "updatedAt": "2021-04-11T01:21:06.000Z",
+    "updatedAt": "2021-10-02T15:37:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

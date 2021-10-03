@@ -1,6 +1,24 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5788"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2628"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/桃太郎伝説_(アニメ)"
+    }
+  ],
   "altTitle": [
-    "Momotaro Densetsu, Legend of Momotarou, Peach Boy Legend, The Legend of Peach Boy, Momoden",
+    "Momotaro Densetsu",
+    "Legend of Momotarou",
+    "Peach Boy Legend",
+    "The Legend of Peach Boy",
+    "Momoden",
     "桃太郎伝説"
   ],
   "id": 11533,
@@ -10,8 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/32171.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 5788,
   "createdAt": "2020-10-12T15:39:09.000Z",
-  "updatedAt": "2021-04-29T09:49:30.000Z",
+  "updatedAt": "2021-10-02T10:38:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kimiboku.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8875"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13943"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kimi_to_Boku_%28manga%29"
+      }
+    ],
     "altTitle": [
       "You and Me 2",
-      "You and Me. Second Season, Kimi to Boku. 2nd Season",
+      "You and Me. Second Season",
+      "Kimi to Boku. 2nd Season",
       "君と僕。2"
     ],
     "id": 11739,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/42107.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8875,
     "createdAt": "2020-10-12T15:39:09.000Z",
-    "updatedAt": "2021-04-03T03:01:32.000Z",
+    "updatedAt": "2021-10-02T11:04:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

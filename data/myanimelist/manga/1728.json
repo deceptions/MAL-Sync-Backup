@@ -1,6 +1,13 @@
 {
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Magikano"
+    }
+  ],
   "altTitle": [
-    "Magicano, Majikano",
+    "Magicano",
+    "Majikano",
     "マジカノ"
   ],
   "authors": [
@@ -14,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:37.000Z",
-  "updatedAt": "2021-04-19T02:44:18.000Z",
+  "updatedAt": "2021-10-01T18:03:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +65,28 @@
         "aniId": 31728,
         "createdAt": "2021-04-19T02:44:19.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tg953315": {
+        "authors": [
+          "Momose Takeaki"
+        ],
+        "identifier": "manga-tg953315",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Magikano",
+        "url": "https://readmanganato.com/manga-tg953315",
+        "image": "https://avt.mkklcdnv6temp.com/19/f/2-1583466452.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1728,
+        "aniId": 31728,
+        "createdAt": "2021-10-01T18:03:06.000Z",
+        "updatedAt": "2021-10-01T18:30:52.000Z",
         "deletedAt": null
       }
     }

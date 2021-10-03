@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3664"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1701"
+    }
+  ],
   "altTitle": [
     "Story of a Fawn",
     "The Yearling",
@@ -11,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/3355.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 3664,
   "createdAt": "2021-02-10T22:11:33.000Z",
-  "updatedAt": "2021-08-10T22:40:07.000Z",
+  "updatedAt": "2021-10-01T07:31:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,8 +15,29 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/lineup/movie/movie_aribaba/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2215"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3529"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ali_Baba_and_the_Forty_Thieves_%281971_film%29"
+      }
+    ],
     "altTitle": [
-      "Ali Baba to Yonju-hiki no Touzoku, Alibaba and the Forty Theives, Alibaba's Revenge, Ali Baba to Yonjuppiki no Touzoku",
+      "Ali Baba to Yonju-hiki no Touzoku",
+      "Alibaba and the Forty Theives",
+      "Alibaba's Revenge",
+      "Ali Baba to Yonjuppiki no Touzoku",
       "アリババと４０匹の盗賊"
     ],
     "id": 3843,
@@ -26,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/6861.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 2215,
     "createdAt": "2020-10-12T15:38:40.000Z",
-    "updatedAt": "2021-04-27T23:49:10.000Z",
+    "updatedAt": "2021-10-01T14:09:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

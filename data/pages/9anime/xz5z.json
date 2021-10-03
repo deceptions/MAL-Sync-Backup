@@ -15,8 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/lineup/tv/sandybell/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1924"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1436"
+      }
+    ],
     "altTitle": [
-      "Sandy Bell, Sandy Jonquille, Hello Sandybell",
+      "Sandy Bell",
+      "Sandy Jonquille",
+      "Hello Sandybell",
       "ハロー！サンディベル"
     ],
     "id": 2799,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/42653.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1924,
     "createdAt": "2020-10-12T15:38:33.000Z",
-    "updatedAt": "2021-04-27T14:18:50.000Z",
+    "updatedAt": "2021-10-01T09:08:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

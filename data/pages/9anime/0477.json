@@ -15,8 +15,19 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://hongwanji-shuppan.com/anime/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6277"
+      }
+    ],
     "altTitle": [
-      "Shinran-sama: His Wish and Light, Nenbutsu Monogatari: Shinran-sama - Negai, Soshite Hikari",
+      "Shinran-sama: His Wish and Light",
+      "Nenbutsu Monogatari: Shinran-sama - Negai, Soshite Hikari",
       "親鸞さま ねがい そして、ひかり。"
     ],
     "id": 5693,
@@ -26,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/29218.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 6277,
     "createdAt": "2020-10-12T15:38:48.000Z",
-    "updatedAt": "2021-04-28T09:48:30.000Z",
+    "updatedAt": "2021-10-01T20:06:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

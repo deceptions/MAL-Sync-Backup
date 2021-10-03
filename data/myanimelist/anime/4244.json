@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3115"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2227"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sasuraiger"
+    }
+  ],
   "altTitle": [
     "Galactic Gale Sasuraiger",
-    "Ginga Shippu Sasuraiger, Wonder Six",
+    "Ginga Shippu Sasuraiger",
+    "Wonder Six",
     "銀河疾風サスライガー"
   ],
   "id": 4244,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/47491.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 3115,
   "createdAt": "2020-10-12T15:38:42.000Z",
-  "updatedAt": "2021-04-28T02:19:40.000Z",
+  "updatedAt": "2021-10-01T16:02:52.000Z",
   "deletedAt": null,
   "Pages": {}
 }

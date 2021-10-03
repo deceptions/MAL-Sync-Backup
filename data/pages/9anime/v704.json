@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3572"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6201"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ballad_of_a_Shinigami#Anime"
+      }
+    ],
     "altTitle": [
       "Momo, Girl God of Death",
       "Shinigami no Ballad.: Momo the Girl God of Death",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/16086.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3572,
     "createdAt": "2020-10-12T15:38:08.000Z",
-    "updatedAt": "2021-09-13T08:34:48.000Z",
+    "updatedAt": "2021-09-30T16:40:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

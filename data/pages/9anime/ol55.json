@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ntv.co.jp/buzzer/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5224"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8137"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Buzzer_Beater_(manga)"
+      }
+    ],
     "altTitle": [
-      "Buzzer Beater (2007), Buzzer Beater Part 2",
+      "Buzzer Beater (2007)",
+      "Buzzer Beater Part 2",
       "BUZZER BEATER 第2期"
     ],
     "id": 2684,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/57419.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5224,
     "createdAt": "2020-10-12T15:38:31.000Z",
-    "updatedAt": "2021-04-27T12:19:50.000Z",
+    "updatedAt": "2021-10-01T08:09:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

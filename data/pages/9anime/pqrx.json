@@ -15,8 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8151"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1703"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%A8%E3%82%93%E3%81%8C%E3%82%8A%E5%B8%BD%E5%AD%90%E3%81%AE%E3%83%A1%E3%83%A2%E3%83%AB"
+      }
+    ],
     "altTitle": [
-      "Memoru in the Pointed Hat: Marielle's Jewelbox, Tongari Boushi no Memoru: Marielle no Housekibako, Wee Wendy",
+      "Memoru in the Pointed Hat: Marielle's Jewelbox",
+      "Tongari Boushi no Memoru: Marielle no Housekibako",
+      "Wee Wendy",
       "とんがり帽子のメモル マリエルの宝石箱"
     ],
     "id": 12657,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/35543.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 8151,
     "createdAt": "2020-10-12T15:39:11.000Z",
-    "updatedAt": "2021-04-29T12:18:31.000Z",
+    "updatedAt": "2021-10-02T12:08:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

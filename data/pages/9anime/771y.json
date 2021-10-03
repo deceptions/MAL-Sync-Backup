@@ -15,8 +15,25 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://ribon.shueisha.co.jp/ohasta/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9607"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15029"
+      }
+    ],
     "altTitle": [
-      "Chokotan!, Choco-tan!, Ribon Festa 2013, Ribbon Festa 2013",
+      "Chokotan!",
+      "Choco-tan!",
+      "Ribon Festa 2013",
+      "Ribbon Festa 2013",
       "チョコタン!"
     ],
     "id": 18599,
@@ -26,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/49925.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 9607,
     "createdAt": "2020-10-12T15:39:20.000Z",
-    "updatedAt": "2021-05-26T21:29:03.000Z",
+    "updatedAt": "2021-10-02T18:35:28.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://toaru-project.com/index_1_2/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5975"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10044"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/A_Certain_Magical_Index"
+      }
+    ],
     "altTitle": [
       "A Certain Magical Index",
       "Toaru Majutsu no Kinsho Mokuroku",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/75533.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5975,
     "createdAt": "2020-10-12T15:38:44.000Z",
-    "updatedAt": "2021-09-27T13:33:23.000Z",
+    "updatedAt": "2021-10-01T17:04:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

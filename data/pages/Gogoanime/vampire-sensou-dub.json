@@ -15,6 +15,20 @@
   "updatedAt": "2021-06-07T23:50:15.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1263"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=596"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vampire_Wars"
+      }
+    ],
     "altTitle": [
       "Vampire Wars",
       "Vampire Senso",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1341/96594.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1263,
     "createdAt": "2020-10-12T15:38:21.000Z",
-    "updatedAt": "2021-06-07T23:21:18.000Z",
+    "updatedAt": "2021-10-01T01:06:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

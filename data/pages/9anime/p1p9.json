@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=805"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3234"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Violinist_of_Hameln"
+      }
+    ],
     "altTitle": [
       "Violinist of Hameln",
       "ハーメルンのバイオリン弾き"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1260/94835.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 805,
     "createdAt": "2020-10-12T15:38:27.000Z",
-    "updatedAt": "2021-06-05T08:50:00.000Z",
+    "updatedAt": "2021-10-01T05:01:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

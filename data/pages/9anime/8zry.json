@@ -15,8 +15,19 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2581"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5389"
+      }
+    ],
     "altTitle": [
-      "In a Distant Time OVA 2, Haruka Naru Toki no Naka de 2: Shiroki Ryuu no Miko",
+      "In a Distant Time OVA 2",
+      "Haruka Naru Toki no Naka de 2: Shiroki Ryuu no Miko",
       "遙かなる時空の中で2~白き龍の神子~"
     ],
     "id": 1904,
@@ -26,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/72172.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2581,
     "createdAt": "2020-10-12T15:38:23.000Z",
-    "updatedAt": "2021-04-27T00:48:50.000Z",
+    "updatedAt": "2021-10-01T02:11:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

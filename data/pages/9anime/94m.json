@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://maoyu.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9287"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14425"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%8A%E3%82%86%E3%81%86%E9%AD%94%E7%8E%8B%E5%8B%87%E8%80%85"
+      }
+    ],
     "altTitle": [
       "Maoyu ~ Archenemy & Hero",
       "Maoyu Maou Yusha",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/46041.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9287,
     "createdAt": "2020-10-12T15:39:15.000Z",
-    "updatedAt": "2021-09-28T04:03:23.000Z",
+    "updatedAt": "2021-10-02T14:36:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

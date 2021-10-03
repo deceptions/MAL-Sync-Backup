@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=975"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=711"
+      }
+    ],
     "altTitle": [
       "Spirit Warrior",
       "Spirit Warrior: Peacock King",
@@ -27,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/82865.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 975,
     "createdAt": "2020-10-12T15:38:38.000Z",
-    "updatedAt": "2021-04-27T21:48:50.000Z",
+    "updatedAt": "2021-10-01T13:04:12.000Z",
     "deletedAt": null
   },
   "Anilist": {

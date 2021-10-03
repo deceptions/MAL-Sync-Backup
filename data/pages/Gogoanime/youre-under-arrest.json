@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2690"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=606"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/You're_Under_Arrest_%28manga%29#Anime"
+      }
+    ],
     "altTitle": [
       "You're Under Arrest",
       "Taiho Shichauzo",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/21601.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2690,
     "createdAt": "2020-10-12T15:38:19.000Z",
-    "updatedAt": "2021-05-30T22:12:13.000Z",
+    "updatedAt": "2021-09-30T23:36:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.usavich.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5917"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11360"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Usavich"
+      }
+    ],
     "altTitle": [
       "Usavich",
       "ウサビッチ"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/15660.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5917,
     "createdAt": "2020-10-12T15:38:39.000Z",
-    "updatedAt": "2021-04-27T22:49:20.000Z",
+    "updatedAt": "2021-10-01T13:39:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

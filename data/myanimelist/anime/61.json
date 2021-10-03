@@ -1,7 +1,26 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jvcmusic.co.jp/m-serve/tv/dn_angel/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=621"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2288"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/D.N.Angel"
+    }
+  ],
   "altTitle": [
     "D.N.Angel",
-    "DN Angel, DNAngel",
+    "DN Angel",
+    "DNAngel",
     "Ｄ・Ｎ・ＡＮＧＥＬ"
   ],
   "id": 61,
@@ -11,8 +30,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/6/73938.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 621,
   "createdAt": "2020-10-12T15:37:58.000Z",
-  "updatedAt": "2021-05-04T05:03:09.000Z",
+  "updatedAt": "2021-09-30T10:08:55.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

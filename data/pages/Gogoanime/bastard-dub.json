@@ -15,6 +15,20 @@
   "updatedAt": "2021-08-05T13:17:30.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=519"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Bastard%E2%80%BC"
+      }
+    ],
     "altTitle": [
       "Bastard!!",
       "Bastard!! Destroyer of Darkness",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/9601.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 10,
     "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2021-07-19T13:32:57.000Z",
+    "updatedAt": "2021-09-30T13:34:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

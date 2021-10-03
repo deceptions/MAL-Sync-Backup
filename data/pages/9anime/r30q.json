@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.softenni.com"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8266"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12115"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%9D%E3%81%B5%E3%81%A6%E3%81%AB%E3%81%A3"
+      }
+    ],
     "altTitle": [
       "そふてにっ"
     ],
@@ -25,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/29804.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 8266,
     "createdAt": "2020-10-12T15:39:07.000Z",
-    "updatedAt": "2021-09-07T19:04:31.000Z",
+    "updatedAt": "2021-10-02T09:36:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

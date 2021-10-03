@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.bey-movie.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7520"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11247"
+      }
+    ],
     "altTitle": [
-      "Metal Fight Beyblade Movie, Gekijouban Metal Fight Beyblade vs Taiyou: Shakunetsu no Shinryakusha Sol Blaze",
+      "Metal Fight Beyblade Movie",
+      "Gekijouban Metal Fight Beyblade vs Taiyou: Shakunetsu no Shinryakusha Sol Blaze",
       "劇場版メタルファイト ベイブレードVS太陽 ～灼熱の侵略者ソルブレイズ～"
     ],
     "id": 8245,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/26283.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 7520,
     "createdAt": "2020-10-12T15:38:58.000Z",
-    "updatedAt": "2021-04-28T22:19:00.000Z",
+    "updatedAt": "2021-10-02T03:07:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,9 +15,29 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.watamote.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9582"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15008"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/私がモテないのはどう考えてもお前らが悪い!"
+      }
+    ],
     "altTitle": [
       "WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!",
-      "Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!, It's Not My Fault That I'm Not Popular!, WataMote",
+      "Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!",
+      "It's Not My Fault That I'm Not Popular!",
+      "WataMote",
       "私がモテないのはどう考えてもお前らが悪い!"
     ],
     "id": 16742,
@@ -27,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/51619.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9582,
     "createdAt": "2020-10-12T15:39:18.000Z",
-    "updatedAt": "2021-05-01T20:33:02.000Z",
+    "updatedAt": "2021-10-02T16:37:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

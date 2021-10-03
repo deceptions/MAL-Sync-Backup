@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1220"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2606"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Windaria"
+      }
+    ],
     "altTitle": [
       "Once Upon A Time",
       "Tales of Windaria",
@@ -29,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/25497.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 1220,
     "createdAt": "2020-10-12T15:38:13.000Z",
-    "updatedAt": "2021-09-12T12:05:00.000Z",
+    "updatedAt": "2021-09-30T19:40:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

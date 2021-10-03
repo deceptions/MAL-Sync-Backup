@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.another-anime.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8625"
+      }
+    ],
     "altTitle": [
       "Another: The Other",
       "Another 00",
@@ -30,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/42051.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 8625,
     "createdAt": "2020-10-12T15:39:09.000Z",
-    "updatedAt": "2021-09-27T14:03:53.000Z",
+    "updatedAt": "2021-10-02T11:03:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

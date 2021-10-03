@@ -1,7 +1,23 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=675"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=621"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/You're_Under_Arrest"
+    }
+  ],
   "altTitle": [
     "You're Under Arrest: Fast & Furious",
-    "Taiho Shichauzo: Second Season, Taiho Shichau zo: 2nd Season, You're Under Arrest: Second Season",
+    "Taiho Shichauzo: Second Season",
+    "Taiho Shichau zo: 2nd Season",
+    "You're Under Arrest: Second Season",
     "逮捕しちゃうぞ SECOND SEASON"
   ],
   "id": 2014,
@@ -11,8 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/21852.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 675,
   "createdAt": "2020-10-12T15:38:24.000Z",
-  "updatedAt": "2021-05-31T10:31:03.000Z",
+  "updatedAt": "2021-10-01T03:08:35.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

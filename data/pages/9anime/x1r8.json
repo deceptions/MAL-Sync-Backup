@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=892"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3148"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Wedding_Peach#Wedding_Peach_DX"
+      }
+    ],
     "altTitle": [
       "Wedding Peach DX",
       "Wedding Peach Deluxe",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/28128.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 892,
     "createdAt": "2020-10-12T15:38:24.000Z",
-    "updatedAt": "2021-04-27T01:48:30.000Z",
+    "updatedAt": "2021-10-01T02:39:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

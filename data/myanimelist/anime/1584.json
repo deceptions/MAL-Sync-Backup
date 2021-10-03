@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4419"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6361"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Stratos4"
+    }
+  ],
   "altTitle": [
     "ストラトス・フォー アドヴァンス 完結編"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/59213.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 4419,
   "createdAt": "2020-10-12T15:38:19.000Z",
-  "updatedAt": "2021-04-26T19:48:40.000Z",
+  "updatedAt": "2021-09-30T23:37:37.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,7 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6691"
+    }
+  ],
   "altTitle": [
     "Sports Day at Animal Village",
-    "Dobutsu-mura no Sports Day, Taiiku Day",
+    "Dobutsu-mura no Sports Day",
+    "Taiiku Day",
     "動物村のスポーツデー"
   ],
   "id": 5872,
@@ -11,8 +18,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/12515.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 6691,
   "createdAt": "2020-10-12T15:38:49.000Z",
-  "updatedAt": "2021-04-28T10:19:30.000Z",
+  "updatedAt": "2021-10-01T20:37:36.000Z",
   "deletedAt": null,
   "Pages": {}
 }

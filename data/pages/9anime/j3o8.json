@@ -15,6 +15,12 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=231"
+      }
+    ],
     "altTitle": [
       "Dragon Ball Specials",
       "Dragon Ball: Goku no Koutsuuanzen",
@@ -30,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/24380.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 231,
     "createdAt": "2020-10-12T15:38:30.000Z",
-    "updatedAt": "2021-07-10T08:14:30.000Z",
+    "updatedAt": "2021-10-01T07:04:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

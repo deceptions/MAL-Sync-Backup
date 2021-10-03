@@ -15,9 +15,26 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1581"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1492"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/%C5%8Cgon_Bat"
+      }
+    ],
     "altTitle": [
       "Golden Bat",
-      "Fantomas, Ogon Bat, Phantaman, Fantaman",
+      "Fantomas",
+      "Ogon Bat",
+      "Phantaman",
+      "Fantaman",
       "黄金バット"
     ],
     "id": 3900,
@@ -27,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/28619.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1581,
     "createdAt": "2020-10-12T15:38:40.000Z",
-    "updatedAt": "2021-04-12T18:16:58.000Z",
+    "updatedAt": "2021-10-01T14:35:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

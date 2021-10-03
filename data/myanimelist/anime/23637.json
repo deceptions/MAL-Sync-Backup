@@ -1,6 +1,23 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6876"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4906"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%A3%AE%E5%BA%B7%E4%BA%8C"
+    }
+  ],
   "altTitle": [
-    "Kobito to Aomushi, The Dwarf and the Green Caterpillar, The Gnome and the Green Caterpillar, The Child and the Green Caterpillar",
+    "Kobito to Aomushi",
+    "The Dwarf and the Green Caterpillar",
+    "The Gnome and the Green Caterpillar",
+    "The Child and the Green Caterpillar",
     "小人と青虫"
   ],
   "id": 23637,
@@ -10,8 +27,9 @@
   "image": null,
   "category": "Movie",
   "hentai": false,
+  "anidbId": 6876,
   "createdAt": "2020-10-12T18:38:46.000Z",
-  "updatedAt": "2021-04-12T20:46:08.000Z",
+  "updatedAt": "2021-10-02T23:09:04.000Z",
   "deletedAt": null,
   "Pages": {}
 }

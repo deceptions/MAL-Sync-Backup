@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:56.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kamisama-anime.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8275"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12532"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kamisama_Dolls"
+      }
+    ],
     "altTitle": [
       "Kamisama Dolls",
       "Kami-sama Dolls",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/50393.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8275,
     "createdAt": "2020-10-12T15:39:05.000Z",
-    "updatedAt": "2021-04-22T00:27:11.000Z",
+    "updatedAt": "2021-10-02T08:33:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

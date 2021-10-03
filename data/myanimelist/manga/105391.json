@@ -1,4 +1,5 @@
 {
+  "externalLinks": [],
   "altTitle": [
     "ハムラビコート"
   ],
@@ -13,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:59.000Z",
-  "updatedAt": "2021-05-18T18:00:54.000Z",
+  "updatedAt": "2021-10-01T10:31:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,6 +36,28 @@
         "aniId": 100065,
         "createdAt": "2020-10-12T16:10:38.000Z",
         "updatedAt": "2021-06-05T02:12:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hammurabi_court": {
+        "authors": [
+          "KAITANI Shinobu"
+        ],
+        "identifier": "hammurabi_court",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hammurabi Court",
+        "url": "https://fanfox.net/manga/hammurabi_court/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/24961/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105391,
+        "aniId": 100065,
+        "createdAt": "2021-10-01T10:30:53.000Z",
+        "updatedAt": "2021-10-01T11:00:52.000Z",
         "deletedAt": null
       }
     }

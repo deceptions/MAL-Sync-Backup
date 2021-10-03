@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=200"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=99"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/A_Wind_Named_Amnesia"
+    }
+  ],
   "altTitle": [
     "A Wind Named Amnesia",
     "Kaze no Namae wa Amunejia",
@@ -12,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1/1793.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 200,
   "createdAt": "2020-10-12T15:38:21.000Z",
-  "updatedAt": "2021-09-19T09:40:44.000Z",
+  "updatedAt": "2021-10-01T01:09:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

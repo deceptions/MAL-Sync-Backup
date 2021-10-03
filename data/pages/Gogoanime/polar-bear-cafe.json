@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/shirokumacafe/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8934"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13985"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Shirokuma_Café"
+      }
+    ],
     "altTitle": [
       "Polar Bear Cafe",
-      "Polar Bear Café, Shirokuma Café",
+      "Polar Bear Café",
+      "Shirokuma Café",
       "しろくまカフェ"
     ],
     "id": 12815,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/75649.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8934,
     "createdAt": "2020-10-12T15:39:11.000Z",
-    "updatedAt": "2021-04-10T03:51:20.000Z",
+    "updatedAt": "2021-10-02T12:33:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

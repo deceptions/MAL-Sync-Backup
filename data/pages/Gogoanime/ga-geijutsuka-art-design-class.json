@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://mv.avex.jp/ga/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6574"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10895"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/GA_Geijutsuka_Art_Design_Class"
+      }
+    ],
     "altTitle": [
       "GA: ADC",
       "GA 芸術科アートデザインクラス"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/56975.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 6574,
     "createdAt": "2020-10-12T15:38:48.000Z",
-    "updatedAt": "2021-04-27T01:21:12.000Z",
+    "updatedAt": "2021-10-01T20:04:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

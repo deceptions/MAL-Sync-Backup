@@ -15,8 +15,19 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1849"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3308"
+      }
+    ],
     "altTitle": [
-      "Captain Future Kareinaru Taiyoukei Race, Captain Future: The Great Race in the Solar System",
+      "Captain Future Kareinaru Taiyoukei Race",
+      "Captain Future: The Great Race in the Solar System",
       "キャプテンフューチャー・華麗なる太陽系レース"
     ],
     "id": 4509,
@@ -26,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/8631.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 1849,
     "createdAt": "2020-10-12T15:38:43.000Z",
-    "updatedAt": "2021-04-15T14:45:47.000Z",
+    "updatedAt": "2021-10-01T16:35:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

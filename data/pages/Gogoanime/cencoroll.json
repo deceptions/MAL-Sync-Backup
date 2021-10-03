@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.cencoroll.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4982"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8264"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Cencoroll"
+      }
+    ],
     "altTitle": [
       "Cencoroll",
       "センコロール"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1732/96096.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 4982,
     "createdAt": "2020-10-12T15:38:35.000Z",
-    "updatedAt": "2021-07-01T01:50:13.000Z",
+    "updatedAt": "2021-10-01T10:37:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=955"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Getter_robo"
+    }
+  ],
   "altTitle": [
     "Getter Robo",
-    "Getta Robo, Space Robot",
+    "Getta Robo",
+    "Space Robot",
     "ゲッターロボ"
   ],
   "id": 3579,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/6039.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 955,
   "createdAt": "2020-10-12T15:38:38.000Z",
-  "updatedAt": "2021-04-27T21:48:30.000Z",
+  "updatedAt": "2021-10-01T13:02:50.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

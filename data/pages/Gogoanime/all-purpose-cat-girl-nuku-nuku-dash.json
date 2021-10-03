@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=167"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=556"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Nuku_Nuku"
+      }
+    ],
     "altTitle": [
       "All Purpose Cultural Cat Girl Nuku Nuku",
       "Cat Girl Nuku Nuku",
@@ -31,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/10720.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 167,
     "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2021-09-12T03:05:24.000Z",
+    "updatedAt": "2021-09-30T13:09:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

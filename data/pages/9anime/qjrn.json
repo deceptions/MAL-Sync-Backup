@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=931"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=623"
+      }
+    ],
     "altTitle": [
       "You're Under Arrest Mini Specials",
       "Taiho Shichauzo Special",
@@ -28,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/21692.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 931,
     "createdAt": "2020-10-12T15:38:24.000Z",
-    "updatedAt": "2021-08-31T04:36:38.000Z",
+    "updatedAt": "2021-10-01T03:08:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

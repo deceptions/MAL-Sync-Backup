@@ -15,6 +15,24 @@
   "updatedAt": "2021-09-29T04:33:02.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.wonderfarm.co.jp/shippo/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=175"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1196"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Angel_Tales"
+      }
+    ],
     "altTitle": [
       "Angel Tales",
       "Angel's Tail",
@@ -29,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/21092.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 175,
     "createdAt": "2020-10-12T15:38:07.000Z",
-    "updatedAt": "2021-09-29T04:03:05.000Z",
+    "updatedAt": "2021-09-30T16:05:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

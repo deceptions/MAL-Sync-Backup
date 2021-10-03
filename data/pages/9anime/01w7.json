@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.joke-charady-365.com"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6401"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10657"
+      }
+    ],
     "altTitle": [
-      "Charady no Jokena Mainichi, Charady's Daily Joke",
+      "Charady no Jokena Mainichi",
+      "Charady's Daily Joke",
       "キャラディのジョークな毎日"
     ],
     "id": 6131,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/13420.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 6401,
     "createdAt": "2020-10-12T15:38:50.000Z",
-    "updatedAt": "2021-04-28T11:49:40.000Z",
+    "updatedAt": "2021-10-01T21:35:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

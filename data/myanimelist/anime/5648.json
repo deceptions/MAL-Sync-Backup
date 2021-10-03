@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5703"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7434"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%86%92%E9%99%BA%E3%81%97%E3%81%A6%E3%82%82%E3%81%84%E3%81%84%E9%A0%83"
+    }
+  ],
   "altTitle": [
     "冒険してもいい頃"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/73717.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 5703,
   "createdAt": "2020-10-12T15:38:48.000Z",
-  "updatedAt": "2021-04-28T09:19:01.000Z",
+  "updatedAt": "2021-10-01T20:03:23.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

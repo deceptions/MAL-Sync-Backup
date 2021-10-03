@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nausicaa.net/miyazaki/yamada/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=370"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=177"
+      }
+    ],
     "altTitle": [
       "My Neighbors the Yamadas",
-      "Houhokekyo Tonari no Yamada-kun, Hoohokekyo Tonari no Yamada-kun",
+      "Houhokekyo Tonari no Yamada-kun",
+      "Hoohokekyo Tonari no Yamada-kun",
       "ホーホケキョ となりの山田くん"
     ],
     "id": 415,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/64545.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 370,
     "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2021-04-26T02:27:13.000Z",
+    "updatedAt": "2021-09-30T13:36:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

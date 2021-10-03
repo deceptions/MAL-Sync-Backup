@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://medakabox.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9272"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14726"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Medaka_Box"
+      }
+    ],
     "altTitle": [
       "Medaka Box Abnormal",
       "Medaka Box 2",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/62919.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9272,
     "createdAt": "2020-10-12T15:39:14.000Z",
-    "updatedAt": "2021-08-13T21:18:04.000Z",
+    "updatedAt": "2021-10-02T14:31:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

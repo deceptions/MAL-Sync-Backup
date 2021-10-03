@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.madhouse.co.jp/works/1993-1992/works_ova_oedo.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2750"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4603"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/お江戸はねむれない!"
+      }
+    ],
     "altTitle": [
-      "Sleepless Oedo, Edo Never Sleeps",
+      "Sleepless Oedo",
+      "Edo Never Sleeps",
       "お江戸はねむれない!"
     ],
     "id": 14181,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/39103.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2750,
     "createdAt": "2020-10-12T15:39:14.000Z",
-    "updatedAt": "2021-04-29T14:49:11.000Z",
+    "updatedAt": "2021-10-02T14:05:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

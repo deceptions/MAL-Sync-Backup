@@ -15,8 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1819"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1990"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Brave_Reideen"
+      }
+    ],
     "altTitle": [
-      "Yusha Reideen, Brave Raideen, Reideen the Brave",
+      "Yusha Reideen",
+      "Brave Raideen",
+      "Reideen the Brave",
       "勇者ライディーン"
     ],
     "id": 2128,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1/2260.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1819,
     "createdAt": "2020-10-12T15:38:26.000Z",
-    "updatedAt": "2021-04-27T04:49:11.000Z",
+    "updatedAt": "2021-10-01T04:09:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

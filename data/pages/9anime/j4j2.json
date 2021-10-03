@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1454"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2215"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/GeGeGe_no_Kitaro"
+      }
+    ],
     "altTitle": [
-      "Gegege no Kitarou: Jigokuhen, Gegege no Kitarou: Jigoku Hen",
+      "Gegege no Kitarou: Jigokuhen",
+      "Gegege no Kitarou: Jigoku Hen",
       "ゲゲゲの鬼太郎　地獄編"
     ],
     "id": 8158,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/90097.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1454,
     "createdAt": "2020-10-12T15:38:58.000Z",
-    "updatedAt": "2021-04-28T21:48:51.000Z",
+    "updatedAt": "2021-10-02T03:03:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

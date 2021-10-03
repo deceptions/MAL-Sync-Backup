@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.te-kyu.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9805"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15377"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Teekyu"
+      }
+    ],
     "altTitle": [
       "Teekyu 2",
-      "Tekyuu 2, Te-kyu 2",
+      "Tekyuu 2",
+      "Te-kyu 2",
       "てーきゅう ２期"
     ],
     "id": 18121,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/73504.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9805,
     "createdAt": "2020-10-12T15:39:19.000Z",
-    "updatedAt": "2021-04-29T17:19:22.000Z",
+    "updatedAt": "2021-10-02T18:07:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

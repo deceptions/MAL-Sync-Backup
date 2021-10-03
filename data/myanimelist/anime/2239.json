@@ -1,6 +1,17 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2553"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=271"
+    }
+  ],
   "altTitle": [
-    "St. Michael School Drifting Story, Drifting Story",
+    "St. Michael School Drifting Story",
+    "Drifting Story",
     "聖ミカエラ学園漂流記"
   ],
   "id": 2239,
@@ -10,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/25891.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 2553,
   "createdAt": "2020-10-31T13:14:37.000Z",
-  "updatedAt": "2021-05-01T00:02:22.000Z",
+  "updatedAt": "2021-10-01T05:06:04.000Z",
   "deletedAt": null,
   "Pages": {}
 }

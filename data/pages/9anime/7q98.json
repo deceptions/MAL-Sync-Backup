@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4677"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=517"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/AWOL_-Absent_Without_Leave-"
+      }
+    ],
     "altTitle": [
       "AWOL: Absent Without Leave",
       "エイウォール"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1042/94209.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4677,
     "createdAt": "2020-10-12T15:39:12.000Z",
-    "updatedAt": "2021-04-29T12:49:41.000Z",
+    "updatedAt": "2021-10-02T12:37:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=148"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2274"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Legend_of_Condor_Hero"
+    }
+  ],
   "altTitle": [
     "The Legend of Condor Hero",
     "Shen Diao Xia Lu",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/56623.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 148,
   "createdAt": "2020-10-12T15:38:10.000Z",
-  "updatedAt": "2021-04-26T09:27:43.000Z",
+  "updatedAt": "2021-09-30T18:08:57.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,6 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ntv.co.jp/yuruani/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8326"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12560"
+    }
+  ],
   "altTitle": [
-    "Rinshi!! Ekoda Chang, Rinshi!! Ekoda-chan, Yuruani",
+    "Rinshi!! Ekoda Chang",
+    "Rinshi!! Ekoda-chan",
+    "Yuruani",
     "元気!!江古田ちゃん"
   ],
   "id": 10540,
@@ -10,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/6/28950.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 8326,
   "createdAt": "2020-10-12T15:39:06.000Z",
-  "updatedAt": "2021-04-29T07:19:21.000Z",
+  "updatedAt": "2021-10-02T09:03:04.000Z",
   "deletedAt": null,
   "Pages": {}
 }

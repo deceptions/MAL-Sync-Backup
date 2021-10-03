@@ -1,4 +1,5 @@
 {
+  "externalLinks": null,
   "altTitle": [
     "My Owner is a Demon",
     "飼主は悪魔"
@@ -14,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:19.000Z",
-  "updatedAt": "2021-08-25T19:36:36.000Z",
+  "updatedAt": "2021-09-30T07:36:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +59,28 @@
         "aniId": 74367,
         "createdAt": "2021-02-25T19:25:50.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kainushi_wa_akuma": {
+        "authors": [
+          "KAJI Eiri"
+        ],
+        "identifier": "kainushi_wa_akuma",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kainushi wa Akuma",
+        "url": "https://fanfox.net/manga/kainushi_wa_akuma/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11978/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44367,
+        "aniId": 74367,
+        "createdAt": "2021-09-30T07:36:21.000Z",
+        "updatedAt": "2021-09-30T08:06:19.000Z",
         "deletedAt": null
       }
     }

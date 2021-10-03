@@ -15,8 +15,28 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.mi-na.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4177"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6359"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Getsumen_To_Heiki_Mina"
+      }
+    ],
     "altTitle": [
-      "Getsumen To Heiki Mina DVD Episodes, Getsumen To Heiki Miina EX, Getsumen To Heiki Mina OVA",
+      "Getsumen To Heiki Mina DVD Episodes",
+      "Getsumen To Heiki Miina EX",
+      "Getsumen To Heiki Mina OVA",
       "月面兎兵器ミーナ"
     ],
     "id": 7427,
@@ -26,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/17761.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 4177,
     "createdAt": "2020-10-12T15:38:55.000Z",
-    "updatedAt": "2021-04-28T18:48:50.000Z",
+    "updatedAt": "2021-10-02T01:08:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www5b.biglobe.ne.jp/~novy/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2034"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=904"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Papillon_Rose"
+      }
+    ],
     "altTitle": [
       "Papillon Rose OVA",
       "Lingerie Soldier Papillon Rose",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/24024.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2034,
     "createdAt": "2020-10-12T15:38:24.000Z",
-    "updatedAt": "2021-07-15T10:51:00.000Z",
+    "updatedAt": "2021-10-01T03:05:54.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -50,9 +69,9 @@
     "url": "https://anilist.co/anime/1995",
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1995.jpg",
     "category": "ova",
-    "hentai": false,
+    "hentai": true,
     "createdAt": "2021-05-20T14:36:07.000Z",
-    "updatedAt": "2021-06-17T09:39:28.000Z",
+    "updatedAt": "2021-10-02T19:30:52.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/anime/1995/Lingerie_Senshi_Papillon_Rose"

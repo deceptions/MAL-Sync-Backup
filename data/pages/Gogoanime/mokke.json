@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.avexmovie.jp/lineup/mokke/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5052"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7611"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mokke"
+      }
+    ],
     "altTitle": [
       "もっけ"
     ],
@@ -25,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/19674.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5052,
     "createdAt": "2020-10-12T15:38:34.000Z",
-    "updatedAt": "2021-05-26T09:38:17.000Z",
+    "updatedAt": "2021-10-01T09:39:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

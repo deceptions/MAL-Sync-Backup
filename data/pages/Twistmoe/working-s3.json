@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.wagnaria.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10995"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16648"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Working!!"
+      }
+    ],
     "altTitle": [
       "Wagnaria!!3",
-      "Working!! 3rd Season, Working!! Third Season",
+      "Working!! 3rd Season",
+      "Working!! Third Season",
       "ワーキング!!!"
     ],
     "id": 25879,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/73886.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10995,
     "createdAt": "2020-10-12T15:39:30.000Z",
-    "updatedAt": "2021-05-16T03:24:44.000Z",
+    "updatedAt": "2021-10-03T01:03:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

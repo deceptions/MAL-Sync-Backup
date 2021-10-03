@@ -15,7 +15,22 @@
   "updatedAt": "2021-09-11T20:36:12.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anpanman.jp/movie2012/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9014"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14105"
+      }
+    ],
     "altTitle": [
+      "Anpanman: Revive Banana Island!",
       "それいけ！アンパンマン よみがえれ バナナ島"
     ],
     "id": 14381,
@@ -25,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/39427.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 9014,
     "createdAt": "2021-09-11T20:36:12.000Z",
-    "updatedAt": "2021-09-11T20:36:12.000Z",
+    "updatedAt": "2021-10-02T14:08:34.000Z",
     "deletedAt": null
   },
   "Anilist": null,

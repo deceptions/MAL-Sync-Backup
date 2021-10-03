@@ -1,4 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.megaton-musashi.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12296"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24549"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AC%E3%83%88%E3%83%B3%E7%B4%9A%E3%83%A0%E3%82%B5%E3%82%B7"
+    }
+  ],
   "altTitle": [
     "メガトン級ムサシ"
   ],
@@ -9,8 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1317/116693.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 12296,
   "createdAt": "2021-08-19T19:07:59.000Z",
-  "updatedAt": "2021-08-19T19:07:59.000Z",
+  "updatedAt": "2021-10-01T20:32:23.000Z",
   "deletedAt": null,
   "Pages": {}
 }

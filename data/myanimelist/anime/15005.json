@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kyonoasukashow.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9286"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/今日のあすかショー"
+    }
+  ],
   "altTitle": [
     "Today's Asuka show",
     "今日のあすかショー"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/77066.jpg",
   "category": "ONA",
   "hentai": false,
+  "anidbId": 9286,
   "createdAt": "2020-10-12T15:39:15.000Z",
-  "updatedAt": "2021-09-27T22:34:03.000Z",
+  "updatedAt": "2021-10-02T14:38:45.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

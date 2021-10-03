@@ -1,7 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=393"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=186"
+    }
+  ],
   "altTitle": [
     "Ninja Resurrection",
-    "Ninja Resurrection: The Revenge of Jubei, Makai Tensho",
+    "Ninja Resurrection: The Revenge of Jubei",
+    "Makai Tensho",
     "魔界転生"
   ],
   "id": 1455,
@@ -11,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1285/94142.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 393,
   "createdAt": "2020-10-12T15:38:17.000Z",
-  "updatedAt": "2021-04-26T17:19:19.000Z",
+  "updatedAt": "2021-09-30T22:34:45.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

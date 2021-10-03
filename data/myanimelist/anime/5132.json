@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3297"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=383"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/LET%27S_%E3%81%AC%E3%81%B7%E3%81%AC%E3%81%B7%E3%81%A3"
+    }
+  ],
   "altTitle": [
     "Let's Nupu Nupu",
     "LET'S　ぬぷぬぷっ"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/6/58797.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 3297,
   "createdAt": "2020-10-12T15:38:46.000Z",
-  "updatedAt": "2021-04-28T06:49:20.000Z",
+  "updatedAt": "2021-10-01T18:33:56.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

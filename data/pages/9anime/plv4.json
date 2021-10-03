@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.valkyria-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6244"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Valkyrie_of_the_Battlefield"
+      }
+    ],
     "altTitle": [
       "Valkyria Chronicles: Theater",
-      "Valkyria Chronicles Specials, Senjou No Valkyria: Gallian Chronicles Specials",
+      "Valkyria Chronicles Specials",
+      "Senjou No Valkyria: Gallian Chronicles Specials",
       "戦場のヴァルキュリアヴァル劇場"
     ],
     "id": 7016,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/19773.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 6244,
     "createdAt": "2020-10-12T15:38:54.000Z",
-    "updatedAt": "2021-05-14T05:55:03.000Z",
+    "updatedAt": "2021-10-02T00:08:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

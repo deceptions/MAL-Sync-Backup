@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.fwinc.co.jp/busgamer/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5547"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8956"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Bus_Gamer"
+      }
+    ],
     "altTitle": [
       "BusGamer",
       "BUS GAMER"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/75210.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5547,
     "createdAt": "2020-10-12T15:38:37.000Z",
-    "updatedAt": "2021-04-22T11:00:39.000Z",
+    "updatedAt": "2021-10-01T12:07:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

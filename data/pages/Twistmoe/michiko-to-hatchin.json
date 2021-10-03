@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.michikotohatchin.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5779"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9602"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Michiko_to_Hatchin"
+      }
+    ],
     "altTitle": [
       "Michiko & Hatchin",
-      "Michiko e Hatchin, Michiko to Hacchin",
+      "Michiko e Hatchin",
+      "Michiko to Hacchin",
       "ミチコとハッチン"
     ],
     "id": 4087,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/59535.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5779,
     "createdAt": "2020-10-12T15:38:41.000Z",
-    "updatedAt": "2021-05-06T18:48:32.000Z",
+    "updatedAt": "2021-10-01T15:11:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

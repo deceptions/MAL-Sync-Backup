@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8431"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://zh.wikipedia.org/zh/%E5%96%9C%E7%BE%8A%E7%BE%8A%E4%B8%8E%E7%81%B0%E5%A4%AA%E7%8B%BC%E4%B9%8B%E8%99%8E%E8%99%8E%E7%94%9F%E5%A8%81"
+      }
+    ],
     "altTitle": [
       "Pleasant Goat and Big Big Wolf: The Tiger Prowess",
       "Pleasant Goat and Big Big Wolf Movie 2: The Tiger Prowess",
@@ -22,13 +32,14 @@
     ],
     "id": 9973,
     "type": "anime",
-    "title": "Xi Yang Yang Yu Hui Tai Lang: Zhi Hu Hu Sheng Wei",
-    "url": "https://myanimelist.net/anime/9973/Xi_Yang_Yang_Yu_Hui_Tai_Lang__Zhi_Hu_Hu_Sheng_Wei",
+    "title": "Xi Yangyang Yu Hui Tailang: Hu Hu Sheng Wei",
+    "url": "https://myanimelist.net/anime/9973/Xi_Yangyang_Yu_Hui_Tailang__Hu_Hu_Sheng_Wei",
     "image": "https://cdn.myanimelist.net/images/anime/2/27631.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 8431,
     "createdAt": "2020-10-12T15:39:04.000Z",
-    "updatedAt": "2021-04-29T04:49:01.000Z",
+    "updatedAt": "2021-10-02T07:09:05.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -50,5 +61,5 @@
     "updatedAt": "2021-06-17T12:32:05.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/anime/9973/Xi_Yang_Yang_Yu_Hui_Tai_Lang__Zhi_Hu_Hu_Sheng_Wei"
+  "malUrl": "https://myanimelist.net/anime/9973/Xi_Yangyang_Yu_Hui_Tailang__Hu_Hu_Sheng_Wei"
 }

@@ -1,4 +1,5 @@
 {
+  "externalLinks": null,
   "altTitle": [
     "カイカンドウキ"
   ],
@@ -13,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:15.000Z",
-  "updatedAt": "2021-08-12T06:09:26.000Z",
+  "updatedAt": "2021-09-29T16:06:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +58,28 @@
         "aniId": 117879,
         "createdAt": "2021-06-29T08:47:08.000Z",
         "updatedAt": "2021-06-29T08:49:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kaikan_douki": {
+        "authors": [
+          "HONNA Wakou"
+        ],
+        "identifier": "kaikan_douki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kaikan Douki",
+        "url": "https://fanfox.net/manga/kaikan_douki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33598/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124872,
+        "aniId": 117879,
+        "createdAt": "2021-09-29T16:06:36.000Z",
+        "updatedAt": "2021-09-29T16:36:19.000Z",
         "deletedAt": null
       }
     }

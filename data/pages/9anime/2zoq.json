@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://dbeat.bandaivisual.co.jp/arjuna/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=107"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=602"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Earth_Maiden_Arjuna"
+      }
+    ],
     "altTitle": [
       "Arjuna",
-      "Earth Maiden Arjuna, Earth Girl Arjuna",
+      "Earth Maiden Arjuna",
+      "Earth Girl Arjuna",
       "地球少女アルジュナ"
     ],
     "id": 812,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/57253.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 107,
     "createdAt": "2020-10-12T15:38:08.000Z",
-    "updatedAt": "2021-04-15T11:14:48.000Z",
+    "updatedAt": "2021-09-30T17:04:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

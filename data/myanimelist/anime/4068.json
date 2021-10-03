@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1968"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1832"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Devil_Children"
+    }
+  ],
   "altTitle": [
     "真･女神転生Ｄチルドレン ライト＆ダーク"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/23110.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1968,
   "createdAt": "2020-10-12T15:38:41.000Z",
-  "updatedAt": "2021-06-29T10:04:46.000Z",
+  "updatedAt": "2021-10-01T15:09:05.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

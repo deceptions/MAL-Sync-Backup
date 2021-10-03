@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=142"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2280"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Yume_de_Aetara"
+    }
+  ],
   "altTitle": [
     "If I See You in My Dreams",
     "夢で逢えたら"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/25224.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 142,
   "createdAt": "2020-10-12T15:38:07.000Z",
-  "updatedAt": "2021-04-03T17:38:16.000Z",
+  "updatedAt": "2021-09-30T16:10:25.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

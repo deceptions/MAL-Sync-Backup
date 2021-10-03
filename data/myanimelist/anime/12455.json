@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=312"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/YuYu_Hakusho"
+    }
+  ],
   "altTitle": [
     "Yu Yu Hakusho: Mu Mu Hakusho",
     "Yu Yu Hakusho: Eizou Hakusho III",
@@ -12,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/34985.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 312,
   "createdAt": "2020-10-12T15:39:11.000Z",
-  "updatedAt": "2021-08-13T21:16:04.000Z",
+  "updatedAt": "2021-10-02T12:03:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

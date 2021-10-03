@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5057"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5340"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/SUPERFLAT_MONOGRAM"
+    }
+  ],
   "altTitle": [
     "すーぱーふらっと・ものぐらむ"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/23729.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 5057,
   "createdAt": "2020-10-12T15:38:28.000Z",
-  "updatedAt": "2021-04-27T06:49:40.000Z",
+  "updatedAt": "2021-10-01T05:34:58.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

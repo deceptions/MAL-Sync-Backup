@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=984"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2199"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fist_of_the_North_Star#TV_series"
+      }
+    ],
     "altTitle": [
       "Fist of the North Star 2",
       "HNK II",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/4120.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 984,
     "createdAt": "2020-10-12T15:38:16.000Z",
-    "updatedAt": "2021-08-18T17:07:02.000Z",
+    "updatedAt": "2021-09-30T21:40:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

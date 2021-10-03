@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=957"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1170"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gaogaigar"
+    }
+  ],
   "altTitle": [
     "King of Braves GaoGaiGar",
     "GaoGaiGar",
@@ -15,8 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/21183.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 957,
   "createdAt": "2020-10-12T15:38:09.000Z",
-  "updatedAt": "2021-08-09T17:09:17.000Z",
+  "updatedAt": "2021-09-30T17:37:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

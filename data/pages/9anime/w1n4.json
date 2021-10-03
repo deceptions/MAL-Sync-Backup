@@ -15,9 +15,31 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://itakiss-anime.jp/index.htm"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5678"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9193"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Itazura_na_Kiss"
+      }
+    ],
     "altTitle": [
       "ItaKiss",
-      "Naughty Kiss, Teasing Kiss, Mischievous Kiss, Itazurana Kiss, It Started With A Kiss",
+      "Naughty Kiss",
+      "Teasing Kiss",
+      "Mischievous Kiss",
+      "Itazurana Kiss",
+      "It Started With A Kiss",
       "イタズラなKiss"
     ],
     "id": 3731,
@@ -27,8 +49,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/19933.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5678,
     "createdAt": "2020-10-12T15:38:39.000Z",
-    "updatedAt": "2021-04-15T14:44:47.000Z",
+    "updatedAt": "2021-10-01T13:38:37.000Z",
     "deletedAt": null
   },
   "Anilist": {

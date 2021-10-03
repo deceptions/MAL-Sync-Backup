@@ -15,8 +15,21 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3560"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6342"
+      }
+    ],
     "altTitle": [
-      "Captain Tsubasa: Ayaushi! Zen Nippon Jr., Captain Tsubasa Movie 2, Captain Tsubasa MOVIE (1985 Winter), Captain Tsubasa Movie 02 - Attention! The Japanese Junior Selection",
+      "Captain Tsubasa: Ayaushi! Zen Nippon Jr.",
+      "Captain Tsubasa Movie 2",
+      "Captain Tsubasa MOVIE (1985 Winter)",
+      "Captain Tsubasa Movie 02 - Attention! The Japanese Junior Selection",
       "キャプテン翼　危うし！全日本Ｊｒ．"
     ],
     "id": 2119,
@@ -26,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1812/110681.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 3560,
     "createdAt": "2020-10-12T15:38:26.000Z",
-    "updatedAt": "2021-04-27T04:48:51.000Z",
+    "updatedAt": "2021-10-01T04:07:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

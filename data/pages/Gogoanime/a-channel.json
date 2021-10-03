@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.a-ch.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8107"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12112"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/A_Channel_%28manga%29"
+      }
+    ],
     "altTitle": [
       "A-Channel",
       "A-Channel: The Animation",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1333/110595.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8107,
     "createdAt": "2020-10-12T15:39:03.000Z",
-    "updatedAt": "2021-06-17T10:28:37.000Z",
+    "updatedAt": "2021-09-30T20:01:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

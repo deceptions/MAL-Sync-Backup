@@ -15,8 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nippon-animation.co.jp/work/tsurikichi_sanpei.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3425"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1654"
+      }
+    ],
     "altTitle": [
-      "Tsurikichi Sampei, Sanpei the Fisherman, Fishing Otaku Sanpei",
+      "Tsurikichi Sampei",
+      "Sanpei the Fisherman",
+      "Fishing Otaku Sanpei",
       "釣りキチ三平"
     ],
     "id": 3137,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/26896.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3425,
     "createdAt": "2020-10-12T15:38:35.000Z",
-    "updatedAt": "2021-04-27T17:48:30.000Z",
+    "updatedAt": "2021-10-01T11:04:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

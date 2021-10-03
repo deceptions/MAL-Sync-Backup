@@ -1,7 +1,13 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6096"
+    }
+  ],
   "altTitle": [
     "Pink Riders",
-    "69ピンクライダース"
+    "69 핑크 라이더스"
   ],
   "id": 5548,
   "type": "anime",
@@ -10,8 +16,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1259/103790.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 6096,
   "createdAt": "2021-08-10T09:40:16.000Z",
-  "updatedAt": "2021-08-10T09:40:16.000Z",
+  "updatedAt": "2021-10-01T19:38:08.000Z",
   "deletedAt": null,
   "Pages": {}
 }

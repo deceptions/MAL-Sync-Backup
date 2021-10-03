@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=941"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=259"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Baoh"
+      }
+    ],
     "altTitle": [
       "Baoh the Visitor",
-      "Baoh, Baoh Caller",
+      "Baoh",
+      "Baoh Caller",
       "バオー来訪者"
     ],
     "id": 1468,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1274/112464.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 941,
     "createdAt": "2020-10-12T15:38:17.000Z",
-    "updatedAt": "2021-04-26T17:48:51.000Z",
+    "updatedAt": "2021-09-30T22:36:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

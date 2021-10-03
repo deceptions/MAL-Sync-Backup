@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-02T11:03:21.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "eater": {
+        "authors": [
+          "USUNE Masatoshi"
+        ],
+        "identifier": "eater",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Eater",
+        "url": "https://fanfox.net/manga/eater/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/17457/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10511,
+        "aniId": 40511,
+        "createdAt": "2021-09-29T14:08:34.000Z",
+        "updatedAt": "2021-09-29T14:36:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

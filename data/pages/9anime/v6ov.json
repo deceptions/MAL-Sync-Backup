@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.steinsgate.tv/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7729"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Steins;Gate"
+      }
+    ],
     "altTitle": [
-      "Steins Gate: Episode 23 (β), Open the Missing Link",
+      "Steins Gate: Episode 23 (β)",
+      "Open the Missing Link",
       "シュタインズ・ゲート境界面上のミッシングリンク-Divide By Zero-"
     ],
     "id": 32188,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/77324.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 7729,
     "createdAt": "2020-10-12T15:39:41.000Z",
-    "updatedAt": "2021-06-03T09:19:30.000Z",
+    "updatedAt": "2021-10-02T02:32:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

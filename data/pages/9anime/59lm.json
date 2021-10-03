@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tokinoyu.net/2nd.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1111"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3132"
+      }
+    ],
     "altTitle": [
       "UFO Ultramaiden Valkyrie 2: December Nocturne",
-      "UFO Princess Valkyrie - December's Nocturne, UFO Princess Walküre 2",
+      "UFO Princess Valkyrie - December's Nocturne",
+      "UFO Princess Walküre 2",
       "円盤皇女ワるきゅーレ 十二月の夜想曲"
     ],
     "id": 1128,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/22374.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1111,
     "createdAt": "2020-10-12T15:38:13.000Z",
-    "updatedAt": "2021-04-26T12:27:42.000Z",
+    "updatedAt": "2021-09-30T19:40:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

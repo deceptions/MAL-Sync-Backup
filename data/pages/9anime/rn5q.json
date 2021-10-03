@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://enoki-films.co.jp/pro_wizardofoz.php"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3669"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1499"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz_%281986_anime%29"
+      }
+    ],
     "altTitle": [
       "The Wonderful Wizard of Oz",
-      "Oz no Mahoutsukai, The Wizard of Oz",
+      "Oz no Mahoutsukai",
+      "The Wizard of Oz",
       "オズの魔法使い"
     ],
     "id": 2826,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/64339.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3669,
     "createdAt": "2020-10-12T15:38:33.000Z",
-    "updatedAt": "2021-04-07T15:28:38.000Z",
+    "updatedAt": "2021-10-01T09:11:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

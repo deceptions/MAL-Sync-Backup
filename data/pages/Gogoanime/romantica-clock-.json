@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://ribon.shueisha.co.jp/ohasta/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10359"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16155"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Romantica_Clock"
+      }
+    ],
     "altTitle": [
-      "Ribbon x Oha Suta Specials, Ribon x Oha Suta Specials",
+      "Ribbon x Oha Suta Specials",
+      "Ribon x Oha Suta Specials",
       "ロマンチカ クロック"
     ],
     "id": 21771,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/58769.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 10359,
     "createdAt": "2020-10-12T15:39:24.000Z",
-    "updatedAt": "2021-04-30T00:49:24.000Z",
+    "updatedAt": "2021-10-02T21:32:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.whitealbum-tv.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6026"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10134"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/White_Album_(visual_novel)#Anime"
+      }
+    ],
     "altTitle": [
       "White Album",
       "W.A.",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/43537.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 6026,
     "createdAt": "2020-10-12T15:38:44.000Z",
-    "updatedAt": "2021-04-12T16:45:50.000Z",
+    "updatedAt": "2021-10-01T17:07:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

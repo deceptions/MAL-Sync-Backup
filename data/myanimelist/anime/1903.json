@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.stratos4.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=445"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Stratos_4"
+    }
+  ],
   "altTitle": [
     "ストラトス・フォー"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/8374.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 445,
   "createdAt": "2020-10-12T15:38:23.000Z",
-  "updatedAt": "2021-04-27T00:48:39.000Z",
+  "updatedAt": "2021-10-01T02:11:43.000Z",
   "deletedAt": null,
   "Pages": {}
 }

@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=318"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=788"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Angel's_Egg"
+    }
+  ],
   "altTitle": [
     "Angel's Egg",
     "天使のたまご"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/63181.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 318,
   "createdAt": "2020-10-12T15:38:09.000Z",
-  "updatedAt": "2021-07-01T14:20:52.000Z",
+  "updatedAt": "2021-09-30T17:36:14.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

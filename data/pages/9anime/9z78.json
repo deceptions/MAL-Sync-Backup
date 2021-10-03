@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.hayate-project.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9291"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14552"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%A4%E3%83%86%E3%81%AE%E3%81%94%E3%81%A8%E3%81%8F!_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
+      }
+    ],
     "altTitle": [
       "Hayate the Combat Butler: Can't Take My Eyes Off You",
-      "Hayate no Gotoku (2012), Hayate the Combat Butler! Can't Take My Eyes Off You",
+      "Hayate no Gotoku (2012)",
+      "Hayate the Combat Butler! Can't Take My Eyes Off You",
       "ハヤテのごとく! CAN'T TAKE MY EYES OFF YOU"
     ],
     "id": 14653,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/73952.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9291,
     "createdAt": "2020-10-12T15:39:14.000Z",
-    "updatedAt": "2021-05-19T13:31:24.000Z",
+    "updatedAt": "2021-10-02T14:33:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

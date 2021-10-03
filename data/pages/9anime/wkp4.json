@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.anime-int.com/works/index.html?years=1996&?type=tv&?initial=p"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=741"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=923"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Magical_Project_S"
+      }
+    ],
     "altTitle": [
       "Magical Project S",
-      "Mahou Shoujo Pretty Sammy (TV), Tenchi Muyo: Magical Project Pretty Sammy",
+      "Mahou Shoujo Pretty Sammy (TV)",
+      "Tenchi Muyo: Magical Project Pretty Sammy",
       "魔法少女プリティサミー(1996)"
     ],
     "id": 1502,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/19979.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 741,
     "createdAt": "2020-10-12T15:38:18.000Z",
-    "updatedAt": "2021-04-26T18:19:50.000Z",
+    "updatedAt": "2021-09-30T23:02:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,4 +1,10 @@
 {
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Chocolat_%28manhwa%29"
+    }
+  ],
   "altTitle": [
     "Chocolat",
     "Chocolate",
@@ -16,7 +22,31 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:35.000Z",
-  "updatedAt": "2021-04-27T02:50:10.000Z",
+  "updatedAt": "2021-10-01T11:01:02.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-cq959399": {
+        "authors": [
+          "Shin Ji-Sang",
+          "Geo"
+        ],
+        "identifier": "manga-cq959399",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Chocolat",
+        "url": "https://manganato.com/manga-cq959399",
+        "image": "https://avt.mkklcdnv6temp.com/12/g/6-1583474604.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1636,
+        "aniId": null,
+        "createdAt": "2021-10-01T11:00:52.000Z",
+        "updatedAt": "2021-10-01T11:01:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.imouto-okan.jp/goods.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9522"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E5%A6%B9%E3%81%AF%E3%80%8C%E5%A4%A7%E9%98%AA%E3%81%8A%E3%81%8B%E3%82%93%E3%80%8D"
+      }
+    ],
     "altTitle": [
-      "Boku no Imouto wa \"Oosaka Okan\": Our Big Brother's Tokyo Rules, Boku no Imouto wa \"Osaka Okan\" Special",
+      "Boku no Imouto wa \"Oosaka Okan\": Our Big Brother's Tokyo Rules",
+      "Boku no Imouto wa \"Osaka Okan\" Special",
       "僕の妹は「大阪おかん」 うちのおにいちゃんは東京ルール"
     ],
     "id": 18419,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/49317.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 9522,
     "createdAt": "2020-10-12T15:39:20.000Z",
-    "updatedAt": "2021-04-29T20:18:53.000Z",
+    "updatedAt": "2021-10-02T18:10:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

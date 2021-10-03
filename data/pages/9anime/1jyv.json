@@ -15,8 +15,25 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3951"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3810"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kamen_Rider_SD"
+      }
+    ],
     "altTitle": [
-      "SD Riders, SD Kamen Rider, Masked Rider SD, Masked Rider Super-Deformed",
+      "SD Riders",
+      "SD Kamen Rider",
+      "Masked Rider SD",
+      "Masked Rider Super-Deformed",
       "仮面ライダーSD 怪奇!?クモ男"
     ],
     "id": 3100,
@@ -26,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/51043.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3951,
     "createdAt": "2020-10-12T15:38:35.000Z",
-    "updatedAt": "2021-04-27T17:19:11.000Z",
+    "updatedAt": "2021-10-01T10:39:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

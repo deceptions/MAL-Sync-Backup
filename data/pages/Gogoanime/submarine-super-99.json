@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=732"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6039"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Submarine_Super_99"
+      }
+    ],
     "altTitle": [
       "サブマリン スーパー９９"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/49109.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 732,
     "createdAt": "2021-04-20T10:44:43.000Z",
-    "updatedAt": "2021-04-20T10:44:43.000Z",
+    "updatedAt": "2021-10-01T00:39:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

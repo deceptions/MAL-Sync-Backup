@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6611"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7334"
+    }
+  ],
   "altTitle": [
     "月がのぼるまでに"
   ],
@@ -9,8 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/36215.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 6611,
   "createdAt": "2020-10-12T15:39:12.000Z",
-  "updatedAt": "2021-04-29T12:49:12.000Z",
+  "updatedAt": "2021-10-02T12:36:06.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

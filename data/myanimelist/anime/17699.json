@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toriko-movie.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9671"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15111"
+    }
+  ],
   "altTitle": [
     "Toriko the Movie: Secret Recipe of Gourmet God!",
     "Gekijouban Toriko: Bishokushin no Special Menu",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/6/47417.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 9671,
   "createdAt": "2020-10-12T15:39:19.000Z",
-  "updatedAt": "2021-04-29T19:18:53.000Z",
+  "updatedAt": "2021-10-01T06:01:23.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -31,6 +46,25 @@
         "aniId": 17699,
         "createdAt": "2020-10-12T15:49:23.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "toriko-movie-bishokushin-no-special-menu": {
+        "identifier": "toriko-movie-bishokushin-no-special-menu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Toriko Movie: Bishokushin no Special Menu",
+        "url": "https://gogoanime.pe/category/toriko-movie-bishokushin-no-special-menu",
+        "image": "https://gogocdn.net/images/Toriko-Movie-Bishokushin-no-Special-Menu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17699,
+        "aniId": 17699,
+        "createdAt": "2021-10-01T06:01:03.000Z",
+        "updatedAt": "2021-10-01T06:30:52.000Z",
         "deletedAt": null
       }
     }

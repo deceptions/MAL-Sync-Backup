@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=666"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2632"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Gekigangar_III"
+      }
+    ],
     "altTitle": [
       "Gekiganger 3",
-      "Gekiganger 3: Nekketsu Daikessen, Nadesico OVA",
+      "Gekiganger 3: Nekketsu Daikessen",
+      "Nadesico OVA",
       "ゲキ・ガンガー３　熱血大決戦"
     ],
     "id": 2067,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1343/94110.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 666,
     "createdAt": "2020-10-12T15:38:25.000Z",
-    "updatedAt": "2021-04-27T03:48:40.000Z",
+    "updatedAt": "2021-10-01T03:39:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

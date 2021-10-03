@@ -15,9 +15,31 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/lineup/tv/runrun/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1919"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1390"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Hana_no_Ko_Lunlun"
+      }
+    ],
     "altTitle": [
       "Flower Angel",
-      "Hana no Ko Runrun, Lili, Lulu, Lun Lun the Flower Child, Lunlun",
+      "Hana no Ko Runrun",
+      "Lili",
+      "Lulu",
+      "Lun Lun the Flower Child",
+      "Lunlun",
       "花の子ルンルン"
     ],
     "id": 2230,
@@ -27,8 +49,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/16095.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1919,
     "createdAt": "2020-10-12T15:38:27.000Z",
-    "updatedAt": "2021-04-12T17:46:27.000Z",
+    "updatedAt": "2021-10-01T05:04:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

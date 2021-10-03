@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.popanime.net/bss/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=554"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_Skipper"
+      }
+    ],
     "altTitle": [
       "Battle Skipper",
-      "Battle Skipper School, Lightning Attacker Exstars Battle Skipper",
+      "Battle Skipper School",
+      "Lightning Attacker Exstars Battle Skipper",
       "美少女遊撃隊バトルスキッパー"
     ],
     "id": 1528,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1851/96471.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 554,
     "createdAt": "2020-10-12T15:38:18.000Z",
-    "updatedAt": "2021-04-26T18:48:39.000Z",
+    "updatedAt": "2021-09-30T23:05:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

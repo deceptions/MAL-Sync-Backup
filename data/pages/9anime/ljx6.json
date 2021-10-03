@@ -15,6 +15,20 @@
   "updatedAt": "2021-08-24T17:36:33.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4927"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2210"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mechander_Robo"
+      }
+    ],
     "altTitle": [
       "Combining Squadron Mechander Robo",
       "Mekanda Robo",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/29474.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4927,
     "createdAt": "2020-10-12T15:38:36.000Z",
-    "updatedAt": "2021-08-24T17:07:09.000Z",
+    "updatedAt": "2021-10-01T11:38:32.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,8 +15,29 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://marheaven.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2855"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4882"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/M%C3%84R"
+      }
+    ],
     "altTitle": [
-      "Marchen Awakens Romance, Märchen Awakens Romance, MAR-Heaven, MÄR Heaven",
+      "Marchen Awakens Romance",
+      "Märchen Awakens Romance",
+      "MAR-Heaven",
+      "MÄR Heaven",
       "メル"
     ],
     "id": 738,
@@ -26,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/38383.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2855,
     "createdAt": "2020-10-12T15:38:07.000Z",
-    "updatedAt": "2021-04-12T17:45:57.000Z",
+    "updatedAt": "2021-09-30T16:34:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

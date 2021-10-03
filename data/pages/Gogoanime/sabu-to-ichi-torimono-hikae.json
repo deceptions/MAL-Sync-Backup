@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5293"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2374"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sabu_to_Ichi_Torimono_Hikae"
+      }
+    ],
     "altTitle": [
       "Sabu & Ichi's Arrest Warrant",
       "Sabu & Ichi's Arrest Note",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/84054.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5293,
     "createdAt": "2020-10-12T15:38:49.000Z",
-    "updatedAt": "2021-04-28T11:19:11.000Z",
+    "updatedAt": "2021-10-01T21:05:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

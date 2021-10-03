@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1093"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2656"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Yami_to_B%C5%8Dshi_to_Hon_no_Tabibito"
+      }
+    ],
     "altTitle": [
       "Yamibo: Darkness, The Hat and the Travelers of the Books",
       "YamiBou",
@@ -31,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/23094.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1093,
     "createdAt": "2020-10-12T15:38:04.000Z",
-    "updatedAt": "2021-07-04T19:30:00.000Z",
+    "updatedAt": "2021-09-30T14:32:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

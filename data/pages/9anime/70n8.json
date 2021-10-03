@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://needless.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6467"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/NEEDLESS"
+      }
+    ],
     "altTitle": [
-      "Needless Specials, Needless: The Secret of Saint Lily Academy",
+      "Needless Specials",
+      "Needless: The Secret of Saint Lily Academy",
       "Needless+ -聖リリィ学園の秘密-"
     ],
     "id": 7322,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/17467.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 6467,
     "createdAt": "2020-10-12T15:38:55.000Z",
-    "updatedAt": "2021-04-28T18:19:11.000Z",
+    "updatedAt": "2021-10-02T01:05:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

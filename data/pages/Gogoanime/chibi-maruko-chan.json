@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nippon-animation.co.jp/work/chibimaruko.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1841"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=479"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Chibi_Maruko-chan"
+      }
+    ],
     "altTitle": [
-      "Petite Maruko-chan, Little Miss Maruko",
+      "Petite Maruko-chan",
+      "Little Miss Maruko",
       "ちびまる子ちゃん"
     ],
     "id": 951,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/22476.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1841,
     "createdAt": "2020-10-12T15:38:10.000Z",
-    "updatedAt": "2021-04-26T09:27:15.000Z",
+    "updatedAt": "2021-09-30T18:07:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

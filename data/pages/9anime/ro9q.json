@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nagoyatv.com/battlespirits/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6069"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10088"
+      }
+    ],
     "altTitle": [
-      "Battle Spirits: Shonen Toppa Bashin, Battle Spirits Season 1",
+      "Battle Spirits: Shonen Toppa Bashin",
+      "Battle Spirits Season 1",
       "バトルスピリッツ 少年突破バシン"
     ],
     "id": 5082,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/21150.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 6069,
     "createdAt": "2020-10-12T15:38:45.000Z",
-    "updatedAt": "2021-04-28T06:48:40.000Z",
+    "updatedAt": "2021-10-01T18:09:00.000Z",
     "deletedAt": null
   },
   "Anilist": {

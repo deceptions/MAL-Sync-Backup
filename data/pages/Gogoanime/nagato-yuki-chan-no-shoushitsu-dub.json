@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.yukichan-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10815"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16250"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_Disappearance_of_Nagato_Yuki-chan"
+      }
+    ],
     "altTitle": [
       "The Disappearance of Nagato Yuki-chan",
       "The Vanishing of Nagato Yuki-chan",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/73527.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10815,
     "createdAt": "2020-10-12T15:39:30.000Z",
-    "updatedAt": "2021-04-07T16:51:30.000Z",
+    "updatedAt": "2021-10-03T01:07:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

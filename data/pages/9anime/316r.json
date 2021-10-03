@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.b-ch.com/contents/ideon/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1809"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2726"
+      }
+    ],
     "altTitle": [
       "The Ideon: Be Invoked",
       "伝説巨神イデオン 発動篇"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1146/91266.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 1809,
     "createdAt": "2020-10-12T15:38:32.000Z",
-    "updatedAt": "2021-04-27T13:48:30.000Z",
+    "updatedAt": "2021-10-01T09:01:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

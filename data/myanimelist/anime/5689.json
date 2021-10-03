@@ -1,6 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5943"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3399"
+    }
+  ],
   "altTitle": [
-    "Eternal Filena, Eien no Filerna, Filena",
+    "Eternal Filena",
+    "Eien no Filerna",
+    "Filena",
     "永遠のフィレーナ"
   ],
   "id": 5689,
@@ -10,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/11803.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 5943,
   "createdAt": "2020-10-12T15:38:48.000Z",
-  "updatedAt": "2021-04-28T09:19:40.000Z",
+  "updatedAt": "2021-10-01T20:05:33.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

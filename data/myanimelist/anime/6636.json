@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4928"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1274"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Galvion"
+    }
+  ],
   "altTitle": [
     "Super High Speed Galvion",
     "Cho Kosoku Galvion",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/56453.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 4928,
   "createdAt": "2020-10-12T15:38:52.000Z",
-  "updatedAt": "2021-04-28T14:18:50.000Z",
+  "updatedAt": "2021-10-01T23:02:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

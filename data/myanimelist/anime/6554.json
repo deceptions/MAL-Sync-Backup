@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6580"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10819"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%B7%9D%E3%81%AE%E5%85%89"
+    }
+  ],
   "altTitle": [
-    "Light of the River, River's Light",
+    "Light of the River",
+    "River's Light",
     "川の光"
   ],
   "id": 6554,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/47005.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 6580,
   "createdAt": "2020-10-12T15:38:52.000Z",
-  "updatedAt": "2021-04-28T13:49:41.000Z",
+  "updatedAt": "2021-10-01T22:37:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

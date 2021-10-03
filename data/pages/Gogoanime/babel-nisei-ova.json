@@ -15,6 +15,20 @@
   "updatedAt": "2021-07-26T00:21:33.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1461"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2113"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Babel_II"
+      }
+    ],
     "altTitle": [
       "Babel II",
       "Babel II OVA",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1467/100245.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1461,
     "createdAt": "2020-10-12T15:38:20.000Z",
-    "updatedAt": "2021-07-25T23:51:45.000Z",
+    "updatedAt": "2021-10-01T00:09:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

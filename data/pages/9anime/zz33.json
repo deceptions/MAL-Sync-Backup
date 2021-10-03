@@ -15,9 +15,33 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kokaku-s.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4414"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6717"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ghost_in_the_Shell:_S.A.C._Solid_State_Society"
+      }
+    ],
     "altTitle": [
       "Ghost in the Shell: Stand Alone Complex - Solid State Society",
-      "GitS SAC SSS, GitS: SAC 3, gits sac3, gitssac3, sac3, sss, Ghost in the Shell S.A.C. Solid State Society",
+      "GitS SAC SSS",
+      "GitS: SAC 3",
+      "gits sac3",
+      "gitssac3",
+      "sac3",
+      "sss",
+      "Ghost in the Shell S.A.C. Solid State Society",
       "攻殻機動隊 STAND ALONE COMPLEX Solid State Society"
     ],
     "id": 1566,
@@ -27,8 +51,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/29816.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 4414,
     "createdAt": "2020-10-12T15:38:18.000Z",
-    "updatedAt": "2021-04-07T12:38:18.000Z",
+    "updatedAt": "2021-09-30T23:34:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

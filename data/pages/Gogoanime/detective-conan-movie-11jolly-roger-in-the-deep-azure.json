@@ -15,8 +15,28 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.conan-movie.jp/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4937"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7487"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Detective_Conan:_Jolly_Roger_in_the_Deep_Azure"
+      }
+    ],
     "altTitle": [
-      "Meitantei Conan: Konpeki no Hitsugi [Jolly Roger], Detective Conan 2007, Detective Conan Movie 11",
+      "Meitantei Conan: Konpeki no Hitsugi [Jolly Roger]",
+      "Detective Conan 2007",
+      "Detective Conan Movie 11",
       "名探偵コナン 紺碧の棺 （ジョリー・ロジャー）"
     ],
     "id": 2171,
@@ -26,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1765/94323.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 4937,
     "createdAt": "2020-10-12T15:38:26.000Z",
-    "updatedAt": "2021-04-21T17:36:13.000Z",
+    "updatedAt": "2021-10-01T04:38:37.000Z",
     "deletedAt": null
   },
   "Anilist": {

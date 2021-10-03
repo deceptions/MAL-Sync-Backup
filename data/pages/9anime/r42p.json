@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1174"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=594"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Dirty_Pair"
+      }
+    ],
     "altTitle": [
       "Original Dirty Pair: Flight 005 Conspiracy",
       "ダーティペア　謀略の００５便"
@@ -26,14 +40,16 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/82031.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1174,
     "createdAt": "2020-10-12T15:38:21.000Z",
-    "updatedAt": "2021-04-26T22:49:32.000Z",
+    "updatedAt": "2021-10-01T01:31:22.000Z",
     "deletedAt": null
   },
   "Anilist": {
     "altTitle": [
       "Dirty Pair: Flight 005 Conspiracy",
-      "ダーティペア　謀略の００５便"
+      "ダーティペア　謀略の００５便",
+      "Dirty Pair: Verschwörung um Flug 005"
     ],
     "externalLinks": [],
     "id": 1795,
@@ -45,7 +61,7 @@
     "category": "ova",
     "hentai": false,
     "createdAt": "2021-05-20T14:35:17.000Z",
-    "updatedAt": "2021-06-17T09:29:54.000Z",
+    "updatedAt": "2021-10-01T21:30:52.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/anime/1795/Dirty_Pair__Bouryaku_no_005-bin"

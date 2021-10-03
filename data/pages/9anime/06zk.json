@@ -15,9 +15,26 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3671"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1109"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/アニメひみつの花園"
+      }
+    ],
     "altTitle": [
       "The Secret Garden",
-      "The Animated Secret Garden, Secret Flower Garden, The Secret Garden, Himitsu no Hanazono",
+      "The Animated Secret Garden",
+      "Secret Flower Garden",
+      "The Secret Garden",
+      "Himitsu no Hanazono",
       "アニメ ひみつの花園"
     ],
     "id": 2810,
@@ -27,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/69919.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 3671,
     "createdAt": "2020-10-12T15:38:33.000Z",
-    "updatedAt": "2021-04-27T14:19:20.000Z",
+    "updatedAt": "2021-10-01T09:09:37.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://ssb-love.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10007"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15567"
+      }
+    ],
     "altTitle": [
-      "SSB, Super Seishun Brothers",
+      "SSB",
+      "Super Seishun Brothers",
       "Super Seisyun Brothers -超青春姉弟s-"
     ],
     "id": 19841,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/53807.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10007,
     "createdAt": "2020-10-12T15:39:22.000Z",
-    "updatedAt": "2021-04-29T22:19:04.000Z",
+    "updatedAt": "2021-10-02T19:35:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

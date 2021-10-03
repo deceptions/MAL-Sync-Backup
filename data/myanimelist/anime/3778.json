@@ -1,6 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4034"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6007"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Y%C5%ABkan_Club"
+    }
+  ],
   "altTitle": [
-    "Yukan Club, Yuukan Kurabu, The Leisure Club",
+    "Yukan Club",
+    "Yuukan Kurabu",
+    "The Leisure Club",
     "有閑倶楽部"
   ],
   "id": 3778,
@@ -10,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/73828.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 4034,
   "createdAt": "2020-10-12T15:38:40.000Z",
-  "updatedAt": "2021-04-27T23:19:41.000Z",
+  "updatedAt": "2021-10-01T14:03:47.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

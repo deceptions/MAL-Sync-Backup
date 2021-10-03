@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sushininja.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13234"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    }
+  ],
   "altTitle": [
     "スシニンジャ"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/3/64109.jpg",
   "category": "ONA",
   "hentai": false,
+  "anidbId": 13234,
   "createdAt": "2020-10-12T15:39:29.000Z",
-  "updatedAt": "2021-04-30T05:18:33.000Z",
+  "updatedAt": "2021-10-03T00:09:34.000Z",
   "deletedAt": null,
   "Pages": {}
 }

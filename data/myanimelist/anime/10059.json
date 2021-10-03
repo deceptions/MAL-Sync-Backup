@@ -1,6 +1,17 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7548"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11574"
+    }
+  ],
   "altTitle": [
-    "Soreike! Anpanman: The Secret of Building Block Castle, Sore Ike! Anpanman: Tsumikijou no Himitsu",
+    "Soreike! Anpanman: The Secret of Building Block Castle",
+    "Sore Ike! Anpanman: Tsumikijou no Himitsu",
     "それいけ! アンパンマン つみき城のひみつ"
   ],
   "id": 10059,
@@ -10,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/27775.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 7548,
   "createdAt": "2020-10-12T15:39:04.000Z",
-  "updatedAt": "2021-04-29T05:18:41.000Z",
+  "updatedAt": "2021-10-02T07:34:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nifty.com/sunrise/dai_t_o/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6317"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7157"
+      }
+    ],
     "altTitle": [
-      "Kanzen Shouri Daiteioh, Eldran series #4",
+      "Kanzen Shouri Daiteioh",
+      "Eldran series #4",
       "完全勝利ダイテイオー"
     ],
     "id": 9221,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/51037.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 6317,
     "createdAt": "2020-10-12T15:39:01.000Z",
-    "updatedAt": "2021-04-29T01:49:31.000Z",
+    "updatedAt": "2021-10-02T05:31:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -18,5 +18,28 @@
   "createdAt": "2021-05-24T18:08:17.000Z",
   "updatedAt": "2021-06-18T08:33:05.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "kitto_shiawase_na_ketsumatsu": {
+        "authors": [
+          "ASOU Mitsuaki"
+        ],
+        "identifier": "kitto_shiawase_na_ketsumatsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kitto, Shiawase na Ketsumatsu",
+        "url": "https://fanfox.net/manga/kitto_shiawase_na_ketsumatsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32853/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130983,
+        "aniId": 117290,
+        "createdAt": "2021-10-01T19:32:46.000Z",
+        "updatedAt": "2021-10-01T20:00:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

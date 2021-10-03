@@ -19,7 +19,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-17T14:32:21.000Z",
-  "updatedAt": "2021-07-17T14:32:21.000Z",
+  "updatedAt": "2021-10-01T14:31:43.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ge983639": {
+        "authors": [
+          "Kaiyuan Comic"
+        ],
+        "identifier": "manga-ge983639",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Substitute Bride",
+        "url": "https://readmanganato.com/manga-ge983639",
+        "image": "https://avt.mkklcdnv6temp.com/46/d/19-1583500856.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 109553,
+        "createdAt": "2021-10-01T14:31:42.000Z",
+        "updatedAt": "2021-10-01T14:31:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

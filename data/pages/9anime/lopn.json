@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4711"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7399"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E4%BC%81%E6%A5%AD%E6%88%A6%E5%A3%ABYAMAZAKI"
+      }
+    ],
     "altTitle": [
-      "Long Distance Call, Business Commando Yamazaki",
+      "Long Distance Call",
+      "Business Commando Yamazaki",
       "企業戦士YAMAZAKI ~LONG DISTANCE CALL~"
     ],
     "id": 5928,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1238/96361.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4711,
     "createdAt": "2020-10-12T15:38:49.000Z",
-    "updatedAt": "2021-04-28T10:49:11.000Z",
+    "updatedAt": "2021-10-01T21:01:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

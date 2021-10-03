@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5198"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1522"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/Oh!ファミリー"
+    }
+  ],
   "altTitle": [
     "Ｏｈ！ファミリー"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/61193.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 5198,
   "createdAt": "2020-10-12T15:38:56.000Z",
-  "updatedAt": "2021-04-28T19:48:30.000Z",
+  "updatedAt": "2021-10-02T01:36:13.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

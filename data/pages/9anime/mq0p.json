@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=454"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=474"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Legend_of_Himiko"
+      }
+    ],
     "altTitle": [
       "Legend of Himiko",
       "Himikoden",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/80544.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 454,
     "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2021-04-26T01:57:53.000Z",
+    "updatedAt": "2021-09-30T13:07:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

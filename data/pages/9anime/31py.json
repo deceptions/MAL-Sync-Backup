@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.madman.com.au/actions/series.do?method=view&videogramId=61"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=538"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=58"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Orphen"
+      }
+    ],
     "altTitle": [
       "Orphen",
-      "Sorcerer Stabber Orphen, Sorcerous Stabber Orphen",
+      "Sorcerer Stabber Orphen",
+      "Sorcerous Stabber Orphen",
       "魔術士オーフェン"
     ],
     "id": 1017,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/61839.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 538,
     "createdAt": "2020-10-12T15:38:11.000Z",
-    "updatedAt": "2021-04-26T10:27:47.000Z",
+    "updatedAt": "2021-09-30T18:40:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

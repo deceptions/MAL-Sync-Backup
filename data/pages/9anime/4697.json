@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1592"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=134"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Debutante_Detective_Corps"
+      }
+    ],
     "altTitle": [
       "Debutante Detective Corps",
       "Ojou-sama Sousamou",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1556/97264.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1592,
     "createdAt": "2020-10-12T15:38:25.000Z",
-    "updatedAt": "2021-07-18T08:32:22.000Z",
+    "updatedAt": "2021-10-01T03:37:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

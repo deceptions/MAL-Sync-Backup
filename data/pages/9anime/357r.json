@@ -15,8 +15,19 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4601"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Hanoka"
+      }
+    ],
     "altTitle": [
-      "Hanoka Episode 7.5, Hanoka Special",
+      "Hanoka Episode 7.5",
+      "Hanoka Special",
       "HANOKA～葉ノ香～"
     ],
     "id": 1993,
@@ -26,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/16847.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 4601,
     "createdAt": "2020-10-12T15:38:24.000Z",
-    "updatedAt": "2021-04-27T02:19:20.000Z",
+    "updatedAt": "2021-10-01T03:05:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

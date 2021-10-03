@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://oddtaxi.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15989"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23921"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Odd_Taxi#Anime"
+      }
+    ],
     "altTitle": [
       "Oddtaxi",
       "オッドタクシー"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1981/113348.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 15989,
     "createdAt": "2021-02-20T12:05:15.000Z",
-    "updatedAt": "2021-08-30T10:38:08.000Z",
+    "updatedAt": "2021-09-30T20:33:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

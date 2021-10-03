@@ -15,6 +15,16 @@
   "updatedAt": "2021-06-17T12:57:45.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1567"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=549"
+      }
+    ],
     "altTitle": [
       "City Hunter: Bay City Wars",
       "シティーハンター ベイシティウォーズ"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/61669.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 1567,
     "createdAt": "2020-10-12T15:38:17.000Z",
-    "updatedAt": "2021-06-17T12:36:27.000Z",
+    "updatedAt": "2021-09-30T22:37:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

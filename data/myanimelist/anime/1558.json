@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=935"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3113"
+    }
+  ],
   "altTitle": [
     "Sex Demon Queen",
     "ヤーリマクィーン"
@@ -10,8 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/41571.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 935,
   "createdAt": "2020-12-05T15:41:08.000Z",
-  "updatedAt": "2021-06-05T15:48:57.000Z",
+  "updatedAt": "2021-09-30T23:31:44.000Z",
   "deletedAt": null,
   "Pages": {}
 }

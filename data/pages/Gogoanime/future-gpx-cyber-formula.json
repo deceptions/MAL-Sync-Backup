@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.cyberformula.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=739"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1979"
+      }
+    ],
     "altTitle": [
-      "Cyber Formula: Shinseki-GPX, Shin Seiki GPX Cyber Formula",
+      "Cyber Formula: Shinseki-GPX",
+      "Shin Seiki GPX Cyber Formula",
       "新世紀ＧＰＸサイバーフォーミュラ"
     ],
     "id": 1391,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1369/94603.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 739,
     "createdAt": "2020-10-12T15:38:16.000Z",
-    "updatedAt": "2021-04-26T16:19:01.000Z",
+    "updatedAt": "2021-09-30T22:03:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

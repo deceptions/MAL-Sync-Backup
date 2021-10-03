@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.jcstaff.co.jp/sho-sai/kon-shokai/ko-index.htm"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4286"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7410"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Konpeki_no_Kantai"
+      }
+    ],
     "altTitle": [
-      "Deep Blue Fleet, Kompeki no Kantai",
+      "Deep Blue Fleet",
+      "Kompeki no Kantai",
       "紺碧の艦隊"
     ],
     "id": 6229,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1215/93008.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4286,
     "createdAt": "2020-10-12T15:38:50.000Z",
-    "updatedAt": "2021-04-28T12:48:31.000Z",
+    "updatedAt": "2021-10-01T22:00:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

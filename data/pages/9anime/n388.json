@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4938"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7038"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%84%E3%81%AC%E3%81%8B%E3%81%BF%E3%81%A3!#.E5.8A.87.E5.A0.B4.E7.89.88"
+      }
+    ],
     "altTitle": [
       "いぬかみっ! THE MOVIE 特命霊的捜査官・仮名史郎っ!"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1/2268.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 4938,
     "createdAt": "2020-10-12T15:38:26.000Z",
-    "updatedAt": "2021-04-15T13:45:07.000Z",
+    "updatedAt": "2021-10-01T04:32:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

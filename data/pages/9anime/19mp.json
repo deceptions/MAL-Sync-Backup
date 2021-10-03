@@ -15,8 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2533"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Oh_My_Goddess!"
+      }
+    ],
     "altTitle": [
-      "Ah! My Goddess! Specials, Aa! Megami-sama! Episodes 12.5, 25 and 26, Oh! My Goddess Specials",
+      "Ah! My Goddess! Specials",
+      "Aa! Megami-sama! Episodes 12.5, 25 and 26",
+      "Oh! My Goddess Specials",
       "ああっ女神さまっ"
     ],
     "id": 1003,
@@ -26,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/17893.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 2533,
     "createdAt": "2020-10-12T15:38:11.000Z",
-    "updatedAt": "2021-04-15T11:45:27.000Z",
+    "updatedAt": "2021-09-30T18:37:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

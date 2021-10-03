@@ -15,9 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1816"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2234"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/T%C5%8Dshi_Gordian"
+      }
+    ],
     "altTitle": [
       "Gordian Warrior",
-      "Toshi Gordian, Champion of Gordian, Gardian, Champion Gordian, Fighter Gordian",
+      "Toshi Gordian",
+      "Champion of Gordian",
+      "Gardian",
+      "Champion Gordian",
+      "Fighter Gordian",
       "闘士ゴーディアン"
     ],
     "id": 5022,
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1898/110642.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1816,
     "createdAt": "2020-10-12T15:38:45.000Z",
-    "updatedAt": "2021-04-28T06:19:11.000Z",
+    "updatedAt": "2021-10-01T18:04:50.000Z",
     "deletedAt": null
   },
   "Anilist": {

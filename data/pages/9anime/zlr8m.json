@@ -15,6 +15,24 @@
   "updatedAt": "2021-06-30T07:20:00.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.gundam-seed.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=252"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=883"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_SEED"
+      }
+    ],
     "altTitle": [
       "Mobile Suit Gundam SEED",
       "Kidou Senshi Gundam SEED",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 252,
     "createdAt": "2020-10-12T15:37:59.000Z",
-    "updatedAt": "2021-06-30T06:50:38.000Z",
+    "updatedAt": "2021-09-30T10:35:52.000Z",
     "deletedAt": null
   },
   "Anilist": {

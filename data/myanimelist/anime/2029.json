@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4989"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=938"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Sea_Prince_and_the_Fire_Child"
+    }
+  ],
   "altTitle": [
     "The Sea Prince and the Fire Child",
     "Legend of Sirius",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1239/100525.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 4989,
   "createdAt": "2020-10-12T15:38:24.000Z",
-  "updatedAt": "2021-07-13T08:46:02.000Z",
+  "updatedAt": "2021-10-01T03:32:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

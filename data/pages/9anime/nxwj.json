@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3683"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3265"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/A_Thousand_and_One_Nights_%281969_film%29"
+      }
+    ],
     "altTitle": [
-      "One Thousand and One Arabian Nights, 1001 Nights",
+      "One Thousand and One Arabian Nights",
+      "1001 Nights",
       "千夜一夜物語"
     ],
     "id": 3038,
@@ -25,9 +40,10 @@
     "url": "https://myanimelist.net/anime/3038/Senya_Ichiya_Monogatari",
     "image": "https://cdn.myanimelist.net/images/anime/4/39379.jpg",
     "category": "Movie",
-    "hentai": true,
+    "hentai": false,
+    "anidbId": 3683,
     "createdAt": "2020-10-12T15:38:35.000Z",
-    "updatedAt": "2021-04-27T16:49:00.000Z",
+    "updatedAt": "2021-10-01T10:33:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=605"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5815"
+      }
+    ],
     "altTitle": [
       "With You ~みつめていたい~"
     ],
@@ -25,8 +35,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1038/96384.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 605,
     "createdAt": "2021-03-03T00:51:49.000Z",
-    "updatedAt": "2021-08-31T01:07:29.000Z",
+    "updatedAt": "2021-10-01T07:07:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

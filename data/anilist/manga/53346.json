@@ -84,6 +84,28 @@
         "updatedAt": "2021-08-04T16:17:29.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "spotted_flower": {
+        "authors": [
+          "KIO Shimoku"
+        ],
+        "identifier": "spotted_flower",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Spotted Flower",
+        "url": "https://fanfox.net/manga/spotted_flower/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8577/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23346,
+        "aniId": 53346,
+        "createdAt": "2021-09-30T12:34:25.000Z",
+        "updatedAt": "2021-09-30T13:00:52.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

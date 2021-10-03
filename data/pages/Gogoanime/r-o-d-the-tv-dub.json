@@ -15,9 +15,32 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sonymusic.co.jp/Animation/ROD/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=894"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1989"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/R.O.D_the_TV"
+      }
+    ],
     "altTitle": [
       "R.O.D -The TV-",
-      "Read or Die TV, Read or Die, ROD, Read or Die: the TV, Read or Dream, R.O.D. TV",
+      "Read or Die TV",
+      "Read or Die",
+      "ROD",
+      "Read or Die: the TV",
+      "Read or Dream",
+      "R.O.D. TV",
       "アール・オー・ディー ザ・ティーヴィー"
     ],
     "id": 209,
@@ -27,8 +50,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/73350.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 894,
     "createdAt": "2020-10-12T15:38:01.000Z",
-    "updatedAt": "2021-04-09T03:21:30.000Z",
+    "updatedAt": "2021-09-30T11:37:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

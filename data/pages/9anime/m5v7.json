@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3220"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=745"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sonic_Soldier_Borgman"
+      }
+    ],
     "altTitle": [
       "Sonic Soldier Borgman 2: New Century 2058",
-      "Borgman II, Borgman 2058",
+      "Borgman II",
+      "Borgman 2058",
       "超音戦士ボーグマン2 [SECOND] -新世紀2058-"
     ],
     "id": 3764,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/6672.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3220,
     "createdAt": "2020-10-12T15:38:40.000Z",
-    "updatedAt": "2021-04-27T23:19:10.000Z",
+    "updatedAt": "2021-10-01T14:03:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,4 +1,10 @@
 {
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%95%E3%82%A1%E3%82%AF%E3%82%BF%E3%83%BC"
+    }
+  ],
   "altTitle": [
     "Monochrome Factor",
     "モノクローム・ファクター"
@@ -14,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:22.000Z",
-  "updatedAt": "2021-04-26T05:58:25.000Z",
+  "updatedAt": "2021-10-01T01:31:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +42,28 @@
         "aniId": 30456,
         "createdAt": "2020-10-12T16:13:12.000Z",
         "updatedAt": "2021-06-05T19:33:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "monochrome_factor": {
+        "authors": [
+          "SORANO Kairi"
+        ],
+        "identifier": "monochrome_factor",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Monochrome Factor",
+        "url": "https://fanfox.net/manga/monochrome_factor/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1814/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 456,
+        "aniId": 30456,
+        "createdAt": "2021-10-01T01:31:27.000Z",
+        "updatedAt": "2021-10-01T02:00:52.000Z",
         "deletedAt": null
       }
     }

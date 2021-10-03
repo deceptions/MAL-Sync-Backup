@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=201"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=786"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%BB%E3%82%8D%E3%81%BE%E3%81%A6%E3%81%83%E3%81%A3%E3%81%8F#%E3%81%BE%E3%81%BB%E3%82%8D%E3%81%BE%E3%81%A6%E3%81%83%E3%81%A3%E3%81%8F%E3%80%9C%E3%82%82%E3%81%A3%E3%81%A8%E7%BE%8E%E3%81%97%E3%81%84%E3%82%82%E3%81%A"
+      }
+    ],
     "altTitle": [
       "Mahoromatic ~Something More Beautiful~",
       "Mahoromatic 2",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1367/98136.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 201,
     "createdAt": "2020-10-12T15:38:02.000Z",
-    "updatedAt": "2021-05-24T11:08:48.000Z",
+    "updatedAt": "2021-09-30T12:10:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

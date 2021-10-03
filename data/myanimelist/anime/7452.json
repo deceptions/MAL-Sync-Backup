@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4066"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5212"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8B%E3%83%A2%E3%83%8B%E3%80%82#TV.E3.82.A2.E3.83.8B.E3.83.A1"
+    }
+  ],
   "altTitle": [
     "ミニモニ。やるのだぴょん"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/17812.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 4066,
   "createdAt": "2020-10-12T15:38:56.000Z",
-  "updatedAt": "2021-04-28T18:49:21.000Z",
+  "updatedAt": "2021-10-02T01:09:37.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,8 +15,25 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kc.kodansha.co.jp/megamisama/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7973"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11951"
+      }
+    ],
     "altTitle": [
-      "Ah! My Goddess (2011), Oh! My Goddess (2011), Aa! Megami-sama!: Itsumo Futari de, Aa! Megami-sama! OAD",
+      "Ah! My Goddess (2011)",
+      "Oh! My Goddess (2011)",
+      "Aa! Megami-sama!: Itsumo Futari de",
+      "Aa! Megami-sama! OAD",
       "ああっ女神さまっ"
     ],
     "id": 9611,
@@ -26,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/28569.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 7973,
     "createdAt": "2020-10-12T15:39:02.000Z",
-    "updatedAt": "2021-04-15T16:14:19.000Z",
+    "updatedAt": "2021-10-02T06:09:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

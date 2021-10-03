@@ -15,7 +15,22 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4051"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7165"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E8%8A%B1%E3%81%AE%E3%81%82%E3%81%99%E3%81%8B%E7%B5%84!"
+      }
+    ],
     "altTitle": [
+      "Shin Kabukichou Story Hana no Asuka-gumi!",
       "新歌舞伎町ストーリー 花のあすか組!"
     ],
     "id": 17221,
@@ -25,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/45977.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4051,
     "createdAt": "2020-10-12T15:39:18.000Z",
-    "updatedAt": "2021-04-29T18:49:41.000Z",
+    "updatedAt": "2021-10-02T17:07:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

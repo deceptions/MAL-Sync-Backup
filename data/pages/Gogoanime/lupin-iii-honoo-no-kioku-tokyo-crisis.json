@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2139"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2099"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%91%E3%83%B3%E4%B8%89%E4%B8%96_%E7%82%8E%E3%81%AE%E8%A8%98%E6%86%B6%E3%80%9CTOKYO_CRISIS%E3%80%9C"
+      }
+    ],
     "altTitle": [
       "Lupin III: Crisis in Tokyo",
       "Rupan Sansei",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1880/105808.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 2139,
     "createdAt": "2020-10-12T15:38:17.000Z",
-    "updatedAt": "2021-09-22T06:41:16.000Z",
+    "updatedAt": "2021-09-30T22:31:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

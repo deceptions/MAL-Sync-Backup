@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=816"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=469"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cosmo_Warrior_Zero"
+      }
+    ],
     "altTitle": [
-      "Cosmo Warrior Zero Specials, Young Harlock o Oe! Cosmowarrior Zero Gaiden",
+      "Cosmo Warrior Zero Specials",
+      "Young Harlock o Oe! Cosmowarrior Zero Gaiden",
       "ヤングハーロックを追え! コスモウォーリアー零外伝"
     ],
     "id": 1677,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1102/100986.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 816,
     "createdAt": "2020-10-12T15:38:20.000Z",
-    "updatedAt": "2021-04-26T21:18:49.000Z",
+    "updatedAt": "2021-10-01T00:33:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/run/story.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=183"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=726"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/RUN=DIM"
+      }
+    ],
     "altTitle": [
       "R=D",
       "RUN=DIM (ランディム)"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/5469.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 183,
     "createdAt": "2020-10-12T15:38:28.000Z",
-    "updatedAt": "2021-07-26T10:51:57.000Z",
+    "updatedAt": "2021-10-01T06:04:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

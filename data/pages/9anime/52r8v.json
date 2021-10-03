@@ -15,6 +15,12 @@
   "updatedAt": "2021-08-30T19:06:34.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7720"
+      }
+    ],
     "altTitle": [
       "The Cat's Office",
       "The Twin Stars",
@@ -28,8 +34,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/55711.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 7720,
     "createdAt": "2021-08-10T19:09:23.000Z",
-    "updatedAt": "2021-08-10T19:09:23.000Z",
+    "updatedAt": "2021-10-02T20:37:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

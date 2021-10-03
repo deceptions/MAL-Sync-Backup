@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2996"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=200"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ranma_%C2%BD"
+      }
+    ],
     "altTitle": [
       "Ranma ½ Super OVA",
       "Ranma 1/2 Super",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1071/94957.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2996,
     "createdAt": "2020-10-12T15:38:11.000Z",
-    "updatedAt": "2021-07-28T04:21:48.000Z",
+    "updatedAt": "2021-09-30T18:39:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

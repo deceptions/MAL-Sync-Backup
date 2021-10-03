@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5996"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1419"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ano_Ko_ni_1000%25"
+    }
+  ],
   "altTitle": [
     "That Girl is 1000%",
-    "Anoko ni 1000%, 1000% For That Girl",
+    "Anoko ni 1000%",
+    "1000% For That Girl",
     "あの子に1000％"
   ],
   "id": 7475,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/64357.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 5996,
   "createdAt": "2020-10-12T15:38:56.000Z",
-  "updatedAt": "2021-04-28T19:18:31.000Z",
+  "updatedAt": "2021-10-02T01:32:14.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

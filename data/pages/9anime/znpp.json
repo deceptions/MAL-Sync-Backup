@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.usagi-drop.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8211"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Bunny_Drop"
+      }
+    ],
     "altTitle": [
       "Bunny Drop Specials",
       "うさぎドロップ"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/30759.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 8211,
     "createdAt": "2020-10-12T15:39:08.000Z",
-    "updatedAt": "2021-07-01T09:50:04.000Z",
+    "updatedAt": "2021-10-02T10:09:57.000Z",
     "deletedAt": null
   },
   "Anilist": {

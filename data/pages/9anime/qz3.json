@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.dimension-w.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11345"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17285"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dimension_W"
+      }
+    ],
     "altTitle": [
       "Dimension W",
       "Dimension W"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/86304.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 11345,
     "createdAt": "2020-10-12T15:39:38.000Z",
-    "updatedAt": "2021-07-01T00:52:53.000Z",
+    "updatedAt": "2021-10-02T03:32:32.000Z",
     "deletedAt": null
   },
   "Anilist": {

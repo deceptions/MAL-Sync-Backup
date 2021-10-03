@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kadokawa-pictures.jp/official/reinya/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7187"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11166"
+      }
+    ],
     "altTitle": [
-      "Kaito Reina, Phantom Thief Reinya",
+      "Kaito Reina",
+      "Phantom Thief Reinya",
       "怪盗レーニャ"
     ],
     "id": 7561,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/75516.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 7187,
     "createdAt": "2020-10-12T15:38:56.000Z",
-    "updatedAt": "2021-06-07T11:05:49.000Z",
+    "updatedAt": "2021-10-02T01:35:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

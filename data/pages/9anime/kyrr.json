@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7463"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7274"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/一本包丁満太郎"
+      }
+    ],
     "altTitle": [
       "Ippon Bochou Mantarou",
       "Mantaro",
@@ -30,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1501/111468.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 7463,
     "createdAt": "2020-12-29T03:20:04.000Z",
-    "updatedAt": "2021-06-29T03:49:27.000Z",
+    "updatedAt": "2021-10-01T22:09:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

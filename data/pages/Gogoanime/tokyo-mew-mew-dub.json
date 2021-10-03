@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://pierrot.jp/title/mewmew/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=161"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=829"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tokyo_Mew_Mew"
+      }
+    ],
     "altTitle": [
       "Mew Mew Power",
       "東京ミュウミュウ"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/89298.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 161,
     "createdAt": "2020-10-12T15:38:07.000Z",
-    "updatedAt": "2021-08-28T19:36:36.000Z",
+    "updatedAt": "2021-09-30T16:06:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

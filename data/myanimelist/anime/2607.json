@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2640"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2662"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Birth_(anime)"
+    }
+  ],
   "altTitle": [
     "Birth",
-    "Planet Busters, World of the Talisman",
+    "Planet Busters",
+    "World of the Talisman",
     "バース"
   ],
   "id": 2607,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/3521.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 2640,
   "createdAt": "2020-10-12T15:38:31.000Z",
-  "updatedAt": "2021-04-27T11:18:31.000Z",
+  "updatedAt": "2021-10-01T07:37:55.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

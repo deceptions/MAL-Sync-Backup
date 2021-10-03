@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=438"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=620"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/You're_Under_Arrest"
+    }
+  ],
   "altTitle": [
     "You're Under Arrest (1996)",
-    "Taiho Shichauzo (1996), YUA",
+    "Taiho Shichauzo (1996)",
+    "YUA",
     "逮捕しちゃうぞ (1996)"
   ],
   "id": 1372,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/16767.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 438,
   "createdAt": "2020-10-12T15:38:16.000Z",
-  "updatedAt": "2021-05-28T11:24:10.000Z",
+  "updatedAt": "2021-09-30T22:01:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

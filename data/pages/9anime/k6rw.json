@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/lineup/tv/sailor_moon/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=235"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sailor_Moon"
+      }
+    ],
     "altTitle": [
       "Pretty Soldier Sailor Moon Memorial",
       "美少女戦士セーラームーン メモリアル"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/46773.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 235,
     "createdAt": "2020-10-12T15:39:00.000Z",
-    "updatedAt": "2021-08-13T21:11:53.000Z",
+    "updatedAt": "2021-10-02T04:31:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

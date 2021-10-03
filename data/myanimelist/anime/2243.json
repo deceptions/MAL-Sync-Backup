@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2635"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=198"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Karasu_Tengu_Kabuto#Anime"
+    }
+  ],
   "altTitle": [
-    "Crow Demon Kabuto, Raven Goblin Kabuto",
+    "Crow Demon Kabuto",
+    "Raven Goblin Kabuto",
     "カラス天狗カブト"
   ],
   "id": 2243,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1/2445.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 2635,
   "createdAt": "2020-10-12T15:38:27.000Z",
-  "updatedAt": "2021-04-27T06:18:31.000Z",
+  "updatedAt": "2021-10-01T05:06:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

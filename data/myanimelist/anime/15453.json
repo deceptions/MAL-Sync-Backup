@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.lantis.jp/special/ikamusume/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8896"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Shinryaku!_Ika_Musume"
+    }
+  ],
   "altTitle": [
     "これが海への愛じゃなイカ!"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/41945.jpg",
   "category": "Music",
   "hentai": false,
+  "anidbId": 8896,
   "createdAt": "2021-07-31T22:53:06.000Z",
-  "updatedAt": "2021-07-31T22:53:06.000Z",
+  "updatedAt": "2021-10-02T15:07:25.000Z",
   "deletedAt": null,
   "Pages": {}
 }

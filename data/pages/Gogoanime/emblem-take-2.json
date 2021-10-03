@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4234"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15723"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/代紋TAKE2"
+      }
+    ],
     "altTitle": [
       "代紋(エンブレム) TAKE2"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/27231.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4234,
     "createdAt": "2020-10-12T15:39:03.000Z",
-    "updatedAt": "2021-04-29T04:19:12.000Z",
+    "updatedAt": "2021-10-02T06:39:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

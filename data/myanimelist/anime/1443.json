@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1350"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=741"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sol_Bianca"
+    }
+  ],
   "altTitle": [
     "SOL BIANCA (ソル·ビアンカ)"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/49503.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 1350,
   "createdAt": "2020-10-12T15:38:17.000Z",
-  "updatedAt": "2021-04-26T17:18:59.000Z",
+  "updatedAt": "2021-09-30T22:33:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

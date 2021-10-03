@@ -1,7 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1955"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2020"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/My_Daddy_Long_Legs"
+    }
+  ],
   "altTitle": [
     "My Daddy Long Legs",
-    "Sekai Meisaku Gekijou, Daddy-Long-Legs",
+    "Sekai Meisaku Gekijou",
+    "Daddy-Long-Legs",
     "私のあしながおじさん"
   ],
   "id": 1375,
@@ -11,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/17851.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1955,
   "createdAt": "2020-10-12T15:38:16.000Z",
-  "updatedAt": "2021-04-26T16:18:40.000Z",
+  "updatedAt": "2021-09-30T22:02:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

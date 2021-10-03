@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=312"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3349"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/YuYu_Hakusho"
+      }
+    ],
     "altTitle": [
       "Yu Yu Hakusho: Eizou Hakusho II: Yuusuke",
       "Kurama",
@@ -30,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/21614.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 312,
     "createdAt": "2020-10-12T15:38:26.000Z",
-    "updatedAt": "2021-07-07T03:01:02.000Z",
+    "updatedAt": "2021-10-01T04:09:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

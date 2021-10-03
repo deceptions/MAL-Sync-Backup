@@ -1,6 +1,17 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=654"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3139"
+    }
+  ],
   "altTitle": [
-    "In a Distant Time OVA, Haruka Naru Toki no Naka de: Ajisai Yumegatari",
+    "In a Distant Time OVA",
+    "Haruka Naru Toki no Naka de: Ajisai Yumegatari",
     "遙かなる時空の中で 〜紫陽花ゆめ語り〜"
   ],
   "id": 647,
@@ -10,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/72171.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 654,
   "createdAt": "2020-10-12T15:38:07.000Z",
-  "updatedAt": "2021-04-26T05:27:22.000Z",
+  "updatedAt": "2021-09-30T15:39:56.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

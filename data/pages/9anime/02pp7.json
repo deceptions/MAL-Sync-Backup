@@ -15,6 +15,20 @@
   "updatedAt": "2021-07-30T22:21:48.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1172"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1203"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Bakusou_Kyoudai_Let%27s_%26_Go#Anime"
+      }
+    ],
     "altTitle": [
       "The Racing Brothers",
       "Lets and Go WGP",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/50431.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1172,
     "createdAt": "2020-10-12T15:38:32.000Z",
-    "updatedAt": "2021-07-30T21:53:28.000Z",
+    "updatedAt": "2021-10-01T08:33:49.000Z",
     "deletedAt": null
   },
   "Anilist": {

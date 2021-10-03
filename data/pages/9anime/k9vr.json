@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tokyo-ravens.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9481"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15207"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tokyo_Ravens"
+      }
+    ],
     "altTitle": [
       "Tokyo Ravens",
       "東京レイヴンズ"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/75094.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9481,
     "createdAt": "2020-10-12T15:39:16.000Z",
-    "updatedAt": "2021-05-01T11:03:32.000Z",
+    "updatedAt": "2021-10-02T16:01:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,6 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=201"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mahoromatic#Mahoromatic:_End_of_Year_Special"
+    }
+  ],
   "altTitle": [
-    "Mahoromatic: Motto Utsukushii Mono - Year End, Year End Special - 12.5, Mahoromatic: Motto Utsukushii Mono - Saimatsu Special",
+    "Mahoromatic: Motto Utsukushii Mono - Year End",
+    "Year End Special - 12.5",
+    "Mahoromatic: Motto Utsukushii Mono - Saimatsu Special",
     "歳末スペシャル"
   ],
   "id": 4997,
@@ -10,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/9745.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 201,
   "createdAt": "2020-10-12T15:38:45.000Z",
-  "updatedAt": "2021-04-28T06:18:50.000Z",
+  "updatedAt": "2021-10-01T18:03:20.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

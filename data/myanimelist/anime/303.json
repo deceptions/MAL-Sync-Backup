@@ -1,7 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=186"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=266"
+    }
+  ],
   "altTitle": [
     "Oh! My Goddess: The Adventures of Mini-Goddess",
-    "Oh! My Goddess: Being Small is Convenient, Ah! My Goddess!: Chichaitte Koto wa Benri da ne",
+    "Oh! My Goddess: Being Small is Convenient",
+    "Ah! My Goddess!: Chichaitte Koto wa Benri da ne",
     "ああっ女神さまっ 小っちゃいって事は便利だねっ"
   ],
   "id": 303,
@@ -11,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1/303.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 186,
   "createdAt": "2020-10-12T15:38:02.000Z",
-  "updatedAt": "2021-06-02T14:01:51.000Z",
+  "updatedAt": "2021-09-30T12:36:16.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,8 +15,19 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4298"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%83%84%E3%81%AE%E7%A9%B4"
+      }
+    ],
     "altTitle": [
-      "Pantsu no Ana, Holey Pants: Desire on a Stroll",
+      "Pantsu no Ana",
+      "Holey Pants: Desire on a Stroll",
       "パンツの穴 まんぼでGANBO!"
     ],
     "id": 8464,
@@ -26,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/29981.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4298,
     "createdAt": "2020-10-12T15:38:59.000Z",
-    "updatedAt": "2021-04-28T22:49:11.000Z",
+    "updatedAt": "2021-10-02T03:38:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

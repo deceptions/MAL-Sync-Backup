@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5893"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3359"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%8B%AC%E8%BA%AB%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88%E3%81%A9%E3%81%8F%E3%81%A0%E3%81%BF%E8%8D%98#OVA%E7%89%88"
+      }
+    ],
     "altTitle": [
       "Single Appartment Dokudamisou",
       "独身アパートどくだみ荘"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/26386.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 5893,
     "createdAt": "2020-10-12T15:39:02.000Z",
-    "updatedAt": "2021-06-15T22:27:34.000Z",
+    "updatedAt": "2021-10-02T06:04:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,6 +1,25 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.zettai-shonen.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2837"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5093"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Zettai_Shonen"
+    }
+  ],
   "altTitle": [
-    "Absolute Boy, Zettai Shonen",
+    "Absolute Boy",
+    "Zettai Shonen",
     "絶対少年"
   ],
   "id": 308,
@@ -10,8 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/4905.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 2837,
   "createdAt": "2020-10-12T15:38:02.000Z",
-  "updatedAt": "2021-04-12T17:45:38.000Z",
+  "updatedAt": "2021-09-30T12:36:56.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

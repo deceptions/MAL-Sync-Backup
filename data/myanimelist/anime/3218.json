@@ -1,6 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2446"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7211"
+    }
+  ],
   "altTitle": [
-    "Gensomaden Saiyuki OVA, Gensomaden Saiyuki Premium, Saiyuki Premium",
+    "Gensomaden Saiyuki OVA",
+    "Gensomaden Saiyuki Premium",
+    "Saiyuki Premium",
     "幻想魔伝 最遊記"
   ],
   "id": 3218,
@@ -10,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/67873.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 2446,
   "createdAt": "2020-10-12T15:38:36.000Z",
-  "updatedAt": "2021-04-27T18:19:50.000Z",
+  "updatedAt": "2021-10-01T11:10:16.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,6 +1,17 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4320"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1355"
+    }
+  ],
   "altTitle": [
-    "Hengentaimayakou Karuramau! Sendaikokeshienka, Karura Mau",
+    "Hengentaimayakou Karuramau! Sendaikokeshienka",
+    "Karura Mau",
     "変幻退魔夜行 カルラ舞う！ 仙台小芥子怨歌"
   ],
   "id": 2073,
@@ -10,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1539/97315.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 4320,
   "createdAt": "2020-10-12T15:38:25.000Z",
-  "updatedAt": "2021-04-27T03:48:50.000Z",
+  "updatedAt": "2021-10-01T03:40:25.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

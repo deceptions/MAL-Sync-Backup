@@ -1,6 +1,26 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.team-dears.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1726"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4080"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dears"
+    }
+  ],
   "altTitle": [
-    "DearS: A Ball Of Gold, DearS: Is It A Golden Ball?, DearS Special",
+    "DearS: A Ball Of Gold",
+    "DearS: Is It A Golden Ball?",
+    "DearS Special",
     "金の玉ですの？"
   ],
   "id": 1817,
@@ -10,8 +30,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/83451.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 1726,
   "createdAt": "2020-10-12T15:38:22.000Z",
-  "updatedAt": "2021-05-06T20:18:02.000Z",
+  "updatedAt": "2021-10-01T01:35:35.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=481"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ghost_Stories_(anime)"
+    }
+  ],
   "altTitle": [
     "Gakkou no Kaidan: New Year's Special",
     "学校の怪談　総集編"
@@ -10,8 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/78468.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 481,
   "createdAt": "2021-06-09T23:35:15.000Z",
-  "updatedAt": "2021-06-09T23:35:15.000Z",
+  "updatedAt": "2021-10-02T21:36:04.000Z",
   "deletedAt": null,
   "Pages": {}
 }

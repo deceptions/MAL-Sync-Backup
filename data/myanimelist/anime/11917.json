@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8775"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13860"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Major_(manga)"
+    }
+  ],
   "altTitle": [
     "メジャー ワールドシリーズ編"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/75220.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 8775,
   "createdAt": "2020-10-12T15:39:10.000Z",
-  "updatedAt": "2021-05-01T19:32:51.000Z",
+  "updatedAt": "2021-10-02T11:10:16.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,7 +1,23 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3124"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2233"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Space_Emperor_God_Sigma"
+    }
+  ],
   "altTitle": [
     "Space Emperor God Sigma",
-    "Uchuu Taitei Goddo Shiguma, God Sigma Empire of Space, Space Combination God Sigma",
+    "Uchuu Taitei Goddo Shiguma",
+    "God Sigma Empire of Space",
+    "Space Combination God Sigma",
     "宇宙大帝ゴッドシグマ"
   ],
   "id": 4183,
@@ -11,8 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/52303.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 3124,
   "createdAt": "2020-10-12T15:38:42.000Z",
-  "updatedAt": "2021-04-28T02:18:40.000Z",
+  "updatedAt": "2021-10-01T15:36:56.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

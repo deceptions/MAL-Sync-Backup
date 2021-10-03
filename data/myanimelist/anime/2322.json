@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3541"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3865"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Giant_Robo"
+    }
+  ],
   "altTitle": [
     "Giant Robo: Gin-Rei Special",
     "GinRei: The Animation",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/2584.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 3541,
   "createdAt": "2020-10-12T15:38:28.000Z",
-  "updatedAt": "2021-06-18T13:21:10.000Z",
+  "updatedAt": "2021-10-01T05:40:08.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

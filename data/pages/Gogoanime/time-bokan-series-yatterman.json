@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tatsunoko.co.jp/works_animation/archive/yatter.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2504"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1746"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Yatterman"
+      }
+    ],
     "altTitle": [
-      "Yattaman, Yattaaman",
+      "Yattaman",
+      "Yattaaman",
       "タイムボカンシリーズ ヤッターマン"
     ],
     "id": 3008,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/60747.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2504,
     "createdAt": "2020-10-12T15:38:34.000Z",
-    "updatedAt": "2021-04-27T16:19:20.000Z",
+    "updatedAt": "2021-10-01T10:09:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,7 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=447"
+    }
+  ],
   "altTitle": [
     ".hack//Legend of the Twilight Offline Meeting Special",
-    ".hack//DUSK Special, .hack//Tasogare no Udewa Densetsu Special",
+    ".hack//DUSK Special",
+    ".hack//Tasogare no Udewa Densetsu Special",
     ".hack//黄昏の腕輪伝説 オフラインで会いましょう"
   ],
   "id": 1994,
@@ -11,8 +18,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/44554.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 447,
   "createdAt": "2020-10-12T15:38:24.000Z",
-  "updatedAt": "2021-04-27T02:19:20.000Z",
+  "updatedAt": "2021-10-01T03:05:44.000Z",
   "deletedAt": null,
   "Pages": {}
 }

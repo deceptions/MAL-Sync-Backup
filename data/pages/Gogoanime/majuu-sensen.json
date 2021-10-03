@@ -15,6 +15,16 @@
   "updatedAt": "2021-07-04T03:29:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4232"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7369"
+      }
+    ],
     "altTitle": [
       "Demon Beast Phalanx",
       "Magical Beast Front",
@@ -28,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/25037.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4232,
     "createdAt": "2020-10-12T15:39:01.000Z",
-    "updatedAt": "2021-07-04T03:12:47.000Z",
+    "updatedAt": "2021-10-02T05:04:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

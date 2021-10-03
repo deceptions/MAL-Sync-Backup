@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3097"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6574"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/F%C5%ABma_no_Kojir%C5%8D"
+      }
+    ],
     "altTitle": [
-      "Fuma no Kojiro: Yasha hen, Kojiro of the Fuma: Yasha Chapter",
+      "Fuma no Kojiro: Yasha hen",
+      "Kojiro of the Fuma: Yasha Chapter",
       "風魔の小次郎 夜叉篇"
     ],
     "id": 4854,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/30871.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3097,
     "createdAt": "2020-10-12T15:38:44.000Z",
-    "updatedAt": "2021-04-12T19:45:47.000Z",
+    "updatedAt": "2021-10-01T17:35:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

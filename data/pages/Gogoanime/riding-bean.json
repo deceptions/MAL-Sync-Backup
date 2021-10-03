@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=419"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=360"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Riding_Bean"
+      }
+    ],
     "altTitle": [
       "ライディング・ビーン"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/55505.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 419,
     "createdAt": "2020-10-12T15:38:10.000Z",
-    "updatedAt": "2021-04-05T18:09:17.000Z",
+    "updatedAt": "2021-09-30T18:03:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1351"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1415"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Maya_the_Bee"
+      }
+    ],
     "altTitle": [
       "Maya the Bee",
       "Adventures of Maya the Honeybee",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/3358.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1351,
     "createdAt": "2020-10-12T15:38:30.000Z",
-    "updatedAt": "2021-09-23T13:10:57.000Z",
+    "updatedAt": "2021-10-01T07:32:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.truetears.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4325"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6257"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/True_Tears_%28anime%29"
+      }
+    ],
     "altTitle": [
       "True Tears",
       "true tears"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/18578.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4325,
     "createdAt": "2020-10-12T15:38:26.000Z",
-    "updatedAt": "2021-09-27T04:15:25.000Z",
+    "updatedAt": "2021-10-01T04:31:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

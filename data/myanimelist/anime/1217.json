@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2401"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6682"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/世紀末★ダーリン"
+    }
+  ],
   "altTitle": [
-    "Seikimatsu Darling, End of Century - Darling",
+    "Seikimatsu Darling",
+    "End of Century - Darling",
     "世紀末★ダーリン"
   ],
   "id": 1217,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/72910.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 2401,
   "createdAt": "2020-10-12T15:38:14.000Z",
-  "updatedAt": "2021-04-26T13:41:59.000Z",
+  "updatedAt": "2021-09-30T20:37:17.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

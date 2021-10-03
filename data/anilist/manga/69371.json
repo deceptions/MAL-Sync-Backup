@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-03T19:55:08.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "off_time_no_kemono": {
+        "authors": [
+          "KATSUMOTO Kasane"
+        ],
+        "identifier": "off_time_no_kemono",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Off-Time no Kemono",
+        "url": "https://fanfox.net/manga/off_time_no_kemono/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12608/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39371,
+        "aniId": 69371,
+        "createdAt": "2021-09-30T08:36:31.000Z",
+        "updatedAt": "2021-09-30T09:36:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

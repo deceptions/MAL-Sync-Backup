@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nippon-animation.co.jp/na/hh/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=612"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1793"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Hungry_Heart:_Wild_Striker"
+      }
+    ],
     "altTitle": [
       "ハングリーハート Wild Striker"
     ],
@@ -25,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/49655.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 612,
     "createdAt": "2020-10-12T15:37:58.000Z",
-    "updatedAt": "2021-05-22T20:42:58.000Z",
+    "updatedAt": "2021-09-30T10:03:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

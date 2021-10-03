@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://shg.sega.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10592"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16122"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sega_Hard_Girls"
+      }
+    ],
     "altTitle": [
       "Hi☆sCoool! SeHa Girls",
-      "Sega Hard Girls, Hi-sCool! Seha Girls",
+      "Sega Hard Girls",
+      "Hi-sCool! Seha Girls",
       "Hi☆sCoool! セハガール"
     ],
     "id": 23787,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/66173.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10592,
     "createdAt": "2020-10-12T15:39:27.000Z",
-    "updatedAt": "2021-04-30T03:48:53.000Z",
+    "updatedAt": "2021-10-02T23:31:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

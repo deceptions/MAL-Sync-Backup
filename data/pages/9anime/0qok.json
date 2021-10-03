@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.keroro-movie.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6095"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10143"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sgt._Frog"
+      }
+    ],
     "altTitle": [
-      "Chou Gekijouban Keroro Gunso 4, Chou Gekijouban Keroro Gunso: Gekishin Dragon Warriors de Arimasu!",
+      "Chou Gekijouban Keroro Gunso 4",
+      "Chou Gekijouban Keroro Gunso: Gekishin Dragon Warriors de Arimasu!",
       "超劇場版ケロロ軍曹　撃侵ドラゴンウォリアーズであります！"
     ],
     "id": 5710,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/84853.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 6095,
     "createdAt": "2020-10-12T15:38:48.000Z",
-    "updatedAt": "2021-04-28T09:48:40.000Z",
+    "updatedAt": "2021-10-01T20:06:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

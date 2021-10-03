@@ -15,8 +15,25 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2249"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2264"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ninja_Gaiden"
+      }
+    ],
     "altTitle": [
-      "Ninja Gaiden, Ninja Ryukenden, Tale of Ninja Ryuuken, Ninja Ryu: The Dragon Sword Story",
+      "Ninja Gaiden",
+      "Ninja Ryukenden",
+      "Tale of Ninja Ryuuken",
+      "Ninja Ryu: The Dragon Sword Story",
       "忍者龍剣伝"
     ],
     "id": 619,
@@ -26,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/69415.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2249,
     "createdAt": "2020-10-12T15:38:06.000Z",
-    "updatedAt": "2021-04-26T04:57:47.000Z",
+    "updatedAt": "2021-09-30T15:36:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

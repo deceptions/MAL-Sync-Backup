@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://shugo-chara.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6144"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10247"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Shugo_Chara!"
+      }
+    ],
     "altTitle": [
       "Shugo Chara!! Doki",
-      "Shugo Chara Ninenme, Shugo Chara! Second Year",
+      "Shugo Chara Ninenme",
+      "Shugo Chara! Second Year",
       "しゅごキャラ！！どきっ"
     ],
     "id": 5262,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/10645.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 6144,
     "createdAt": "2020-10-12T15:38:46.000Z",
-    "updatedAt": "2021-04-28T07:49:10.000Z",
+    "updatedAt": "2021-10-01T19:01:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

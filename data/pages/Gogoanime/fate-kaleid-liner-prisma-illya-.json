@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime.prisma-illya.jp/1st/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9042"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15245"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Fate/kaleid_liner_Prisma_Illya"
+      }
+    ],
     "altTitle": [
       "Fate/Kaleid Liner Prisma Illya",
       "Fate/kaleid liner プリズマ☆イリヤ"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/52603.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9042,
     "createdAt": "2020-10-12T15:39:15.000Z",
-    "updatedAt": "2021-08-23T22:37:26.000Z",
+    "updatedAt": "2021-10-02T14:36:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

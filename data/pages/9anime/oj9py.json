@@ -15,6 +15,20 @@
   "updatedAt": "2021-08-17T04:06:59.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://mv.avex.jp/prettyrhythm/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8240"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Pretty_Rhythm"
+      }
+    ],
     "altTitle": [
       "Pretty Rhythm: Aurora Dream Specials",
       "プリティーリズム・オーロラドリーム　プリズム笑劇場"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/33291.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 8240,
     "createdAt": "2020-10-12T15:39:10.000Z",
-    "updatedAt": "2021-08-17T03:38:01.000Z",
+    "updatedAt": "2021-10-02T11:10:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

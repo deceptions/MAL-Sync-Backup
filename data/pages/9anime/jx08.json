@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:56.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=211"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2135"
+      }
+    ],
     "altTitle": [
       "Fist of the North Star: The Movie",
       "Hokuto no Ken (1986)",
@@ -27,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/25067.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 211,
     "createdAt": "2020-10-12T15:38:16.000Z",
-    "updatedAt": "2021-05-07T10:48:12.000Z",
+    "updatedAt": "2021-09-30T21:40:28.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2638"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6074"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Silent_M%C3%B6bius#Films"
+      }
+    ],
     "altTitle": [
       "Silent Mobius: The Motion Picture 2",
       "サイレントメビウス2"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/46951.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 2638,
     "createdAt": "2020-10-12T15:38:25.000Z",
-    "updatedAt": "2021-08-18T14:09:01.000Z",
+    "updatedAt": "2021-10-01T04:04:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

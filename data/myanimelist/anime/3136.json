@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3424"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1680"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Little_Pollon"
+    }
+  ],
   "altTitle": [
     "Little Pollon",
     "Ochamegami Monogatari: Korokoro Poron",
@@ -14,8 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/60529.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 3424,
   "createdAt": "2020-10-12T15:38:35.000Z",
-  "updatedAt": "2021-09-28T11:03:33.000Z",
+  "updatedAt": "2021-10-01T11:03:35.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

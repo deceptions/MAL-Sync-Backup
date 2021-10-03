@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://vjump.shueisha.co.jp/push/db/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8809"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Dragon_Ball"
+      }
+    ],
     "altTitle": [
       "Dragon Ball: Episode of Bardock",
       "ドラゴンボール エピソード オブ バーダック"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/35005.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 8809,
     "createdAt": "2020-10-12T15:39:10.000Z",
-    "updatedAt": "2021-07-06T03:30:01.000Z",
+    "updatedAt": "2021-10-02T11:36:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

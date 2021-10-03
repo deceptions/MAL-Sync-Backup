@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kiddygrade.com/movie/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5087"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7799"
+      }
+    ],
     "altTitle": [
       "Kiddy Grade: Reimei-hen",
       "Kiddy Grade Movie 3",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/56967.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 5087,
     "createdAt": "2020-11-04T14:28:35.000Z",
-    "updatedAt": "2021-08-20T01:37:29.000Z",
+    "updatedAt": "2021-10-01T11:32:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ani.tv/tegamibachi/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7458"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11600"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tegami_Bachi"
+      }
+    ],
     "altTitle": [
       "Tegami Bachi: Letter Bee Reverse",
-      "Tegami Bachi 2, Letter Bee 2",
+      "Tegami Bachi 2",
+      "Letter Bee 2",
       "テガミバチ REVERSE"
     ],
     "id": 8311,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/26472.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 7458,
     "createdAt": "2020-10-12T15:38:58.000Z",
-    "updatedAt": "2021-04-28T22:19:31.000Z",
+    "updatedAt": "2021-10-02T03:31:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

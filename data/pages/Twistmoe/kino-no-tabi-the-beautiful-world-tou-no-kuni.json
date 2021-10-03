@@ -15,9 +15,21 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kinonotabi.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=575"
+      }
+    ],
     "altTitle": [
       "Kino's Journey: Tower Country",
-      "Kino no Tabi: Tower Country/Free Lance, Kino's Travels, Kino no Tabi Episode 00",
+      "Kino no Tabi: Tower Country/Free Lance",
+      "Kino's Travels",
+      "Kino no Tabi Episode 00",
       "キノの旅 -the Beautiful World- 塔の国 -Free Lance-"
     ],
     "id": 3466,
@@ -27,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/62873.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 575,
     "createdAt": "2020-10-12T15:38:38.000Z",
-    "updatedAt": "2021-04-27T20:49:11.000Z",
+    "updatedAt": "2021-10-01T12:34:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

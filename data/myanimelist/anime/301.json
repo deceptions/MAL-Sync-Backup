@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=781"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2394"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Cinderella_Boy"
+    }
+  ],
   "altTitle": [
     "シンデレラボーイ"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/89194.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 781,
   "createdAt": "2020-10-12T15:38:02.000Z",
-  "updatedAt": "2021-09-07T06:04:34.000Z",
+  "updatedAt": "2021-09-30T12:35:55.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

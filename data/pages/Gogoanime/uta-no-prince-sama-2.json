@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:58.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://archive2000.utapri.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8921"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14884"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Uta_no_Prince-sama#Anime"
+      }
+    ],
     "altTitle": [
       "Uta no Prince Sama 2",
-      "Uta no Prince-sama Maji Love 1000% 2, UtaPri 2",
+      "Uta no Prince-sama Maji Love 1000% 2",
+      "UtaPri 2",
       "うたの☆プリンスさまっ♪ マジLOVE2000%"
     ],
     "id": 12711,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/44019.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8921,
     "createdAt": "2020-10-12T15:39:11.000Z",
-    "updatedAt": "2021-04-08T14:21:02.000Z",
+    "updatedAt": "2021-10-02T12:32:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

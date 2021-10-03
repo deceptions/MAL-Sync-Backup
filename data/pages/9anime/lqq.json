@@ -15,9 +15,30 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kotenbu.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8855"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13817"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Hy%C5%8Dka"
+      }
+    ],
     "altTitle": [
       "Hyouka",
-      "Hyou-ka, Hyouka: You can't escape, Hyou-ka: You can't escape, Hyoka",
+      "Hyou-ka",
+      "Hyouka: You can't escape",
+      "Hyou-ka: You can't escape",
+      "Hyoka",
       "氷菓"
     ],
     "id": 12189,
@@ -27,8 +48,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/50521.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8855,
     "createdAt": "2020-10-12T15:39:10.000Z",
-    "updatedAt": "2021-05-21T01:13:27.000Z",
+    "updatedAt": "2021-09-30T16:32:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

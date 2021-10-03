@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1934"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1440"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Video_Warrior_Laserion"
+    }
+  ],
   "altTitle": [
     "Video Warrior Laserion",
     "Video Senshi Laserion",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/57367.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 1934,
   "createdAt": "2020-10-12T15:38:52.000Z",
-  "updatedAt": "2021-08-31T04:07:27.000Z",
+  "updatedAt": "2021-10-01T23:03:45.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

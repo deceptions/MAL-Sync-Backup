@@ -15,8 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2912"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4927"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/MegaMan_NT_Warrior"
+      }
+    ],
     "altTitle": [
-      "Theater Edition Rockman EXE: Program of Light and Dark, Rockman EXE MOVIE, Rockman EXE ~ Hikari to Yami no Program ~",
+      "Theater Edition Rockman EXE: Program of Light and Dark",
+      "Rockman EXE MOVIE",
+      "Rockman EXE ~ Hikari to Yami no Program ~",
       "劇場版 ロックマン エグゼ: 光と闇の遺産"
     ],
     "id": 2111,
@@ -26,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1/2203.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 2912,
     "createdAt": "2020-10-12T15:38:26.000Z",
-    "updatedAt": "2021-04-27T04:19:21.000Z",
+    "updatedAt": "2021-10-01T04:06:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

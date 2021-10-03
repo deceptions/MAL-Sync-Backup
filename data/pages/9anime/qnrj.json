@@ -15,9 +15,29 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.gantz.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2400"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3641"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Gantz#Anime"
+      }
+    ],
     "altTitle": [
       "Gantz: Second Stage",
-      "Gantz *uncut*, Gantz - Second Stage, Gantz 2nd stage",
+      "Gantz *uncut*",
+      "Gantz - Second Stage",
+      "Gantz 2nd stage",
       "ガンツ"
     ],
     "id": 395,
@@ -27,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/23247.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2400,
     "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2021-04-26T01:58:09.000Z",
+    "updatedAt": "2021-09-30T13:33:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

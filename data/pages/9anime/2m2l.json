@@ -15,9 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4122"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3809"
+      }
+    ],
     "altTitle": [
       "Galaxy Express 999: Can You Love Like a Mother?!!",
-      "Ginga Tetsudo 999: Kimi wa Haha no You ni Aiseru ka!!, Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseruka!!",
+      "Ginga Tetsudo 999: Kimi wa Haha no You ni Aiseru ka!!",
+      "Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseruka!!",
       "銀河鉄道９９９　君は母のように愛せるか！！"
     ],
     "id": 6735,
@@ -27,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/15484.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 4122,
     "createdAt": "2020-10-12T15:38:52.000Z",
-    "updatedAt": "2021-04-28T14:48:51.000Z",
+    "updatedAt": "2021-10-01T23:07:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

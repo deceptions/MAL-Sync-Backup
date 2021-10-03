@@ -1,6 +1,25 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.bungakushoujo.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6959"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10815"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Book_Girl_(film)"
+    }
+  ],
   "altTitle": [
-    "Book Girl, Literature Girl",
+    "Book Girl",
+    "Literature Girl",
     "劇場版“文学少女”"
   ],
   "id": 6408,
@@ -10,8 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/81162.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 6959,
   "createdAt": "2020-10-12T15:38:51.000Z",
-  "updatedAt": "2021-04-28T13:19:20.000Z",
+  "updatedAt": "2021-10-01T22:09:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

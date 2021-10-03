@@ -15,8 +15,28 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.aquarion.info/ova/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4600"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7520"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Genesis_of_Aquarion_%28OVA%29"
+      }
+    ],
     "altTitle": [
-      "Genesis of Aquarion OVA, Sousei no Aquarion: Uragiri no Tsubasa, Sousei no Aquarion: Taiyou no Tsubasa",
+      "Genesis of Aquarion OVA",
+      "Sousei no Aquarion: Uragiri no Tsubasa",
+      "Sousei no Aquarion: Taiyou no Tsubasa",
       "ＯＶＡ『創星のアクエリオン』"
     ],
     "id": 2170,
@@ -26,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/72745.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4600,
     "createdAt": "2020-10-12T15:38:26.000Z",
-    "updatedAt": "2021-04-27T05:18:41.000Z",
+    "updatedAt": "2021-10-01T04:38:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

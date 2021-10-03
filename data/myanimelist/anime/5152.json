@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6127"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10623"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Dragon_Ball:_Yo!_Son_Goku_and_His_Friends_Return!!"
+    }
+  ],
   "altTitle": [
     "Dragon Ball: Yo! The Return of Son-Goku and Friends!!",
     "DRAGONBALL オッス!帰ってきた孫悟空と仲間たち!"
@@ -10,8 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/82828.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 6127,
   "createdAt": "2020-10-12T15:38:46.000Z",
-  "updatedAt": "2021-07-25T04:21:54.000Z",
+  "updatedAt": "2021-10-01T18:35:06.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

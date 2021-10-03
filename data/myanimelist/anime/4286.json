@@ -1,4 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.bonobono.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3548"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1424"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Bonobono"
+    }
+  ],
   "altTitle": [
     "Bonobono",
     "ぼのぼの"
@@ -10,8 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/22163.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 3548,
   "createdAt": "2020-10-12T15:38:42.000Z",
-  "updatedAt": "2021-05-20T12:01:15.000Z",
+  "updatedAt": "2021-10-01T16:04:23.000Z",
   "deletedAt": null,
   "Pages": {}
 }

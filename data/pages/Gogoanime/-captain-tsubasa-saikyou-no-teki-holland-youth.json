@@ -15,8 +15,21 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3972"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4612"
+      }
+    ],
     "altTitle": [
-      "Captain Tsubasa - Holland Youth, Captain Tsubasa Holland youth team, Captain Tsubasa: European Challenge, Captain Tsubasa Movie 05: Saikyu no Tenki! Hollanda Youth",
+      "Captain Tsubasa - Holland Youth",
+      "Captain Tsubasa Holland youth team",
+      "Captain Tsubasa: European Challenge",
+      "Captain Tsubasa Movie 05: Saikyu no Tenki! Hollanda Youth",
       "キャプテン翼　「最強の敵！オランダユース」"
     ],
     "id": 2122,
@@ -26,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1934/110682.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3972,
     "createdAt": "2020-10-12T15:38:26.000Z",
-    "updatedAt": "2021-04-15T13:45:08.000Z",
+    "updatedAt": "2021-10-01T04:08:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

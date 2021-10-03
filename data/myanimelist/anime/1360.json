@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2804"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6180"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Djibril_%E2%80%93_The_Devil_Angel"
+    }
+  ],
   "altTitle": [
     "Jiburiru: The Devil Angel",
     "Hell Angel Gabriel",
@@ -12,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/37381.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 2804,
   "createdAt": "2021-07-03T17:36:08.000Z",
-  "updatedAt": "2021-07-03T17:36:08.000Z",
+  "updatedAt": "2021-09-30T21:40:36.000Z",
   "deletedAt": null,
   "Pages": {}
 }

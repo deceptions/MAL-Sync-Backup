@@ -1,6 +1,24 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7323"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15225"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inuyasha#Original_video_animation"
+    }
+  ],
   "altTitle": [
-    "Inu Yasha Special, Black Tessaiga, Black Tetsusaiga, Kuroi Tetsusaiga, It's a Rumic World: InuYasha",
+    "Inu Yasha Special",
+    "Black Tessaiga",
+    "Black Tetsusaiga",
+    "Kuroi Tetsusaiga",
+    "It's a Rumic World: InuYasha",
     "犬夜叉"
   ],
   "id": 4886,
@@ -10,8 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/60877.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 7323,
   "createdAt": "2020-10-12T15:38:45.000Z",
-  "updatedAt": "2021-04-28T05:48:40.000Z",
+  "updatedAt": "2021-10-01T17:36:54.000Z",
   "deletedAt": null,
   "Pages": {}
 }

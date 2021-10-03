@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1341"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1286"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Cyborg_Kuro-chan"
+      }
+    ],
     "altTitle": [
       "サイボーグクロちゃん"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/17464.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1341,
     "createdAt": "2020-10-12T15:38:33.000Z",
-    "updatedAt": "2021-04-27T15:18:41.000Z",
+    "updatedAt": "2021-10-01T09:36:28.000Z",
     "deletedAt": null
   },
   "Anilist": {

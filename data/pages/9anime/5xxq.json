@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.productionig.com/contents/works_sp/16_/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=61"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=465"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ghost_in_the_Shell_(film)"
+      }
+    ],
     "altTitle": [
       "Ghost in the Shell",
       "Ghost in the Shell",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/82594.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 61,
     "createdAt": "2020-10-12T15:37:58.000Z",
-    "updatedAt": "2021-09-14T21:51:26.000Z",
+    "updatedAt": "2021-09-30T10:05:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

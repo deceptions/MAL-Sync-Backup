@@ -15,9 +15,25 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=946"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=752"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Guardian_of_Darkness"
+      }
+    ],
     "altTitle": [
       "Guardian of Darkness",
-      "Takegami: Guardian of Darkness, Ankoku Shinden Takegami, Ankokushin Denshou Bushin",
+      "Takegami: Guardian of Darkness",
+      "Ankoku Shinden Takegami",
+      "Ankokushin Denshou Bushin",
       "暗黒神伝承 武神 (Takegami)"
     ],
     "id": 1244,
@@ -27,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1837/97239.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 946,
     "createdAt": "2020-10-12T15:38:14.000Z",
-    "updatedAt": "2021-04-26T14:11:29.000Z",
+    "updatedAt": "2021-09-30T21:02:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://hanayamata.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10351"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15775"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hanayamata"
+      }
+    ],
     "altTitle": [
       "Hanayamata",
       "ハナヤマタ"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1963/90831.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10351,
     "createdAt": "2020-10-12T15:39:24.000Z",
-    "updatedAt": "2021-08-16T02:37:10.000Z",
+    "updatedAt": "2021-10-02T21:09:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

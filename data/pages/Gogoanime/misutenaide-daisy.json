@@ -15,6 +15,20 @@
   "updatedAt": "2021-06-29T07:19:23.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2022"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=137"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Don't_Leave_Me_Alone,_Daisy"
+      }
+    ],
     "altTitle": [
       "Don't Leave Me Alone, Daisy",
       "Misutenaide Daisy",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1/1936.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2022,
     "createdAt": "2020-10-12T15:38:23.000Z",
-    "updatedAt": "2021-06-29T07:04:27.000Z",
+    "updatedAt": "2021-10-01T02:36:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

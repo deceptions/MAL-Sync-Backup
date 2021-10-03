@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7358"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3700"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/GeGeGe_no_Kitaro#Movies"
+    }
+  ],
   "altTitle": [
-    "Gegege no Kitarou: Yokai Express! The Phantom Train, GeGeGe no Kitaro movie #9: Yokai Express! The Phantom Train",
+    "Gegege no Kitarou: Yokai Express! The Phantom Train",
+    "GeGeGe no Kitaro movie #9: Yokai Express! The Phantom Train",
     "ゲゲゲの鬼太郎 妖怪特急！まぼろしの汽車"
   ],
   "id": 8157,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/27355.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 7358,
   "createdAt": "2020-10-12T15:38:58.000Z",
-  "updatedAt": "2021-04-28T21:48:41.000Z",
+  "updatedAt": "2021-10-02T03:03:14.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

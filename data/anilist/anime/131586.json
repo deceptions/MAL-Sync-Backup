@@ -25,5 +25,44 @@
   "createdAt": "2021-05-20T19:12:57.000Z",
   "updatedAt": "2021-09-21T16:40:44.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "7jmj6": {
+        "identifier": "7jmj6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "86 2nd Season",
+        "url": "https://9anime.to/watch/86-2nd-season.7jmj6",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/a8/a85d07f9c60c8953c8636ee5483ff5df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48569,
+        "aniId": 131586,
+        "createdAt": "2021-10-02T16:31:22.000Z",
+        "updatedAt": "2021-10-02T17:00:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "86-2nd-season": {
+        "identifier": "86-2nd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "86 2nd Season",
+        "url": "https://gogoanime.pe/category/86-2nd-season",
+        "image": "https://gogocdn.net/cover/86-2nd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48569,
+        "aniId": 131586,
+        "createdAt": "2021-10-02T17:01:03.000Z",
+        "updatedAt": "2021-10-02T17:30:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

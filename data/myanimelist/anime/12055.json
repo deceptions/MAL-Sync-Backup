@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://mary-jane.biz/mysite1/bd01top.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8796"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14253"
+    }
+  ],
   "altTitle": [
     "Brandish"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1778/103892.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 8796,
   "createdAt": "2021-06-13T12:39:12.000Z",
-  "updatedAt": "2021-06-13T12:39:12.000Z",
+  "updatedAt": "2021-10-02T11:33:32.000Z",
   "deletedAt": null,
   "Pages": {}
 }

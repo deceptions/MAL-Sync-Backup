@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://rdg-anime.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9328"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14862"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/RDG_Red_Data_Girl"
+      }
+    ],
     "altTitle": [
       "Red Data Girl",
       "RDG",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/47053.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9328,
     "createdAt": "2020-10-12T15:39:15.000Z",
-    "updatedAt": "2021-07-12T16:15:12.000Z",
+    "updatedAt": "2021-10-02T14:37:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

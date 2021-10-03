@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=89"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=457"
+      }
+    ],
     "altTitle": [
       "Steel Angel Kurumi 2",
       "Koutetsu Tenshi Kurumi 2 shiki",
@@ -27,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/15907.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 89,
     "createdAt": "2020-10-12T15:38:05.000Z",
-    "updatedAt": "2021-04-26T03:57:33.000Z",
+    "updatedAt": "2021-09-30T15:02:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

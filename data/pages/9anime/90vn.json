@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.jyushin.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5314"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8281"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Hero_Tales#Anime"
+      }
+    ],
     "altTitle": [
       "Hero Tales",
-      "Jyuushin Enbu, Jushin Enbu",
+      "Jyuushin Enbu",
+      "Jushin Enbu",
       "獣神演武 - HERO TALES -"
     ],
     "id": 2772,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/75193.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5314,
     "createdAt": "2020-10-12T15:38:32.000Z",
-    "updatedAt": "2021-04-15T14:15:09.000Z",
+    "updatedAt": "2021-10-01T09:04:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

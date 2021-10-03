@@ -15,8 +15,28 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://animemirai.jp/buta/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8467"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15036"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Anime_Mirai"
+      }
+    ],
     "altTitle": [
-      "Wakate Animator Ikusei Project, 2011 Young Animator Training Project, Anime Mirai 2011",
+      "Wakate Animator Ikusei Project",
+      "2011 Young Animator Training Project",
+      "Anime Mirai 2011",
       "BUTA"
     ],
     "id": 13169,
@@ -26,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/50405.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 8467,
     "createdAt": "2020-10-12T15:39:12.000Z",
-    "updatedAt": "2021-04-29T13:18:50.000Z",
+    "updatedAt": "2021-10-02T13:02:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

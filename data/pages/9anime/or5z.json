@@ -15,9 +15,21 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2589"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2346"
+      }
+    ],
     "altTitle": [
       "RESTOL, The Full-Armed Rescue Squad",
-      "Soukou Kyuujo Butai RESTOL, Restol, The Special Rescue Squad, RESTOL SRS",
+      "Soukou Kyuujo Butai RESTOL",
+      "Restol, The Special Rescue Squad",
+      "RESTOL SRS",
       "레스톨 특수 구조대"
     ],
     "id": 5636,
@@ -27,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1379/97015.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2589,
     "createdAt": "2020-10-12T15:38:48.000Z",
-    "updatedAt": "2021-04-28T09:18:50.000Z",
+    "updatedAt": "2021-10-01T20:02:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

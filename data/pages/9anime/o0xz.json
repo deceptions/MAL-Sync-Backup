@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=775"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2032"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Violinist_of_Hameln"
+      }
+    ],
     "altTitle": [
       "Violinist of Hamelin",
-      "Violinist of Hameln (1997), Hamelin no Violin Hiki (1997)",
+      "Violinist of Hameln (1997)",
+      "Hamelin no Violin Hiki (1997)",
       "ハーメルンのバイオリン弾き"
     ],
     "id": 1325,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/20972.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 775,
     "createdAt": "2020-10-12T15:38:15.000Z",
-    "updatedAt": "2021-06-05T21:21:18.000Z",
+    "updatedAt": "2021-09-30T21:35:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

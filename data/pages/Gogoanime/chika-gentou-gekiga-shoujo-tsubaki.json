@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3619"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4601"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Shōjo_Tsubaki"
+      }
+    ],
     "altTitle": [
       "Midori",
-      "Maiden Camellia, Mr. Arashi's Amazing Freak Show",
+      "Maiden Camellia",
+      "Mr. Arashi's Amazing Freak Show",
       "地下幻燈劇画 少女椿"
     ],
     "id": 2981,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/77662.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 3619,
     "createdAt": "2020-10-12T15:38:34.000Z",
-    "updatedAt": "2021-05-22T05:43:19.000Z",
+    "updatedAt": "2021-10-01T10:06:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

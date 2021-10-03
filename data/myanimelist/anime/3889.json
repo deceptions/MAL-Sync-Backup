@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2135"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=687"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/JUNK_BOY"
+    }
+  ],
   "altTitle": [
     "Junk Boy",
     "The Incredible Gyoukai Video Junk Boy",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/41467.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 2135,
   "createdAt": "2020-10-12T15:38:40.000Z",
-  "updatedAt": "2021-04-28T00:18:51.000Z",
+  "updatedAt": "2021-10-01T14:34:36.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,8 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tezukaosamu.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3119"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3309"
+    }
+  ],
   "altTitle": [
-    "Black Jack: Capital Transfer To Heian",
+    "Black Jack: Grandma",
     "Black Jack: Tezuka World Movie",
-    "ブラック・ジャック/平安遷都"
+    "ブラック・ジャック おばあちゃん"
   ],
   "id": 10055,
   "type": "anime",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/27872.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 3119,
   "createdAt": "2020-10-12T15:39:04.000Z",
-  "updatedAt": "2021-04-29T05:18:41.000Z",
+  "updatedAt": "2021-10-02T07:34:14.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

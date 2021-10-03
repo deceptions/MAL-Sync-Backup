@@ -1,6 +1,17 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=764"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1780"
+    }
+  ],
   "altTitle": [
-    "Sennen Joou, Queen Millennia Movie",
+    "Sennen Joou",
+    "Queen Millennia Movie",
     "1000年女王 Queen Millennia"
   ],
   "id": 1549,
@@ -10,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1/2398.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 764,
   "createdAt": "2020-10-12T15:38:18.000Z",
-  "updatedAt": "2021-04-26T19:18:30.000Z",
+  "updatedAt": "2021-09-30T23:08:56.000Z",
   "deletedAt": null,
   "Pages": {}
 }

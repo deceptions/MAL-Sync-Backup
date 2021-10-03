@@ -15,9 +15,25 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2606"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2718"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%8F%AF%E6%98%9F%E5%A4%9C%E6%9B%B2"
+      }
+    ],
     "altTitle": [
       "Nightsong of Splendor",
-      "Night Song of Splendor, Starlight Nocturne, Gasei Yakyoku",
+      "Night Song of Splendor",
+      "Starlight Nocturne",
+      "Gasei Yakyoku",
       "華星夜曲"
     ],
     "id": 4485,
@@ -27,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/50129.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2606,
     "createdAt": "2020-10-12T15:38:43.000Z",
-    "updatedAt": "2021-04-28T03:49:20.000Z",
+    "updatedAt": "2021-10-01T16:35:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

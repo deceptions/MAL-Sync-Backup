@@ -15,6 +15,20 @@
   "updatedAt": "2019-10-12T16:02:23.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=480"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1118"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/G-On_Riders"
+      }
+    ],
     "altTitle": [
       "G-On Riders OVA",
       "Andro White Paper",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/63413.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 480,
     "createdAt": "2020-10-12T15:39:28.000Z",
-    "updatedAt": "2021-09-07T18:36:24.000Z",
+    "updatedAt": "2021-10-03T00:03:54.000Z",
     "deletedAt": null
   },
   "Anilist": null,

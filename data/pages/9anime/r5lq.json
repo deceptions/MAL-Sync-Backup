@@ -15,8 +15,29 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2060"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=731"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%B9%98%E5%8D%97%E7%88%86%E8%B5%B0%E6%97%8F#OVA"
+      }
+    ],
     "altTitle": [
-      "Bomber Bikers of Shonan, Shounan Bakusouzoku 2 - 1/5 Lonely Night, 10 Ounce Bonds, Hurricane Rider, GT380 History, Tenacity Mud Special, Legendary Red Star, From Samantha",
+      "Bomber Bikers of Shonan",
+      "Shounan Bakusouzoku 2 - 1/5 Lonely Night",
+      "10 Ounce Bonds",
+      "Hurricane Rider",
+      "GT380 History",
+      "Tenacity Mud Special",
+      "Legendary Red Star",
+      "From Samantha",
       "湘南爆走族"
     ],
     "id": 2463,
@@ -26,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/69945.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2060,
     "createdAt": "2020-10-12T15:38:29.000Z",
-    "updatedAt": "2021-04-27T08:49:39.000Z",
+    "updatedAt": "2021-10-01T06:35:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

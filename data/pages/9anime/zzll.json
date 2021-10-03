@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=348"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=728"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Shadow_Skill"
+      }
+    ],
     "altTitle": [
       "Shadow Skill: The Movie",
-      "Shadow Skill OVA, Shadow Skill 2",
+      "Shadow Skill OVA",
+      "Shadow Skill 2",
       "影技 SHADOW SKILL"
     ],
     "id": 679,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/37959.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 348,
     "createdAt": "2020-10-12T15:38:07.000Z",
-    "updatedAt": "2021-04-26T05:57:15.000Z",
+    "updatedAt": "2021-09-30T16:04:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

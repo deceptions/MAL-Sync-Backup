@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3354"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4880"
+      }
+    ],
     "altTitle": [
       "Kawaguchi Kaiji's 9 Love Stories",
       "愛物語 9 Love Stories"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/2646.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 3354,
     "createdAt": "2020-10-12T15:38:28.000Z",
-    "updatedAt": "2021-04-15T11:15:47.000Z",
+    "updatedAt": "2021-10-01T06:06:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

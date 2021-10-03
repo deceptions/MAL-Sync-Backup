@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=952"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3593"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mazinger_Z"
+    }
+  ],
   "altTitle": [
     "Mazinger Z vs. Ankoku Daishogun",
     "Mazinger Z tai General Dark",
@@ -12,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1653/99762.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 952,
   "createdAt": "2020-10-12T15:38:43.000Z",
-  "updatedAt": "2021-07-06T20:30:13.000Z",
+  "updatedAt": "2021-10-01T16:10:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

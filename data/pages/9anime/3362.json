@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1869"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=760"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/They_Were_Eleven"
+      }
+    ],
     "altTitle": [
       "They Were Eleven",
-      "They Were 11, Juuichinin Iru!",
+      "They Were 11",
+      "Juuichinin Iru!",
       "11人いる!"
     ],
     "id": 1901,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1771/96658.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 1869,
     "createdAt": "2020-10-12T15:38:23.000Z",
-    "updatedAt": "2021-04-27T00:48:30.000Z",
+    "updatedAt": "2021-10-01T02:11:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

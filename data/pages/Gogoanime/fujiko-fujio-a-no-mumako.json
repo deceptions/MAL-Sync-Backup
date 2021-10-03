@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9172"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E8%97%A4%E5%AD%90%E4%B8%8D%E4%BA%8C%E9%9B%84A%E3%81%AE%E5%A4%A2%E9%AD%94%E5%AD%90"
+      }
+    ],
     "altTitle": [
       "藤子不二雄Aの夢魔子"
     ],
@@ -25,8 +35,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/52375.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 9172,
     "createdAt": "2020-10-12T15:39:21.000Z",
-    "updatedAt": "2021-04-29T21:48:42.000Z",
+    "updatedAt": "2021-10-02T19:08:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

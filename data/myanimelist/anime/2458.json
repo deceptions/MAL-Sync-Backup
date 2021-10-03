@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=283"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=492"
+    }
+  ],
   "altTitle": [
     "きまぐれオレンジ☆ロード"
   ],
@@ -9,8 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1022/107653.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 283,
   "createdAt": "2020-10-12T15:38:29.000Z",
-  "updatedAt": "2021-09-08T17:05:15.000Z",
+  "updatedAt": "2021-10-01T06:34:25.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

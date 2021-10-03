@@ -1,7 +1,23 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=366"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=487"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Queen_Millennia#Anime_TV"
+    }
+  ],
   "altTitle": [
     "Queen Millennia",
-    "The Queen of a Thousand Years, 1000-Year Queen, Shin Taketori Monogatari: Sennen Joou",
+    "The Queen of a Thousand Years",
+    "1000-Year Queen",
+    "Shin Taketori Monogatari: Sennen Joou",
     "新竹取物語１０００年女王"
   ],
   "id": 1548,
@@ -11,8 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/66489.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 366,
   "createdAt": "2020-10-12T15:38:18.000Z",
-  "updatedAt": "2021-04-26T18:49:19.000Z",
+  "updatedAt": "2021-09-30T23:08:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

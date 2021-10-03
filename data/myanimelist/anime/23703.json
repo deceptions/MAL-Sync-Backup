@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.vap.co.jp/GATCHAMAN_Crowds/dvd/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9820"
+    }
+  ],
   "altTitle": [
     "Gatchaman Crowds Special",
     "Gatchaman Crowds Episode 13",
@@ -12,8 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/6/61523.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 9820,
   "createdAt": "2020-10-12T15:39:27.000Z",
-  "updatedAt": "2021-08-05T18:47:32.000Z",
+  "updatedAt": "2021-10-02T23:09:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -51,6 +62,25 @@
         "aniId": 20759,
         "createdAt": "2021-02-05T18:20:15.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gatchaman-crowds-embrace": {
+        "identifier": "gatchaman-crowds-embrace",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gatchaman Crowds: Embrace",
+        "url": "https://gogoanime.pe/category/gatchaman-crowds-embrace",
+        "image": "https://gogocdn.net/cover/gatchaman-crowds-embrace.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23703,
+        "aniId": 20759,
+        "createdAt": "2021-09-29T19:37:41.000Z",
+        "updatedAt": "2021-09-29T20:06:19.000Z",
         "deletedAt": null
       }
     }

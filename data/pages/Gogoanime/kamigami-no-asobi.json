@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kamiaso-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10305"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15828"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%A5%9E%E3%80%85%E3%81%AE%E6%82%AA%E6%88%AF"
+      }
+    ],
     "altTitle": [
       "Kamigami no Asobi",
-      "Kamigami no Asobi: Ludere deorum, Kamiaso",
+      "Kamigami no Asobi: Ludere deorum",
+      "Kamiaso",
       "神々の悪戯"
     ],
     "id": 21563,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/60703.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10305,
     "createdAt": "2020-10-12T15:39:24.000Z",
-    "updatedAt": "2021-05-27T21:58:52.000Z",
+    "updatedAt": "2021-10-02T21:06:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

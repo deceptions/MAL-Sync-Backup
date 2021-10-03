@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3117"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2226"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Braiger"
+    }
+  ],
   "altTitle": [
     "Galactic Whirlwind Braiger",
     "Bryger",
@@ -14,8 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1640/96448.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 3117,
   "createdAt": "2020-10-12T15:38:42.000Z",
-  "updatedAt": "2021-07-16T08:32:22.000Z",
+  "updatedAt": "2021-10-01T16:02:12.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

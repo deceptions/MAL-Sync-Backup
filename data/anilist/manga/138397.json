@@ -21,5 +21,30 @@
   "createdAt": "2021-08-26T21:36:34.000Z",
   "updatedAt": "2021-09-26T16:18:01.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "i-reincarnated-as-the-crazed-heir": {
+        "authors": [
+          "DAE Eunho",
+          "Jaemu",
+          "JEON Mandu"
+        ],
+        "identifier": "i-reincarnated-as-the-crazed-heir",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "I Reincarnated As the Crazed Heir",
+        "url": "https://mangasee123.com/manga/I-Reincarnated-As-The-Crazed-Heir",
+        "image": "https://cover.nep.li/cover/I-Reincarnated-As-The-Crazed-Heir.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 138397,
+        "createdAt": "2021-08-23T18:07:17.000Z",
+        "updatedAt": "2021-10-01T09:41:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

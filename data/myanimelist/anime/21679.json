@@ -1,6 +1,19 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10350"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Saikin,_Im%C5%8Dto_no_Y%C5%8Dsu_ga_Chotto_Okaishiin_Da_Ga."
+    }
+  ],
   "altTitle": [
-    "Recently, My Little Sister is Unusual OVA, ImoCho, ImoCyo",
+    "Recently",
+    "My Little Sister is Unusual OVA",
+    "ImoCho",
+    "ImoCyo",
     "最近、妹のようすがちょっとおかしいんだが。 OVA"
   ],
   "id": 21679,
@@ -10,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/64061.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 10350,
   "createdAt": "2020-10-12T15:39:24.000Z",
-  "updatedAt": "2021-04-12T20:45:48.000Z",
+  "updatedAt": "2021-10-02T21:09:26.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

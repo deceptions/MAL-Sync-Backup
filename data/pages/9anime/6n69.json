@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nausicaa.net/miyazaki/ghiblies"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=845"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4814"
+      }
+    ],
     "altTitle": [
       "ギブリーズ"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/75924.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 845,
     "createdAt": "2020-10-12T15:38:31.000Z",
-    "updatedAt": "2021-04-27T11:18:50.000Z",
+    "updatedAt": "2021-10-01T07:39:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ntv.co.jp/GC_insight/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10226"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16697"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Gatchaman_Crowds"
+      }
+    ],
     "altTitle": [
       "Gatchaman Crowds Insight",
-      "Gatchaman Crowds 2nd Season, Gatchaman Crowds Second Season",
+      "Gatchaman Crowds 2nd Season",
+      "Gatchaman Crowds Second Season",
       "GATCHAMAN CROWDS insight（インサイト）"
     ],
     "id": 21039,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/74978.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 10226,
     "createdAt": "2020-10-12T15:39:23.000Z",
-    "updatedAt": "2021-05-24T06:39:23.000Z",
+    "updatedAt": "2021-10-02T20:35:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

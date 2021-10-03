@@ -15,8 +15,21 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4384"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tokimeki_Memorial_Only_Love"
+      }
+    ],
     "altTitle": [
-      "Tokimeki Memorial 17.5: The Excitement of Heroism, Tokimeki Memorial 25.5, Tokimeki no Yuuki, Tokimeki no Sentaku",
+      "Tokimeki Memorial 17.5: The Excitement of Heroism",
+      "Tokimeki Memorial 25.5",
+      "Tokimeki no Yuuki",
+      "Tokimeki no Sentaku",
       "ときめきメモリアル Only Love"
     ],
     "id": 3686,
@@ -26,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/8530.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 4384,
     "createdAt": "2020-10-12T15:38:39.000Z",
-    "updatedAt": "2021-04-27T22:48:30.000Z",
+    "updatedAt": "2021-10-01T13:35:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

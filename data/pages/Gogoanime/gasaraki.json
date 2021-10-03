@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.gasaraki.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=240"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=264"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Gasaraki"
+      }
+    ],
     "altTitle": [
       "Gasaraki",
       "ガサラキ"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1790/91070.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 240,
     "createdAt": "2020-10-12T15:38:08.000Z",
-    "updatedAt": "2021-04-26T07:27:10.000Z",
+    "updatedAt": "2021-09-30T16:39:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

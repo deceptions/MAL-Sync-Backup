@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2862"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5531"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%B0%B8%E9%81%A0%E3%81%AE%E3%82%A2%E3%82%BB%E3%83%AA%E3%82%A2"
+      }
+    ],
     "altTitle": [
       "The Eternal Aseria",
       "Eien no Aseria: The Spirit of Eternity Sword",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1405/112180.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2862,
     "createdAt": "2020-10-12T15:38:05.000Z",
-    "updatedAt": "2021-08-11T10:39:27.000Z",
+    "updatedAt": "2021-09-30T14:33:52.000Z",
     "deletedAt": null
   },
   "Anilist": {

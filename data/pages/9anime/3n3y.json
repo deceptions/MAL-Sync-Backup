@@ -15,8 +15,19 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8191"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1941"
+      }
+    ],
     "altTitle": [
-      "Ultra Nyan: Extraordinary Cat who Descended from the Starry Sky, Ultra Meow",
+      "Ultra Nyan: Extraordinary Cat who Descended from the Starry Sky",
+      "Ultra Meow",
       "ウルトラニャン　星空から舞い降りたふしぎネコ"
     ],
     "id": 4681,
@@ -26,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/27593.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 8191,
     "createdAt": "2020-10-12T15:38:44.000Z",
-    "updatedAt": "2021-04-28T04:48:40.000Z",
+    "updatedAt": "2021-10-01T17:05:57.000Z",
     "deletedAt": null
   },
   "Anilist": {

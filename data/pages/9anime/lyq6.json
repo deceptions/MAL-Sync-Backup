@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://saikano.co.uk/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2700"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4775"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Saikano"
+      }
+    ],
     "altTitle": [
       "Saikano: Another Love Song",
-      "Saishuuheiki Kanojo OVA, Saikano OVA",
+      "Saishuuheiki Kanojo OVA",
+      "Saikano OVA",
       "最終兵器彼女Another Love Song"
     ],
     "id": 609,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/54433.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2700,
     "createdAt": "2020-10-12T15:38:06.000Z",
-    "updatedAt": "2021-04-12T10:21:35.000Z",
+    "updatedAt": "2021-09-30T15:34:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

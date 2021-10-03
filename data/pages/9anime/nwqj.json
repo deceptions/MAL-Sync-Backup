@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.umasoudana.com"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7655"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11715"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%BE%E3%81%88_%E3%81%86%E3%81%BE%E3%81%9D%E3%81%86%E3%81%A0%E3%81%AA"
+      }
+    ],
     "altTitle": [
       "You Are Umasou",
       "Omae Umasou da na",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/27167.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 7655,
     "createdAt": "2020-10-12T15:39:01.000Z",
-    "updatedAt": "2021-04-29T01:49:12.000Z",
+    "updatedAt": "2021-10-02T05:09:58.000Z",
     "deletedAt": null
   },
   "Anilist": {

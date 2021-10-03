@@ -15,6 +15,20 @@
   "updatedAt": "2021-09-01T22:45:45.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5251"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2940"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%84%E3%83%A8%E3%82%B7%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E3%81%97%E3%81%AA%E3%81%95%E3%81%84"
+      }
+    ],
     "altTitle": [
       "Hang in There, Tsuyoshi",
       "Get a Grip, Tsuyoshi",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/13055.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 5251,
     "createdAt": "2020-10-12T15:38:49.000Z",
-    "updatedAt": "2021-09-01T22:16:24.000Z",
+    "updatedAt": "2021-10-01T21:05:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nasinc.co.jp/jp/index.php?action=USER.WORKS.DETAIL&master_id=33"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=21"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=872"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Full_Moon_o_Sagashite"
+      }
+    ],
     "altTitle": [
       "Searching for the Full Moon",
       "Full Moon o Sagashite",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/6265.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 21,
     "createdAt": "2020-10-12T15:37:59.000Z",
-    "updatedAt": "2021-09-05T23:15:47.000Z",
+    "updatedAt": "2021-09-30T11:01:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://negima.kc.kodansha.co.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8274"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12571"
+      }
+    ],
     "altTitle": [
-      "Gekijouban Negima, Negima the Movie",
+      "Gekijouban Negima",
+      "Negima the Movie",
       "劇場版 魔法先生ネギま! ANIME FINAL"
     ],
     "id": 7135,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/29541.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 8274,
     "createdAt": "2020-10-12T15:38:55.000Z",
-    "updatedAt": "2021-03-30T17:01:11.000Z",
+    "updatedAt": "2021-10-02T00:36:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

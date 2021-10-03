@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=151"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=632"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Elf_Princess_Ren"
+      }
+    ],
     "altTitle": [
       "Elf Princess Rane",
       "Yosei Hime Ren",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/61775.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 151,
     "createdAt": "2020-10-12T15:38:19.000Z",
-    "updatedAt": "2021-08-23T22:06:45.000Z",
+    "updatedAt": "2021-10-01T00:04:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

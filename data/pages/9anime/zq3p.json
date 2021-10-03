@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://saiyuki-ova.net/web/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4871"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7250"
+      }
+    ],
     "altTitle": [
       "Saiyuki Reload: Burial",
       "最遊記RELOAD -burial-"
@@ -26,8 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1890/94055.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 4871,
     "createdAt": "2020-10-12T15:38:26.000Z",
-    "updatedAt": "2021-08-27T06:07:26.000Z",
+    "updatedAt": "2021-10-01T04:33:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

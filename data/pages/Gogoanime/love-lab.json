@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://love-lab.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9509"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14896"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%81%8B%E6%84%9B%E3%83%A9%E3%83%9C"
+      }
+    ],
     "altTitle": [
       "Love Lab",
       "Renai Lab",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/50257.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9509,
     "createdAt": "2020-10-12T15:39:17.000Z",
-    "updatedAt": "2021-06-21T05:51:43.000Z",
+    "updatedAt": "2021-10-02T16:06:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -14,11 +14,12 @@
   "active": true,
   "actor": null,
   "malId": 83901,
-  "aniId": null,
+  "aniId": 139854,
   "createdAt": "2020-10-12T16:18:21.000Z",
-  "updatedAt": "2021-06-07T16:18:38.000Z",
+  "updatedAt": "2021-10-02T03:30:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": null,
     "altTitle": [
       "ラブホルモン"
     ],
@@ -36,6 +37,25 @@
     "updatedAt": "2021-05-12T06:24:59.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ラブホルモン"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Eri Sakai"
+    ],
+    "id": 139854,
+    "malId": 83901,
+    "type": "manga",
+    "title": "Love Hormone",
+    "url": "https://anilist.co/manga/139854",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b139854-iOXEvCa58cko.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-02T03:01:03.000Z",
+    "updatedAt": "2021-10-02T03:01:03.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/83901/Love_Hormone"
 }

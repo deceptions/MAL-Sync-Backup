@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://miabyss.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13612"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21731"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Made_in_Abyss"
+      }
+    ],
     "altTitle": [
-      "Gekijouban Made in Abyss: Fukaki Tamashii no Reimei, Made in Abyss: Dawn of the Deep Soul",
+      "Gekijouban Made in Abyss: Fukaki Tamashii no Reimei",
+      "Made in Abyss: Dawn of the Deep Soul",
       "劇場版メイドインアビス 深き魂の黎明"
     ],
     "id": 36862,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1502/110723.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 13612,
     "createdAt": "2020-10-12T15:39:58.000Z",
-    "updatedAt": "2021-05-03T03:34:04.000Z",
+    "updatedAt": "2021-09-30T12:33:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,6 +15,20 @@
   "updatedAt": "2021-07-26T06:51:33.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4513"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6604"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kujibiki_Unbalance_%282006_series%29"
+      }
+    ],
     "altTitle": [
       "Kujian",
       "Kujibiki♥Unbalance (2006)",
@@ -28,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/75281.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4513,
     "createdAt": "2020-10-12T15:38:19.000Z",
-    "updatedAt": "2021-07-26T06:22:10.000Z",
+    "updatedAt": "2021-09-30T23:38:48.000Z",
     "deletedAt": null
   },
   "Anilist": {

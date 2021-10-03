@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-asahi.co.jp/doraemon/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4635"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14223"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Doraemon#Anime"
+      }
+    ],
     "altTitle": [
       "ドラえもん (2005)"
     ],
@@ -25,8 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/23935.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 4635,
     "createdAt": "2020-10-12T15:39:00.000Z",
-    "updatedAt": "2021-08-12T23:38:03.000Z",
+    "updatedAt": "2021-10-02T04:08:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

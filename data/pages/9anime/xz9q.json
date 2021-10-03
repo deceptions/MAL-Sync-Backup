@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=661"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=954"
+      }
+    ],
     "altTitle": [
       "Harlock Saga: The Ring of the Nibelung - The Rhein Gold",
       "ハーロック・サーガ ニーベルングの指環"
@@ -26,8 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/21258.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 661,
     "createdAt": "2020-10-12T15:38:19.000Z",
-    "updatedAt": "2021-06-13T20:08:22.000Z",
+    "updatedAt": "2021-10-01T00:06:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

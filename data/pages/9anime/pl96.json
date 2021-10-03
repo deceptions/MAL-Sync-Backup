@@ -15,8 +15,28 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tatsunoko.co.jp/works/archive/kiramekiman.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2551"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=170"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Time_Bokan_2000%3A_Kaitou_Kiramekiman"
+      }
+    ],
     "altTitle": [
-      "Time Boken 2000: Kiramekiman, Kaitou Kiramekiman, Thief Glittering Man",
+      "Time Boken 2000: Kiramekiman",
+      "Kaitou Kiramekiman",
+      "Thief Glittering Man",
       "タイムボカン2000 怪盗きらめきマン"
     ],
     "id": 5475,
@@ -26,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/11366.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 2551,
     "createdAt": "2020-10-12T15:38:47.000Z",
-    "updatedAt": "2021-04-28T08:48:40.000Z",
+    "updatedAt": "2021-10-01T19:34:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

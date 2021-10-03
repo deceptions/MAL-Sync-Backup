@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kazetachinu.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9514"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14975"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_Wind_Rises"
+      }
+    ],
     "altTitle": [
       "The Wind Rises",
       "Kaze Tachinu",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/52353.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 9514,
     "createdAt": "2020-10-12T15:39:17.000Z",
-    "updatedAt": "2021-08-29T05:07:28.000Z",
+    "updatedAt": "2021-10-02T16:35:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

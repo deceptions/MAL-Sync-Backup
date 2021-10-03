@@ -1,6 +1,17 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7927"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Tie_shan_gong_zhu"
+    }
+  ],
   "altTitle": [
-    "Saiyuki: Tessen Koushu no Maki, Princess Iron Fan",
+    "Saiyuki: Tessen Koushu no Maki",
+    "Princess Iron Fan",
     "鐵扇公主"
   ],
   "id": 9521,
@@ -10,8 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/68815.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 7927,
   "createdAt": "2020-10-12T15:39:02.000Z",
-  "updatedAt": "2021-04-29T02:49:41.000Z",
+  "updatedAt": "2021-10-02T06:05:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ponycanyon.co.jp/intl/tp_new/animation/vampiremiyuOVA.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=172"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=92"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Vampire_Princess_Miyu"
+      }
+    ],
     "altTitle": [
       "Vampire Princess Miyu",
-      "Kyuuketsu Hime Miyu, Kyuuketsuki Miyu",
+      "Kyuuketsu Hime Miyu",
+      "Kyuuketsuki Miyu",
       "吸血姫美夕"
     ],
     "id": 1384,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/78948.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 172,
     "createdAt": "2020-10-12T15:38:16.000Z",
-    "updatedAt": "2021-04-15T12:45:17.000Z",
+    "updatedAt": "2021-09-30T22:03:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

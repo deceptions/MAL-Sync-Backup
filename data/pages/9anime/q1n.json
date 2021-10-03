@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.madoka-magica.com/tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8069"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12120"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Puella_Magi_Madoka_Magica"
+      }
+    ],
     "altTitle": [
       "Puella Magi Madoka Magica",
       "Mahou Shoujo Madoka Magika",
@@ -28,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8069,
     "createdAt": "2020-10-12T15:39:03.000Z",
-    "updatedAt": "2021-09-27T08:35:34.000Z",
+    "updatedAt": "2021-10-02T06:35:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

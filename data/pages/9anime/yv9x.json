@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://koiuta.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9888"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15397"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Toaru_Hik%C5%ABshi_e_no_Koiuta"
+      }
+    ],
     "altTitle": [
       "The Pilot's Love Song",
       "Love Song of a Certain Pilot",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/56939.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 9888,
     "createdAt": "2020-10-12T15:39:21.000Z",
-    "updatedAt": "2021-07-10T07:13:19.000Z",
+    "updatedAt": "2021-10-02T19:01:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

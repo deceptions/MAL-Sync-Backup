@@ -15,6 +15,20 @@
   "updatedAt": "2021-06-14T02:38:19.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1534"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=315"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Maetel_Legend"
+      }
+    ],
     "altTitle": [
       "メーテルレジェンド"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1/2396.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 1534,
     "createdAt": "2020-10-12T15:38:18.000Z",
-    "updatedAt": "2021-06-14T02:08:27.000Z",
+    "updatedAt": "2021-09-30T23:01:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

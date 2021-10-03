@@ -15,9 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=56"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5391"
+      }
+    ],
     "altTitle": [
       "Prince of Tennis: A Day of the Survival Mountain",
-      "Tennis no Ouji-sama, Prince of Tennis: Jump Festa 2002 - A Day of the Survival Mountain",
+      "Tennis no Ouji-sama",
+      "Prince of Tennis: Jump Festa 2002 - A Day of the Survival Mountain",
       "テニスの王子: 存続山の日"
     ],
     "id": 1190,
@@ -27,8 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/4471.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 56,
     "createdAt": "2020-10-12T15:38:14.000Z",
-    "updatedAt": "2021-04-15T11:45:38.000Z",
+    "updatedAt": "2021-09-30T20:32:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://archive.asciimw.jp/mediamix/happy/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=33"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=834"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Happy_Lesson"
+      }
+    ],
     "altTitle": [
-      "Happy☆Lesson Episode 11.5 Nice and Warm! All Alone with Kanna, Happy Lesson: Hoka Hoka Kanna to Futari Kiri",
+      "Happy☆Lesson Episode 11.5 Nice and Warm! All Alone with Kanna",
+      "Happy Lesson: Hoka Hoka Kanna to Futari Kiri",
       "HAPPY☆LESSON ホカホカ★カンナと二人きり"
     ],
     "id": 7579,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/18198.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 33,
     "createdAt": "2020-10-12T15:38:56.000Z",
-    "updatedAt": "2021-04-28T19:48:31.000Z",
+    "updatedAt": "2021-10-02T01:36:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

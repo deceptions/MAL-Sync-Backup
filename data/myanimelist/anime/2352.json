@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1847"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5038"
+    }
+  ],
   "altTitle": [
     "Daiakuji -The Xena Buster-",
     "大悪司"
@@ -10,8 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/4495.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 1847,
   "createdAt": "2020-10-12T15:38:28.000Z",
-  "updatedAt": "2021-04-27T07:48:40.000Z",
+  "updatedAt": "2021-10-01T06:03:33.000Z",
   "deletedAt": null,
   "Pages": {}
 }

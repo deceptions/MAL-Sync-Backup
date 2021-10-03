@@ -15,9 +15,30 @@
   "updatedAt": "2021-06-06T18:18:57.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.madhouse.co.jp/works/2003-2002/works_tv_x.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=30"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=464"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/X_(manga)"
+      }
+    ],
     "altTitle": [
       "X",
-      "X the TV Series, X/1999, Ekksu, X (2001)",
+      "X the TV Series",
+      "X/1999",
+      "Ekksu",
+      "X (2001)",
       "X−エックス−"
     ],
     "id": 156,
@@ -27,8 +48,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/17167.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 30,
     "createdAt": "2020-10-12T15:38:00.000Z",
-    "updatedAt": "2021-06-06T17:48:59.000Z",
+    "updatedAt": "2021-09-30T11:08:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

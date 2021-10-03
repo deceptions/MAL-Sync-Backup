@@ -15,8 +15,28 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.mudazumo.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7261"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11031"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_Legend_of_Koizumi"
+      }
+    ],
     "altTitle": [
-      "Mudadumo Naki Kaikaku, Mudatsumo, Reform without Wasted Draws",
+      "Mudadumo Naki Kaikaku",
+      "Mudatsumo",
+      "Reform without Wasted Draws",
       "ムダヅモ無き改革"
     ],
     "id": 6946,
@@ -26,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/35475.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 7261,
     "createdAt": "2020-10-12T15:38:54.000Z",
-    "updatedAt": "2021-04-28T16:19:01.000Z",
+    "updatedAt": "2021-10-02T00:04:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

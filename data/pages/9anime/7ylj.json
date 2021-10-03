@@ -15,8 +15,23 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sunrise-inc.co.jp/my-hime/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1554"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mai_hime"
+      }
+    ],
     "altTitle": [
-      "Mai-HiME Bluray Special, Mai-HiME: The Black Dance/The Last Supper",
+      "Mai-HiME Bluray Special",
+      "Mai-HiME: The Black Dance/The Last Supper",
       "舞-HiME: 黒の舞／最後の晩餐"
     ],
     "id": 8062,
@@ -26,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/19697.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 1554,
     "createdAt": "2020-10-12T15:38:57.000Z",
-    "updatedAt": "2021-04-28T21:18:40.000Z",
+    "updatedAt": "2021-10-02T02:37:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

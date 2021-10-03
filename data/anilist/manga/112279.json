@@ -67,6 +67,28 @@
         "updatedAt": "2021-07-26T15:21:35.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "touhou_suichouka_lotus_eater_tachi_no_suisei": {
+        "authors": [
+          "ZUN"
+        ],
+        "identifier": "touhou_suichouka_lotus_eater_tachi_no_suisei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Touhou Suichouka ~ Lotus Eater-tachi no Suisei",
+        "url": "https://fanfox.net/manga/touhou_suichouka_lotus_eater_tachi_no_suisei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32178/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123038,
+        "aniId": 112279,
+        "createdAt": "2021-09-29T21:06:30.000Z",
+        "updatedAt": "2021-09-29T21:36:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

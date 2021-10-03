@@ -1,4 +1,14 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=839"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2580"
+    }
+  ],
   "altTitle": [
     "New Angel",
     "新エンジェル"
@@ -10,8 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/51011.jpg",
   "category": "OVA",
   "hentai": true,
+  "anidbId": 839,
   "createdAt": "2021-03-05T18:20:24.000Z",
-  "updatedAt": "2021-04-01T17:31:02.000Z",
+  "updatedAt": "2021-09-30T11:38:35.000Z",
   "deletedAt": null,
   "Pages": {}
 }

@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4536"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7230"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Haru_no_Ashioto"
+    }
+  ],
   "altTitle": [
-    "Recapture Ourin Gakuen, Footsteps of Spring",
+    "Recapture Ourin Gakuen",
+    "Footsteps of Spring",
     "はるのあしおと The Movie - 桜鈴奪還"
   ],
   "id": 1621,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1888/112336.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 4536,
   "createdAt": "2020-10-12T15:38:19.000Z",
-  "updatedAt": "2021-04-26T20:18:30.000Z",
+  "updatedAt": "2021-10-01T00:03:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

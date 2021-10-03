@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1018"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1023"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Crying_Freeman"
+    }
+  ],
   "altTitle": [
     "Cryingフリーマン"
   ],
@@ -9,8 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/37721.jpg",
   "category": "OVA",
   "hentai": false,
+  "anidbId": 1018,
   "createdAt": "2020-10-12T15:38:13.000Z",
-  "updatedAt": "2021-04-20T07:15:11.000Z",
+  "updatedAt": "2021-09-30T20:05:00.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

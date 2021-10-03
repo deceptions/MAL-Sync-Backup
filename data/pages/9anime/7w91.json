@@ -15,8 +15,28 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.maruma-ova.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5457"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7798"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kyou_Kara_Maou"
+      }
+    ],
     "altTitle": [
-      "Kyou Kara Maou! OVA, Kyou Kara Maoh! R, Maruma OVA",
+      "Kyou Kara Maou! OVA",
+      "Kyou Kara Maoh! R",
+      "Maruma OVA",
       "今日からマ王！R"
     ],
     "id": 2971,
@@ -26,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/22619.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 5457,
     "createdAt": "2020-10-12T15:38:34.000Z",
-    "updatedAt": "2021-04-13T20:15:30.000Z",
+    "updatedAt": "2021-10-01T10:05:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

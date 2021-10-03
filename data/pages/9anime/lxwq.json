@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://pierrot.jp/title/magicgirl/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=521"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1284"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Creamy_Mami,_the_Magic_Angel"
+      }
+    ],
     "altTitle": [
       "Magical Angel Creamy Mami",
-      "Incantevole Creamy, Creamy Mami, the Magic Angel",
+      "Incantevole Creamy",
+      "Creamy Mami, the Magic Angel",
       "魔法の天使 クリィミーマミ"
     ],
     "id": 2044,
@@ -27,8 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/50081.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 521,
     "createdAt": "2020-10-12T15:38:25.000Z",
-    "updatedAt": "2021-04-27T03:18:40.000Z",
+    "updatedAt": "2021-10-01T03:35:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

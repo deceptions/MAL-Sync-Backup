@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=260"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2142"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Galaxy_Angel"
+      }
+    ],
     "altTitle": [
       "Galaxy Angel A Specials",
       "Galaxy Angel AA Specials",
@@ -27,8 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/6758.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 260,
     "createdAt": "2020-10-12T15:38:07.000Z",
-    "updatedAt": "2021-08-21T13:16:08.000Z",
+    "updatedAt": "2021-09-30T15:40:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

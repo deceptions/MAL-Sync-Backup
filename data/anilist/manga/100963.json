@@ -61,6 +61,28 @@
         "updatedAt": "2021-06-26T22:19:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "bozebeats": {
+        "authors": [
+          "HIRANO Ryouji"
+        ],
+        "identifier": "bozebeats",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "BOZEBEATS",
+        "url": "https://fanfox.net/manga/bozebeats/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27094/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111214,
+        "aniId": 100963,
+        "createdAt": "2021-09-29T10:07:22.000Z",
+        "updatedAt": "2021-09-29T10:36:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

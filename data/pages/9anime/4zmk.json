@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=364"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=658"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Slayers_Try"
+      }
+    ],
     "altTitle": [
       "スレイヤーズ TRY"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/50875.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 364,
     "createdAt": "2020-10-12T15:38:13.000Z",
-    "updatedAt": "2021-04-15T13:44:37.000Z",
+    "updatedAt": "2021-09-30T20:08:10.000Z",
     "deletedAt": null
   },
   "Anilist": {

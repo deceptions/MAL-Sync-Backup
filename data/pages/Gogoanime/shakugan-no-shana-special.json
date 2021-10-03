@@ -15,8 +15,29 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.shakugan.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3408"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5943"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Shakugan_no_Shana#Anime"
+      }
+    ],
     "altTitle": [
-      "Shakugan no Shana Specials, Shakugan no Shana-tan Returns, Itadaki no Hecate-tan, Banjou no Carmel-san",
+      "Shakugan no Shana Specials",
+      "Shakugan no Shana-tan Returns",
+      "Itadaki no Hecate-tan",
+      "Banjou no Carmel-san",
       "灼眼のシャナたん"
     ],
     "id": 1066,
@@ -26,8 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/16951.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 3408,
     "createdAt": "2021-02-18T16:44:40.000Z",
-    "updatedAt": "2021-04-17T16:44:33.000Z",
+    "updatedAt": "2021-09-30T19:09:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

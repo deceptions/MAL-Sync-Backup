@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=431"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4198"
+      }
+    ],
     "altTitle": [
       "Ichi The Killer: Episode 0",
       "Koroshiya Ichi The Animation: Episode 0",
@@ -27,8 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/34131.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 431,
     "createdAt": "2020-10-12T15:38:28.000Z",
-    "updatedAt": "2021-04-12T18:16:18.000Z",
+    "updatedAt": "2021-10-01T06:03:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

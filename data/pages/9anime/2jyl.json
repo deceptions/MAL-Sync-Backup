@@ -15,6 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://studio-xi.jp/xi-project/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8303"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12600"
+      }
+    ],
     "altTitle": [
       "クロッシイ・アバン"
     ],
@@ -25,8 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/33549.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 8303,
     "createdAt": "2020-10-12T15:39:06.000Z",
-    "updatedAt": "2021-04-29T06:49:41.000Z",
+    "updatedAt": "2021-10-02T08:35:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

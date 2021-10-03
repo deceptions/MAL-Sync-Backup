@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tms-e.com/search/index.php?pdt_no=278"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1007"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=431"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Moomin_(1969_TV_series)"
+      }
+    ],
     "altTitle": [
-      "Mumin, Moomin",
+      "Mumin",
+      "Moomin",
       "ムーミン"
     ],
     "id": 8234,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/21297.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 1007,
     "createdAt": "2020-10-12T15:38:58.000Z",
-    "updatedAt": "2021-04-28T22:18:41.000Z",
+    "updatedAt": "2021-10-02T03:07:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

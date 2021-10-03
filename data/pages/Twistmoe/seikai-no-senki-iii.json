@@ -15,8 +15,27 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sunrise-inc.co.jp/seikai/senki3/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2673"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4899"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Banner_of_the_Stars"
+      }
+    ],
     "altTitle": [
-      "Banner of the Stars III, Battle Flag of the Stars III",
+      "Banner of the Stars III",
+      "Battle Flag of the Stars III",
       "星界の戦旗 III"
     ],
     "id": 398,
@@ -26,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/2755.jpg",
     "category": "OVA",
     "hentai": false,
+    "anidbId": 2673,
     "createdAt": "2020-10-12T15:38:03.000Z",
-    "updatedAt": "2021-04-26T01:58:14.000Z",
+    "updatedAt": "2021-09-30T13:33:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

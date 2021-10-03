@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.soultaker.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=270"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=288"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_SoulTaker"
+      }
+    ],
     "altTitle": [
       "SoulTaker",
       "The SoulTaker～魂狩～"
@@ -26,8 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/11004.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 270,
     "createdAt": "2020-10-12T15:38:12.000Z",
-    "updatedAt": "2021-04-26T10:58:10.000Z",
+    "updatedAt": "2021-09-30T19:06:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

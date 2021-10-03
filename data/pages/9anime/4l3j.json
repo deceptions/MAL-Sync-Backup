@@ -15,6 +15,16 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2049"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3678"
+      }
+    ],
     "altTitle": [
       "魔法使いサリー"
     ],
@@ -25,8 +35,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/47225.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 2049,
     "createdAt": "2020-10-12T15:39:19.000Z",
-    "updatedAt": "2021-04-29T19:48:42.000Z",
+    "updatedAt": "2021-10-02T17:37:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.fujitv.co.jp/leo/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6652"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10923"
+      }
+    ],
     "altTitle": [
       "Jungle Emperor Leo",
-      "Jungle Emperor Remake, Kimba the White Lion",
+      "Jungle Emperor Remake",
+      "Kimba the White Lion",
       "ジャングル大帝 -勇気が未来をかえる"
     ],
     "id": 6909,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/37235.jpg",
     "category": "Special",
     "hentai": false,
+    "anidbId": 6652,
     "createdAt": "2020-10-12T15:38:53.000Z",
-    "updatedAt": "2021-04-28T15:49:40.000Z",
+    "updatedAt": "2021-10-02T00:02:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

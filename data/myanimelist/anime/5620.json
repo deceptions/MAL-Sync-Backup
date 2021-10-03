@@ -1,6 +1,21 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2224"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3611"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Uchu_Enban_Daisenso"
+    }
+  ],
   "altTitle": [
-    "The Great Battle of the Flying Saucers, The Great War of the Flying Saucers",
+    "The Great Battle of the Flying Saucers",
+    "The Great War of the Flying Saucers",
     "宇宙円盤大戦争"
   ],
   "id": 5620,
@@ -10,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/11614.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 2224,
   "createdAt": "2020-10-12T15:38:48.000Z",
-  "updatedAt": "2021-04-04T18:38:05.000Z",
+  "updatedAt": "2021-10-01T19:40:07.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

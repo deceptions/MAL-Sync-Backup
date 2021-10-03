@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=617"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11776"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/名探偵ホームズ"
+      }
+    ],
     "altTitle": [
       "Sherlock Hound: The Adventure of the Blue Carbuncle / Treasure Under the Sea",
-      "Sherlock Hound Movie 01, Meitantei Holmes Movie 01",
+      "Sherlock Hound Movie 01",
+      "Meitantei Holmes Movie 01",
       "名探偵ホームズ 青い紅玉の巻/海底の財宝の巻"
     ],
     "id": 15347,
@@ -27,8 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/42601.jpg",
     "category": "Movie",
     "hentai": false,
+    "anidbId": 617,
     "createdAt": "2020-10-12T15:39:15.000Z",
-    "updatedAt": "2021-04-29T15:49:21.000Z",
+    "updatedAt": "2021-10-02T15:05:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

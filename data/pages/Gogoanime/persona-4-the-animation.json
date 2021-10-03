@@ -15,6 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.p4a.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8378"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12870"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Persona_4:_The_Animation"
+      }
+    ],
     "altTitle": [
       "Persona 4 the Animation",
       "P4A",
@@ -27,8 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/29107.jpg",
     "category": "TV",
     "hentai": false,
+    "anidbId": 8378,
     "createdAt": "2020-10-12T15:39:06.000Z",
-    "updatedAt": "2021-09-27T14:34:44.000Z",
+    "updatedAt": "2021-10-02T09:06:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

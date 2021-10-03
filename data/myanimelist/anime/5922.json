@@ -1,4 +1,18 @@
 {
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5938"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3544"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Utsunomiko"
+    }
+  ],
   "altTitle": [
     "Utsu no Miko",
     "Heavens Compilation: Space Prince",
@@ -11,8 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/6/12812.jpg",
   "category": "Movie",
   "hentai": false,
+  "anidbId": 5938,
   "createdAt": "2020-12-09T17:56:20.000Z",
-  "updatedAt": "2021-06-09T18:05:28.000Z",
+  "updatedAt": "2021-10-01T20:40:45.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

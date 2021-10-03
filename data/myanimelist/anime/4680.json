@@ -1,6 +1,22 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tms-e.com/library/tokushu/bocchan/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3141"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5461"
+    }
+  ],
   "altTitle": [
-    "Botchan, Bot-chan, The Young Master,",
+    "Botchan",
+    "Bot-chan",
+    "The Young Master",
     "坊っちゃん"
   ],
   "id": 4680,
@@ -10,8 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/22951.jpg",
   "category": "Special",
   "hentai": false,
+  "anidbId": 3141,
   "createdAt": "2020-12-01T07:22:35.000Z",
-  "updatedAt": "2021-05-31T07:42:13.000Z",
+  "updatedAt": "2021-10-01T17:05:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Gogoanime": {

@@ -1,6 +1,25 @@
 {
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.eiken-anime.jp/works/works017.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5483"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1201"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%B0%E3%81%8F%E3%81%AF%E3%81%A4%E4%BA%94%E9%83%8E"
+    }
+  ],
   "altTitle": [
-    "Bakuhatsu Goro, Goro the Terrible",
+    "Bakuhatsu Goro",
+    "Goro the Terrible",
     "ばくはつ五郎"
   ],
   "id": 9284,
@@ -10,8 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1855/90302.jpg",
   "category": "TV",
   "hentai": false,
+  "anidbId": 5483,
   "createdAt": "2020-10-12T19:11:08.000Z",
-  "updatedAt": "2021-04-12T19:46:47.000Z",
+  "updatedAt": "2021-10-02T05:33:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
