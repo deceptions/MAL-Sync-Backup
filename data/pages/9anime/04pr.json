@@ -15,9 +15,21 @@
   "updatedAt": "2019-10-12T16:02:23.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1469"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Space_Pirate_Mito"
+      }
+    ],
     "altTitle": [
-      "Uchu Kaizoku Mito no Daiboken Pilot, Stellar Buster Mito Pilot, Space Pirate Mito's Great Adventure Pilot, Space Pirate Mito Pilot",
+      "Uchu Kaizoku Mito no Daiboken Pilot",
+      "Stellar Buster Mito Pilot",
+      "Space Pirate Mito's Great Adventure Pilot",
+      "Space Pirate Mito Pilot",
       "宇宙海賊ミトの大冒険"
     ],
     "id": 29283,
@@ -27,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/70405.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 1469,
     "createdAt": "2020-10-12T15:39:33.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T03:08:01.000Z",
     "deletedAt": null
   },
   "Anilist": null,

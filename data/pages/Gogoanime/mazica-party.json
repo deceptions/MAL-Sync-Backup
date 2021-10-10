@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://mazicaparty.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16084"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24099"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3"
+      }
+    ],
     "altTitle": [
       "マジカパーティ"
     ],
@@ -26,9 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1740/113501.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 16084,
     "createdAt": "2021-04-08T06:51:10.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T11:05:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

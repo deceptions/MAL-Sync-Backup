@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pirikarakochan.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14805"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22257"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%8D%9A%E5%A4%9A%E6%98%8E%E5%A4%AA!%E3%81%B4%E3%82%8A%E3%81%8B%E3%82%89%E3%81%93%E3%81%A1%E3%82%83%E3%82%93"
+      }
+    ],
     "altTitle": [
       "博多明太！ぴりからこちゃん"
     ],
@@ -26,9 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1562/113861.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14805,
     "createdAt": "2020-10-12T15:40:09.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T03:31:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nhk.or.jp/anime-blog/260/230965.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11760"
+      }
+    ],
     "altTitle": [
       "Sushi and Beyond: An English Family Eats New Year's",
       "British Family, Eat Japan New Year Special",
@@ -28,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/80217.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11760,
     "createdAt": "2020-10-12T15:39:41.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T08:33:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

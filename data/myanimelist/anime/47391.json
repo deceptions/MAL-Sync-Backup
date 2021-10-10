@@ -1,7 +1,24 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://sevenknights-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16038"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24021"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%96%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%84#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    }
+  ],
   "altTitle": [
-    "Seven Knights Revolution: The Hero's Successor",
+    "Seven Knights Revolution: Hero Successor",
     "セブンナイツ レボリューション -英雄の継承者-"
   ],
   "id": 47391,
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1079/114017.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16038,
   "createdAt": "2021-02-20T11:05:07.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T11:01:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {

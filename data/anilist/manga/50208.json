@@ -87,6 +87,28 @@
         "updatedAt": "2021-09-30T18:30:52.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "cerberus": {
+        "authors": [
+          "FUKUI Takumi"
+        ],
+        "identifier": "cerberus",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cerberus",
+        "url": "https://fanfox.net/manga/cerberus/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9455/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20208,
+        "aniId": 50208,
+        "createdAt": "2021-10-08T20:02:55.000Z",
+        "updatedAt": "2021-10-08T20:32:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

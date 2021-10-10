@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://avexnet.jp/package_detail.php?id=1010046"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14983"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA"
+    }
+  ],
   "altTitle": [
     "Noragami ED",
     "ハートリアライズ"
@@ -11,9 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/78492.jpg",
   "category": "Music",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 14983,
   "createdAt": "2021-09-06T06:46:11.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T10:01:13.000Z",
   "deletedAt": null,
   "Pages": {}
 }

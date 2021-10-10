@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://himotehouse.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13629"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21409"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%82%E3%81%A6%E3%81%AF%E3%81%86%E3%81%99"
+      }
+    ],
     "altTitle": [
       "HIMOTE HOUSE: A share house of super psychic girls",
       "ひもてはうす"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1790/94342.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13629,
     "createdAt": "2020-10-12T15:39:59.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T20:31:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

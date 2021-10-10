@@ -15,10 +15,28 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/yugioh-vrains/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12659"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19180"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yu-Gi-Oh!_VRAINS"
+      }
+    ],
     "altTitle": [
       "Yu-Gi-Oh! VRAINS",
-      "Yuu Gi Ou!, Yugioh",
+      "Yuu Gi Ou!",
+      "Yugioh",
       "遊戯王VRAINS"
     ],
     "id": 34866,
@@ -28,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1789/101971.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12659,
     "createdAt": "2020-10-12T15:39:51.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T15:35:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

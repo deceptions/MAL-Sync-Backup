@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.zombie-girl.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9285"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20835"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Calamity_of_a_Zombie_Girl"
+      }
+    ],
     "altTitle": [
       "Calamity of the Zombie Girl",
       "The Misfortune of a Certain Zombie Girl",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1159/93477.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 9285,
     "createdAt": "2020-10-12T15:40:02.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:34:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

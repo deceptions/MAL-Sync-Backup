@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.a3-animation.jp/index.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15048"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23264"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/A3!#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    }
+  ],
   "altTitle": [
     "A3! Season Autumn & Winter",
     "Act! Addict! Actors! Season Autumn & Winter",
@@ -12,9 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1049/108197.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15048,
   "createdAt": "2020-10-12T15:40:11.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T04:39:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {
@@ -52,6 +69,23 @@
         "aniId": 111145,
         "createdAt": "2020-10-23T11:28:58.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      },
+      "7jjj6": {
+        "identifier": "7jjj6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "A3! SEASON AUTUMN & WINTER (Dub)",
+        "url": "https://9anime.to/watch/a3-season-autumn-winter-dub.7jjj6",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/40/402ac23e6a9b16668b79a6c066882bcf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40272,
+        "aniId": 111145,
+        "createdAt": "2021-10-08T20:02:50.000Z",
+        "updatedAt": "2021-10-08T20:32:19.000Z",
         "deletedAt": null
       }
     },

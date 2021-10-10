@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://isekaimaou-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13757"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20582"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/How_Not_to_Summon_a_Demon_Lord"
+      }
+    ],
     "altTitle": [
       "How Not to Summon a Demon Lord",
       "The Otherworldly Demon King and the Summoner Girls' Slave Magic",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1649/93412.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13757,
     "createdAt": "2020-10-12T15:40:00.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T21:04:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

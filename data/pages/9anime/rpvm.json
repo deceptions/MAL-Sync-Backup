@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://bananya.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15036"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22414"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bananya"
+      }
+    ],
     "altTitle": [
       "Bananya and the Curious Bunch",
       "ばなにゃ ふしぎななかまたち"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1449/102481.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15036,
     "createdAt": "2020-10-12T15:40:11.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T04:36:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

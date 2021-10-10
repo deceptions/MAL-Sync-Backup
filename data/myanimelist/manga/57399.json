@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%B35"
+    }
+  ],
   "altTitle": [
-    "Guren Five, Crimson Five",
+    "Guren Five",
+    "Crimson Five",
     "グレン5"
   ],
   "authors": [
@@ -16,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:50.000Z",
-  "updatedAt": "2021-05-06T20:48:11.000Z",
+  "updatedAt": "2021-10-05T13:03:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -104,6 +110,28 @@
         "aniId": 85746,
         "createdAt": "2021-03-23T02:04:58.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lz962434": {
+        "authors": [
+          "Kodaka Kazutaka"
+        ],
+        "identifier": "manga-lz962434",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Guren Five",
+        "url": "https://manganato.com/manga-lz962434",
+        "image": "https://avt.mkklcdnv6temp.com/18/p/8-1583478882.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57399,
+        "aniId": 85746,
+        "createdAt": "2021-10-05T13:03:18.000Z",
+        "updatedAt": "2021-10-05T13:32:17.000Z",
         "deletedAt": null
       }
     }

@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T03:18:57.000Z",
-  "updatedAt": "2021-08-29T12:37:08.000Z",
+  "updatedAt": "2021-10-04T08:01:33.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lj988766": {
+        "authors": [
+          "Kawai Aporo"
+        ],
+        "identifier": "manga-lj988766",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "There's Love Hidden In Lies",
+        "url": "https://manganato.com/manga-lj988766",
+        "image": "https://avt.mkklcdnv6temp.com/2/q/24-1617772476.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 130081,
+        "createdAt": "2021-10-04T08:01:23.000Z",
+        "updatedAt": "2021-10-04T08:01:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

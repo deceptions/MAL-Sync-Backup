@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.clarines-kingdom.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11082"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16792"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Snow_White_with_the_Red_Hair"
+      }
+    ],
     "altTitle": [
       "Snow White with the Red Hair",
       "Akagami no Shirayukihime",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/75764.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11082,
     "createdAt": "2020-10-12T15:39:34.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:09:26.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -51,10 +68,6 @@
       {
         "site": "Hulu",
         "url": "http://www.hulu.com/snow-white-with-the-red-hair"
-      },
-      {
-        "site": "Crunchyroll",
-        "url": "http://www.crunchyroll.com/snow-white-with-the-red-hair"
       }
     ],
     "id": 21058,
@@ -66,7 +79,7 @@
     "category": "tv",
     "hentai": false,
     "createdAt": "2021-05-20T14:41:52.000Z",
-    "updatedAt": "2021-06-17T14:29:42.000Z",
+    "updatedAt": "2021-10-07T23:02:19.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/anime/30123/Akagami_no_Shirayuki-hime"

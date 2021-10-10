@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15677"
+    }
+  ],
   "altTitle": [
     "Knight of Erin: Erin and Nighthawk",
     "Knight of Erin"
@@ -11,9 +16,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1687/110301.jpg",
   "category": "OVA",
   "hentai": true,
-  "anidbId": null,
+  "anidbId": 15677,
   "createdAt": "2021-06-09T13:05:05.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T09:37:43.000Z",
   "deletedAt": null,
   "Pages": {}
 }

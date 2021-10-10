@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kitty-movieworld.jp/search/character/8afa44ff920c4aa794da9d98e3f839c9"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8237"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%88%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA"
+      }
+    ],
     "altTitle": [
       "キキとララのはばたけ!ペガサス"
     ],
@@ -26,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/70349.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 8237,
     "createdAt": "2020-10-12T15:39:33.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T03:07:31.000Z",
     "deletedAt": null
   },
   "Anilist": {

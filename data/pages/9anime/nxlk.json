@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://yuruyuri.com/10th/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14047"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/YuruYuri"
+      }
+    ],
     "altTitle": [
       "YuruYuri,",
       "Yuru Yuri Ten",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1138/99547.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14047,
     "createdAt": "2020-10-12T15:40:02.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:36:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

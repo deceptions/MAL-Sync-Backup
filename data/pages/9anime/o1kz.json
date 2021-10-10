@@ -15,7 +15,20 @@
   "updatedAt": "2021-06-21T07:40:40.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://boku-ben.com/news/?id=51891"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16111"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/We_Never_Learn"
+      }
+    ],
     "altTitle": [
       "Bokutachi wa Benkyou ga Dekinai! OVA",
       "We Never Learn! OVA",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1917/108615.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 16111,
     "createdAt": "2021-03-28T14:19:20.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T08:36:54.000Z",
     "deletedAt": null
   },
   "Anilist": null,

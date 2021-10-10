@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.ytv.co.jp/mix/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14245"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21648"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mix_(manga)"
+      }
+    ],
     "altTitle": [
       "Mix: Meisei Story",
       "MIX（ミックス）"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1353/104238.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14245,
     "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T00:03:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

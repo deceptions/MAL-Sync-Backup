@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kyotoanimation.co.jp/books/20thdenmoku/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14236"
+      }
+    ],
     "altTitle": [
       "20th Century Electricity Catalog",
       "Twentieth Century Electrical Records",
@@ -28,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1848/93273.jpg",
     "category": "Unknown",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14236,
     "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T23:39:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

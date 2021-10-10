@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-06T02:37:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "okuru_kotoba": {
+        "authors": [
+          "MACHIDA Toshiko"
+        ],
+        "identifier": "okuru_kotoba",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Okuru kotoba",
+        "url": "https://fanfox.net/manga/okuru_kotoba/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28921/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105875,
+        "aniId": 99982,
+        "createdAt": "2021-10-08T21:32:20.000Z",
+        "updatedAt": "2021-10-08T22:02:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

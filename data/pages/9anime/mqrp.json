@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://fairilu.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11834"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17961"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%AB%E3%83%AA%E3%83%AB%E3%83%95%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%AB"
+      }
+    ],
     "altTitle": [
       "リルリルフェアリル～妖精のドア～"
     ],
@@ -26,9 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/83790.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11834,
     "createdAt": "2020-10-12T15:39:51.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T15:08:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

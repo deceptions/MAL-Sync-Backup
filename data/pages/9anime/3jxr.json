@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://w-witch.jp/501_takeoff/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14965"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22342"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Strike_Witches"
+      }
+    ],
     "altTitle": [
       "ストライクウィッチーズ 劇場版 501部隊発進しますっ!"
     ],
@@ -26,9 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1102/101638.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14965,
     "createdAt": "2020-10-12T15:40:10.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T04:04:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

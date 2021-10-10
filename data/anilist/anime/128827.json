@@ -11,6 +11,14 @@
     {
       "site": "Hidive",
       "url": "https://www.hidive.com/tv/cardfight-vanguard-overdress/season-2"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://crunchyroll.com/series/GXJHM3NJ5/cardfight-vanguard-overdress"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GXJHM3NJ5/CARDFIGHT-VANGUARD-overDress"
     }
   ],
   "id": 128827,
@@ -22,7 +30,46 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-22T21:12:57.000Z",
-  "updatedAt": "2021-09-29T21:06:20.000Z",
+  "updatedAt": "2021-10-05T13:32:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "6l9z0": {
+        "identifier": "6l9z0",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Cardfight!! Vanguard: overDress Season 2",
+        "url": "https://9anime.to/watch/cardfight-vanguard-overdress-season-2.6l9z0",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/66/66b32da56f76509ed34802fadddad505.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48862,
+        "aniId": 128827,
+        "createdAt": "2021-10-04T18:03:30.000Z",
+        "updatedAt": "2021-10-04T18:32:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "cardfight-vanguard-overdress-season-2": {
+        "identifier": "cardfight-vanguard-overdress-season-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Cardfight!! Vanguard: overDress Season 2",
+        "url": "https://gogoanime.pe/category/cardfight-vanguard-overdress-season-2",
+        "image": "https://gogocdn.net/cover/cardfight-vanguard-overdress-season-2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48862,
+        "aniId": 128827,
+        "createdAt": "2021-10-04T18:03:30.000Z",
+        "updatedAt": "2021-10-04T18:32:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

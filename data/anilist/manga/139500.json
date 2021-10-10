@@ -18,5 +18,28 @@
   "createdAt": "2021-09-21T16:40:44.000Z",
   "updatedAt": "2021-09-21T16:40:44.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "the-challenger": {
+        "authors": [
+          "Keyboard"
+        ],
+        "identifier": "the-challenger",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Challenger",
+        "url": "https://mangasee123.com/manga/The-Challenger",
+        "image": "https://cover.nep.li/cover/The-Challenger.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 139500,
+        "createdAt": "2021-10-06T20:33:11.000Z",
+        "updatedAt": "2021-10-06T20:33:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

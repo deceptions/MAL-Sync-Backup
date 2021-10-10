@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.scp.co.jp/Tama/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11909"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/タマ%26フレンズ_うちのタマ知りませんか%3F"
+    }
+  ],
   "altTitle": [
     "Tama and Friends",
     "タマ&フレンズ うちのタマ知りませんか?"
@@ -11,9 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/82187.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11909,
   "createdAt": "2020-10-12T15:39:43.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T09:37:42.000Z",
   "deletedAt": null,
   "Pages": {}
 }

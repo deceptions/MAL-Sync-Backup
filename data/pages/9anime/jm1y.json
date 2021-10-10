@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://backstreetgirls-anime.toeiad.co.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13619"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20851"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Back_Street_Girls"
+      }
+    ],
     "altTitle": [
       "Back Street Girls: Gokudolls",
       "Back Street Girls: Washira Idol Hajimemashita.",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1484/93140.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13619,
     "createdAt": "2020-10-12T15:39:58.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T20:07:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

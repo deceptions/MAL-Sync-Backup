@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime.endride.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11902"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18004"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Endride"
+      }
+    ],
     "altTitle": [
       "Endride",
       "エンドライド"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/78289.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11902,
     "createdAt": "2020-10-12T15:39:43.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T09:36:53.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -41,10 +58,6 @@
       {
         "site": "Funimation",
         "url": "http://www.funimation.com/shows/endride"
-      },
-      {
-        "site": "Hulu",
-        "url": "http://www.hulu.com/endride"
       },
       {
         "site": "AnimeLab",
@@ -60,7 +73,7 @@
     "category": "tv",
     "hentai": false,
     "createdAt": "2021-05-20T14:43:02.000Z",
-    "updatedAt": "2021-06-17T14:54:06.000Z",
+    "updatedAt": "2021-10-06T00:32:17.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/anime/32608/Endride"

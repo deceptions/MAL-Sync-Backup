@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.doraeiga.com/2019/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14446"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22155"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Doraemon:_Nobita%27s_Chronicle_of_the_Moon_Exploration"
+      }
+    ],
     "altTitle": [
       "Doraemon the Movie 2019: Chronicle of the Moon Exploration",
       "映画 ドラえもん のび太の月面探査記"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1369/102185.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14446,
     "createdAt": "2020-10-12T15:40:06.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T01:00:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

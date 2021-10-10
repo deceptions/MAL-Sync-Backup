@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.swordart-online.net/alicization/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13493"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20665"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sword_Art_Online"
+      }
+    ],
     "altTitle": [
       "Sword Art Online: Alicization",
       "Sword Art Online III",
@@ -31,9 +48,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1993/93837.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13493,
     "createdAt": "2020-10-12T15:39:57.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T19:05:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

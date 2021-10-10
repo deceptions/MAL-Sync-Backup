@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.initiald-movie.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9987"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17511"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Initial_D"
+      }
+    ],
     "altTitle": [
       "Shin Gekijouban Initial D: Legend 3 - Mugen",
       "新劇場版　頭文字［イニシャル］D Legend3 -夢現-"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/76759.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 9987,
     "createdAt": "2020-10-12T15:39:37.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T06:02:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

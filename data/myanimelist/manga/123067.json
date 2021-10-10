@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.ganganonline.com/contents/maoutooreno/"
+    }
+  ],
   "altTitle": [
     "The Dark Queen and I Strike Back",
     "魔王と俺の叛逆記"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:10.000Z",
-  "updatedAt": "2021-05-29T06:12:33.000Z",
+  "updatedAt": "2021-10-06T15:34:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -103,6 +108,26 @@
         "aniId": 113224,
         "createdAt": "2021-05-31T09:31:52.000Z",
         "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      },
+      "manga-mi989743": {
+        "authors": [
+          "Yoshikawa Hideaki"
+        ],
+        "identifier": "manga-mi989743",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Maou To Ore No Hangyakuki",
+        "url": "https://manganato.com/manga-mi989743",
+        "image": "https://avt.mkklcdnv6temp.com/44/s/24-1633530490.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123067,
+        "aniId": 113224,
+        "createdAt": "2021-10-06T15:32:59.000Z",
+        "updatedAt": "2021-10-06T16:02:19.000Z",
         "deletedAt": null
       }
     }

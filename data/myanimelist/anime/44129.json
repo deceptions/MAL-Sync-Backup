@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://marsred.tv/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15389"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mars_Red#Anime"
+    }
+  ],
   "altTitle": [
     "Code Zero Daily Report",
     "ぜろきかん日報"
@@ -11,9 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1965/110358.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15389,
   "createdAt": "2021-03-30T02:01:15.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T10:03:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Gogoanime": {

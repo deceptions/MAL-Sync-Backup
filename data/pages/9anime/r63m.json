@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.doraeiga.com/2016/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11353"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18475"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Doraemon:_Nobita_and_the_Birth_of_Japan_2016"
+      }
+    ],
     "altTitle": [
       "Doraemon the Movie: Nobita and the Birth of Japan 2016",
       "映画 ドラえもん 新・のび太の日本誕生"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/78157.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11353,
     "createdAt": "2020-10-12T15:39:38.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T06:32:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

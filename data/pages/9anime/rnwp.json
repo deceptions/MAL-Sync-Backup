@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tanakakun.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11783"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17830"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E3%81%8F%E3%82%93%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%E3%81%91%E3%81%A0%E3%82%8B%E3%81%92"
+      }
+    ],
     "altTitle": [
       "Tanaka-kun is Always Listless",
       "田中くんはいつもけだるげ"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1189/111994.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11783,
     "createdAt": "2020-10-12T15:39:41.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T08:37:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

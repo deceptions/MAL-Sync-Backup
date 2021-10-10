@@ -15,7 +15,24 @@
   "updatedAt": "2021-08-05T03:17:30.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://cf-vanguard.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16423"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24500"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89TV#%E3%81%BF%E3%81%AB%E3%83%B4%E3%81%81%E3%82%93"
+      }
+    ],
     "altTitle": [
       "mini vanguard Large",
       "みにヴぁん ら～じ"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1758/116411.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 16423,
     "createdAt": "2021-08-04T20:50:33.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T12:07:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

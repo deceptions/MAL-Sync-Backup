@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sinbad.jp/part1/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11041"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16770"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sinbad:_Sora_Tobu_Hime_to_Himitsu_no_Shima"
+      }
+    ],
     "altTitle": [
       "Sindbad: The Flying Princess and the Secret Island",
       "シンドバッド 空とぶ姫と秘密の島"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/76690.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11041,
     "createdAt": "2020-10-12T15:39:34.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T03:35:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

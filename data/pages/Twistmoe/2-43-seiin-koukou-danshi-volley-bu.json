@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://243anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15257"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23487"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2.43:_Seiin_K%C5%8Dk%C5%8D_Danshi_Volley-bu"
+      }
+    ],
     "altTitle": [
       "2.43: Seiin High School Boys Volleyball Team",
       "2.43 清陰高校男子バレー部"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1907/110083.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15257,
     "createdAt": "2020-11-01T18:43:56.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T05:37:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

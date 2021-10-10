@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://blfes.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15247"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23564"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yes,_No,_or_Maybe%3F#Anime"
+    }
+  ],
   "altTitle": [
     "Yes, No, or Maybe?",
     "Yes, No, or Maybe Half?",
@@ -12,9 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1359/108850.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15247,
   "createdAt": "2021-02-16T19:36:21.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T05:36:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

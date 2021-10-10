@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.sinbad.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11041"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19420"
+      }
+    ],
     "altTitle": [
       "Sinbad: Night at High Noon and the Wonder Gate",
       "シンドバッド"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/78861.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11041,
     "createdAt": "2020-10-12T15:39:44.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T10:08:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

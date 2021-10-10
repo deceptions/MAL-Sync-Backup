@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nariagirls.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12158"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18463"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%3F%E3%81%AA%E3%82%8A%E3%81%82%E2%98%86%E3%81%8C%E3%83%BC%E3%82%8B%E3%81%9A"
+      }
+    ],
     "altTitle": [
       "Mahou Shoujo? Naria Girls",
       "魔法少女? なりあ☆がーるず"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/80373.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12158,
     "createdAt": "2020-10-12T15:39:46.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T12:02:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

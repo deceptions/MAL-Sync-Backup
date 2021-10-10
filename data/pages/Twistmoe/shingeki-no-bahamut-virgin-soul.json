@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://shingekinobahamut-virginsoul.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11223"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18190"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rage_of_Bahamut:_Genesis"
+      }
+    ],
     "altTitle": [
       "Rage of Bahamut: Virgin Soul",
       "神撃のバハムート VIRGIN SOUL"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/85564.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11223,
     "createdAt": "2020-10-12T15:39:36.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T05:32:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

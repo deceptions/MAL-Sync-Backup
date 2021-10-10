@@ -1,8 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7164"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4723"
+    }
+  ],
   "altTitle": [
     "Funky Fables",
-    "Video Anime Picture-Book Theater: World Masterpiece Children's Stories, Sugar & Spice",
+    "Video Anime Picture-Book Theater: World Masterpiece Children's Stories",
+    "Sugar & Spice",
     "ビデオえほん館 世界名作童話"
   ],
   "id": 30029,
@@ -12,9 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/71938.jpg",
   "category": "OVA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 7164,
   "createdAt": "2020-10-12T15:39:34.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T04:06:47.000Z",
   "deletedAt": null,
   "Pages": {}
 }

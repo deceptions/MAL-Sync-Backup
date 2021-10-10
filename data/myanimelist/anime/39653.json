@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://kemono-friends.sega.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14857"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kemono_Friends"
+    }
+  ],
   "altTitle": [
     "ちょこっとアニメ けものフレンズ３"
   ],
@@ -10,11 +23,30 @@
   "image": "https://cdn.myanimelist.net/images/anime/1020/100375.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 14857,
   "createdAt": "2020-10-12T15:40:09.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T03:32:13.000Z",
   "deletedAt": null,
   "Pages": {
+    "9anime": {
+      "1mpm": {
+        "identifier": "1mpm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chokotto Anime Kemono Friends 3",
+        "url": "https://9anime.to/watch/chokotto-anime-kemono-friends-3.1mpm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/6d/6d7bea537e241062515a3ee8d6c2e220.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 39653,
+        "aniId": 98697,
+        "createdAt": "2020-10-12T15:49:14.000Z",
+        "updatedAt": "2021-10-09T13:01:16.000Z",
+        "deletedAt": null
+      }
+    },
     "Aniwatch": {
       "2004": {
         "identifier": "2004",

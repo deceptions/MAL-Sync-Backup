@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/tv/kindaichi_r/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11367"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kindaichi_Case_Files"
+      }
+    ],
     "altTitle": [
       "Kindaichi Case Files Returns: The File of Inspector Akechi",
       "金田一少年の事件簿R 明智警部の事件簿"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/77703.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11367,
     "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T09:08:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

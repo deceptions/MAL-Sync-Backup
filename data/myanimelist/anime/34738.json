@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kbc.co.jp/scg/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12718"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%88%A6%E5%9B%BD%E9%B3%A5%E7%8D%A3%E6%88%AF%E7%94%BB"
+    }
+  ],
   "altTitle": [
     "SENGOKUCHOJYUGIGA",
     "Sengoku Wildlife Caricatures",
@@ -12,9 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/83737.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12718,
   "createdAt": "2020-10-12T15:39:51.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T15:07:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {

@@ -15,7 +15,20 @@
   "updatedAt": "2021-07-15T19:02:20.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://tenipuri.jp/h-r/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15536"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23756"
+      }
+    ],
     "altTitle": [
       "The New Prince of Tennis: Hyoutei vs. Rikkai - Game of Future",
       "新テニスの王子様 氷帝 vs 立海 Game of Future"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1382/116955.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15536,
     "createdAt": "2021-03-28T22:49:17.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:38:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

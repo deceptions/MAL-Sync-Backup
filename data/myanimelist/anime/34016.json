@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hatsukoimonster.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12390"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/First_Love_Monster"
+    }
+  ],
   "altTitle": [
     "Hatsukoi Monster OVA",
     "初恋モンスター もうちょっとだけ続くんじゃ"
@@ -11,9 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/81905.jpg",
   "category": "OVA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12390,
   "createdAt": "2021-09-13T16:34:58.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T13:33:06.000Z",
   "deletedAt": null,
   "Pages": {}
 }

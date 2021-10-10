@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.durarara.com/ova/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10523"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Durarara!!"
+      }
+    ],
     "altTitle": [
       "Durarara!! x2 Shou: My Heart Is in the Pattern of a Hot Pot",
       "Durarara!!x2 Shou OVA",
@@ -30,9 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/72248.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10523,
     "createdAt": "2020-10-12T15:39:35.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:31:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,20 @@
   "updatedAt": "2021-06-05T09:18:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.fujitv.co.jp/b_hp/150822premium/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=69"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/One_Piece"
+      }
+    ],
     "altTitle": [
       "ワンピース　エピソード オブ サボ　～３兄弟の絆　奇跡の再会と受け継がれる意志～"
     ],
@@ -23,12 +36,12 @@
     "type": "anime",
     "title": "One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi",
     "url": "https://myanimelist.net/anime/31289/One_Piece__Episode_of_Sabo_-_3_Kyoudai_no_Kizuna_Kiseki_no_Saikai_to_Uketsugareru_Ishi",
-    "image": "https://cdn.myanimelist.net/images/anime/2/75887.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1373/106587.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 69,
     "createdAt": "2020-10-12T15:39:38.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T06:35:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

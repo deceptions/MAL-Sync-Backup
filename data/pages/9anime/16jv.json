@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.hippoanimation.com/index.php?s=/Product/detail/classid/48/id/31.jsp"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9894"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Jungle_Master"
+      }
+    ],
     "altTitle": [
       "Jungle Master",
       "Shou Hu Zhe Sen Lin",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1197/93760.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 9894,
     "createdAt": "2021-01-28T14:49:02.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T06:32:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

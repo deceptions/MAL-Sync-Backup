@@ -15,7 +15,12 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13748"
+      }
+    ],
     "altTitle": [
       "Chao You Bing: Zhi Yongzhe Chuanshuo",
       "Chao Youbing",
@@ -28,9 +33,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1034/90492.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13748,
     "createdAt": "2020-10-12T15:39:48.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T13:05:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

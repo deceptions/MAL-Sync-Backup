@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.gundam-tb.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11740"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17825"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Thunderbolt"
+      }
+    ],
     "altTitle": [
       "Kidou Senshi Gundam Thunderbolt",
       "機動戦士ガンダム サンダーボルト"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/77176.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11740,
     "createdAt": "2020-10-12T15:39:41.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T08:32:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

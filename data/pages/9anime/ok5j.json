@@ -15,9 +15,23 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://v.qq.com/detail/l/lqinlobuo0osclj.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13868"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E5%A6%96%E7%A5%9E%E8%AE%B0/22354637"
+      }
+    ],
     "altTitle": [
-      "Demon Gods 2nd Season, Tales of Demons and Gods 2nd Season",
+      "Demon Gods 2nd Season",
+      "Tales of Demons and Gods 2nd Season",
       "妖神记 第2季"
     ],
     "id": 37164,
@@ -27,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1643/101532.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13868,
     "createdAt": "2020-10-12T15:39:59.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T21:02:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

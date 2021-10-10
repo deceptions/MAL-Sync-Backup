@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.orsm.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10589"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16158"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/ORESAMA"
+    }
+  ],
   "altTitle": [
     "Ookami Heart (F.O.ver.)",
     "Oresama",
@@ -13,9 +30,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1785/98204.jpg",
   "category": "Music",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 10589,
   "createdAt": "2021-08-11T08:09:23.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T17:37:15.000Z",
   "deletedAt": null,
   "Pages": {}
 }

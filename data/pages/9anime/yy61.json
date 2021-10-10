@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://bungo-stray-dogs-wan.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15602"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23753"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bungo_Stray_Dogs#Anime_series"
+      }
+    ],
     "altTitle": [
       "Bunsuto Wan!",
       "文豪ストレイドッグス わん！"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1293/111430.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15602,
     "createdAt": "2020-11-17T22:52:02.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T08:08:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

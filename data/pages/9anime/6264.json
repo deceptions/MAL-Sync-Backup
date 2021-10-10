@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://daiundoukai-restart.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15612"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23597"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Battle_Athletes"
+      }
+    ],
     "altTitle": [
       "バトルアスリーテス 大運動会ReSTART!"
     ],
@@ -26,9 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1752/113795.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15612,
     "createdAt": "2021-03-27T23:19:07.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T08:31:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://10count-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13988"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22004"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88"
+    }
+  ],
   "altTitle": [
     "10 Count",
     "テンカウント"
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1464/99977.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13988,
   "createdAt": "2020-10-12T15:40:02.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T22:08:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {

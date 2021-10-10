@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.pokemon-movie.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11842"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18227"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pokémon_the_Movie:_Volcanion_and_the_Mechanical_Marvel"
+    }
+  ],
   "altTitle": [
     "Pokemon the Movie: Volcanion and the Mechanical Marvel",
     "Pokemon the Movie XY&Z",
@@ -12,9 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/3/78818.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11842,
   "createdAt": "2020-10-12T15:39:38.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T06:33:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -86,6 +103,23 @@
         "aniId": 21651,
         "createdAt": "2020-10-12T16:01:36.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "pokemon-movie-19-volcanion-to-karakuri-no-magiana": {
+        "identifier": "pokemon-movie-19-volcanion-to-karakuri-no-magiana",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pokemon Movie 19: Volcanion to Karakuri no Magiana",
+        "url": "https://gogoanime.pe/category/pokemon-movie-19-volcanion-to-karakuri-no-magiana",
+        "image": "https://gogocdn.net/cover/pokemon-movie-19-volcanion-to-karakuri-no-magiana.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31231,
+        "aniId": 21651,
+        "createdAt": "2021-10-05T23:02:19.000Z",
+        "updatedAt": "2021-10-05T23:32:17.000Z",
         "deletedAt": null
       }
     },

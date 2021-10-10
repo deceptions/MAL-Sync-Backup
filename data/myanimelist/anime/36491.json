@@ -1,7 +1,17 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13721"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://zh.wikipedia.org/wiki/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9"
+    }
+  ],
   "altTitle": [
-    "Fights Break Sphere, Battle Through the Heavens",
+    "Fights Break Sphere",
+    "Battle Through the Heavens",
     "斗破苍穹"
   ],
   "id": 36491,
@@ -11,9 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/6/88942.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13721,
   "createdAt": "2020-10-12T15:39:57.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T19:05:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

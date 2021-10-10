@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.butlers-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13437"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20179"
+      }
+    ],
     "altTitle": [
       "Butlers x Battlers",
       "Butlers~千年百年物語~"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1633/92012.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13437,
     "createdAt": "2020-10-12T15:39:56.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T18:39:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

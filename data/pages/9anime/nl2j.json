@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13815"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Legend_of_a_Rabbit:_The_Martial_of_Fire"
+      }
+    ],
     "altTitle": [
       "Legend of a Rabbit: The Martial of Fire",
       "Tu Xia: Qing Li Chuanshuo",
@@ -25,12 +34,12 @@
     "type": "anime",
     "title": "Tu Xia Zhi Qing Li Chuanshuo",
     "url": "https://myanimelist.net/anime/32890/Tu_Xia_Zhi_Qing_Li_Chuanshuo",
-    "image": "https://cdn.myanimelist.net/images/anime/2/78866.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1131/112386.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13815,
     "createdAt": "2020-10-12T15:39:44.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T10:09:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

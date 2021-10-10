@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://hentatsu.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15348"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22439"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%B8%E3%82%93%E3%81%9F%E3%81%A4"
+      }
+    ],
     "altTitle": [
       "Oni to Neko to o-Cha to ka.",
       "へんたつ"
@@ -24,12 +41,12 @@
     "type": "anime",
     "title": "Hentatsu (TV)",
     "url": "https://myanimelist.net/anime/40995/Hentatsu_TV",
-    "image": "https://cdn.myanimelist.net/images/anime/1692/113811.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1399/112948.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15348,
     "createdAt": "2020-10-12T15:40:14.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T06:34:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

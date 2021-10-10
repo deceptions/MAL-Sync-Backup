@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.ariacompany.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15499"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aria_(manga)#Anime"
+      }
+    ],
     "altTitle": [
       "ARIA The CREPUSCOLO"
     ],
@@ -26,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1934/111002.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15499,
     "createdAt": "2020-10-12T15:40:15.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:35:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://darli-fra.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13259"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19850"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AD%E3%82%B9"
+      }
+    ],
     "altTitle": [
       "DARLING in the FRANXX",
       "ダーリン・イン・ザ・フランキス"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1614/90408.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13259,
     "createdAt": "2020-10-12T15:39:55.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T11:01:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://tenchimuyo5th.com"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15007"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22324"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tenchi_Muyo!_Ryo-Ohki"
+      }
+    ],
     "altTitle": [
       "Tenchi Muyo! Ryo-Ohki 5th Season, Tenchi Muyou! Ryououki Dai Go-ki",
       "天地無用! 魎皇鬼 第伍期"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1026/106375.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15007,
     "createdAt": "2020-10-12T15:40:11.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T04:31:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.weibo.com/u/5406119222"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16618"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88_(%E5%8A%A8%E7%94%BB)"
+      }
+    ],
     "altTitle": [
       "Grandmaster of Demonic Cultivation 3",
       "The Founder of Diabolism 3",
@@ -30,9 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1634/116782.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 16618,
     "createdAt": "2020-10-12T15:40:12.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T05:07:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

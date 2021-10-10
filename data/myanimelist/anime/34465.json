@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12574"
+    }
+  ],
   "altTitle": [
-    "Blue Exorcist: Kyoto Saga OVA, Blue Exorcist: Kyoto Impure King Arc OVA",
+    "Blue Exorcist: Kyoto Saga OVA",
+    "Blue Exorcist: Kyoto Impure King Arc OVA",
     "青の祓魔師 OVA"
   ],
   "id": 34465,
@@ -11,9 +17,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1031/96313.jpg",
   "category": "OVA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12574,
   "createdAt": "2020-10-12T15:39:50.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T14:34:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

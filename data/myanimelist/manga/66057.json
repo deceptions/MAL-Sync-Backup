@@ -38,6 +38,28 @@
         "updatedAt": "2021-06-04T04:23:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "blue_sky_complex": {
+        "authors": [
+          "ICHIKAWA Kei"
+        ],
+        "identifier": "blue_sky_complex",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Blue Sky Complex",
+        "url": "https://fanfox.net/manga/blue_sky_complex/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13981/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 66057,
+        "aniId": 85609,
+        "createdAt": "2021-10-03T22:01:43.000Z",
+        "updatedAt": "2021-10-03T22:30:52.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

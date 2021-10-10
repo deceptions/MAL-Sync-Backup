@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.san-x.co.jp/rilakkuma/rilakkuma_and_kaoru/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13528"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21600"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rilakkuma_and_Kaoru"
+      }
+    ],
     "altTitle": [
       "Rilakkuma and Kaoru",
       "リラックマとカオルさん"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1582/100702.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13528,
     "createdAt": "2020-10-12T15:39:54.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T17:37:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

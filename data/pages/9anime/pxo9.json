@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.spacebug-special.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14054"
+      }
+    ],
     "altTitle": [
       "The Journey Home",
       "スペースバグ"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1063/94832.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14054,
     "createdAt": "2020-10-12T15:40:02.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:37:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

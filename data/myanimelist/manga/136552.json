@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%AD%E3%82%BF%E2%98%85GuGu"
+    }
+  ],
   "altTitle": [
     "チキタ★GUGU"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-08T07:23:26.000Z",
-  "updatedAt": "2021-06-08T07:23:26.000Z",
+  "updatedAt": "2021-10-03T02:01:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +41,28 @@
         "aniId": 112697,
         "createdAt": "2020-10-12T16:20:56.000Z",
         "updatedAt": "2021-06-08T07:27:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-in986270": {
+        "authors": [
+          "Tono"
+        ],
+        "identifier": "manga-in986270",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Chikita Gugu",
+        "url": "https://readmanganato.com/manga-in986270",
+        "image": "https://avt.mkklcdnv6temp.com/50/b/21-1597683327.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136552,
+        "aniId": 112697,
+        "createdAt": "2021-10-03T02:01:02.000Z",
+        "updatedAt": "2021-10-03T02:30:52.000Z",
         "deletedAt": null
       }
     }

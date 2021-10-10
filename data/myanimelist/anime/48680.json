@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://teslanote.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16190"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24243"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tesla_Note#Anime"
+    }
+  ],
   "altTitle": [
     "テスラノート"
   ],
@@ -10,9 +27,48 @@
   "image": "https://cdn.myanimelist.net/images/anime/1511/116890.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16190,
   "createdAt": "2021-07-19T02:03:12.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T15:31:02.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "98wn": {
+        "identifier": "98wn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tesla Note",
+        "url": "https://9anime.to/watch/tesla-note.98wn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/cc/cc286e4cd4186dd0791a6f3f8efec1ce.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48680,
+        "aniId": 132071,
+        "createdAt": "2021-10-03T15:30:52.000Z",
+        "updatedAt": "2021-10-03T16:00:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tesla-note": {
+        "identifier": "tesla-note",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tesla Note",
+        "url": "https://gogoanime.pe/category/tesla-note",
+        "image": "https://gogocdn.net/cover/tesla-note.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48680,
+        "aniId": 132071,
+        "createdAt": "2021-10-03T15:31:23.000Z",
+        "updatedAt": "2021-10-03T16:00:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

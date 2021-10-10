@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://misakinomayoiga.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15831"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24356"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_House_of_the_Lost_on_the_Cape#Film"
+    }
+  ],
   "altTitle": [
     "岬のマヨイガ"
   ],
@@ -10,9 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1472/116571.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15831,
   "createdAt": "2021-09-23T21:45:51.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T09:36:33.000Z",
   "deletedAt": null,
   "Pages": {}
 }

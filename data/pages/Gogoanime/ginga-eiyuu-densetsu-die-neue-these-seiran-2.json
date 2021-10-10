@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.gineiden-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13473"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20145"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Legend_of_the_Galactic_Heroes"
+      }
+    ],
     "altTitle": [
       "The Legend of the Galactic Heroes: The New Thesis - Stellar War Part 2",
       "Ginga Eiyuu Densetsu: Die Neue These 2nd Season",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1215/103351.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13473,
     "createdAt": "2020-10-12T15:39:56.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T19:02:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

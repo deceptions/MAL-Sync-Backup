@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://galko.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11756"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17788"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Please_Tell_Me!_Galko-chan"
+    }
+  ],
   "altTitle": [
     "Please tell me! Galko-chan",
     "Oshiete! Gyaruko-chan",
@@ -12,9 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/3/77845.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11756,
   "createdAt": "2020-10-12T15:39:41.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T08:34:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

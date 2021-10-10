@@ -12,13 +12,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 137925,
+  "aniId": 131885,
   "createdAt": "2020-10-12T16:17:26.000Z",
-  "updatedAt": "2021-06-07T07:35:42.000Z",
+  "updatedAt": "2021-10-08T07:32:19.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.alphapolis.co.jp/manga/official/30000278"
+      }
+    ],
+    "altTitle": [
+      "The Reincarnated Young Lady Is Hungry for Commoner Food",
+      "転生令嬢は庶民の味に飢えている"
+    ],
+    "authors": [
+      "Sumiyoshi, Yukiko",
+      "Yukihara, Miyako"
+    ],
+    "id": 137925,
+    "type": "manga",
+    "title": "Tensei Reijou wa Shomin no Aji ni Ueteiru",
+    "url": "https://myanimelist.net/manga/137925/Tensei_Reijou_wa_Shomin_no_Aji_ni_Ueteiru",
+    "image": "https://cdn.myanimelist.net/images/manga/1/246935.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-07-14T13:52:13.000Z",
+    "updatedAt": "2021-10-08T06:02:29.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "転生令嬢は庶民の味に飢えている",
+      "The Reincarnated Young Lady Is Hungry for Commoner Food"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Miyako Yukihara",
+      "Yukiko Sumiyoshi"
+    ],
+    "id": 131885,
+    "malId": 137925,
+    "type": "manga",
+    "title": "Tensei Reijou wa Shomin no Aji ni Ueteiru",
+    "url": "https://anilist.co/manga/131885",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131885-zcuJ8iMtfdaG.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-26T21:59:15.000Z",
+    "updatedAt": "2021-06-20T10:50:50.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/137925/Tensei_Reijou_wa_Shomin_no_Aji_ni_Ueteiru"
 }

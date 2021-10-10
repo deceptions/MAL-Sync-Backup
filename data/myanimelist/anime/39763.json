@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://studio-durian.jp/html/w04.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14887"
+    }
+  ],
   "altTitle": [
     "Lion Hunter",
     "シシガリ"
@@ -11,9 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1695/100780.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 14887,
   "createdAt": "2021-09-29T14:08:32.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T03:36:55.000Z",
   "deletedAt": null,
   "Pages": {}
 }

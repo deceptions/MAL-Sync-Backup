@@ -18,7 +18,16 @@
   "updatedAt": "2021-05-20T15:37:48.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://comic.naver.com/webtoon/list.nhn?titleId=651673"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%AF%B8%EC%9D%98_%EC%84%B8%ED%8F%AC%EB%93%A4"
+      }
+    ],
     "altTitle": [
       "Yumi's Cells",
       "유미의 세포들"
@@ -30,11 +39,11 @@
     "type": "manga",
     "title": "Yumi's Cells",
     "url": "https://myanimelist.net/manga/113095/Yumis_Cells",
-    "image": "https://cdn.myanimelist.net/images/manga/1/207447.jpg",
+    "image": "https://cdn.myanimelist.net/images/manga/1/250618.jpg",
     "category": "Manhwa",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:31.000Z",
-    "updatedAt": "2021-07-11T04:13:22.000Z",
+    "updatedAt": "2021-10-03T19:01:32.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -44,7 +53,7 @@
     ],
     "externalLinks": [],
     "authors": [
-      "Dong-gun Lee"
+      "Dong-Gun Lee"
     ],
     "id": 86933,
     "malId": 113095,
@@ -55,7 +64,7 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:57:00.000Z",
-    "updatedAt": "2021-06-17T22:36:45.000Z",
+    "updatedAt": "2021-10-03T04:30:53.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/113095/Yumis_Cells"

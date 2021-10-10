@@ -15,7 +15,16 @@
   "updatedAt": "2021-09-11T05:34:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3408"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/灼眼のシャナ_(アニメ)"
+      }
+    ],
     "altTitle": [
       "Why? What? Shana!",
       "フリアグネ&マリアンヌのなぜなにシャナ! なんでも質問箱! SP"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/69083.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 3408,
     "createdAt": "2021-04-17T02:15:11.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T02:32:54.000Z",
     "deletedAt": null
   },
   "Anilist": null,

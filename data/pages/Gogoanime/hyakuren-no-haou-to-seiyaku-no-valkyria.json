@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://hyakuren-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13896"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20735"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Master_of_Ragnarok_&_Blesser_of_Einherjar"
+      }
+    ],
     "altTitle": [
       "The Master of Ragnarok & Blesser of Einherjar",
       "Hyakuren no Haou to Seiyaku no Ikusa Otome",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1585/95225.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13896,
     "createdAt": "2020-10-12T15:40:01.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T21:38:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,10 +15,21 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://store.kadokawa.co.jp/preorder/888800000050/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11121"
+      }
+    ],
     "altTitle": [
       "Triage X: Recollection XOXO",
-      "Triage X Episode 11, Triage X OAD, Triage X OVA",
+      "Triage X Episode 11",
+      "Triage X OAD",
+      "Triage X OVA",
       "トリアージX 「RECOLLECTION XOXO」"
     ],
     "id": 30250,
@@ -28,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1550/103213.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11121,
     "createdAt": "2020-10-12T15:39:35.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:34:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

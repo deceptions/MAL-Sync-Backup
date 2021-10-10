@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://frankenstein-family.animen.com.tw/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12739"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20199"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%AE%9F%E9%A8%93%E5%93%81%E5%AE%B6%E6%97%8F_-%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%87%E3%82%A4%E3%82%BA-"
+      }
+    ],
     "altTitle": [
       "Frankenstein Family",
       "Jikken-hin Kazoku: Creatures Family Days",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/88806.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12739,
     "createdAt": "2020-10-12T15:39:56.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T19:02:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

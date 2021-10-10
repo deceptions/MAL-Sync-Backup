@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://gakubaby-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13023"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19400"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%AD%A6%E5%9C%92%E3%83%99%E3%83%93%E3%83%BC%E3%82%B7%E3%83%83%E3%82%BF%E3%83%BC%E3%82%BA"
+      }
+    ],
     "altTitle": [
       "School Babysitters",
       "学園ベビーシッターズ"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/89978.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13023,
     "createdAt": "2020-10-12T15:39:53.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:09:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

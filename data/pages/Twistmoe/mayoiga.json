@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.mayoiga.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11863"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18052"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Lost_Village_(anime)"
+      }
+    ],
     "altTitle": [
       "The Lost Village",
       "迷家-マヨイガ-"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/79413.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11863,
     "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T09:10:57.000Z",
     "deletedAt": null
   },
   "Anilist": {

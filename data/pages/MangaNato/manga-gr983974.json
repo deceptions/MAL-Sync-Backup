@@ -12,14 +12,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 121335,
   "aniId": 124374,
   "createdAt": "2021-06-02T05:01:51.000Z",
-  "updatedAt": "2021-06-15T07:27:33.000Z",
+  "updatedAt": "2021-10-03T06:00:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/yg/introduction/souda/"
+      }
+    ],
     "altTitle": [
       "The Genius Prince's Guide to Raising a Nation Out of Debt (Hey, How About Treason?)",
       "そうだ、売国しよう〜天才王子の赤字国家再生術〜"
@@ -36,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:48:06.000Z",
-    "updatedAt": "2021-06-15T02:29:21.000Z",
+    "updatedAt": "2021-10-03T06:01:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

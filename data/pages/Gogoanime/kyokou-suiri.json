@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://kyokousuiri.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14602"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22256"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/In/Spectre#Anime"
+      }
+    ],
     "altTitle": [
       "In/Spectre",
       "虚構推理"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1310/117188.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14602,
     "createdAt": "2020-10-12T15:40:08.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T02:06:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

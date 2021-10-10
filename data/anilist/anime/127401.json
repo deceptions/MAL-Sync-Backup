@@ -3,7 +3,20 @@
     "Platinum End",
     "プラチナエンド"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/platinum-end/"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://crunchyroll.com/series/G8DHV722J"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G8DHV722J/Platinum-End"
+    }
+  ],
   "id": 127401,
   "malId": 44961,
   "type": "anime",
@@ -13,7 +26,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:46:15.000Z",
-  "updatedAt": "2021-07-25T05:21:34.000Z",
+  "updatedAt": "2021-10-07T20:02:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {
@@ -32,6 +45,44 @@
         "aniId": 127401,
         "createdAt": "2021-02-03T15:40:39.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "platinum-end": {
+        "identifier": "platinum-end",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Platinum End",
+        "url": "https://gogoanime.pe/category/platinum-end",
+        "image": "https://gogocdn.net/cover/platinum-end.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44961,
+        "aniId": 127401,
+        "createdAt": "2021-10-07T20:32:50.000Z",
+        "updatedAt": "2021-10-07T21:02:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "lzqz": {
+        "identifier": "lzqz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Platinum End",
+        "url": "https://9anime.to/watch/platinum-end.lzqz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/fe/fefd515631a51a64f092dcf4330669b3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44961,
+        "aniId": 127401,
+        "createdAt": "2021-10-08T00:02:19.000Z",
+        "updatedAt": "2021-10-08T00:32:19.000Z",
         "deletedAt": null
       }
     }

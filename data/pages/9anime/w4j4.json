@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://yowapeda.com/regeneration/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13275"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20189"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%BC%B1%E8%99%AB%E3%83%9A%E3%83%80%E3%83%AB"
+      }
+    ],
     "altTitle": [
       "Yowamushi Pedal Summary",
       "弱虫ペダル Re:GENERATION"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1926/90708.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13275,
     "createdAt": "2020-10-12T15:39:55.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T18:01:12.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://v.qq.com/detail/d/dl1er4929x4jr2d.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13171"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%85%A8%E8%81%B7%E6%B3%95%E5%B8%AB"
+      }
+    ],
     "altTitle": [
       "QUANZHIFASHI",
       "Quan Zhi Fa Shi",
@@ -29,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/83819.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13171,
     "createdAt": "2020-10-12T15:39:49.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T14:03:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

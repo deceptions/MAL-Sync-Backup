@@ -59,6 +59,28 @@
         "updatedAt": "2021-06-05T20:21:35.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "good_luck": {
+        "authors": [
+          "KANG E-Jin"
+        ],
+        "identifier": "good_luck",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Good Luck",
+        "url": "https://fanfox.net/manga/good_luck/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/683/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 330,
+        "aniId": 30330,
+        "createdAt": "2021-10-07T04:02:54.000Z",
+        "updatedAt": "2021-10-07T04:32:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

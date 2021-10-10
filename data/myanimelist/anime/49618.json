@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://ragnarok-official.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16540"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Record_of_Ragnarok#Anime"
+    }
+  ],
   "altTitle": [
     "Record of Ragnarok 2nd Season",
     "Shuumatsu no Valkyrie",
@@ -13,9 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1654/117247.jpg",
   "category": "Unknown",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16540,
   "createdAt": "2021-08-29T16:37:47.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T12:33:13.000Z",
   "deletedAt": null,
   "Pages": {}
 }

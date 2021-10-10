@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kabaneri.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12654"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21512"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kabaneri_of_the_Iron_Fortress"
+      }
+    ],
     "altTitle": [
       "Kabaneri of the Iron Fortress: The Battle of Unato",
       "甲鉄城のカバネリ～海門決戦～"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1749/99713.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12654,
     "createdAt": "2020-10-12T15:39:50.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T14:39:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

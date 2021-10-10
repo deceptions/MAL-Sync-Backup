@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://bgm.tv/subject/312254"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16645"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://movie.douban.com/subject/35346286/"
+    }
+  ],
   "altTitle": [
     "Neko Album",
     "Cat Album",
@@ -13,9 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1277/116010.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16645,
   "createdAt": "2021-09-25T01:45:31.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T12:05:45.000Z",
   "deletedAt": null,
   "Pages": {}
 }

@@ -42,6 +42,28 @@
         "updatedAt": "2021-06-04T18:00:18.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mugen_spiral": {
+        "authors": [
+          "KUSANAGI Mizuho"
+        ],
+        "identifier": "mugen_spiral",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mugen Spiral",
+        "url": "https://fanfox.net/manga/mugen_spiral/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5346/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 459,
+        "aniId": 30459,
+        "createdAt": "2021-10-07T04:03:36.000Z",
+        "updatedAt": "2021-10-07T04:32:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

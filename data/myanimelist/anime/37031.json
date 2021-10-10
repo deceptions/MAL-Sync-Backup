@@ -1,7 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mahoyome.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12942"
+    }
+  ],
   "altTitle": [
-    "Mahoutsukai no Yome Special Digest, The Magician's Bride Episode 12.5, Mahoutsukai no Yome Episode 12.5",
+    "Mahoutsukai no Yome Special Digest",
+    "The Magician's Bride Episode 12.5",
+    "Mahoutsukai no Yome Episode 12.5",
     "魔法使いの嫁 スペシャルダイジェスト"
   ],
   "id": 37031,
@@ -11,9 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/89797.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12942,
   "createdAt": "2020-10-12T15:39:59.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T20:35:44.000Z",
   "deletedAt": null,
   "Pages": {}
 }

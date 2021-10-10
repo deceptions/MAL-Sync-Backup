@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.xuanyuansword.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14237"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21250"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E8%BB%92%E8%BD%85%E5%89%A3_%E8%92%BC%E3%81%8D%E6%9B%9C"
+      }
+    ],
     "altTitle": [
       "Xuan Yuan Sword Luminary",
       "Xuan-Yuan Sword: Lights of the Bleak",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1339/95573.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14237,
     "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T23:39:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

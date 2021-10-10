@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.heybot.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12199"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18695"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%9C%E3%83%83%E3%83%88!"
+      }
+    ],
     "altTitle": [
       "HEYBOT!",
       "ヘボット!"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/82258.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12199,
     "createdAt": "2020-10-12T15:39:46.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T12:03:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

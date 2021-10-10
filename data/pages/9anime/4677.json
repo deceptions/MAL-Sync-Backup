@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.garo-usuzumizakura.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13608"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20800"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%89%99%E7%8B%BC_-%E7%B4%85%E8%93%AE%E3%83%8E%E6%9C%88-"
+      }
+    ],
     "altTitle": [
       "薄墨桜 -GARO-"
     ],
@@ -26,9 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1428/93934.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13608,
     "createdAt": "2020-10-12T15:39:58.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T20:06:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

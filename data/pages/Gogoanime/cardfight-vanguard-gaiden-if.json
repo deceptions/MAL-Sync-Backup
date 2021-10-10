@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://anime.cf-vanguard.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15480"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23028"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cardfight!!_Vanguard#Anime"
+      }
+    ],
     "altTitle": [
       "Cardfight!! Vanguard Extra Story",
       "カードファイト!! ヴァンガード外伝 イフ-if-"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1059/111639.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15480,
     "createdAt": "2020-10-12T15:40:15.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:03:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

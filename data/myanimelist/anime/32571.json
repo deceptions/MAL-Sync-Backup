@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11887"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18046"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%B0%91%E5%B9%B4%E3%82%A2%E3%82%B7%E3%83%99"
+    }
+  ],
   "altTitle": [
     "Young Ashibe: Go! Go! Goma-chan",
     "少年アシベ GO！GO！ゴマちゃん"
@@ -11,9 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/79805.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11887,
   "createdAt": "2020-10-12T15:39:43.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T09:35:32.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

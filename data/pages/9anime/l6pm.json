@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://peacemakerk.jp"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12081"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%92%B0%E7%B5%84%E7%95%B0%E8%81%9EPEACE_MAKER"
+      }
+    ],
     "altTitle": [
       "PEACE MAKER KUROGANE – Belief & Friend",
       "PEACE MAKER 鐵 前編～想道〈オモウミチ〉～"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1379/91338.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12081,
     "createdAt": "2020-10-12T15:39:45.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T11:08:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

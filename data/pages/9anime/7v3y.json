@@ -15,9 +15,19 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.youtube.com/watch?v=7-dSS4Cq_yA"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14456"
+      }
+    ],
     "altTitle": [
-      "Kimi no Matsu Mirai e, Kimi no Matsu Basho e",
+      "Kimi no Matsu Mirai e",
+      "Kimi no Matsu Basho e",
       "きみの待つ未来（ばしょ）へ"
     ],
     "id": 38678,
@@ -27,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1616/96200.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14456,
     "createdAt": "2020-10-12T15:40:06.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T01:07:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

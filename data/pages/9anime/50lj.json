@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kbs.co.kr/2tv/enter/mecardw2"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13822"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%ED%84%B0%EB%8B%9D%EB%A9%94%EC%B9%B4%EB%93%9C_W"
+      }
+    ],
     "altTitle": [
       "Turning Mecard W Season 2",
       "Turning Mecard Wing Season 2",
@@ -29,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/85661.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13822,
     "createdAt": "2021-05-03T18:33:09.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T17:06:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

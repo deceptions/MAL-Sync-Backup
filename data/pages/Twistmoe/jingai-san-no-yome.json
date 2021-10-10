@@ -15,8 +15,26 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://jingaisan.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14174"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21130"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Jingai-san_no_Yome"
+      }
+    ],
     "altTitle": [
+      "Jingai-san no Yome",
       "人外さんの嫁"
     ],
     "id": 37992,
@@ -26,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1050/108631.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14174,
     "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T23:33:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

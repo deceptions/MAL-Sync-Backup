@@ -15,7 +15,16 @@
   "updatedAt": "2019-10-12T16:02:23.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.studiodadashow.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12481"
+      }
+    ],
     "altTitle": [
       "Kai: The Legend of Mirror Lake",
       "카이: 거울 호수의 전설"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/82430.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12481,
     "createdAt": "2020-10-12T15:39:49.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T14:01:02.000Z",
     "deletedAt": null
   },
   "Anilist": null,

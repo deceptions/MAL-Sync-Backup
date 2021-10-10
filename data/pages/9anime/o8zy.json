@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.7-sins.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12324"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18689"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Seven_Mortal_Sins"
+      }
+    ],
     "altTitle": [
       "Seven Mortal Sins",
       "sin 七つの大罪"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/86621.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12324,
     "createdAt": "2020-10-12T15:39:48.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T13:03:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://kyokousuiri.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15876"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/In/Spectre#Anime"
+      }
+    ],
     "altTitle": [
       "In/Spectre 2nd Season",
       "虚構推理"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1326/110387.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15876,
     "createdAt": "2020-11-27T09:01:18.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T10:04:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

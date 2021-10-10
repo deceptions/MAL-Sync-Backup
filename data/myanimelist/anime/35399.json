@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://animation.filmarchives.jp/works/view/66519"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12870"
+    }
+  ],
   "altTitle": [
     "Rascal Racoon",
     "紙芝居 いたづら狸の卷"
@@ -11,9 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/85261.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12870,
   "createdAt": "2021-07-27T03:53:02.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T17:01:04.000Z",
   "deletedAt": null,
   "Pages": {}
 }

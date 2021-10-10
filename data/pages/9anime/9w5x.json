@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14215"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21865"
+      }
+    ],
     "altTitle": [
       "Pokémon: Mewtwo Strikes Back—Evolution",
       "Gekijouban Pocket Monsters: Mewtwo no Gyakushuu Evolution",
@@ -28,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1207/99489.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14215,
     "createdAt": "2020-10-12T15:40:03.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T23:08:48.000Z",
     "deletedAt": null
   },
   "Anilist": {

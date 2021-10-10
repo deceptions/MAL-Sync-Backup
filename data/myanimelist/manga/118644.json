@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://afternoon.moae.jp/lineup/1004"
+    }
+  ],
   "altTitle": [
     "warm and somewhat sleepy light",
     "やさしいヒカリ"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:53.000Z",
-  "updatedAt": "2021-09-06T22:04:45.000Z",
+  "updatedAt": "2021-10-08T22:03:12.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 102258,
         "createdAt": "2021-09-06T22:04:43.000Z",
         "updatedAt": "2021-09-06T22:34:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fz983282": {
+        "authors": [
+          "Hinata Nakamura"
+        ],
+        "identifier": "manga-fz983282",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Warm And Somewhat Sleepy Light",
+        "url": "https://manganato.com/manga-fz983282",
+        "image": "https://avt.mkklcdnv6temp.com/32/q/19-1583500375.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118644,
+        "aniId": 102258,
+        "createdAt": "2021-10-08T22:02:29.000Z",
+        "updatedAt": "2021-10-08T22:32:19.000Z",
         "deletedAt": null
       }
     }

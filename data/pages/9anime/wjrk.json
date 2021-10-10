@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-08T17:17:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.ncctv.co.jp/minamishimabara/anime.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15570"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23300"
+      }
+    ],
     "altTitle": [
       "Shiro, the Giant, and the Castle of Ice",
       "The Giant Gods and the Ice Flower Castle",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1297/111211.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15570,
     "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T08:04:04.000Z",
     "deletedAt": null
   },
   "Anilist": null,

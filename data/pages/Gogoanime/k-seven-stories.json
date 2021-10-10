@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://k-project.jpn.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12107"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20818"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/K_%28anime%29"
+      }
+    ],
     "altTitle": [
       "K: SEVEN STORIES \"R:B - BLAZE -\"",
       "K-Project 7 Stories",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1446/90544.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12107,
     "createdAt": "2020-10-12T15:39:45.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T11:33:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10482"
+    }
+  ],
   "altTitle": [
     "劇場版アイカツ！ 大スター宮いちごまつり前夜祭!!"
   ],
@@ -10,9 +15,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/69345.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 10482,
   "createdAt": "2021-09-19T01:40:47.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T02:37:14.000Z",
   "deletedAt": null,
   "Pages": {}
 }

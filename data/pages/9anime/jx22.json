@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://heroaca.com/originalanimationep/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15672"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23572"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/My_Hero_Academia#Anime_series"
+      }
+    ],
     "altTitle": [
       "My Hero Academia: Make It! Do-or-Die Survival Training",
       "僕のヒーローアカデミア 生き残れ！決死のサバイバル訓練"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1345/108741.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15672,
     "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T08:38:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

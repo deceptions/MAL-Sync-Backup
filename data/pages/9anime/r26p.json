@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://ssorphen-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15482"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23574"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sorcerous_Stabber_Orphen#Anime"
+      }
+    ],
     "altTitle": [
       "Sorcerous Stabber Orphen: Battle of Kimluck",
       "Majutsushi Orphen Hagure Tabi 2nd Season",
@@ -27,12 +44,12 @@
     "type": "anime",
     "title": "Majutsushi Orphen Hagure Tabi: Kimluck-hen",
     "url": "https://myanimelist.net/anime/41573/Majutsushi_Orphen_Hagure_Tabi__Kimluck-hen",
-    "image": "https://cdn.myanimelist.net/images/anime/1556/110736.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1579/113945.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15482,
     "createdAt": "2020-10-12T15:40:15.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:33:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

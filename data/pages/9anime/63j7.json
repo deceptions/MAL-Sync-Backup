@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.bakuon-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11720"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%B0%E3%81%8F%E3%81%8A%E3%82%93!!"
+      }
+    ],
     "altTitle": [
       "ばくおん！！OAD"
     ],
@@ -26,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/79867.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11720,
     "createdAt": "2020-10-12T15:39:41.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T08:08:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

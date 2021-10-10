@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://idoljihen.jp/anime/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12400"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18859"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E4%BA%8B%E5%A4%89"
+      }
+    ],
     "altTitle": [
       "Idol Incidents",
       "アイドル事変"
@@ -24,12 +41,12 @@
     "type": "anime",
     "title": "Idol Jihen",
     "url": "https://myanimelist.net/anime/34028/Idol_Jihen",
-    "image": "https://cdn.myanimelist.net/images/anime/7/83624.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1137/117403.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12400,
     "createdAt": "2020-10-12T15:39:48.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T13:33:38.000Z",
     "deletedAt": null
   },
   "Anilist": {

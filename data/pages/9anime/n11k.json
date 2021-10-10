@@ -15,21 +15,38 @@
   "updatedAt": "2021-07-14T22:50:49.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.pokemon-movie.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14993"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23540"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_the_Movie:_Secrets_of_the_Jungle"
+      }
+    ],
     "altTitle": [
       "Pokémon the Movie: Secrets of the Jungle",
       "劇場版ポケットモンスター ココ"
     ],
     "id": 40881,
     "type": "anime",
-    "title": "Pokemon Movie 23: Coco",
-    "url": "https://myanimelist.net/anime/40881/Pokemon_Movie_23__Coco",
+    "title": "Pokemon Movie 23: Koko",
+    "url": "https://myanimelist.net/anime/40881/Pokemon_Movie_23__Koko",
     "image": "https://cdn.myanimelist.net/images/anime/1029/106237.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14993,
     "createdAt": "2020-10-12T15:40:13.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T06:08:03.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -55,5 +72,5 @@
     "updatedAt": "2021-09-21T12:10:42.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/anime/40881/Pokemon_Movie_23__Coco"
+  "malUrl": "https://myanimelist.net/anime/40881/Pokemon_Movie_23__Koko"
 }

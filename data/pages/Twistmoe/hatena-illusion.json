@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://hatenaillusion-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13037"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22390"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%A6%E3%81%AA%E2%98%86%E3%82%A4%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3!"
+      }
+    ],
     "altTitle": [
       "Hatena Illusion",
       "はてな☆イリュージョン"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1299/106117.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13037,
     "createdAt": "2020-10-12T15:39:53.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:33:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

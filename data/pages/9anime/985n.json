@@ -15,8 +15,26 @@
   "updatedAt": "2021-06-14T15:27:33.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://idolish7.com/aninana/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15955"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24195"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Idolish7#Anime"
+      }
+    ],
     "altTitle": [
+      "IDOLISH7 Third BEAT!",
       "IDOLiSH7 3rd Season",
       "Idolish Seven 3rd Season",
       "アイドリッシュセブン Third BEAT!"
@@ -28,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1646/115723.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15955,
     "createdAt": "2020-12-30T07:55:18.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T10:34:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

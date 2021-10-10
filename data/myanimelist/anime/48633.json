@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16182"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Liar_Liar_(novel_series)"
+    }
+  ],
   "altTitle": [
     "ライアー・ライアー"
   ],
@@ -10,9 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1853/113916.jpg",
   "category": "Unknown",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16182,
   "createdAt": "2021-07-23T07:33:50.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T11:33:44.000Z",
   "deletedAt": null,
   "Pages": {}
 }

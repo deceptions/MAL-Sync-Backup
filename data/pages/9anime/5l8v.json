@@ -15,7 +15,20 @@
   "updatedAt": "2020-12-09T13:47:48.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.fantawild.com/en/view.html?url=szdm"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12533"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Boonie_Bears"
+      }
+    ],
     "altTitle": [
       "Boonie Bears or Bust",
       "熊出没之环球大冒险"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/78681.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12533,
     "createdAt": "2020-11-05T16:58:37.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T10:04:13.000Z",
     "deletedAt": null
   },
   "Anilist": null,

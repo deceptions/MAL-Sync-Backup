@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://weibo.com/u/5813896309"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13627"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E5%A2%93%E7%8E%8B%E4%B9%8B%E7%8E%8B/18859452"
+      }
+    ],
     "altTitle": [
       "Great King of the Grave: Secrets of the Qilin",
       "墓王之王 麒麟决"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1483/91896.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13627,
     "createdAt": "2020-10-12T15:40:02.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:34:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

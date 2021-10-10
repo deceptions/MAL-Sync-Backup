@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://shieldhero-anime.jp/1st/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13246"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19826"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_Rising_of_the_Shield_Hero"
+      }
+    ],
     "altTitle": [
       "The Rising of the Shield Hero",
       "盾の勇者の成り上がり"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13246,
     "createdAt": "2020-10-12T15:39:54.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T17:37:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

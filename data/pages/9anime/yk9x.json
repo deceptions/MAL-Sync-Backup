@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.yamanosusume.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10293"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Encouragement_of_Climb"
+      }
+    ],
     "altTitle": [
-      "Yama no Susume 2nd Season Episode 6.5 and Episode 25, Encouragement of Climb 2nd Season, Yama no Susume 2nd Season Specials",
+      "Yama no Susume 2nd Season Episode 6.5 and Episode 25",
+      "Encouragement of Climb 2nd Season",
+      "Yama no Susume 2nd Season Specials",
       "ヤマノススメ セカンドシーズン"
     ],
     "id": 27887,
@@ -27,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/67577.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10293,
     "createdAt": "2020-10-12T15:39:31.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T01:37:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

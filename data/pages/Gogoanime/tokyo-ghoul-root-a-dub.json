@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.marv.jp/special/tokyoghoul/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10875"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16318"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Tokyo_Ghoul"
+      }
+    ],
     "altTitle": [
       "Tokyo Ghoul √A",
       "Tokyo Ghoul Root A",
@@ -30,9 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/71777.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10875,
     "createdAt": "2020-10-12T15:39:31.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T01:37:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

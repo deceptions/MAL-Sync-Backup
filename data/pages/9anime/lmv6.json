@@ -15,9 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.signal-md.co.jp/works/hitorigurashinoshogakusei/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13025"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23223"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%A8%E3%82%8A%E6%9A%AE%E3%82%89%E3%81%97%E3%81%AE%E5%B0%8F%E5%AD%A6%E7%94%9F"
+      }
+    ],
     "altTitle": [
-      "Hitori Kurashi no Shougakusei, Grade Schooler Living Alone",
+      "Hitori Kurashi no Shougakusei",
+      "Grade Schooler Living Alone",
       "ひとり暮らしの小学生"
     ],
     "id": 35235,
@@ -27,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/87427.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13025,
     "createdAt": "2020-10-12T15:39:53.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:31:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

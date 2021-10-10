@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://maousama.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16104"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Devil_Is_a_Part-Timer!#Anime"
+    }
+  ],
   "altTitle": [
     "The Devil is a Part-Timer! 2nd Season",
     "はたらく魔王さま！"
@@ -11,9 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1237/113307.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16104,
   "createdAt": "2021-03-07T18:33:58.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T11:05:55.000Z",
   "deletedAt": null,
   "Pages": {}
 }

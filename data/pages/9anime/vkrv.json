@@ -15,7 +15,24 @@
   "updatedAt": "2021-07-27T02:21:35.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://higehiro-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15332"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23528"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hige_o_Soru._Soshite_Joshi_K%C5%8Dsei_o_Hirou.#Anime"
+      }
+    ],
     "altTitle": [
       "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway.",
       "I Shaved. Then I Brought a High School Girl Home.",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1146/113477.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15332,
     "createdAt": "2020-10-12T15:40:14.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T06:31:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

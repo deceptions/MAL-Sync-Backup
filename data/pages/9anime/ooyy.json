@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11894"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://zh.wikipedia.org/wiki/%E7%88%B1%E7%A5%9E%E5%B7%A7%E5%85%8B%E5%8A%9B"
+      }
+    ],
     "altTitle": [
       "Cupid's Chocolates",
       "Aishen Qiaokeli Jinxingshi",
@@ -28,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/78011.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11894,
     "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T09:06:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

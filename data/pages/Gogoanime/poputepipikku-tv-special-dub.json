@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-29T18:42:12.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://hoshiiro.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13977"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pop_Team_Epic"
+      }
+    ],
     "altTitle": [
       "Pop Team Epic (2019)",
       "ポプテピピック　ＴＶスペシャル"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1091/100387.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13977,
     "createdAt": "2020-10-12T15:40:02.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:07:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

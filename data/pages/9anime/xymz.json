@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime.monster-strike.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12703"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Monster_Strike"
+      }
+    ],
     "altTitle": [
       "An Encore and Continuance: Pandora's Box",
       "モンスターストライク 続・最終話「パンドラの箱」"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/84742.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12703,
     "createdAt": "2020-10-12T15:39:51.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T15:04:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

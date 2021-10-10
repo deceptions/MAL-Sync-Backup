@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://osomatsusan.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12944"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19741"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Osomatsu-san"
+      }
+    ],
     "altTitle": [
       "Mr. Osomatsu 2",
       "おそ松さん 第2期"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/88328.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12944,
     "createdAt": "2020-10-12T15:39:52.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:03:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

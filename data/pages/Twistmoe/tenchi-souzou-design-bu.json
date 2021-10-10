@@ -15,22 +15,41 @@
   "updatedAt": "2021-05-20T15:21:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://tendebu.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15513"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23475"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Heaven's_Design_Team"
+      }
+    ],
     "altTitle": [
       "Heaven's Design Team",
-      "Tenchisozo Design Bu, [Ten-De-Bu] What a strange animal!, Tendebu",
+      "Tenchisozo Design Bu",
+      "[Ten-De-Bu] What a strange animal!",
+      "Tendebu",
       "天地創造デザイン部"
     ],
     "id": 41762,
     "type": "anime",
     "title": "Tenchi Souzou Design-bu",
     "url": "https://myanimelist.net/anime/41762/Tenchi_Souzou_Design-bu",
-    "image": "https://cdn.myanimelist.net/images/anime/1816/109865.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1339/113938.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15513,
     "createdAt": "2020-12-31T11:36:08.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:36:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

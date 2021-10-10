@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kinokomusume.com"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12714"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21582"
+      }
+    ],
     "altTitle": [
       "Forest Fairy Five",
       "Mori no Yousei: Kinoko no Musume",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/83713.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12714,
     "createdAt": "2020-10-12T15:39:49.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T13:39:39.000Z",
     "deletedAt": null
   },
   "Anilist": {

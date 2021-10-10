@@ -15,21 +15,39 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.yorunokuni.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16246"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24298"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Night_World_(web_series)"
+      }
+    ],
     "altTitle": [
-      "Night World, Night Country",
+      "Night World",
+      "Night Country",
       "夜の国"
     ],
     "id": 48727,
     "type": "anime",
     "title": "Yoru no Kuni",
     "url": "https://myanimelist.net/anime/48727/Yoru_no_Kuni",
-    "image": "https://cdn.myanimelist.net/images/anime/1055/114424.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1674/114425.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 16246,
     "createdAt": "2021-04-17T01:44:18.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T11:35:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

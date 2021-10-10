@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.meikoi-cinema.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10240"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%8E%E6%B2%BB%E6%9D%B1%E4%BA%B0%E6%81%8B%E4%BC%BD"
+    }
+  ],
   "altTitle": [
     "劇場版 明治東亰恋伽 〜花鏡の幻想曲〜"
   ],
@@ -10,9 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/79862.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 10240,
   "createdAt": "2021-08-04T15:48:42.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T11:04:14.000Z",
   "deletedAt": null,
   "Pages": {}
 }

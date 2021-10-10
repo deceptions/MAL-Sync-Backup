@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.u17.com/z/zt/dienow"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13009"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://zh.wikipedia.org/wiki/%E7%AB%AF%E8%84%91_(%E6%BC%AB%E7%94%BB)"
+    }
+  ],
   "altTitle": [
     "Die Now 2",
     "Cerebrum 2",
@@ -12,9 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/84840.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13009,
   "createdAt": "2021-06-26T18:50:33.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T16:08:54.000Z",
   "deletedAt": null,
   "Pages": {}
 }

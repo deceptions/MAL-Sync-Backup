@@ -15,9 +15,23 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/gintama/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11850"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E9%8A%80%E9%AD%82_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
+      }
+    ],
     "altTitle": [
-      "Gintama° OVA, Gintama: Love Incense Arc",
+      "Gintama° OVA",
+      "Gintama: Love Incense Arc",
       "銀魂　愛染香篇"
     ],
     "id": 32366,
@@ -27,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/79704.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11850,
     "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T09:08:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.miss-ueno.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14094"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21248"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%87%8E%E3%81%95%E3%82%93%E3%81%AF%E4%B8%8D%E5%99%A8%E7%94%A8"
+      }
+    ],
     "altTitle": [
       "How clumsy you are, Miss Ueno.",
       "上野さんは不器用"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1874/111374.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14094,
     "createdAt": "2020-10-12T15:40:03.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T23:05:28.000Z",
     "deletedAt": null
   },
   "Anilist": {

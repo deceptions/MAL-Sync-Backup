@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://koroq-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12244"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Assassination_Classroom"
+      }
+    ],
     "altTitle": [
       "Ansatsu Kyoushitsu: Koro-sensei Quest",
       "Assassination Classroom: Koro-sensei Q!",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/80626.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12244,
     "createdAt": "2020-10-12T15:39:46.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T12:06:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

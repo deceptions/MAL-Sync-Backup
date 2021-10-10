@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15918"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Isekai_Meiky%C5%AB_de_Harem_o"
+    }
+  ],
   "altTitle": [
     "A Harem in a Fantasy World Labyrinth",
     "異世界迷宮でハーレムを"
@@ -11,9 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1707/110692.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15918,
   "createdAt": "2020-12-12T23:17:51.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T10:07:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {

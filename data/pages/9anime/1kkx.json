@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lupin-3rd.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14501"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22121"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%91%E3%83%B3%E4%B8%89%E4%B8%96_%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%E3%83%BB%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC"
+      }
+    ],
     "altTitle": [
       "Lupin Sansei (2019)",
       "ルパン三世 グッバイ・パートナー"
@@ -27,17 +44,16 @@
     "image": "https://cdn.myanimelist.net/images/anime/1013/98152.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14501,
     "createdAt": "2020-10-12T15:40:06.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T01:31:24.000Z",
     "deletedAt": null
   },
   "Anilist": {
     "altTitle": [
       "Lupin the 3rd: Goodbye Partner",
       "ルパン三世 グッバイ・パートナー",
-      "Lupin Sansei: Goodbye Partner",
-      "Lupin III: Goodbye Partner"
+      "Lupin Sansei: Goodbye Partner"
     ],
     "externalLinks": [],
     "id": 105655,
@@ -49,7 +65,7 @@
     "category": "special",
     "hentai": false,
     "createdAt": "2021-05-20T14:44:52.000Z",
-    "updatedAt": "2021-09-01T11:45:45.000Z",
+    "updatedAt": "2021-10-03T12:30:52.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/anime/38720/Lupin_III__Goodbye_Partner"

@@ -15,7 +15,20 @@
   "updatedAt": "2020-10-12T18:48:17.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.saenai.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11221"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Saekano:_How_to_Raise_a_Boring_Girlfriend"
+      }
+    ],
     "altTitle": [
       "Saekano: How to Raise a Boring Girlfriend .flat - Fan Service of Love and Pure heart",
       "Saenai Heroine no Sodatekata ♭ Special",
@@ -29,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/85115.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11221,
     "createdAt": "2020-10-12T15:39:53.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:37:45.000Z",
     "deletedAt": null
   },
   "Anilist": null,

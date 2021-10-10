@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://one-piece.com/news/detail/20180519_7229.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=69"
+      }
+    ],
     "altTitle": [
       "One Piece: Episode of Skypiea",
       "ONE PIECE エピソードオブ空島"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1533/92968.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 69,
     "createdAt": "2020-10-12T15:40:03.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T23:04:38.000Z",
     "deletedAt": null
   },
   "Anilist": {

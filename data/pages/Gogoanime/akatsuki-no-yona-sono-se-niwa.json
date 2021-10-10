@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.hanayume.com/hanayume/yona/19/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11143"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23375"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Akatsuki_no_Yona"
+      }
+    ],
     "altTitle": [
       "Yona: The girl standing in the blush of dawn",
       "Akatsuki no Yona: Sono Se ni wa",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/75974.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11143,
     "createdAt": "2020-10-12T15:39:35.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:39:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

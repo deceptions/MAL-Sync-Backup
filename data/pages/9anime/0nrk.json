@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.black-bullet.net/contents/bd_dvd/04.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10181"
+      }
+    ],
     "altTitle": [
       "Tenchu Girls CM",
       "Black Bullet Special",
@@ -28,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/72108.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10181,
     "createdAt": "2020-12-23T09:56:06.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:09:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

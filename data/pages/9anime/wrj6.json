@@ -15,9 +15,26 @@
   "updatedAt": "2021-04-26T18:49:13.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.asoiku.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8505"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Asobi_ni_Iku_yo!"
+      }
+    ],
     "altTitle": [
-      "Asobi ni Iku yo! Owari, Let's Go Play! Special, Let's Go Play! Owari, Cat Planet Cuties Special, Cat Planet Cuties Owari",
+      "Asobi ni Iku yo! Owari",
+      "Let's Go Play! Special",
+      "Let's Go Play! Owari",
+      "Cat Planet Cuties Special",
+      "Cat Planet Cuties Owari",
       "あそびにいくヨ! あそびにおいで おわり"
     ],
     "id": 29998,
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/71912.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 8505,
     "createdAt": "2020-12-22T14:56:14.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:06:16.000Z",
     "deletedAt": null
   },
   "Anilist": null,

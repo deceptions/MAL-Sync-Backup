@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 3276,
-  "aniId": null,
+  "aniId": 3276,
   "createdAt": "2021-09-02T07:45:50.000Z",
-  "updatedAt": "2021-09-02T07:45:53.000Z",
+  "updatedAt": "2021-10-09T11:02:20.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -45,6 +45,23 @@
     "updatedAt": "2021-10-01T11:37:33.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "キン肉マン 逆襲！宇宙かくれ超人",
+      "Kinnikuman: Counterattack! Hidden Space Superman"
+    ],
+    "externalLinks": [],
+    "id": 3276,
+    "malId": 3276,
+    "type": "anime",
+    "title": "Kinnikuman: Gyakushuu! Uchuu Kakure Choujin",
+    "url": "https://anilist.co/anime/3276",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3276.jpg",
+    "category": "movie",
+    "hentai": false,
+    "createdAt": "2021-10-09T10:32:20.000Z",
+    "updatedAt": "2021-10-09T10:32:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/3276/Kinnikuman__Gyakushuu_Uchuu_Kakure_Choujin"
 }

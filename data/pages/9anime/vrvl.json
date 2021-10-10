@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://tadakoi.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13492"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20225"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tada_Never_Falls_in_Love"
+      }
+    ],
     "altTitle": [
       "Tada Never Falls in Love",
       "Tada Doesn't Fall in Love",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1446/91841.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13492,
     "createdAt": "2020-10-12T15:39:57.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T19:04:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

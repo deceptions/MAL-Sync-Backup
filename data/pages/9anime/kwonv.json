@@ -15,7 +15,16 @@
   "updatedAt": "2021-09-11T18:06:33.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.yamiken.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11907"
+      }
+    ],
     "altTitle": [
       "JUNK HEAD"
     ],
@@ -26,9 +35,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1414/101049.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11907,
     "createdAt": "2020-10-12T15:40:10.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T03:38:24.000Z",
     "deletedAt": null
   },
   "Anilist": null,

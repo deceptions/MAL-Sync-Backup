@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.grisaia-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11009"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16673"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Le_Fruit_de_la_Grisaia"
+      }
+    ],
     "altTitle": [
       "The Eden of Grisaia",
       "Le Eden de la Grisaia",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/72855.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11009,
     "createdAt": "2020-10-12T15:39:33.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T03:06:21.000Z",
     "deletedAt": null
   },
   "Anilist": {

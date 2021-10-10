@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime.prisma-illya.jp/2weihelz/product/bddvd_1.php"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10833"
+      }
+    ],
     "altTitle": [
       "Fate/Kaleid Liner Prisma Illya 2Wei Herz! Shorts",
       "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！ショートアニメ"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/81262.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10833,
     "createdAt": "2020-10-12T15:39:37.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T06:06:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

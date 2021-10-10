@@ -15,9 +15,27 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://araiya.cf-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14698"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21829"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BD%E3%82%B3%E6%B4%97%E3%81%84%E5%B1%8B%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%E3%80%9C%E7%89%87%E6%83%B3%E3%81%84%E4%B8%AD%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%84%E3%81%A8%E5%A5%B3%E6%B9%AF%E3%81%A7%E3%80%9C"
+      }
+    ],
     "altTitle": [
-      "Miss Washer!: Her and I in Female Bath!?, Washer!: She and I in the Women's Bath!?",
+      "Miss Washer!: Her and I in Female Bath!?",
+      "Washer!: She and I in the Women's Bath!?",
       "洗い屋さん! ~俺とアイツが女湯で!?~"
     ],
     "id": 39337,
@@ -27,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1804/109216.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14698,
     "createdAt": "2020-10-12T15:40:08.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T02:38:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

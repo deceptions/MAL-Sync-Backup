@@ -15,7 +15,24 @@
   "updatedAt": "2021-08-06T19:17:35.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://kakushigoto-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15922"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24236"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kakushigoto:_My_Dad%27s_Secret_Ambition#Film"
+      }
+    ],
     "altTitle": [
       "Hidden Things Movie",
       "劇場編集版 かくしごと"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1115/114953.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15922,
     "createdAt": "2020-12-12T23:48:03.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T10:08:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

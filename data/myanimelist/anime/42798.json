@@ -1,7 +1,21 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://sayonara-cramer.com/movie/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15711"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Farewell,_My_Dear_Cramer#Film"
+    }
+  ],
   "altTitle": [
-    "Farewell, My Dear Cramer Movie: First Touch, Sayonara Football",
+    "Farewell, My Dear Cramer Movie: First Touch",
+    "Sayonara Football",
     "映画 さよなら私のクラマー ファーストタッチ"
   ],
   "id": 42798,
@@ -11,9 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1482/111436.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15711,
   "createdAt": "2021-06-05T02:19:08.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T09:03:13.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

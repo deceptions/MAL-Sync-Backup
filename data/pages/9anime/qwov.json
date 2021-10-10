@@ -15,9 +15,19 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14733"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22046"
+      }
+    ],
     "altTitle": [
-      "Hora, Mimi ga Mieteru yo! 2, Look, I Can See Your Ears! 2",
+      "Hora, Mimi ga Mieteru yo! 2",
+      "Look, I Can See Your Ears! 2",
       "喂，看见耳朵啦 第二季"
     ],
     "id": 39380,
@@ -27,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1309/99419.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14733,
     "createdAt": "2020-10-12T15:40:08.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T02:38:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

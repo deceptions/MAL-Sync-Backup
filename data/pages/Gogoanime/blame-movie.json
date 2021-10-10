@@ -15,9 +15,27 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.blame.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11782"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17828"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Blame!"
+      }
+    ],
     "altTitle": [
-      "Blame!: The Ancient Terminal City, Blame!: Tanmatsu Ikou Toshi",
+      "Blame!: The Ancient Terminal City",
+      "Blame!: Tanmatsu Ikou Toshi",
       "BLAME!"
     ],
     "id": 32086,
@@ -27,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1976/93666.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11782,
     "createdAt": "2020-10-12T15:39:41.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T08:37:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

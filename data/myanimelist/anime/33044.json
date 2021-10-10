@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kaishain.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12024"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E8%B2%9D%E7%A4%BE%E5%93%A1#%E6%9C%9D%E3%81%A0%E3%82%88!%E8%B2%9D%E7%A4%BE%E5%93%A1"
+    }
+  ],
   "altTitle": [
     "Clamployee",
     "朝だよ！貝社員"
@@ -11,9 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/79277.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12024,
   "createdAt": "2020-10-12T15:39:44.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T11:01:22.000Z",
   "deletedAt": null,
   "Pages": {}
 }

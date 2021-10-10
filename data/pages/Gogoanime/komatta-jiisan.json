@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bs4.jp/komatta-jiisan/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15316"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22929"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Komatta_Jii-san#Anime"
+      }
+    ],
     "altTitle": [
       "Troublesome Old Man, Komatta Jii-san",
       "困ったじいさん"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1227/106465.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15316,
     "createdAt": "2020-10-12T15:40:13.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T06:08:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kengan.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11216"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20427"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/ケンガンアシュラ"
+    }
+  ],
   "altTitle": [
     "ケンガンアシュラ"
   ],
@@ -10,9 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1421/100770.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11216,
   "createdAt": "2020-10-12T15:39:58.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T20:08:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

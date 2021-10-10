@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ytv.co.jp/timebokan24/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12032"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18180"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Time_Bokan"
+      }
+    ],
     "altTitle": [
       "Time Bokan 24",
       "タイムボカン24"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/82232.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12032,
     "createdAt": "2020-10-12T15:39:44.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T10:38:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

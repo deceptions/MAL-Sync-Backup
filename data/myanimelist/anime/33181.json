@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12079"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nijiiro_Days"
+    }
+  ],
   "altTitle": [
     "Rainbow Days OVA",
     "虹色デイズ OVA"
@@ -11,9 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/83487.jpg",
   "category": "OVA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12079,
   "createdAt": "2020-10-12T15:39:45.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T11:07:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

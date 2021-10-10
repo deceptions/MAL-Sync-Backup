@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1134"
+    }
+  ],
   "altTitle": [
     "Isaku Recap",
     "Isaku: Crime And Punishment",
@@ -12,9 +17,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1906/109607.jpg",
   "category": "Special",
   "hentai": true,
-  "anidbId": null,
+  "anidbId": 1134,
   "createdAt": "2021-09-10T03:34:33.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T09:32:23.000Z",
   "deletedAt": null,
   "Pages": {}
 }

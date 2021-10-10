@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8E%E3%83%AC%E3%82%AF%E3%82%B7%E3%82%A2%E3%80%9C%E3%81%97%E3%81%8B%E3%81%B0%E3%81%AD%E8%8F%AF%E5%AD%90%E3%81%AF%E6%8B%92%E9%A3%9F%E7%97%87%E3%80%9C"
+    }
+  ],
   "altTitle": [
     "Shikabane Hanako is Anorexia",
     "アノレクシア～しかばね華子は拒食症～"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:03.000Z",
-  "updatedAt": "2021-05-06T01:02:38.000Z",
+  "updatedAt": "2021-10-09T15:02:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +44,28 @@
         "aniId": 67975,
         "createdAt": "2020-10-12T16:04:15.000Z",
         "updatedAt": "2021-06-02T19:47:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mg960415": {
+        "authors": [
+          "Akira"
+        ],
+        "identifier": "manga-mg960415",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Anorexia - Shikabane Hanako Wa Kyoshokushou",
+        "url": "https://manganato.com/manga-mg960415",
+        "image": "https://avt.mkklcdnv6temp.com/50/q/6-1583476300.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37975,
+        "aniId": 67975,
+        "createdAt": "2021-10-09T15:02:20.000Z",
+        "updatedAt": "2021-10-09T15:32:21.000Z",
         "deletedAt": null
       }
     }

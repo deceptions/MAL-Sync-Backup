@@ -15,10 +15,27 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime-rinne.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11591"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17656"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Rin-ne"
+      }
+    ],
     "altTitle": [
       "RIN-NE",
-      "境界のRINNE　第２シリーズ"
+      "境界のRINNE"
     ],
     "id": 31610,
     "type": "anime",
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/79665.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11591,
     "createdAt": "2020-10-12T15:39:39.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T07:32:28.000Z",
     "deletedAt": null
   },
   "Anilist": {

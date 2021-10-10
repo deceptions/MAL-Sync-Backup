@@ -15,9 +15,27 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.mjp-anime.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12033"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18198"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Majestic_Prince_(manga)"
+      }
+    ],
     "altTitle": [
-      "Gekijouban Ginga Kikoutai Majestic Prince, Majestic Prince The Movie: Awakened Genes",
+      "Gekijouban Ginga Kikoutai Majestic Prince",
+      "Majestic Prince The Movie: Awakened Genes",
       "劇場版 銀河機攻隊 マジェスティックプリンス 覚醒の遺伝子"
     ],
     "id": 33025,
@@ -27,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/82164.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12033,
     "createdAt": "2020-10-12T15:39:44.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T10:38:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

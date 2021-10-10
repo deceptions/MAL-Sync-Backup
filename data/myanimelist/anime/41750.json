@@ -1,8 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.ghostintheshell-sac2045.jp"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15512"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell#SAC_2045_ONA_series"
+    }
+  ],
   "altTitle": [
-    "Ghost in the Shell: Stand Alone Complex 2045 2nd Season, Ghost in the Shell: SAC_2045 2nd Season",
-    "攻殻機動隊 SAC_2045 2ndシーズン"
+    "Ghost in the Shell: Stand Alone Complex 2045 2nd Season",
+    "Ghost in the Shell: SAC_2045 2nd Season",
+    "攻殻機動隊 SAC_2045"
   ],
   "id": 41750,
   "type": "anime",
@@ -11,9 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1205/107122.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15512,
   "createdAt": "2020-11-02T23:56:07.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T07:36:24.000Z",
   "deletedAt": null,
   "Pages": {}
 }

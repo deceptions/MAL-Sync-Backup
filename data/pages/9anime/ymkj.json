@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://days-project.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12621"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/DAYS_%28%E6%BC%AB%E7%94%BB%29"
+      }
+    ],
     "altTitle": [
       "DAYS東院学園戦！"
     ],
@@ -26,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/88505.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12621,
     "createdAt": "2020-10-12T15:39:50.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T14:36:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

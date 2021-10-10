@@ -15,7 +15,20 @@
   "updatedAt": "2021-08-16T08:06:59.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13636"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20607"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aggretsuko"
+      }
+    ],
     "altTitle": [
       "Aggretsuko",
       "アグレッシブ烈子"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/89288.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13636,
     "createdAt": "2020-10-12T15:39:58.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T20:08:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

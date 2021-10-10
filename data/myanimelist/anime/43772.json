@@ -1,18 +1,27 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15220"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://zh.wikipedia.org/zh-hans/%E4%BE%A0%E5%B2%9A"
+    }
+  ],
   "altTitle": [
     "画江湖之侠岚"
   ],
   "id": 43772,
   "type": "anime",
-  "title": "Hua Jianghu Zhi Xia Lan",
-  "url": "https://myanimelist.net/anime/43772/Hua_Jianghu_Zhi_Xia_Lan",
+  "title": "Hua Jianghu: Xia Lan",
+  "url": "https://myanimelist.net/anime/43772/Hua_Jianghu__Xia_Lan",
   "image": "https://cdn.myanimelist.net/images/anime/1682/110171.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15220,
   "createdAt": "2021-06-21T19:45:52.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T09:37:13.000Z",
   "deletedAt": null,
   "Pages": {}
 }

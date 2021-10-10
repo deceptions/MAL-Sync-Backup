@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://wixoss-diva.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15468"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23792"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/WIXOSS#Anime"
+    }
+  ],
   "altTitle": [
     "WIXOSS DIVA(A)LIVE（ウィクロス ディーヴァアライブ）"
   ],
@@ -10,9 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1779/110807.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15468,
   "createdAt": "2020-12-30T22:17:47.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T07:31:24.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {

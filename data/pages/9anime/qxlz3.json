@@ -15,7 +15,16 @@
   "updatedAt": "2021-07-12T20:45:01.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.cyborg009.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12277"
+      }
+    ],
     "altTitle": [
       "CYBORG009 CALL OF JUSTICE 3"
     ],
@@ -26,9 +35,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/81020.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12277,
     "createdAt": "2020-10-12T15:39:47.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T12:34:09.000Z",
     "deletedAt": null
   },
   "Anilist": {

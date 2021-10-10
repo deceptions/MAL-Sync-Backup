@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12320"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Girl_Friend_Beta"
+      }
+    ],
     "altTitle": [
       "Girl Friend Note",
       "Girlfriend (Onpu)",
@@ -28,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/82065.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12320,
     "createdAt": "2020-10-12T15:39:48.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T13:02:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

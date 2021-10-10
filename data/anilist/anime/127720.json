@@ -7,6 +7,10 @@
     {
       "site": "Funimation",
       "url": "https://www.funimation.com/shows/mushoku-tensei-jobless-reincarnation/"
+    },
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/series/mushoku-tensei-jobless-reincarnation-787a5fb4-9cba-4a69-96b2-4fb3b10c860a"
     }
   ],
   "id": 127720,
@@ -18,7 +22,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:46:15.000Z",
-  "updatedAt": "2021-09-30T08:36:20.000Z",
+  "updatedAt": "2021-10-03T16:30:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {
@@ -37,6 +41,44 @@
         "aniId": 127720,
         "createdAt": "2020-12-31T20:54:32.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "4k3m": {
+        "identifier": "4k3m",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season",
+        "url": "https://9anime.to/watch/mushoku-tensei-jobless-reincarnation-part-2.4k3m",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/b6/b6648bae6731cdfea1b36fd0eba7135a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45576,
+        "aniId": 127720,
+        "createdAt": "2021-10-03T17:01:22.000Z",
+        "updatedAt": "2021-10-03T17:30:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mushoku-tensei-isekai-ittara-honki-dasu-2nd-season": {
+        "identifier": "mushoku-tensei-isekai-ittara-honki-dasu-2nd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season",
+        "url": "https://gogoanime.pe/category/mushoku-tensei-isekai-ittara-honki-dasu-2nd-season",
+        "image": "https://gogocdn.net/cover/mushoku-tensei-isekai-ittara-honki-dasu-2nd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45576,
+        "aniId": 127720,
+        "createdAt": "2021-10-03T17:01:23.000Z",
+        "updatedAt": "2021-10-03T17:30:52.000Z",
         "deletedAt": null
       }
     }

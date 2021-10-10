@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://love-of-kill.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15917"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24514"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Love_of_Kill#Anime"
+    }
+  ],
   "altTitle": [
     "Love of Kill",
     "殺し愛"
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1959/116458.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15917,
   "createdAt": "2021-07-17T18:34:26.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T10:07:16.000Z",
   "deletedAt": null,
   "Pages": {}
 }

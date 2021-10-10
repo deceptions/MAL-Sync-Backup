@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://taisho-otome.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15938"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23866"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A3%E5%87%A6%E5%A5%B3%E5%BE%A1%E4%BC%BD%E8%A9%B1#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    }
+  ],
   "altTitle": [
     "Taishou Maiden Fairytale",
     "大正処女御伽話"
@@ -11,9 +28,48 @@
   "image": "https://cdn.myanimelist.net/images/anime/1822/113767.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15938,
   "createdAt": "2021-09-27T08:38:54.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T10:31:24.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "taishou-otome-otogibanashi": {
+        "identifier": "taishou-otome-otogibanashi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Taishou Otome Otogibanashi",
+        "url": "https://gogoanime.pe/category/taishou-otome-otogibanashi",
+        "image": "https://gogocdn.net/cover/taishou-otome-otogibanashi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45055,
+        "aniId": 127412,
+        "createdAt": "2021-10-08T18:32:20.000Z",
+        "updatedAt": "2021-10-08T19:02:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "m0px": {
+        "identifier": "m0px",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Taishou Otome Otogibanashi",
+        "url": "https://9anime.to/watch/taishou-otome-otogibanashi.m0px",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/5f/5f5afdea70029b05bd19cc359f79fe10.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45055,
+        "aniId": 127412,
+        "createdAt": "2021-10-08T18:33:44.000Z",
+        "updatedAt": "2021-10-08T19:02:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

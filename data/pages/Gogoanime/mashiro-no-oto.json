@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://mashironooto-official.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15666"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23554"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mashiro_no_Oto#Anime"
+      }
+    ],
     "altTitle": [
       "Those Snow White Notes",
       "ましろのおと"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1841/111554.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15666,
     "createdAt": "2021-02-20T12:03:49.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T08:37:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

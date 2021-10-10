@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.marv.jp/special/tokyoghoul/products_ova.html#filter=.jack"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11268"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17155"
+      }
+    ],
     "altTitle": [
       "Tokyo Ghoul: \"Jack\"",
       "東京喰種 トーキョーグール【JACK】"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/76048.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11268,
     "createdAt": "2020-10-12T15:39:36.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T05:05:09.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7048"
+    }
+  ],
   "altTitle": [
     "女郎 [めろう]"
   ],
@@ -10,9 +15,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/66773.jpg",
   "category": "OVA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 7048,
   "createdAt": "2021-08-17T17:39:05.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T01:31:44.000Z",
   "deletedAt": null,
   "Pages": {}
 }

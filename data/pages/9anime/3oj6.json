@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://p5a.jp/onair/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14421"
+      }
+    ],
     "altTitle": [
       "Persona 5 the Animation (2018)",
       "Persona 5 the Animation: Stars and Ours",
@@ -29,9 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1115/96897.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14421,
     "createdAt": "2020-10-12T15:40:05.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T00:35:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

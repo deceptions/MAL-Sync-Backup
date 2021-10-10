@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "The Our Choice",
     "ぼくらの選択"
@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:19.000Z",
-  "updatedAt": "2021-07-04T03:39:56.000Z",
+  "updatedAt": "2021-10-05T06:03:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 100825,
         "createdAt": "2021-07-04T03:39:47.000Z",
         "updatedAt": "2021-07-04T03:59:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "bokura_no_sentaku": {
+        "authors": [
+          "SAZANAMI Misa"
+        ],
+        "identifier": "bokura_no_sentaku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bokura no Sentaku",
+        "url": "https://fanfox.net/manga/bokura_no_sentaku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26773/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110360,
+        "aniId": 100825,
+        "createdAt": "2021-10-05T06:02:18.000Z",
+        "updatedAt": "2021-10-05T06:32:17.000Z",
         "deletedAt": null
       }
     }

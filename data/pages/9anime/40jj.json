@@ -15,7 +15,20 @@
   "updatedAt": "2019-10-12T16:02:23.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://giftmovie.jp/pc/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12282"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%B4%99%E5%85%8E%E3%83%AD%E3%83%9A#DVD.E3.83.BB.E3.82.A8.E3.83.94.E3.82.BD.E3.83.BC.E3.83.89.E3.83.AA.E3.82.B9.E3.83.88"
+      }
+    ],
     "altTitle": [
       "Kamiusagi Rope 4",
       "紙兎ロペ 〜笑う朝には福来たるってマジっすか!?"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/72182.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12282,
     "createdAt": "2020-10-12T15:39:35.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:10:06.000Z",
     "deletedAt": null
   },
   "Anilist": null,

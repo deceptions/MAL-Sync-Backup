@@ -1,7 +1,23 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.anatawozutto.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11054"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17220"
+    }
+  ],
   "altTitle": [
-    "Gonyeoseog Masnagessda 2: Hamkkelaseo Haengboghae, You Are Umasou 2, Tasty 2: Happy Together, 고녀석 맛나겠다2: 함께라서 행복해",
+    "Gonyeoseog Masnagessda 2: Hamkkelaseo Haengboghae",
+    "You Are Umasou 2",
+    "Tasty 2: Happy Together",
+    "고녀석 맛나겠다2: 함께라서 행복해",
     "あなたをずっとあいしてる"
   ],
   "id": 29863,
@@ -11,9 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/72593.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11054,
   "createdAt": "2020-10-12T15:39:34.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T03:38:23.000Z",
   "deletedAt": null,
   "Pages": {}
 }

@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.animatetimes.com/news/details.php?id=1504774749"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12675"
+      }
+    ],
     "altTitle": [
       "夏目友人帳 陸 特別編"
     ],
@@ -26,9 +35,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/87615.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12675,
     "createdAt": "2020-10-12T15:39:56.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T18:38:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

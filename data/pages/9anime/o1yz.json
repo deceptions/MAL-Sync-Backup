@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.shinkalion.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15994"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shinkansen_Henkei_Robo_Shinkalion#Anime_2"
+      }
+    ],
     "altTitle": [
       "新幹線変形ロボ シンカリオンZ THE ANIMATION"
     ],
@@ -23,12 +36,12 @@
     "type": "anime",
     "title": "Shinkansen Henkei Robo Shinkalion Z the Animation",
     "url": "https://myanimelist.net/anime/46381/Shinkansen_Henkei_Robo_Shinkalion_Z_the_Animation",
-    "image": "https://cdn.myanimelist.net/images/anime/1573/111862.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1381/118274.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15994,
     "createdAt": "2021-04-01T19:31:16.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T10:37:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

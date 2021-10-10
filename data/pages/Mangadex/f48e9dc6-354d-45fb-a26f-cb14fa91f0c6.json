@@ -18,7 +18,12 @@
   "updatedAt": "2021-06-07T06:38:12.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%9C%80%E9%81%8A%E8%A8%98%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+      }
+    ],
     "altTitle": [
       "Saiyuki",
       "Gensomaden Saiyuki",
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2021-08-20T02:07:59.000Z",
+    "updatedAt": "2021-10-05T16:33:59.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -48,7 +53,9 @@
     "authors": [
       "Kazuya Minekura",
       "Alethea Nibley",
-      "Athena Nibley"
+      "Athena Nibley",
+      "Yuzu Mizutani",
+      "Tooru Kaede"
     ],
     "id": 30509,
     "malId": 509,
@@ -59,7 +66,7 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:35:34.000Z",
-    "updatedAt": "2021-06-17T08:28:55.000Z",
+    "updatedAt": "2021-10-03T14:30:53.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/509/Saiyuuki"

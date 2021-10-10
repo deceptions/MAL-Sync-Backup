@@ -1,7 +1,21 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.hamatorapj.com/fw/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11727"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hamatora"
+    }
+  ],
   "altTitle": [
-    "Forward:Hamatora, Hamatora Movie",
+    "Forward:Hamatora",
+    "Hamatora Movie",
     "Fw：ハマトラ"
   ],
   "id": 30290,
@@ -11,9 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/76832.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11727,
   "createdAt": "2020-10-28T21:10:55.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T04:35:33.000Z",
   "deletedAt": null,
   "Pages": {}
 }

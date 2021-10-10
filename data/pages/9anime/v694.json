@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.tv-tokyo.co.jp/anime/youkai-watch2020/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15268"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22940"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%A6%96%E6%80%AA%E5%AD%A6%E5%9C%92Y_%E3%80%9CN%E3%81%A8%E3%81%AE%E9%81%AD%E9%81%87%E3%80%9C"
+      }
+    ],
     "altTitle": [
       "妖怪ウォッチJam 妖怪学園Y Nとの遭遇"
     ],
@@ -26,9 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1276/104362.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15268,
     "createdAt": "2020-10-12T15:40:13.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T05:38:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

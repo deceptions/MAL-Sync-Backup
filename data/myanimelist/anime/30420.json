@@ -1,7 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1925"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/Dr.%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%97_%E3%82%A2%E3%83%A9%E3%83%AC%E3%81%A1%E3%82%83%E3%82%93#TV.E3.82.B9.E3.83.9A.E3.82.B7.E3.83.A3.E3.83.AB_2"
+    }
+  ],
   "altTitle": [
-    "Dr. Slump: Arale-chan Traffic Education Film, Dr. Slump & Arale-chan: Let's Learn Traffic Safety, Dr.スランプ アラレちゃん 交通ルールをまもろうよ",
+    "Dr. Slump: Arale-chan Traffic Education Film",
+    "Dr. Slump & Arale-chan: Let's Learn Traffic Safety",
+    "Dr.スランプ アラレちゃん 交通ルールをまもろうよ",
     "Dr.スランプアラレちゃんの交通安全"
   ],
   "id": 30420,
@@ -11,9 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/72793.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 1925,
   "createdAt": "2020-10-12T15:39:35.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T05:03:08.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

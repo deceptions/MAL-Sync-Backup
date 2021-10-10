@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.tv-tokyo.co.jp/anime/yamishibai8/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15879"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23857"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yamishibai:_Japanese_Ghost_Stories"
+      }
+    ],
     "altTitle": [
       "Yamishibai: Japanese Ghost Stories Eighth Season",
       "Yamishibai: Japanese Ghost Stories 8",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1311/110392.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15879,
     "createdAt": "2020-12-04T10:22:51.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T10:04:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

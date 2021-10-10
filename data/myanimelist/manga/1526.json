@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/だぁ!だぁ!だぁ!"
+    }
+  ],
   "altTitle": [
-    "UFO Baby, Da! Da! Da!",
+    "UFO Baby",
+    "Da! Da! Da!",
     "だぁ!だぁ!だぁ!"
   ],
   "authors": [
@@ -15,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:34.000Z",
-  "updatedAt": "2021-06-04T18:19:27.000Z",
+  "updatedAt": "2021-10-07T04:02:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +43,28 @@
         "aniId": 31526,
         "createdAt": "2020-10-12T16:03:06.000Z",
         "updatedAt": "2021-06-02T11:47:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "daa_daa_daa": {
+        "authors": [
+          "KAWAMURA Mika"
+        ],
+        "identifier": "daa_daa_daa",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Daa! Daa! Daa!",
+        "url": "https://fanfox.net/manga/daa_daa_daa/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/189/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1526,
+        "aniId": 31526,
+        "createdAt": "2021-10-07T04:02:42.000Z",
+        "updatedAt": "2021-10-07T04:32:19.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:56.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.doremi-anniv.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14790"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22003"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ojamajo_Doremi"
+      }
+    ],
     "altTitle": [
       "Majo Minarai wo Sagashite, Magical DoReMi Movie, Useless Witchgirl Doremi Movie",
       "魔女見習いをさがして"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1937/110713.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14790,
     "createdAt": "2020-10-12T15:40:09.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T03:08:28.000Z",
     "deletedAt": null
   },
   "Anilist": {

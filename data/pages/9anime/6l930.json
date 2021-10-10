@@ -15,7 +15,16 @@
   "updatedAt": "2021-08-19T08:38:30.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://news.kbs.co.kr/news/view.do?ncd=3474154"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%86%A4%EC%97%90%EC%9D%B4%EC%A7%80_(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)"
+      }
+    ],
     "altTitle": [
       "Stone Age",
       "Stone Age: Jeonseol-ui Pes-eul Chaj-aseo",
@@ -30,7 +39,7 @@
     "hentai": false,
     "anidbId": null,
     "createdAt": "2021-08-19T08:38:30.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T19:37:04.000Z",
     "deletedAt": null
   },
   "Anilist": null,

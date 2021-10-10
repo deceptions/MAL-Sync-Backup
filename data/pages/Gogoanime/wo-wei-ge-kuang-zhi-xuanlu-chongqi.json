@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md28223062/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15771"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E6%88%91%E4%B8%BA%E6%AD%8C%E7%8B%82%E4%B9%8B%E6%97%8B%E5%BE%8B%E9%87%8D%E5%90%AF/51596125"
+      }
+    ],
     "altTitle": [
       "Music Up! I'm Back!",
       "Music Up: Reborn",
@@ -29,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1295/109372.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15771,
     "createdAt": "2020-10-22T00:39:26.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T09:07:57.000Z",
     "deletedAt": null
   },
   "Anilist": {

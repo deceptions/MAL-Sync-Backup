@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://arifureta.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13624"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20363"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Arifureta:_From_Commonplace_to_World%27s_Strongest"
+      }
+    ],
     "altTitle": [
       "Arifureta: From Commonplace to World's Strongest",
       "From Common Job Class to the Strongest in the World",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1776/97682.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13624,
     "createdAt": "2020-10-12T15:39:58.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T18:31:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

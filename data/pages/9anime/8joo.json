@@ -15,9 +15,19 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14306"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21367"
+      }
+    ],
     "altTitle": [
-      "Hora, Mimi ga Mieteru yo!, Look, I Can See Your Ears!",
+      "Hora, Mimi ga Mieteru yo!",
+      "Look, I Can See Your Ears!",
       "喂，看見耳朵啦！"
     ],
     "id": 38217,
@@ -27,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1654/93825.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14306,
     "createdAt": "2020-10-12T15:40:05.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T00:07:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

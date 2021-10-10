@@ -15,7 +15,20 @@
   "updatedAt": "2021-08-02T07:47:28.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md28230717"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15967"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E7%99%BE%E5%A6%96%E8%B0%B1/23219351"
+      }
+    ],
     "altTitle": [
       "Manual of Hundred Demons 2nd Season",
       "百妖谱 第二季"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1898/115957.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15967,
     "createdAt": "2021-08-01T08:18:21.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T10:01:32.000Z",
     "deletedAt": null
   },
   "Anilist": {

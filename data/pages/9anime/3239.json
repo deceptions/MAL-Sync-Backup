@@ -15,7 +15,16 @@
   "updatedAt": "2020-10-12T18:49:37.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://sao-alicization.net/news/?article_id=53520"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15146"
+      }
+    ],
     "altTitle": [
       "「アリシゼーションWoU」1stクール総集編"
     ],
@@ -26,9 +35,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1946/106255.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15146,
     "createdAt": "2020-10-12T15:40:15.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:04:34.000Z",
     "deletedAt": null
   },
   "Anilist": null,

@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://acca-anime.com/regards/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14799"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/ACCA:_13-Territory_Inspection_Dept."
+      }
+    ],
     "altTitle": [
       "ACCA: 13-Territory Inspection Dept. Regards",
       "ACCA: 13th Territory Inspection Department, ACCA: 13th Ward Observation Department - Regards",
@@ -29,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1878/101560.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14799,
     "createdAt": "2020-10-12T15:40:09.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T03:09:58.000Z",
     "deletedAt": null
   },
   "Anilist": {

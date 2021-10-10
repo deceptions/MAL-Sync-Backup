@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.anime-kings-raid.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15530"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23526"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/King%27s_Raid"
+      }
+    ],
     "altTitle": [
       "King's Raid: Successors of the Will",
       "Kings Raid",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1885/109122.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15530,
     "createdAt": "2020-10-12T15:40:15.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:37:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

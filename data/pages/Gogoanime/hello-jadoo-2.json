@@ -15,10 +15,23 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12590"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%95%88%EB%85%95_%EC%9E%90%EB%91%90%EC%95%BC"
+      }
+    ],
     "altTitle": [
       "Hello Jadoo",
-      "Jadoo, South-Korean-Tv-Series, Hello Jadoo, Korean, Choi Jadoo,"
+      "Jadoo",
+      "South-Korean-Tv-Series",
+      "Hello Jadoo",
+      "Korean",
+      "Choi Jadoo"
     ],
     "id": 35920,
     "type": "anime",
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/86812.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12590,
     "createdAt": "2020-10-12T15:39:55.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T18:02:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kagewani.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11921"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18089"
+      }
+    ],
     "altTitle": [
       "Kagewani -II-",
       "影鰐-KAGEWANI-承"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/78601.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11921,
     "createdAt": "2020-10-12T15:39:43.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T09:38:52.000Z",
     "deletedAt": null
   },
   "Anilist": {

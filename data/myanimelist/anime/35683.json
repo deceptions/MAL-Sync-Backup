@@ -1,7 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://animetamago.jp/index.php"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13214"
+    }
+  ],
   "altTitle": [
-    "Wakate Animator Ikusei Project, 2018 Young Animator Training Project, Anime Tamago",
+    "Wakate Animator Ikusei Project",
+    "2018 Young Animator Training Project",
+    "Anime Tamago",
     "Midnight Crazy Trail"
   ],
   "id": 35683,
@@ -11,9 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/89201.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13214,
   "createdAt": "2020-10-12T15:39:54.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T17:32:35.000Z",
   "deletedAt": null,
   "Pages": {}
 }

@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://satomiyo.com/works.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13604"
+      }
+    ],
     "altTitle": [
       "Fox Fears",
       "きつね憑き"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/84082.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13604,
     "createdAt": "2020-10-12T15:39:51.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T15:34:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

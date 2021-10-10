@@ -21,5 +21,44 @@
   "createdAt": "2021-06-04T19:18:57.000Z",
   "updatedAt": "2021-10-02T03:00:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "tsuki-to-laika-to-nosferatu": {
+        "identifier": "tsuki-to-laika-to-nosferatu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tsuki to Laika to Nosferatu",
+        "url": "https://gogoanime.pe/category/tsuki-to-laika-to-nosferatu",
+        "image": "https://gogocdn.net/cover/tsuki-to-laika-to-nosferatu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48471,
+        "aniId": 131019,
+        "createdAt": "2021-10-03T17:31:53.000Z",
+        "updatedAt": "2021-10-03T18:00:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "yyrj": {
+        "identifier": "yyrj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tsuki to Laika to Nosferatu",
+        "url": "https://9anime.to/watch/moon-laika-and-the-bloodsucking-princess.yyrj",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/84/841a1ecda1f0b875f9aa73c4cd7d4d88.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48471,
+        "aniId": 131019,
+        "createdAt": "2021-10-03T18:00:52.000Z",
+        "updatedAt": "2021-10-03T18:30:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

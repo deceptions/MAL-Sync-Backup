@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.shinkanomi-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16018"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23975"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shinka_no_Mi:_Shiranai_Uchi_ni_Kachigumi_Jinsei#Anime"
+    }
+  ],
   "altTitle": [
     "The Evolution Fruit: Conquering Life Unknowingly",
     "進化の実～知らないうちに勝ち組人生～"
@@ -11,9 +28,48 @@
   "image": "https://cdn.myanimelist.net/images/anime/1537/117590.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16018,
   "createdAt": "2021-09-24T10:15:37.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T10:39:14.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei": {
+        "identifier": "shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+        "url": "https://gogoanime.pe/category/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
+        "image": "https://gogocdn.net/cover/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46985,
+        "aniId": 129068,
+        "createdAt": "2021-10-04T19:32:17.000Z",
+        "updatedAt": "2021-10-04T20:02:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "1pqm": {
+        "identifier": "1pqm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+        "url": "https://9anime.to/watch/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei.1pqm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/f0/f0602f8aa758840a5aa46692ca955c72.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46985,
+        "aniId": 129068,
+        "createdAt": "2021-10-05T00:02:47.000Z",
+        "updatedAt": "2021-10-05T00:32:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

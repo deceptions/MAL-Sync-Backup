@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kujisuna-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12712"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Children_of_the_Whales"
+      }
+    ],
     "altTitle": [
       "Kujira no Kora wa Sajou ni Utau Specials",
       "クジラの子らは砂上に学ぶ!"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1857/90626.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12712,
     "createdAt": "2020-10-12T15:40:00.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T21:07:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

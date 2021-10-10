@@ -15,9 +15,27 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://diesirae-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11204"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19395"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dies_irae_(visual_novel)"
+      }
+    ],
     "altTitle": [
-      "Day of Wrath, Dies Irae ONA",
+      "Day of Wrath",
+      "Dies Irae ONA",
       "Dies irae: To the ring reincarnation"
     ],
     "id": 36515,
@@ -27,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1244/93395.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11204,
     "createdAt": "2020-10-12T15:39:57.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T19:07:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

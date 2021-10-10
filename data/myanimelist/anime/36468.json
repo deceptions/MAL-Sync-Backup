@@ -1,7 +1,25 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://girls-last-tour.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13256"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19827"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Girls%27_Last_Tour"
+    }
+  ],
   "altTitle": [
-    "Girls' Weekend Class, Girls' Last Class",
+    "Girls' Weekend Class",
+    "Girls' Last Class",
     "少女週末授業"
   ],
   "id": 36468,
@@ -11,9 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/88044.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13256,
   "createdAt": "2020-10-12T15:39:57.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T19:04:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

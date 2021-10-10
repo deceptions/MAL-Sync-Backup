@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://portal.dia-horizon.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13311"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%9B%E3%83%A9%E3%82%A4%E3%82%BE%E3%83%B3"
+    }
+  ],
   "altTitle": [
     "ディアホライゾン（被）"
   ],
@@ -10,9 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/6/87933.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13311,
   "createdAt": "2020-10-12T15:39:55.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T18:05:13.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

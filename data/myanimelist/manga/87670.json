@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "切子"
   ],
@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:55.000Z",
-  "updatedAt": "2021-08-30T00:36:54.000Z",
+  "updatedAt": "2021-10-05T08:02:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 86673,
         "createdAt": "2020-10-12T16:09:20.000Z",
         "updatedAt": "2021-06-04T16:52:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gl951946": {
+        "authors": [
+          "Honda Shingo"
+        ],
+        "identifier": "manga-gl951946",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kiriko",
+        "url": "https://manganato.com/manga-gl951946",
+        "image": "https://avt.mkklcdnv6temp.com/22/f/1-1583464572.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87670,
+        "aniId": 86673,
+        "createdAt": "2021-10-05T08:02:27.000Z",
+        "updatedAt": "2021-10-05T08:32:17.000Z",
         "deletedAt": null
       }
     }

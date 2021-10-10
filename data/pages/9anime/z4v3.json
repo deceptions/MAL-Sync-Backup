@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kingsgame-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13335"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19973"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%8E%8B%E6%A7%98%E3%82%B2%E3%83%BC%E3%83%A0_(%E5%B0%8F%E8%AA%AC)"
+      }
+    ],
     "altTitle": [
       "King's Game",
       "Ou-sama Game",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/88190.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13335,
     "createdAt": "2020-10-12T15:39:55.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T18:06:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

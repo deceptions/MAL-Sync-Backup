@@ -3,16 +3,16 @@
   "type": "anime",
   "page": "Gogoanime",
   "title": "Another OVA",
-  "url": "https://gogoanime.vc/category/another-ova",
+  "url": "https://gogoanime.pe/category/another-ova",
   "image": "https://gogocdn.net/images/anime/Another Anime.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 11111,
-  "aniId": 11111,
+  "actor": 2,
+  "malId": 11701,
+  "aniId": 11701,
   "createdAt": "2020-10-12T15:59:51.000Z",
-  "updatedAt": "2021-05-20T15:21:53.000Z",
+  "updatedAt": "2021-10-08T07:32:19.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -22,67 +22,50 @@
       },
       {
         "site": "animedb",
-        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8556"
-      },
-      {
-        "site": "animenewsnetwork",
-        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13258"
-      },
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/Another_(novel)"
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8625"
       }
     ],
     "altTitle": [
-      "Another",
-      "アナザー"
+      "Another: The Other",
+      "Another 00",
+      "Another: The Other -Inga-",
+      "Another OAD",
+      "Another OVA",
+      "アナザー The Other -因果-"
     ],
-    "id": 11111,
+    "id": 11701,
     "type": "anime",
-    "title": "Another",
-    "url": "https://myanimelist.net/anime/11111/Another",
-    "image": "https://cdn.myanimelist.net/images/anime/4/75509.jpg",
-    "category": "TV",
+    "title": "Another: The Other - Inga",
+    "url": "https://myanimelist.net/anime/11701/Another__The_Other_-_Inga",
+    "image": "https://cdn.myanimelist.net/images/anime/9/42051.jpg",
+    "category": "OVA",
     "hentai": false,
-    "anidbId": 8556,
-    "createdAt": "2020-10-12T15:39:08.000Z",
-    "updatedAt": "2021-09-30T18:33:22.000Z",
+    "anidbId": 8625,
+    "createdAt": "2020-10-12T15:39:09.000Z",
+    "updatedAt": "2021-10-02T11:03:26.000Z",
     "deletedAt": null
   },
   "Anilist": {
     "altTitle": [
-      "Another",
-      "アナザー"
+      "Another: The Other",
+      "アナザー The Other -因果-",
+      "Another 00",
+      "Another: The Other -Inga-",
+      "Another OAD",
+      "Another OVA"
     ],
-    "externalLinks": [
-      {
-        "site": "Crunchyroll",
-        "url": "http://www.crunchyroll.com/another"
-      },
-      {
-        "site": "Hulu",
-        "url": "http://www.hulu.com/another"
-      },
-      {
-        "site": "Netflix",
-        "url": "https://www.netflix.com/title/80241072"
-      },
-      {
-        "site": "Vrv",
-        "url": "https://vrv.co/series/GR09X52WR/Another"
-      }
-    ],
-    "id": 11111,
-    "malId": 11111,
+    "externalLinks": [],
+    "id": 11701,
+    "malId": 11701,
     "type": "anime",
-    "title": "Another",
-    "url": "https://anilist.co/anime/11111",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11111-Y4QgkX8gJQCa.png",
-    "category": "tv",
+    "title": "Another: The Other - Inga",
+    "url": "https://anilist.co/anime/11701",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11701-rnEKCVGq99dL.jpg",
+    "category": "ova",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:06.000Z",
-    "updatedAt": "2021-06-17T12:51:46.000Z",
+    "createdAt": "2021-05-20T14:40:09.000Z",
+    "updatedAt": "2021-06-17T12:54:40.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/anime/11111/Another"
+  "malUrl": "https://myanimelist.net/anime/11701/Another__The_Other_-_Inga"
 }

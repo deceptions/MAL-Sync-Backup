@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.yugioh20th.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10963"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16671"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yu-Gi-Oh!:_The_Dark_Side_of_Dimensions"
+      }
+    ],
     "altTitle": [
       "Yu-Gi-Oh!: The Dark Side of Dimensions",
       "Yugioh",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/77614.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10963,
     "createdAt": "2020-10-12T15:39:32.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T02:38:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,20 @@
   "updatedAt": "2020-10-12T18:45:17.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://jackie-tinny-movie.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12727"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%BE%E3%81%AE%E3%81%8C%E3%81%A3%E3%81%93%E3%81%86"
+      }
+    ],
     "altTitle": [
       "Eiga Kuma no Gakkou: Patissier Jackie to Ohisama no Sweets",
       "映画くまのがっこう パティシエ・ジャッキーとおひさまのスイーツ"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/83800.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12727,
     "createdAt": "2020-10-12T15:39:51.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T15:08:24.000Z",
     "deletedAt": null
   },
   "Anilist": null,

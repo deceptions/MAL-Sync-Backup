@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://anime.fate-go.jp/ep7-tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14238"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21240"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fate/Grand_Order_-_Absolute_Demonic_Front:_Babylonia"
+      }
+    ],
     "altTitle": [
       "Fate/Grand Order: Absolute Demonic Front - Babylonia",
       "Fate/Grand Order -絶対魔獣戦線バビロニア-"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1194/103420.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14238,
     "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T00:01:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

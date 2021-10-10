@@ -15,7 +15,12 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15302"
+      }
+    ],
     "altTitle": [
       "Masaka no Kintarou",
       "まるだせ金太狼"
@@ -27,9 +32,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1387/116493.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15302,
     "createdAt": "2021-02-27T15:43:51.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T06:05:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

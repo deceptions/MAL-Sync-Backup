@@ -1,19 +1,33 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://anime.priconne-redive.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15690"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Princess_Connect!_Re:Dive#Anime"
+    }
+  ],
   "altTitle": [
-    "Princess Connect! Re:Dive 2nd Season, Priconne 2nd Season",
+    "Princess Connect! Re:Dive 2nd Season",
+    "Priconne 2nd Season",
     "プリンセスコネクト! Re:Dive Season 2"
   ],
   "id": 42670,
   "type": "anime",
   "title": "Princess Connect! Re:Dive Season 2",
   "url": "https://myanimelist.net/anime/42670/Princess_Connect_Re_Dive_Season_2",
-  "image": "https://cdn.myanimelist.net/images/anime/1517/108872.jpg",
+  "image": "https://cdn.myanimelist.net/images/anime/1906/117145.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15690,
   "createdAt": "2020-11-14T06:53:10.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T09:01:13.000Z",
   "deletedAt": null,
   "Pages": {}
 }

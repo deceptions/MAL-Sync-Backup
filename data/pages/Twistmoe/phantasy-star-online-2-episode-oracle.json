@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pso2.jp/anime_eporacle/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14744"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22344"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Phantasy_Star_Online_2#Anime_adaptation"
+      }
+    ],
     "altTitle": [
       "Phantasy Star Online 2: Episode Oracle",
       "ファンタシースターオンライン2 エピソード・オラクル"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1923/99744.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14744,
     "createdAt": "2020-10-12T15:40:09.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T03:05:18.000Z",
     "deletedAt": null
   },
   "Anilist": {

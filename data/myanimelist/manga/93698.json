@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%83%8B%E3%83%86%E3%82%A3%E3%82%BB%E3%83%96%E3%83%B3_7%E4%BA%BA%E3%81%AE%E9%AD%94%E6%9B%B8%E4%BD%BF%E3%81%84"
+    }
+  ],
   "altTitle": [
     "トリニティセブン レヴィ忍伝"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:16.000Z",
-  "updatedAt": "2021-08-07T22:18:19.000Z",
+  "updatedAt": "2021-10-03T16:01:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +65,28 @@
         "aniId": 96205,
         "createdAt": "2021-08-07T22:17:28.000Z",
         "updatedAt": "2021-08-07T22:44:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vl972846": {
+        "authors": [
+          "Saitou Kenji"
+        ],
+        "identifier": "manga-vl972846",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Trinity Seven - Levi Ninden",
+        "url": "https://readmanganato.com/manga-vl972846",
+        "image": "https://avt.mkklcdnv6temp.com/22/c/14-1583490537.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93698,
+        "aniId": 96205,
+        "createdAt": "2021-10-03T16:01:22.000Z",
+        "updatedAt": "2021-10-03T16:30:52.000Z",
         "deletedAt": null
       }
     }

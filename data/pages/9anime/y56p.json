@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.anime-eupho.com/story/ex/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10889"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sound!_Euphonium"
+      }
+    ],
     "altTitle": [
       "Sound! Euphonium Episode 14 – Ready, Set, Monaka",
       "響け！ユーフォニアム 番外編 かけだすモナカ"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/77322.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10889,
     "createdAt": "2020-10-12T15:39:39.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T07:34:49.000Z",
     "deletedAt": null
   },
   "Anilist": {

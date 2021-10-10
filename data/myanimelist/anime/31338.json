@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://hundred-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11234"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17063"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hundred_(novel_series)"
+    }
+  ],
   "altTitle": [
     "Hundred",
     "ハンドレッド"
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/3/78858.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11234,
   "createdAt": "2020-10-12T15:39:38.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T06:36:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13865"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%99%E3%81%AA%E3%81%82%E3%81%9D%E3%81%B3"
+    }
+  ],
   "altTitle": [
     "Sand Play",
     "すなあそび"
@@ -11,9 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/70861.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13865,
   "createdAt": "2021-07-23T14:22:05.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T03:31:44.000Z",
   "deletedAt": null,
   "Pages": {}
 }

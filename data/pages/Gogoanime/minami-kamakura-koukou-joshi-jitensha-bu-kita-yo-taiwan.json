@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://minakama-anime.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11492"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Minami_Kamakura_K%C5%8Dk%C5%8D_Joshi_Jitensha-Bu"
+      }
+    ],
     "altTitle": [
       "kura High School Girls Cycling Club: We're In Taiwan!!",
       "Minami Kamakura High School Girls Cycling Club: Here We Come, Taiwan!",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/83769.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11492,
     "createdAt": "2020-10-12T15:39:51.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T15:07:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -17,5 +17,28 @@
   "createdAt": "2021-08-16T21:07:00.000Z",
   "updatedAt": "2021-08-17T10:07:03.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-md989760": {
+        "authors": [
+          "Kanazawa Shinnosuke"
+        ],
+        "identifier": "manga-md989760",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ottoman",
+        "url": "https://manganato.com/manga-md989760",
+        "image": "https://avt.mkklcdnv6temp.com/45/j/24-1633747431.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139617,
+        "aniId": 137987,
+        "createdAt": "2021-10-09T14:32:52.000Z",
+        "updatedAt": "2021-10-09T15:02:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

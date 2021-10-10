@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.weibo.com/u/5406119222"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14428"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mo_Dao_Zu_Shi"
+      }
+    ],
     "altTitle": [
       "Grandmaster of Demonic Cultivation 2",
       "The Founder of Diabolism 2",
@@ -29,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1404/106707.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14428,
     "createdAt": "2020-10-12T15:40:05.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T21:32:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

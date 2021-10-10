@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://space--academy.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15726"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24035"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E3%81%AA%E3%82%93%E3%81%A1%E3%82%83%E3%82%89_%E3%81%93%E3%81%A6%E3%81%A4%E3%81%8F%E3%82%93#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    }
+  ],
   "altTitle": [
     "Space Academy",
     "宇宙なんちゃらこてつくん"
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1226/112286.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15726,
   "createdAt": "2021-08-13T21:17:43.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T09:04:53.000Z",
   "deletedAt": null,
   "Pages": {}
 }

@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-05T09:43:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "nyanko_days": {
+        "authors": [
+          "Tarabagani"
+        ],
+        "identifier": "nyanko_days",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Nyanko Days",
+        "url": "https://fanfox.net/manga/nyanko_days/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29293/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101613,
+        "aniId": 99093,
+        "createdAt": "2021-10-08T23:02:25.000Z",
+        "updatedAt": "2021-10-08T23:32:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

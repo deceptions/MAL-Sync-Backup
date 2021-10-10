@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://calf-en.ocnk.net/product/3"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13364"
+      }
+    ],
     "altTitle": [
       "A Small Experiment",
       "A smart experiment"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/72286.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13364,
     "createdAt": "2020-10-12T15:39:35.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:33:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

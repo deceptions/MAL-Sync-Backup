@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://sankakumado-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15912"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23838"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Night_Beyond_the_Tricornered_Window#Anime"
+    }
+  ],
   "altTitle": [
     "The Night Beyond the Tricornered Window",
     "さんかく窓の外側は夜"
@@ -8,12 +25,51 @@
   "type": "anime",
   "title": "Sankaku Mado no Sotogawa wa Yoru",
   "url": "https://myanimelist.net/anime/44387/Sankaku_Mado_no_Sotogawa_wa_Yoru",
-  "image": "https://cdn.myanimelist.net/images/anime/1496/116220.jpg",
+  "image": "https://cdn.myanimelist.net/images/anime/1712/117547.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15912,
   "createdAt": "2021-07-17T18:34:46.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T14:31:22.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "sankaku-mado-no-sotogawa-wa-yoru": {
+        "identifier": "sankaku-mado-no-sotogawa-wa-yoru",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sankaku Mado no Sotogawa wa Yoru",
+        "url": "https://gogoanime.pe/category/sankaku-mado-no-sotogawa-wa-yoru",
+        "image": "https://gogocdn.net/cover/sankaku-mado-no-sotogawa-wa-yoru.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44387,
+        "aniId": 126897,
+        "createdAt": "2021-10-03T14:32:22.000Z",
+        "updatedAt": "2021-10-03T15:00:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "n333k": {
+        "identifier": "n333k",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sankaku Mado no Sotogawa wa Yoru",
+        "url": "https://9anime.to/watch/the-night-beyond-the-tricornered-window.n333k",
+        "image": "https://static.bunnycdn.ru/i/cache/images/5/57/57b02eab08e78118f67da4fe13bf610e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44387,
+        "aniId": 126897,
+        "createdAt": "2021-10-03T15:01:22.000Z",
+        "updatedAt": "2021-10-03T15:30:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

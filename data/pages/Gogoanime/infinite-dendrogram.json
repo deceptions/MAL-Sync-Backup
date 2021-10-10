@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://dendro-anime.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14564"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21768"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Infinite_Dendrogram"
+      }
+    ],
     "altTitle": [
       "Infinite Dendrogram",
       "<Infinite Dendrogram>-インフィニット・デンドログラム-"
@@ -24,12 +41,12 @@
     "type": "anime",
     "title": "Infinite Dendrogram",
     "url": "https://myanimelist.net/anime/38909/Infinite_Dendrogram",
-    "image": "https://cdn.myanimelist.net/images/anime/1715/104281.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1854/114772.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14564,
     "createdAt": "2020-10-12T15:40:07.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T01:39:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

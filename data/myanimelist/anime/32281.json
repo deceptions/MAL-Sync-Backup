@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kiminona.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11829"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18171"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Your_Name"
+    }
+  ],
   "altTitle": [
     "Your Name.",
     "君の名は。"
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11829,
   "createdAt": "2020-10-12T15:39:42.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T09:04:16.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -87,6 +104,23 @@
         "aniId": 21519,
         "createdAt": "2020-10-12T16:00:59.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "kimi-no-na-wa-dub": {
+        "identifier": "kimi-no-na-wa-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kimi no Na wa. (Dub)",
+        "url": "https://gogoanime.pe/category/kimi-no-na-wa-dub",
+        "image": "https://gogocdn.net/cover/kimi-no-na-wa-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 32281,
+        "aniId": 21519,
+        "createdAt": "2020-10-12T16:00:59.000Z",
+        "updatedAt": "2021-10-06T08:32:17.000Z",
         "deletedAt": null
       }
     },

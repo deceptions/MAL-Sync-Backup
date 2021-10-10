@@ -15,7 +15,12 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13654"
+      }
+    ],
     "altTitle": [
       "墓王之王 悬棺寺"
     ],
@@ -26,9 +31,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1153/100598.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13654,
     "createdAt": "2020-11-15T16:45:12.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T03:34:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

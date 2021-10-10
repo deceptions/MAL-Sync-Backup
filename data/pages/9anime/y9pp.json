@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://store.kadokawa.co.jp/preorder/888800000016/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11184"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/High_School_D%C3%97D"
+      }
+    ],
     "altTitle": [
       "High School DxD New OVA",
       "High School DxD New Episode 13",
@@ -29,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/73605.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11184,
     "createdAt": "2020-10-12T15:39:35.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:36:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

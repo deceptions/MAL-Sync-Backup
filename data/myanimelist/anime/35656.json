@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.oshiri-tantei.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13203"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21206"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%97%E3%82%8A%E3%81%9F%E3%82%93%E3%81%A6%E3%81%84#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    }
+  ],
   "altTitle": [
     "Butt Detective",
     "おしりたんてい"
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1415/107368.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13203,
   "createdAt": "2020-10-12T15:39:54.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T17:31:32.000Z",
   "deletedAt": null,
   "Pages": {}
 }

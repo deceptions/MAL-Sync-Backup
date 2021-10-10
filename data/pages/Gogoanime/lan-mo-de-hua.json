@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.mgtv.com/b/316394/4014349.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13429"
+      }
+    ],
     "altTitle": [
       "Lan Mo's Flower",
       "蓝漠的花"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/87403.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13429,
     "createdAt": "2020-10-12T15:39:56.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T18:34:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

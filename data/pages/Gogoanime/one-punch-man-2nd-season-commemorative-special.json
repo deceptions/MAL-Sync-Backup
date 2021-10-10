@@ -15,7 +15,24 @@
   "updatedAt": "2021-06-29T08:05:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://onepunchman-anime.net"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12430"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21282"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/One-Punch_Man"
+      }
+    ],
     "altTitle": [
       "One Punch Man 2nd Season Commemorative Special",
       "One Punch-Man 2",
@@ -30,9 +47,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1968/100374.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12430,
     "createdAt": "2020-10-12T15:40:09.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T03:32:05.000Z",
     "deletedAt": null
   },
   "Anilist": null,

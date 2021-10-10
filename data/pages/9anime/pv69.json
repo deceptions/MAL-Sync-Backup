@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://cagaster.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14479"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22610"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%99%AB%E7%B1%A0%E3%81%AE%E3%82%AB%E3%82%AC%E3%82%B9%E3%83%86%E3%83%AB"
+      }
+    ],
     "altTitle": [
       "Cagaster of an Insect Cage",
       "虫籠のカガステル"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1842/105458.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14479,
     "createdAt": "2020-10-12T15:40:06.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T01:06:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

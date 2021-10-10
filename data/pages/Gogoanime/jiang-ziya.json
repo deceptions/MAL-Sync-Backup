@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.wellgousa.com/films/jiang-ziya"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15375"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Legend_of_Deification"
+      }
+    ],
     "altTitle": [
       "Jiang Ziya",
       "Legend of Deification",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1545/107810.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15375,
     "createdAt": "2020-11-26T17:01:39.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T08:05:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md28227527/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15514"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E5%A4%A7%E7%90%86%E5%AF%BA%E6%97%A5%E5%BF%97/23229667"
+      }
+    ],
     "altTitle": [
       "White Cat Legend",
       "Dalisi Rizhi",
@@ -29,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1659/105254.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15514,
     "createdAt": "2020-10-12T15:40:07.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T01:32:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

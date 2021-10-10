@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://anime.build-divide.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16265"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24316"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Build_Divide"
+    }
+  ],
   "altTitle": [
     "Build Divide: #000000",
     "ビルディバイド -#000000(コードブラック)-"
@@ -11,9 +28,48 @@
   "image": "https://cdn.myanimelist.net/images/anime/1014/117452.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16265,
   "createdAt": "2021-09-29T20:37:02.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T11:37:24.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "xrp7v": {
+        "identifier": "xrp7v",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Build Divide: Code Black",
+        "url": "https://9anime.to/watch/build-divide-code-black.xrp7v",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/02/029cff45e8685345349f1d8875b61a80.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48776,
+        "aniId": 132525,
+        "createdAt": "2021-10-09T17:33:07.000Z",
+        "updatedAt": "2021-10-09T18:02:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "build-divide-code-black": {
+        "identifier": "build-divide-code-black",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Build Divide: Code Black",
+        "url": "https://gogoanime.pe/category/build-divide-code-black",
+        "image": "https://gogocdn.net/cover/build-divide-code-black.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48776,
+        "aniId": 132525,
+        "createdAt": "2021-10-09T19:02:21.000Z",
+        "updatedAt": "2021-10-09T19:32:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

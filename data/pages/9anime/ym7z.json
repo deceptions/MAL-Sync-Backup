@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.musani.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10779"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Shirobako"
+      }
+    ],
     "altTitle": [
       "SHIROBAKO 劇中劇アニメーション"
     ],
@@ -26,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/72234.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10779,
     "createdAt": "2020-10-12T15:39:31.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T02:04:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

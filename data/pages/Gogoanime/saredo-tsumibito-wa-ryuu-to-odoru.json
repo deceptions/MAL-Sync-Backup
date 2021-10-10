@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tbs.co.jp/anime/sareryu/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12337"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19908"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%82%8C%E3%81%A9%E7%BD%AA%E4%BA%BA%E3%81%AF%E7%AB%9C%E3%81%A8%E8%B8%8A%E3%82%8B_Dances_with_the_Dragons"
+      }
+    ],
     "altTitle": [
       "Dances with the Dragons",
       "されど罪人は竜と踊る"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1313/95061.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12337,
     "createdAt": "2020-10-12T15:39:48.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T13:05:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

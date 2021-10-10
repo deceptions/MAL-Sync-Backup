@@ -15,9 +15,27 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://tyre.dunlop.co.jp/roadtoyou/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13496"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/ROAD_TO_YOU%E3%80%9C%E5%90%9B%E3%81%B8%E3%81%A8%E7%B6%9A%E3%81%8F%E9%81%93%E3%80%9C"
+      }
+    ],
     "altTitle": [
-      "Road to You: The Road That Goes on to You, Road to You: Promise of the Starry Hill, Road to You: The Snow That Dances in Memories, Road to You: Kimi e to Tsuzuku Michi, Road to You: Hoshifuru Oka no Yakusoku, Road to You: Kioku ni Mau Konayuki",
+      "Road to You: The Road That Goes on to You",
+      "Road to You: Promise of the Starry Hill",
+      "Road to You: The Snow That Dances in Memories",
+      "Road to You: Kimi e to Tsuzuku Michi",
+      "Road to You: Hoshifuru Oka no Yakusoku",
+      "Road to You: Kioku ni Mau Konayuki",
       "ROAD TO YOU"
     ],
     "id": 36492,
@@ -27,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1559/102177.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13496,
     "createdAt": "2020-10-12T15:39:57.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T19:05:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

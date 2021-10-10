@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://isekai-yakkyoku.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16441"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24536"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%95%B0%E4%B8%96%E7%95%8C%E8%96%AC%E5%B1%80#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+    }
+  ],
   "altTitle": [
     "Alternate World Pharmacy",
     "Parallel World Pharmacy",
@@ -12,9 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1053/116557.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16441,
   "createdAt": "2021-09-21T13:40:56.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T12:30:54.000Z",
   "deletedAt": null,
   "Pages": {}
 }

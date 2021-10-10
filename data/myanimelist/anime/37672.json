@@ -1,7 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13172"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Katana_Maidens_~_Toji_No_Miko#Episode_list"
+    }
+  ],
   "altTitle": [
-    "Toji no Miko: Taidou-hen Digest, Toji no Miko: Short Version Digest, Toji no Miko Episode 12.5",
+    "Toji no Miko: Taidou-hen Digest",
+    "Toji no Miko: Short Version Digest",
+    "Toji no Miko Episode 12.5",
     "胎動編 ダイジェスト"
   ],
   "id": 37672,
@@ -11,9 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1614/91864.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13172,
   "createdAt": "2020-10-12T15:40:02.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T22:32:36.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11472"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17479"
+    }
+  ],
   "altTitle": [
     "One Day A Letter Arrives from the Dog Kingdom",
     "ある日 犬の国から手紙が来て"
@@ -11,9 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1085/92040.jpg",
   "category": "OVA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11472,
   "createdAt": "2020-10-12T15:39:38.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T06:38:43.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

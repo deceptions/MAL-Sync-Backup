@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nhk.or.jp/anime/radiant/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14701"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21877"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Radiant_(TV_series)"
+      }
+    ],
     "altTitle": [
       "RADIANT Season 2",
       "ラディアン 第2シリーズ"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1974/108398.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14701,
     "createdAt": "2020-10-12T15:40:08.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T02:38:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,10 +15,28 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://piano-anime.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13537"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20596"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Piano_no_Mori"
+      }
+    ],
     "altTitle": [
       "Forest of Piano",
-      "Piano Forest, The Perfect World of Kai",
+      "Piano Forest",
+      "The Perfect World of Kai",
       "ピアノの森"
     ],
     "id": 36652,
@@ -28,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1501/91916.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13537,
     "createdAt": "2020-10-12T15:39:57.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T19:36:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

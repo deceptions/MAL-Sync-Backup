@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.yume-100-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12362"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21052"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/100_Sleeping_Princes_and_the_Kingdom_of_Dreams"
+      }
+    ],
     "altTitle": [
       "100 Sleeping Princes and the Kingdom of Dreams",
       "夢王国と眠れる100人の王子様"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1526/95041.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12362,
     "createdAt": "2020-10-12T15:39:48.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T13:08:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

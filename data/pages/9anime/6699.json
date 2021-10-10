@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.style.fm/as/13_special/sh_060512.shtml"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11398"
+      }
+    ],
     "altTitle": [
       "2005 Space Odyssey",
       "2005年宇宙の旅"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/81170.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11398,
     "createdAt": "2020-10-12T15:39:32.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T02:08:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

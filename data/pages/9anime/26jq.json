@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kyuketsukisan-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13966"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21135"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%AE%E5%90%B8%E8%A1%80%E9%AC%BC%E3%81%95%E3%82%93"
+      }
+    ],
     "altTitle": [
       "Ms. vampire who lives in my neighborhood.",
       "となりの吸血鬼さん"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1851/96154.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13966,
     "createdAt": "2020-10-12T15:40:01.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:06:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

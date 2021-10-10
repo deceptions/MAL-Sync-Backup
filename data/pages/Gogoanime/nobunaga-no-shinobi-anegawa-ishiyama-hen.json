@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://nobunaga-no-shinobi.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13740"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20566"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nobunaga_no_Shinobi"
+      }
+    ],
     "altTitle": [
       "Ninja Girl & Samurai Master: Anegawa and Ishiyama Arc",
       "Ninja Girl & Samurai Master 3rd",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1651/91110.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13740,
     "createdAt": "2020-10-12T15:39:59.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T20:40:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

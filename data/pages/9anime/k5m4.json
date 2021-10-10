@@ -15,10 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.anime-eupho.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14935"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sound!_Euphonium"
+      }
+    ],
     "altTitle": [
       "Sound! Euphonium 3",
-      "Hibike! Euphonium Third Season, Hibike! Euphonium 3",
+      "Hibike! Euphonium Third Season",
+      "Hibike! Euphonium 3",
       "響け！ユーフォニアム3"
     ],
     "id": 39894,
@@ -28,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1050/101181.jpg",
     "category": "Unknown",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14935,
     "createdAt": "2020-10-12T15:40:10.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T04:01:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

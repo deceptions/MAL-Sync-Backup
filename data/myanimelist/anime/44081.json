@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://bpro-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15866"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/B-Project#Anime"
+    }
+  ],
   "altTitle": [
     "B-PROJECT"
   ],
@@ -10,9 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1328/110318.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15866,
   "createdAt": "2021-02-27T04:13:52.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T10:03:06.000Z",
   "deletedAt": null,
   "Pages": {}
 }

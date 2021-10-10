@@ -15,7 +15,16 @@
   "updatedAt": "2021-07-25T13:22:18.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15712"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Super_HxEros#Anime"
+      }
+    ],
     "altTitle": [
       "SUPER HXEROS OVA",
       "ド級編隊エグゼロス"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1592/109081.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15712,
     "createdAt": "2020-11-27T17:31:50.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T09:03:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

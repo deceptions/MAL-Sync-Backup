@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://maerchen-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13309"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19975"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/M%C3%A4rchen_M%C3%A4dchen"
+      }
+    ],
     "altTitle": [
       "Maerchen Maedchen",
       "Fairy Tale Girls",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/90088.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13309,
     "createdAt": "2020-10-12T15:39:55.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T18:05:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

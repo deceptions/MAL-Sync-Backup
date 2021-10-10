@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14765"
+    }
+  ],
   "altTitle": [
     "Krosna",
     "Krosna"
@@ -11,9 +16,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1340/97743.jpg",
   "category": "Music",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 14765,
   "createdAt": "2021-07-19T01:02:31.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T01:38:04.000Z",
   "deletedAt": null,
   "Pages": {}
 }

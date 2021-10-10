@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://marginal4-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11928"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18677"
+      }
+    ],
     "altTitle": [
       "MARGINAL #4 the Animation",
       "MARGINAL#4 KISSから創造るBig Bang"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/83799.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11928,
     "createdAt": "2020-10-12T15:39:47.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T12:40:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

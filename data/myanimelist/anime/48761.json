@@ -34,5 +34,44 @@
   "createdAt": "2021-09-27T08:36:14.000Z",
   "updatedAt": "2021-09-30T19:34:33.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "xwy8": {
+        "identifier": "xwy8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Saihate no Paladin",
+        "url": "https://9anime.to/watch/the-faraway-paladin.xwy8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/e/e9/e99c21d61db344bc2c23411a4139793e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48761,
+        "aniId": 132473,
+        "createdAt": "2021-10-09T15:32:50.000Z",
+        "updatedAt": "2021-10-09T16:02:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "saihate-no-paladin": {
+        "identifier": "saihate-no-paladin",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Saihate no Paladin",
+        "url": "https://gogoanime.pe/category/saihate-no-paladin",
+        "image": "https://gogocdn.net/cover/saihate-no-paladin.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48761,
+        "aniId": 132473,
+        "createdAt": "2021-10-09T19:02:20.000Z",
+        "updatedAt": "2021-10-09T19:32:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

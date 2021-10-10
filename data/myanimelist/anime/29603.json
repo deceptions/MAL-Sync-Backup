@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13342"
+    }
+  ],
   "altTitle": [
     "クロカン"
   ],
@@ -10,9 +15,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/71221.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13342,
   "createdAt": "2020-10-12T15:39:33.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T03:33:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

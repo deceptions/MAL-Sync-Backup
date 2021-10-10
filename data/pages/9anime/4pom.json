@@ -15,10 +15,23 @@
   "updatedAt": "2020-10-12T18:35:45.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www9.nhk.or.jp/anime/petit/chik.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E4%BC%B8%E4%B8%80"
+      }
+    ],
     "altTitle": [
       "Tick & Tack",
-      "Tick and Tack, Tic and Tac, Tic & Tac, Chikkun Takku, Chikkun Takkun",
+      "Tick and Tack",
+      "Tic and Tac",
+      "Tic & Tac",
+      "Chikkun Takku",
+      "Chikkun Takkun",
       "チックンタック"
     ],
     "id": 29369,
@@ -30,7 +43,7 @@
     "hentai": false,
     "anidbId": null,
     "createdAt": "2020-10-12T15:39:33.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T03:09:11.000Z",
     "deletedAt": null
   },
   "Anilist": null,

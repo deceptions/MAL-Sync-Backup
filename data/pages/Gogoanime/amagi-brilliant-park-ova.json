@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tbs.co.jp/anime/amaburi/goods/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10399"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Amagi_Brilliant_Park"
+      }
+    ],
     "altTitle": [
       "Amagi Brilliant Park Episode 14",
       "Amagi Brilliant Park Tokubetsu-hen",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/74772.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10399,
     "createdAt": "2020-10-12T15:39:35.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:31:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

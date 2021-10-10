@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.bikini-warriors.com/anime/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11251"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17084"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Bikini_Warriors"
+      }
+    ],
     "altTitle": [
       "Bikini Warriors",
       "ビキニ・ウォリアーズ"
@@ -24,12 +41,12 @@
     "type": "anime",
     "title": "Bikini Warriors",
     "url": "https://myanimelist.net/anime/30782/Bikini_Warriors",
-    "image": "https://cdn.myanimelist.net/images/anime/12/75103.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1670/112160.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11251,
     "createdAt": "2020-10-12T15:39:36.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T05:34:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -9,15 +9,38 @@
     "Natsuki Uemura"
   ],
   "id": 132505,
-  "malId": null,
+  "malId": 134676,
   "type": "manga",
-  "title": "Dokuzetsu Shoujo wa Amanojaku: Kabe-goshinara Sunao ni Sukitteieru Mon!",
+  "title": "Dokuzetsu Shoujo wa Amanojaku: Kabegoshi nara Sunao ni Suki tte Ierumon!",
   "url": "https://anilist.co/manga/132505",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132505-4b5WFAWHEI6o.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132505-TZ79HMEucHwl.jpg",
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-04T05:48:57.000Z",
-  "updatedAt": "2021-06-21T17:47:53.000Z",
+  "updatedAt": "2021-10-04T04:30:53.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-kd988212": {
+        "authors": [
+          "Murakami Natsuki"
+        ],
+        "identifier": "manga-kd988212",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dokuzetsu Shoujo Wa Amanojaku",
+        "url": "https://manganato.com/manga-kd988212",
+        "image": "https://avt.mkklcdnv6temp.com/29/l/23-1613923692.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 134676,
+        "aniId": 132505,
+        "createdAt": "2021-09-15T01:20:15.000Z",
+        "updatedAt": "2021-10-04T05:00:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

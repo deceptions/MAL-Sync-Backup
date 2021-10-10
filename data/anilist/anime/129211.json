@@ -17,5 +17,25 @@
   "createdAt": "2021-07-21T00:03:48.000Z",
   "updatedAt": "2021-07-21T00:03:48.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "ji-jia-shou-shen": {
+        "identifier": "ji-jia-shou-shen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ji Jia Shou Shen",
+        "url": "https://gogoanime.pe/category/ji-jia-shou-shen",
+        "image": "https://gogocdn.net/cover/ji-jia-shou-shen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42765,
+        "aniId": 129211,
+        "createdAt": "2021-10-04T15:31:03.000Z",
+        "updatedAt": "2021-10-04T16:00:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

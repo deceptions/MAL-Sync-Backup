@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.initiald-movie.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9987"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16821"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Initial_D"
+      }
+    ],
     "altTitle": [
       "Initial D Legend 2 Racer",
       "Shin Gekijouban Initial D: Legend 2 - Tousou",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/72246.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 9987,
     "createdAt": "2020-10-12T15:39:33.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T03:03:21.000Z",
     "deletedAt": null
   },
   "Anilist": {

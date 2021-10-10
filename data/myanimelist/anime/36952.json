@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tenipuri.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12484"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20816"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Prince_of_Tennis"
+    }
+  ],
   "altTitle": [
     "Prince of Tennis: Best Games!!",
     "テニスの王子様 BEST GAMES!!"
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1343/95287.jpg",
   "category": "OVA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12484,
   "createdAt": "2020-10-12T15:39:59.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T20:32:34.000Z",
   "deletedAt": null,
   "Pages": {}
 }

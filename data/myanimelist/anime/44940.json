@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/wt/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15934"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24201"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/World_Trigger#Anime"
+    }
+  ],
   "altTitle": [
     "ワールドトリガー"
   ],
@@ -10,9 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1617/117474.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15934,
   "createdAt": "2020-12-20T08:56:35.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T10:09:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {
@@ -31,6 +48,44 @@
         "aniId": 127400,
         "createdAt": "2020-12-31T12:51:59.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "mx1p": {
+        "identifier": "mx1p",
+        "type": "anime",
+        "page": "9anime",
+        "title": "World Trigger 3rd Season",
+        "url": "https://9anime.to/watch/world-trigger-season-3.mx1p",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/39/392c8364b4866aa7701e042372333ed2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44940,
+        "aniId": 127400,
+        "createdAt": "2021-10-09T19:32:50.000Z",
+        "updatedAt": "2021-10-09T20:02:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "world-trigger-3rd-season": {
+        "identifier": "world-trigger-3rd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "World Trigger 3rd Season",
+        "url": "https://gogoanime.pe/category/world-trigger-3rd-season",
+        "image": "https://gogocdn.net/cover/world-trigger-3rd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44940,
+        "aniId": 127400,
+        "createdAt": "2021-10-09T19:33:22.000Z",
+        "updatedAt": "2021-10-09T20:02:20.000Z",
         "deletedAt": null
       }
     }

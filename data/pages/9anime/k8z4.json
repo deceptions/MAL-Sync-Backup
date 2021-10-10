@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tbs.co.jp/anime/urara/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11985"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18880"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%86%E3%82%89%E3%82%89%E8%BF%B7%E8%B7%AF%E5%B8%96"
+      }
+    ],
     "altTitle": [
       "Urara Meirocho",
       "うらら迷路帖"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/84119.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11985,
     "createdAt": "2020-10-12T15:39:44.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T10:32:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

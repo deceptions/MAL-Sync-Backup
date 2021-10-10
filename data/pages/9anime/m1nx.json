@@ -15,7 +15,16 @@
   "updatedAt": "2021-06-21T21:44:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kankaku.jp/independent-en/glasses.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13369"
+      }
+    ],
     "altTitle": [
       "Well, That's Glasses",
       "そういう眼鏡"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/72280.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13369,
     "createdAt": "2021-06-04T08:19:08.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:33:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

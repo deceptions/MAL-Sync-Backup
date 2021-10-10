@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.urawa-usagi.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10879"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Urawa_no_Usagi-chan"
+    }
+  ],
   "altTitle": [
     "Urawa no Usagi-chan Episode 13",
     "浦和の調ちゃん"
@@ -11,9 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/75928.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 10879,
   "createdAt": "2020-10-12T15:39:38.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T07:02:24.000Z",
   "deletedAt": null,
   "Pages": {}
 }

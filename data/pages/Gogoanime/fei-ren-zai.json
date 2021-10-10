@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/w/wk85h1a859a8350.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13852"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E9%9D%9E%E4%BA%BA%E5%93%89"
+      }
+    ],
     "altTitle": [
       "Shenme Gui",
       "神么鬼",
@@ -29,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1468/90508.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13852,
     "createdAt": "2020-10-12T15:40:00.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T21:08:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

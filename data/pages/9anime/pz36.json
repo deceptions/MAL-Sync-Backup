@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://7dayswar.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14071"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22539"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE%E4%B8%83%E6%97%A5%E9%96%93%E6%88%A6%E4%BA%89"
+      }
+    ],
     "altTitle": [
       "Our Seven-Day War",
       "ぼくらの七日間戦争"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1887/103944.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14071,
     "createdAt": "2020-10-12T15:40:03.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:38:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

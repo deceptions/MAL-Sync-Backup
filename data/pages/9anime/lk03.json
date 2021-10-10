@@ -15,7 +15,12 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12274"
+      }
+    ],
     "altTitle": [
       "Cure Miracle and Cure Mofurun's Magic Lesson",
       "キュアミラクルとモフルンの魔法レッスン"
@@ -27,9 +32,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/80943.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12274,
     "createdAt": "2020-10-12T15:39:47.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T12:33:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

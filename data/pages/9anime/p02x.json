@@ -15,7 +15,20 @@
   "updatedAt": "2021-07-04T17:59:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://balala.auldey.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14638"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Balala_the_Fairies_(series)"
+      }
+    ],
     "altTitle": [
       "巴啦啦小魔仙之: 魔法海萤堡"
     ],
@@ -26,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1463/102588.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14638,
     "createdAt": "2021-07-04T17:32:12.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T04:37:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

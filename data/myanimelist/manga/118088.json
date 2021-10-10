@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "海色マーチ"
   ],
@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:52.000Z",
-  "updatedAt": "2021-05-23T10:42:58.000Z",
+  "updatedAt": "2021-10-05T14:33:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 106736,
         "createdAt": "2020-10-12T16:14:14.000Z",
         "updatedAt": "2021-06-06T03:30:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ms989727": {
+        "authors": [
+          "Minamito"
+        ],
+        "identifier": "manga-ms989727",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Umiiro March",
+        "url": "https://manganato.com/manga-ms989727",
+        "image": "https://avt.mkklcdnv6temp.com/44/c/24-1633431978.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118088,
+        "aniId": 106736,
+        "createdAt": "2021-10-05T14:32:27.000Z",
+        "updatedAt": "2021-10-05T15:02:17.000Z",
         "deletedAt": null
       }
     }

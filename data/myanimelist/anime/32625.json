@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11743"
+    }
+  ],
   "altTitle": [
-    "Okusama ga Seitokaichou! OVA Specials, My Wife is the Student Council President OVA: Wife Theater",
+    "Okusama ga Seitokaichou! OVA Specials",
+    "My Wife is the Student Council President OVA: Wife Theater",
     "おくさまが生徒会長！OAD「おくさま劇場」"
   ],
   "id": 32625,
@@ -11,9 +17,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/78487.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11743,
   "createdAt": "2020-10-12T15:39:43.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T09:37:32.000Z",
   "deletedAt": null,
   "Pages": {}
 }

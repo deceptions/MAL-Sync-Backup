@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://wwws.warnerbros.co.jp/hirunehime/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12089"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18871"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ancien_and_the_Magic_Tablet"
+      }
+    ],
     "altTitle": [
       "Napping Princess",
       "Napping Princess: The Story of the Unknown Me",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/84071.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12089,
     "createdAt": "2020-10-12T15:39:45.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T11:30:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

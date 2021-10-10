@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://en.gundam.info/about-gundam/series-pages/sdw-soketsuden/animation.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14497"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22268"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/SD%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89_%E4%B8%89%E5%9B%BD%E5%89%B5%E5%82%91%E4%BC%9D"
+      }
+    ],
     "altTitle": [
       "SD Gundam World: Sangoku Soketsuden",
       "SDガンダムワールド 三国創傑伝"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1491/102275.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14497,
     "createdAt": "2020-10-12T15:40:06.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T01:09:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

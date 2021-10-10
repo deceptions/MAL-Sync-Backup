@@ -15,21 +15,31 @@
   "updatedAt": "2021-06-10T00:04:14.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/e/enj7gj9pcksq89p.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14647"
+      }
+    ],
     "altTitle": [
       "Painting Rivers and Lakes 3",
-      "画江湖之不良人 第3季"
+      "Hua Jiang Hu: Bu Liang Ren 3rd Season",
+      "画江湖之不良人III"
     ],
     "id": 39141,
     "type": "anime",
-    "title": "Hua Jiang Hu Zhi Bu Liang Ren 3rd Season",
-    "url": "https://myanimelist.net/anime/39141/Hua_Jiang_Hu_Zhi_Bu_Liang_Ren_3rd_Season",
+    "title": "Hua Jiang Hu: Bu Liang Ren III",
+    "url": "https://myanimelist.net/anime/39141/Hua_Jiang_Hu__Bu_Liang_Ren_III",
     "image": "https://cdn.myanimelist.net/images/anime/1580/98712.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14647,
     "createdAt": "2020-10-12T15:40:08.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T02:31:53.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -50,5 +60,5 @@
     "updatedAt": "2021-06-17T16:55:30.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/anime/39141/Hua_Jiang_Hu_Zhi_Bu_Liang_Ren_3rd_Season"
+  "malUrl": "https://myanimelist.net/anime/39141/Hua_Jiang_Hu__Bu_Liang_Ren_III"
 }

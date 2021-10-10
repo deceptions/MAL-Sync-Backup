@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.cwfilms.jp/tabimachi/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11835"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17911"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%97%85%E8%A1%97%E3%83%AC%E3%82%A4%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC"
+      }
+    ],
     "altTitle": [
       "Tabi Machi Late Show: Awaiting My Journey",
       "旅街レイトショー"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/78140.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11835,
     "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T09:05:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

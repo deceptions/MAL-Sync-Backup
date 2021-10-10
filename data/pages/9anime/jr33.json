@@ -15,10 +15,21 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://chubyou.net/package.html?cat=vol04"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14410"
+      }
+    ],
     "altTitle": [
       "Outburst Dreamer Boys: It Is the Destiny of Those Born as Men",
-      "Chuubyou Gekihatsu Boy Episode 12, Outburst Dreamer Boys Episode 12, Chuubyou Gekihatsu Boy Special",
+      "Chuubyou Gekihatsu Boy Episode 12",
+      "Outburst Dreamer Boys Episode 12",
+      "Chuubyou Gekihatsu Boy Special",
       "厨病激発ボーイ 男に生まれた宿命だから"
     ],
     "id": 40465,
@@ -28,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1527/103340.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14410,
     "createdAt": "2020-10-12T15:40:12.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T05:09:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

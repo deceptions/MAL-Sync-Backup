@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://majimesugiru-anime.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13515"
+      }
+    ],
     "altTitle": [
       "My Girlfriend Is ShoBitch",
       "My Girlfriend is a Faithful Virgin Bitch",
@@ -29,9 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1034/112435.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13515,
     "createdAt": "2020-10-12T15:39:57.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T19:32:32.000Z",
     "deletedAt": null
   },
   "Anilist": {

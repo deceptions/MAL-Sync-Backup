@@ -12,13 +12,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 128555,
+  "aniId": 122180,
   "createdAt": "2021-01-20T09:33:14.000Z",
-  "updatedAt": "2021-07-23T08:05:30.000Z",
+  "updatedAt": "2021-10-08T14:32:19.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pocket.shonenmagazine.com/episode/13933686331683386618"
+      }
+    ],
+    "altTitle": [
+      "Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest",
+      "The Unfavorable Job \"Appraiser\" Is Actually the Strongest",
+      "不遇職【鑑定士】が実は最強だった～奈落で鍛えた最強の【神眼】で無双する～"
+    ],
+    "authors": [
+      "Ibarakino",
+      "Fuji, Morohoshi"
+    ],
+    "id": 128555,
+    "type": "manga",
+    "title": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no \"Shingan\" de Musou suru",
+    "url": "https://myanimelist.net/manga/128555/Fuguushoku_Kanteishi_ga_Jitsu_wa_Saikyou_Datta__Naraku_de_Kitaeta_Saikyou_no_Shingan_de_Musou_suru",
+    "image": "https://cdn.myanimelist.net/images/manga/1/236663.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-27T16:12:44.000Z",
+    "updatedAt": "2021-10-08T11:32:46.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "不遇職【鑑定士】が実は最強だった～奈落で鍛えた最強の【神眼】で無双する～",
+      "The Unfavourable Job \"Appraiser\" Is Actually the Strongest"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ibarakino",
+      "Yuu Hitaki",
+      "Morohoshi Fuji"
+    ],
+    "id": 122180,
+    "malId": 128555,
+    "type": "manga",
+    "title": "Fuguushoku [Kanteishi] ga Jitsuwa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru",
+    "url": "https://anilist.co/manga/122180",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122180-fxfIiOb1Gc4Q.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:21.000Z",
+    "updatedAt": "2021-06-18T07:20:51.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/128555/Fuguushoku_Kanteishi_ga_Jitsu_wa_Saikyou_Datta__Naraku_de_Kitaeta_Saikyou_no_Shingan_de_Musou_suru"
 }

@@ -15,9 +15,19 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.m-jinken.jp/cgi/db/profile.cgi?page=15&key=%A5%A2%A5%CB%A5%E1&type=or&label=&tpl=view&view=dammy&width=100%"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5028"
+      }
+    ],
     "altTitle": [
-      "Yamakoshi-mura no Mari to Sanbiki no Koinu, Yamakoshi Mura no Mari to San-biki no Koinu",
+      "Yamakoshi-mura no Mari to Sanbiki no Koinu",
+      "Yamakoshi Mura no Mari to San-biki no Koinu",
       "山古志村のマリと三匹の子犬"
     ],
     "id": 30985,
@@ -27,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1540/112442.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 5028,
     "createdAt": "2020-10-12T15:39:37.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T06:03:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

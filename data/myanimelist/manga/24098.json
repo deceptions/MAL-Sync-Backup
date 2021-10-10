@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/Another"
+    }
+  ],
   "altTitle": [
     "Another",
     "Another"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:12.000Z",
-  "updatedAt": "2021-08-19T20:38:29.000Z",
+  "updatedAt": "2021-10-07T12:32:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,6 +89,28 @@
         "aniId": 54098,
         "createdAt": "2021-06-02T06:31:05.000Z",
         "updatedAt": "2021-06-02T06:31:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mf960414": {
+        "authors": [
+          "Ayatsuji Yukito"
+        ],
+        "identifier": "manga-mf960414",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Another",
+        "url": "https://manganato.com/manga-mf960414",
+        "image": "https://avt.mkklcdnv6temp.com/50/p/6-1583476299.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24098,
+        "aniId": 54098,
+        "createdAt": "2021-10-07T12:32:49.000Z",
+        "updatedAt": "2021-10-07T13:02:19.000Z",
         "deletedAt": null
       }
     }

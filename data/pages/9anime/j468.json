@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://lupin-3rd-movie.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15003"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22309"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lupin_the_Third"
+      }
+    ],
     "altTitle": [
       "Lupin the 3rd: The First",
       "Lupin Sansei: The First",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1572/108506.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15003,
     "createdAt": "2020-10-12T15:40:11.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T04:09:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

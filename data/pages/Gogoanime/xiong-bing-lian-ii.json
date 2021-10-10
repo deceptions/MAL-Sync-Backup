@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://baike.baidu.com/item/%E9%9B%84%E5%85%B5%E8%BF%9E%E4%B9%8B%E8%AF%B8%E5%A4%A9%E9%99%8D%E4%B8%B4"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14869"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E8%B6%85%E7%A5%9E%E5%AD%A6%E9%99%A2#%E8%AB%B8%E5%A4%A9%E9%99%8D%E8%87%A8"
+      }
+    ],
     "altTitle": [
       "Super Seminary Sixth Season",
       "雄兵连II诸天降临"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1539/114403.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14869,
     "createdAt": "2021-01-20T17:04:25.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T10:07:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,9 +15,21 @@
   "updatedAt": "2019-10-12T16:02:23.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13124"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_(anime)"
+      }
+    ],
     "altTitle": [
-      "Pokemon: Magikarp's Song, Koiking's Song, I Love Magikarp, I Love Pokemon Club",
+      "Pokemon: Magikarp's Song",
+      "Koiking's Song",
+      "I Love Magikarp",
+      "I Love Pokemon Club",
       "ポケモンだいすきクラブ"
     ],
     "id": 35552,
@@ -27,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/85685.jpg",
     "category": "Music",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13124,
     "createdAt": "2020-10-12T15:39:54.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T17:06:23.000Z",
     "deletedAt": null
   },
   "Anilist": null,

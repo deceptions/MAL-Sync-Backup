@@ -15,7 +15,24 @@
   "updatedAt": "2021-07-30T19:21:48.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://w-witch.jp/ww_takeoff/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15647"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23727"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%BC%E3%82%BA#%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%BC%E3%82%BA_501%E9%83%A8%E9%9A%8A%E7%"
+      }
+    ],
     "altTitle": [
       "World Witches Take Off!",
       "ワールドウィッチーズ発進しますっ！"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1132/110412.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15647,
     "createdAt": "2020-12-31T01:41:35.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T08:36:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

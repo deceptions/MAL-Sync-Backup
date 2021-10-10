@@ -15,7 +15,20 @@
   "updatedAt": "2021-09-01T07:45:45.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://himotehouse.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14826"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%82%82%E3%81%A6%E3%81%AF%E3%81%86%E3%81%99"
+      }
+    ],
     "altTitle": [
       "Himote House Episode 10.5",
       "Himote House OVA",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1467/100601.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14826,
     "createdAt": "2021-09-01T03:15:49.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T03:35:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

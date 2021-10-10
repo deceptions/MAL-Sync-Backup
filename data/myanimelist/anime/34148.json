@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://nyanko-days.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12433"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18832"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nyanko_Days"
+    }
+  ],
   "altTitle": [
     "Nyanko Days",
     "にゃんこデイズ"
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/83933.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12433,
   "createdAt": "2020-10-12T15:39:49.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T13:37:28.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

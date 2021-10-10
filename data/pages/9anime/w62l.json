@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.izetta.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12201"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18506"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Izetta:_The_Last_Witch"
+      }
+    ],
     "altTitle": [
       "Izetta: The Last Witch",
       "Izetta, Die Letzte Hexe",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/82119.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12201,
     "createdAt": "2020-10-12T15:39:46.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T12:03:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

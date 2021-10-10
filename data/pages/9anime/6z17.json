@@ -15,9 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11809"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17481"
+      }
+    ],
     "altTitle": [
-      "Owari no Seraph: Jump Festa 2015 Special, Owari no Seraph: Vampire Shahar, Owari no Seraph OVA",
+      "Owari no Seraph: Jump Festa 2015 Special",
+      "Owari no Seraph: Vampire Shahar",
+      "Owari no Seraph OVA",
       "終わりのセラフ 吸血鬼シャハル"
     ],
     "id": 31378,
@@ -27,9 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/82059.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11809,
     "createdAt": "2020-10-12T15:39:38.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T06:38:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

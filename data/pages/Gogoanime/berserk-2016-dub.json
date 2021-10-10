@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.berserk-anime.com/1/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11851"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18160"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Berserk_%282016_TV_series%29"
+      }
+    ],
     "altTitle": [
       "Berserk",
       "ベルセルク"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/79352.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11851,
     "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T09:08:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/bbh/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13739"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21111"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E7%88%86%E9%87%A3%E3%83%90%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC"
+    }
+  ],
   "altTitle": [
     "爆釣バーハンター"
   ],
@@ -10,9 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1043/94347.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13739,
   "createdAt": "2020-10-12T15:39:59.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T20:39:54.000Z",
   "deletedAt": null,
   "Pages": {}
 }

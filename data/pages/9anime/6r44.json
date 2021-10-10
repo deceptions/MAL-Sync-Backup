@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14414"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%8D%92%E5%8A%B4%E5%83%8D%E8%80%85%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%82%8B%E9%AB%98%E6%A0%A1%E7%94%9F%E6%B4%BB#Web%E3%82%A2%E3%83%8B%E3%83%A1 Source: https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14414"
+      }
+    ],
     "altTitle": [
       "Chuusotsu Roudousha kara Hajimeru Koukou Seikatsu",
       "中卒労働者〈ワーカー〉から始める高校生活"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1571/108020.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14414,
     "createdAt": "2020-10-12T15:40:05.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T00:34:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

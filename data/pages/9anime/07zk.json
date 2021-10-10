@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime.granbluefantasy.jp/bddvd/07.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11597"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Granblue_Fantasy_The_Animation"
+      }
+    ],
     "altTitle": [
       "Granblue Fantasy The Animation Episode 14",
       "Granblue Fantasy The Animation: Jack O'Lantern",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1215/92069.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11597,
     "createdAt": "2020-10-12T15:39:55.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T17:38:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

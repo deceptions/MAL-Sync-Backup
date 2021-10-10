@@ -22,7 +22,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:56:14.000Z",
-  "updatedAt": "2021-07-18T00:32:21.000Z",
+  "updatedAt": "2021-10-07T01:02:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -44,6 +44,28 @@
         "aniId": 100774,
         "createdAt": "2020-10-12T16:11:31.000Z",
         "updatedAt": "2021-07-20T09:35:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kuzu_no_honkai_decor": {
+        "authors": [
+          "YOKOYARI Mengo"
+        ],
+        "identifier": "kuzu_no_honkai_decor",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kuzu no Honkai decor",
+        "url": "https://fanfox.net/manga/kuzu_no_honkai_decor/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26905/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 100774,
+        "createdAt": "2021-10-07T01:02:32.000Z",
+        "updatedAt": "2021-10-07T01:02:32.000Z",
         "deletedAt": null
       }
     }

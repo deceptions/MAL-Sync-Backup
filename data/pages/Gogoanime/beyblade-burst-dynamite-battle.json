@@ -15,8 +15,22 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.beyblade.jp/teaser_6th/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16126"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Beyblade_Burst#Beyblade_Burst_Dynamite_Battle_(2021%E2%80%9322)"
+      }
+    ],
     "altTitle": [
+      "Beyblade Burst Quad Drive",
       "Beyblade Burst DB",
       "ベイブレードバーストダイナマイトバトル"
     ],
@@ -27,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1156/113543.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 16126,
     "createdAt": "2021-04-14T04:45:30.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T11:06:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://ensemblestars-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11810"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22259"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ensemble_Stars!#Anime"
+      }
+    ],
     "altTitle": [
       "あんさんぶるスターズ！"
     ],
@@ -23,12 +40,12 @@
     "type": "anime",
     "title": "Ensemble Stars!",
     "url": "https://myanimelist.net/anime/32212/Ensemble_Stars",
-    "image": "https://cdn.myanimelist.net/images/anime/1504/100488.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1804/107203.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11810,
     "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T09:01:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

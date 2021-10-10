@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://chronosruler.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12660"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18936"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%99%82%E9%96%93%E3%81%AE%E6%94%AF%E9%85%8D%E8%80%85"
+    }
+  ],
   "altTitle": [
     "Chronos Ruler",
     "時間の支配者"
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/3/86753.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12660,
   "createdAt": "2020-10-12T15:39:50.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T14:40:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

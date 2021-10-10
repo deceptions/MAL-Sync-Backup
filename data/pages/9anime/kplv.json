@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://piano-anime.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14193"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%A2%E3%83%8E%E3%81%AE%E6%A3%AE"
+      }
+    ],
     "altTitle": [
       "Piano Forest Second Season",
       "ピアノの森 第2シリーズ"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1186/100864.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14193,
     "createdAt": "2020-10-12T15:40:03.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T23:09:58.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://nobunaga-no-shinobi.com/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12900"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19927"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nobunaga_no_Shinobi"
+      }
+    ],
     "altTitle": [
       "Ninja Girl & Samurai Master 2nd",
       "信長の忍び~伊勢・金ヶ崎篇~"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/84890.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12900,
     "createdAt": "2020-10-12T15:39:52.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:02:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

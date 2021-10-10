@@ -15,7 +15,24 @@
   "updatedAt": "2021-07-15T17:32:20.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://zombielandsaga.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15028"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24019"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zombie_Land_Saga"
+      }
+    ],
     "altTitle": [
       "Zombie Land Saga Revenge",
       "Zombieland Saga Second Season",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1118/115156.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15028,
     "createdAt": "2020-10-12T15:40:11.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T00:01:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

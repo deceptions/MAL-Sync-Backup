@@ -15,10 +15,27 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://sayonara-cramer.com/tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15708"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23925"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Farewell,_My_Dear_Cramer#Anime"
+      }
+    ],
     "altTitle": [
-      "Good-bye, Cramer",
       "Farewell, My Dear Cramer",
+      "Good-bye, Cramer",
       "さよなら私のクラマー"
     ],
     "id": 42774,
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1155/111437.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15708,
     "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T09:02:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

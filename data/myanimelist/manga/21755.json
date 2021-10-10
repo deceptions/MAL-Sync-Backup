@@ -1,7 +1,15 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/CROSS_and_CRIME"
+    }
+  ],
   "altTitle": [
-    "Saiyaku Honey, Takaragai, Fumikiri, Go! Go! G-bukken",
+    "Saiyaku Honey",
+    "Takaragai",
+    "Fumikiri",
+    "Go! Go! G-bukken",
     "CROSS and CRIME"
   ],
   "authors": [
@@ -15,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:58.000Z",
-  "updatedAt": "2021-05-11T09:42:51.000Z",
+  "updatedAt": "2021-10-08T17:03:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -102,6 +110,28 @@
         "aniId": 51755,
         "createdAt": "2021-05-11T09:42:52.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zv953930": {
+        "authors": [
+          "Hatsuki Kyo"
+        ],
+        "identifier": "manga-zv953930",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Cross And Crime",
+        "url": "https://manganato.com/manga-zv953930",
+        "image": "https://avt.mkklcdnv6temp.com/40/p/2-1583467262.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21755,
+        "aniId": 51755,
+        "createdAt": "2021-10-08T17:02:47.000Z",
+        "updatedAt": "2021-10-08T17:32:19.000Z",
         "deletedAt": null
       }
     }

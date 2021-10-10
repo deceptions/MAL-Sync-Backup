@@ -15,10 +15,24 @@
   "updatedAt": "2019-10-12T16:02:23.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://gj8man.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12458"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/GJ8%E3%83%9E%E3%83%B3"
+      }
+    ],
     "altTitle": [
       "GJ8man \"Highlights\"",
-      "GJ8man Recap, GJ8man Summary",
+      "GJ8man Recap",
+      "GJ8man Summary",
       "GJ8マン『総集編』"
     ],
     "id": 36543,
@@ -28,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/88316.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12458,
     "createdAt": "2020-10-12T15:39:57.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T19:31:22.000Z",
     "deletedAt": null
   },
   "Anilist": null,

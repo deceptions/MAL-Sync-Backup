@@ -15,7 +15,12 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=69"
+      }
+    ],
     "altTitle": [
       "ワンピース エピソードオブ東の海[イーストブルー] ~ルフィと4人の仲間の大冒険~"
     ],
@@ -26,9 +31,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/87473.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 69,
     "createdAt": "2020-10-12T15:39:56.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T18:35:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 41325,
-  "aniId": null,
+  "aniId": 139983,
   "createdAt": "2021-09-30T21:33:08.000Z",
-  "updatedAt": "2021-09-30T21:33:27.000Z",
+  "updatedAt": "2021-10-04T07:00:52.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -36,6 +36,22 @@
     "updatedAt": "2021-09-30T21:33:27.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "景山民夫のダブルファンタジー"
+    ],
+    "externalLinks": [],
+    "id": 139983,
+    "malId": 41325,
+    "type": "anime",
+    "title": "Kageyama Tamio no Double Fantasy",
+    "url": "https://anilist.co/anime/139983",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139983-BwkHailDpAGy.jpg",
+    "category": "special",
+    "hentai": false,
+    "createdAt": "2021-10-04T06:30:52.000Z",
+    "updatedAt": "2021-10-04T06:30:52.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/41325/Kageyama_Tamio_no_Double_Fantasy"
 }

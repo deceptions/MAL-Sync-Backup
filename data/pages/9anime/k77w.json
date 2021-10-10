@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://katsugeki-touken.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13479"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%88%80%E5%89%A3%E4%B9%B1%E8%88%9E"
+      }
+    ],
     "altTitle": [
       "Gekijouban Katsugeki/Touken Ranbu",
       "劇場版 活撃/刀剣乱舞"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/87874.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13479,
     "createdAt": "2020-10-12T15:39:56.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T19:02:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

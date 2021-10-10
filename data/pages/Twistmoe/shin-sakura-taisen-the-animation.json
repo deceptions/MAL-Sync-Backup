@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://sakura-taisen-theanimation.com"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15097"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22510"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sakura_Taisen"
+      }
+    ],
     "altTitle": [
       "Sakura Wars the Animation",
       "New Sakura Wars the Animation",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1341/105735.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15097,
     "createdAt": "2020-10-12T15:40:12.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T05:07:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

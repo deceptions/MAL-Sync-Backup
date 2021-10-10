@@ -1,7 +1,17 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.youtube.com/watch?v=7AA3_W4syMo"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11556"
+    }
+  ],
   "altTitle": [
-    "Merci Merci Me, Marci Marci Me",
+    "Merci Merci Me",
+    "Marci Marci Me",
     "WAKIE WAKIE ～music video vol.1～"
   ],
   "id": 30092,
@@ -11,9 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/72091.jpg",
   "category": "Music",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11556,
   "createdAt": "2020-10-12T15:39:34.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T04:08:07.000Z",
   "deletedAt": null,
   "Pages": {}
 }

@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://spriggan-anime.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14734"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24363"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spriggan_(manga)#Anime_series"
+    }
+  ],
   "altTitle": [
     "スプリガン"
   ],
@@ -7,12 +24,12 @@
   "type": "anime",
   "title": "Spriggan (ONA)",
   "url": "https://myanimelist.net/anime/39489/Spriggan_ONA",
-  "image": "https://cdn.myanimelist.net/images/anime/1311/114787.jpg",
+  "image": "https://cdn.myanimelist.net/images/anime/1114/116908.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 14734,
   "createdAt": "2021-08-04T11:21:02.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T03:03:56.000Z",
   "deletedAt": null,
   "Pages": {}
 }

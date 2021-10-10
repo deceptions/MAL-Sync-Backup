@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16047"
+    }
+  ],
   "altTitle": [
     "Bitch na In'ane-sama",
     "ビッチな淫姉さまぁ"
@@ -11,9 +16,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1162/114079.jpg",
   "category": "OVA",
   "hentai": true,
-  "anidbId": null,
+  "anidbId": 16047,
   "createdAt": "2021-07-04T03:39:34.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T11:34:44.000Z",
   "deletedAt": null,
   "Pages": {}
 }

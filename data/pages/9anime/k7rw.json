@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://boueibu.com/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12993"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19355"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Cute_High_Earth_Defense_Club_Love!"
+      }
+    ],
     "altTitle": [
       "Cute High Earth Defense Club LOVE! LOVE! LOVE!",
       "美男高校地球防衛部LOVE! LOVE! LOVE!"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/85527.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12993,
     "createdAt": "2020-10-12T15:39:52.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:07:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

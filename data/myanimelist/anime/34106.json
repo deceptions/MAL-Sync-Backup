@@ -1,8 +1,25 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime-rinne.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12426"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18755"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rin-ne"
+    }
+  ],
   "altTitle": [
     "RIN-NE",
-    "境界のRINNE 第3シリーズ"
+    "境界のRINNE"
   ],
   "id": 34106,
   "type": "anime",
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/85289.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12426,
   "createdAt": "2020-10-12T15:39:49.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T13:36:18.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

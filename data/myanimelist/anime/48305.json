@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15564"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Red_Shoes_and_the_Seven_Dwarfs"
+    }
+  ],
   "altTitle": [
     "Red Shoes and the Seven Dwarfs",
     "Ledeu Syujeu",
@@ -13,9 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1403/112558.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15564,
   "createdAt": "2021-07-08T09:14:00.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T11:04:06.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

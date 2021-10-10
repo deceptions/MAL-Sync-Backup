@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.durarara.com/ova/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10866"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Durarara!!"
+      }
+    ],
     "altTitle": [
       "Durarara!!x2 Ten OVA",
       "Durarara!!x2 Ten Special",
@@ -29,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/76082.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10866,
     "createdAt": "2020-10-12T15:39:39.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T07:08:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

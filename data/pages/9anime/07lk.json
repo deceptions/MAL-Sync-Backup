@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://omitsuyo.w-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13402"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20053"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E8%A6%8B%E5%90%88%E3%81%84%E7%9B%B8%E6%89%8B%E3%81%AF%E6%95%99%E3%81%88%E5%AD%90%E3%80%81%E5%BC%B7%E6%B0%97%E3%81%AA%E3%80%81%E5%95%8F%E9%A1%8C%E5%85%90%E3%80%82"
+      }
+    ],
     "altTitle": [
       "My Matchmaking Partner Is My Student and a Troublemaker",
       "My Marriage Partner is My Student, a Cocky Troublemaker",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/88326.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13402,
     "createdAt": "2020-10-12T15:39:56.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:32:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

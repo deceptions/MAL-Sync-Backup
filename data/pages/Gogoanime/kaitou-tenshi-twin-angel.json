@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://twinangel-break.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12253"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18662"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A4%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+      }
+    ],
     "altTitle": [
       "Twin Angels Break",
       "Kaitou Tenshi Twin Angel",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/86505.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12253,
     "createdAt": "2020-10-12T15:39:47.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T12:07:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

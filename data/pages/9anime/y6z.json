@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.asterisk-war.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11673"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18068"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_Asterisk_War"
+      }
+    ],
     "altTitle": [
       "The Asterisk War Season 2",
       "Academy Battle City Asterisk",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/79107.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11673,
     "createdAt": "2020-10-12T15:39:40.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T07:38:39.000Z",
     "deletedAt": null
   },
   "Anilist": {

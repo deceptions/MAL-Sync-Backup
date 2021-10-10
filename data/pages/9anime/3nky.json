@@ -15,7 +15,20 @@
   "updatedAt": "2019-10-12T16:02:23.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://hitorinoshita2.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13068"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B_the_outcast"
+      }
+    ],
     "altTitle": [
       "Raten Taishou Hen: Housou Chokuzen Special",
       "Hitori No Shita: Raten Taishou Arc Pre-Broadcast Special",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1155/92922.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13068,
     "createdAt": "2020-10-12T15:39:59.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T20:37:34.000Z",
     "deletedAt": null
   },
   "Anilist": null,

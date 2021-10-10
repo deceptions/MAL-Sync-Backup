@@ -15,9 +15,26 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.aikatsu.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14631"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22158"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%AB%E3%83%84%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA!"
+      }
+    ],
     "altTitle": [
-      "アイカツフレンズ！~かがやきのジュエル~"
+      "アイカツフレンズ！～かがやきのジュエル～"
     ],
     "id": 39078,
     "type": "anime",
@@ -26,9 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1391/100465.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14631,
     "createdAt": "2020-10-12T15:40:08.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T02:09:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

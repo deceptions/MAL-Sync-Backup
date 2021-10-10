@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ntv.co.jp/GC_insight/special/sp04.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10226"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Gatchaman_Crowds"
+      }
+    ],
     "altTitle": [
       "Gatchaman Crowds Insight",
       "Gatchaman Crowds 2nd Season: Episode 0",
@@ -30,13 +43,14 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/74427.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10226,
     "createdAt": "2020-10-12T15:39:37.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T06:02:14.000Z",
     "deletedAt": null
   },
   "Anilist": {
     "altTitle": [
+      "Gatchaman Crowds insight: Inbound",
       "GATCHAMAN CROWDS insight「#0 inbound」"
     ],
     "externalLinks": [
@@ -50,11 +64,11 @@
     "type": "anime",
     "title": "Gatchaman Crowds insight #0 inbound",
     "url": "https://anilist.co/anime/21252",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21252-xqYbeDwTOzYq.jpg",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21252-4YZzferZBQ9U.png",
     "category": "ona",
     "hentai": false,
     "createdAt": "2021-05-20T14:41:56.000Z",
-    "updatedAt": "2021-06-17T14:37:33.000Z",
+    "updatedAt": "2021-10-05T22:02:17.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/anime/30925/Gatchaman_Crowds_Insight__Inbound"

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://shokugekinosoma.com/5thplate/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15319"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23036"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Food_Wars!:_Shokugeki_no_Soma"
+      }
+    ],
     "altTitle": [
       "Food Wars! The Fifth Plate",
       "Shokugeki no Soma 5th Season",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1756/108000.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15319,
     "createdAt": "2020-10-12T15:40:14.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T06:09:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

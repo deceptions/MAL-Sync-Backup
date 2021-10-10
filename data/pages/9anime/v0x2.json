@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://home.ebs.co.kr/floweringheart/main"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11913"
+      }
+    ],
     "altTitle": [
       "Flowering Heart",
       "플라워링하트"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/88482.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11913,
     "createdAt": "2020-10-12T15:39:43.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T09:39:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

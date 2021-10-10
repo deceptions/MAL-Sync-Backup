@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14194"
+    }
+  ],
   "altTitle": [
     "Tiny Evil"
   ],
@@ -10,9 +15,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1817/104328.jpg",
   "category": "OVA",
   "hentai": true,
-  "anidbId": null,
+  "anidbId": 14194,
   "createdAt": "2021-06-13T12:39:02.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T23:36:55.000Z",
   "deletedAt": null,
   "Pages": {}
 }

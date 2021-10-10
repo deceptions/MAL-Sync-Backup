@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.meikoi-cinema.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10240"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16753"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%98%8E%E6%B2%BB%E6%9D%B1%E4%BA%B0%E6%81%8B%E4%BC%BD"
+    }
+  ],
   "altTitle": [
     "Meiji Tokyo Renka: Gengetsu no Sayokyoku",
     "Meikoi",
@@ -12,9 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/73855.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 10240,
   "createdAt": "2020-10-12T15:39:34.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T03:38:05.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.jigokushoujo.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12889"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19416"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hell_Girl"
+      }
+    ],
     "altTitle": [
       "Hell Girl: Fourth Twilight",
       "Hell Girl 4",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1110/92117.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12889,
     "createdAt": "2020-10-12T15:39:52.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:01:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

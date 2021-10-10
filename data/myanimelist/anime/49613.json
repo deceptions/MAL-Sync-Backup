@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16537"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24635"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chiyu_Mah%C5%8D_no_Machigatta_Tsukai-kata"
+    }
+  ],
   "altTitle": [
     "The Wrong Way to Use Healing Magic",
     "治癒魔法の間違った使い方～戦場を駆ける回復要員～"
@@ -11,9 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1151/117193.jpg",
   "category": "Unknown",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16537,
   "createdAt": "2021-09-20T18:42:27.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T12:33:03.000Z",
   "deletedAt": null,
   "Pages": {}
 }

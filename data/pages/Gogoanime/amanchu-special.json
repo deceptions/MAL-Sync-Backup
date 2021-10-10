@@ -15,9 +15,19 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://amanchu-anime.com/bluray.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11683"
+      }
+    ],
     "altTitle": [
-      "Amanchu! Specials, Upyo Upyo! Dive Tsukkome! Umi no Sekai!",
+      "Amanchu! Specials",
+      "Upyo Upyo! Dive Tsukkome! Umi no Sekai!",
       "あまんちゅ！うぴょぴょ ダ～イブツッコめ！海の世界！"
     ],
     "id": 39709,
@@ -27,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1907/100565.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11683,
     "createdAt": "2020-10-12T15:40:10.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T03:34:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,6 +1,16 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://ultra.shueisha.co.jp/manga/hello-world/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/HELLO_WORLD_(%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB)"
+    }
+  ],
   "altTitle": [
+    "Hello World: The Manga",
     "HELLO WORLD"
   ],
   "authors": [
@@ -16,7 +26,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-02T13:01:46.000Z",
-  "updatedAt": "2021-06-02T13:01:46.000Z",
+  "updatedAt": "2021-10-09T20:32:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,6 +74,30 @@
         "aniId": 110599,
         "createdAt": "2021-06-02T13:01:46.000Z",
         "updatedAt": "2021-06-02T13:30:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hello-world-the-manga": {
+        "authors": [
+          "NOZAKI Mado",
+          "SONO Yoshihiro",
+          "SUZUKI Manatsu"
+        ],
+        "identifier": "hello-world-the-manga",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "HELLO WORLD - The Manga",
+        "url": "https://mangasee123.com/manga/HELLO-WORLD-The-Manga",
+        "image": "https://cover.nep.li/cover/HELLO-WORLD-The-Manga.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121294,
+        "aniId": 110599,
+        "createdAt": "2021-10-09T20:32:40.000Z",
+        "updatedAt": "2021-10-09T21:02:20.000Z",
         "deletedAt": null
       }
     }

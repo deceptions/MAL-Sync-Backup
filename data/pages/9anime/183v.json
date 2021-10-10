@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ytv.co.jp/animegyakuten/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13918"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21192"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ace_Attorney_(anime)"
+      }
+    ],
     "altTitle": [
       "Ace Attorney Season 2",
       "Phoenix Wright: Ace Attorney Season 2",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1861/91089.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13918,
     "createdAt": "2020-10-12T15:40:01.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:01:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

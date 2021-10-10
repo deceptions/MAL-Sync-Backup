@@ -15,7 +15,16 @@
   "updatedAt": "2021-01-25T03:45:49.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://gungale-online.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13494"
+      }
+    ],
     "altTitle": [
       "Sword Art Online Alternative: Gun Gale Online Recap",
       "Sword Art Online Alternative: Gun Gale Online Episode 5.5",
@@ -28,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1736/92711.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13494,
     "createdAt": "2020-10-12T15:40:03.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T20:01:02.000Z",
     "deletedAt": null
   },
   "Anilist": null,

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12133"
+    }
+  ],
   "altTitle": [
     "JKビッチに搾られたい"
   ],
@@ -10,9 +15,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1646/112534.jpg",
   "category": "OVA",
   "hentai": true,
-  "anidbId": null,
+  "anidbId": 12133,
   "createdAt": "2021-07-04T03:04:20.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T11:37:04.000Z",
   "deletedAt": null,
   "Pages": {}
 }

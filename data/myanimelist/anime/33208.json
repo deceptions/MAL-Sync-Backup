@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://utawarerumono.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11272"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17186"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Utawarerumono"
+    }
+  ],
   "altTitle": [
     "Utawarerumono: The False Faces Specials",
     "Utawarerumono: The False Mask Specials",
@@ -12,9 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/79799.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11272,
   "createdAt": "2021-07-21T21:04:48.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T11:31:24.000Z",
   "deletedAt": null,
   "Pages": {}
 }

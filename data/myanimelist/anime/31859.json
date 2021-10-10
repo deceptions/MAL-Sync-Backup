@@ -1,8 +1,26 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.grimgar.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11712"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17732"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grimgar_of_Fantasy_and_Ash"
+    }
+  ],
   "altTitle": [
     "Grimgar: Ashes and Illusions",
-    "Grimgal of Ashes and Fantasies, Hai to Gensou no Grimgal",
+    "Grimgal of Ashes and Fantasies",
+    "Hai to Gensou no Grimgal",
     "灰と幻想のグリムガル"
   ],
   "id": 31859,
@@ -12,9 +30,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/13/77976.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11712,
   "createdAt": "2020-10-12T15:39:40.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T08:07:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

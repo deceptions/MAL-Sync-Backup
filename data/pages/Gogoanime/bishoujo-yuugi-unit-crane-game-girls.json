@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.cranegale.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11983"
+      }
+    ],
     "altTitle": [
       "Crane Game Girls",
       "Bishoujo Yuugi Unit Crane Gale: Crane Game Girls",
@@ -28,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/78958.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11983,
     "createdAt": "2020-10-12T15:39:44.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T10:31:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

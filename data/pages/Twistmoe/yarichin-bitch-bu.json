@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.yaribu.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13972"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21142"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%AA%E3%83%81%E3%83%B3%E2%98%86%E3%83%93%E3%83%83%E3%83%81%E9%83%A8"
+      }
+    ],
     "altTitle": [
       "Yarichin☆Bitch Club",
       "ヤリチン☆ビッチ部"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1431/91369.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13972,
     "createdAt": "2020-10-12T15:40:01.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:06:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

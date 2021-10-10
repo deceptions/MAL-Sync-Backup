@@ -15,10 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md28221384/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15005"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E5%A5%B3%E6%AD%A6%E7%A5%9E%E7%9A%84%E9%A4%90%E6%A1%8C/23536659"
+      }
+    ],
     "altTitle": [
       "Cooking with Valkyries",
-      "Valkyrie no Shokutaku, 戦乙女の食卓",
+      "Valkyrie no Shokutaku",
+      "戦乙女の食卓",
       "女武神的餐桌"
     ],
     "id": 40100,
@@ -28,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1441/102035.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15005,
     "createdAt": "2020-10-12T15:40:11.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T04:31:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

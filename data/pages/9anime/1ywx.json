@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.project-itoh.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10952"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16585"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%B1%8D%E8%80%85%E3%81%AE%E5%B8%9D%E5%9B%BD"
+      }
+    ],
     "altTitle": [
       "The Empire of Corpses",
       "Project Itoh",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/75468.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10952,
     "createdAt": "2020-10-12T15:39:32.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T02:33:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

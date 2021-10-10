@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/mukashibanashi/index2.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13050"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E3%82%81%E3%81%90%E3%82%8A_%E6%97%A5%E6%9C%AC%E3%81%AE%E6%98%94%E3%81%B0%E3%81%AA%E3%81%97"
+      }
+    ],
     "altTitle": [
       "Hometown Visiting: Folktales from Japan",
       "ふるさとめぐり 日本の昔ばなし"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/85025.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13050,
     "createdAt": "2020-10-12T15:39:53.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:35:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

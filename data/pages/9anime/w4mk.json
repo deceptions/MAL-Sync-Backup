@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://avex.jp/piko-lullaby/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13227"
+      }
+    ],
     "altTitle": [
       "Pikotaro's Lullaby La La By (TV)",
       "ピコ太郎のララバイラーラバイ"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/86266.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13227,
     "createdAt": "2020-10-12T15:39:54.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T17:34:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

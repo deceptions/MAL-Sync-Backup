@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://cycomi.com/fw/cycomibrowser/chapter/title/74"
+    }
+  ],
   "altTitle": [
     "B-TRASH!!"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:21.000Z",
-  "updatedAt": "2021-05-20T20:13:27.000Z",
+  "updatedAt": "2021-10-07T06:33:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +41,50 @@
         "aniId": 102204,
         "createdAt": "2020-10-12T16:11:11.000Z",
         "updatedAt": "2021-06-05T06:23:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "b_trash": {
+        "authors": [
+          "NATSUME Yoshinori"
+        ],
+        "identifier": "b_trash",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "B-TRASH!!",
+        "url": "https://fanfox.net/manga/b_trash/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26929/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111083,
+        "aniId": 102204,
+        "createdAt": "2021-10-07T06:32:21.000Z",
+        "updatedAt": "2021-10-07T07:02:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bo978423": {
+        "authors": [
+          "Natsume Yoshinori"
+        ],
+        "identifier": "manga-bo978423",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "B-Trash!!",
+        "url": "https://manganato.com/manga-bo978423",
+        "image": "https://avt.mkklcdnv6temp.com/10/c/16-1583493839.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111083,
+        "aniId": 102204,
+        "createdAt": "2021-10-07T06:33:23.000Z",
+        "updatedAt": "2021-10-07T07:02:19.000Z",
         "deletedAt": null
       }
     }

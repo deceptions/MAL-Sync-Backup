@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/u/umpnsyqfu7f60se.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16003"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E6%98%9F%E9%AA%B8%E9%AA%91%E5%A3%AB/23607072"
+      }
+    ],
     "altTitle": [
       "Knights on Debris",
       "星骸骑士"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1500/110781.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 16003,
     "createdAt": "2021-01-01T02:17:51.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T10:06:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -91,6 +91,28 @@
         "updatedAt": "2021-06-03T18:48:57.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "blue_giant": {
+        "authors": [
+          "ISHIZUKA Shinichi"
+        ],
+        "identifier": "blue_giant",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Blue Giant",
+        "url": "https://fanfox.net/manga/blue_giant/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18903/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85719,
+        "aniId": 86890,
+        "createdAt": "2021-10-05T02:02:19.000Z",
+        "updatedAt": "2021-10-05T02:32:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

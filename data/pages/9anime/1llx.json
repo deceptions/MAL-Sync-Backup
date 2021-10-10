@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://genesis-horizon.net/products/bd_box.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8323"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Horizon_in_the_Middle_of_Nowhere"
+      }
+    ],
     "altTitle": [
       "境界線上のホライゾン 完全新作アニメーション「境界線上のホライゾンXXI-PV」"
     ],
@@ -26,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1093/93237.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 8323,
     "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T23:37:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://anime-kusoge.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15730"
+      }
+    ],
     "altTitle": [
       "Don't Call Us A JUNK GAME!",
       "Don't Say Kusoge!",
@@ -29,9 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1046/111081.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15730,
     "createdAt": "2020-10-29T19:44:59.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T09:07:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

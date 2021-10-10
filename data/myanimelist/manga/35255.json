@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://comic.naver.com/webtoon/list.nhn?titleId=160469&weekday=wed"
+    }
+  ],
   "altTitle": [
     "S.I.D.",
     "특영반"
@@ -15,7 +20,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:58.000Z",
-  "updatedAt": "2021-06-01T15:38:39.000Z",
+  "updatedAt": "2021-10-05T07:33:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +86,28 @@
         "aniId": 65255,
         "createdAt": "2021-06-01T15:38:40.000Z",
         "updatedAt": "2021-06-01T16:01:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "s_i_d": {
+        "authors": [
+          "Sa Da Ham"
+        ],
+        "identifier": "s_i_d",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "S. I. D.",
+        "url": "https://fanfox.net/manga/s_i_d/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8408/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35255,
+        "aniId": 65255,
+        "createdAt": "2021-10-05T07:33:10.000Z",
+        "updatedAt": "2021-10-05T08:02:17.000Z",
         "deletedAt": null
       }
     }

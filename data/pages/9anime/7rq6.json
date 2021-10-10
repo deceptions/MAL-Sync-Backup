@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.mercstoria.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13768"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21254"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Merc_Storia"
+      }
+    ],
     "altTitle": [
       "Merc Storia: The Apathetic Boy and the Girl in a Bottle",
       "メルクストーリア -無気力少年と瓶の中の少女-"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1394/95704.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13768,
     "createdAt": "2020-10-12T15:40:00.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T21:05:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

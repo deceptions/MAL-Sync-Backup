@@ -15,7 +15,20 @@
   "updatedAt": "2019-10-12T16:02:23.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://occultkoumuin.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14706"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mayonaka_no_Occult_K%C5%8Dmuin"
+      }
+    ],
     "altTitle": [
       "Mayonaka no Occult Koumuin OVA",
       "真夜中のオカルト公務員 袋小路とあの子と俺と"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1321/104497.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14706,
     "createdAt": "2020-10-12T15:40:08.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T02:38:55.000Z",
     "deletedAt": null
   },
   "Anilist": null,

@@ -1,7 +1,26 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.toei-anim.co.jp/tv/onep/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=69"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=836"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/One_Piece"
+    }
+  ],
   "altTitle": [
-    "One Piece: Long Ring Long Land Arc - A One Night Abridged Special, Episode of Foxy, One Piece: Long Ring Long Land-hen - Ichiya Kagiri no Tokubetsu Henshuu-ban",
+    "One Piece: Long Ring Long Land Arc - A One Night Abridged Special",
+    "Episode of Foxy",
+    "One Piece: Long Ring Long Land-hen - Ichiya Kagiri no Tokubetsu Henshuu-ban",
     "ワンピース～ロングリングロングランド編～ 一夜限りの特別編集版"
   ],
   "id": 32437,
@@ -11,9 +30,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/12/83503.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 69,
   "createdAt": "2020-10-12T15:39:42.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T09:10:47.000Z",
   "deletedAt": null,
   "Pages": {}
 }

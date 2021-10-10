@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kamizmode-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15651"
+      }
+    ],
     "altTitle": [
       "Saikyo Kamizmode!",
       "最響カミズモード！"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1355/108815.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15651,
     "createdAt": "2021-05-07T07:18:21.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T08:37:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

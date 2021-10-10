@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://nanayamatsuri.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14130"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21109"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%B4%84%E6%9D%9F%E3%81%AE%E4%B8%83%E5%A4%9C%E7%A5%AD%E3%82%8A"
+      }
+    ],
     "altTitle": [
       "Starlight Promises",
       "約束の七夜祭り"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1473/94594.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14130,
     "createdAt": "2020-10-12T15:40:03.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T23:09:28.000Z",
     "deletedAt": null
   },
   "Anilist": {

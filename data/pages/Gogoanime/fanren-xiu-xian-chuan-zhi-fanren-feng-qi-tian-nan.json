@@ -15,10 +15,25 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md28223043"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15425"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0/23486425"
+      }
+    ],
     "altTitle": [
       "A Mortal's Journey: The Beginning",
-      "A Record of a Mortal's Journey to Immortality, Fanren Xiuxian Chuan: Fanren Feng Qi Tian Nan, Fan Ren Xiu Xian Chuan: Fan Ren Feng Qi Tian Nan",
+      "A Record of a Mortal's Journey to Immortality",
+      "Fanren Xiuxian Chuan: Fanren Feng Qi Tian Nan",
+      "Fan Ren Xiu Xian Chuan: Fan Ren Feng Qi Tian Nan",
       "凡人修仙传 凡人风起天南"
     ],
     "id": 41219,
@@ -28,9 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1085/109745.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15425,
     "createdAt": "2020-10-12T15:40:14.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:01:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://kyokousuiri.jp/movie/live2d/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14602"
+    }
+  ],
   "altTitle": [
     "Invented Divination",
     "虚構占い"
@@ -11,9 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1422/108679.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 14602,
   "createdAt": "2020-11-15T13:15:16.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T08:37:14.000Z",
   "deletedAt": null,
   "Pages": {}
 }

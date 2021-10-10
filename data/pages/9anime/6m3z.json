@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:56.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://pipecat-kabukicho.jp/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15497"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Case_File_n%C2%BA221:_Kabukicho"
+      }
+    ],
     "altTitle": [
       "Case File nº221: Kabukicho OVA",
       "歌舞伎町シャーロック"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1456/108076.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15497,
     "createdAt": "2020-10-12T15:40:15.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:34:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

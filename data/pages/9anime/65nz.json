@@ -15,7 +15,20 @@
   "updatedAt": "2021-10-02T23:00:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md3796"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15613"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E4%B8%89%E5%89%91%E8%B1%AA%E4%B9%8B%E5%8D%8A%E9%9D%A2%E4%BA%BA"
+      }
+    ],
     "altTitle": [
       "Three Swordsman: Half Face",
       "三剑豪之半面人"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1179/107942.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15613,
     "createdAt": "2021-02-20T05:33:30.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T08:07:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

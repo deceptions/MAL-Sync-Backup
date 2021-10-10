@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13290"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Qin%27s_Moon"
+      }
+    ],
     "altTitle": [
       "Qin's Moon: The Emperor Under Heaven",
       "Qín Shí Míng Yuè 5",
@@ -30,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/71842.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13290,
     "createdAt": "2020-10-12T15:39:34.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:03:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

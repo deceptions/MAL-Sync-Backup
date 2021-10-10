@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://egaonodaika.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14447"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21497"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AC%E3%82%AA%E3%83%8E%E3%83%80%E3%82%A4%E3%82%AB"
+      }
+    ],
     "altTitle": [
       "The Price of Smiles",
       "The Cost of Smiles",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1640/100466.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14447,
     "createdAt": "2020-10-12T15:40:06.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T01:01:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,24 @@
   "updatedAt": "2021-09-25T18:15:23.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://anime.assaultlily-pj.com/fruits/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15982"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24165"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Assault_Lily"
+      }
+    ],
     "altTitle": [
       "Assault Lily Mini Anime",
       "アサルトリリィ ふるーつ"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1444/116888.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15982,
     "createdAt": "2021-07-04T21:31:24.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T10:36:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1824"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kochira_Katsushika-ku_Kameari_K%C5%8Den-mae_Hashutsujo"
+    }
+  ],
   "altTitle": [
     "Kochikame Special 21: Omoide no Daijirou-gou",
     "Kochikame: Hashire! Ryoutsu-shiki Chinchin Densha",
@@ -12,9 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/81547.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 1824,
   "createdAt": "2021-07-15T07:51:01.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T13:04:54.000Z",
   "deletedAt": null,
   "Pages": {}
 }

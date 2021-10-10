@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "その先の風景"
   ],
@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:42.000Z",
-  "updatedAt": "2021-05-08T01:17:42.000Z",
+  "updatedAt": "2021-10-09T19:33:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 81765,
         "createdAt": "2020-10-12T16:16:00.000Z",
         "updatedAt": "2021-06-06T18:41:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ea981835": {
+        "authors": [
+          "Fujiwara Kaoru"
+        ],
+        "identifier": "manga-ea981835",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The View Beyond",
+        "url": "https://manganato.com/manga-ea981835",
+        "image": "https://avt.mkklcdnv6temp.com/29/p/18-1583498226.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 51765,
+        "aniId": 81765,
+        "createdAt": "2021-10-09T19:33:01.000Z",
+        "updatedAt": "2021-10-09T22:02:20.000Z",
         "deletedAt": null
       }
     }

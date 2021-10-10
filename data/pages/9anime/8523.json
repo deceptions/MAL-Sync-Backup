@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://devilman-crybaby.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12986"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19982"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Devilman_Crybaby"
+      }
+    ],
     "altTitle": [
       "Devilman: Crybaby",
       "DEVILMAN crybaby"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/89973.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12986,
     "createdAt": "2020-10-12T15:39:52.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:06:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

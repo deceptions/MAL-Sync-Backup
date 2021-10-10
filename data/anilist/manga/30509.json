@@ -8,7 +8,9 @@
   "authors": [
     "Kazuya Minekura",
     "Alethea Nibley",
-    "Athena Nibley"
+    "Athena Nibley",
+    "Yuzu Mizutani",
+    "Tooru Kaede"
   ],
   "id": 30509,
   "malId": 509,
@@ -19,7 +21,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:35:34.000Z",
-  "updatedAt": "2021-06-17T08:28:55.000Z",
+  "updatedAt": "2021-10-03T14:30:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -105,6 +107,28 @@
         "aniId": 30509,
         "createdAt": "2021-02-20T02:03:40.000Z",
         "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mm957847": {
+        "authors": [
+          "Minekura Kazuya"
+        ],
+        "identifier": "manga-mm957847",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Saiyuki",
+        "url": "https://manganato.com/manga-mm957847",
+        "image": "https://avt.mkklcdnv6temp.com/6/t/5-1583472124.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 509,
+        "aniId": 30509,
+        "createdAt": "2021-10-05T16:33:49.000Z",
+        "updatedAt": "2021-10-05T17:02:17.000Z",
         "deletedAt": null
       }
     }

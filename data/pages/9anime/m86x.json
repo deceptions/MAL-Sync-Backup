@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11138"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16867"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga)"
+      }
+    ],
     "altTitle": [
       "Nanatsu no Taizai: Ban no Bangai-hen",
       "The Seven Deadly Sins: Ban's Side Story",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1973/97505.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11138,
     "createdAt": "2020-10-12T15:39:35.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:38:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

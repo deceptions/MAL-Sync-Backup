@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.fate-sn.com/bdbox/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10760"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Fate/stay_night#Anime"
+      }
+    ],
     "altTitle": [
       "Fate/stay night [Unlimited Blade Works] Season 2 - Sunny Day",
       "Fate/stay night [Unlimited Blade Works] 新作映像「sunny day」"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/75684.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10760,
     "createdAt": "2020-10-12T15:39:38.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T06:38:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.precure-movie.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11341"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%98%A0%E7%94%BB_Go!%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2_Go!Go!!%E8%B1%AA%E8%8F%AF3%E6%9C%AC%E7%AB%8B%E3%81%A6!!!"
+      }
+    ],
     "altTitle": [
-      "Go! Princess Precure: Go! Go!! Grand 3-Part Movie!!!, Pumpkin Oukoku no Takaramono, The Pumpkin Kingdom's Treasure, Precure to Refi no Wonder Night!, Precure and Refi's Wonder Night!, Cure Flora to Itazura Kagami, Cure Flora and the Vain Mirror",
+      "Go! Princess Precure: Go! Go!! Grand 3-Part Movie!!!",
+      "Pumpkin Oukoku no Takaramono",
+      "The Pumpkin Kingdom's Treasure",
+      "Precure to Refi no Wonder Night!",
+      "Precure and Refi's Wonder Night!",
+      "Cure Flora to Itazura Kagami",
+      "Cure Flora and the Vain Mirror",
       "映画Go! プリンセスプリキュア Go! Go!! 豪華3本立て!!!"
     ],
     "id": 29868,
@@ -27,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/74804.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11341,
     "createdAt": "2020-10-12T15:39:34.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T03:38:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -6,7 +6,16 @@
     "Sacks&Guns!!",
     "Project Anime"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GP5HJ800Z/SAKUGAN"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://crunchyroll.com/series/GP5HJ800Z/sakugan"
+    }
+  ],
   "id": 108987,
   "malId": 38192,
   "type": "anime",
@@ -16,7 +25,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:44:46.000Z",
-  "updatedAt": "2021-08-06T03:47:30.000Z",
+  "updatedAt": "2021-10-07T19:02:19.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -35,6 +44,25 @@
         "aniId": 108987,
         "createdAt": "2020-10-12T15:49:28.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sakugan": {
+        "identifier": "sakugan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sakugan",
+        "url": "https://gogoanime.pe/category/sakugan",
+        "image": "https://gogocdn.net/cover/sakugan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38192,
+        "aniId": 108987,
+        "createdAt": "2021-10-07T16:02:29.000Z",
+        "updatedAt": "2021-10-07T16:32:19.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://machiavellism-anime.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12230"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18970"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%A3%85%E5%B0%91%E5%A5%B3%E3%83%9E%E3%82%AD%E3%83%A3%E3%83%B4%E3%82%A7%E3%83%AA%E3%82%BA%E3%83%A0"
+      }
+    ],
     "altTitle": [
       "Armed Girl's Machiavellism",
       "武装少女マキャヴェリズム"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/83995.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12230,
     "createdAt": "2020-10-12T15:39:46.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T12:05:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

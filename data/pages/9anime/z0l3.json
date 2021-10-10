@@ -15,7 +15,20 @@
   "updatedAt": "2021-01-26T15:14:59.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://home.ebs.co.kr/cocomong/replay/29/list?courseId=10014008&stepId=10014978"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14096"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%83%89%EC%9E%A5%EA%B3%A0_%EB%82%98%EB%9D%BC_%EC%BD%94%EC%BD%94%EB%AA%BD"
+      }
+    ],
     "altTitle": [
       "Cocomong 3",
       "Reizou Kono Kuni no Cocomong 3",
@@ -29,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1137/93099.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14096,
     "createdAt": "2021-01-26T15:12:08.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T23:07:18.000Z",
     "deletedAt": null
   },
   "Anilist": null,

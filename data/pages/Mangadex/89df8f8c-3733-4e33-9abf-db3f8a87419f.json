@@ -11,13 +11,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 136262,
+  "aniId": 126081,
   "createdAt": "2020-11-14T16:53:09.000Z",
-  "updatedAt": "2021-06-08T07:05:01.000Z",
+  "updatedAt": "2021-10-04T16:32:17.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://tonarinoyj.jp/episode/13933686331731514671"
+      }
+    ],
+    "altTitle": [
+      "The Chart of Illness",
+      "疫神のカルテ"
+    ],
+    "authors": [
+      "Higuchi, Kishin"
+    ],
+    "id": 136262,
+    "type": "manga",
+    "title": "Ekijin no Karte",
+    "url": "https://myanimelist.net/manga/136262/Ekijin_no_Karte",
+    "image": "https://cdn.myanimelist.net/images/manga/1/244188.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-10-04T15:31:02.000Z",
+    "updatedAt": "2021-10-04T15:31:02.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "疫神のカルテ",
+      "The Chart of Illness"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kishin Higuchi"
+    ],
+    "id": 126081,
+    "malId": 136262,
+    "type": "manga",
+    "title": "Ekijin no Carte",
+    "url": "https://anilist.co/manga/126081",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx126081-DsO5u4j5PLhe.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-20T19:16:06.000Z",
+    "updatedAt": "2021-08-20T19:16:06.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/136262/Ekijin_no_Karte"
 }

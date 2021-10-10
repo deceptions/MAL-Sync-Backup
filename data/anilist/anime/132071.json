@@ -20,5 +20,44 @@
   "createdAt": "2021-06-01T10:22:55.000Z",
   "updatedAt": "2021-10-01T23:30:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "98wn": {
+        "identifier": "98wn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tesla Note",
+        "url": "https://9anime.to/watch/tesla-note.98wn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/cc/cc286e4cd4186dd0791a6f3f8efec1ce.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48680,
+        "aniId": 132071,
+        "createdAt": "2021-10-03T15:30:52.000Z",
+        "updatedAt": "2021-10-03T16:00:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tesla-note": {
+        "identifier": "tesla-note",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tesla Note",
+        "url": "https://gogoanime.pe/category/tesla-note",
+        "image": "https://gogocdn.net/cover/tesla-note.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48680,
+        "aniId": 132071,
+        "createdAt": "2021-10-03T15:31:23.000Z",
+        "updatedAt": "2021-10-03T16:00:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

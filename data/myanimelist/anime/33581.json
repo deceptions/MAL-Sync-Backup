@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://movie.trinity-7.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12263"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18920"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trinity_Seven"
+    }
+  ],
   "altTitle": [
     "Trinity Seven: Eternity Library & Alchemic Girl",
     "Gekijouban Trinity Seven",
@@ -13,9 +30,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/6/83172.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12263,
   "createdAt": "2020-10-12T15:39:47.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T12:31:55.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

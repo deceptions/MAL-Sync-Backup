@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15920"
+    }
+  ],
   "altTitle": [
     "JK Fuuzoku Gakuensai, JKフーゾク学園祭",
     "J〇フーゾク学園祭"
@@ -11,9 +16,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1538/113882.jpg",
   "category": "OVA",
   "hentai": true,
-  "anidbId": null,
+  "anidbId": 15920,
   "createdAt": "2021-07-08T18:44:09.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T11:32:23.000Z",
   "deletedAt": null,
   "Pages": {}
 }

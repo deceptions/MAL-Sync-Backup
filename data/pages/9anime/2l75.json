@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://uchitama.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14952"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22947"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tama_and_Friends#Uchitama?!_Have_you_seen_my_Tama?"
+      }
+    ],
     "altTitle": [
       "Uchitama?! Have you seen my Tama?",
       "うちタマ?!~うちのタマ知りませんか?~"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1624/103162.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14952,
     "createdAt": "2020-10-12T15:40:10.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T04:02:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

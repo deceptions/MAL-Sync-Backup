@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://w-witch.jp/luminous/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14204"
+      }
+    ],
     "altTitle": [
       "Luminous Witches",
       "Allied Air Force Magical Idols Luminous Witches",
@@ -30,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1401/108690.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14204,
     "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T23:34:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

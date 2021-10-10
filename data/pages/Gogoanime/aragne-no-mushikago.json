@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ara-mushi.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12898"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21211"
+      }
+    ],
     "altTitle": [
       "Aragne: Sign of Vermillion",
       "アラーニェの虫籠"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1477/96023.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12898,
     "createdAt": "2020-10-12T15:39:52.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:01:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

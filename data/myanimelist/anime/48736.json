@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16250"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/My_Dress-Up_Darling#Anime"
+    }
+  ],
   "altTitle": [
     "My Dress-Up Darling",
     "Sono Kisekae Ningyou wa Koi wo Suru",
@@ -12,9 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1320/114401.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16250,
   "createdAt": "2021-09-27T17:04:34.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T11:36:13.000Z",
   "deletedAt": null,
   "Pages": {}
 }

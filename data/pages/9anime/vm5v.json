@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kabaneri.com/movie/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12246"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Kabaneri_of_the_Iron_Fortress"
+      }
+    ],
     "altTitle": [
       "Kabaneri of the Iron Fortress Recap 2: Burning Life",
       "甲鉄城のカバネリ 総集編｛後編｝燃える命"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/82963.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12246,
     "createdAt": "2020-10-12T15:39:46.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T12:06:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/prichan/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13752"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kiratto_Pri_Chan#Anime"
+      }
+    ],
     "altTitle": [
       "Kiratto Pri☆chan 3rd Season",
       "キラッとプリ☆チャン シーズン3"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1500/105552.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13752,
     "createdAt": "2020-10-12T15:40:13.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T06:07:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

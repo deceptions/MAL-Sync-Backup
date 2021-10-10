@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://anime.bang-dream.com/pico/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15307"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23257"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/BanG_Dream!"
+      }
+    ],
     "altTitle": [
       "BanG Dream! Garupa Pico: Oomori, BanG Dream! Girls Band Party!☆PICO: Oomori",
       "BanG Dream! ガルパ☆ピコ ~大盛り~"
@@ -25,11 +42,11 @@
     "title": "BanG Dream! Garupa☆Pico: Oomori",
     "url": "https://myanimelist.net/anime/40854/BanG_Dream_Garupa☆Pico__Oomori",
     "image": "https://cdn.myanimelist.net/images/anime/1237/111699.jpg",
-    "category": "TV",
+    "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15307,
     "createdAt": "2020-10-12T15:40:13.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T06:06:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

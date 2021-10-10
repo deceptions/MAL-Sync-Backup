@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14383"
+    }
+  ],
   "altTitle": [
-    "Aim for the Top! 3, Gunbuster 3",
+    "Aim for the Top! 3",
+    "Gunbuster 3",
     "トップをねらえ3！"
   ],
   "id": 38273,
@@ -11,9 +17,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1538/96863.jpg",
   "category": "OVA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 14383,
   "createdAt": "2020-10-12T15:40:05.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T00:09:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {

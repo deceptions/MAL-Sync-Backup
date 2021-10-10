@@ -15,7 +15,20 @@
   "updatedAt": "2021-07-08T19:43:16.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15744"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24138"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Resident_Evil:_Infinite_Darkness"
+      }
+    ],
     "altTitle": [
       "Resident Evil: Infinite Darkness",
       "BIOHAZARD INFINITE DARKNESS"
@@ -24,12 +37,12 @@
     "type": "anime",
     "title": "Biohazard: Infinite Darkness",
     "url": "https://myanimelist.net/anime/42976/Biohazard__Infinite_Darkness",
-    "image": "https://cdn.myanimelist.net/images/anime/1032/114439.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1662/116785.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15744,
     "createdAt": "2021-07-08T09:44:07.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T09:08:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

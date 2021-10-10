@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13446"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E5%B9%BB%E9%95%9C%E8%AF%BA%E5%BE%B7%E7%90%B3/20594817"
+      }
+    ],
     "altTitle": [
       "Beyond the Worlds",
       "幻镜诺德琳"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1623/91536.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13446,
     "createdAt": "2021-04-03T01:00:57.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:31:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

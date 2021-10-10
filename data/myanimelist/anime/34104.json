@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.knights-magic.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12425"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19362"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Knight%27s_%26_Magic"
+    }
+  ],
   "altTitle": [
     "Knight's & Magic",
     "ナイツ&マジック"
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1472/93813.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12425,
   "createdAt": "2020-10-12T15:39:48.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T13:36:07.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

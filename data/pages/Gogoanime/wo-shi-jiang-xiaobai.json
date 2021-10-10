@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.2-10.cn/hore/animation/2018/0804/5.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13737"
+      }
+    ],
     "altTitle": [
       "I'm Joybo",
       "Wo Shi Jiang Xiao Bai",
@@ -28,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/88926.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13737,
     "createdAt": "2020-10-12T15:39:58.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T20:02:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://occultkoumuin.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14172"
+      }
+    ],
     "altTitle": [
       "真夜中のオカルト公務員」TV未放送エピソード「ひとりぼっちの吸血鬼」"
     ],
@@ -26,9 +35,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1892/101617.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14172,
     "createdAt": "2020-10-12T15:40:10.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T04:03:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

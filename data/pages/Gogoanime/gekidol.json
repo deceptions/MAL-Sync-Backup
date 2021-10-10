@@ -15,21 +15,38 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.gekidol.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15734"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23790"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%AD%E3%83%89%E3%83%AB#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+      }
+    ],
     "altTitle": [
       "Gekidol",
       "ゲキドル"
     ],
     "id": 32455,
     "type": "anime",
-    "title": "Gekidol",
-    "url": "https://myanimelist.net/anime/32455/Gekidol",
+    "title": "Gekidol: Actidol Project",
+    "url": "https://myanimelist.net/anime/32455/Gekidol__Actidol_Project",
     "image": "https://cdn.myanimelist.net/images/anime/1195/111544.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15734,
     "createdAt": "2020-12-30T22:17:37.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T09:31:42.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -59,5 +76,5 @@
     "updatedAt": "2021-06-17T17:51:56.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/anime/32455/Gekidol"
+  "malUrl": "https://myanimelist.net/anime/32455/Gekidol__Actidol_Project"
 }

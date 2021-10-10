@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://senryu-girl-official.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14522"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21646"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E6%9F%B3%E5%B0%91%E5%A5%B3"
+      }
+    ],
     "altTitle": [
       "Senryu Girl",
       "Senryuu Girl",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1751/98216.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14522,
     "createdAt": "2020-10-12T15:40:07.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T01:34:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

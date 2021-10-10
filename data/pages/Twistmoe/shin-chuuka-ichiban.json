@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://cookingmaster-anime.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14658"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22490"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ch%C5%ABka_Ichiban!"
+      }
+    ],
     "altTitle": [
       "New Cooking Master Boy",
       "真・中華一番!"
@@ -24,12 +41,12 @@
     "type": "anime",
     "title": "Shin Chuuka Ichiban!",
     "url": "https://myanimelist.net/anime/39194/Shin_Chuuka_Ichiban",
-    "image": "https://cdn.myanimelist.net/images/anime/1697/113900.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1195/116871.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14658,
     "createdAt": "2020-10-12T15:40:08.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T02:33:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

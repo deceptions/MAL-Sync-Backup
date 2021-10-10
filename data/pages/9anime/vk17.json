@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://en.gundam.info/about-gundam/series-pages/builddivers_rerise/battlogue.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15401"
+      }
+    ],
     "altTitle": [
       "Gundam Build Divers Battlogue",
       "Gundam Build Divers Series: Battlogue",
@@ -28,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1436/110252.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15401,
     "createdAt": "2020-12-23T14:26:15.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T09:39:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

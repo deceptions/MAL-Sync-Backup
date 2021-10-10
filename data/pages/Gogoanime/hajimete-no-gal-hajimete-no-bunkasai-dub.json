@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://hajimete-no-gal.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13248"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19891"
+      }
+    ],
     "altTitle": [
-      "Hajimete no Gyaru, Hajimete no Gal OVA, Hajimete no Gal Episode 11",
+      "Hajimete no Gyaru",
+      "Hajimete no Gal OVA",
+      "Hajimete no Gal Episode 11",
       "はじめてのギャル はじめての文化祭"
     ],
     "id": 35237,
@@ -27,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/84879.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13248,
     "createdAt": "2020-10-12T15:39:53.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:32:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

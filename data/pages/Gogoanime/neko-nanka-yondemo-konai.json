@@ -15,9 +15,23 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.bs-asahi.co.jp/nekoyon-anime/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11677"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%8C%AB%E3%81%AA%E3%82%93%E3%81%8B%E3%82%88%E3%82%93%E3%81%A7%E3%82%82%E3%81%93%E3%81%AA%E3%81%84%E3%80%82"
+      }
+    ],
     "altTitle": [
-      "NekoYon, Neko Nanka Yonde mo Konai",
+      "NekoYon",
+      "Neko Nanka Yonde mo Konai",
       "猫なんかよんでもこない。"
     ],
     "id": 31777,
@@ -27,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/76535.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11677,
     "createdAt": "2020-10-12T15:39:40.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T08:03:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

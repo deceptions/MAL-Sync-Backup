@@ -18,9 +18,19 @@
   "updatedAt": "2021-06-02T08:05:38.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.s-manga.net/title/lucatoitanatsu.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%A4%96%E8%96%97%E6%98%8C%E4%B9%9F"
+      }
+    ],
     "altTitle": [
-      "Luca, The Summer I Shared with You, Hello Summer, Goodbye",
+      "Luca, The Summer I Shared with You",
+      "Hello Summer, Goodbye",
       "琉伽といた夏"
     ],
     "authors": [
@@ -34,7 +44,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:42:56.000Z",
-    "updatedAt": "2021-04-06T10:08:44.000Z",
+    "updatedAt": "2021-10-06T10:32:28.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%86%E3%82%AD"
+    }
+  ],
   "altTitle": [
     "Moteki",
     "Linda Linda",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:08.000Z",
-  "updatedAt": "2021-06-22T14:15:44.000Z",
+  "updatedAt": "2021-10-04T19:03:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,6 +87,28 @@
         "aniId": 44701,
         "createdAt": "2020-12-22T20:56:04.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lf962540": {
+        "authors": [
+          "Kubo Mitsurou"
+        ],
+        "identifier": "manga-lf962540",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Moteki",
+        "url": "https://manganato.com/manga-lf962540",
+        "image": "https://avt.mkklcdnv6temp.com/21/y/8-1583479012.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14701,
+        "aniId": 44701,
+        "createdAt": "2021-10-04T19:02:17.000Z",
+        "updatedAt": "2021-10-04T19:32:17.000Z",
         "deletedAt": null
       }
     }

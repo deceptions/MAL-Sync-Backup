@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%88%91%E3%81%8C%E5%90%8D%E3%81%AF%E6%B5%B7%E5%B8%AB"
+    }
+  ],
   "altTitle": [
     "Master Of Sea UMISHI",
     "我が名は海師"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:36.000Z",
-  "updatedAt": "2021-05-01T06:34:11.000Z",
+  "updatedAt": "2021-10-08T06:33:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +44,29 @@
         "aniId": 41698,
         "createdAt": "2020-10-12T16:03:10.000Z",
         "updatedAt": "2021-06-02T12:12:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "waga-na-wa-umishi": {
+        "authors": [
+          "KOMORI Yoichi",
+          "TAKEMURA Yuuji"
+        ],
+        "identifier": "waga-na-wa-umishi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Waga Na wa Umishi",
+        "url": "https://mangasee123.com/manga/Waga-Na-Wa-Umishi",
+        "image": "https://cover.nep.li/cover/Waga-Na-Wa-Umishi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11698,
+        "aniId": 41698,
+        "createdAt": "2021-10-08T06:32:34.000Z",
+        "updatedAt": "2021-10-08T07:02:19.000Z",
         "deletedAt": null
       }
     }

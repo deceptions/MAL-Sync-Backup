@@ -1,7 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://yanmaga.jp/c/gtk/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A3%E3%83%AB%E3%81%A8%E6%81%90%E7%AB%9C"
+    }
+  ],
   "altTitle": [
-    "Gal and Dinosaur, Gyaru to Kyouryuu",
+    "My Roomie Is a Dino",
+    "Gal and Dinosaur",
+    "Gyaru to Kyouryuu",
     "ギャルと恐竜"
   ],
   "authors": [
@@ -16,7 +27,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:49.000Z",
-  "updatedAt": "2021-04-15T12:46:19.000Z",
+  "updatedAt": "2021-10-03T21:01:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -62,6 +73,29 @@
         "aniId": 104588,
         "createdAt": "2021-04-15T12:46:20.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dr980452": {
+        "authors": [
+          "Moriko Mori",
+          "Murakoto Tomi"
+        ],
+        "identifier": "manga-dr980452",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gyaru And Dinosaur",
+        "url": "https://manganato.com/manga-dr980452",
+        "image": "https://avt.mkklcdnv6temp.com/29/e/17-1583496309.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 117081,
+        "aniId": 104588,
+        "createdAt": "2021-10-03T21:00:52.000Z",
+        "updatedAt": "2021-10-04T16:32:17.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime.fate-go.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13643"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Fate/Grand_Order"
+      }
+    ],
     "altTitle": [
       "Fate/Grand Order -MOONLIGHT/LOSTROOM-"
     ],
@@ -26,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/89976.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13643,
     "createdAt": "2020-10-12T15:39:58.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T20:09:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

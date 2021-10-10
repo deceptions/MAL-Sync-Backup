@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.anime-dialover.com/dlmb/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11068"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16782"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Diabolik_Lovers"
+      }
+    ],
     "altTitle": [
       "Diabolik Lovers II: More,Blood",
       "Diabolik Lovers 2nd Season",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/73657.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11068,
     "createdAt": "2020-10-12T15:39:34.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:05:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

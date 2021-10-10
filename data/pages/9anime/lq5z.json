@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tv-tokyo.co.jp/anime/shin-buddyfight/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14030"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20833"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89_%E7%A5%9E%E3%83%90%E3%83%87%E3%82%A3%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88"
+      }
+    ],
     "altTitle": [
       "Future Card Buddyfight Ace",
       "フューチャーカード 神バディファイト"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1367/95055.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14030,
     "createdAt": "2020-10-12T15:40:02.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:34:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,10 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nanabunnonijyuuni.com/special/gallery-001/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13299"
+      }
+    ],
     "altTitle": [
       "The Diary of Our Days",
-      "22/7, Nanabun no Nijuuni",
+      "22/7",
+      "Nanabun no Nijuuni",
       "あの日の彼女たち"
     ],
     "id": 37589,
@@ -28,9 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1263/93685.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13299,
     "createdAt": "2020-10-12T15:40:02.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:07:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www6.nhk.or.jp/anime/program/detail.html?i=gomachan"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13838"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20784"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%B0%91%E5%B9%B4%E3%82%A2%E3%82%B7%E3%83%99"
+      }
+    ],
     "altTitle": [
       "Young Ashibe: Go! Go! Goma-chan 3",
       "少年アシベ GO! GO! ゴマちゃん 3"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1001/91711.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13838,
     "createdAt": "2020-10-12T15:40:00.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T21:34:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

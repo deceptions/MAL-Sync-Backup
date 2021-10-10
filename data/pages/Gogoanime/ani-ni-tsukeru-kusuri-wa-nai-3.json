@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://anitsuke.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14956"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22546"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ani_ni_Tsukeru_Kusuri_wa_Nai!"
+      }
+    ],
     "altTitle": [
       "Please Take My Brother Away 3",
       "Ani ni Tsukeru Kusuri wa Nai! 3rd Season",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1756/103441.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14956,
     "createdAt": "2020-10-12T15:40:10.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T04:02:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

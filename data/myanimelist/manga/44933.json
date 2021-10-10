@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://web.archive.org/web/20160222153006/jumpsq.shueisha.co.jp/web_manga/tsunemoriakane/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/PSYCHO-PASS"
+    }
+  ],
   "altTitle": [
     "Inspector Akane Tsunemori",
     "Psycho-Pass",
@@ -17,7 +26,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:20.000Z",
-  "updatedAt": "2021-06-23T18:15:04.000Z",
+  "updatedAt": "2021-10-06T01:03:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +70,28 @@
         "aniId": 74933,
         "createdAt": "2020-10-12T16:18:28.000Z",
         "updatedAt": "2021-06-07T17:18:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pk955467": {
+        "authors": [
+          "Urobuchi Gen"
+        ],
+        "identifier": "manga-pk955467",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kanshikan Tsunemori Akane",
+        "url": "https://manganato.com/manga-pk955467",
+        "image": "https://avt.mkklcdnv6temp.com/37/d/3-1583469134.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44933,
+        "aniId": 74933,
+        "createdAt": "2021-10-06T01:03:18.000Z",
+        "updatedAt": "2021-10-06T01:32:17.000Z",
         "deletedAt": null
       }
     }

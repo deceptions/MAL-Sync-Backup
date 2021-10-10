@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://konosuba.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13317"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AB%E7%A5%9D%E7%A6%8F%E3%82%92!"
+    }
+  ],
   "altTitle": [
     "KonoSuba: God's Blessing on This Wonderful World! 2: God's blessing on this wonderful Art!",
     "KonoSuba: God's Blessing on This Wonderful World! Second Season OVA",
@@ -13,9 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1115/98517.jpg",
   "category": "OVA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13317,
   "createdAt": "2020-10-12T15:39:51.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T15:02:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

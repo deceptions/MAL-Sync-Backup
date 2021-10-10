@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:56.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md28223059/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15648"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Heaven_Official%27s_Blessing#Donghua"
+      }
+    ],
     "altTitle": [
       "Heaven Official's Blessing",
       "TGCF",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1319/109301.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15648,
     "createdAt": "2020-10-12T15:40:13.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T05:39:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

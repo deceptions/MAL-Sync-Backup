@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kuroshitsuji-movie.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11696"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18077"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E5%9F%B7%E4%BA%8B_(%E3%82%A2%E3%83%8B%E3%83%A1)"
+      }
+    ],
     "altTitle": [
       "Black Butler: Book of the Atlantic",
       "劇場版 黒執事 Book of the Atlantic"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/85792.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11696,
     "createdAt": "2020-10-12T15:39:40.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T08:04:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

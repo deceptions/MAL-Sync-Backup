@@ -15,9 +15,27 @@
   "updatedAt": "2021-04-11T07:21:08.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kjganime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15024"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22385"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kandagawa_Jet_Girls"
+      }
+    ],
     "altTitle": [
-      "Kandagawa Jet Girls Soushuuhen, Kandagawa Jet Girls Episode 4.5",
+      "Kandagawa Jet Girls Soushuuhen",
+      "Kandagawa Jet Girls Episode 4.5",
       "神田川JET GIRLS  第4.5話「そうしゅうへん」"
     ],
     "id": 40651,
@@ -27,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1851/103980.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15024,
     "createdAt": "2020-10-12T15:40:13.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T05:36:34.000Z",
     "deletedAt": null
   },
   "Anilist": null,

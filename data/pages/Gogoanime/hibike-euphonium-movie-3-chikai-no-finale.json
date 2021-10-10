@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime-eupho.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13207"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21102"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Sound!_Euphonium"
+      }
+    ],
     "altTitle": [
       "Sound! Euphonium: Our Promise: A Brand New Day",
       "Gekijouban Hibike! Euphonium: Chikai no Finale",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1141/102223.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13207,
     "createdAt": "2020-10-12T15:39:54.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T17:32:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

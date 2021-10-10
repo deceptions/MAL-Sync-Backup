@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://anime-kapibarasan.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15755"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/カピバラさん"
+      }
+    ],
     "altTitle": [
       "Anime Kapibarasan",
       "Animation Kapibara-san",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1819/109679.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15755,
     "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T08:36:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

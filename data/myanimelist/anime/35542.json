@@ -1,8 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kbs.co.kr/2tv/enter/mecardw/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13821"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ko.wikipedia.org/wiki/%ED%84%B0%EB%8B%9D%EB%A9%94%EC%B9%B4%EB%93%9C_W"
+    }
+  ],
   "altTitle": [
     "Turning Mecard W",
-    "Turning Mecard Wing, 터닝메카드 Wing",
+    "Turning Mecard Wing",
+    "터닝메카드 Wing",
     "터닝메카드 W"
   ],
   "id": 35542,
@@ -12,9 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/85660.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13821,
   "createdAt": "2020-10-12T15:39:54.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T17:05:54.000Z",
   "deletedAt": null,
   "Pages": {}
 }

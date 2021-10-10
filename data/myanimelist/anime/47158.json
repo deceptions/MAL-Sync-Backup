@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16026"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/My_Friend's_Little_Sister_Has_It_In_for_Me!#Anime"
+    }
+  ],
   "altTitle": [
     "My friend's sister annoying only me.",
     "My Friend's Little Sister Has It In for Me!",
@@ -13,9 +22,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1113/111438.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16026,
   "createdAt": "2021-02-01T09:02:38.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T10:39:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://uzakichan.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15382"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23371"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%B4%8E%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E9%81%8A%E3%81%B3%E3%81%9F%E3%81%84!#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+      }
+    ],
     "altTitle": [
       "Uzaki-chan Wants to Hang Out!",
       "Uzaki-chan Wants to Play!",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1540/108292.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15382,
     "createdAt": "2020-10-12T15:40:14.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:02:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

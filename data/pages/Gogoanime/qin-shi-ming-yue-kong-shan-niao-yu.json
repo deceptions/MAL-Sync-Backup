@@ -15,7 +15,12 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13574"
+      }
+    ],
     "altTitle": [
       "Qin's Moon Special: Birdsong in Hollow Valley",
       "秦时明月 特别篇：空山鸟语"
@@ -27,9 +32,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/71868.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13574,
     "createdAt": "2020-10-12T15:39:34.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:02:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.othersidepicnic.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15423"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23073"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%A3%8F%E4%B8%96%E7%95%8C%E3%83%94%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF"
+      }
+    ],
     "altTitle": [
       "Otherside Picnic",
       "裏世界ピクニック"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1494/111515.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15423,
     "createdAt": "2020-11-21T13:22:45.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:05:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

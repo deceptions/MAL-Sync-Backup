@@ -15,9 +15,28 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.yamatocrew.jp"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=648"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=338"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E6%88%A6%E8%89%A6%E3%83%A4%E3%83%9E%E3%83%88#%E3%83%91%E3%82%A4%E3%83%AD%E3%83%83%E3%83%88%E7%89%88"
+      }
+    ],
     "altTitle": [
-      "Star Blazers Pilot Film, Space Cruiser Yamato Pilot Film, Space Battleship Yamato Pilot Film",
+      "Star Blazers Pilot Film",
+      "Space Cruiser Yamato Pilot Film",
+      "Space Battleship Yamato Pilot Film",
       "宇宙戦艦ヤマト パイロットフィルム"
     ],
     "id": 37082,
@@ -27,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/89950.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 648,
     "createdAt": "2020-10-12T15:39:59.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T20:37:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://namiyo-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15136"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22551"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wave,_Listen_to_Me!#Anime"
+      }
+    ],
     "altTitle": [
       "Wave, Listen to Me!",
       "Nami yo Kiite Kure",
@@ -25,12 +42,12 @@
     "type": "anime",
     "title": "Nami yo Kiitekure",
     "url": "https://myanimelist.net/anime/40513/Nami_yo_Kiitekure",
-    "image": "https://cdn.myanimelist.net/images/anime/1615/105582.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1913/112190.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15136,
     "createdAt": "2020-10-12T15:40:12.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T05:31:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,20 @@
   "updatedAt": "2021-09-29T07:33:02.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.iqiyi.com/lib/m_223118614.html?vfrm=2-3-0-1"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15645"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://baike.baidu.com/item/异世界中药铺/23636929"
+      }
+    ],
     "altTitle": [
       "Different World Medicine Shop",
       "异世界中药铺"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1789/108202.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15645,
     "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T08:04:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

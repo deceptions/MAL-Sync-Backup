@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://konohanatei.jp"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13030"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19812"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%AD%A4%E8%8A%B1%E4%BA%AD%E5%A5%87%E8%AD%9A"
+      }
+    ],
     "altTitle": [
       "Konohana Kitan",
       "このはな綺譚"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/88431.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13030,
     "createdAt": "2020-10-12T15:39:53.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:32:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

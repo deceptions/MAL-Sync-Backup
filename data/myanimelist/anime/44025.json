@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://doraeiga.com"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15852"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doraemon:_Nobita's_Little_Star_Wars_2021"
+    }
+  ],
   "altTitle": [
     "Doraemon the Movie 2021: Nobita's Space War (Little Star Wars)",
     "Doraemon the Movie 2021: Nobita's Space War, Doraemon the Movie 2021: Nobita no Uchuu Shou Sensou",
@@ -12,9 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1602/110200.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15852,
   "createdAt": "2021-08-06T04:50:55.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T09:38:13.000Z",
   "deletedAt": null,
   "Pages": {}
 }

@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kbs.co.kr/2tv/enter/mecard/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13804"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ko.wikipedia.org/wiki/%ED%84%B0%EB%8B%9D%EB%A9%94%EC%B9%B4%EB%93%9C_(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)"
+    }
+  ],
   "altTitle": [
     "Turning Mecard",
     "터닝메카드"
@@ -11,9 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/85659.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13804,
   "createdAt": "2020-10-12T15:39:54.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T17:05:43.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

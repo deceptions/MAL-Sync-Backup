@@ -1,7 +1,21 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.dreamcreation.co.jp/bernard/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12226"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC%E3%83%89%E5%AC%A2%E6%9B%B0%E3%81%8F%E3%80%82"
+    }
+  ],
   "altTitle": [
-    "Bernard-jou Iwaku. Episode 13, Bernard-jou Iwaku. Special",
+    "Bernard-jou Iwaku. Episode 13",
+    "Bernard-jou Iwaku. Special",
     "バーナード嬢曰く。おふろ読書"
   ],
   "id": 37000,
@@ -11,9 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/89664.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12226,
   "createdAt": "2020-10-12T15:39:59.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T20:34:34.000Z",
   "deletedAt": null,
   "Pages": {}
 }

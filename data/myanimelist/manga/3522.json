@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%83%AA"
+    }
+  ],
   "altTitle": [
     "Kieli",
     "キーリ～死者たちは荒野に眠る～"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:51.000Z",
-  "updatedAt": "2021-08-23T04:16:17.000Z",
+  "updatedAt": "2021-10-07T08:32:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +66,28 @@
         "aniId": 33522,
         "createdAt": "2021-08-23T04:16:09.000Z",
         "updatedAt": "2021-08-23T04:46:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-se969587": {
+        "authors": [
+          "Kabei Yukako"
+        ],
+        "identifier": "manga-se969587",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kieli",
+        "url": "https://manganato.com/manga-se969587",
+        "image": "https://avt.mkklcdnv6temp.com/3/u/13-1583487862.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3522,
+        "aniId": 33522,
+        "createdAt": "2021-10-07T08:32:21.000Z",
+        "updatedAt": "2021-10-07T09:02:19.000Z",
         "deletedAt": null
       }
     }

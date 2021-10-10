@@ -20,8 +20,18 @@
   "updatedAt": "2021-06-07T07:37:59.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://ultra.shueisha.co.jp/manga/hello-world/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/HELLO_WORLD_(%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB)"
+      }
+    ],
     "altTitle": [
+      "Hello World: The Manga",
       "HELLO WORLD"
     ],
     "authors": [
@@ -37,7 +47,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-02T13:01:46.000Z",
-    "updatedAt": "2021-06-02T13:01:46.000Z",
+    "updatedAt": "2021-10-09T20:32:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

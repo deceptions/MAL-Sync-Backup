@@ -1,7 +1,27 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.bakatest.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6747"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10816"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baka_and_Test "
+    }
+  ],
   "altTitle": [
-    "Baka and Test Mini Special, Baka to Tesuto to Shoukanjuu, Baka to Test to Shoukanjyuu, Idiots, Tests, and Summoned Beasts",
+    "Baka and Test Mini Special",
+    "Baka to Tesuto to Shoukanjuu",
+    "Baka to Test to Shoukanjyuu",
+    "Idiots, Tests, and Summoned Beasts",
     "バカとテストと召喚獣 ミニアニメ"
   ],
   "id": 36250,
@@ -11,9 +31,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/5/88311.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 6747,
   "createdAt": "2020-10-12T15:39:56.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T18:37:53.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/DEAR_BOYS"
+    }
+  ],
   "altTitle": [
     "Dear Boys Act 1",
     "DEAR BOYS"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:32.000Z",
-  "updatedAt": "2021-06-04T18:19:17.000Z",
+  "updatedAt": "2021-10-07T07:32:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 31294,
         "createdAt": "2021-07-04T03:39:05.000Z",
         "updatedAt": "2021-07-04T03:59:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dear_boys": {
+        "authors": [
+          "YAGAMI Hiroki"
+        ],
+        "identifier": "dear_boys",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dear Boys",
+        "url": "https://fanfox.net/manga/dear_boys/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/191/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1294,
+        "aniId": 31294,
+        "createdAt": "2021-10-07T07:32:19.000Z",
+        "updatedAt": "2021-10-07T08:02:19.000Z",
         "deletedAt": null
       }
     }

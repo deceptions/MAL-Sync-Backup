@@ -15,7 +15,20 @@
   "updatedAt": "2021-06-02T01:01:15.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://neco-neco.jp/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13054"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E6%97%A5%E6%9C%AC%E5%8F%B2"
+      }
+    ],
     "altTitle": [
       "Meow Meow Japanese History",
       "ねこねこ日本史"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/89586.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13054,
     "createdAt": "2020-11-27T00:32:02.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:35:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

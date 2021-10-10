@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:56.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/tv/zenitendo/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15608"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23665"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%97%E3%81%8E%E9%A7%84%E8%8F%93%E5%AD%90%E5%B1%8B_%E9%8A%AD%E5%A4%A9%E5%A0%82"
+      }
+    ],
     "altTitle": [
       "ふしぎ駄菓子屋 銭天堂"
     ],
@@ -26,9 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15608,
     "createdAt": "2020-10-24T15:28:46.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T08:10:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%A4%A9_%E5%A4%A9%E5%92%8C%E9%80%9A%E3%82%8A%E3%81%AE%E5%BF%AB%E7%94%B7%E5%85%90#.E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9"
+    }
+  ],
   "altTitle": [
     "天 天和通りの快男児"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:52.000Z",
-  "updatedAt": "2021-04-28T05:50:40.000Z",
+  "updatedAt": "2021-10-09T19:02:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +41,28 @@
         "aniId": 33571,
         "createdAt": "2020-10-12T16:04:39.000Z",
         "updatedAt": "2021-06-02T22:26:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ten_tenna_toori_no_kaidanji": {
+        "authors": [
+          "FUKUMOTO Nobuyuki"
+        ],
+        "identifier": "ten_tenna_toori_no_kaidanji",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ten - Tenna Toori no Kaidanji",
+        "url": "https://fanfox.net/manga/ten_tenna_toori_no_kaidanji/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3148/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 3571,
+        "aniId": 33571,
+        "createdAt": "2021-10-09T19:02:23.000Z",
+        "updatedAt": "2021-10-09T22:02:20.000Z",
         "deletedAt": null
       }
     }

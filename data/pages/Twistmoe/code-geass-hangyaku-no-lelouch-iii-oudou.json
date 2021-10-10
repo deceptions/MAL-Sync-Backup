@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.geass.jp/L-geass/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12567"
+      }
+    ],
     "altTitle": [
       "Code Geass: Lelouch of the Rebellion III - Glorification",
       "Code Geass: Lelouch of the Rebellion - Emperor",
@@ -28,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1126/91344.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12567,
     "createdAt": "2020-10-12T15:39:50.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T14:31:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

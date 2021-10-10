@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://dakaretai-1st.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13979"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20808"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Dakaretai_Otoko_1-i_ni_Odosarete_Imasu."
+      }
+    ],
     "altTitle": [
       "DAKAICHI -I'm being harassed by the sexiest man of the year-",
       "Dakaretai Otoko Ichii ni Odosarete Imasu.",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1402/95620.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13979,
     "createdAt": "2020-10-12T15:40:02.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:07:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

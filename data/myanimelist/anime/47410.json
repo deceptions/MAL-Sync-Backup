@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16380"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24123"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Initial_D_episodes#Initial_D:_Battle_Stage_3_(2021)"
+    }
+  ],
   "altTitle": [
     "Initial D Battle Stage 3",
     "INITIAL D BATTLE STAGE 3"
@@ -11,9 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1236/113306.jpg",
   "category": "OVA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16380,
   "createdAt": "2021-08-20T07:38:43.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T11:02:13.000Z",
   "deletedAt": null,
   "Pages": {}
 }

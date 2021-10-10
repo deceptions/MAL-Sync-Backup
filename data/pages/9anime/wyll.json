@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://nora-anime.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11864"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19749"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%A9%E3%81%A8%E7%9A%87%E5%A5%B3%E3%81%A8%E9%87%8E%E8%89%AF%E7%8C%AB%E3%83%8F%E3%83%BC%E3%83%88"
+      }
+    ],
     "altTitle": [
       "Nora, Princess, and Stray Cat",
       "Noratoto",
@@ -25,12 +42,12 @@
     "type": "anime",
     "title": "Nora to Oujo to Noraneko Heart",
     "url": "https://myanimelist.net/anime/32447/Nora_to_Oujo_to_Noraneko_Heart",
-    "image": "https://cdn.myanimelist.net/images/anime/3/85868.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1969/116702.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11864,
     "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T09:31:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

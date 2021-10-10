@@ -15,10 +15,28 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://conan-movie.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13605"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20362"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3_%E3%82%BC%E3%83%AD%E3%81%AE%E5%9F%B7%E8%A1%8C%E4%BA%BA"
+      }
+    ],
     "altTitle": [
       "Detective Conan: Zero the Enforcer",
-      "Meitantei Conan: Zero no Shikkounin, Detective Conan Movie 22: Zero's Executioner",
+      "Meitantei Conan: Zero no Shikkounin",
+      "Detective Conan Movie 22: Zero's Executioner",
       "劇場版 名探偵コナン ゼロの執行人"
     ],
     "id": 35798,
@@ -28,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/90104.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13605,
     "createdAt": "2020-10-12T15:39:55.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T17:37:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

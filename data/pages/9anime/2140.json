@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://singyesterday.com/onair/#media02"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14822"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sing_%22Yesterday%22_for_Me#Anime"
+      }
+    ],
     "altTitle": [
       "Sing \"Yesterday\" for Me",
       "イエスタデイをうたって 配信版エピソード"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1919/107275.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14822,
     "createdAt": "2020-10-12T15:40:15.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:34:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

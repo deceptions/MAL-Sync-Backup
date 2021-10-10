@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.square-enix.co.jp/magazine/yg/introduction/kiba/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E7%89%99%E3%81%AE%E6%97%85%E5%95%86%E4%BA%BA_%E3%80%9CThe_Arms_Peddler%E3%80%9C"
+    }
+  ],
   "altTitle": [
     "牙の旅商人 ～The Arms Peddler～"
   ],
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:13.000Z",
-  "updatedAt": "2021-06-05T10:50:18.000Z",
+  "updatedAt": "2021-10-06T20:33:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +70,28 @@
         "aniId": 54450,
         "createdAt": "2021-04-05T19:09:07.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zf953940": {
+        "authors": [
+          "Nanatsuki Kyoichi"
+        ],
+        "identifier": "manga-zf953940",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kiba No Tabishounin - The Arms Peddler",
+        "url": "https://manganato.com/manga-zf953940",
+        "image": "https://avt.mkklcdnv6temp.com/40/x/2-1583467274.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24450,
+        "aniId": 54450,
+        "createdAt": "2021-10-06T20:33:21.000Z",
+        "updatedAt": "2021-10-06T21:02:19.000Z",
         "deletedAt": null
       }
     }

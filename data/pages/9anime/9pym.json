@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-25T18:38:17.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://anime-natsume2021.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15732"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23793"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Natsume's_Book_of_Friends"
+      }
+    ],
     "altTitle": [
       "Natsume's Book of Friends",
       "夏目友人帳 石起こしと怪しき来訪者"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1992/111560.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15732,
     "createdAt": "2021-05-25T18:08:17.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T09:06:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,24 @@
   "updatedAt": "2021-08-30T09:37:26.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.weibo.com/6210700783/Fwx0YhFWQ"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13263"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20160"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gin_Tama"
+      }
+    ],
     "altTitle": [
       "Nissin Cup Noodles China x Gintama",
       "银魂 X 合味道"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1494/105149.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13263,
     "createdAt": "2021-08-30T09:37:26.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T19:32:12.000Z",
     "deletedAt": null
   },
   "Anilist": null,

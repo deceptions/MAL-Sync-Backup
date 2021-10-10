@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%BB%E3%83%A9%E3%82%AC%E3%83%83%E3%83%84%E3%82%A3_-%E6%88%A6%E5%9B%BD%E5%B0%91%E5%B9%B4%E8%A5%BF%E6%96%B9%E8%A6%8B%E8%81%9E%E9%8C%B2-"
+    }
+  ],
   "altTitle": [
     "Samurai Ragattsi",
     "サムライ・ラガッツィ -戦国少年西方見聞録-"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:41.000Z",
-  "updatedAt": "2021-05-04T22:02:30.000Z",
+  "updatedAt": "2021-10-04T21:02:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 60133,
         "createdAt": "2021-05-09T07:47:24.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ci951643": {
+        "authors": [
+          "Kaneda Tatsuya"
+        ],
+        "identifier": "manga-ci951643",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Samurai Ragazzi - Sengoku Shounen Seihou Kenbunroku",
+        "url": "https://manganato.com/manga-ci951643",
+        "image": "https://avt.mkklcdnv6temp.com/11/u/1-1583464122.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30133,
+        "aniId": 60133,
+        "createdAt": "2021-10-04T21:02:17.000Z",
+        "updatedAt": "2021-10-04T21:32:17.000Z",
         "deletedAt": null
       }
     }

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.yuyake-dandan.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11131"
+    }
+  ],
   "altTitle": [
     "Yuyake Dandan",
     "夕やけだん団"
@@ -11,9 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/72570.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11131,
   "createdAt": "2020-10-12T15:39:35.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T04:36:33.000Z",
   "deletedAt": null,
   "Pages": {}
 }

@@ -15,9 +15,27 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://bokuhaka-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14393"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22530"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/A_Destructive_God_Sits_Next_to_Me#Anime"
+      }
+    ],
     "altTitle": [
-      "A Destructive God Sits Next to Me, Bokuhaka",
+      "A Destructive God Sits Next to Me",
+      "Bokuhaka",
       "ぼくのとなりに暗黒破壊神がいます。"
     ],
     "id": 38302,
@@ -27,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1848/103547.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14393,
     "createdAt": "2020-10-12T15:40:05.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T00:30:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

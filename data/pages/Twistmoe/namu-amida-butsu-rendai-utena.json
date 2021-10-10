@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://namuami-utena-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14256"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21274"
+      }
+    ],
     "altTitle": [
       "NAMUAMIDABUTSU! -UTENA-",
       "Namuamida Butsu! Rendai Utena",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1752/100366.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14256,
     "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T00:05:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

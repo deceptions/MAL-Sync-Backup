@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md28228714/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15663"
+      }
+    ],
     "altTitle": [
       "Fog Hill of Five Elements",
       "Wushan Wuxing",
@@ -27,12 +36,12 @@
     "type": "anime",
     "title": "Wu Shan Wu Xing",
     "url": "https://myanimelist.net/anime/37936/Wu_Shan_Wu_Xing",
-    "image": "https://cdn.myanimelist.net/images/anime/1335/108930.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1141/112764.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15663,
     "createdAt": "2020-10-12T15:40:03.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T23:06:38.000Z",
     "deletedAt": null
   },
   "Anilist": {

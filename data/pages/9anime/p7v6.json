@@ -15,7 +15,12 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13570"
+      }
+    ],
     "altTitle": [
       "Utawarerumono: Imperial Princess Tusukuru's Splendid Days",
       "うたわれるもの トゥスクル皇女の華麗なる日々"
@@ -27,9 +32,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/88928.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13570,
     "createdAt": "2020-10-12T15:39:58.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T20:02:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

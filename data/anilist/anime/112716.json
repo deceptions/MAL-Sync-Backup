@@ -4,7 +4,12 @@
     "マブラヴ オルタネイティヴ",
     "Muv-Luv Alternative The Animation"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/muv-luv-alternative"
+    }
+  ],
   "id": 112716,
   "malId": 40608,
   "type": "anime",
@@ -14,7 +19,46 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-27T15:28:42.000Z",
-  "updatedAt": "2021-08-27T15:06:33.000Z",
+  "updatedAt": "2021-10-06T16:32:19.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "muv-luv-alternative": {
+        "identifier": "muv-luv-alternative",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Muv-Luv Alternative",
+        "url": "https://gogoanime.pe/category/muv-luv-alternative",
+        "image": "https://gogocdn.net/cover/muv-luv-alternative.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40608,
+        "aniId": 112716,
+        "createdAt": "2021-10-06T21:32:19.000Z",
+        "updatedAt": "2021-10-06T22:02:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "m087": {
+        "identifier": "m087",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Muv-Luv Alternative",
+        "url": "https://9anime.to/watch/muv-luv-alternative.m087",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/65/65b23cfe7f75f5abed4ca93cf20ea91e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40608,
+        "aniId": 112716,
+        "createdAt": "2021-10-07T00:02:49.000Z",
+        "updatedAt": "2021-10-07T00:32:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

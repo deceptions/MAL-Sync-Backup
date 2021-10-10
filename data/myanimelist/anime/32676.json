@@ -1,6 +1,16 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11919"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Anpanman#Movies"
+    }
+  ],
   "altTitle": [
+    "Anpanman: Nanda and Runda From the Star of Toys",
     "Go! Anpanman: Nanda and Runda of the Toy Star",
     "それいけ! アンパンマン おもちゃの星のナンダとルンダ"
   ],
@@ -11,9 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/78423.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11919,
   "createdAt": "2021-09-27T17:34:07.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T09:38:33.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

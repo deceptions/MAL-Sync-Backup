@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://onizushi.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12092"
+    }
+  ],
   "altTitle": [
     "オニズシ"
   ],
@@ -10,9 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/79804.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12092,
   "createdAt": "2020-10-12T15:39:45.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T11:31:44.000Z",
   "deletedAt": null,
   "Pages": {}
 }

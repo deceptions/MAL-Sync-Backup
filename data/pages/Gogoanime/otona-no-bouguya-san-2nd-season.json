@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://ganma.jp/g/anime/otonabougu/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15724"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23830"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Otona_no_B%C5%8Dguya-san#Anime"
+      }
+    ],
     "altTitle": [
       "Armor Shop for Ladies and Gentlemen II",
       "Otona no Bouguya-san 2nd Season",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1738/111426.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15724,
     "createdAt": "2021-01-01T15:20:32.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T09:04:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

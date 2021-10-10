@@ -15,7 +15,20 @@
   "updatedAt": "2021-07-19T18:48:31.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md28229117/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15614"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E5%A5%B3%E6%AD%A6%E7%A5%9E%E7%9A%84%E9%A4%90%E6%A1%8C"
+      }
+    ],
     "altTitle": [
       "Cooking with Valkyries II",
       "Valkyrie no Shokutaku II",
@@ -29,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1806/108206.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15614,
     "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T08:07:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

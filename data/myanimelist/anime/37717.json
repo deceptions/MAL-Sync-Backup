@@ -1,7 +1,23 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ogakikanko.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14018"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%82%E3%82%93%E7%89%A9%E8%AA%9E"
+    }
+  ],
   "altTitle": [
-    "Ogaki-shi, Ogaki Shi, Ougaki-shi, Ougaki Shi",
+    "Ogaki-shi",
+    "Ogaki Shi",
+    "Ougaki-shi",
+    "Ougaki Shi",
     "おあむ物語　その夏、わたしが知ったこと"
   ],
   "id": 37717,
@@ -11,9 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1246/91826.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 14018,
   "createdAt": "2020-10-12T15:40:02.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T22:33:56.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

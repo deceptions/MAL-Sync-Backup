@@ -15,7 +15,24 @@
   "updatedAt": "2021-06-09T13:04:14.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://mahouritsu.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13916"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20762"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%92%E3%83%A7%E3%81%A8%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%81%AE%E9%AD%94%E6%B3%95%E5%BE%8B%E7%9B%B8%E8%AB%87%E4%BA%8B%E5%8B%99%E6%89%80"
+      }
+    ],
     "altTitle": [
       "Muhyo & Roji's Bureau of Supernatural Investigation",
       "ムヒョとロージーの魔法律相談事務所"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1180/93407.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13916,
     "createdAt": "2020-10-12T15:40:01.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:01:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

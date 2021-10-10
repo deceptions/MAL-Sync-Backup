@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://sakugan-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14291"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22383"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sacks&Guns!!"
+      }
+    ],
     "altTitle": [
       "Sacks&Guns!!",
       "Sakugan Labyrinth Marker",
@@ -27,12 +44,12 @@
     "type": "anime",
     "title": "Sakugan",
     "url": "https://myanimelist.net/anime/38192/Sakugan",
-    "image": "https://cdn.myanimelist.net/images/anime/1841/116971.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1431/118413.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14291,
     "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:31:56.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -43,7 +60,16 @@
       "Sacks&Guns!!",
       "Project Anime"
     ],
-    "externalLinks": [],
+    "externalLinks": [
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GP5HJ800Z/SAKUGAN"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://crunchyroll.com/series/GP5HJ800Z/sakugan"
+      }
+    ],
     "id": 108987,
     "malId": 38192,
     "type": "anime",
@@ -53,7 +79,7 @@
     "category": "tv",
     "hentai": false,
     "createdAt": "2021-05-20T14:44:46.000Z",
-    "updatedAt": "2021-08-06T03:47:30.000Z",
+    "updatedAt": "2021-10-07T19:02:19.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/anime/38192/Sakugan"

@@ -15,10 +15,28 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.fairytail-tv.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13295"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20846"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Fairy_Tail"
+      }
+    ],
     "altTitle": [
       "Fairy Tail Final Series",
-      "Fairy Tail Season 3, Fairy Tail (2018)",
+      "Fairy Tail Season 3",
+      "Fairy Tail (2018)",
       "FAIRY TAIL ファイナルシリーズ"
     ],
     "id": 35972,
@@ -28,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1536/93863.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13295,
     "createdAt": "2020-10-12T15:39:55.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T18:03:52.000Z",
     "deletedAt": null
   },
   "Anilist": {

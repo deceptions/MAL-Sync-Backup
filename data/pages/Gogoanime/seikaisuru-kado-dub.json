@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.seikaisuru-kado.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11762"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19011"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%AD%A3%E8%A7%A3%E3%81%99%E3%82%8B%E3%82%AB%E3%83%89"
+      }
+    ],
     "altTitle": [
       "KADO: The Right Answer",
       "正解するカド"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/85255.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11762,
     "createdAt": "2020-10-12T15:39:41.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T08:35:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

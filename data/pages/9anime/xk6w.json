@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md4313762/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15966"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E7%99%BE%E5%A6%96%E8%B0%B1/23219351"
+      }
+    ],
     "altTitle": [
       "Fairies Albums",
       "Manual of Hundred Demons",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1403/108297.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15966,
     "createdAt": "2020-10-12T15:40:14.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:02:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

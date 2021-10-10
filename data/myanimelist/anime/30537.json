@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.tigerandbunny.net/event/sotb.html"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11744"
+    }
+  ],
   "altTitle": [
     "The Sound of Tiger & Bunny",
     "Too many cooks spoil the broth.(船頭多くして船山に上る)"
@@ -11,9 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/9/74269.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11744,
   "createdAt": "2020-10-12T15:39:36.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T05:06:59.000Z",
   "deletedAt": null,
   "Pages": {}
 }

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.wakeupgirls3.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12625"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19921"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Wake_Up,_Girls!"
+      }
+    ],
     "altTitle": [
       "Wake Up, Girls! New Chapter",
       "Wake Up, Girls! Shin Sho",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/87732.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12625,
     "createdAt": "2020-10-12T15:39:50.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T14:36:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

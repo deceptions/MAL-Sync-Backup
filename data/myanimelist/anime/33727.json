@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime-dayan.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12289"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%8F%E3%81%A1%E3%81%B5%E3%81%83%E3%83%BC%E3%82%8B%E3%81%A9#.E3.83.86.E3.83.AC.E3.83.93.E3.82.A2.E3.83.8B.E3.83.A1"
+    }
+  ],
   "altTitle": [
     "Dayan the Cat: Wonder Theater",
     "猫のダヤン ふしぎ劇場"
@@ -11,9 +24,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/81109.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12289,
   "createdAt": "2020-10-12T15:39:47.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T12:36:09.000Z",
   "deletedAt": null,
   "Pages": {}
 }

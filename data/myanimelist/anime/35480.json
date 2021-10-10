@@ -1,7 +1,17 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13145"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%83%80%E6%8E%A2%E3%81%97"
+    }
+  ],
   "altTitle": [
-    "Body Search, Re/member",
+    "Body Search",
+    "Re/member",
     "カラダ探し"
   ],
   "id": 35480,
@@ -11,9 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/87141.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13145,
   "createdAt": "2020-10-12T15:39:54.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T17:04:34.000Z",
   "deletedAt": null,
   "Pages": {}
 }

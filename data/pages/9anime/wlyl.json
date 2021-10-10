@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:56.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/h/hdhl8qmlph3nljp.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15595"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E9%BA%BB%E8%BE%A3%E5%A5%B3%E9%85%8D/23607090"
+      }
+    ],
     "altTitle": [
       "Spicy Girl",
       "我才不是恶毒女配",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1984/106704.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15595,
     "createdAt": "2020-10-12T15:40:15.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:09:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

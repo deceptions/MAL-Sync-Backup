@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kiminona.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11829"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18171"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Your_Name"
+      }
+    ],
     "altTitle": [
       "Your Name.",
       "君の名は。"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11829,
     "createdAt": "2020-10-12T15:39:42.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T09:04:16.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -44,10 +61,6 @@
       {
         "site": "Netflix",
         "url": "https://www.netflix.com/title/80161371"
-      },
-      {
-        "site": "Funimation",
-        "url": "https://www.funimation.com/shows/your-name/?qid="
       }
     ],
     "id": 21519,
@@ -59,7 +72,7 @@
     "category": "movie",
     "hentai": false,
     "createdAt": "2021-05-20T14:43:00.000Z",
-    "updatedAt": "2021-09-07T07:04:29.000Z",
+    "updatedAt": "2021-10-09T11:02:20.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/anime/32281/Kimi_no_Na_wa"

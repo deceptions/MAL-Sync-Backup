@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.qinsmoon.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13962"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Legend_of_Qin_(TV_series)"
+      }
+    ],
     "altTitle": [
       "Entrance of the Doctor",
       "秦时明月之医者入世"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1491/91323.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13962,
     "createdAt": "2021-01-09T16:22:04.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:05:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

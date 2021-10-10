@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.tv-tokyo.co.jp/anime/gogo-atom/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15075"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22688"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/GO!GO!アトム"
+    }
+  ],
   "altTitle": [
     "Go Astro Boy Go!",
     "GO!GO!アトム"
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1793/107568.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15075,
   "createdAt": "2021-09-01T03:16:00.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T05:04:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

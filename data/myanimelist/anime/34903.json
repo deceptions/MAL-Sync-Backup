@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://anime.robomasters.com/jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12815"
+    }
+  ],
   "altTitle": [
     "ROBOMASTERS THE ANIMATED SERIES"
   ],
@@ -10,9 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/11/86297.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12815,
   "createdAt": "2020-10-12T15:39:52.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T15:37:14.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

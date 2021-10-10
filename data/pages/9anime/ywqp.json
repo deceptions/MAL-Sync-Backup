@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nbcuni.co.jp/rondorobe/anime/drifters/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12038"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%95%E3%82%BF%E3%83%BC%E3%82%BA_(%E6%BC%AB%E7%94%BB)"
+      }
+    ],
     "altTitle": [
       "Drifters OVA",
       "DRIFTERS Special edition"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1141/97770.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12038,
     "createdAt": "2020-10-12T15:39:44.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T10:38:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

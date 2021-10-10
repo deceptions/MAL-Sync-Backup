@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.ghostintheshell-sac2045.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13098"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21672"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell#SAC_2045_ONA_series"
+      }
+    ],
     "altTitle": [
       "Ghost in the Shell: Stand Alone Complex 2045",
       "Ghost in the Shell: SAC_2045",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1213/106702.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13098,
     "createdAt": "2020-10-12T15:40:07.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T01:34:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

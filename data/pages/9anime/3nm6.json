@@ -15,9 +15,26 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://girls-und-panzer-finale.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12361"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19354"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Girls_und_Panzer_episodes#Girls_und_Panzer_das_Finale"
+      }
+    ],
     "altTitle": [
-      "Girls und Panzer das Finale",
+      "Girls und Panzer das Finale – Part 2",
       "『ガールズ＆パンツァー 最終章』第2話"
     ],
     "id": 38081,
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1559/96407.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12361,
     "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T23:38:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

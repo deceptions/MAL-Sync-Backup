@@ -15,10 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://umabi.jp/poputepi-kinen/movie/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13067"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pop_Team_Epic"
+      }
+    ],
     "altTitle": [
       "Pop Team Epic Kinen",
-      "JRA x Poputepipikku, JRA x Pop Team Epic",
+      "JRA x Poputepipikku",
+      "JRA x Pop Team Epic",
       "ポプテピ記念"
     ],
     "id": 38068,
@@ -28,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1782/93260.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13067,
     "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T23:38:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

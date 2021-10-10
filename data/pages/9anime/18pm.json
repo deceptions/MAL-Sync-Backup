@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tbs.co.jp/anime/drivehead/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13606"
+      }
+    ],
     "altTitle": [
       "Mobile Emergency Police Movie",
       "劇場版 トミカハイパーレスキュー ドライブヘッド 機動救急警察"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1709/90853.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13606,
     "createdAt": "2020-10-12T15:39:58.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T20:06:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

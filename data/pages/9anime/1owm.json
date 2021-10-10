@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.haremking.tv/products/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10691"
+      }
+    ],
     "altTitle": [
       "High School DxD BorN Specials",
       "ハイスクールD×D BorN  石踏一榮完全監修！妄想爆揺解除オリジナルビデオ"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/75329.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10691,
     "createdAt": "2020-10-12T15:39:38.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T06:36:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

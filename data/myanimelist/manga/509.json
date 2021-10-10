@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%80%E9%81%8A%E8%A8%98%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+    }
+  ],
   "altTitle": [
     "Saiyuki",
     "Gensomaden Saiyuki",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:23.000Z",
-  "updatedAt": "2021-08-20T02:07:59.000Z",
+  "updatedAt": "2021-10-05T16:33:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -102,6 +107,28 @@
         "aniId": 30509,
         "createdAt": "2021-02-20T02:03:40.000Z",
         "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mm957847": {
+        "authors": [
+          "Minekura Kazuya"
+        ],
+        "identifier": "manga-mm957847",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Saiyuki",
+        "url": "https://manganato.com/manga-mm957847",
+        "image": "https://avt.mkklcdnv6temp.com/6/t/5-1583472124.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 509,
+        "aniId": 30509,
+        "createdAt": "2021-10-05T16:33:49.000Z",
+        "updatedAt": "2021-10-05T17:02:17.000Z",
         "deletedAt": null
       }
     }

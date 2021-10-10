@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://webaction.jp/anataga/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82"
+    }
+  ],
   "altTitle": [
     "Even if you don't do it",
     "あなたがしてくれなくても"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:33.000Z",
-  "updatedAt": "2021-06-24T04:15:53.000Z",
+  "updatedAt": "2021-10-07T06:33:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,6 +91,26 @@
         "createdAt": "2021-01-21T19:32:56.000Z",
         "updatedAt": "2021-05-20T15:38:31.000Z",
         "deletedAt": null
+      },
+      "anata_ga_shite_kure_nakute_mo": {
+        "authors": [
+          "HARUNO Haru"
+        ],
+        "identifier": "anata_ga_shite_kure_nakute_mo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Anata ga Shite Kure Nakute mo",
+        "url": "https://fanfox.net/manga/anata_ga_shite_kure_nakute_mo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39357/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113498,
+        "aniId": 112201,
+        "createdAt": "2021-10-07T21:32:31.000Z",
+        "updatedAt": "2021-10-07T22:02:19.000Z",
+        "deletedAt": null
       }
     },
     "MangaNato": {
@@ -103,6 +132,26 @@
         "aniId": 112201,
         "createdAt": "2021-06-24T04:15:44.000Z",
         "updatedAt": "2021-06-24T04:44:53.000Z",
+        "deletedAt": null
+      },
+      "manga-ml989746": {
+        "authors": [
+          "Haruno Haru"
+        ],
+        "identifier": "manga-ml989746",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Anata Ga Shitekurenakute Mo",
+        "url": "https://manganato.com/manga-ml989746",
+        "image": "https://avt.mkklcdnv6temp.com/44/v/24-1633531809.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113498,
+        "aniId": 112201,
+        "createdAt": "2021-10-07T06:33:13.000Z",
+        "updatedAt": "2021-10-07T07:02:19.000Z",
         "deletedAt": null
       }
     }

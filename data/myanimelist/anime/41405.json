@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15431"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23069"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bakugan:_Armored_Alliance"
+    }
+  ],
   "altTitle": [
     "爆丸アーマードアライアンス"
   ],
@@ -10,9 +23,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15431,
   "createdAt": "2020-10-12T15:40:15.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T07:06:04.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

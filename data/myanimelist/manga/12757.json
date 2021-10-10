@@ -61,6 +61,28 @@
         "updatedAt": "2021-05-20T15:39:39.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "bloody_cross": {
+        "authors": [
+          "YONEYAMA Shiwo"
+        ],
+        "identifier": "bloody_cross",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bloody Cross",
+        "url": "https://fanfox.net/manga/bloody_cross/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5573/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12757,
+        "aniId": 42757,
+        "createdAt": "2021-10-07T03:02:21.000Z",
+        "updatedAt": "2021-10-07T03:32:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

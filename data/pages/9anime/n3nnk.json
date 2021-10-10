@@ -15,7 +15,24 @@
   "updatedAt": "2021-07-31T13:22:42.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.hakuoki-otogi.com/episode/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11754"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17909"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%96%84%E6%A1%9C%E9%AC%BC_%E3%80%9C%E6%96%B0%E9%81%B8%E7%B5%84%E5%A5%87%E8%AD%9A%E3%80%9C#.E3.83.86.E3.83.AC.E3.83.93.E3.82.A2.E3.83.8B.E3.83.A1.EF.BC.88.E5.BE.A1.E4.BC.BD.E8.8D.89.E5.AD.90.EF.BC.89"
+      }
+    ],
     "altTitle": [
       "Hakuouki: Otogisoushi Episode 11.5",
       "薄桜鬼～御伽草子～ 特別篇"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/84387.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11754,
     "createdAt": "2021-01-20T15:08:26.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T15:39:34.000Z",
     "deletedAt": null
   },
   "Anilist": null,

@@ -15,7 +15,12 @@
   "updatedAt": "2021-08-26T10:38:05.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14870"
+      }
+    ],
     "altTitle": [
       "AOTU World 3",
       "AOTU Shijie Di San Ji",
@@ -28,9 +33,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1306/102590.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14870,
     "createdAt": "2021-08-24T16:06:44.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T03:01:02.000Z",
     "deletedAt": null
   },
   "Anilist": null,

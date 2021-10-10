@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://gammaplus.takeshobo.co.jp/manga/summoner/"
+    }
+  ],
   "altTitle": [
     "I Started as Summoner in VRMMO",
     "VRMMOでサモナー始めました"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-22T20:56:19.000Z",
-  "updatedAt": "2021-06-06T03:50:20.000Z",
+  "updatedAt": "2021-10-06T19:32:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,6 +89,28 @@
         "aniId": 108950,
         "createdAt": "2021-04-09T20:21:30.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ea981435": {
+        "authors": [
+          "Tetometo"
+        ],
+        "identifier": "manga-ea981435",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Vrmmo De Summoner Hajimemashita",
+        "url": "https://manganato.com/manga-ea981435",
+        "image": "https://avt.mkklcdnv6temp.com/14/q/18-1583497651.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128833,
+        "aniId": 108950,
+        "createdAt": "2021-10-06T19:32:29.000Z",
+        "updatedAt": "2021-10-06T20:02:19.000Z",
         "deletedAt": null
       }
     }

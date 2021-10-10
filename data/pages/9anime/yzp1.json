@@ -15,7 +15,24 @@
   "updatedAt": "2021-06-03T14:18:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://sailormoon-movie.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12754"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21145"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sailor_Moon_Crystal#Film_series"
+      }
+    ],
     "altTitle": [
       "Gekijouban Bishoujo Senshi Sailor Moon Eternal",
       "Pretty Guardians Sailor Moon Eternal The Movie",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1312/110461.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12754,
     "createdAt": "2020-10-12T15:40:10.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T04:06:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://twitter.com/m_h_jpn"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11849"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16416"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Monster_High"
+    }
+  ],
   "altTitle": [
     "Monster High: Scary Cool Girls",
     "モンスター・ハイ～こわイケガールズ～"
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/68521.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11849,
   "createdAt": "2021-08-16T20:08:13.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T02:08:55.000Z",
   "deletedAt": null,
   "Pages": {}
 }

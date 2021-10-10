@@ -15,7 +15,16 @@
   "updatedAt": "2021-09-22T18:40:49.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13471"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E5%87%B9%E5%87%B8%E4%B8%96%E7%95%8C"
+      }
+    ],
     "altTitle": [
       "AOTU World 2",
       "凹凸世界 2"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/87766.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13471,
     "createdAt": "2021-08-24T07:36:44.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T19:01:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

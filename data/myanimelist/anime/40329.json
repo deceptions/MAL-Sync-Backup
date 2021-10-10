@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.shinchan-movie.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15060"
+    }
+  ],
   "altTitle": [
     "Crayon Shin-chan Movie 28: Crash! Rakuga Kingdom and Almost Four Heroes",
     "映画クレヨンしんちゃん 激突! ラクガキングダムとほぼ四人の勇者"
@@ -11,9 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1659/104900.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15060,
   "createdAt": "2020-10-12T15:40:12.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T05:02:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -32,6 +41,23 @@
         "aniId": 111312,
         "createdAt": "2020-10-12T15:52:18.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "qxxxv": {
+        "identifier": "qxxxv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Crayon Shin-chan Movie 28: Gekitotsu! Rakuga Kingdom to Hobo Yonin no Yuusha",
+        "url": "https://9anime.to/watch/crayon-shin-chan-movie-28-crash-rakuga-kingdom-and-almost-four-heroes.qxxxv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/45/458b4bcd2658fd5edcbcf7e4d9b95b59.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40329,
+        "aniId": 111312,
+        "createdAt": "2021-10-05T19:32:47.000Z",
+        "updatedAt": "2021-10-05T20:02:17.000Z",
         "deletedAt": null
       }
     }

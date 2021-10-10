@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.vivid-strike.com/dvd/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12264"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/ViVid_Strike!"
+      }
+    ],
     "altTitle": [
       "ViVid Strike! OVA",
       "ViVid Strike！新作OVA"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/84018.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12264,
     "createdAt": "2020-10-12T15:39:51.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T15:32:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

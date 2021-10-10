@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.dou-kyu-sei.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11134"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16977"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%90%8C%E7%B4%9A%E7%94%9F_(%E4%B8%AD%E6%9D%91%E6%98%8E%E6%97%A5%E7%BE%8E%E5%AD%90%E3%81%AE%E6%BC%AB%E7%94%BB)"
+      }
+    ],
     "altTitle": [
       "Doukyusei -Classmates-",
       "同級生"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/3/78606.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11134,
     "createdAt": "2020-10-12T15:39:35.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:38:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

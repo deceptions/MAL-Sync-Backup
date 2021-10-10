@@ -1,7 +1,25 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.brainsbase.co.jp/special/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10928"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16516"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ch%C5%8D_Jik%C5%AB_Robo_Meguru"
+    }
+  ],
   "altTitle": [
-    "Chou Jikuu Robo Meguru, Hyperdimension Robo Meguru",
+    "Chou Jikuu Robo Meguru",
+    "Hyperdimension Robo Meguru",
     "超時空ロボMEGURU"
   ],
   "id": 28377,
@@ -11,9 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/8/68593.jpg",
   "category": "OVA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 10928,
   "createdAt": "2020-10-12T15:39:32.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T02:08:45.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

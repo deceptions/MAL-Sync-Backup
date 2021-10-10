@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.lezhin.com/ko/comic/mosquito_war"
+    }
+  ],
   "altTitle": [
     "Mogi Jeonjaeng",
     "모기전쟁"
@@ -15,7 +20,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-11-20T20:21:13.000Z",
-  "updatedAt": "2021-06-25T00:45:25.000Z",
+  "updatedAt": "2021-10-09T06:02:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 102896,
         "createdAt": "2021-05-23T05:13:30.000Z",
         "updatedAt": "2021-05-23T05:42:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mb989758": {
+        "authors": [
+          "Jeong Ji-Hoon"
+        ],
+        "identifier": "manga-mb989758",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mosquito War",
+        "url": "https://manganato.com/manga-mb989758",
+        "image": "https://avt.mkklcdnv6temp.com/45/h/24-1633746535.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130639,
+        "aniId": 102896,
+        "createdAt": "2021-10-09T06:02:40.000Z",
+        "updatedAt": "2021-10-09T06:32:20.000Z",
         "deletedAt": null
       }
     }

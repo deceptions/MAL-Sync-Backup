@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16176"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black_Clover#Film"
+    }
+  ],
   "altTitle": [],
   "id": 48585,
   "type": "anime",
@@ -8,9 +17,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1833/113800.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16176,
   "createdAt": "2021-06-18T12:58:38.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T08:31:02.000Z",
   "deletedAt": null,
   "Pages": {}
 }

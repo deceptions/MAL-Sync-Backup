@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://mateuszurbanowicz.com/works/right_places/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10436"
+      }
+    ],
     "altTitle": [
       "Right Places",
       "Right Places その時, ぼくの居るべき場所"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1637/98691.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10436,
     "createdAt": "2020-10-12T15:40:08.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T02:07:03.000Z",
     "deletedAt": null
   },
   "Anilist": {

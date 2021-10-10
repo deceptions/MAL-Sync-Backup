@@ -15,7 +15,16 @@
   "updatedAt": "2021-08-04T21:17:29.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://hakumiko.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13362"
+      }
+    ],
     "altTitle": [
       "Hakumei and Mikochi: Screws, Beds, Fireplaces, and Gambling",
       "ハクメイとミコチ 「ネジとベッド と 囲炉裏と博打」"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/90014.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13362,
     "createdAt": "2020-10-12T15:39:59.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T20:39:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

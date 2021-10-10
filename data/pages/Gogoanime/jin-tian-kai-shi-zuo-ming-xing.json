@@ -15,9 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.iqiyi.com/a_19rrhvnlnd.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15538"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E5%81%9A%E6%98%8E%E6%98%9F/23615992"
+      }
+    ],
     "altTitle": [
-      "Jintian Wo Kaishi Zuo Mingxing, Start to be a star today",
+      "Jintian Wo Kaishi Zuo Mingxing",
+      "Start to be a star today",
+      "Super Star",
       "今天开始做明星"
     ],
     "id": 40969,
@@ -27,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1623/105487.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15538,
     "createdAt": "2020-10-12T15:40:14.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T06:32:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

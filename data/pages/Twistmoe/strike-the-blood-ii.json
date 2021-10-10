@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.strike-the-blood.com/second/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12121"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18696"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Strike_the_Blood"
+      }
+    ],
     "altTitle": [
       "Strike the Blood Second",
       "ストライク・ザ・ブラッドⅡ"
@@ -24,12 +41,12 @@
     "type": "anime",
     "title": "Strike the Blood II",
     "url": "https://myanimelist.net/anime/33286/Strike_the_Blood_II",
-    "image": "https://cdn.myanimelist.net/images/anime/10/82780.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1600/111675.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12121,
     "createdAt": "2020-10-12T15:39:46.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T11:35:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

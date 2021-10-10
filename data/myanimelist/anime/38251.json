@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sonokano.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14339"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21402"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%9D%E3%81%AE%E6%99%82%E3%80%81%E3%82%AB%E3%83%8E%E3%82%B8%E3%83%A7%E3%81%AF%E3%80%82"
+    }
+  ],
   "altTitle": [
     "At That Time, She.",
     "その時、カノジョは。"
@@ -11,9 +28,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1908/93910.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 14339,
   "createdAt": "2020-10-12T15:40:05.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T00:08:17.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.g-reco.net/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13108"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22302"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Gundam_Reconguista_in_G"
+    }
+  ],
   "altTitle": [
     "Gundam Reconguista in G Movie",
     "G-Reco Movie 1",
@@ -14,9 +31,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1763/102345.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13108,
   "createdAt": "2020-10-12T15:40:06.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T01:09:45.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

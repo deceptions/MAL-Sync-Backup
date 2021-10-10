@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://gineiden-anime.com/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15728"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Legend_of_the_Galactic_Heroes"
+    }
+  ],
   "altTitle": [
     "The Legend of the Galactic Heroes: The New Thesis",
     "LotGH",
@@ -12,9 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1176/109218.jpg",
   "category": "Unknown",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 15728,
   "createdAt": "2021-07-04T03:33:36.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T09:05:24.000Z",
   "deletedAt": null,
   "Pages": {}
 }

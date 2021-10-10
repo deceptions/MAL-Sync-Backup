@@ -69,6 +69,28 @@
         "updatedAt": "2021-05-28T12:23:46.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "sennen_no_yuki": {
+        "authors": [
+          "HATORI Bisco"
+        ],
+        "identifier": "sennen_no_yuki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sennen no Yuki",
+        "url": "https://fanfox.net/manga/sennen_no_yuki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/448/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 156,
+        "aniId": 30156,
+        "createdAt": "2021-10-07T04:32:19.000Z",
+        "updatedAt": "2021-10-07T05:02:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

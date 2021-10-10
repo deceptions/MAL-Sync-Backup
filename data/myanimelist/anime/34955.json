@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12851"
+    }
+  ],
   "altTitle": [
     "The Bears Brothers",
     "兄弟こぐま"
@@ -11,9 +16,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/4/84402.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12851,
   "createdAt": "2020-11-26T22:01:39.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T15:39:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

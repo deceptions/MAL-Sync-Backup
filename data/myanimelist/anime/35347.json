@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12057"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kemono_Friends#Bonus_episodes"
+    }
+  ],
   "altTitle": [
     "Kemono Friends Episode 12.1",
     "Kemono Friends: Bus-like",
@@ -13,30 +22,11 @@
   "image": "https://cdn.myanimelist.net/images/anime/2/86031.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12057,
   "createdAt": "2020-10-12T15:39:53.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T16:38:05.000Z",
   "deletedAt": null,
   "Pages": {
-    "9anime": {
-      "1mpm": {
-        "identifier": "1mpm",
-        "type": "anime",
-        "page": "9anime",
-        "title": "Chokotto Anime Kemono Friends 3",
-        "url": "https://9anime.to/watch/chokotto-anime-kemono-friends-3.1mpm",
-        "image": "https://static.akacdn.ru/static/images/2019/04/84477fb7eb6d52f94daa066e4b95430e.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 35347,
-        "aniId": 98697,
-        "createdAt": "2020-10-12T15:49:14.000Z",
-        "updatedAt": "2021-05-20T15:21:50.000Z",
-        "deletedAt": null
-      }
-    },
     "Gogoanime": {
       "kemono-friends-basuteki": {
         "identifier": "kemono-friends-basuteki",

@@ -15,9 +15,23 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/m/mzc002000he7xqq.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14297"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E6%8B%A9%E5%A4%A9%E8%AE%B0_(%E5%8A%A8%E7%94%BB)"
+      }
+    ],
     "altTitle": [
-      "Way of Choices 4th Season, Fighter of the Destiny 4th Season",
+      "Way of Choices 4th Season",
+      "Fighter of the Destiny 4th Season",
       "择天记 第四季"
     ],
     "id": 38220,
@@ -27,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1918/93515.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14297,
     "createdAt": "2020-10-12T15:40:05.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T00:07:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

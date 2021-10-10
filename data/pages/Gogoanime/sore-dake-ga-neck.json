@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:56.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://soredakega−neck.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15727"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%9D%E3%82%8C%E3%81%A0%E3%81%91%E3%81%8C%E3%83%8D%E3%83%83%E3%82%AF"
+      }
+    ],
     "altTitle": [
       "That is the Bottleneck",
       "それだけがネック"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1768/109666.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15727,
     "createdAt": "2020-10-12T15:40:16.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T13:01:32.000Z",
     "deletedAt": null
   },
   "Anilist": {

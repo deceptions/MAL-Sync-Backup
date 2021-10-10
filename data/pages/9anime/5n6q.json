@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://store.kadokawa.co.jp/preorder/888800000074/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11385"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sky_Wizards_Academy"
+      }
+    ],
     "altTitle": [
       "The Instructor of Aerial Combat Wizard Candidates OVA",
       "空戦魔導士候補生の教官 レクティの, いきものがたり"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/74863.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11385,
     "createdAt": "2020-10-12T15:39:38.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T06:10:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

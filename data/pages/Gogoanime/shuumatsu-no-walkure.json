@@ -15,7 +15,24 @@
   "updatedAt": "2021-06-17T16:57:45.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://ragnarok-official.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15932"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24148"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Record_of_Ragnarok#Anime"
+      }
+    ],
     "altTitle": [
       "Record of Ragnarok",
       "Shuumatsu no Valkyrie",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1456/115123.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15932,
     "createdAt": "2021-06-17T09:28:25.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T10:30:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://digimon-adventure.net/news/2020020102"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14240"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22613"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Digimon_Adventure:_Last_Evolution_Kizuna"
+      }
+    ],
     "altTitle": [
       "Digimon Adventure: 20th Memorial Story",
       "To Sora",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1554/105788.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14240,
     "createdAt": "2020-10-12T15:40:14.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:01:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

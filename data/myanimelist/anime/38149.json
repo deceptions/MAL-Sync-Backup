@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11731"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Full_Metal_Panic!#Invisible_Victory"
+    }
+  ],
   "altTitle": [
     "Full Metal Panic! IV Intermission",
     "Full Metal Panic! Invisible Victory Recap",
@@ -12,9 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1841/93377.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 11731,
   "createdAt": "2020-10-20T09:40:55.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T00:05:06.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

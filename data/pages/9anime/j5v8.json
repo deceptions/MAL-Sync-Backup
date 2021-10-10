@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://hinalogic.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12018"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19020"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF"
+      }
+    ],
     "altTitle": [
       "Hina Logic – from Luck & Logic",
       "ひなろじ～from Luck & Logic～"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/86576.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12018,
     "createdAt": "2020-10-12T15:39:51.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T15:33:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

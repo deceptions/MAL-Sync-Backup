@@ -15,8 +15,22 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.pokemon.co.jp/ex/hakumei_no_tsubasa/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15309"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC_%E3%82%BD%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89#%E8%96%84%E6%98%8E%E3%81%AE%E7%BF%BC"
+      }
+    ],
     "altTitle": [
+      "Pokemon: Twilight Wings—The Gathering of Stars",
       "Twilight Wings: The Gathering of Stars",
       "薄明の翼 EXPANSION ~星の祭~"
     ],
@@ -27,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1648/110089.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15309,
     "createdAt": "2021-01-05T06:56:50.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T09:34:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

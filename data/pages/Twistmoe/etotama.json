@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.etotama.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10904"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16520"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Etotama"
+      }
+    ],
     "altTitle": [
       "Etotama",
       "Eto Tamashii",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/7/73586.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10904,
     "createdAt": "2020-10-12T15:39:31.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T02:05:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

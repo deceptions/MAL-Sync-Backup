@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://boueibu.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11488"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18235"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Cute_High_Earth_Defense_Club_Love!"
+      }
+    ],
     "altTitle": [
       "Cute High Earth Defense Club LOVE! LOVE!",
       "Binan Koukou Chikyuu Bouei-bu LOVE! 2nd Season",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/79937.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11488,
     "createdAt": "2020-10-12T15:39:38.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T07:01:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

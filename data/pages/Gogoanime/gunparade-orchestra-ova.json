@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 9445,
-  "aniId": null,
+  "aniId": 9445,
   "createdAt": "2021-09-22T15:41:04.000Z",
-  "updatedAt": "2021-09-22T15:41:51.000Z",
+  "updatedAt": "2021-10-03T11:00:52.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -40,6 +40,22 @@
     "updatedAt": "2021-10-02T06:02:34.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ガンパレード・オーケストラ"
+    ],
+    "externalLinks": [],
+    "id": 9445,
+    "malId": 9445,
+    "type": "anime",
+    "title": "Gunparade Orchestra OVA",
+    "url": "https://anilist.co/anime/9445",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9445.jpg",
+    "category": "ova",
+    "hentai": false,
+    "createdAt": "2021-10-03T10:30:52.000Z",
+    "updatedAt": "2021-10-03T10:30:52.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/9445/Gunparade_Orchestra_OVA"
 }

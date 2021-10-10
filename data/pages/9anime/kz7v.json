@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.yurionice.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12012"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18191"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yuri_on_Ice"
+      }
+    ],
     "altTitle": [
       "Yuri!!! On ICE: Yuri Plisetsky GPF in Barcelona EX \"Welcome to The Madness\"",
       "Yuri!!! on ICE Special",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/85548.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12012,
     "createdAt": "2020-10-12T15:39:53.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:39:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

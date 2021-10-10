@@ -15,10 +15,20 @@
   "updatedAt": "2021-06-12T13:08:18.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kinokomusume.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13110"
+      }
+    ],
     "altTitle": [
       "Forest Fairy Five ~Fairy Tale~",
-      "Fairy Land Folktales, Forest Fairy Five: Fairy Tale",
+      "Fairy Land Folktales",
+      "Forest Fairy Five: Fairy Tale",
       "妖精ランドむかし話"
     ],
     "id": 35383,
@@ -28,9 +38,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/85594.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13110,
     "createdAt": "2020-10-12T15:39:53.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T16:39:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

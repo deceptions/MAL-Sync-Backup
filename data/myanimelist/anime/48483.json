@@ -31,5 +31,44 @@
   "createdAt": "2021-03-21T01:04:32.000Z",
   "updatedAt": "2021-10-01T17:01:32.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "mieruko-chan": {
+        "identifier": "mieruko-chan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mieruko-chan",
+        "url": "https://gogoanime.pe/category/mieruko-chan",
+        "image": "https://gogocdn.net/cover/mieruko-chan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48483,
+        "aniId": 131083,
+        "createdAt": "2021-10-03T14:31:43.000Z",
+        "updatedAt": "2021-10-03T15:00:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "z0vw": {
+        "identifier": "z0vw",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mieruko-chan",
+        "url": "https://9anime.to/watch/mieruko-chan.z0vw",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/af/af4a811afea770594323566e5864995b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48483,
+        "aniId": 131083,
+        "createdAt": "2021-10-03T15:01:22.000Z",
+        "updatedAt": "2021-10-03T15:30:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

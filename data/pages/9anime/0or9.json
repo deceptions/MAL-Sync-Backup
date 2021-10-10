@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://anime.prisma-illya.jp/movie/sekka/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12420"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19029"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fate/kaleid_liner_Prisma_Illya"
+      }
+    ],
     "altTitle": [
       "Fate/kaleid liner Prisma Illya: Vow in the Snow",
       "Fate/kaleid liner Prisma☆Illya Movie: Oath Under Snow",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1996/93042.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12420,
     "createdAt": "2020-10-12T15:39:48.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T13:35:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,20 @@
   "updatedAt": "2020-12-09T14:00:30.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://twitter.com/sigururi/status/1332700021893046275"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15413"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Warlords_of_Sigrdrifa#Anime"
+      }
+    ],
     "altTitle": [
       "Senyoku no Sigrdrifa Recap",
       "Senyoku no Sigrdrifa Episode 8.5",
@@ -29,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1256/110447.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15413,
     "createdAt": "2020-12-01T05:22:34.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T10:05:56.000Z",
     "deletedAt": null
   },
   "Anilist": null,

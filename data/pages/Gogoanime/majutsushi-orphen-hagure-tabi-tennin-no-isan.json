@@ -15,10 +15,26 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://ssorphen-anime.com/br-dvd/02.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13964"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sorcerous_Stabber_Orphen"
+      }
+    ],
     "altTitle": [
       "Sorcerous Stabber Orphen: Celestial Artifacts",
-      "Majutsushi Orphen Hagure Tabi Episode 14, Sorcerous Stabber Orphen Episode 14, Majutsushi Orphen Hagure Tabi Special, Sorcerous Stabber Orphen Special",
+      "Majutsushi Orphen Hagure Tabi Episode 14",
+      "Sorcerous Stabber Orphen Episode 14",
+      "Majutsushi Orphen Hagure Tabi Special",
+      "Sorcerous Stabber Orphen Special",
       "魔術士オーフェンはぐれ旅 天人の遺産"
     ],
     "id": 41549,
@@ -28,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1319/106804.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13964,
     "createdAt": "2020-10-12T15:40:15.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T07:32:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

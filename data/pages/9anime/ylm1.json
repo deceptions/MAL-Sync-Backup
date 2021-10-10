@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://tatamichan.com"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15365"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22991"
+      }
+    ],
     "altTitle": [
       "The House Spirit Tatami-chan",
       "Tatami-chan the Guest Room Spirit",
@@ -25,12 +38,12 @@
     "type": "anime",
     "title": "Zashiki Warashi no Tatami-chan",
     "url": "https://myanimelist.net/anime/41124/Zashiki_Warashi_no_Tatami-chan",
-    "image": "https://cdn.myanimelist.net/images/anime/1963/105596.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1813/116873.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15365,
     "createdAt": "2020-10-12T15:40:14.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T06:37:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,20 @@
   "updatedAt": "2021-07-23T13:51:33.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.flyingwitch.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11469"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Flying_Witch"
+      }
+    ],
     "altTitle": [
       "Flying Witch Puchi Special",
       "Flying Witch Petit - BD & DVD Vol. 1 Launch Special",
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/12/81005.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11469,
     "createdAt": "2021-07-23T13:22:06.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T12:33:39.000Z",
     "deletedAt": null
   },
   "Anilist": {

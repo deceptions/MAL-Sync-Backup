@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://anime-umamusume.jp"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15739"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23863"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Uma_Musume_Pretty_Derby#Anime"
+      }
+    ],
     "altTitle": [
       "Umamusume: Pretty Derby Season 2",
       "ウマ娘 プリティーダービー Season 2"
@@ -24,12 +41,12 @@
     "type": "anime",
     "title": "Uma Musume: Pretty Derby (TV) Season 2",
     "url": "https://myanimelist.net/anime/42941/Uma_Musume__Pretty_Derby_TV_Season_2",
-    "image": "https://cdn.myanimelist.net/images/anime/1417/110803.jpg",
+    "image": "https://cdn.myanimelist.net/images/anime/1447/114282.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15739,
     "createdAt": "2021-01-01T15:20:43.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T09:07:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

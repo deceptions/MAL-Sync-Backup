@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.etotama.com/bd_dvd/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10904"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Etotama"
+      }
+    ],
     "altTitle": [
       "Eto Tamashii Specials",
       "えとたま（干支魂）TV未公開ショートエピソード"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/11/74664.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 10904,
     "createdAt": "2020-10-12T15:39:37.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T06:07:04.000Z",
     "deletedAt": null
   },
   "Anilist": {

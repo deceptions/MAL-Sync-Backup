@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bn-pictures.co.jp/battlespirits/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15368"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23557"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%88%E3%83%AB%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%84_%E8%B5%AB%E7%9B%9F%E3%81%AE%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88"
+      }
+    ],
     "altTitle": [
       "バトルスピリッツ 赫盟のガレット"
     ],
@@ -26,9 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1999/111804.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15368,
     "createdAt": "2020-10-12T18:44:58.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T06:38:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

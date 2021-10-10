@@ -1,7 +1,23 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12942"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19762"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Ancient_Magus'_Bride"
+    }
+  ],
   "altTitle": [
-    "The Ancient Magus' Bride, The Magician's Bride, Magic Bride, Maho Yome",
+    "The Ancient Magus' Bride",
+    "The Magician's Bride",
+    "Magic Bride",
+    "Maho Yome",
     "まほよめ"
   ],
   "id": 36502,
@@ -11,9 +27,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/88137.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12942,
   "createdAt": "2020-10-12T15:39:57.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T19:06:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

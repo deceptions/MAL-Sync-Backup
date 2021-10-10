@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kankaku.jp/independent-en/gentle.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13370"
+      }
+    ],
     "altTitle": [
       "Gentle Whistle, Bird and Stone",
       "やさしい笛、鳥、石"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/71809.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13370,
     "createdAt": "2020-10-12T15:39:34.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:01:32.000Z",
     "deletedAt": null
   },
   "Anilist": {

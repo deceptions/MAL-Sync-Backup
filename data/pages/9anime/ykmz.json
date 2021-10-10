@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.kokaku-a.jp/tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11023"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16786"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Ghost_in_the_Shell:_Arise"
+      }
+    ],
     "altTitle": [
       "Ghost in the Shell: Arise - Alternative Architecture",
       "Koukaku Kidoutai: Arise (TV)",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/72037.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11023,
     "createdAt": "2020-10-12T15:39:33.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T03:08:51.000Z",
     "deletedAt": null
   },
   "Anilist": {

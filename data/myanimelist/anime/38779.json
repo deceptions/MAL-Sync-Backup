@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.pinkpineapple.co.jp/detail.php?did=1990"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14518"
+    }
+  ],
   "altTitle": [
     "Kami Machi Sana-chan The Animation",
     "神待ちサナちゃん THE ANIMATION"
@@ -11,9 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1092/103729.jpg",
   "category": "OVA",
   "hentai": true,
-  "anidbId": null,
+  "anidbId": 14518,
   "createdAt": "2021-06-21T07:28:10.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T01:34:04.000Z",
   "deletedAt": null,
   "Pages": {}
 }

@@ -19,7 +19,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-31T09:21:41.000Z",
-  "updatedAt": "2021-08-07T21:25:41.000Z",
+  "updatedAt": "2021-10-03T04:01:43.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mi989643": {
+        "authors": [
+          "Pan-Dimensional Culture"
+        ],
+        "identifier": "manga-mi989643",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Affairs Of The Enchanting Doctor",
+        "url": "https://manganato.com/manga-mi989643",
+        "image": "https://avt.mkklcdnv6temp.com/40/t/24-1631717362.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123023,
+        "createdAt": "2021-09-25T15:15:41.000Z",
+        "updatedAt": "2021-10-06T08:02:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.geass.jp/akito/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7508"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Code_Geass#Akito_the_Exiled"
+      }
+    ],
     "altTitle": [
       "Code Geass: Akito the Exiled - To Beloved Ones",
       "コードギアス 亡国のアキト 最終章 「愛シキモノタチへ」"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/77640.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 7508,
     "createdAt": "2020-10-12T15:39:36.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T05:31:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

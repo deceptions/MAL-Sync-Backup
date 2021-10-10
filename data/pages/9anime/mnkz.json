@@ -15,7 +15,12 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12543"
+      }
+    ],
     "altTitle": [
       "Yuuki Yuuna is a Hero Club Member",
       "Washio Sumi wa Yuusha de Aru",
@@ -28,9 +33,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/5/85507.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12543,
     "createdAt": "2020-10-12T15:39:54.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T17:04:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

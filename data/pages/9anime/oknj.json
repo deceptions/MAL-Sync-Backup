@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/0/0913mhn6zhnk66b.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13772"
+      }
+    ],
     "altTitle": [
       "The Beauty Blogger",
       "Shengshi Zhuangniang",
@@ -28,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1705/90278.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13772,
     "createdAt": "2020-10-12T15:40:00.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T21:04:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

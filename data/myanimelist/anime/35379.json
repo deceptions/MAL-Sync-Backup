@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13092"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Investiture_of_the_Gods"
+    }
+  ],
   "altTitle": [
     "The Story of Chinese Gods",
     "Bruce Lee in Animation: Chinese Gods",
@@ -16,9 +25,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/7/85212.jpg",
   "category": "Movie",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13092,
   "createdAt": "2020-10-12T15:39:53.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T16:39:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

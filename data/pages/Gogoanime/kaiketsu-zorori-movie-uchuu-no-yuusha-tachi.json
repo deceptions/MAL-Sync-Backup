@@ -15,9 +15,19 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.zorori-movie.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11133"
+      }
+    ],
     "altTitle": [
-      "Eiga Kaiketsu Zorori: Uchuu no Yuusha-tachi, Zorori Movie 4",
+      "Eiga Kaiketsu Zorori: Uchuu no Yuusha-tachi",
+      "Zorori Movie 4",
       "映画かいけつゾロリ　うちゅうの勇者たち"
     ],
     "id": 30313,
@@ -27,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/10/72572.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11133,
     "createdAt": "2020-10-12T15:39:35.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:36:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

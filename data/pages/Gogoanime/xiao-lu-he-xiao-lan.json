@@ -15,10 +15,23 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://ac.qq.com/event/greenblue/index.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14373"
+      }
+    ],
     "altTitle": [
       "Beryl and Sapphire",
-      "Xiaolu He Xiaolan, Xiao Lv He Xiao Lan, Xiaolv He Xiaolan, Green and Blue, Lil' Green and Lil' Blue",
+      "Xiaolu He Xiaolan",
+      "Xiao Lv He Xiao Lan",
+      "Xiaolv He Xiaolan",
+      "Green and Blue",
+      "Lil' Green and Lil' Blue",
       "小绿和小蓝"
     ],
     "id": 38250,
@@ -28,9 +41,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1670/93590.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14373,
     "createdAt": "2020-10-12T15:40:05.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T00:08:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

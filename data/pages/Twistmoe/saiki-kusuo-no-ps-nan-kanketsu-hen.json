@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.saikikusuo.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14189"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21649"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Disastrous_Life_of_Saiki_K."
+      }
+    ],
     "altTitle": [
       "The Disastrous Life of Saiki K. Final Arc",
       "Saiki Kusuo no Psi Nan 3",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1159/95661.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14189,
     "createdAt": "2020-10-12T15:40:05.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T00:07:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

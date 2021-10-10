@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.matoi-anime.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12273"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18588"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Matoi_the_Sacred_Slayer"
+      }
+    ],
     "altTitle": [
       "Matoi the Sacred Slayer",
       "装神少女まとい"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/83224.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12273,
     "createdAt": "2020-10-12T15:39:47.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T12:32:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

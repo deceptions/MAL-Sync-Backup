@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.netflix.com/title/81176967"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16378"
+    }
+  ],
   "altTitle": [
     "MAKE MY DAY"
   ],
@@ -10,9 +19,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1038/115671.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16378,
   "createdAt": "2021-08-29T03:06:53.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T12:04:03.000Z",
   "deletedAt": null,
   "Pages": {}
 }

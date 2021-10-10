@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://soulbuster.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12307"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18708"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Soul_Buster"
+    }
+  ],
   "altTitle": [
     "Soul Buster",
     "Shi Ling Yanwu",
@@ -12,9 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/3/82256.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12307,
   "createdAt": "2020-10-12T15:39:47.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T12:39:22.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

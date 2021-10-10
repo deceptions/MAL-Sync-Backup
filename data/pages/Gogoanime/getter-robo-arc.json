@@ -15,7 +15,24 @@
   "updatedAt": "2021-07-04T18:59:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://getterrobot-arc.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15828"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24291"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%83%E3%82%BF%E3%83%BC%E3%83%AD%E3%83%9C_%E3%82%A2%E3%83%BC%E3%82%AF#%E3%82%A2%E3%83%8B%E3%83%A1"
+      }
+    ],
     "altTitle": [
       "Getter Robo Āḥ",
       "Getter Robo Ah",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1805/116661.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15828,
     "createdAt": "2021-07-02T18:34:57.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T09:36:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

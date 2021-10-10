@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/KING_OF_BANDIT_JING"
+    }
+  ],
   "altTitle": [
     "Jing: King of Bandits - Twilight Tales",
     "King of Bandits Jing: Bottle",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:21.000Z",
-  "updatedAt": "2021-07-04T03:42:36.000Z",
+  "updatedAt": "2021-10-03T10:51:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +63,28 @@
         "aniId": 30394,
         "createdAt": "2020-10-12T16:18:11.000Z",
         "updatedAt": "2021-06-07T14:34:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-rq968425": {
+        "authors": [
+          "Kumakura Yuichi"
+        ],
+        "identifier": "manga-rq968425",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ou Dorobou Jing - Twilight Tales",
+        "url": "https://manganato.com/manga-rq968425",
+        "image": "https://avt.mkklcdnv6temp.com/11/m/12-1583486236.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 394,
+        "aniId": 30394,
+        "createdAt": "2021-10-03T10:01:13.000Z",
+        "updatedAt": "2021-10-03T11:00:52.000Z",
         "deletedAt": null
       }
     }

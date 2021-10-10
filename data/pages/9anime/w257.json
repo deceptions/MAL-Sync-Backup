@@ -15,9 +15,19 @@
   "updatedAt": "2021-05-20T15:21:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4364"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E7%B4%85%E5%AD%A9%E5%85%92%EF%BC%9A%E6%B1%BA%E6%88%B0%E7%81%AB%E7%84%B0%E5%B1%B1"
+      }
+    ],
     "altTitle": [
-      "Hong Haier: Dahua Huoyanshan, Fire Ball: Journey to the West",
+      "Hong Haier: Dahua Huoyanshan",
+      "Fire Ball: Journey to the West",
       "紅孩兒 決戰火焰山"
     ],
     "id": 33465,
@@ -27,9 +37,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/2/80470.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 4364,
     "createdAt": "2020-10-12T15:39:46.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T12:05:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

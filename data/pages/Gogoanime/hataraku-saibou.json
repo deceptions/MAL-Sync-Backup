@@ -15,7 +15,24 @@
   "updatedAt": "2021-07-09T02:14:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://hataraku-saibou.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14791"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22007"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cells_at_Work!"
+      }
+    ],
     "altTitle": [
       "Cells at Work!!",
       "Cells at Work! 2nd Season",
@@ -29,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1726/114552.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14791,
     "createdAt": "2020-10-12T15:40:09.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T03:08:38.000Z",
     "deletedAt": null
   },
   "Anilist": {

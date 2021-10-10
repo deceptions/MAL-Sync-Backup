@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://animetamago.jp/piece/buemon/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11281"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%A2%A8%E3%81%AE%E5%8F%88%E4%B8%89%E9%83%8E"
+      }
+    ],
     "altTitle": [
       "MATASABURO of the Wind",
       "Wakate Animator Ikusei Project",
@@ -30,9 +43,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/76581.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11281,
     "createdAt": "2020-10-12T15:39:37.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T06:01:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

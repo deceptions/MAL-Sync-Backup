@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.dreamcreation.co.jp/musekinin/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13224"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19763"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E4%B8%80%E3%81%AE%E7%84%A1%E8%B2%AC%E4%BB%BB%E7%94%B7"
+      }
+    ],
     "altTitle": [
       "The Irresponsible Galaxy☆Tylor",
       "無責任ギャラクシー☆タイラー"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/13/86832.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13224,
     "createdAt": "2020-10-12T15:39:54.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T17:34:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

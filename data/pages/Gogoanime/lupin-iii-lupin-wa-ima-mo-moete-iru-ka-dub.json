@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.vap.co.jp/lupin/part5/special.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13670"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Lupin_the_Third"
+      }
+    ],
     "altTitle": [
       "Lupin the Third: Is Lupin Still Burning?",
       "ルパンは今も燃えているか？"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1983/95011.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13670,
     "createdAt": "2020-10-12T15:39:59.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T20:33:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13443"
+    }
+  ],
   "altTitle": [
-    "The Running Heroes, Parkour Hero",
+    "The Running Heroes",
+    "Parkour Hero",
     "酷跑英雄"
   ],
   "id": 36440,
@@ -11,9 +17,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/3/87942.jpg",
   "category": "TV",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13443,
   "createdAt": "2020-10-12T15:39:57.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T19:04:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Gogoanime": {

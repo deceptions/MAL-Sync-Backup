@@ -1,5 +1,22 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://eiken-anime.jp/works/detail?work_id=33"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7349"
+    },
+    {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1696"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9C%E3%81%A1%E3%82%83%E3%82%93#%E3%82%A2%E3%83%8B%E3%83%A1%E7%89%88"
+    }
+  ],
   "altTitle": [
     "Kobo-chan Special: Aki ga Ippai!!",
     "Kobo-chan Special: Yume Ippai!!",
@@ -12,9 +29,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1909/99319.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 7349,
   "createdAt": "2021-07-27T22:53:12.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T02:38:25.000Z",
   "deletedAt": null,
   "Pages": {}
 }

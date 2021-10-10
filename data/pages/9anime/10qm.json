@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://v.qq.com/detail/0/0gsf9fytppje54d.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14374"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E8%A5%BF%E8%A1%8C%E7%BA%AA/20845153"
+      }
+    ],
     "altTitle": [
       "The Westward",
       "Xi Xing Ji",
@@ -31,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1390/105248.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14374,
     "createdAt": "2020-10-12T15:40:06.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T00:37:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

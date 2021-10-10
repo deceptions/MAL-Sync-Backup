@@ -15,7 +15,16 @@
   "updatedAt": "2021-05-20T15:21:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://dioramanimation.jimdofree.com/animation/%E6%84%9B%E3%82%92%E3%81%93%E3%82%81%E3%81%A6/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12100"
+      }
+    ],
     "altTitle": [
       "With Love",
       "愛をこめて"
@@ -27,9 +36,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1394/110101.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 12100,
     "createdAt": "2020-12-27T10:41:37.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T09:36:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://showbyrock-anime-m.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15281"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22906"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Show_by_Rock!!#Anime"
+      }
+    ],
     "altTitle": [
       "SHOW BY ROCK!! Mashumairesh!!",
       "SHOW BY ROCK!!ましゅまいれっしゅ!!"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1297/110719.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15281,
     "createdAt": "2020-10-12T15:40:13.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T06:02:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

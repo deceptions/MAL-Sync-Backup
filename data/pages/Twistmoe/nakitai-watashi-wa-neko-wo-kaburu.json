@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://nakineko-movie.com/news/?id=14"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15373"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23007"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%B3%A3%E3%81%8D%E3%81%9F%E3%81%84%E7%A7%81%E3%81%AF%E7%8C%AB%E3%82%92%E3%81%8B%E3%81%B6%E3%82%8B"
+      }
+    ],
     "altTitle": [
       "A Whisker Away",
       "Nakineko",
@@ -28,9 +45,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1045/106389.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 15373,
     "createdAt": "2020-10-12T15:40:14.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T06:38:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://virtualsan-looking.jp/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14583"
+    }
+  ],
   "altTitle": [
     "Virtual-san Looking",
     "バーチャルさんはみている"
@@ -11,9 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1604/98213.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 14583,
   "createdAt": "2020-10-12T15:40:08.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-04T02:06:04.000Z",
   "deletedAt": null,
   "Pages": {}
 }

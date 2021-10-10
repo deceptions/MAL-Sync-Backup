@@ -20,5 +20,44 @@
   "createdAt": "2021-05-22T05:12:57.000Z",
   "updatedAt": "2021-10-02T03:00:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "kyuuketsuki-sugu-shinu": {
+        "identifier": "kyuuketsuki-sugu-shinu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kyuuketsuki Sugu Shinu",
+        "url": "https://gogoanime.pe/category/kyuuketsuki-sugu-shinu",
+        "image": "https://gogocdn.net/cover/kyuuketsuki-sugu-shinu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41833,
+        "aniId": 118103,
+        "createdAt": "2021-10-04T15:31:13.000Z",
+        "updatedAt": "2021-10-04T16:00:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "kqzr": {
+        "identifier": "kqzr",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kyuuketsuki Sugu Shinu",
+        "url": "https://9anime.to/watch/kyuuketsuki-sugu-shinu.kqzr",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/25/25886a8b3959f7ba3d23a75137f7a7c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41833,
+        "aniId": 118103,
+        "createdAt": "2021-10-04T16:01:26.000Z",
+        "updatedAt": "2021-10-04T16:02:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

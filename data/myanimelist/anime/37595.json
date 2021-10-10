@@ -1,5 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.nhk.or.jp/anime/ccsakura/"
+    },
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12140"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cardcaptor_Sakura:_Clear_Card"
+    }
+  ],
   "altTitle": [
     "Cardcaptor Sakura: Clear Card Recap",
     "Cardcaptor Sakura: Clear Card Arc Recap",
@@ -13,9 +26,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1600/91758.jpg",
   "category": "Special",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 12140,
   "createdAt": "2021-08-21T22:16:35.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T22:07:24.000Z",
   "deletedAt": null,
   "Pages": {}
 }

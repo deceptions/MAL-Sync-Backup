@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%82%93%E3%81%AA%E9%9B%86%E3%81%BE%E3%82%8C!%E3%83%95%E3%82%A1%E3%83%AB%E3%82%B3%E3%83%A0%E5%AD%A6%E5%9C%92"
+    }
+  ],
   "altTitle": [
-    "Gather Everyone! Falcom School, Ys vs. Sora no Kiseki Alternative Saga",
+    "Gather Everyone! Falcom School",
+    "Ys vs. Sora no Kiseki Alternative Saga",
     "みんな集まれ！ファルコム学園"
   ],
   "authors": [
@@ -11,11 +17,11 @@
   "type": "manga",
   "title": "Minna Atsumare! Falcom Gakuen",
   "url": "https://myanimelist.net/manga/58259/Minna_Atsumare_Falcom_Gakuen",
-  "image": "https://cdn.myanimelist.net/images/manga/1/100873.jpg",
+  "image": "https://cdn.myanimelist.net/images/manga/3/250755.jpg",
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:53.000Z",
-  "updatedAt": "2021-05-20T10:31:58.000Z",
+  "updatedAt": "2021-10-09T22:32:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +63,28 @@
         "aniId": 88579,
         "createdAt": "2021-02-25T19:25:40.000Z",
         "updatedAt": "2021-06-08T11:41:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-py952907": {
+        "authors": [
+          "Arakubo Daisuke"
+        ],
+        "identifier": "manga-py952907",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Minna Atsumare! Falcom Gakuen",
+        "url": "https://manganato.com/manga-py952907",
+        "image": "https://avt.mkklcdnv6temp.com/5/c/2-1583465888.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58259,
+        "aniId": 88579,
+        "createdAt": "2021-10-09T22:32:33.000Z",
+        "updatedAt": "2021-10-09T23:02:20.000Z",
         "deletedAt": null
       }
     }

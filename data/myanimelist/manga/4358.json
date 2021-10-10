@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/MONSTER_SOUL"
+    }
+  ],
   "altTitle": [
     "Monster Soul",
     "MONSTER SOUL -モンスターソウル-"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:59.000Z",
-  "updatedAt": "2021-09-04T13:46:52.000Z",
+  "updatedAt": "2021-10-09T20:32:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 34358,
         "createdAt": "2021-09-04T13:46:50.000Z",
         "updatedAt": "2021-09-04T14:15:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "monster-soul": {
+        "authors": [
+          "MASHIMA Hiro"
+        ],
+        "identifier": "monster-soul",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Monster Soul",
+        "url": "https://mangasee123.com/manga/Monster-Soul",
+        "image": "https://cover.nep.li/cover/Monster-Soul.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4358,
+        "aniId": 34358,
+        "createdAt": "2021-10-09T20:32:35.000Z",
+        "updatedAt": "2021-10-09T21:02:20.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,24 @@
   "updatedAt": "2021-08-09T05:09:15.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.luluco.tv/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11920"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18054"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Space_Patrol_Luluco"
+      }
+    ],
     "altTitle": [
       "Space Patrol Luluco",
       "宇宙パトロールルル子"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/4/79073.jpg",
     "category": "TV",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11920,
     "createdAt": "2020-10-12T15:39:43.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T09:38:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

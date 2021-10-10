@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:25:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://anime.fate-go.jp/ep6-movie/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14239"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22020"
+      }
+    ],
     "altTitle": [
       "劇場版Fate/Grand Order -神聖円卓領域キャメロット- Wandering",
       "Agateram"
@@ -27,9 +40,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1535/103385.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14239,
     "createdAt": "2020-10-12T15:40:04.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T00:01:22.000Z",
     "deletedAt": null
   },
   "Anilist": {

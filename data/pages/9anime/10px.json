@@ -15,7 +15,24 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://en.gundam.info/about-gundam/series-pages/builddivers_rerise.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14495"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22300"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gundam_Build_Divers_Re:Rise"
+      }
+    ],
     "altTitle": [
       "GUNDAM BUILD DIVERS Re:RISE",
       "ガンダムビルドダイバーズRe:RISE"
@@ -27,9 +44,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1011/109143.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14495,
     "createdAt": "2020-10-12T15:40:11.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T04:35:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

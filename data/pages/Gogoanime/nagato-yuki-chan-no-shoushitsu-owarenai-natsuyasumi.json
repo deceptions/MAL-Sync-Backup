@@ -15,7 +15,20 @@
   "updatedAt": "2021-05-20T15:21:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://store.kadokawa.co.jp/preorder/888800000059/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11163"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_Disappearance_of_Nagato_Yuki-chan"
+      }
+    ],
     "altTitle": [
       "The Disappearance of Nagato Yuki-chan: I Cannot Let Summer Break End",
       "Nagato Yuki-chan no Shoushitsu OVA",
@@ -29,9 +42,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/76840.jpg",
     "category": "OVA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 11163,
     "createdAt": "2020-10-12T15:39:35.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T04:39:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

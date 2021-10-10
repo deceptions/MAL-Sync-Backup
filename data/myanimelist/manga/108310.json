@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.mf-fleur.jp/cb024/"
+    }
+  ],
   "altTitle": [
     "Moto Yankee Papa to Hitsuji-sensei",
     "元ヤンパパ と ヒツジ先生"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-14T03:06:28.000Z",
-  "updatedAt": "2021-07-12T21:45:46.000Z",
+  "updatedAt": "2021-10-04T23:33:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 99902,
         "createdAt": "2020-10-12T16:11:20.000Z",
         "updatedAt": "2021-06-05T08:55:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zk977045": {
+        "authors": [
+          "Mizuki Tama"
+        ],
+        "identifier": "manga-zk977045",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Motoyan Papa To Hitsuji-Sensei",
+        "url": "https://manganato.com/manga-zk977045",
+        "image": "https://avt.mkklcdnv6temp.com/34/c/15-1583492801.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108310,
+        "aniId": 99902,
+        "createdAt": "2021-10-04T23:32:17.000Z",
+        "updatedAt": "2021-10-05T00:02:17.000Z",
         "deletedAt": null
       }
     }

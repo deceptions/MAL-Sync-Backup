@@ -15,10 +15,28 @@
   "updatedAt": "2021-05-20T15:21:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.gundam-nt.net/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14042"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20852"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Narrative"
+      }
+    ],
     "altTitle": [
       "Mobile Suit Gundam Narrative",
-      "Kidou Senshi Gundam NT, Kidou Senshi Gundam Narrative",
+      "Kidou Senshi Gundam NT",
+      "Kidou Senshi Gundam Narrative",
       "機動戦士ガンダムNT（ナラティブ）"
     ],
     "id": 37764,
@@ -28,9 +46,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1552/95706.jpg",
     "category": "Movie",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14042,
     "createdAt": "2020-10-12T15:40:02.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T22:35:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

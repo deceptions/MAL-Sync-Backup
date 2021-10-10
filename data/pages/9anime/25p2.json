@@ -15,7 +15,12 @@
   "updatedAt": "2021-05-20T15:21:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13800"
+      }
+    ],
     "altTitle": [
       "Twin Moons",
       "双月之城"
@@ -27,9 +32,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/6/81272.jpg",
     "category": "ONA",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 13800,
     "createdAt": "2020-10-12T15:39:47.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-03T12:38:01.000Z",
     "deletedAt": null
   },
   "Anilist": {

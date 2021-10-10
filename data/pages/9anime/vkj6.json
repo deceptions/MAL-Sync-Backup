@@ -15,7 +15,16 @@
   "updatedAt": "2020-10-23T11:00:34.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://dr-stone.jp/news/1336/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14491"
+      }
+    ],
     "altTitle": [
       "Dr. Stone: Stone Wars Eve of the Battle Special Feature",
       "Dr. Stone: Stone Wars Episode Zero",
@@ -30,9 +39,9 @@
     "image": "https://cdn.myanimelist.net/images/anime/1097/109900.jpg",
     "category": "Special",
     "hentai": false,
-    "anidbId": null,
+    "anidbId": 14491,
     "createdAt": "2020-10-23T10:59:33.000Z",
-    "updatedAt": "2019-09-08T19:34:49.000Z",
+    "updatedAt": "2021-10-04T09:34:03.000Z",
     "deletedAt": null
   },
   "Anilist": null,

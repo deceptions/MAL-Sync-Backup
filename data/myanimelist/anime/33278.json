@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13576"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Legend_of_Qin_(TV_series)"
+    }
+  ],
   "altTitle": [
     "Qin's Moon: Lady Xiang Descends",
     "秦时明月特别篇《帝子降兮》"
@@ -11,9 +20,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/10/79965.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 13576,
   "createdAt": "2020-10-12T15:39:46.000Z",
-  "updatedAt": "2019-09-08T19:34:49.000Z",
+  "updatedAt": "2021-10-03T11:35:14.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {

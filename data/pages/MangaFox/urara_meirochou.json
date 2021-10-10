@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 86327,
-  "aniId": null,
+  "aniId": 87031,
   "createdAt": "2021-10-03T01:01:45.000Z",
-  "updatedAt": "2021-10-03T01:02:02.000Z",
+  "updatedAt": "2021-10-03T01:30:52.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -42,6 +42,25 @@
     "updatedAt": "2021-10-03T01:02:02.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "うらら迷路帖"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Harikamo"
+    ],
+    "id": 87031,
+    "malId": 86327,
+    "type": "manga",
+    "title": "Urara Meirochou",
+    "url": "https://anilist.co/manga/87031",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx87031-w8b8XFhNRotT.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:52:42.000Z",
+    "updatedAt": "2021-06-17T22:52:11.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/86327/Urara_Meirochou"
 }
