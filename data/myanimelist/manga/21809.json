@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "ミニマム"
   ],
@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:58.000Z",
-  "updatedAt": "2021-07-28T21:51:37.000Z",
+  "updatedAt": "2021-10-13T15:00:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 51809,
         "createdAt": "2021-07-28T21:51:36.000Z",
         "updatedAt": "2021-07-28T22:21:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "minimum": {
+        "authors": [
+          "MIYAZAKI Maya"
+        ],
+        "identifier": "minimum",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Minimum",
+        "url": "https://fanfox.net/manga/minimum/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9884/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21809,
+        "aniId": 51809,
+        "createdAt": "2021-10-13T15:00:18.000Z",
+        "updatedAt": "2021-10-13T15:28:45.000Z",
         "deletedAt": null
       }
     }

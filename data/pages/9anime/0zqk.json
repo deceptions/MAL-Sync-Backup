@@ -10,9 +10,9 @@
   "active": true,
   "actor": 2,
   "malId": 42151,
-  "aniId": null,
+  "aniId": 119922,
   "createdAt": "2020-10-12T15:48:59.000Z",
-  "updatedAt": "2021-06-03T15:32:50.000Z",
+  "updatedAt": "2021-10-11T09:37:52.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -42,6 +42,23 @@
     "updatedAt": "2021-10-04T08:06:24.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "枪神记 血族秘史篇",
+      "Qiang Shen Ji 3"
+    ],
+    "externalLinks": [],
+    "id": 119922,
+    "malId": 42151,
+    "type": "anime",
+    "title": "Qiang Shen Ji: Xuezu Mishi Pian",
+    "url": "https://anilist.co/anime/119922",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119922-LmDjHzAoqsWf.jpg",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-10-11T09:07:53.000Z",
+    "updatedAt": "2021-10-11T09:07:53.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/42151/Qiang_Shen_Ji__Xuezu_Mishi_Pian"
 }

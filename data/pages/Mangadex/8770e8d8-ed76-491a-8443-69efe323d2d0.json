@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 20252,
-  "aniId": null,
+  "aniId": 50252,
   "createdAt": "2020-10-12T16:17:57.000Z",
-  "updatedAt": "2021-06-07T13:40:48.000Z",
+  "updatedAt": "2021-10-13T04:58:45.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -37,6 +37,28 @@
     "updatedAt": "2021-05-29T11:42:13.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "アナザー・ワールド",
+      "Dream-Like Days",
+      "Hand",
+      "Love Between 10 Stations"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yuzuki N'"
+    ],
+    "id": 50252,
+    "malId": 20252,
+    "type": "manga",
+    "title": "Another World",
+    "url": "https://anilist.co/manga/50252",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx50252-WMVCaGHTMpba.png",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-10-13T04:28:45.000Z",
+    "updatedAt": "2021-10-13T04:28:45.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/20252/Another♡World"
 }

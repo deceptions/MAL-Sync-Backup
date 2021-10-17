@@ -93,6 +93,28 @@
         "updatedAt": "2021-07-09T22:43:17.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "vampire_knight_memories": {
+        "authors": [
+          "HINO Matsuri"
+        ],
+        "identifier": "vampire_knight_memories",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Vampire Knight Memories",
+        "url": "https://fanfox.net/manga/vampire_knight_memories/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20597/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59505,
+        "aniId": 88864,
+        "createdAt": "2021-10-11T00:39:07.000Z",
+        "updatedAt": "2021-10-11T01:07:53.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

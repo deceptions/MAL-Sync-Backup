@@ -18,5 +18,29 @@
   "createdAt": "2021-07-02T17:33:58.000Z",
   "updatedAt": "2021-08-29T07:36:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "fc18c0a3-dbd4-4f0f-88af-105cc6990b55": {
+        "authors": [
+          "辺野夏子",
+          "空百"
+        ],
+        "identifier": "fc18c0a3-dbd4-4f0f-88af-105cc6990b55",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "元悪役令嬢、巻き戻ったので王子様から逃走しようと思います！",
+        "url": "https://mangadex.org/title/fc18c0a3-dbd4-4f0f-88af-105cc6990b55",
+        "image": "https://uploads.mangadex.org/covers/fc18c0a3-dbd4-4f0f-88af-105cc6990b55/9ee04b38-6e7b-4492-a340-5e57c643a149.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 133387,
+        "createdAt": "2021-10-12T11:46:54.000Z",
+        "updatedAt": "2021-10-12T11:46:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

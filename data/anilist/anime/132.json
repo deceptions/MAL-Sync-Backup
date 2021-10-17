@@ -10,10 +10,6 @@
   ],
   "externalLinks": [
     {
-      "site": "Vrv",
-      "url": "https://vrv.co/series/G6MED32GR/Get-Backers"
-    },
-    {
       "site": "Hidive",
       "url": "https://www.hidive.com/tv/get-backers/"
     }
@@ -27,7 +23,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:33:27.000Z",
-  "updatedAt": "2021-06-17T08:01:45.000Z",
+  "updatedAt": "2021-10-11T06:07:53.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -118,6 +114,23 @@
         "aniId": 132,
         "createdAt": "2021-03-25T01:49:18.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      },
+      "getbackers": {
+        "identifier": "getbackers",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "GetBackers",
+        "url": "https://gogoanime.pe/category/getbackers",
+        "image": "https://gogocdn.net/cover/getbackers.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132,
+        "aniId": 132,
+        "createdAt": "2021-10-16T09:29:11.000Z",
+        "updatedAt": "2021-10-16T09:58:44.000Z",
         "deletedAt": null
       }
     }

@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 38309,
-  "aniId": null,
+  "aniId": 140224,
   "createdAt": "2020-12-26T12:25:04.000Z",
-  "updatedAt": "2020-12-26T12:25:04.000Z",
+  "updatedAt": "2021-10-11T19:07:52.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -41,6 +41,23 @@
     "updatedAt": "2021-10-04T00:31:04.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ピアノ",
+      "Minna no Uta"
+    ],
+    "externalLinks": [],
+    "id": 140224,
+    "malId": 38309,
+    "type": "anime",
+    "title": "Piano",
+    "url": "https://anilist.co/anime/140224",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140224-yTsMUnyKR8Z0.png",
+    "category": "music",
+    "hentai": false,
+    "createdAt": "2021-10-11T18:37:53.000Z",
+    "updatedAt": "2021-10-11T18:37:53.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/38309/Piano"
 }

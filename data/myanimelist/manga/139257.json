@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://grandjump.shueisha.co.jp/manga/gigantis.html"
+    }
+  ],
   "altTitle": [
     "GIGANTIS-ジャイガンティス-"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-09-15T01:20:51.000Z",
-  "updatedAt": "2021-09-15T01:20:51.000Z",
+  "updatedAt": "2021-10-15T12:59:36.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaSee": {
@@ -38,6 +43,29 @@
         "aniId": 137873,
         "createdAt": "2021-09-15T01:20:50.000Z",
         "updatedAt": "2021-09-15T01:50:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mv989778": {
+        "authors": [
+          "Tachibana Kenichi",
+          "Komori Yoichi"
+        ],
+        "identifier": "manga-mv989778",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gigantis",
+        "url": "https://manganato.com/manga-mv989778",
+        "image": "https://avt.mkklcdnv6temp.com/46/c/24-1633870994.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139257,
+        "aniId": 137873,
+        "createdAt": "2021-10-10T15:02:44.000Z",
+        "updatedAt": "2021-10-10T15:32:22.000Z",
         "deletedAt": null
       }
     }

@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 107435,
   "createdAt": "2021-09-25T01:15:37.000Z",
-  "updatedAt": "2021-09-25T01:15:37.000Z",
+  "updatedAt": "2021-10-10T14:40:13.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Romance of Flash Wedding",
+      "闪婚惊爱",
+      "Flash Marriage"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kaiyuan Dongman"
+    ],
+    "id": 107435,
+    "malId": null,
+    "type": "manga",
+    "title": "Shanhun Jing Ai",
+    "url": "https://anilist.co/manga/107435",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107435-V5eVAK7MnLg0.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-21T10:13:07.000Z",
+    "updatedAt": "2021-09-22T00:10:47.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

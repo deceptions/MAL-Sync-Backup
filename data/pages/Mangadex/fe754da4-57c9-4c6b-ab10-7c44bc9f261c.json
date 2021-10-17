@@ -18,7 +18,16 @@
   "updatedAt": "2021-06-05T19:30:18.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ganganonline.com/comic/now_playing/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/Now_playing"
+      }
+    ],
     "altTitle": [
       "Now Playing",
       "Now playing"
@@ -34,7 +43,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:55.000Z",
-    "updatedAt": "2021-05-29T10:42:44.000Z",
+    "updatedAt": "2021-10-16T02:29:48.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%9B%E3%83%AD%E3%83%9F_%E6%99%82%E7%A9%BA%E5%BB%BA%E7%AF%89%E5%B9%BB%E8%A6%96%E8%AD%9A"
+    }
+  ],
   "altTitle": [
     "マホロミ 時空建築幻視譚"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:12.000Z",
-  "updatedAt": "2021-07-28T03:23:31.000Z",
+  "updatedAt": "2021-10-13T20:59:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +63,28 @@
         "aniId": 53951,
         "createdAt": "2021-01-28T03:10:06.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pa966383": {
+        "authors": [
+          "Toume Kei"
+        ],
+        "identifier": "manga-pa966383",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mahoromi - Jikuu Kenchiku Genshitan",
+        "url": "https://manganato.com/manga-pa966383",
+        "image": "https://avt.mkklcdnv6temp.com/39/y/10-1583483616.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23951,
+        "aniId": 53951,
+        "createdAt": "2021-10-13T20:58:44.000Z",
+        "updatedAt": "2021-10-13T21:28:45.000Z",
         "deletedAt": null
       }
     }

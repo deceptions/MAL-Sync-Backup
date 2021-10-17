@@ -18,7 +18,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-05T07:17:31.000Z",
-  "updatedAt": "2021-08-24T04:36:34.000Z",
+  "updatedAt": "2021-10-15T08:59:48.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "790f5f8d-0f9a-4f4b-92b3-9ac15f892b34": {
+        "authors": [
+          "Meikyou Shisui",
+          "Oomae Takafumi"
+        ],
+        "identifier": "790f5f8d-0f9a-4f4b-92b3-9ac15f892b34",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+        "url": "https://mangadex.org/title/790f5f8d-0f9a-4f4b-92b3-9ac15f892b34",
+        "image": "https://uploads.mangadex.org/covers/790f5f8d-0f9a-4f4b-92b3-9ac15f892b34/0796c02f-31f0-457c-b014-b59dc7a07d2b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136930,
+        "aniId": 137513,
+        "createdAt": "2021-10-12T11:48:39.000Z",
+        "updatedAt": "2021-10-12T12:14:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -63,6 +63,28 @@
         "updatedAt": "2021-05-20T15:38:10.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "good_morning_call": {
+        "authors": [
+          "TAKASUKA Yue"
+        ],
+        "identifier": "good_morning_call",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Good Morning Call",
+        "url": "https://fanfox.net/manga/good_morning_call/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/105/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1242,
+        "aniId": 31242,
+        "createdAt": "2021-10-10T10:03:33.000Z",
+        "updatedAt": "2021-10-10T10:32:22.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

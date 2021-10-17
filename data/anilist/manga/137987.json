@@ -39,6 +39,72 @@
         "updatedAt": "2021-10-09T15:02:20.000Z",
         "deletedAt": null
       }
+    },
+    "Mangadex": {
+      "70d8f2f8-a9ae-4f5d-808b-de0800f79fef": {
+        "authors": [
+          "Kanazawa Shinnosuke"
+        ],
+        "identifier": "70d8f2f8-a9ae-4f5d-808b-de0800f79fef",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ottoman",
+        "url": "https://mangadex.org/title/70d8f2f8-a9ae-4f5d-808b-de0800f79fef",
+        "image": "https://uploads.mangadex.org/covers/70d8f2f8-a9ae-4f5d-808b-de0800f79fef/59f74fca-74a0-46b4-926f-d56ee584730a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139617,
+        "aniId": 137987,
+        "createdAt": "2021-10-12T11:47:10.000Z",
+        "updatedAt": "2021-10-12T12:14:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ottoman": {
+        "authors": [
+          "KANAZAWA Shinnosuke"
+        ],
+        "identifier": "ottoman",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ottoman",
+        "url": "https://mangasee123.com/manga/Ottoman",
+        "image": "https://cover.nep.li/cover/Ottoman.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139617,
+        "aniId": 137987,
+        "createdAt": "2021-10-14T21:58:48.000Z",
+        "updatedAt": "2021-10-14T22:28:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ottoman": {
+        "authors": [
+          "KANAZAWA Shinnosuke"
+        ],
+        "identifier": "ottoman",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ottoman",
+        "url": "https://fanfox.net/manga/ottoman/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39379/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139617,
+        "aniId": 137987,
+        "createdAt": "2021-10-16T17:29:00.000Z",
+        "updatedAt": "2021-10-16T17:58:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

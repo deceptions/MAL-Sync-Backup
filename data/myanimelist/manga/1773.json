@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%89%84%E9%8D%8B%E3%81%AE%E3%82%B8%E3%83%A3%E3%83%B3!"
+    }
+  ],
   "altTitle": [
     "Iron Wok Jan!",
     "鉄鍋のジャン"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:37.000Z",
-  "updatedAt": "2021-06-21T02:51:45.000Z",
+  "updatedAt": "2021-10-11T21:09:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 31773,
         "createdAt": "2020-10-12T16:13:04.000Z",
         "updatedAt": "2021-06-05T18:32:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-su969777": {
+        "authors": [
+          "Saijyo Shinji"
+        ],
+        "identifier": "manga-su969777",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Iron Wok Jan!",
+        "url": "https://manganato.com/manga-su969777",
+        "image": "https://avt.mkklcdnv6temp.com/10/y/13-1583488145.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1773,
+        "aniId": 31773,
+        "createdAt": "2021-10-11T21:09:34.000Z",
+        "updatedAt": "2021-10-11T21:37:53.000Z",
         "deletedAt": null
       }
     }

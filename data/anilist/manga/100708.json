@@ -19,7 +19,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-21T00:42:57.000Z",
-  "updatedAt": "2021-08-09T03:39:16.000Z",
+  "updatedAt": "2021-10-14T20:29:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -65,6 +65,31 @@
         "aniId": 100708,
         "createdAt": "2021-07-20T15:33:57.000Z",
         "updatedAt": "2021-07-20T15:33:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "too_close": {
+        "authors": [
+          "JiJing Jun",
+          "[Add]",
+          "Shou (II)",
+          "[Add]"
+        ],
+        "identifier": "too_close",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Too Close",
+        "url": "https://fanfox.net/manga/too_close/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28037/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 100708,
+        "createdAt": "2021-10-14T20:28:47.000Z",
+        "updatedAt": "2021-10-14T20:29:04.000Z",
         "deletedAt": null
       }
     }

@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 49040,
-  "aniId": null,
+  "aniId": 134623,
   "createdAt": "2021-10-10T01:02:50.000Z",
-  "updatedAt": "2021-10-10T01:02:50.000Z",
+  "updatedAt": "2021-10-10T01:32:20.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -51,6 +51,28 @@
     "updatedAt": "2021-10-02T18:03:02.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "LUPIN THE 3rd PART 6",
+      "ルパン三世 PART6"
+    ],
+    "externalLinks": [
+      {
+        "site": "Hidive",
+        "url": "https://www.hidive.com/tv/lupin-the-3rd-part-6"
+      }
+    ],
+    "id": 134623,
+    "malId": 49040,
+    "type": "anime",
+    "title": "Lupin III: Part VI",
+    "url": "https://anilist.co/anime/134623",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134623-ceZeGn3HeUAS.jpg",
+    "category": "tv",
+    "hentai": false,
+    "createdAt": "2021-05-25T19:38:17.000Z",
+    "updatedAt": "2021-10-09T11:32:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/49040/Lupin_III__Part_6"
 }

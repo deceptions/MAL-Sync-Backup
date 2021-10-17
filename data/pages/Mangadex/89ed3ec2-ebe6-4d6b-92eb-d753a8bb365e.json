@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Tozai",
     "FUNA",
+    "Tozai",
     "Keisuke Motoe"
   ],
   "identifier": "89ed3ec2-ebe6-4d6b-92eb-d753a8bb365e",
@@ -17,10 +17,15 @@
   "malId": 111466,
   "aniId": 101715,
   "createdAt": "2020-10-12T16:11:11.000Z",
-  "updatedAt": "2021-06-05T06:24:48.000Z",
+  "updatedAt": "2021-10-16T18:58:45.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://seiga.nicovideo.jp/comic/27620"
+      }
+    ],
     "altTitle": [
       "Saving 80,000 Gold in Another World for my Retirement",
       "Saving 80,000 Gold Coins in the Different World for My Old Age",
@@ -38,7 +43,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:22.000Z",
-    "updatedAt": "2021-05-31T09:48:53.000Z",
+    "updatedAt": "2021-10-16T18:58:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

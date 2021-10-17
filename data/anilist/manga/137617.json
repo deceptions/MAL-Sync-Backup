@@ -18,5 +18,29 @@
   "createdAt": "2021-08-07T01:17:46.000Z",
   "updatedAt": "2021-09-09T07:34:30.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "e5e48e54-9844-4f57-8f93-df82205bad2e": {
+        "authors": [
+          "Hozumi Kei",
+          "Bcoca"
+        ],
+        "identifier": "e5e48e54-9844-4f57-8f93-df82205bad2e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Four Sisters (Elves) Wait For The Night",
+        "url": "https://mangadex.org/title/e5e48e54-9844-4f57-8f93-df82205bad2e",
+        "image": "https://uploads.mangadex.org/covers/e5e48e54-9844-4f57-8f93-df82205bad2e/8cebcc93-f034-4ab0-aed4-c00b58695fe5.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139757,
+        "aniId": 137617,
+        "createdAt": "2021-10-12T11:47:11.000Z",
+        "updatedAt": "2021-10-12T12:14:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

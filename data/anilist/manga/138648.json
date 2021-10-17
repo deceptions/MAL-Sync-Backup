@@ -18,5 +18,28 @@
   "createdAt": "2021-09-01T03:15:46.000Z",
   "updatedAt": "2021-09-12T05:34:34.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "b47a9fc2-a3e3-4fb7-afa8-b50c9ced779d": {
+        "authors": [
+          "Kitada Ryouma"
+        ],
+        "identifier": "b47a9fc2-a3e3-4fb7-afa8-b50c9ced779d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Story of a Manga Artist Confined by a Strange High School Girl",
+        "url": "https://mangadex.org/title/b47a9fc2-a3e3-4fb7-afa8-b50c9ced779d",
+        "image": "https://uploads.mangadex.org/covers/b47a9fc2-a3e3-4fb7-afa8-b50c9ced779d/36babb31-6cdc-4ee2-ac46-d5980d98de7a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140102,
+        "aniId": 138648,
+        "createdAt": "2021-10-12T11:46:34.000Z",
+        "updatedAt": "2021-10-12T12:14:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

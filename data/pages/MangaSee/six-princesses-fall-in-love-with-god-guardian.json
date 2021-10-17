@@ -12,13 +12,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 140250,
+  "aniId": 137288,
   "createdAt": "2021-07-22T15:34:46.000Z",
-  "updatedAt": "2021-08-23T08:17:26.000Z",
+  "updatedAt": "2021-10-11T17:07:53.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://shonen-sirius.com/series/w_sirius/rokuhime"
+      }
+    ],
+    "altTitle": [
+      "Six Princesses Fall in Love with God Guardian.",
+      "六姫は神護衛に恋をする ～最強の守護騎士、転生して魔法学園に行く～"
+    ],
+    "authors": [
+      "Akatsuki, Touwa",
+      "Kakoyama, Hisashi"
+    ],
+    "id": 140250,
+    "type": "manga",
+    "title": "Rokuhime wa Kamigoei ni Koi wo Suru: Saikyou no Shugo Kishi, Tensei shite Mahou Gakuen ni Iku",
+    "url": "https://myanimelist.net/manga/140250/Rokuhime_wa_Kamigoei_ni_Koi_wo_Suru__Saikyou_no_Shugo_Kishi_Tensei_shite_Mahou_Gakuen_ni_Iku",
+    "image": "https://cdn.myanimelist.net/images/manga/2/250118.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-10-03T00:32:13.000Z",
+    "updatedAt": "2021-10-03T00:32:13.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "六姫は神護衛に恋をする　～最強の守護騎士、転生して魔法学園に行く～",
+      "Six Princesses Fall in Love With God Guardian "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tetsubuta",
+      "Toowa Akatsuki",
+      "Hisashi Kakoyama"
+    ],
+    "id": 137288,
+    "malId": 140250,
+    "type": "manga",
+    "title": "Roku Hime wa Kami Goei ni Koi wo Suru: Saikyou no Shugo Kishi, Tensei Shite Mahou Gakuen ni Iku",
+    "url": "https://anilist.co/manga/137288",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137288-NgOjMiUu4p2C.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-31T18:22:00.000Z",
+    "updatedAt": "2021-09-12T19:34:34.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/140250/Rokuhime_wa_Kamigoei_ni_Koi_wo_Suru__Saikyou_no_Shugo_Kishi_Tensei_shite_Mahou_Gakuen_ni_Iku"
 }

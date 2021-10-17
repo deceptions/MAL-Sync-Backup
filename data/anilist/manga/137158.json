@@ -18,5 +18,29 @@
   "createdAt": "2021-07-27T14:51:36.000Z",
   "updatedAt": "2021-08-10T12:39:16.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "tenkaichi-nihon-saikyou-bugeisha-ketteisen": {
+        "authors": [
+          "NAKAMARU Yosuke",
+          "AZUMA Kyoutarou"
+        ],
+        "identifier": "tenkaichi-nihon-saikyou-bugeisha-ketteisen",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
+        "url": "https://mangasee123.com/manga/Tenkaichi-Nihon-Saikyou-Bugeisha-Ketteisen",
+        "image": "https://cover.nep.li/cover/Tenkaichi-Nihon-Saikyou-Bugeisha-Ketteisen.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139395,
+        "aniId": 137158,
+        "createdAt": "2021-10-13T20:59:54.000Z",
+        "updatedAt": "2021-10-13T21:28:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

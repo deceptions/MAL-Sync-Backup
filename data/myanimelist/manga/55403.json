@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://you.shueisha.co.jp/lineup/damena_watashi.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%A1%E3%81%AA%E7%A7%81%E3%81%AB%E6%81%8B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84"
+    }
+  ],
   "altTitle": [
     "Please Love the Useless Me",
     "ダメな私に恋してください"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:47.000Z",
-  "updatedAt": "2021-06-01T20:31:52.000Z",
+  "updatedAt": "2021-10-14T16:59:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -123,6 +132,26 @@
         "aniId": 86317,
         "createdAt": "2021-06-01T20:31:52.000Z",
         "updatedAt": "2021-06-01T21:01:16.000Z",
+        "deletedAt": null
+      },
+      "manga-lu952555": {
+        "authors": [
+          "Nakahara Aya"
+        ],
+        "identifier": "manga-lu952555",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dame Na Watashi Ni Koishite Kudasai",
+        "url": "https://manganato.com/manga-lu952555",
+        "image": "https://avt.mkklcdnv6temp.com/43/m/1-1583465420.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55403,
+        "aniId": 86317,
+        "createdAt": "2021-10-14T16:59:17.000Z",
+        "updatedAt": "2021-10-14T17:28:45.000Z",
         "deletedAt": null
       }
     }

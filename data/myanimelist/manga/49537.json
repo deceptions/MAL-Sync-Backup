@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/ReRe%E3%83%8F%E3%83%AD"
+    }
+  ],
   "altTitle": [
     "Mebuki Kimidori",
     "ReReハロ"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:33.000Z",
-  "updatedAt": "2021-08-27T00:36:46.000Z",
+  "updatedAt": "2021-10-14T18:58:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -101,6 +106,28 @@
         "aniId": 79537,
         "createdAt": "2021-08-27T00:36:43.000Z",
         "updatedAt": "2021-08-27T01:06:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hf954662": {
+        "authors": [
+          "Minami Touko"
+        ],
+        "identifier": "manga-hf954662",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Rere Hello",
+        "url": "https://manganato.com/manga-hf954662",
+        "image": "https://avt.mkklcdnv6temp.com/14/q/3-1583468220.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49537,
+        "aniId": 79537,
+        "createdAt": "2021-10-14T18:58:46.000Z",
+        "updatedAt": "2021-10-14T19:28:45.000Z",
         "deletedAt": null
       }
     }

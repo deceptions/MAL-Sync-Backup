@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%83%E3%83%89%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%AB"
+    }
+  ],
   "altTitle": [
     "Kare to Kanojo ni Hanataba wo",
     "His and Her Fortune Bouquet",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:31.000Z",
-  "updatedAt": "2021-07-14T17:21:02.000Z",
+  "updatedAt": "2021-10-10T10:03:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +65,28 @@
         "aniId": 31242,
         "createdAt": "2021-01-14T17:01:50.000Z",
         "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "good_morning_call": {
+        "authors": [
+          "TAKASUKA Yue"
+        ],
+        "identifier": "good_morning_call",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Good Morning Call",
+        "url": "https://fanfox.net/manga/good_morning_call/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/105/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1242,
+        "aniId": 31242,
+        "createdAt": "2021-10-10T10:03:33.000Z",
+        "updatedAt": "2021-10-10T10:32:22.000Z",
         "deletedAt": null
       }
     }

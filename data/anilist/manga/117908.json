@@ -18,5 +18,28 @@
   "createdAt": "2021-07-02T18:33:57.000Z",
   "updatedAt": "2021-07-02T18:33:57.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "guilty": {
+        "authors": [
+          "OKAUE Ai"
+        ],
+        "identifier": "guilty",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Guilty",
+        "url": "https://mangasee123.com/manga/Guilty",
+        "image": "https://cover.nep.li/cover/Guilty.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 126271,
+        "aniId": 117908,
+        "createdAt": "2021-02-20T03:04:06.000Z",
+        "updatedAt": "2021-10-10T16:32:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

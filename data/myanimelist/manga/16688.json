@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%93%E3%83%84"
+    }
+  ],
   "altTitle": [
     "Ibitsu",
     "イビツ"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:23.000Z",
-  "updatedAt": "2021-08-08T07:44:27.000Z",
+  "updatedAt": "2021-10-10T01:33:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -101,6 +106,28 @@
         "aniId": 46688,
         "createdAt": "2021-04-29T12:51:23.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nm965021": {
+        "authors": [
+          "Ryou Haruto"
+        ],
+        "identifier": "manga-nm965021",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ibitsu",
+        "url": "https://manganato.com/manga-nm965021",
+        "image": "https://avt.mkklcdnv6temp.com/49/c/9-1583482146.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16688,
+        "aniId": 46688,
+        "createdAt": "2021-10-10T01:33:34.000Z",
+        "updatedAt": "2021-10-10T02:02:20.000Z",
         "deletedAt": null
       }
     }

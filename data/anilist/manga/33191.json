@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-02T10:38:31.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "love_my_life": {
+        "authors": [
+          "YAMAJI Ebine"
+        ],
+        "identifier": "love_my_life",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Love My Life",
+        "url": "https://fanfox.net/manga/love_my_life/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2297/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3191,
+        "aniId": 33191,
+        "createdAt": "2021-10-10T18:38:56.000Z",
+        "updatedAt": "2021-10-10T19:07:52.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -9,7 +9,7 @@
     "Yu Hibari"
   ],
   "id": 139732,
-  "malId": null,
+  "malId": 140072,
   "type": "manga",
   "title": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
   "url": "https://anilist.co/manga/139732",
@@ -17,7 +17,73 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-27T20:33:03.000Z",
-  "updatedAt": "2021-09-27T20:33:03.000Z",
+  "updatedAt": "2021-10-11T00:07:53.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "7873dd0e-131f-4f40-8a92-32601713e1da": {
+        "authors": [
+          "Hibari Yu",
+          "Oyama Kina"
+        ],
+        "identifier": "7873dd0e-131f-4f40-8a92-32601713e1da",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenkosaki: The Neat and Pretty Girl at My New School Is a Childhood Friend of Mine Who I Thought Was a Boy",
+        "url": "https://mangadex.org/title/7873dd0e-131f-4f40-8a92-32601713e1da",
+        "image": "https://uploads.mangadex.org/covers/7873dd0e-131f-4f40-8a92-32601713e1da/b0a428a5-c648-4305-aa65-5e58fa6d3df5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140072,
+        "aniId": 139732,
+        "createdAt": "2021-10-12T11:46:17.000Z",
+        "updatedAt": "2021-10-12T11:46:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tenkou_saki_no_seiso_karen_na_bishoujo_ga_mukashi_danshi_to_omotte_issho_ni_asonda_osananajimi_datta": {
+        "authors": [
+          "HIBARI Yu"
+        ],
+        "identifier": "tenkou_saki_no_seiso_karen_na_bishoujo_ga_mukashi_danshi_to_omotte_issho_ni_asonda_osananajimi_datta",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
+        "url": "https://fanfox.net/manga/tenkou_saki_no_seiso_karen_na_bishoujo_ga_mukashi_danshi_to_omotte_issho_ni_asonda_osananajimi_datta/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39563/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140072,
+        "aniId": 139732,
+        "createdAt": "2021-10-15T07:58:47.000Z",
+        "updatedAt": "2021-10-15T08:28:45.000Z",
+        "deletedAt": null
+      },
+      "tenkou_saki_no_seiso_karen_na_bishoujo_ga": {
+        "authors": [
+          "HIBARI Yu"
+        ],
+        "identifier": "tenkou_saki_no_seiso_karen_na_bishoujo_ga",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tenkou-saki no Seiso Karen na Bishoujo ga",
+        "url": "https://fanfox.net/manga/tenkou_saki_no_seiso_karen_na_bishoujo_ga/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39563/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 140072,
+        "aniId": 139732,
+        "createdAt": "2021-10-15T15:28:45.000Z",
+        "updatedAt": "2021-10-15T19:58:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

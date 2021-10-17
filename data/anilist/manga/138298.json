@@ -20,5 +20,29 @@
   "createdAt": "2021-08-24T14:36:34.000Z",
   "updatedAt": "2021-09-09T02:34:30.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "ed792d74-2a27-4fe9-936f-b448a7283792": {
+        "authors": [
+          "Ootake Toshitomo",
+          "Kurinohara Sousuke"
+        ],
+        "identifier": "ed792d74-2a27-4fe9-936f-b448a7283792",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Romcom With the Preamble of Marriage",
+        "url": "https://mangadex.org/title/ed792d74-2a27-4fe9-936f-b448a7283792",
+        "image": "https://uploads.mangadex.org/covers/ed792d74-2a27-4fe9-936f-b448a7283792/6dcdc323-645d-4735-9395-3e4c814ddf96.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140146,
+        "aniId": 138298,
+        "createdAt": "2021-10-12T11:47:11.000Z",
+        "updatedAt": "2021-10-12T12:14:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

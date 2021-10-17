@@ -17,5 +17,28 @@
   "createdAt": "2021-07-02T03:20:08.000Z",
   "updatedAt": "2021-07-02T03:20:08.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "28b5d896-7dfe-4ffe-b480-6bbfa3075178": {
+        "authors": [
+          "Tadano Natsu"
+        ],
+        "identifier": "28b5d896-7dfe-4ffe-b480-6bbfa3075178",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsuka no Ma no Ichika",
+        "url": "https://mangadex.org/title/28b5d896-7dfe-4ffe-b480-6bbfa3075178",
+        "image": "https://uploads.mangadex.org/covers/28b5d896-7dfe-4ffe-b480-6bbfa3075178/033bc892-285f-4063-83f4-6f21e54f9e0f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136359,
+        "aniId": 130157,
+        "createdAt": "2021-10-13T01:28:44.000Z",
+        "updatedAt": "2021-10-13T01:58:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

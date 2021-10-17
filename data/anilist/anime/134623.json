@@ -20,5 +20,44 @@
   "createdAt": "2021-05-25T19:38:17.000Z",
   "updatedAt": "2021-10-09T11:32:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "oj9o4": {
+        "identifier": "oj9o4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lupin III: Part VI",
+        "url": "https://9anime.to/watch/lupin-the-3rd-part-6.oj9o4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/e/e5/e5455859cfe314aac74a4d30821da24d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49040,
+        "aniId": 134623,
+        "createdAt": "2021-10-10T01:02:50.000Z",
+        "updatedAt": "2021-10-10T01:32:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "lupin-iii-part-6": {
+        "identifier": "lupin-iii-part-6",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Lupin III: Part 6",
+        "url": "https://gogoanime.pe/category/lupin-iii-part-6",
+        "image": "https://gogocdn.net/cover/lupin-iii-part-6.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49040,
+        "aniId": 134623,
+        "createdAt": "2021-10-10T02:02:33.000Z",
+        "updatedAt": "2021-10-10T02:32:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

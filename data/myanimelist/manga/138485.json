@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic-meteor.jp/kaijin/"
+    }
+  ],
   "altTitle": [
     "Kuroitsu-san from the Monster Development Department",
     "怪人開発部の黒井津さん"
@@ -15,7 +20,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-08-23T21:06:58.000Z",
-  "updatedAt": "2021-08-23T21:06:58.000Z",
+  "updatedAt": "2021-10-10T12:32:55.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "kaijin_kaihatsubu_no_kuroitsu_san": {
+        "authors": [
+          "MIZUSAKI Hiroaki"
+        ],
+        "identifier": "kaijin_kaihatsubu_no_kuroitsu_san",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kaijin Kaihatsubu no Kuroitsu-san",
+        "url": "https://fanfox.net/manga/kaijin_kaihatsubu_no_kuroitsu_san/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39573/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 138485,
+        "aniId": 128442,
+        "createdAt": "2021-10-15T19:59:03.000Z",
+        "updatedAt": "2021-10-15T20:28:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

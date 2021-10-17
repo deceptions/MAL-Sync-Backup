@@ -25,5 +25,25 @@
   "createdAt": "2021-10-03T05:01:02.000Z",
   "updatedAt": "2021-10-03T05:01:02.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "chun-qiu-feng-shen": {
+        "identifier": "chun-qiu-feng-shen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chun Qiu Feng Shen",
+        "url": "https://gogoanime.pe/category/chun-qiu-feng-shen",
+        "image": "https://gogocdn.net/cover/chun-qiu-feng-shen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49841,
+        "aniId": null,
+        "createdAt": "2021-10-12T12:14:24.000Z",
+        "updatedAt": "2021-10-12T12:14:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

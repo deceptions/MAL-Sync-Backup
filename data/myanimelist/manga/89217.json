@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%80%9D%E3%81%84%E3%80%81%E6%80%9D%E3%82%8F%E3%82%8C%E3%80%81%E3%81%B5%E3%82%8A%E3%80%81%E3%81%B5%E3%82%89%E3%82%8C"
+    }
+  ],
   "altTitle": [
     "Love Me, Love Me Not",
     "Love, Be Loved, Leave, Be Left",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:59.000Z",
-  "updatedAt": "2021-08-18T04:37:52.000Z",
+  "updatedAt": "2021-10-11T08:38:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,6 +87,28 @@
         "aniId": 86219,
         "createdAt": "2021-08-18T04:37:00.000Z",
         "updatedAt": "2021-08-18T05:07:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "omoi_omoware_furi_furare": {
+        "authors": [
+          "SAKISAKA Io"
+        ],
+        "identifier": "omoi_omoware_furi_furare",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Omoi, Omoware, Furi, Furare",
+        "url": "https://fanfox.net/manga/omoi_omoware_furi_furare/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/16067/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89217,
+        "aniId": 86219,
+        "createdAt": "2021-10-11T08:37:54.000Z",
+        "updatedAt": "2021-10-11T09:07:53.000Z",
         "deletedAt": null
       }
     }

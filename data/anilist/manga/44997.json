@@ -42,6 +42,28 @@
         "updatedAt": "2021-06-02T13:43:53.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "tiara": {
+        "authors": [
+          "LEE Yun Hee"
+        ],
+        "identifier": "tiara",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tiara",
+        "url": "https://fanfox.net/manga/tiara/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6286/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14997,
+        "aniId": 44997,
+        "createdAt": "2021-10-11T00:39:16.000Z",
+        "updatedAt": "2021-10-11T01:07:53.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-01T14:22:55.000Z",
-  "updatedAt": "2021-06-21T16:57:23.000Z",
+  "updatedAt": "2021-10-12T21:58:55.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-kb987458": {
+        "authors": [
+          "Akio Chinami"
+        ],
+        "identifier": "manga-kb987458",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Me No Tsukedokoro Ga Deep Desho",
+        "url": "https://manganato.com/manga-kb987458",
+        "image": "https://avt.mkklcdnv6temp.com/48/n/22-1608909621.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 128299,
+        "createdAt": "2021-10-12T21:58:55.000Z",
+        "updatedAt": "2021-10-12T21:58:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

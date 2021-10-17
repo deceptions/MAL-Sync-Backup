@@ -5,17 +5,61 @@
     "斗神姬",
     "Doushenji"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/ancient-girls-frame/"
+    }
+  ],
   "id": 126393,
   "malId": 50021,
   "type": "anime",
   "title": "Toushinki G's Frame",
   "url": "https://anilist.co/anime/126393",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126393-A0AV1eZcBcfB.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126393-PZNOgphwHn4J.jpg",
   "category": "ona",
   "hentai": false,
   "createdAt": "2021-09-24T19:45:23.000Z",
-  "updatedAt": "2021-10-08T15:02:19.000Z",
+  "updatedAt": "2021-10-12T18:28:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "dou-shen-ji": {
+        "identifier": "dou-shen-ji",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dou Shen Ji",
+        "url": "https://gogoanime.pe/category/dou-shen-ji",
+        "image": "https://gogocdn.net/cover/dou-shen-ji.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50021,
+        "aniId": 126393,
+        "createdAt": "2021-10-11T08:07:53.000Z",
+        "updatedAt": "2021-10-11T08:37:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "9ooo8": {
+        "identifier": "9ooo8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Toushinki G's Frame",
+        "url": "https://9anime.to/watch/ancient-girls-frame.9ooo8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/c3/c33d86bb6b03c81e97573aa191f984d6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50021,
+        "aniId": 126393,
+        "createdAt": "2021-10-12T11:44:57.000Z",
+        "updatedAt": "2021-10-12T12:14:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

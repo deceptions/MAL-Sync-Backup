@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.alphapolis.co.jp/manga/official/665000279"
+    }
+  ],
   "altTitle": [
     "May I Ask For One Final Thing?",
     "最後にひとつだけお願いしてもよろしいでしょうか"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:03.000Z",
-  "updatedAt": "2021-05-31T09:40:33.000Z",
+  "updatedAt": "2021-10-12T15:59:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -127,6 +132,26 @@
         "aniId": 109900,
         "createdAt": "2021-05-31T09:40:33.000Z",
         "updatedAt": "2021-05-31T10:00:42.000Z",
+        "deletedAt": null
+      },
+      "manga-mn989770": {
+        "authors": [
+          "Otori Nana"
+        ],
+        "identifier": "manga-mn989770",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "May I Please Ask You Just One Last Thing?",
+        "url": "https://manganato.com/manga-mn989770",
+        "image": "https://avt.mkklcdnv6temp.com/45/u/24-1633793009.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 120224,
+        "aniId": 109900,
+        "createdAt": "2021-10-12T15:59:06.000Z",
+        "updatedAt": "2021-10-12T17:28:45.000Z",
         "deletedAt": null
       }
     }

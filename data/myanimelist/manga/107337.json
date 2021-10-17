@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E6%80%AA%E7%8D%A3%E6%93%AC%E4%BA%BA%E5%8C%96%E8%A8%88%E7%94%BB"
+    }
+  ],
   "altTitle": [
     "Ultra Kaiju Anthropomorphic Project",
     "Ultra Kaiju Personification Project",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:06.000Z",
-  "updatedAt": "2021-08-12T17:38:12.000Z",
+  "updatedAt": "2021-10-13T16:58:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,29 @@
         "aniId": 109830,
         "createdAt": "2020-10-12T16:18:10.000Z",
         "updatedAt": "2021-06-07T14:30:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dp981172": {
+        "authors": [
+          "Shun Kazakami",
+          "Puro Tsuburaya"
+        ],
+        "identifier": "manga-dp981172",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ultra Kaiju Humanization Project Feat.pop Comic Code",
+        "url": "https://manganato.com/manga-dp981172",
+        "image": "https://avt.mkklcdnv6temp.com/5/i/18-1583497293.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 107337,
+        "aniId": 109830,
+        "createdAt": "2021-10-13T16:58:54.000Z",
+        "updatedAt": "2021-10-13T18:28:45.000Z",
         "deletedAt": null
       }
     }

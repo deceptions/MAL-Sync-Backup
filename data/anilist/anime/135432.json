@@ -20,5 +20,78 @@
   "createdAt": "2021-06-12T05:38:18.000Z",
   "updatedAt": "2021-09-14T02:34:41.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "7jmq7": {
+        "identifier": "7jmq7",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bright: Samurai Soul",
+        "url": "https://9anime.to/watch/bright-samurai-soul.7jmq7",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/49/493cadeff587f5c2aec52e520c236953.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49165,
+        "aniId": 135432,
+        "createdAt": "2021-10-12T12:14:35.000Z",
+        "updatedAt": "2021-10-12T12:44:23.000Z",
+        "deletedAt": null
+      },
+      "ojjo4": {
+        "identifier": "ojjo4",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bright: Samurai Soul (Dub)",
+        "url": "https://9anime.to/watch/bright-samurai-soul-dub.ojjo4",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/6b/6b5a7769d44882ab70c89b0808a4e349.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49165,
+        "aniId": 135432,
+        "createdAt": "2021-10-12T12:14:36.000Z",
+        "updatedAt": "2021-10-12T12:44:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bright-samurai-soul": {
+        "identifier": "bright-samurai-soul",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bright: Samurai Soul",
+        "url": "https://gogoanime.pe/category/bright-samurai-soul",
+        "image": "https://gogocdn.net/cover/bright-samurai-soul.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49165,
+        "aniId": 135432,
+        "createdAt": "2021-10-13T21:28:55.000Z",
+        "updatedAt": "2021-10-13T21:58:44.000Z",
+        "deletedAt": null
+      },
+      "bright-samurai-soul-dub": {
+        "identifier": "bright-samurai-soul-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bright: Samurai Soul (Dub)",
+        "url": "https://gogoanime.pe/category/bright-samurai-soul-dub",
+        "image": "https://gogocdn.net/cover/bright-samurai-soul-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49165,
+        "aniId": 135432,
+        "createdAt": "2021-10-14T10:29:48.000Z",
+        "updatedAt": "2021-10-14T10:58:44.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

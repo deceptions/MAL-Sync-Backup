@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%82%E3%82%8B%E9%AD%94%E8%A1%93%E3%81%AE%E7%A6%81%E6%9B%B8%E7%9B%AE%E9%8C%B2"
+    }
+  ],
   "altTitle": [
-    "Toaru Kagaku no Migen Busshitsu, A Certain Scientific Dark Matter",
+    "Toaru Kagaku no Migen Busshitsu",
+    "A Certain Scientific Dark Matter",
     "とある魔術の禁書目録〈インデックス〉外伝 とある科学の未元物質〈ダークマター〉"
   ],
   "authors": [
@@ -16,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:07.000Z",
-  "updatedAt": "2021-04-16T23:44:17.000Z",
+  "updatedAt": "2021-10-13T02:29:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +67,29 @@
         "aniId": 111294,
         "createdAt": "2021-04-16T23:44:19.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fj982818": {
+        "authors": [
+          "Yoshinori Kisaragi",
+          "Kazuma Kamachi"
+        ],
+        "identifier": "manga-fj982818",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "A Certain Scientific Dark Matter",
+        "url": "https://manganato.com/manga-fj982818",
+        "image": "https://avt.mkklcdnv6temp.com/15/m/19-1583499690.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121474,
+        "aniId": 111294,
+        "createdAt": "2021-10-13T02:29:15.000Z",
+        "updatedAt": "2021-10-13T02:58:45.000Z",
         "deletedAt": null
       }
     }

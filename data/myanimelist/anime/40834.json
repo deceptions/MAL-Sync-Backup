@@ -33,5 +33,44 @@
   "createdAt": "2021-10-03T09:31:43.000Z",
   "updatedAt": "2021-10-03T09:31:43.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "ousama-ranking": {
+        "identifier": "ousama-ranking",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ousama Ranking",
+        "url": "https://gogoanime.pe/category/ousama-ranking",
+        "image": "https://gogocdn.net/cover/ousama-ranking.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40834,
+        "aniId": 113717,
+        "createdAt": "2021-10-14T17:58:45.000Z",
+        "updatedAt": "2021-10-14T18:28:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "jx58": {
+        "identifier": "jx58",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Ousama Ranking",
+        "url": "https://9anime.to/watch/ranking-of-kings.jx58",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/3b/3b0e1432c6d7161ca52d4edf2c1129dc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40834,
+        "aniId": 113717,
+        "createdAt": "2021-10-14T18:28:45.000Z",
+        "updatedAt": "2021-10-14T18:58:44.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

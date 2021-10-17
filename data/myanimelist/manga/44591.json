@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%88%E5%BD%B1%E3%83%99%E3%82%A4%E3%83%99"
+    }
+  ],
   "altTitle": [
     "月影ベイベ"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:19.000Z",
-  "updatedAt": "2021-05-04T03:34:11.000Z",
+  "updatedAt": "2021-10-15T00:59:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +63,50 @@
         "aniId": 74591,
         "createdAt": "2021-05-04T03:34:12.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yv953804": {
+        "authors": [
+          "Kodama Yuki"
+        ],
+        "identifier": "manga-yv953804",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tsukikage Baby",
+        "url": "https://readmanganato.com/manga-yv953804",
+        "image": "https://avt.mkklcdnv6temp.com/36/e/2-1583467089.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44591,
+        "aniId": 74591,
+        "createdAt": "2021-10-15T00:59:06.000Z",
+        "updatedAt": "2021-10-15T01:28:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tsukikage_baby": {
+        "authors": [
+          "KODAMA Yuki"
+        ],
+        "identifier": "tsukikage_baby",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tsukikage Baby",
+        "url": "https://fanfox.net/manga/tsukikage_baby/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14062/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44591,
+        "aniId": 74591,
+        "createdAt": "2021-10-15T00:59:16.000Z",
+        "updatedAt": "2021-10-15T01:28:45.000Z",
         "deletedAt": null
       }
     }

@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "There's no way a side character like me could be popular, right?",
     "友人キャラの俺がモテまくるわけないだろ？"
@@ -12,13 +12,35 @@
   "type": "manga",
   "title": "Yuujin Character no Ore ga Motemakuru Wake Nai Darou?",
   "url": "https://myanimelist.net/manga/136203/Yuujin_Character_no_Ore_ga_Motemakuru_Wake_Nai_Darou",
-  "image": "https://cdn.myanimelist.net/images/manga/2/244199.jpg",
+  "image": "https://cdn.myanimelist.net/images/manga/3/248258.jpg",
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-05-02T05:33:32.000Z",
-  "updatedAt": "2021-06-18T12:56:58.000Z",
+  "updatedAt": "2021-10-11T03:08:55.000Z",
   "deletedAt": null,
   "Pages": {
+    "MangaNato": {
+      "manga-lu988929": {
+        "authors": [
+          "Sekaiichi"
+        ],
+        "identifier": "manga-lu988929",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "There's No Way A Side Character Like Me Could Be Popular, Right?",
+        "url": "https://manganato.com/manga-lu988929",
+        "image": "https://avt.mkklcdnv6temp.com/9/c/24-1619492230.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 136203,
+        "aniId": 128851,
+        "createdAt": "2021-05-31T09:39:32.000Z",
+        "updatedAt": "2021-10-11T13:04:53.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaFox": {
       "there_s_no_way_a_side_character_like_me_could_be_popular_right": {
         "authors": [
@@ -35,9 +57,32 @@
         "active": true,
         "actor": null,
         "malId": 136203,
-        "aniId": null,
+        "aniId": 128851,
         "createdAt": "2021-06-18T12:56:48.000Z",
-        "updatedAt": "2021-06-18T12:56:58.000Z",
+        "updatedAt": "2021-10-12T21:58:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "eb0d5b07-759d-4f68-b6ec-d5ac9c6bbb9c": {
+        "authors": [
+          "Sekaiichi ",
+          "Harumare"
+        ],
+        "identifier": "eb0d5b07-759d-4f68-b6ec-d5ac9c6bbb9c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "There's no way a side character like me could be popular, right?",
+        "url": "https://mangadex.org/title/eb0d5b07-759d-4f68-b6ec-d5ac9c6bbb9c",
+        "image": "https://uploads.mangadex.org/covers/eb0d5b07-759d-4f68-b6ec-d5ac9c6bbb9c/87360704-7697-4242-ad72-0434b1b3ab94.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136203,
+        "aniId": 128851,
+        "createdAt": "2021-10-13T15:58:55.000Z",
+        "updatedAt": "2021-10-13T15:58:55.000Z",
         "deletedAt": null
       }
     }

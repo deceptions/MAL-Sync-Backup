@@ -18,9 +18,19 @@
   "updatedAt": "2021-05-20T15:40:04.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://gekkansunday.net/rensai/nobunaga/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E4%BF%A1%E9%95%B7%E5%8D%94%E5%A5%8F%E6%9B%B2"
+      }
+    ],
     "altTitle": [
-      "Nobunaga Concierto, Nobunaga Kyousoukyoku",
+      "Nobunaga Concierto",
+      "Nobunaga Kyousoukyoku",
       "信長協奏曲〈コンツェルト〉"
     ],
     "authors": [
@@ -34,7 +44,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:48.000Z",
-    "updatedAt": "2021-04-15T19:14:58.000Z",
+    "updatedAt": "2021-10-15T19:28:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E4%BF%BA%E3%81%AE%E5%A6%B9%E3%81%8C%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E5%8F%AF%E6%84%9B%E3%81%84%E3%82%8F%E3%81%91%E3%81%8C%E3%81%AA%E3%81%84"
+    }
+  ],
   "altTitle": [
     "Oreimo",
     "My Little Sister Can't Be This Cute",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:11.000Z",
-  "updatedAt": "2021-09-05T16:46:07.000Z",
+  "updatedAt": "2021-10-11T22:39:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +45,27 @@
         "aniId": 45317,
         "createdAt": "2020-10-12T16:02:30.000Z",
         "updatedAt": "2021-06-02T07:16:06.000Z",
+        "deletedAt": null
+      },
+      "a871a3a2-aa04-4fff-8dac-a6ec969b54d1": {
+        "authors": [
+          "Fushimi Tsukasa",
+          "Mori Airi"
+        ],
+        "identifier": "a871a3a2-aa04-4fff-8dac-a6ec969b54d1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai: Kuroneko If",
+        "url": "https://mangadex.org/title/a871a3a2-aa04-4fff-8dac-a6ec969b54d1",
+        "image": "https://uploads.mangadex.org/covers/a871a3a2-aa04-4fff-8dac-a6ec969b54d1/3aab5ba9-6a82-4012-bb73-1330a980ebb6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15317,
+        "aniId": 45317,
+        "createdAt": "2021-10-12T11:46:52.000Z",
+        "updatedAt": "2021-10-12T12:14:23.000Z",
         "deletedAt": null
       }
     },

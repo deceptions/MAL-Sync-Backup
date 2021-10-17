@@ -21,5 +21,29 @@
   "createdAt": "2021-09-03T18:45:46.000Z",
   "updatedAt": "2021-10-09T15:02:42.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lp989324": {
+        "authors": [
+          "Jack Norway",
+          "Tai Yi Shui Sheng"
+        ],
+        "identifier": "manga-lp989324",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Ultimate Of All Ages",
+        "url": "https://manganato.com/manga-lp989324",
+        "image": "https://avt.mkklcdnv6temp.com/26/b/25-1626597959.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 138726,
+        "createdAt": "2021-07-19T03:33:16.000Z",
+        "updatedAt": "2021-10-12T10:52:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

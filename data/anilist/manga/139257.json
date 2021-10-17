@@ -20,5 +20,29 @@
   "createdAt": "2021-09-14T21:50:14.000Z",
   "updatedAt": "2021-09-15T15:50:13.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "da2a3622-d902-4f06-a9af-be6cb9a243ed": {
+        "authors": [
+          "LObeam",
+          "Rodong"
+        ],
+        "identifier": "da2a3622-d902-4f06-a9af-be6cb9a243ed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Private Tutoring in These Trying Times",
+        "url": "https://mangadex.org/title/da2a3622-d902-4f06-a9af-be6cb9a243ed",
+        "image": "https://uploads.mangadex.org/covers/da2a3622-d902-4f06-a9af-be6cb9a243ed/80b19efb-2734-4b91-90d6-e4b17916106d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 139257,
+        "createdAt": "2021-10-13T20:00:16.000Z",
+        "updatedAt": "2021-10-13T20:00:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

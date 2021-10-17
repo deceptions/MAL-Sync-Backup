@@ -19,5 +19,29 @@
   "createdAt": "2021-06-17T23:20:50.000Z",
   "updatedAt": "2021-06-17T23:20:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "dd0855dd-938e-4fab-bfdb-59de872d57d8": {
+        "authors": [
+          "Kawamoto Homura",
+          "Aki Yamaguchi"
+        ],
+        "identifier": "dd0855dd-938e-4fab-bfdb-59de872d57d8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Killer of the Reincarnated: Cheat Slayer",
+        "url": "https://mangadex.org/title/dd0855dd-938e-4fab-bfdb-59de872d57d8",
+        "image": "https://uploads.mangadex.org/covers/dd0855dd-938e-4fab-bfdb-59de872d57d8/5982d234-d14d-43bb-82fa-08d5c8105b4c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136598,
+        "aniId": 134035,
+        "createdAt": "2021-10-12T11:47:10.000Z",
+        "updatedAt": "2021-10-12T12:14:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

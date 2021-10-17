@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.pixiv.net/works/3737"
+    }
+  ],
   "altTitle": [
     "リリウム・テラリウム"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-12-03T00:22:52.000Z",
-  "updatedAt": "2021-08-17T07:07:50.000Z",
+  "updatedAt": "2021-10-14T16:30:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +63,28 @@
         "aniId": 106431,
         "createdAt": "2021-08-17T07:07:31.000Z",
         "updatedAt": "2021-08-17T07:37:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dl980720": {
+        "authors": [
+          "Ed"
+        ],
+        "identifier": "manga-dl980720",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Lilium Terrarium",
+        "url": "https://manganato.com/manga-dl980720",
+        "image": "https://avt.mkklcdnv6temp.com/39/h/17-1583496680.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122871,
+        "aniId": 106431,
+        "createdAt": "2021-10-14T16:30:01.000Z",
+        "updatedAt": "2021-10-14T16:58:45.000Z",
         "deletedAt": null
       }
     }

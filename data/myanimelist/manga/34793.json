@@ -88,6 +88,28 @@
         "updatedAt": "2021-10-09T00:32:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "joshi_kouhei": {
+        "authors": [
+          "MATSUMOTO Jiro"
+        ],
+        "identifier": "joshi_kouhei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Joshi Kouhei",
+        "url": "https://fanfox.net/manga/joshi_kouhei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21843/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34793,
+        "aniId": 64793,
+        "createdAt": "2021-10-10T04:03:55.000Z",
+        "updatedAt": "2021-10-10T04:32:20.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

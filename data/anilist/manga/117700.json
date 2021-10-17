@@ -26,5 +26,28 @@
   "createdAt": "2021-06-12T14:38:19.000Z",
   "updatedAt": "2021-06-18T08:37:22.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "d6445256-e8e0-4ffb-94e8-0ae35713b37e": {
+        "authors": [
+          "Yokoyari Mengo"
+        ],
+        "identifier": "d6445256-e8e0-4ffb-94e8-0ae35713b37e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Neo Dutch Wife",
+        "url": "https://mangadex.org/title/d6445256-e8e0-4ffb-94e8-0ae35713b37e",
+        "image": "https://uploads.mangadex.org/covers/d6445256-e8e0-4ffb-94e8-0ae35713b37e/a9eb2653-1e92-483d-ae0a-65d06b288736.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132614,
+        "aniId": 117700,
+        "createdAt": "2021-10-12T11:46:27.000Z",
+        "updatedAt": "2021-10-12T12:14:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

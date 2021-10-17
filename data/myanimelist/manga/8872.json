@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.akitashoten.co.jp/comics/4253203876"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E5%AE%89%E3%81%AE%E7%A8%AE"
+    }
+  ],
   "altTitle": [
     "Fuan no Tane Plus",
     "不安の種+(プラス)"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:21.000Z",
-  "updatedAt": "2021-05-28T21:24:24.000Z",
+  "updatedAt": "2021-10-11T14:08:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +90,26 @@
         "aniId": 38872,
         "createdAt": "2021-05-28T21:24:24.000Z",
         "updatedAt": "2021-05-28T21:53:32.000Z",
+        "deletedAt": null
+      },
+      "manga-mg989741": {
+        "authors": [
+          "Nakayama Masaaki"
+        ],
+        "identifier": "manga-mg989741",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fuan No Tane +",
+        "url": "https://manganato.com/manga-mg989741",
+        "image": "https://avt.mkklcdnv6temp.com/44/q/24-1633529725.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8872,
+        "aniId": 38872,
+        "createdAt": "2021-10-11T14:07:53.000Z",
+        "updatedAt": "2021-10-11T14:37:53.000Z",
         "deletedAt": null
       }
     }

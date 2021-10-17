@@ -1,8 +1,17 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%86%E3%81%B3%E3%81%95%E3%81%8D%E3%83%9F%E3%83%AB%E3%82%AF%E3%83%86%E3%82%A3%E3%83%BC"
+    }
+  ],
   "altTitle": [
     "Yubisaki Milk Tea",
-    "Hadairo Soda-sui, Namaiki na Amaashi, Reason, Imouto wa Yuutousei, Fingertip's Milk Tea",
+    "Hadairo Soda-sui",
+    "Namaiki na Amaashi",
+    "Reason",
+    "Imouto wa Yuutousei",
+    "Fingertip's Milk Tea",
     "ゆびさきミルクティー"
   ],
   "authors": [
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:23.000Z",
-  "updatedAt": "2021-04-26T08:27:44.000Z",
+  "updatedAt": "2021-10-10T16:33:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +47,28 @@
         "aniId": 30579,
         "createdAt": "2020-10-12T16:04:08.000Z",
         "updatedAt": "2021-06-02T19:03:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ps967253": {
+        "authors": [
+          "Miyano Tomochika"
+        ],
+        "identifier": "manga-ps967253",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yubisaki Milk Tea",
+        "url": "https://manganato.com/manga-ps967253",
+        "image": "https://avt.mkklcdnv6temp.com/18/j/11-1583484679.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 579,
+        "aniId": 30579,
+        "createdAt": "2021-10-10T16:33:21.000Z",
+        "updatedAt": "2021-10-10T17:02:25.000Z",
         "deletedAt": null
       }
     }

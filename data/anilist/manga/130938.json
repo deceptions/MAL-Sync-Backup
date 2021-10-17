@@ -20,7 +20,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-01T11:22:55.000Z",
-  "updatedAt": "2021-08-29T10:37:11.000Z",
+  "updatedAt": "2021-10-12T15:00:55.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,29 @@
         "aniId": 130938,
         "createdAt": "2021-03-05T22:50:07.000Z",
         "updatedAt": "2021-08-29T12:51:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mq989773": {
+        "authors": [
+          "Yoshiki Kanata",
+          "Tokugawa Lemon"
+        ],
+        "identifier": "manga-mq989773",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Keikenchi Chochiku De Nonbiri Shoushin Ryokou ; 経験値貯蓄でのんびり傷心旅行 1　～勇者と恋人に追放された戦士の無自覚ざまぁ～",
+        "url": "https://manganato.com/manga-mq989773",
+        "image": "https://avt.mkklcdnv6temp.com/45/x/24-1633867855.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 130938,
+        "createdAt": "2021-10-10T16:02:29.000Z",
+        "updatedAt": "2021-10-13T18:01:49.000Z",
         "deletedAt": null
       }
     }

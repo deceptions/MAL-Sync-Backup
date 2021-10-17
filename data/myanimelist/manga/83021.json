@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%81%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8B%E7%95%B0%E4%B8%96%E7%95%8C%E7%8B%82%E6%83%B3%E6%9B%B2"
+    }
+  ],
   "altTitle": [
     "Death March to the Parallel World Rhapsody",
     "DeathMa",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:38.000Z",
-  "updatedAt": "2021-05-28T21:24:53.000Z",
+  "updatedAt": "2021-10-10T19:38:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -127,6 +132,26 @@
         "aniId": 86511,
         "createdAt": "2021-01-15T21:01:53.000Z",
         "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      },
+      "death_march_kara_hajimaru_isekai_kyusoukyoku_novel": {
+        "authors": [
+          "AINANA Hiro"
+        ],
+        "identifier": "death_march_kara_hajimaru_isekai_kyusoukyoku_novel",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Death March kara Hajimaru Isekai Kyusoukyoku (Novel)",
+        "url": "https://fanfox.net/manga/death_march_kara_hajimaru_isekai_kyusoukyoku_novel/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36190/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83021,
+        "aniId": 86511,
+        "createdAt": "2021-10-10T19:38:04.000Z",
+        "updatedAt": "2021-10-10T20:07:52.000Z",
         "deletedAt": null
       }
     },

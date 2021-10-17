@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.webnewtype.com/contents/thisisit/"
+    }
+  ],
   "altTitle": [
     "THIS IS IT! 制作進行東雲次郎"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-08T12:57:03.000Z",
-  "updatedAt": "2021-06-08T12:57:03.000Z",
+  "updatedAt": "2021-10-16T04:58:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,29 @@
         "aniId": 130943,
         "createdAt": "2021-03-12T16:09:07.000Z",
         "updatedAt": "2021-07-28T20:51:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mi989843": {
+        "authors": [
+          "Inui Sekihiko",
+          "Momose Yuuichiro"
+        ],
+        "identifier": "manga-mi989843",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "This Is It!",
+        "url": "https://manganato.com/manga-mi989843",
+        "image": "https://avt.mkklcdnv6temp.com/49/c/24-1634357778.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 134798,
+        "aniId": 130943,
+        "createdAt": "2021-10-16T04:58:45.000Z",
+        "updatedAt": "2021-10-16T14:28:45.000Z",
         "deletedAt": null
       }
     }

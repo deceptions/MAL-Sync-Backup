@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "Shinjuku DxD",
     "Shinjuku D by D",
@@ -19,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:12.000Z",
-  "updatedAt": "2021-07-15T21:33:36.000Z",
+  "updatedAt": "2021-10-11T04:39:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -90,6 +90,29 @@
         "aniId": 85507,
         "createdAt": "2021-07-15T21:33:33.000Z",
         "updatedAt": "2021-07-15T22:02:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shinjuku_dxd": {
+        "authors": [
+          "ANDO Yuma",
+          "YASAKA Takanori"
+        ],
+        "identifier": "shinjuku_dxd",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shinjuku DxD",
+        "url": "https://fanfox.net/manga/shinjuku_dxd/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14350/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67237,
+        "aniId": 85507,
+        "createdAt": "2021-10-11T04:38:55.000Z",
+        "updatedAt": "2021-10-11T05:07:53.000Z",
         "deletedAt": null
       }
     }

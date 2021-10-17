@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 11111,
-  "aniId": null,
+  "aniId": 41111,
   "createdAt": "2020-11-23T07:56:19.000Z",
-  "updatedAt": "2021-06-08T08:37:19.000Z",
+  "updatedAt": "2021-10-16T13:58:45.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -35,6 +35,27 @@
     "updatedAt": "2021-05-23T08:13:08.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "恋人の値段",
+      "Lover's Price",
+      "Days",
+      "Liking",
+      "Going Nuts"
+    ],
+    "externalLinks": [],
+    "authors": [],
+    "id": 41111,
+    "malId": 11111,
+    "type": "manga",
+    "title": "Koibito no Nedan",
+    "url": "https://anilist.co/manga/41111",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11111.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-16T13:28:56.000Z",
+    "updatedAt": "2021-10-16T13:28:56.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/11111/Koibito_no_Nedan"
 }

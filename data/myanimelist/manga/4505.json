@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "Lucky Star Pocket Travelers",
     "らき☆すた ポケットとらべら～ず"
@@ -16,7 +16,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-20T16:39:06.000Z",
-  "updatedAt": "2021-04-20T16:56:59.000Z",
+  "updatedAt": "2021-10-12T02:38:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "lucky_star_pocket_travelers": {
+        "authors": [
+          "YOSHIMIZU Kagami"
+        ],
+        "identifier": "lucky_star_pocket_travelers",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Lucky Star Pocket Travelers",
+        "url": "https://fanfox.net/manga/lucky_star_pocket_travelers/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1809/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4505,
+        "aniId": null,
+        "createdAt": "2021-10-12T02:37:55.000Z",
+        "updatedAt": "2021-10-12T02:38:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

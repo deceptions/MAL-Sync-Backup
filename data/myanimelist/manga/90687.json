@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%BE%E3%81%A9%E3%81%8B%E2%98%86%E3%83%9E%E3%82%AE%E3%82%AB%E3%81%AE%E6%BC%AB%E7%94%BB%E4%BD%9C%E5%93%81"
+    }
+  ],
   "altTitle": [
     "Puella Magi Oriko★Magica: Sadness Prayer",
     "［新約］魔法少女おりこ★マギカ～sadness prayer～"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:04.000Z",
-  "updatedAt": "2021-05-13T23:54:50.000Z",
+  "updatedAt": "2021-10-12T21:30:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +45,29 @@
         "aniId": 95338,
         "createdAt": "2020-10-12T16:11:34.000Z",
         "updatedAt": "2021-06-05T09:23:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fi982365": {
+        "authors": [
+          "Magica Quartet",
+          "Kuroe Mura"
+        ],
+        "identifier": "manga-fi982365",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Puella Magi Oriko Magica: Sadness Prayer",
+        "url": "https://manganato.com/manga-fi982365",
+        "image": "https://avt.mkklcdnv6temp.com/49/c/18-1583499017.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90687,
+        "aniId": 95338,
+        "createdAt": "2021-10-12T21:29:56.000Z",
+        "updatedAt": "2021-10-12T21:58:45.000Z",
         "deletedAt": null
       }
     }

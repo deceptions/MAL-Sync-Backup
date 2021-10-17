@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://jumpsq.shueisha.co.jp/sqrise/2018summer/matigatteita.html"
+    }
+  ],
   "altTitle": [
     "I Was Wrong",
     "間違っていたのは俺だったんだ。"
@@ -15,7 +20,7 @@
   "category": "One-shot",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:08.000Z",
-  "updatedAt": "2021-05-24T15:38:27.000Z",
+  "updatedAt": "2021-10-14T10:29:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 105684,
         "createdAt": "2020-10-12T16:13:46.000Z",
         "updatedAt": "2021-06-05T23:58:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "i_was_wrong": {
+        "authors": [
+          "Hakuri"
+        ],
+        "identifier": "i_was_wrong",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "I was Wrong",
+        "url": "https://fanfox.net/manga/i_was_wrong/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28270/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121891,
+        "aniId": 105684,
+        "createdAt": "2021-10-14T10:29:39.000Z",
+        "updatedAt": "2021-10-14T10:58:45.000Z",
         "deletedAt": null
       }
     }

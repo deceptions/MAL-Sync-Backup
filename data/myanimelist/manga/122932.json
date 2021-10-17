@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.mangabox.me/reader/58232/episodes/"
+    }
+  ],
   "altTitle": [
     "LIFE GAME"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:10.000Z",
-  "updatedAt": "2021-07-01T02:51:04.000Z",
+  "updatedAt": "2021-10-15T14:58:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,28 @@
         "aniId": 105406,
         "createdAt": "2020-10-12T16:17:45.000Z",
         "updatedAt": "2021-06-07T10:35:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "life_game": {
+        "authors": [
+          "uta"
+        ],
+        "identifier": "life_game",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Life Game",
+        "url": "https://fanfox.net/manga/life_game/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32361/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122932,
+        "aniId": 105406,
+        "createdAt": "2021-10-15T14:58:46.000Z",
+        "updatedAt": "2021-10-15T15:28:45.000Z",
         "deletedAt": null
       }
     }

@@ -25,5 +25,44 @@
   "createdAt": "2021-06-03T00:00:51.000Z",
   "updatedAt": "2021-10-06T03:32:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "rlm7o": {
+        "identifier": "rlm7o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kaginado",
+        "url": "https://9anime.to/watch/kaginado.rlm7o",
+        "image": "https://static.bunnycdn.ru/i/cache/images/1/10/10446a192169666ac81d937ae38c593a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48775,
+        "aniId": 132528,
+        "createdAt": "2021-10-12T16:59:36.000Z",
+        "updatedAt": "2021-10-12T17:28:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kaginado": {
+        "identifier": "kaginado",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kaginado",
+        "url": "https://gogoanime.pe/category/kaginado",
+        "image": "https://gogocdn.net/cover/kaginado.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48775,
+        "aniId": 132528,
+        "createdAt": "2021-10-12T17:59:36.000Z",
+        "updatedAt": "2021-10-12T18:28:44.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

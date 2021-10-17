@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2%E9%A8%8E%E5%A3%AB"
+    }
+  ],
   "altTitle": [
     "Vampire Knight: Memories",
     "Vampire Kishi Special",
@@ -18,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:54.000Z",
-  "updatedAt": "2021-07-09T22:13:27.000Z",
+  "updatedAt": "2021-10-11T00:39:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,6 +89,28 @@
         "aniId": 88864,
         "createdAt": "2021-07-09T22:13:16.000Z",
         "updatedAt": "2021-07-09T22:43:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "vampire_knight_memories": {
+        "authors": [
+          "HINO Matsuri"
+        ],
+        "identifier": "vampire_knight_memories",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Vampire Knight Memories",
+        "url": "https://fanfox.net/manga/vampire_knight_memories/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20597/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59505,
+        "aniId": 88864,
+        "createdAt": "2021-10-11T00:39:07.000Z",
+        "updatedAt": "2021-10-11T01:07:53.000Z",
         "deletedAt": null
       }
     }

@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T08:50:05.000Z",
-  "updatedAt": "2021-06-21T14:53:15.000Z",
+  "updatedAt": "2021-10-12T17:29:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 114001,
         "createdAt": "2020-10-12T16:17:32.000Z",
         "updatedAt": "2021-06-09T08:07:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gn983422": {
+        "authors": [
+          "Daizu Kosame"
+        ],
+        "identifier": "manga-gn983422",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sexy In Pink",
+        "url": "https://manganato.com/manga-gn983422",
+        "image": "https://avt.mkklcdnv6temp.com/37/z/19-1583500568.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 114001,
+        "createdAt": "2021-10-12T17:29:22.000Z",
+        "updatedAt": "2021-10-12T17:29:22.000Z",
         "deletedAt": null
       }
     }

@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-20T16:46:06.000Z",
-  "updatedAt": "2021-09-04T04:45:46.000Z",
+  "updatedAt": "2021-10-14T12:58:57.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "8aca2d28-d11b-4f87-9a1d-a7e847533a22": {
+        "authors": [
+          "Shirakawa Miabi"
+        ],
+        "identifier": "8aca2d28-d11b-4f87-9a1d-a7e847533a22",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kisaragi-san has a Piercing Gaze",
+        "url": "https://mangadex.org/title/8aca2d28-d11b-4f87-9a1d-a7e847533a22",
+        "image": "https://uploads.mangadex.org/covers/8aca2d28-d11b-4f87-9a1d-a7e847533a22/18527558-265a-49af-ace6-53a4f4231bca.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 138123,
+        "createdAt": "2021-10-13T17:28:44.000Z",
+        "updatedAt": "2021-10-14T14:07:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

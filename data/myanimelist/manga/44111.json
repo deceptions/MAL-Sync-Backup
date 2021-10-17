@@ -1,6 +1,12 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%98%E3%82%81%E3%83%9E%E3%82%A4%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC"
+    }
+  ],
   "altTitle": [
+    "Hitorijime My Hero",
     "My Very Own Hero",
     "ひとりじめマイヒーロー"
   ],
@@ -11,11 +17,11 @@
   "type": "manga",
   "title": "Hitorijime My Hero",
   "url": "https://myanimelist.net/manga/44111/Hitorijime_My_Hero",
-  "image": "https://cdn.myanimelist.net/images/manga/1/181021.jpg",
+  "image": "https://cdn.myanimelist.net/images/manga/3/248370.jpg",
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:18.000Z",
-  "updatedAt": "2021-04-12T19:18:17.000Z",
+  "updatedAt": "2021-10-10T03:33:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +44,28 @@
         "aniId": 74111,
         "createdAt": "2020-10-12T16:10:03.000Z",
         "updatedAt": "2021-06-04T22:02:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vg972963": {
+        "authors": [
+          "Arii Memeko"
+        ],
+        "identifier": "manga-vg972963",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hitorijime My Hero",
+        "url": "https://manganato.com/manga-vg972963",
+        "image": "https://avt.mkklcdnv6temp.com/24/r/14-1583490622.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44111,
+        "aniId": 74111,
+        "createdAt": "2021-10-10T03:33:04.000Z",
+        "updatedAt": "2021-10-10T04:02:20.000Z",
         "deletedAt": null
       }
     }

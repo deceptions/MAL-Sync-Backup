@@ -12,7 +12,7 @@
     "Harumare"
   ],
   "id": 128851,
-  "malId": null,
+  "malId": 136203,
   "type": "manga",
   "title": "Yuujin-chara no Ore ga Motemakuru Wakenaidarou?",
   "url": "https://anilist.co/manga/128851",
@@ -20,7 +20,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-24T01:08:18.000Z",
-  "updatedAt": "2021-08-22T07:16:17.000Z",
+  "updatedAt": "2021-10-12T21:28:45.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaNato": {
@@ -37,11 +37,56 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
-        "malId": null,
+        "actor": 2,
+        "malId": 136203,
         "aniId": 128851,
         "createdAt": "2021-05-31T09:39:32.000Z",
-        "updatedAt": "2021-05-31T09:39:32.000Z",
+        "updatedAt": "2021-10-11T13:04:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "there_s_no_way_a_side_character_like_me_could_be_popular_right": {
+        "authors": [
+          "Sekaiichi"
+        ],
+        "identifier": "there_s_no_way_a_side_character_like_me_could_be_popular_right",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "There's No Way a Side Character Like Me Could Be Popular, Right?",
+        "url": "https://fanfox.net/manga/there_s_no_way_a_side_character_like_me_could_be_popular_right/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38590/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136203,
+        "aniId": 128851,
+        "createdAt": "2021-06-18T12:56:48.000Z",
+        "updatedAt": "2021-10-12T21:58:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "eb0d5b07-759d-4f68-b6ec-d5ac9c6bbb9c": {
+        "authors": [
+          "Sekaiichi ",
+          "Harumare"
+        ],
+        "identifier": "eb0d5b07-759d-4f68-b6ec-d5ac9c6bbb9c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "There's no way a side character like me could be popular, right?",
+        "url": "https://mangadex.org/title/eb0d5b07-759d-4f68-b6ec-d5ac9c6bbb9c",
+        "image": "https://uploads.mangadex.org/covers/eb0d5b07-759d-4f68-b6ec-d5ac9c6bbb9c/87360704-7697-4242-ad72-0434b1b3ab94.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136203,
+        "aniId": 128851,
+        "createdAt": "2021-10-13T15:58:55.000Z",
+        "updatedAt": "2021-10-13T15:58:55.000Z",
         "deletedAt": null
       }
     }

@@ -20,5 +20,29 @@
   "createdAt": "2021-10-06T07:02:17.000Z",
   "updatedAt": "2021-10-06T07:02:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "foreigner-on-the-periphery": {
+        "authors": [
+          "Huloseuteu",
+          "Tyang"
+        ],
+        "identifier": "foreigner-on-the-periphery",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Foreigner on the Periphery",
+        "url": "https://mangasee123.com/manga/Foreigner-on-the-Periphery",
+        "image": "https://cover.nep.li/cover/Foreigner-on-the-Periphery.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 140041,
+        "createdAt": "2021-10-14T17:59:09.000Z",
+        "updatedAt": "2021-10-14T17:59:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

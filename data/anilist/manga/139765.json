@@ -18,5 +18,28 @@
   "createdAt": "2021-09-30T02:36:20.000Z",
   "updatedAt": "2021-09-30T02:36:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "008c35fd-57fa-4ffa-812f-5cc07408770a": {
+        "authors": [
+          "Sasuga Kei"
+        ],
+        "identifier": "008c35fd-57fa-4ffa-812f-5cc07408770a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kanojo to Boku no Endroll",
+        "url": "https://mangadex.org/title/008c35fd-57fa-4ffa-812f-5cc07408770a",
+        "image": "https://uploads.mangadex.org/covers/008c35fd-57fa-4ffa-812f-5cc07408770a/f751cf17-c0d9-4464-88b1-39a8884352ec.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140549,
+        "aniId": 139765,
+        "createdAt": "2021-10-14T11:58:56.000Z",
+        "updatedAt": "2021-10-14T11:58:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

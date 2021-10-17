@@ -1,8 +1,15 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%A8%E5%90%9B%E3%81%AE%E5%A4%A7%E5%88%87%E3%81%AA%E8%A9%B1"
+    }
+  ],
   "altTitle": [
     "Our Precious Conversations",
-    "An Important Talk Between You and Me, The precious talk of me and you, Miracle☆Gift",
+    "An Important Talk Between You and Me",
+    "The precious talk of me and you",
+    "Miracle☆Gift",
     "僕と君の大切な話"
   ],
   "authors": [
@@ -16,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:08.000Z",
-  "updatedAt": "2021-05-28T17:54:06.000Z",
+  "updatedAt": "2021-10-14T00:59:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +65,50 @@
         "aniId": 86462,
         "createdAt": "2020-10-12T16:19:56.000Z",
         "updatedAt": "2021-06-07T22:59:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "boku-to-kimi-no-taisetsu-na-hanashi": {
+        "authors": [
+          "Robiko"
+        ],
+        "identifier": "boku-to-kimi-no-taisetsu-na-hanashi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Our Precious Conversations",
+        "url": "https://mangasee123.com/manga/Boku-To-Kimi-No-Taisetsu-Na-Hanashi",
+        "image": "https://cover.nep.li/cover/Boku-To-Kimi-No-Taisetsu-Na-Hanashi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 91767,
+        "aniId": 86462,
+        "createdAt": "2020-12-19T11:56:11.000Z",
+        "updatedAt": "2021-10-15T19:58:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ak959167": {
+        "authors": [
+          "Robiko"
+        ],
+        "identifier": "manga-ak959167",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Boku To Kimi No Taisetsu Na Hanashi",
+        "url": "https://manganato.com/manga-ak959167",
+        "image": "https://avt.mkklcdnv6temp.com/3/z/6-1583474249.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 91767,
+        "aniId": 86462,
+        "createdAt": "2021-05-28T17:54:07.000Z",
+        "updatedAt": "2021-10-14T08:28:46.000Z",
         "deletedAt": null
       }
     }

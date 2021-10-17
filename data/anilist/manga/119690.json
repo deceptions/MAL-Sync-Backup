@@ -10,7 +10,7 @@
     "Kogitsunemaru "
   ],
   "id": 119690,
-  "malId": null,
+  "malId": 140917,
   "type": "manga",
   "title": "Izure Saikyou no Renkinjutsushi?",
   "url": "https://anilist.co/manga/119690",
@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T20:12:57.000Z",
-  "updatedAt": "2021-10-07T17:03:32.000Z",
+  "updatedAt": "2021-10-16T05:58:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,11 +36,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
+        "actor": null,
         "malId": null,
         "aniId": 119690,
         "createdAt": "2020-10-12T16:19:49.000Z",
-        "updatedAt": "2021-07-27T14:52:29.000Z",
+        "updatedAt": "2021-10-15T04:58:45.000Z",
         "deletedAt": null
       }
     },
@@ -63,6 +63,52 @@
         "aniId": 119690,
         "createdAt": "2021-01-14T18:31:51.000Z",
         "updatedAt": "2021-08-06T18:21:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "someday-will-i-be-the-greatest-alchemist": {
+        "authors": [
+          "Kogitsunemaru",
+          "SASAKAMA Tarou"
+        ],
+        "identifier": "someday-will-i-be-the-greatest-alchemist",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Someday Will I Be the Greatest Alchemist?",
+        "url": "https://mangasee123.com/manga/Someday-Will-I-Be-the-Greatest-Alchemist",
+        "image": "https://cover.nep.li/cover/Someday-Will-I-Be-the-Greatest-Alchemist.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 140917,
+        "aniId": 119690,
+        "createdAt": "2021-01-28T18:52:29.000Z",
+        "updatedAt": "2021-10-16T14:28:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jp987072": {
+        "authors": [
+          "Maru Kogitsune",
+          "Taro Sasakama"
+        ],
+        "identifier": "manga-jp987072",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Someday Will I Be The Greatest Alchemist?",
+        "url": "https://manganato.com/manga-jp987072",
+        "image": "https://avt.mkklcdnv6temp.com/32/q/22-1603780885.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 140917,
+        "aniId": 119690,
+        "createdAt": "2021-05-30T12:12:44.000Z",
+        "updatedAt": "2021-10-16T06:28:45.000Z",
         "deletedAt": null
       }
     }

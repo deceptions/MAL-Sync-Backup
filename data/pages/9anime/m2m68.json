@@ -8,13 +8,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 49448,
+  "aniId": 136862,
   "createdAt": "2021-07-17T02:33:17.000Z",
-  "updatedAt": "2021-07-17T14:29:52.000Z",
+  "updatedAt": "2021-10-15T08:58:44.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://baike.baidu.com/item/%E9%80%86%E5%A4%A9%E8%87%B3%E5%B0%8A/56028403"
+      }
+    ],
+    "altTitle": [
+      "Against The Sky Supreme",
+      "N.T.Z.Z",
+      "逆天至尊"
+    ],
+    "id": 49448,
+    "type": "anime",
+    "title": "Ni Tian Zhizun",
+    "url": "https://myanimelist.net/anime/49448/Ni_Tian_Zhizun",
+    "image": "https://cdn.myanimelist.net/images/anime/1557/117031.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "anidbId": null,
+    "createdAt": "2021-08-14T08:07:01.000Z",
+    "updatedAt": "2021-10-04T12:31:03.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "逆天至尊",
+      "Against the Sky Supreme",
+      "Guards against the sky"
+    ],
+    "externalLinks": [],
+    "id": 136862,
+    "malId": 49448,
+    "type": "anime",
+    "title": "Ni Tian Zhizun",
+    "url": "https://anilist.co/anime/136862",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136862-s2HpY8Lg8qTS.jpg",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-07-19T19:48:34.000Z",
+    "updatedAt": "2021-10-02T22:30:52.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/49448/Ni_Tian_Zhizun"
 }

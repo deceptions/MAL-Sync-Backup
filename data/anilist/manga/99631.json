@@ -86,6 +86,29 @@
         "updatedAt": "2021-07-01T08:20:03.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "crueler_than_dead": {
+        "authors": [
+          "KOZO Takahashi",
+          "TUKASA Saimura"
+        ],
+        "identifier": "crueler_than_dead",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Crueler Than Dead",
+        "url": "https://fanfox.net/manga/crueler_than_dead/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11229/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88131,
+        "aniId": 99631,
+        "createdAt": "2021-10-11T09:37:57.000Z",
+        "updatedAt": "2021-10-11T10:07:53.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

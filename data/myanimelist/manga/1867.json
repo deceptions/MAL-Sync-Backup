@@ -1,8 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/0_no_Soukoushi"
+    }
+  ],
   "altTitle": [
     "Parfum Extrait 0",
-    "Perfume Master, Zero no Soukoushi",
+    "Perfume Master",
+    "Zero no Soukoushi",
     "0の奏香師"
   ],
   "authors": [
@@ -16,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:38.000Z",
-  "updatedAt": "2021-04-27T06:50:30.000Z",
+  "updatedAt": "2021-10-14T08:29:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +44,28 @@
         "aniId": 31867,
         "createdAt": "2020-10-12T16:03:12.000Z",
         "updatedAt": "2021-06-02T12:21:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ph960716": {
+        "authors": [
+          "Yuki Kaori"
+        ],
+        "identifier": "manga-ph960716",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "0 No Soukoushi",
+        "url": "https://manganato.com/manga-ph960716",
+        "image": "https://avt.mkklcdnv6temp.com/12/b/7-1583476739.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1867,
+        "aniId": 31867,
+        "createdAt": "2021-10-14T08:29:06.000Z",
+        "updatedAt": "2021-10-14T08:58:45.000Z",
         "deletedAt": null
       }
     }

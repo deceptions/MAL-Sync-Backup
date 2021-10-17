@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "티아라"
   ],
@@ -15,7 +15,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:09.000Z",
-  "updatedAt": "2021-05-02T00:32:21.000Z",
+  "updatedAt": "2021-10-11T00:39:24.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 44997,
         "createdAt": "2020-10-12T16:03:24.000Z",
         "updatedAt": "2021-06-02T13:43:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tiara": {
+        "authors": [
+          "LEE Yun Hee"
+        ],
+        "identifier": "tiara",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tiara",
+        "url": "https://fanfox.net/manga/tiara/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6286/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14997,
+        "aniId": 44997,
+        "createdAt": "2021-10-11T00:39:16.000Z",
+        "updatedAt": "2021-10-11T01:07:53.000Z",
         "deletedAt": null
       }
     }

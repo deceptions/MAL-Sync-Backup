@@ -19,5 +19,29 @@
   "createdAt": "2021-09-14T03:34:41.000Z",
   "updatedAt": "2021-10-09T04:32:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mo989471": {
+        "authors": [
+          "China Literature",
+          "Wine Pool Inebriation"
+        ],
+        "identifier": "manga-mo989471",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Monster Pet Evolution",
+        "url": "https://manganato.com/manga-mo989471",
+        "image": "https://avt.mkklcdnv6temp.com/32/q/24-1628487448.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 139195,
+        "createdAt": "2021-08-09T07:39:20.000Z",
+        "updatedAt": "2021-10-11T13:05:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

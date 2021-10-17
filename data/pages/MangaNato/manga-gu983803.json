@@ -12,13 +12,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 138924,
+  "aniId": 137901,
   "createdAt": "2021-06-11T12:08:31.000Z",
-  "updatedAt": "2021-06-11T12:08:31.000Z",
+  "updatedAt": "2021-10-10T14:39:06.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": null,
+    "altTitle": [
+      "ゆるふわ農家の文字化けスキル　～異世界でカタログ通販やってます～"
+    ],
+    "authors": [
+      "Kimura, Neito",
+      "Shiraishi, Arata"
+    ],
+    "id": 138924,
+    "type": "manga",
+    "title": "Yurufuwa Nouka no Mojibake Skill: Isekai de Catalog Tsuuhan Yattemasu",
+    "url": "https://myanimelist.net/manga/138924/Yurufuwa_Nouka_no_Mojibake_Skill__Isekai_de_Catalog_Tsuuhan_Yattemasu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/248429.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-09-15T02:51:14.000Z",
+    "updatedAt": "2021-09-15T02:51:14.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ゆるふわ農家の文字化けスキル ~異世界でカタログ通販やってます~"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Arata Shiraishi",
+      "Irone Momo",
+      "Tsuna Ayatsuki"
+    ],
+    "id": 137901,
+    "malId": 138924,
+    "type": "manga",
+    "title": "Yurufuwa Nouka no Mojibake Skill: Isekai de Catalog Tsuuhan Yattemasu",
+    "url": "https://anilist.co/manga/137901",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137901-mpxlqJP9Hoya.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-15T06:37:00.000Z",
+    "updatedAt": "2021-10-10T01:32:41.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/138924/Yurufuwa_Nouka_no_Mojibake_Skill__Isekai_de_Catalog_Tsuuhan_Yattemasu"
 }

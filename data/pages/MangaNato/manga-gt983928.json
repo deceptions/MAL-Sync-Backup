@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 116229,
   "createdAt": "2021-06-23T12:14:52.000Z",
-  "updatedAt": "2021-06-23T12:14:54.000Z",
+  "updatedAt": "2021-10-12T15:01:34.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "What Love Looks Like: Heart Wants What It Wants",
+      "爱情的样子：心之所向",
+      "The Innocent Heart of a Child",
+      "The Heart Has Its Reasons"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Lubian Zhang San"
+    ],
+    "id": 116229,
+    "malId": null,
+    "type": "manga",
+    "title": "Aiqing De Yangzi: Xin Zhi Suo Xiang",
+    "url": "https://anilist.co/manga/116229",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b116229-5e3EmOXDIZo5.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-01T17:01:16.000Z",
+    "updatedAt": "2021-10-12T15:00:55.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

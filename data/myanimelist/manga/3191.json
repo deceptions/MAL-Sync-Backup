@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jmanga.com/love-my-life/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Love_My_Life"
+    }
+  ],
   "altTitle": [
     "ラブ　マイ　ライフ"
   ],
@@ -14,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:48.000Z",
-  "updatedAt": "2021-04-28T00:20:31.000Z",
+  "updatedAt": "2021-10-10T18:39:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +45,28 @@
         "aniId": 33191,
         "createdAt": "2020-10-12T16:02:57.000Z",
         "updatedAt": "2021-06-02T10:38:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "love_my_life": {
+        "authors": [
+          "YAMAJI Ebine"
+        ],
+        "identifier": "love_my_life",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Love My Life",
+        "url": "https://fanfox.net/manga/love_my_life/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2297/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3191,
+        "aniId": 33191,
+        "createdAt": "2021-10-10T18:38:56.000Z",
+        "updatedAt": "2021-10-10T19:07:52.000Z",
         "deletedAt": null
       }
     }

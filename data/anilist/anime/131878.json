@@ -21,5 +21,44 @@
   "createdAt": "2021-05-23T14:12:58.000Z",
   "updatedAt": "2021-10-06T09:02:18.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "gyakuten-sekai-no-denchi-shoujo": {
+        "identifier": "gyakuten-sekai-no-denchi-shoujo",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gyakuten Sekai no Denchi Shoujo",
+        "url": "https://gogoanime.pe/category/gyakuten-sekai-no-denchi-shoujo",
+        "image": "https://gogocdn.net/cover/gyakuten-sekai-no-denchi-shoujo.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48644,
+        "aniId": 131878,
+        "createdAt": "2021-10-11T21:09:34.000Z",
+        "updatedAt": "2021-10-11T21:37:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "9olzm": {
+        "identifier": "9olzm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Gyakuten Sekai no Denchi Shoujo",
+        "url": "https://9anime.to/watch/rumble-garanndoll.9olzm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/d2/d238df2d48263f05772cdc1cb0f528f1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48644,
+        "aniId": 131878,
+        "createdAt": "2021-10-12T11:46:26.000Z",
+        "updatedAt": "2021-10-12T12:14:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

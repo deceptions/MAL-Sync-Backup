@@ -21,7 +21,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-11T12:08:19.000Z",
-  "updatedAt": "2021-08-14T11:07:02.000Z",
+  "updatedAt": "2021-10-10T06:34:11.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaNato": {
@@ -44,6 +44,29 @@
         "aniId": 135404,
         "createdAt": "2021-06-05T18:18:58.000Z",
         "updatedAt": "2021-07-19T18:48:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "why_she_lives_as_a_villainess": {
+        "authors": [
+          "YUWN",
+          "[Add]"
+        ],
+        "identifier": "why_she_lives_as_a_villainess",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Why She Lives as a Villainess",
+        "url": "https://fanfox.net/manga/why_she_lives_as_a_villainess/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38479/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 135404,
+        "createdAt": "2021-10-16T02:59:05.000Z",
+        "updatedAt": "2021-10-16T02:59:05.000Z",
         "deletedAt": null
       }
     }

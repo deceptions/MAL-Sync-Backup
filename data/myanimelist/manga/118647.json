@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://web-ace.jp/youngaceup/contents/1000084/"
+    }
+  ],
   "altTitle": [
     "異世界落語"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:53.000Z",
-  "updatedAt": "2021-05-23T15:38:51.000Z",
+  "updatedAt": "2021-10-10T12:33:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,29 @@
         "aniId": 125028,
         "createdAt": "2020-10-12T16:13:34.000Z",
         "updatedAt": "2021-06-06T00:23:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cp979424": {
+        "authors": [
+          "Shingo Sujaku",
+          "Gottbo × Ryuji"
+        ],
+        "identifier": "manga-cp979424",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Isekai Rakugo",
+        "url": "https://manganato.com/manga-cp979424",
+        "image": "https://avt.mkklcdnv6temp.com/40/y/16-1583494934.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118647,
+        "aniId": 125028,
+        "createdAt": "2021-10-10T12:33:18.000Z",
+        "updatedAt": "2021-10-10T13:02:22.000Z",
         "deletedAt": null
       }
     }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8F%E3%82%89DISCORD"
+    }
+  ],
   "altTitle": [
     "さくらDISCORD"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:43.000Z",
-  "updatedAt": "2021-07-12T00:45:03.000Z",
+  "updatedAt": "2021-10-15T08:59:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +85,28 @@
         "aniId": 86772,
         "createdAt": "2021-01-15T20:01:50.000Z",
         "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ll951368": {
+        "authors": [
+          "Masuda Eiji"
+        ],
+        "identifier": "manga-ll951368",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sakura Discord",
+        "url": "https://manganato.com/manga-ll951368",
+        "image": "https://avt.mkklcdnv6temp.com/2/j/1-1583463756.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85793,
+        "aniId": 86772,
+        "createdAt": "2021-10-15T08:58:45.000Z",
+        "updatedAt": "2021-10-15T09:28:45.000Z",
         "deletedAt": null
       }
     }

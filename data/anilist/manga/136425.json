@@ -15,7 +15,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-07T03:59:52.000Z",
-  "updatedAt": "2021-08-30T07:36:35.000Z",
+  "updatedAt": "2021-10-10T03:32:43.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "ad5e875e-abaa-4fa3-ab75-b93a172ed35c": {
+        "authors": [
+          "Chigusa Minori"
+        ],
+        "identifier": "ad5e875e-abaa-4fa3-ab75-b93a172ed35c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kokoro Irozuku Koi ga shitai",
+        "url": "https://mangadex.org/title/ad5e875e-abaa-4fa3-ab75-b93a172ed35c",
+        "image": "https://uploads.mangadex.org/covers/ad5e875e-abaa-4fa3-ab75-b93a172ed35c/555319c6-d1e6-498c-a4b1-f3d16656edab.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139988,
+        "aniId": 136425,
+        "createdAt": "2021-10-12T11:47:51.000Z",
+        "updatedAt": "2021-10-12T11:47:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

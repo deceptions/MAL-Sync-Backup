@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-02T09:44:22.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "sugar_family": {
+        "authors": [
+          "HAGIO Akira"
+        ],
+        "identifier": "sugar_family",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sugar Family",
+        "url": "https://fanfox.net/manga/sugar_family/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/854/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4805,
+        "aniId": 34805,
+        "createdAt": "2021-10-10T04:32:24.000Z",
+        "updatedAt": "2021-10-10T05:02:20.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

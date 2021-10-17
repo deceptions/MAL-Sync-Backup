@@ -88,6 +88,28 @@
         "updatedAt": "2021-07-21T01:03:47.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kingdom_hearts_iii": {
+        "authors": [
+          "NOMURA Tetsuya"
+        ],
+        "identifier": "kingdom_hearts_iii",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kingdom Hearts III",
+        "url": "https://fanfox.net/manga/kingdom_hearts_iii/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32353/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119663,
+        "aniId": 111962,
+        "createdAt": "2021-10-14T23:59:49.000Z",
+        "updatedAt": "2021-10-15T00:28:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

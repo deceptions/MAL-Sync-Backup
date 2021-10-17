@@ -18,5 +18,28 @@
   "createdAt": "2021-07-07T20:12:48.000Z",
   "updatedAt": "2021-09-10T19:34:34.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "d6643b6b-5a2e-4f94-8f30-13d4f5e4299a": {
+        "authors": [
+          "Urano Ritsu"
+        ],
+        "identifier": "d6643b6b-5a2e-4f94-8f30-13d4f5e4299a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hiiragi-san is A Little Careless",
+        "url": "https://mangadex.org/title/d6643b6b-5a2e-4f94-8f30-13d4f5e4299a",
+        "image": "https://uploads.mangadex.org/covers/d6643b6b-5a2e-4f94-8f30-13d4f5e4299a/82c7af06-dcdf-4e3f-abb7-bba9929d84a4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 138563,
+        "aniId": 136026,
+        "createdAt": "2021-10-12T11:46:34.000Z",
+        "updatedAt": "2021-10-12T12:14:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

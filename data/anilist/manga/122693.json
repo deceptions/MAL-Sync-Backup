@@ -17,5 +17,28 @@
   "createdAt": "2021-05-22T00:12:58.000Z",
   "updatedAt": "2021-09-13T10:34:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "b16f2554-9525-4f2a-bbe4-5b75b6605176": {
+        "authors": [
+          "Iwahara Yuji"
+        ],
+        "identifier": "b16f2554-9525-4f2a-bbe4-5b75b6605176",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Clevatess - Maju no O to Akago to Kabane no Yusha",
+        "url": "https://mangadex.org/title/b16f2554-9525-4f2a-bbe4-5b75b6605176",
+        "image": "https://uploads.mangadex.org/covers/b16f2554-9525-4f2a-bbe4-5b75b6605176/b899a2a9-5b9d-4933-84dc-d4e4c96c8dcb.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 122693,
+        "createdAt": "2021-10-12T11:46:28.000Z",
+        "updatedAt": "2021-10-12T11:46:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }
