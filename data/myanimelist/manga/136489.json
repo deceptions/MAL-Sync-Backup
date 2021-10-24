@@ -18,5 +18,28 @@
   "createdAt": "2021-10-10T11:33:53.000Z",
   "updatedAt": "2021-10-10T11:33:53.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "1409de42-374a-4ff5-8a2f-0a7041f48ed5": {
+        "authors": [
+          "Tomi Akihito"
+        ],
+        "identifier": "1409de42-374a-4ff5-8a2f-0a7041f48ed5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sinner of the Azure Abyss",
+        "url": "https://mangadex.org/title/1409de42-374a-4ff5-8a2f-0a7041f48ed5",
+        "image": "https://uploads.mangadex.org/covers/1409de42-374a-4ff5-8a2f-0a7041f48ed5/d893917e-d435-424f-a900-834c683ca3ee.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136489,
+        "aniId": 132400,
+        "createdAt": "2021-10-23T22:59:18.000Z",
+        "updatedAt": "2021-10-23T23:28:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%A4%A7%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%AC%E3%83%BC%E3%83%AB"
+    }
+  ],
   "altTitle": [
     "大日本サムライガール"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:13.000Z",
-  "updatedAt": "2021-06-04T13:22:28.000Z",
+  "updatedAt": "2021-10-17T17:59:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,28 @@
         "aniId": 90781,
         "createdAt": "2020-10-12T16:08:50.000Z",
         "updatedAt": "2021-06-04T13:25:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cc954185": {
+        "authors": [
+          "Shidou Ryuusei"
+        ],
+        "identifier": "manga-cc954185",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dainippon Samurai Girl",
+        "url": "https://manganato.com/manga-cc954185",
+        "image": "https://avt.mkklcdnv6temp.com/49/q/2-1583467612.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68099,
+        "aniId": 90781,
+        "createdAt": "2021-10-17T17:58:55.000Z",
+        "updatedAt": "2021-10-17T18:28:45.000Z",
         "deletedAt": null
       }
     }

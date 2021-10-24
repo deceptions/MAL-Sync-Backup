@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%82%AB%E3%83%BC%E3%83%8E!"
+    }
+  ],
   "altTitle": [
     "バッカーノ! 1931 The Grand Punk Railroad"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:30.000Z",
-  "updatedAt": "2021-05-01T00:34:22.000Z",
+  "updatedAt": "2021-10-17T14:29:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,28 @@
         "aniId": 40814,
         "createdAt": "2020-10-12T16:03:49.000Z",
         "updatedAt": "2021-06-02T16:45:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "baccano_1931_the_grand_punk_railroad": {
+        "authors": [
+          "NARITA Ryohgo"
+        ],
+        "identifier": "baccano_1931_the_grand_punk_railroad",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Baccano! 1931 The Grand Punk Railroad",
+        "url": "https://fanfox.net/manga/baccano_1931_the_grand_punk_railroad/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4880/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10814,
+        "aniId": 40814,
+        "createdAt": "2021-10-17T14:29:08.000Z",
+        "updatedAt": "2021-10-17T14:58:45.000Z",
         "deletedAt": null
       }
     }

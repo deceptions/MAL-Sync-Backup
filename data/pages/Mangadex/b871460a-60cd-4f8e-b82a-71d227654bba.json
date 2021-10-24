@@ -11,11 +11,11 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": 2,
   "malId": 140835,
-  "aniId": null,
+  "aniId": 137166,
   "createdAt": "2021-10-12T11:45:07.000Z",
-  "updatedAt": "2021-10-12T11:47:28.000Z",
+  "updatedAt": "2021-10-18T15:36:32.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -46,6 +46,26 @@
     "updatedAt": "2021-10-12T11:45:58.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "嘘喰い―立会人 夜行妃古壱―",
+      "Usogui: Referee Yakou Hikoichi"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Toshio Sako"
+    ],
+    "id": 137166,
+    "malId": null,
+    "type": "manga",
+    "title": "Usogui: Rikkainin Yakou Hikoichi",
+    "url": "https://anilist.co/manga/137166",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137166-dOVvOZN6gOQX.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-29T10:21:40.000Z",
+    "updatedAt": "2021-10-12T21:28:45.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/140835/Usogui__Tachiainin_Yakou_Hikoichi"
 }

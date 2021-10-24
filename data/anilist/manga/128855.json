@@ -17,5 +17,28 @@
   "createdAt": "2021-09-02T11:15:46.000Z",
   "updatedAt": "2021-09-02T11:15:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "58adad3f-1770-4fbb-8645-935ef830a8db": {
+        "authors": [
+          "Tomekichi"
+        ],
+        "identifier": "58adad3f-1770-4fbb-8645-935ef830a8db",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Reincarne",
+        "url": "https://mangadex.org/title/58adad3f-1770-4fbb-8645-935ef830a8db",
+        "image": "https://uploads.mangadex.org/covers/58adad3f-1770-4fbb-8645-935ef830a8db/9fc64a70-8273-4d20-9cde-d9674449dc1e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 128855,
+        "createdAt": "2021-10-19T23:28:57.000Z",
+        "updatedAt": "2021-10-19T23:28:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

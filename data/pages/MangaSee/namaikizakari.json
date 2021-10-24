@@ -11,13 +11,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 67645,
+  "aniId": 85395,
   "createdAt": "2021-01-17T20:03:47.000Z",
-  "updatedAt": "2021-07-17T20:32:42.000Z",
+  "updatedAt": "2021-10-18T15:58:45.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.hanayume.com/hanayume/namaiki/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%BE%E3%81%84%E3%81%8D%E3%81%96%E3%81%8B%E3%82%8A%E3%80%82"
+      }
+    ],
+    "altTitle": [
+      "Cheeky Brat",
+      "なまいきざかり。"
+    ],
+    "authors": [
+      "Miyuki, Mitsubachi"
+    ],
+    "id": 67645,
+    "type": "manga",
+    "title": "Namaikizakari.",
+    "url": "https://myanimelist.net/manga/67645/Namaikizakari",
+    "image": "https://cdn.myanimelist.net/images/manga/1/128825.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:45:13.000Z",
+    "updatedAt": "2021-09-30T09:59:16.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Cheeky Brat",
+      "なまいきざかり。",
+      "His Cheekiness is in Full Bloom."
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mitsubachi Miyuki"
+    ],
+    "id": 85395,
+    "malId": 67645,
+    "type": "manga",
+    "title": "Namaikizakari.",
+    "url": "https://anilist.co/manga/85395",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85395-5FR6of9F1cTU.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:51:00.000Z",
+    "updatedAt": "2021-09-04T18:45:46.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/67645/Namaikizakari"
 }

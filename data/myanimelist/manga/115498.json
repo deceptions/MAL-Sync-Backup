@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic-walker.com/contents/detail/KDCW_MF00000059010000_68/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F_-_%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99_-"
+    }
+  ],
   "altTitle": [
     "Mushoku Tensei: Roxy Gets Serious",
     "無職転生～ロキシーだって本気です～"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:38.000Z",
-  "updatedAt": "2021-06-01T15:40:00.000Z",
+  "updatedAt": "2021-10-19T14:59:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +47,28 @@
         "aniId": 104724,
         "createdAt": "2020-10-12T16:12:49.000Z",
         "updatedAt": "2021-06-05T16:35:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mushoku_tensei_roxy_is_serious": {
+        "authors": [
+          "Rifujin na Magonote"
+        ],
+        "identifier": "mushoku_tensei_roxy_is_serious",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mushoku Tensei - Roxy is Serious",
+        "url": "https://fanfox.net/manga/mushoku_tensei_roxy_is_serious/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28048/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 115498,
+        "aniId": 104724,
+        "createdAt": "2020-12-20T19:58:31.000Z",
+        "updatedAt": "2021-10-19T17:28:52.000Z",
         "deletedAt": null
       }
     },

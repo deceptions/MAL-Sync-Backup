@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.dccomics.com/cmx/?action=on_sale&i=7190"
+    }
+  ],
   "altTitle": [
     "Apothecarius Argentum",
     "薬師アルジャン"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:23.000Z",
-  "updatedAt": "2021-04-26T07:28:21.000Z",
+  "updatedAt": "2021-10-23T14:59:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 30537,
         "createdAt": "2020-10-12T16:04:08.000Z",
         "updatedAt": "2021-06-02T19:01:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mf960388": {
+        "authors": [
+          "Yamashita Tomomi"
+        ],
+        "identifier": "manga-mf960388",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Apothecarius Argentum",
+        "url": "https://manganato.com/manga-mf960388",
+        "image": "https://avt.mkklcdnv6temp.com/49/q/6-1583476256.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 537,
+        "aniId": 30537,
+        "createdAt": "2021-10-23T14:59:27.000Z",
+        "updatedAt": "2021-10-23T15:28:24.000Z",
         "deletedAt": null
       }
     }

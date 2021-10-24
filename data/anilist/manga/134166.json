@@ -19,5 +19,29 @@
   "createdAt": "2021-06-05T11:48:57.000Z",
   "updatedAt": "2021-06-18T12:31:30.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "63fb6354-0ace-4f74-b8b8-af1be314f245": {
+        "authors": [
+          "Amano Seiju (天乃聖樹)",
+          "Narumi Nanami (成海七海)"
+        ],
+        "identifier": "63fb6354-0ace-4f74-b8b8-af1be314f245",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I’m getting married to a girl I hate in my class",
+        "url": "https://mangadex.org/title/63fb6354-0ace-4f74-b8b8-af1be314f245",
+        "image": "https://uploads.mangadex.org/covers/63fb6354-0ace-4f74-b8b8-af1be314f245/07bf5173-a1b0-4c2f-ba35-18a933520f46.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 137004,
+        "aniId": 134166,
+        "createdAt": "2021-10-18T10:29:44.000Z",
+        "updatedAt": "2021-10-23T16:10:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

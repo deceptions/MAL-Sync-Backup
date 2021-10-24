@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/星方武侠アウトロースター"
+    }
+  ],
   "altTitle": [
     "Seihou Bukyou Outlaw Star",
     "アウトロースター"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:14.000Z",
-  "updatedAt": "2021-04-29T23:21:07.000Z",
+  "updatedAt": "2021-10-22T16:59:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 37438,
         "createdAt": "2020-10-12T16:05:26.000Z",
         "updatedAt": "2021-06-03T12:34:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ti970565": {
+        "authors": [
+          "Ito Takehiko"
+        ],
+        "identifier": "manga-ti970565",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Outlaw Star",
+        "url": "https://manganato.com/manga-ti970565",
+        "image": "https://avt.mkklcdnv6temp.com/29/z/13-1583488812.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7438,
+        "aniId": 37438,
+        "createdAt": "2021-10-22T16:59:35.000Z",
+        "updatedAt": "2021-10-22T17:28:24.000Z",
         "deletedAt": null
       }
     }

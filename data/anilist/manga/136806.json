@@ -19,5 +19,28 @@
   "createdAt": "2021-07-18T15:02:23.000Z",
   "updatedAt": "2021-10-09T14:33:05.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mm989769": {
+        "authors": [
+          "Sakuragi Ren"
+        ],
+        "identifier": "manga-mm989769",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Aquatope On White Sand",
+        "url": "https://manganato.com/manga-mm989769",
+        "image": "https://avt.mkklcdnv6temp.com/45/t/24-1633792566.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 136806,
+        "createdAt": "2021-10-21T14:12:41.000Z",
+        "updatedAt": "2021-10-21T14:12:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

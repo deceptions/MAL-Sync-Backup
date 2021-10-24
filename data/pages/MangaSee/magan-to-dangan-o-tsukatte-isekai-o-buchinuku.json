@@ -17,10 +17,15 @@
   "malId": 123425,
   "aniId": 108675,
   "createdAt": "2020-12-29T20:30:05.000Z",
-  "updatedAt": "2021-05-20T15:25:53.000Z",
+  "updatedAt": "2021-10-23T11:58:30.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://hobbyjapan.co.jp/comic/series/madan/"
+      }
+    ],
     "altTitle": [
       "Break Through in Another World With Magical Eyes and Bullets!",
       "魔眼と弾丸を使って異世界をぶち抜く!"
@@ -37,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:48:11.000Z",
-    "updatedAt": "2021-06-01T15:44:12.000Z",
+    "updatedAt": "2021-10-23T11:58:31.000Z",
     "deletedAt": null
   },
   "Anilist": {

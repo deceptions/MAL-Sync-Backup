@@ -17,5 +17,28 @@
   "createdAt": "2021-10-09T17:02:31.000Z",
   "updatedAt": "2021-10-09T17:02:31.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "caa197bb-990e-4f59-bc6f-f20e42015d01": {
+        "authors": [
+          "Mikipon"
+        ],
+        "identifier": "caa197bb-990e-4f59-bc6f-f20e42015d01",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gotou-san wants me to turn around",
+        "url": "https://mangadex.org/title/caa197bb-990e-4f59-bc6f-f20e42015d01",
+        "image": "https://uploads.mangadex.org/covers/caa197bb-990e-4f59-bc6f-f20e42015d01/509341ef-d085-4c44-aab2-cf583678e5e5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139456,
+        "aniId": 135804,
+        "createdAt": "2021-10-18T08:59:57.000Z",
+        "updatedAt": "2021-10-18T09:28:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

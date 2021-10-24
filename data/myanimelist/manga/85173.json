@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%94%E3%83%8D%E3%82%B9_(%E6%8A%BC%E8%A6%8B%E4%BF%AE%E9%80%A0%E3%81%AE%E6%BC%AB%E7%94%BB)"
+    }
+  ],
   "altTitle": [
     "Happiness",
     "ハピネス"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:43.000Z",
-  "updatedAt": "2021-06-19T08:50:52.000Z",
+  "updatedAt": "2021-10-23T17:58:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 86136,
         "createdAt": "2020-12-30T10:25:38.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fk952193": {
+        "authors": [
+          "Oshimi Shuzo"
+        ],
+        "identifier": "manga-fk952193",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Happiness (Oshimi Shuzo)",
+        "url": "https://manganato.com/manga-fk952193",
+        "image": "https://avt.mkklcdnv6temp.com/31/b/1-1583464917.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 85173,
+        "aniId": 86136,
+        "createdAt": "2021-05-28T18:53:43.000Z",
+        "updatedAt": "2021-10-23T18:58:24.000Z",
         "deletedAt": null
       }
     },

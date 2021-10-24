@@ -1,7 +1,15 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%80%9D%E6%98%A5%E6%9C%9F%E6%9C%AA%E6%BA%80%E3%81%8A%E6%96%AD%E3%82%8A"
+    }
+  ],
   "altTitle": [
-    "Forbidden to Pre-Adolescents, No Pre-teens Allowed, The Affairs of a Young Girl, Otome no Jijou",
+    "Forbidden to Pre-Adolescents",
+    "No Pre-teens Allowed",
+    "The Affairs of a Young Girl",
+    "Otome no Jijou",
     "思春期未満お断り"
   ],
   "authors": [
@@ -15,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:19.000Z",
-  "updatedAt": "2021-04-26T00:58:17.000Z",
+  "updatedAt": "2021-10-22T07:17:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +45,28 @@
         "aniId": 30184,
         "createdAt": "2020-10-12T16:04:10.000Z",
         "updatedAt": "2021-06-02T19:11:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tz958482": {
+        "authors": [
+          "Watase Yuu"
+        ],
+        "identifier": "manga-tz958482",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shinshunki Miman Okotowari",
+        "url": "https://manganato.com/manga-tz958482",
+        "image": "https://avt.mkklcdnv6temp.com/27/u/5-1583472935.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 184,
+        "aniId": 30184,
+        "createdAt": "2021-10-22T07:17:31.000Z",
+        "updatedAt": "2021-10-22T07:47:20.000Z",
         "deletedAt": null
       }
     }

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://ganma.jp/kiminaki"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9B%9C%E6%97%A5%E3%81%AF%E5%90%9B%E3%81%A8%E6%B3%A3%E3%81%8D%E3%81%9F%E3%81%84%E3%80%82"
+    }
+  ],
   "altTitle": [
     "I Want To Cry With You On Thursday.",
     "木曜日は君と泣きたい。"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:04.000Z",
-  "updatedAt": "2021-07-02T12:04:28.000Z",
+  "updatedAt": "2021-10-18T20:59:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +90,28 @@
         "aniId": 108351,
         "createdAt": "2021-07-02T12:04:17.000Z",
         "updatedAt": "2021-07-02T12:33:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mokuyoubi_wa_kimi_to_nakitai": {
+        "authors": [
+          "KUDOU Makoto"
+        ],
+        "identifier": "mokuyoubi_wa_kimi_to_nakitai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mokuyoubi wa Kimi to Nakitai.",
+        "url": "https://fanfox.net/manga/mokuyoubi_wa_kimi_to_nakitai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30045/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120557,
+        "aniId": 108351,
+        "createdAt": "2021-10-18T20:59:14.000Z",
+        "updatedAt": "2021-10-18T21:28:52.000Z",
         "deletedAt": null
       }
     }

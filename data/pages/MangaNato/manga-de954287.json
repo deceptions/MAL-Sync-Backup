@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 23267,
-  "aniId": null,
+  "aniId": 53267,
   "createdAt": "2021-05-31T09:40:23.000Z",
-  "updatedAt": "2021-05-31T09:40:23.000Z",
+  "updatedAt": "2021-10-23T00:28:24.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -36,6 +36,26 @@
     "updatedAt": "2021-05-31T09:40:23.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Moon Trick",
+      "MOON・TRICK"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shuu Morimoto"
+    ],
+    "id": 53267,
+    "malId": 23267,
+    "type": "manga",
+    "title": "Moon Trick",
+    "url": "https://anilist.co/manga/53267",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/23267.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-22T23:58:35.000Z",
+    "updatedAt": "2021-10-22T23:58:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/23267/Moon_Trick"
 }

@@ -17,5 +17,28 @@
   "createdAt": "2021-10-02T00:31:22.000Z",
   "updatedAt": "2021-10-02T00:31:22.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a4c0c579-f0a6-4ff7-bc2e-1c0d3f614d03": {
+        "authors": [
+          "Mito Shinji"
+        ],
+        "identifier": "a4c0c579-f0a6-4ff7-bc2e-1c0d3f614d03",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": " To a New You",
+        "url": "https://mangadex.org/title/a4c0c579-f0a6-4ff7-bc2e-1c0d3f614d03",
+        "image": "https://uploads.mangadex.org/covers/a4c0c579-f0a6-4ff7-bc2e-1c0d3f614d03/29508b0a-b2c0-4e24-b9ac-e77534db337d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140551,
+        "aniId": 139411,
+        "createdAt": "2021-10-22T14:29:28.000Z",
+        "updatedAt": "2021-10-22T14:58:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

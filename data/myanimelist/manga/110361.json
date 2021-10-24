@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.pixiv.net/works/3651"
+    }
+  ],
   "altTitle": [
     "こじ恋"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:19.000Z",
-  "updatedAt": "2021-06-05T05:19:29.000Z",
+  "updatedAt": "2021-10-21T20:47:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,29 @@
         "aniId": 121771,
         "createdAt": "2020-10-12T16:10:59.000Z",
         "updatedAt": "2021-06-05T08:45:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ik986293": {
+        "authors": [
+          "Tagura Tohru",
+          "Izawa Meguru"
+        ],
+        "identifier": "manga-ik986293",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Koji Koi",
+        "url": "https://manganato.com/manga-ik986293",
+        "image": "https://avt.mkklcdnv6temp.com/50/y/21-1597896063.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110361,
+        "aniId": 121771,
+        "createdAt": "2021-10-21T20:47:21.000Z",
+        "updatedAt": "2021-10-21T21:17:20.000Z",
         "deletedAt": null
       }
     }

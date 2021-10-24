@@ -12,13 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 134387,
   "createdAt": "2021-06-24T10:45:03.000Z",
-  "updatedAt": "2021-06-24T10:45:54.000Z",
+  "updatedAt": "2021-10-21T18:58:15.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "How Dare You",
+      "네가 감히 ",
+      "How Dare You  ",
+      "You Dare",
+      "Dare You"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ganghuijamae",
+      "Bap"
+    ],
+    "id": 134387,
+    "malId": null,
+    "type": "manga",
+    "title": "Nega Gamhi",
+    "url": "https://anilist.co/manga/134387",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134387-VhDBUPZtu3q5.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-21T10:13:07.000Z",
+    "updatedAt": "2021-10-08T21:32:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

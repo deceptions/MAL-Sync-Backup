@@ -1,9 +1,19 @@
 {
   "altTitle": [
+    "Over the Sky",
     "君は彼方",
     "You are Beyond"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://crunchyroll.com/series/G24H1N5JG/over-the-sky"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G24H1N5JG/Over-the-Sky"
+    }
+  ],
   "id": 116226,
   "malId": 41379,
   "type": "anime",
@@ -13,7 +23,7 @@
   "category": "movie",
   "hentai": false,
   "createdAt": "2021-05-20T14:46:03.000Z",
-  "updatedAt": "2021-06-17T17:30:14.000Z",
+  "updatedAt": "2021-10-22T00:17:20.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -51,6 +61,25 @@
         "aniId": 116226,
         "createdAt": "2020-10-12T15:58:34.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "kimi-wa-kanata": {
+        "identifier": "kimi-wa-kanata",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kimi wa Kanata",
+        "url": "https://gogoanime.pe/category/kimi-wa-kanata",
+        "image": "https://gogocdn.net/cover/kimi-wa-kanata.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41379,
+        "aniId": 116226,
+        "createdAt": "2021-10-22T17:28:39.000Z",
+        "updatedAt": "2021-10-22T17:58:24.000Z",
         "deletedAt": null
       }
     }

@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 13300,
-  "aniId": null,
+  "aniId": 43300,
   "createdAt": "2020-10-12T16:04:01.000Z",
-  "updatedAt": "2021-06-02T20:10:30.000Z",
+  "updatedAt": "2021-10-23T07:58:24.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -37,6 +37,27 @@
     "updatedAt": "2021-06-02T18:31:02.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "楽園",
+      "Paradise",
+      "Kayangan"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kanoko Sakurakouji"
+    ],
+    "id": 43300,
+    "malId": 13300,
+    "type": "manga",
+    "title": "Rakuen",
+    "url": "https://anilist.co/manga/43300",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx43300-ECAPhRYQczR4.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-23T07:28:35.000Z",
+    "updatedAt": "2021-10-23T07:28:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/13300/Rakuen"
 }

@@ -18,5 +18,28 @@
   "createdAt": "2021-09-19T10:10:42.000Z",
   "updatedAt": "2021-09-20T20:40:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "8c21fe3b-4fe6-4f11-b51b-ced00d8aec60": {
+        "authors": [
+          "Sasakura Ayato"
+        ],
+        "identifier": "8c21fe3b-4fe6-4f11-b51b-ced00d8aec60",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aekanaru",
+        "url": "https://mangadex.org/title/8c21fe3b-4fe6-4f11-b51b-ced00d8aec60",
+        "image": "https://uploads.mangadex.org/covers/8c21fe3b-4fe6-4f11-b51b-ced00d8aec60/38c363d2-df24-4c77-b093-66071176f636.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 120675,
+        "createdAt": "2021-10-19T04:58:52.000Z",
+        "updatedAt": "2021-10-19T04:58:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

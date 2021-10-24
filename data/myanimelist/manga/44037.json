@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/THE_IDOLM@STER"
+    }
+  ],
   "altTitle": [
     "THE IDOLM@STER"
   ],
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:18.000Z",
-  "updatedAt": "2021-09-05T20:16:03.000Z",
+  "updatedAt": "2021-10-23T18:28:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +44,29 @@
         "aniId": 74037,
         "createdAt": "2020-10-12T16:05:25.000Z",
         "updatedAt": "2021-06-03T15:31:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_idolm_ster_mana": {
+        "authors": [
+          "Bandai Namco Games",
+          "TAKAHASHI Tatsuya"
+        ],
+        "identifier": "the_idolm_ster_mana",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Idolm@ster (Mana)",
+        "url": "https://fanfox.net/manga/the_idolm_ster_mana/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11467/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44037,
+        "aniId": 74037,
+        "createdAt": "2021-10-23T18:28:45.000Z",
+        "updatedAt": "2021-10-23T18:58:24.000Z",
         "deletedAt": null
       }
     }

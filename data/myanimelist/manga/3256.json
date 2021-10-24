@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8D%E5%AE%89%E3%81%AE%E7%A8%AE"
+    }
+  ],
   "altTitle": [
     "Seeds of Anxiety",
     "不安の種"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:49.000Z",
-  "updatedAt": "2021-07-17T13:02:31.000Z",
+  "updatedAt": "2021-10-23T13:28:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 33256,
         "createdAt": "2021-01-17T12:33:49.000Z",
         "updatedAt": "2021-05-20T15:38:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-az959234": {
+        "authors": [
+          "Nakayama Masaaki"
+        ],
+        "identifier": "manga-az959234",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fuan No Tane",
+        "url": "https://manganato.com/manga-az959234",
+        "image": "https://avt.mkklcdnv6temp.com/6/l/6-1583474357.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3256,
+        "aniId": 33256,
+        "createdAt": "2021-10-23T13:28:47.000Z",
+        "updatedAt": "2021-10-23T13:58:24.000Z",
         "deletedAt": null
       }
     }

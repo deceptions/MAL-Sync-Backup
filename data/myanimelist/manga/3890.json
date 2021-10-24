@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.koreanmanhwa.com/index_titles_chiro.php"
+    }
+  ],
   "altTitle": [
     "Chiro: The Star Project",
     "Chiro Star Project",
@@ -16,7 +21,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:55.000Z",
-  "updatedAt": "2021-04-28T10:49:51.000Z",
+  "updatedAt": "2021-10-23T16:29:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +65,28 @@
         "aniId": 33890,
         "createdAt": "2021-05-03T00:33:56.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yy953807": {
+        "authors": [
+          "Baek Hye Kyoung"
+        ],
+        "identifier": "manga-yy953807",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Chiro Star Project",
+        "url": "https://readmanganato.com/manga-yy953807",
+        "image": "https://avt.mkklcdnv6temp.com/36/h/2-1583467093.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3890,
+        "aniId": 33890,
+        "createdAt": "2021-10-23T16:28:26.000Z",
+        "updatedAt": "2021-10-23T16:58:25.000Z",
         "deletedAt": null
       }
     }

@@ -8,13 +8,59 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 49952,
+  "aniId": 138064,
   "createdAt": "2021-08-20T02:37:08.000Z",
-  "updatedAt": "2021-08-20T08:34:27.000Z",
+  "updatedAt": "2021-10-18T15:58:45.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://v.qq.com/detail/t/mzc00200sm0qv1l.html"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16630"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://bgm.tv/subject/340939"
+      }
+    ],
+    "altTitle": [
+      "I Upset Millions Of Cultivators",
+      "我气哭了百万修炼者"
+    ],
+    "id": 49952,
+    "type": "anime",
+    "title": "Wo Qi Ku Liao Baiwan Xiulian Zhe",
+    "url": "https://myanimelist.net/anime/49952/Wo_Qi_Ku_Liao_Baiwan_Xiulian_Zhe",
+    "image": "https://cdn.myanimelist.net/images/anime/1556/118167.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "anidbId": 16630,
+    "createdAt": "2021-09-28T20:33:04.000Z",
+    "updatedAt": "2021-10-04T12:36:13.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "我气哭了百万修炼者"
+    ],
+    "externalLinks": [],
+    "id": 138064,
+    "malId": 49952,
+    "type": "anime",
+    "title": "Wo Qi Ku Le Baiwan Xiulianzhe",
+    "url": "https://anilist.co/anime/138064",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138064-YY0CgRNv79GO.jpg",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-08-18T13:07:00.000Z",
+    "updatedAt": "2021-10-03T19:30:52.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/49952/Wo_Qi_Ku_Liao_Baiwan_Xiulian_Zhe"
 }

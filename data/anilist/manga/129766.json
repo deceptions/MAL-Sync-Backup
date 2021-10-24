@@ -21,5 +21,28 @@
   "createdAt": "2021-09-27T09:03:03.000Z",
   "updatedAt": "2021-09-27T09:03:03.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-jf987214": {
+        "authors": [
+          "Lu Ye Qian He"
+        ],
+        "identifier": "manga-jf987214",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Stop Bothering Me, Emperor!",
+        "url": "https://manganato.com/manga-jf987214",
+        "image": "https://avt.mkklcdnv6temp.com/38/g/22-1605678819.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 129766,
+        "createdAt": "2021-10-23T15:28:28.000Z",
+        "updatedAt": "2021-10-23T16:09:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

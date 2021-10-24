@@ -11,13 +11,39 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 121238,
   "createdAt": "2021-05-31T09:12:29.000Z",
-  "updatedAt": "2021-10-12T14:59:26.000Z",
+  "updatedAt": "2021-10-20T17:18:53.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "I'm the Soldier's Ex-Girlfriend",
+      "용사의 전 여친입니다",
+      "I'm the Ex-Girlfriend of a Soldier",
+      "Yongsaui Jeon Yeochinibnida",
+      "我是勇者的前女友"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Seo Rim Song",
+      "SETE",
+      "Jiyeon",
+      "nokcy"
+    ],
+    "id": 121238,
+    "malId": null,
+    "type": "manga",
+    "title": "Yongsaui Jeon Yeochinimnida",
+    "url": "https://anilist.co/manga/121238",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx121238-BrLqIxQ1o9yl.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T06:13:08.000Z",
+    "updatedAt": "2021-10-12T14:59:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Blue_Hole_(manga)"
+    }
+  ],
   "altTitle": [
     "The Blue Hole",
     "ブルーホール"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:04.000Z",
-  "updatedAt": "2021-07-23T19:52:46.000Z",
+  "updatedAt": "2021-10-22T01:47:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 44314,
         "createdAt": "2021-07-23T19:52:36.000Z",
         "updatedAt": "2021-07-23T20:21:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_blue_hole": {
+        "authors": [
+          "Hoshino Yukinobu"
+        ],
+        "identifier": "the_blue_hole",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Blue Hole",
+        "url": "https://fanfox.net/manga/the_blue_hole/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30309/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14314,
+        "aniId": 44314,
+        "createdAt": "2021-10-22T01:47:23.000Z",
+        "updatedAt": "2021-10-22T02:17:20.000Z",
         "deletedAt": null
       }
     }

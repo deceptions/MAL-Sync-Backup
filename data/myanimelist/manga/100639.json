@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%8B%E5%88%86%E7%BD%B2"
+    }
+  ],
   "altTitle": [
-    "82 Bunsho, Crocodile Precinct",
+    "82 Bunsho",
+    "Crocodile Precinct",
     "ワニ分署"
   ],
   "authors": [
@@ -15,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:41.000Z",
-  "updatedAt": "2021-05-17T04:25:04.000Z",
+  "updatedAt": "2021-10-17T09:29:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +43,28 @@
         "aniId": 112178,
         "createdAt": "2020-10-12T16:09:40.000Z",
         "updatedAt": "2021-06-04T19:09:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tw970905": {
+        "authors": [
+          "Shinohara Tohru"
+        ],
+        "identifier": "manga-tw970905",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Wani Bunsho",
+        "url": "https://manganato.com/manga-tw970905",
+        "image": "https://avt.mkklcdnv6temp.com/35/k/13-1583489009.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100639,
+        "aniId": 112178,
+        "createdAt": "2021-10-17T09:29:08.000Z",
+        "updatedAt": "2021-10-17T09:58:45.000Z",
         "deletedAt": null
       }
     }

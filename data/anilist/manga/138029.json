@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-17T04:37:00.000Z",
-  "updatedAt": "2021-08-24T02:06:34.000Z",
+  "updatedAt": "2021-10-17T12:28:47.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "7b533450-8bbd-4fab-bca0-6bd1befbe72c": {
+        "authors": [
+          "kitsuneko"
+        ],
+        "identifier": "7b533450-8bbd-4fab-bca0-6bd1befbe72c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tonari no Kuroki-san wa nomu to yabai",
+        "url": "https://mangadex.org/title/7b533450-8bbd-4fab-bca0-6bd1befbe72c",
+        "image": "https://uploads.mangadex.org/covers/7b533450-8bbd-4fab-bca0-6bd1befbe72c/aa857ae9-ddd8-467c-8945-0d91fb6e2a1c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139742,
+        "aniId": 138029,
+        "createdAt": "2021-10-17T12:28:49.000Z",
+        "updatedAt": "2021-10-17T12:28:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -11,13 +11,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 127059,
+  "aniId": 109868,
   "createdAt": "2021-05-29T14:43:44.000Z",
-  "updatedAt": "2021-05-29T14:43:44.000Z",
+  "updatedAt": "2021-10-20T17:29:15.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://shonenjumpplus.com/episode/10834108156655000934"
+      }
+    ],
+    "altTitle": [
+      "There's Weird Voices Coming from the Room Next Door!",
+      "隣の部屋から喘ぎ声がするんですけど..."
+    ],
+    "authors": [
+      "Suzuki-senpai"
+    ],
+    "id": 127059,
+    "type": "manga",
+    "title": "Tonari no Heya kara Aegigoe ga Suru n desu kedo...",
+    "url": "https://myanimelist.net/manga/127059/Tonari_no_Heya_kara_Aegigoe_ga_Suru_n_desu_kedo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/235885.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-11-15T15:14:53.000Z",
+    "updatedAt": "2021-10-20T14:59:16.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "隣の部屋から喘ぎ声がするんですけど…",
+      "There's Weird Voices Coming from the Room Next Door!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Suzuki Senpai"
+    ],
+    "id": 109868,
+    "malId": 127059,
+    "type": "manga",
+    "title": "Tonari no Heya kara Aegigoe ga Surun desu kedo",
+    "url": "https://anilist.co/manga/109868",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109868-NhyUXPJPmh28.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:18.000Z",
+    "updatedAt": "2021-06-18T06:22:42.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/127059/Tonari_no_Heya_kara_Aegigoe_ga_Suru_n_desu_kedo"
 }

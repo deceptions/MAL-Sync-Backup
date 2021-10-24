@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "あにめたまえ! 天声の巫女"
   ],
@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:33.000Z",
-  "updatedAt": "2021-05-16T18:24:45.000Z",
+  "updatedAt": "2021-10-18T07:58:55.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,50 @@
         "aniId": 115493,
         "createdAt": "2020-10-12T16:09:48.000Z",
         "updatedAt": "2021-06-04T20:05:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "animetamae_tensei_no_miko": {
+        "authors": [
+          "Rebis"
+        ],
+        "identifier": "animetamae_tensei_no_miko",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Animetamae! Tensei no Miko",
+        "url": "https://fanfox.net/manga/animetamae_tensei_no_miko/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/22301/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99542,
+        "aniId": 115493,
+        "createdAt": "2021-10-18T07:58:47.000Z",
+        "updatedAt": "2021-10-18T08:28:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vk973245": {
+        "authors": [
+          "Rebis"
+        ],
+        "identifier": "manga-vk973245",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Animetamae! Tensei No Miko",
+        "url": "https://manganato.com/manga-vk973245",
+        "image": "https://avt.mkklcdnv6temp.com/30/d/14-1583490804.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99542,
+        "aniId": 115493,
+        "createdAt": "2021-10-18T07:59:05.000Z",
+        "updatedAt": "2021-10-18T08:28:45.000Z",
         "deletedAt": null
       }
     }

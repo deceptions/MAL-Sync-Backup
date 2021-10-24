@@ -1,12 +1,14 @@
 {
   "altTitle": [
     "THE IDOLM@STER",
-    "The Idolmaster"
+    "The Idolmaster",
+    "Manamas"
   ],
   "externalLinks": [],
   "authors": [
     "Bandai-Namco Entertainment",
-    "Tatsuya Takahashi"
+    "Tatsuya Takahashi",
+    "mana"
   ],
   "id": 74037,
   "malId": 44037,
@@ -17,7 +19,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:49:00.000Z",
-  "updatedAt": "2021-06-17T20:06:49.000Z",
+  "updatedAt": "2021-10-18T22:28:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +42,29 @@
         "aniId": 74037,
         "createdAt": "2020-10-12T16:05:25.000Z",
         "updatedAt": "2021-06-03T15:31:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_idolm_ster_mana": {
+        "authors": [
+          "Bandai Namco Games",
+          "TAKAHASHI Tatsuya"
+        ],
+        "identifier": "the_idolm_ster_mana",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Idolm@ster (Mana)",
+        "url": "https://fanfox.net/manga/the_idolm_ster_mana/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11467/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44037,
+        "aniId": 74037,
+        "createdAt": "2021-10-23T18:28:45.000Z",
+        "updatedAt": "2021-10-23T18:58:24.000Z",
         "deletedAt": null
       }
     }

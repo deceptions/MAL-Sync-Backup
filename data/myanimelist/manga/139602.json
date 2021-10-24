@@ -22,5 +22,28 @@
   "createdAt": "2021-10-10T15:33:03.000Z",
   "updatedAt": "2021-10-10T15:33:03.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "5f55d4de-e3c3-4f83-b654-0eba16d182b0": {
+        "authors": [
+          "Ogi Tomai"
+        ],
+        "identifier": "5f55d4de-e3c3-4f83-b654-0eba16d182b0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinwa Saiban",
+        "url": "https://mangadex.org/title/5f55d4de-e3c3-4f83-b654-0eba16d182b0",
+        "image": "https://uploads.mangadex.org/covers/5f55d4de-e3c3-4f83-b654-0eba16d182b0/ff387610-6a73-40b1-a0af-4a78560d4f5d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139602,
+        "aniId": null,
+        "createdAt": "2021-10-19T10:28:54.000Z",
+        "updatedAt": "2021-10-19T10:28:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

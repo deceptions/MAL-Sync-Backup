@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%B2%E3%82%B2%E3%81%AE%E9%AC%BC%E5%A4%AA%E9%83%8E"
+    }
+  ],
   "altTitle": [
     "GeGeGe no Kitaro",
     "ゲゲゲの鬼太郎"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:28.000Z",
-  "updatedAt": "2021-09-16T02:41:33.000Z",
+  "updatedAt": "2021-10-18T13:30:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +85,28 @@
         "aniId": 40499,
         "createdAt": "2021-02-01T18:02:28.000Z",
         "updatedAt": "2021-05-20T15:39:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-uh961216": {
+        "authors": [
+          "Mizuki Shigeru"
+        ],
+        "identifier": "manga-uh961216",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gegege No Kitarou",
+        "url": "https://readmanganato.com/manga-uh961216",
+        "image": "https://avt.mkklcdnv6temp.com/29/v/7-1583477391.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10499,
+        "aniId": 40499,
+        "createdAt": "2021-10-18T13:29:30.000Z",
+        "updatedAt": "2021-10-18T13:58:45.000Z",
         "deletedAt": null
       }
     }

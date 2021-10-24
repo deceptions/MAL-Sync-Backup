@@ -10,14 +10,71 @@
   "image": "https://cover.nep.li/cover/Phoenix.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 1325,
+  "aniId": 31325,
   "createdAt": "2021-02-07T02:50:31.000Z",
-  "updatedAt": "2021-08-07T03:18:30.000Z",
+  "updatedAt": "2021-10-23T05:28:24.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://tezukaosamu.net/en/manga/403.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%81%AB%E3%81%AE%E9%B3%A5_(%E6%BC%AB%E7%94%BB)"
+      }
+    ],
+    "altTitle": [
+      "Phoenix",
+      "Hi no Tori: Reimei-hen",
+      "Phoneix: Dawn",
+      "火の鳥"
+    ],
+    "authors": [
+      "Tezuka, Osamu"
+    ],
+    "id": 1325,
+    "type": "manga",
+    "title": "Hi no Tori (1967)",
+    "url": "https://myanimelist.net/manga/1325/Hi_no_Tori_1967",
+    "image": "https://cdn.myanimelist.net/images/manga/3/159419.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:32.000Z",
+    "updatedAt": "2021-10-23T04:59:39.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Phoenix",
+      "火の鳥",
+      "Phénix - L'oiseau de feu"
+    ],
+    "externalLinks": [
+      {
+        "site": "VIZ",
+        "url": "https://www.viz.com/phoenix"
+      }
+    ],
+    "authors": [
+      "Osamu Tezuka",
+      "Frederik Schodt"
+    ],
+    "id": 31325,
+    "malId": 1325,
+    "type": "manga",
+    "title": "Hi no Tori",
+    "url": "https://anilist.co/manga/31325",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31325-n1n3iHr1K6xH.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:36:43.000Z",
+    "updatedAt": "2021-06-17T09:21:21.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/1325/Hi_no_Tori_1967"
 }

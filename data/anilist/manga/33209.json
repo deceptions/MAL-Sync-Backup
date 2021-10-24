@@ -37,6 +37,28 @@
         "updatedAt": "2021-06-03T14:37:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "zenbu_kimi_no_mono": {
+        "authors": [
+          "AIKAWA Saki"
+        ],
+        "identifier": "zenbu_kimi_no_mono",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Zenbu Kimi no Mono",
+        "url": "https://fanfox.net/manga/zenbu_kimi_no_mono/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1195/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3209,
+        "aniId": 33209,
+        "createdAt": "2021-10-20T11:29:26.000Z",
+        "updatedAt": "2021-10-20T11:59:05.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

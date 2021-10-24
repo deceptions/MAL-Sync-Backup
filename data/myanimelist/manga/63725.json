@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://web.archive.org/web/20160504081215/margaret.shueisha.co.jp/story/nanokanokare.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E8%8F%9C%E3%81%AE%E8%8A%B1%E3%81%AE%E5%BD%BC-%E3%83%8A%E3%83%8E%E3%82%AB%E3%83%8E%E3%82%AB%E3%83%AC-"
+    }
+  ],
   "altTitle": [
     "Na no Hana no Kare",
     "菜の花の彼－ナノカノカレ－"
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:05.000Z",
-  "updatedAt": "2021-04-22T07:27:20.000Z",
+  "updatedAt": "2021-10-18T22:29:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,6 +93,29 @@
         "aniId": 85305,
         "createdAt": "2021-04-22T07:27:28.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wi951843": {
+        "authors": [
+          "Tekkotsu Saro",
+          "Toumori Miyoshi"
+        ],
+        "identifier": "manga-wi951843",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Nanohana No Kare",
+        "url": "https://manganato.com/manga-wi951843",
+        "image": "https://avt.mkklcdnv6temp.com/18/k/1-1583464414.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63725,
+        "aniId": 85305,
+        "createdAt": "2021-10-18T22:28:52.000Z",
+        "updatedAt": "2021-10-18T22:58:52.000Z",
         "deletedAt": null
       }
     }

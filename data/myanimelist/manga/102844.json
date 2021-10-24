@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "しくしくしくし"
   ],
@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:46.000Z",
-  "updatedAt": "2021-06-12T20:09:09.000Z",
+  "updatedAt": "2021-10-22T19:29:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 122658,
         "createdAt": "2020-12-23T16:56:04.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cc979811": {
+        "authors": [
+          "Rui Tamachi"
+        ],
+        "identifier": "manga-cc979811",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shikushiku Shikushi",
+        "url": "https://manganato.com/manga-cc979811",
+        "image": "https://avt.mkklcdnv6temp.com/5/o/17-1583495462.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102844,
+        "aniId": 122658,
+        "createdAt": "2021-10-22T19:29:06.000Z",
+        "updatedAt": "2021-10-22T19:58:24.000Z",
         "deletedAt": null
       }
     }

@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 24599,
-  "aniId": null,
+  "aniId": 54599,
   "createdAt": "2021-10-14T16:58:44.000Z",
-  "updatedAt": "2021-10-14T16:58:55.000Z",
+  "updatedAt": "2021-10-21T23:47:20.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -44,6 +44,28 @@
     "updatedAt": "2021-10-14T16:58:55.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "In the Arms of the Sheikh",
+      "シークとどこまでも",
+      "Sheikh to Dokomade mo"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kaori Himeki",
+      "Sophie Weston"
+    ],
+    "id": 54599,
+    "malId": 24599,
+    "type": "manga",
+    "title": "Sheikh to Dokomademo",
+    "url": "https://anilist.co/manga/54599",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx54599-w1x7Ve2kmUPN.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-21T23:17:31.000Z",
+    "updatedAt": "2021-10-21T23:17:31.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/24599/Sheikh_to_Doko_Made_mo"
 }

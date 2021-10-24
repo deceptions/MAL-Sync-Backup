@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%BC%C3%97%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%BC"
+    }
+  ],
   "altTitle": [
     "ライアー×ライアー"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:14.000Z",
-  "updatedAt": "2021-09-10T14:04:45.000Z",
+  "updatedAt": "2021-10-23T21:29:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +85,28 @@
         "aniId": 54744,
         "createdAt": "2021-09-10T14:04:42.000Z",
         "updatedAt": "2021-09-10T14:34:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zd959138": {
+        "authors": [
+          "Kindaichi Renjuurou"
+        ],
+        "identifier": "manga-zd959138",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Liar X Liar",
+        "url": "https://manganato.com/manga-zd959138",
+        "image": "https://avt.mkklcdnv6temp.com/2/w/6-1583474204.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24744,
+        "aniId": 54744,
+        "createdAt": "2021-10-23T21:29:05.000Z",
+        "updatedAt": "2021-10-23T21:58:25.000Z",
         "deletedAt": null
       }
     }

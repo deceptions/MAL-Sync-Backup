@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 119442,
   "createdAt": "2021-06-16T01:28:36.000Z",
-  "updatedAt": "2021-10-03T05:00:52.000Z",
+  "updatedAt": "2021-10-17T17:36:00.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "至尊神魔",
+      "Extreme God"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Dong Man She"
+    ],
+    "id": 119442,
+    "malId": null,
+    "type": "manga",
+    "title": "Zhi Zun Shen Mo",
+    "url": "https://anilist.co/manga/119442",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119442-Ow7FoCvmvX5O.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-07T18:36:18.000Z",
+    "updatedAt": "2021-10-17T01:59:47.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

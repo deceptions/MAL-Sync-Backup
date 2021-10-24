@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://go-dessert.jp/kc/bambi/index.html"
+    }
+  ],
   "altTitle": [
     "Bambi and Dhole",
     "バンビとドール"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:45.000Z",
-  "updatedAt": "2021-05-24T12:09:01.000Z",
+  "updatedAt": "2021-10-23T21:28:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +86,28 @@
         "aniId": 84663,
         "createdAt": "2021-05-24T12:09:01.000Z",
         "updatedAt": "2021-05-24T12:38:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lt952476": {
+        "authors": [
+          "Okaue Ai"
+        ],
+        "identifier": "manga-lt952476",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Bambi To Dhole",
+        "url": "https://manganato.com/manga-lt952476",
+        "image": "https://avt.mkklcdnv6temp.com/40/r/1-1583465305.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54663,
+        "aniId": 84663,
+        "createdAt": "2021-10-23T21:28:26.000Z",
+        "updatedAt": "2021-10-23T21:58:25.000Z",
         "deletedAt": null
       }
     }

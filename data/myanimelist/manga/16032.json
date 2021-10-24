@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/Papa_told_me"
+    }
+  ],
   "altTitle": [
     "Papa told me",
     "Papa told me パパ トールド ミー"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:15.000Z",
-  "updatedAt": "2021-05-02T05:32:32.000Z",
+  "updatedAt": "2021-10-20T07:29:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 46032,
         "createdAt": "2020-10-12T16:14:21.000Z",
         "updatedAt": "2021-06-06T04:28:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-du981003": {
+        "authors": [
+          "Nanae Haruno"
+        ],
+        "identifier": "manga-du981003",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Papa Told Me",
+        "url": "https://manganato.com/manga-du981003",
+        "image": "https://avt.mkklcdnv6temp.com/49/e/17-1583497039.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16032,
+        "aniId": 46032,
+        "createdAt": "2021-10-20T07:29:14.000Z",
+        "updatedAt": "2021-10-20T07:59:01.000Z",
         "deletedAt": null
       }
     }

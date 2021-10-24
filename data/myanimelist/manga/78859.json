@@ -1,7 +1,8 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
-    "Akihabara Foreign Love, Okubyoumono no I Love You",
+    "Akihabara Foreign Love",
+    "Okubyoumono no I Love You",
     "アキハバラフォーリンラブ"
   ],
   "authors": [
@@ -15,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-04T07:20:58.000Z",
-  "updatedAt": "2021-06-04T07:20:58.000Z",
+  "updatedAt": "2021-10-23T20:29:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +38,28 @@
         "aniId": 86017,
         "createdAt": "2020-10-12T16:08:00.000Z",
         "updatedAt": "2021-06-04T08:56:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "akihabara_fall_in_love": {
+        "authors": [
+          "KASHIMA Chiaki"
+        ],
+        "identifier": "akihabara_fall_in_love",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Akihabara Fall in Love",
+        "url": "https://fanfox.net/manga/akihabara_fall_in_love/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14423/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 78859,
+        "aniId": 86017,
+        "createdAt": "2021-10-23T20:28:29.000Z",
+        "updatedAt": "2021-10-23T20:58:24.000Z",
         "deletedAt": null
       }
     }

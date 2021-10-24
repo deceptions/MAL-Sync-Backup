@@ -1,8 +1,16 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8BARC-V"
+    }
+  ],
   "altTitle": [
     "Yu-Gi-Oh! Arc-V",
-    "Yuu☆Gi☆Ou: Arc-V, Yu-Gi-Oh! Arc Five, Yu-Gi-Oh! Arc 5, Yugioh",
+    "Yuu☆Gi☆Ou: Arc-V",
+    "Yu-Gi-Oh! Arc Five",
+    "Yu-Gi-Oh! Arc 5",
+    "Yugioh",
     "遊☆戯☆王ARC-V"
   ],
   "authors": [
@@ -18,7 +26,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:09.000Z",
-  "updatedAt": "2021-05-24T01:38:50.000Z",
+  "updatedAt": "2021-10-22T14:29:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -89,6 +97,31 @@
         "aniId": 95866,
         "createdAt": "2021-05-24T01:38:51.000Z",
         "updatedAt": "2021-05-24T02:08:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dp980772": {
+        "authors": [
+          "Kazuki Takahashi",
+          "Masahiro Hikokubo",
+          "Shin Yoshida",
+          "Naohito Miyoshi"
+        ],
+        "identifier": "manga-dp980772",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yu-Gi-Oh! Arc-V",
+        "url": "https://readmanganato.com/manga-dp980772",
+        "image": "https://avt.mkklcdnv6temp.com/41/f/17-1583496748.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92499,
+        "aniId": 95866,
+        "createdAt": "2021-10-22T14:28:25.000Z",
+        "updatedAt": "2021-10-22T14:58:24.000Z",
         "deletedAt": null
       }
     }

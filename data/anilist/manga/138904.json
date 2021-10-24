@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-09T07:34:30.000Z",
-  "updatedAt": "2021-09-09T07:34:30.000Z",
+  "updatedAt": "2021-10-18T12:59:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "white-necromancer-road-to-necromancer-king": {
+        "authors": [
+          "azumaya (II)",
+          "Hidefumi"
+        ],
+        "identifier": "white-necromancer-road-to-necromancer-king",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "White Necromancer ~Road to Necromancer King~",
+        "url": "https://mangasee123.com/manga/White-Necromancer-Road-to-Necromancer-King",
+        "image": "https://cover.nep.li/cover/White-Necromancer-Road-to-Necromancer-King.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 138904,
+        "createdAt": "2021-07-03T23:04:36.000Z",
+        "updatedAt": "2021-10-18T15:36:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

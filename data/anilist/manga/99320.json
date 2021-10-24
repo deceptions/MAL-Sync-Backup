@@ -19,5 +19,28 @@
   "createdAt": "2021-10-02T09:30:52.000Z",
   "updatedAt": "2021-10-02T09:30:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-zg976941": {
+        "authors": [
+          "One Finder"
+        ],
+        "identifier": "manga-zg976941",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Mirror's Stranger",
+        "url": "https://manganato.com/manga-zg976941",
+        "image": "https://avt.mkklcdnv6temp.com/32/m/15-1583492746.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 99320,
+        "createdAt": "2021-10-18T01:28:57.000Z",
+        "updatedAt": "2021-10-18T01:28:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

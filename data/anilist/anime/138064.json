@@ -14,5 +14,44 @@
   "createdAt": "2021-08-18T13:07:00.000Z",
   "updatedAt": "2021-10-03T19:30:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "jvn78": {
+        "identifier": "jvn78",
+        "type": "anime",
+        "page": "9anime",
+        "title": "我气哭了百万修炼者",
+        "url": "https://9anime.to/watch/i-upset-millions-of-cultivators.jvn78",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/46/46d6ea436b48c704a853a5cc7610197e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 49952,
+        "aniId": 138064,
+        "createdAt": "2021-08-20T02:37:08.000Z",
+        "updatedAt": "2021-10-18T15:58:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "i-upset-millions-of-cultivators": {
+        "identifier": "i-upset-millions-of-cultivators",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "I Upset Millions Of Cultivators",
+        "url": "https://gogoanime.pe/category/i-upset-millions-of-cultivators",
+        "image": "https://gogocdn.net/cover/i-upset-millions-of-cultivators.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 49952,
+        "aniId": 138064,
+        "createdAt": "2021-08-21T10:46:27.000Z",
+        "updatedAt": "2021-10-17T17:58:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

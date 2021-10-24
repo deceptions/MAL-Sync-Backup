@@ -20,5 +20,28 @@
   "createdAt": "2021-05-20T14:57:11.000Z",
   "updatedAt": "2021-06-18T07:25:31.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "hatsukoi_o_kojirase_sugiru_na": {
+        "authors": [
+          "IKUTA Mugi"
+        ],
+        "identifier": "hatsukoi_o_kojirase_sugiru_na",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hatsukoi o Kojirase Sugiru na",
+        "url": "https://fanfox.net/manga/hatsukoi_o_kojirase_sugiru_na/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27967/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114695,
+        "aniId": 113035,
+        "createdAt": "2021-10-20T07:59:12.000Z",
+        "updatedAt": "2021-10-20T08:29:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

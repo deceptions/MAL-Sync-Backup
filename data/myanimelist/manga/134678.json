@@ -96,6 +96,29 @@
         "updatedAt": "2021-06-27T01:49:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "a_business_proposal": {
+        "authors": [
+          "Haehwa",
+          "Perilla"
+        ],
+        "identifier": "a_business_proposal",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "A Business Proposal",
+        "url": "https://fanfox.net/manga/a_business_proposal/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38262/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 134678,
+        "aniId": 110095,
+        "createdAt": "2021-10-21T14:42:43.000Z",
+        "updatedAt": "2021-10-21T14:47:20.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

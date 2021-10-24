@@ -47,6 +47,28 @@
         "updatedAt": "2021-06-06T13:01:13.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "phoenix": {
+        "authors": [
+          "TEZUKA Osamu"
+        ],
+        "identifier": "phoenix",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Phoenix",
+        "url": "https://mangasee123.com/manga/Phoenix",
+        "image": "https://cover.nep.li/cover/Phoenix.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1325,
+        "aniId": 31325,
+        "createdAt": "2021-02-07T02:50:31.000Z",
+        "updatedAt": "2021-10-23T05:28:24.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -18,5 +18,28 @@
   "createdAt": "2021-07-29T10:21:40.000Z",
   "updatedAt": "2021-10-12T21:28:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "b871460a-60cd-4f8e-b82a-71d227654bba": {
+        "authors": [
+          "Sako Toshio"
+        ],
+        "identifier": "b871460a-60cd-4f8e-b82a-71d227654bba",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "嘘喰い ー立会人 夜行妃古壱ー",
+        "url": "https://mangadex.org/title/b871460a-60cd-4f8e-b82a-71d227654bba",
+        "image": "https://uploads.mangadex.org/covers/b871460a-60cd-4f8e-b82a-71d227654bba/4f6bc1a4-35fb-45f8-87c5-5c4eb54a772c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 140835,
+        "aniId": 137166,
+        "createdAt": "2021-10-12T11:45:07.000Z",
+        "updatedAt": "2021-10-18T15:36:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }
