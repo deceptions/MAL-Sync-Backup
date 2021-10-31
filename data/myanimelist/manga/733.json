@@ -1,7 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%A1%E3%82%89%E8%91%9B%E9%A3%BE%E5%8C%BA%E4%BA%80%E6%9C%89%E5%85%AC%E5%9C%92%E5%89%8D%E6%B4%BE%E5%87%BA%E6%89%80"
+    }
+  ],
   "altTitle": [
-    "Kochikame, This is the Police Station in Front of Kameari Park in Katsushika Ward, Robot Santapei",
+    "Kochikame",
+    "This is the Police Station in Front of Kameari Park in Katsushika Ward",
+    "Robot Santapei",
     "こちら葛飾区亀有公園前派出所"
   ],
   "authors": [
@@ -15,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:25.000Z",
-  "updatedAt": "2021-06-05T12:20:10.000Z",
+  "updatedAt": "2021-10-28T11:46:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +66,28 @@
         "aniId": 30733,
         "createdAt": "2021-06-05T12:20:10.000Z",
         "updatedAt": "2021-06-05T12:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kochira_katsushikaku_kameari_kouenmae_hashutsujo": {
+        "authors": [
+          "AKIMOTO Osamu"
+        ],
+        "identifier": "kochira_katsushikaku_kameari_kouenmae_hashutsujo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
+        "url": "https://fanfox.net/manga/kochira_katsushikaku_kameari_kouenmae_hashutsujo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6464/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 733,
+        "aniId": 30733,
+        "createdAt": "2021-10-28T11:46:09.000Z",
+        "updatedAt": "2021-10-28T12:15:57.000Z",
         "deletedAt": null
       }
     }

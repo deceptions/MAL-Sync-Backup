@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-04T17:21:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "amiami_romance": {
+        "authors": [
+          "OTOMO Nana"
+        ],
+        "identifier": "amiami_romance",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Amiami Romance",
+        "url": "https://fanfox.net/manga/amiami_romance/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18261/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95526,
+        "aniId": 106628,
+        "createdAt": "2021-10-29T09:46:40.000Z",
+        "updatedAt": "2021-10-29T10:15:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

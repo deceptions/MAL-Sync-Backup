@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 2316,
-  "aniId": null,
+  "aniId": 2316,
   "createdAt": "2021-07-12T00:15:29.000Z",
-  "updatedAt": "2021-07-12T00:15:39.000Z",
+  "updatedAt": "2021-10-26T12:00:54.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -42,6 +42,24 @@
     "updatedAt": "2021-10-01T05:39:28.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "赤き血のイレブン",
+      "The Dark Red Eleven",
+      "The Red-Blooded Eleven"
+    ],
+    "externalLinks": [],
+    "id": 2316,
+    "malId": 2316,
+    "type": "anime",
+    "title": "Akakichi no Eleven",
+    "url": "https://anilist.co/anime/2316",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2316.jpg",
+    "category": "tv",
+    "hentai": false,
+    "createdAt": "2021-10-26T11:30:54.000Z",
+    "updatedAt": "2021-10-26T11:30:54.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/2316/Akakichi_no_Eleven"
 }

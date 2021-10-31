@@ -91,6 +91,28 @@
         "updatedAt": "2021-05-31T10:00:42.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "i_s": {
+        "authors": [
+          "KATSURA Masakazu"
+        ],
+        "identifier": "i_s",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "I''s",
+        "url": "https://fanfox.net/manga/i_s/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/83/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 818,
+        "aniId": 30818,
+        "createdAt": "2021-10-26T06:00:56.000Z",
+        "updatedAt": "2021-10-26T06:30:54.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

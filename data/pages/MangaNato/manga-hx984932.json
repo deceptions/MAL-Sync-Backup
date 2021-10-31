@@ -12,13 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 116971,
   "createdAt": "2021-05-28T21:24:43.000Z",
-  "updatedAt": "2021-10-20T17:30:25.000Z",
+  "updatedAt": "2021-10-27T08:15:47.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Ingrid, the White Deer",
+      "흰 사슴 잉그리드",
+      "Ingrid, El Ciervo Blanco!",
+      "White Deer Ingrid!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Huinultari",
+      "Red Parsley"
+    ],
+    "id": 116971,
+    "malId": null,
+    "type": "manga",
+    "title": "Huin Saseum Ingrid",
+    "url": "https://anilist.co/manga/116971",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116971-3hcDRFEYpC3K.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-30T04:12:13.000Z",
+    "updatedAt": "2021-10-27T08:04:12.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

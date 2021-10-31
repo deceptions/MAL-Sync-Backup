@@ -11,13 +11,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 118468,
+  "aniId": 106645,
   "createdAt": "2020-10-12T16:15:30.000Z",
-  "updatedAt": "2021-06-06T14:13:37.000Z",
+  "updatedAt": "2021-10-26T16:00:54.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/biggangan/introduction/nanatachi/"
+      }
+    ],
+    "altTitle": [
+      "ナナホシとタチバナ"
+    ],
+    "authors": [
+      "Ameno, Sayaka"
+    ],
+    "id": 118468,
+    "type": "manga",
+    "title": "Nanahoshi to Tachibana",
+    "url": "https://myanimelist.net/manga/118468/Nanahoshi_to_Tachibana",
+    "image": "https://cdn.myanimelist.net/images/manga/2/225909.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-02-07T11:21:03.000Z",
+    "updatedAt": "2021-10-26T15:31:14.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ナナホシとタチバナ",
+      "Nanahoshi and Tachibana"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sayaka Ameno"
+    ],
+    "id": 106645,
+    "malId": 118468,
+    "type": "manga",
+    "title": "Nanahoshi to Tachibana",
+    "url": "https://anilist.co/manga/106645",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx106645-TldmemyNMntp.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-03T05:33:57.000Z",
+    "updatedAt": "2021-07-03T05:33:57.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/118468/Nanahoshi_to_Tachibana"
 }

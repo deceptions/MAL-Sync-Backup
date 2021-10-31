@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-04T22:09:01.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "amaeru_kubiwa": {
+        "authors": [
+          "KOKO Suwaru"
+        ],
+        "identifier": "amaeru_kubiwa",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Amaeru Kubiwa",
+        "url": "https://fanfox.net/manga/amaeru_kubiwa/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21469/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100699,
+        "aniId": 98824,
+        "createdAt": "2021-10-25T06:31:27.000Z",
+        "updatedAt": "2021-10-25T07:00:53.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

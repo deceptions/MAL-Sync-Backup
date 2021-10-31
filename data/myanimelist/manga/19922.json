@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "Hoshikawa Ginza District 4",
     "星川銀座四丁目"
@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:46.000Z",
-  "updatedAt": "2021-06-16T19:27:51.000Z",
+  "updatedAt": "2021-10-26T20:03:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 49922,
         "createdAt": "2021-06-16T19:27:50.000Z",
         "updatedAt": "2021-06-16T19:57:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hoshikawa_ginza_yonchoume": {
+        "authors": [
+          "KUROGANE Ken"
+        ],
+        "identifier": "hoshikawa_ginza_yonchoume",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hoshikawa Ginza Yonchoume",
+        "url": "https://fanfox.net/manga/hoshikawa_ginza_yonchoume/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9176/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19922,
+        "aniId": 49922,
+        "createdAt": "2021-10-26T20:02:46.000Z",
+        "updatedAt": "2021-10-26T20:30:54.000Z",
         "deletedAt": null
       }
     }

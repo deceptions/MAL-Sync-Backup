@@ -1,7 +1,15 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/明日泥棒_(漫画)"
+    }
+  ],
   "altTitle": [
-    "Thief of Tomorrow, Tomorrow Stealer, Tomorrow's Thief, Asu Dorobou",
+    "Thief of Tomorrow",
+    "Tomorrow Stealer",
+    "Tomorrow's Thief",
+    "Asu Dorobou",
     "明日泥棒"
   ],
   "authors": [
@@ -16,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:18.000Z",
-  "updatedAt": "2021-05-10T21:13:39.000Z",
+  "updatedAt": "2021-10-26T23:01:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,6 +92,28 @@
         "aniId": 55396,
         "createdAt": "2021-05-10T21:13:39.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xc956311": {
+        "authors": [
+          "Hokazono Masaya"
+        ],
+        "identifier": "manga-xc956311",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ashita Dorobou",
+        "url": "https://manganato.com/manga-xc956311",
+        "image": "https://avt.mkklcdnv6temp.com/10/s/4-1583470104.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25396,
+        "aniId": 55396,
+        "createdAt": "2021-10-26T23:01:15.000Z",
+        "updatedAt": "2021-10-26T23:30:54.000Z",
         "deletedAt": null
       }
     }

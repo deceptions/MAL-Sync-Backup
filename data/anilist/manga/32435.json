@@ -65,6 +65,28 @@
         "updatedAt": "2021-07-14T06:20:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "crayon_shin_chan": {
+        "authors": [
+          "USUI Yoshito"
+        ],
+        "identifier": "crayon_shin_chan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Crayon Shin-chan",
+        "url": "https://fanfox.net/manga/crayon_shin_chan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4105/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2435,
+        "aniId": 32435,
+        "createdAt": "2021-10-24T23:31:05.000Z",
+        "updatedAt": "2021-10-25T00:00:53.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

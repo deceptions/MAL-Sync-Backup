@@ -61,6 +61,50 @@
         "updatedAt": "2021-05-20T15:40:50.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "chotto_ippai": {
+        "authors": [
+          "Kayou"
+        ],
+        "identifier": "chotto_ippai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Chotto Ippai!",
+        "url": "https://fanfox.net/manga/chotto_ippai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27821/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107920,
+        "aniId": 100229,
+        "createdAt": "2021-10-26T02:30:58.000Z",
+        "updatedAt": "2021-10-26T03:00:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bu979303": {
+        "authors": [
+          "Kayou"
+        ],
+        "identifier": "manga-bu979303",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Chotto Ippai!",
+        "url": "https://manganato.com/manga-bu979303",
+        "image": "https://avt.mkklcdnv6temp.com/36/j/16-1583494773.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107920,
+        "aniId": 100229,
+        "createdAt": "2021-10-26T03:00:55.000Z",
+        "updatedAt": "2021-10-26T03:30:54.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

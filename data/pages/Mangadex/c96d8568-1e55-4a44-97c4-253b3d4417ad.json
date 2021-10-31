@@ -20,7 +20,16 @@
   "updatedAt": "2021-06-04T09:41:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://gundam.wikia.com/wiki/Mobile_Suit_Gundam_SEED_%28Manga%29"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Gundam_seed"
+      }
+    ],
     "altTitle": [
       "Mobile Suit Gundam SEED",
       "Kidou Senshi Gundam SEED",
@@ -39,7 +48,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:21.000Z",
-    "updatedAt": "2021-04-26T03:58:15.000Z",
+    "updatedAt": "2021-10-26T04:01:15.000Z",
     "deletedAt": null
   },
   "Anilist": {

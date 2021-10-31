@@ -17,5 +17,28 @@
   "createdAt": "2021-10-20T10:59:16.000Z",
   "updatedAt": "2021-10-20T10:59:16.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "b60ea5f8-7ab4-4f82-a304-722230160f9b": {
+        "authors": [
+          "Kokikuji You"
+        ],
+        "identifier": "b60ea5f8-7ab4-4f82-a304-722230160f9b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Suiyou Kyoudai",
+        "url": "https://mangadex.org/title/b60ea5f8-7ab4-4f82-a304-722230160f9b",
+        "image": "https://uploads.mangadex.org/covers/b60ea5f8-7ab4-4f82-a304-722230160f9b/c3ae1206-f015-4670-8a97-f640b29d7816.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 135396,
+        "createdAt": "2021-10-26T20:00:55.000Z",
+        "updatedAt": "2021-10-26T20:00:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

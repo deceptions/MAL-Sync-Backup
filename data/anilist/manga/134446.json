@@ -19,9 +19,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T21:12:58.000Z",
-  "updatedAt": "2021-08-27T05:06:34.000Z",
+  "updatedAt": "2021-10-29T19:46:18.000Z",
   "deletedAt": null,
   "Pages": {
+    "MangaFox": {
+      "baby_empress": {
+        "authors": [
+          "Yusoi"
+        ],
+        "identifier": "baby_empress",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Baby Empress",
+        "url": "https://fanfox.net/manga/baby_empress/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33805/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 134446,
+        "createdAt": "2021-05-22T23:14:03.000Z",
+        "updatedAt": "2021-10-29T23:13:57.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-hs985253": {
         "authors": [

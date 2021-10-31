@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 138808,
   "createdAt": "2021-08-26T20:06:36.000Z",
-  "updatedAt": "2021-08-26T20:06:36.000Z",
+  "updatedAt": "2021-10-27T22:03:15.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "超神道术",
+      "Supreme Exorcist",
+      "Supreme Taoist"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Dangnian Yanhuo",
+      "Meilan Suo Wa"
+    ],
+    "id": 138808,
+    "malId": null,
+    "type": "manga",
+    "title": "Chao Shendao Shu",
+    "url": "https://anilist.co/manga/138808",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b138808-YfWxTlgXkGi9.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-06T14:34:30.000Z",
+    "updatedAt": "2021-10-17T20:58:45.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -17,5 +17,28 @@
   "createdAt": "2021-05-23T03:12:59.000Z",
   "updatedAt": "2021-09-13T04:34:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "d4dfdb52-ecb4-4f1b-9978-980ac8b2cff3": {
+        "authors": [
+          "Hazuki Matcha"
+        ],
+        "identifier": "d4dfdb52-ecb4-4f1b-9978-980ac8b2cff3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "One Week Friends Afterwards ",
+        "url": "https://mangadex.org/title/d4dfdb52-ecb4-4f1b-9978-980ac8b2cff3",
+        "image": "https://uploads.mangadex.org/covers/d4dfdb52-ecb4-4f1b-9978-980ac8b2cff3/e345e8bb-18c0-4c68-a938-221e4a07d26e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135132,
+        "aniId": 132722,
+        "createdAt": "2021-10-24T20:02:37.000Z",
+        "updatedAt": "2021-10-24T20:02:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

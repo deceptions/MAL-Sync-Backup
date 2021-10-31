@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 1,
+  "malId": 90190,
   "aniId": 112257,
   "createdAt": "2021-05-31T09:14:11.000Z",
-  "updatedAt": "2021-05-31T09:14:11.000Z",
+  "updatedAt": "2021-10-25T07:54:18.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Otherworldly Izakaya \"Nobu\"",
+      "異世界居酒屋「のぶ」"
+    ],
+    "authors": [
+      "Semikawa, Natsuya",
+      "Virginia Nitouhei"
+    ],
+    "id": 90190,
+    "type": "manga",
+    "title": "Isekai Izakaya \"Nobu\"",
+    "url": "https://myanimelist.net/manga/90190/Isekai_Izakaya_Nobu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/170880.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:46:03.000Z",
+    "updatedAt": "2021-10-24T20:31:08.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "異世界居酒屋｢げん」",
@@ -40,5 +60,5 @@
     "updatedAt": "2021-09-06T03:16:56.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/90190/Isekai_Izakaya_Nobu"
 }

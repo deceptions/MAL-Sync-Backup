@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 140658,
   "createdAt": "2021-10-08T12:02:19.000Z",
-  "updatedAt": "2021-10-08T12:02:21.000Z",
+  "updatedAt": "2021-10-27T08:15:53.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "우리가 가족이 될 수 있을까요?",
+      "Family Is Needed"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Matcha Vienna",
+      "I-Rim Han"
+    ],
+    "id": 140658,
+    "malId": null,
+    "type": "manga",
+    "title": "Uriga Gajogi Doel Su Isseulkkayo?",
+    "url": "https://anilist.co/manga/140658",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140658-uBKGWRdfejEM.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-27T08:05:32.000Z",
+    "updatedAt": "2021-10-27T08:05:32.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

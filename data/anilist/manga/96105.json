@@ -61,6 +61,28 @@
         "updatedAt": "2021-08-17T16:37:00.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "konohana_kitan": {
+        "authors": [
+          "AMANO Sakuya"
+        ],
+        "identifier": "konohana_kitan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Konohana Kitan",
+        "url": "https://fanfox.net/manga/konohana_kitan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25431/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93399,
+        "aniId": 96105,
+        "createdAt": "2021-10-24T14:32:08.000Z",
+        "updatedAt": "2021-10-24T15:00:53.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

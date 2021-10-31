@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 127861,
-  "aniId": null,
+  "aniId": 102145,
   "createdAt": "2020-10-12T16:14:37.000Z",
-  "updatedAt": "2021-06-06T10:29:08.000Z",
+  "updatedAt": "2021-10-30T01:15:57.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -36,6 +36,25 @@
     "updatedAt": "2021-06-06T06:49:40.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "寮長は料理上手"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yoshi Yoshimura"
+    ],
+    "id": 102145,
+    "malId": 127861,
+    "type": "manga",
+    "title": "Ryouchou wa Ryouri Jouzu",
+    "url": "https://anilist.co/manga/102145",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102145-VTEyKnt2gWzT.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-30T00:45:58.000Z",
+    "updatedAt": "2021-10-30T00:45:58.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/127861/Ryouchou_wa_Ryouri_Jouzu"
 }

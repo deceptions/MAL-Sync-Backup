@@ -66,6 +66,28 @@
         "updatedAt": "2021-08-21T03:46:06.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "dante_shinkyoku": {
+        "authors": [
+          "NAGAI Go"
+        ],
+        "identifier": "dante_shinkyoku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dante Shinkyoku",
+        "url": "https://fanfox.net/manga/dante_shinkyoku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5607/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13361,
+        "aniId": 43361,
+        "createdAt": "2021-10-30T00:46:51.000Z",
+        "updatedAt": "2021-10-30T01:15:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -20,10 +20,21 @@
   "updatedAt": "2021-06-03T17:51:08.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.famitsu.com/comic_clear/se_sg_epigraph/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/STEINS;GATE"
+      }
+    ],
     "altTitle": [
-      "Steins,Gate: Epigraph of the Closed Curve",
-      "STEINS;GATE 閉時曲線のエピグラフ"
+      "Steins",
+      "Gate: Epigraph of the Closed Curve",
+      "STEINS",
+      "GATE 閉時曲線のエピグラフ"
     ],
     "authors": [
       "Takimoto, Masashi",
@@ -37,7 +48,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:44:33.000Z",
-    "updatedAt": "2021-04-26T20:50:31.000Z",
+    "updatedAt": "2021-10-26T21:02:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

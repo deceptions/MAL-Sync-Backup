@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 123908,
   "createdAt": "2021-02-20T22:34:08.000Z",
-  "updatedAt": "2021-08-11T16:39:43.000Z",
+  "updatedAt": "2021-10-29T14:03:07.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "あなたにだけは",
+      "Only for You"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ayano Kashiwagi"
+    ],
+    "id": 123908,
+    "malId": null,
+    "type": "manga",
+    "title": "Anata ni dake wa  ",
+    "url": "https://anilist.co/manga/123908",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123908-0Ln0h6ZBZwWr.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-23T11:12:58.000Z",
+    "updatedAt": "2021-10-29T00:46:36.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

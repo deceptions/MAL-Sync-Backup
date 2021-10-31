@@ -6,7 +6,7 @@
   ],
   "externalLinks": [],
   "id": 140113,
-  "malId": null,
+  "malId": 39833,
   "type": "anime",
   "title": "JUNK HEAD",
   "url": "https://anilist.co/anime/140113",
@@ -14,7 +14,63 @@
   "category": "movie",
   "hentai": false,
   "createdAt": "2021-10-08T12:02:19.000Z",
-  "updatedAt": "2021-10-08T12:02:19.000Z",
+  "updatedAt": "2021-10-24T13:00:53.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "x7v3": {
+        "identifier": "x7v3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Junk Head",
+        "url": "https://9anime.to/watch/junk-head.x7v3",
+        "image": "https://static.akacdn.ru/files/images/2018/05/205d32b90e42effa218d0731e94f6f52.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39833,
+        "aniId": 140113,
+        "createdAt": "2020-10-12T15:56:26.000Z",
+        "updatedAt": "2021-10-24T13:30:53.000Z",
+        "deletedAt": null
+      },
+      "kwonv": {
+        "identifier": "kwonv",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Junk Head",
+        "url": "https://9anime.to/watch/junk-head.kwonv",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/83/836c489c916003a5023ec4ddef41426f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39833,
+        "aniId": 140113,
+        "createdAt": "2021-09-11T18:06:33.000Z",
+        "updatedAt": "2021-10-24T13:30:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "junk-head": {
+        "identifier": "junk-head",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Junk Head",
+        "url": "https://gogoanime.pe/category/junk-head",
+        "image": "https://gogocdn.net/cover/junk-head.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39833,
+        "aniId": 140113,
+        "createdAt": "2021-09-11T17:36:40.000Z",
+        "updatedAt": "2021-10-24T13:30:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

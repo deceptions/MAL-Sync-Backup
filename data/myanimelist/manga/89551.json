@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "The Tales of Tendo Family",
     "天堂家物語"
@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:00.000Z",
-  "updatedAt": "2021-09-28T16:33:13.000Z",
+  "updatedAt": "2021-10-29T15:46:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,50 @@
         "aniId": 95040,
         "createdAt": "2021-03-28T16:24:59.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hr954700": {
+        "authors": [
+          "Saitou Ken"
+        ],
+        "identifier": "manga-hr954700",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tendou-Ke Monogatari",
+        "url": "https://readmanganato.com/manga-hr954700",
+        "image": "https://avt.mkklcdnv6temp.com/15/x/3-1583468271.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89551,
+        "aniId": 95040,
+        "createdAt": "2021-10-29T15:46:38.000Z",
+        "updatedAt": "2021-10-29T16:15:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tendou_ke_monogatari": {
+        "authors": [
+          "SAITOU Ken"
+        ],
+        "identifier": "tendou_ke_monogatari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tendou-ke Monogatari",
+        "url": "https://fanfox.net/manga/tendou_ke_monogatari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/16085/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89551,
+        "aniId": 95040,
+        "createdAt": "2021-10-30T17:34:21.000Z",
+        "updatedAt": "2021-10-30T18:04:19.000Z",
         "deletedAt": null
       }
     }

@@ -61,6 +61,50 @@
         "updatedAt": "2021-09-25T17:45:23.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-ur971552": {
+        "authors": [
+          "Arai Cherry"
+        ],
+        "identifier": "manga-ur971552",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sansha Sanyou",
+        "url": "https://readmanganato.com/manga-ur971552",
+        "image": "https://avt.mkklcdnv6temp.com/47/v/13-1583489511.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20140,
+        "aniId": 50140,
+        "createdAt": "2021-10-24T23:01:55.000Z",
+        "updatedAt": "2021-10-24T23:30:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sansha_sanyou": {
+        "authors": [
+          "ARAI Cherry"
+        ],
+        "identifier": "sansha_sanyou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sansha Sanyou",
+        "url": "https://fanfox.net/manga/sansha_sanyou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20317/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20140,
+        "aniId": 50140,
+        "createdAt": "2021-10-24T23:03:08.000Z",
+        "updatedAt": "2021-10-24T23:30:53.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

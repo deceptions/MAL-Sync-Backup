@@ -20,5 +20,29 @@
   "createdAt": "2021-07-27T06:51:36.000Z",
   "updatedAt": "2021-08-18T00:07:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "4e0ab019-afcb-4fd9-98eb-fcb28cf7fc81": {
+        "authors": [
+          "Kamachi Kazuma",
+          "Nogi Yasuhito"
+        ],
+        "identifier": "4e0ab019-afcb-4fd9-98eb-fcb28cf7fc81",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Toaru Kagaku no Mental Out",
+        "url": "https://mangadex.org/title/4e0ab019-afcb-4fd9-98eb-fcb28cf7fc81",
+        "image": "https://uploads.mangadex.org/covers/4e0ab019-afcb-4fd9-98eb-fcb28cf7fc81/de2aaf95-a962-4e11-8178-f1947a1c6eeb.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139100,
+        "aniId": 137145,
+        "createdAt": "2021-10-28T00:45:57.000Z",
+        "updatedAt": "2021-10-28T00:45:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

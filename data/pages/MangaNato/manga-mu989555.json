@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 120579,
   "createdAt": "2021-08-22T13:16:20.000Z",
-  "updatedAt": "2021-08-22T13:16:28.000Z",
+  "updatedAt": "2021-10-27T08:15:49.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "休屠",
+      "Hugh tu"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Baihu Tang Manhua Gongzuoshi"
+    ],
+    "id": 120579,
+    "malId": null,
+    "type": "manga",
+    "title": "Houtu",
+    "url": "https://anilist.co/manga/120579",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b120579-qUCtJtlKzJnm.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-07T19:09:12.000Z",
+    "updatedAt": "2021-10-27T08:04:22.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

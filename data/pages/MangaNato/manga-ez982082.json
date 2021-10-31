@@ -13,13 +13,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 111573,
   "createdAt": "2021-05-29T01:43:03.000Z",
-  "updatedAt": "2021-10-04T12:00:52.000Z",
+  "updatedAt": "2021-10-25T18:33:38.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "My Girlfriend is a Zombie",
+      "我的守护女友",
+      "我的女友是丧尸",
+      "Guardian Girlfriend",
+      "Virus Girlfriend"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yuewen Manhua"
+    ],
+    "id": 111573,
+    "malId": null,
+    "type": "manga",
+    "title": "Wo De Shouhu Nuyou",
+    "url": "https://anilist.co/manga/111573",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111573-s6aIbPEyvV61.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-21T07:12:57.000Z",
+    "updatedAt": "2021-10-02T21:01:33.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

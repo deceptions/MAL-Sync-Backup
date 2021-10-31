@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%AD%A4%E8%8A%B1%E4%BA%AD%E5%A5%87%E8%AD%9A"
+    }
+  ],
   "altTitle": [
     "Konohana Kitan",
     "Fox Spirit Tales",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:13.000Z",
-  "updatedAt": "2021-08-17T16:08:01.000Z",
+  "updatedAt": "2021-10-24T14:32:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +65,28 @@
         "aniId": 96105,
         "createdAt": "2021-08-17T16:07:04.000Z",
         "updatedAt": "2021-08-17T16:37:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "konohana_kitan": {
+        "authors": [
+          "AMANO Sakuya"
+        ],
+        "identifier": "konohana_kitan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Konohana Kitan",
+        "url": "https://fanfox.net/manga/konohana_kitan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25431/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93399,
+        "aniId": 96105,
+        "createdAt": "2021-10-24T14:32:08.000Z",
+        "updatedAt": "2021-10-24T15:00:53.000Z",
         "deletedAt": null
       }
     }

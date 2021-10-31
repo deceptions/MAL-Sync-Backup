@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-04T17:44:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "jibun_katte": {
+        "authors": [
+          "Hinako (ひなこ)"
+        ],
+        "identifier": "jibun_katte",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Jibun Katte.",
+        "url": "https://fanfox.net/manga/jibun_katte/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/19043/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97962,
+        "aniId": 99203,
+        "createdAt": "2021-10-25T06:31:08.000Z",
+        "updatedAt": "2021-10-25T07:00:53.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

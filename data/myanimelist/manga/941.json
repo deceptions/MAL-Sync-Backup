@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/カオシックルーン"
+    }
+  ],
   "altTitle": [
     "カオシックルーン"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:28.000Z",
-  "updatedAt": "2021-04-26T14:43:19.000Z",
+  "updatedAt": "2021-10-25T03:31:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +41,28 @@
         "aniId": 30941,
         "createdAt": "2020-10-12T16:03:59.000Z",
         "updatedAt": "2021-06-02T17:53:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ih959990": {
+        "authors": [
+          "Yamamoto Kenji"
+        ],
+        "identifier": "manga-ih959990",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Chaosic Rune",
+        "url": "https://manganato.com/manga-ih959990",
+        "image": "https://avt.mkklcdnv6temp.com/34/n/6-1583475522.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 941,
+        "aniId": 30941,
+        "createdAt": "2021-10-25T03:31:05.000Z",
+        "updatedAt": "2021-10-25T04:00:53.000Z",
         "deletedAt": null
       }
     }

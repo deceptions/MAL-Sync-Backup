@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 134446,
   "createdAt": "2021-05-22T23:14:03.000Z",
-  "updatedAt": "2021-07-31T16:52:15.000Z",
+  "updatedAt": "2021-10-29T23:13:57.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Our Little Empress",
+      "아기 황후님",
+      "Baby Empress"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Usoi",
+      "Maryang",
+      "nokcy"
+    ],
+    "id": 134446,
+    "malId": null,
+    "type": "manga",
+    "title": "Agi Hwanghunim",
+    "url": "https://anilist.co/manga/134446",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134446-hAivSleFUjA9.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T21:12:58.000Z",
+    "updatedAt": "2021-10-29T19:46:18.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

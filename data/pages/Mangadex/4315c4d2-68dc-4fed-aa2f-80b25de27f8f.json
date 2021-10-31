@@ -10,14 +10,33 @@
   "image": "https://uploads.mangadex.org/covers/4315c4d2-68dc-4fed-aa2f-80b25de27f8f/33d402c2-07e5-41fb-8fc2-2699cce7fd81.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 118373,
   "createdAt": "2021-10-21T18:47:32.000Z",
-  "updatedAt": "2021-10-21T18:47:32.000Z",
+  "updatedAt": "2021-10-27T08:03:02.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "女神になんてなれない"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ikada Tsuruma"
+    ],
+    "id": 118373,
+    "malId": null,
+    "type": "manga",
+    "title": "Megami ni Nante Narenai",
+    "url": "https://anilist.co/manga/118373",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118373-gWAGooLz90st.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-11T04:09:16.000Z",
+    "updatedAt": "2021-10-27T08:03:02.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

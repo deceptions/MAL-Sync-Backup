@@ -16,5 +16,28 @@
   "createdAt": "2021-10-10T12:33:34.000Z",
   "updatedAt": "2021-10-10T12:33:34.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mg989863": {
+        "authors": [
+          "Haruno Shuu"
+        ],
+        "identifier": "manga-mg989863",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shippuu Windmill!",
+        "url": "https://manganato.com/manga-mg989863",
+        "image": "https://avt.mkklcdnv6temp.com/49/z/24-1635133282.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110656,
+        "aniId": null,
+        "createdAt": "2021-10-25T07:01:25.000Z",
+        "updatedAt": "2021-10-25T07:01:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

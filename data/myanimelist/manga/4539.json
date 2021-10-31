@@ -67,6 +67,28 @@
         "updatedAt": "2021-05-20T15:39:24.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mel_kano": {
+        "authors": [
+          "OSHIMA Towa"
+        ],
+        "identifier": "mel_kano",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mel Kano",
+        "url": "https://fanfox.net/manga/mel_kano/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1325/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4539,
+        "aniId": 34539,
+        "createdAt": "2021-10-29T09:46:08.000Z",
+        "updatedAt": "2021-10-29T10:15:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

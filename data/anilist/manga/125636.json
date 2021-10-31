@@ -21,7 +21,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-23T14:13:52.000Z",
-  "updatedAt": "2021-09-24T08:15:55.000Z",
+  "updatedAt": "2021-10-27T08:02:12.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -44,6 +44,28 @@
         "aniId": 125636,
         "createdAt": "2020-10-27T00:39:09.000Z",
         "updatedAt": "2021-08-26T04:36:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-je987087": {
+        "authors": [
+          "유도"
+        ],
+        "identifier": "manga-je987087",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Max Level Hero Has Returned!",
+        "url": "https://readmanganato.com/manga-je987087",
+        "image": "https://avt.mkklcdnv6temp.com/33/f/22-1603951570.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 125636,
+        "createdAt": "2021-05-28T20:25:14.000Z",
+        "updatedAt": "2021-10-27T08:15:46.000Z",
         "deletedAt": null
       }
     }

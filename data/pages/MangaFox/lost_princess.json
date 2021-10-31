@@ -12,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 123519,
   "createdAt": "2021-06-02T14:01:33.000Z",
-  "updatedAt": "2021-06-02T14:01:33.000Z",
+  "updatedAt": "2021-10-27T08:15:25.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Lost Princess  ",
+      "로스트 프린세스"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "KATINO"
+    ],
+    "id": 123519,
+    "malId": null,
+    "type": "manga",
+    "title": "Lost Princess",
+    "url": "https://anilist.co/manga/123519",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123519-ift86HefsCAV.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T00:12:58.000Z",
+    "updatedAt": "2021-10-27T08:01:13.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

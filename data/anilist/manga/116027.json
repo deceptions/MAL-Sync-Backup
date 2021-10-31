@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-21T15:12:57.000Z",
-  "updatedAt": "2021-09-22T23:42:40.000Z",
+  "updatedAt": "2021-10-27T08:04:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,28 @@
         "aniId": 116027,
         "createdAt": "2020-10-12T16:18:31.000Z",
         "updatedAt": "2021-07-12T12:16:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hm984621": {
+        "authors": [
+          "冬漫社"
+        ],
+        "identifier": "manga-hm984621",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Immortal Swordsman In The Reverse World",
+        "url": "https://manganato.com/manga-hm984621",
+        "image": "https://avt.mkklcdnv6temp.com/33/b/20-1583502304.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 116027,
+        "createdAt": "2021-05-29T16:12:24.000Z",
+        "updatedAt": "2021-10-27T08:15:55.000Z",
         "deletedAt": null
       }
     }

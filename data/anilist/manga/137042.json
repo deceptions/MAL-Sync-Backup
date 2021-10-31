@@ -17,5 +17,28 @@
   "createdAt": "2021-07-27T05:21:36.000Z",
   "updatedAt": "2021-10-11T00:07:53.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a4a5258a-d926-4fc2-8981-9f15a433ef13": {
+        "authors": [
+          "Yoshikawa Miki"
+        ],
+        "identifier": "a4a5258a-d926-4fc2-8981-9f15a433ef13",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hiiragi-san Chi No Kyuuketsu Jijou",
+        "url": "https://mangadex.org/title/a4a5258a-d926-4fc2-8981-9f15a433ef13",
+        "image": "https://uploads.mangadex.org/covers/a4a5258a-d926-4fc2-8981-9f15a433ef13/5e1ad167-7021-420b-99ca-662900dbd7b6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140912,
+        "aniId": 137042,
+        "createdAt": "2021-10-25T10:30:57.000Z",
+        "updatedAt": "2021-10-25T11:00:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

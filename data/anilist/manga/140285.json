@@ -17,5 +17,28 @@
   "createdAt": "2021-10-13T20:58:45.000Z",
   "updatedAt": "2021-10-13T20:58:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "e2f337f9-fe7c-4ff8-8d72-839a31d88caa": {
+        "authors": [
+          "KUMAI"
+        ],
+        "identifier": "e2f337f9-fe7c-4ff8-8d72-839a31d88caa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Usagi no Furafura",
+        "url": "https://mangadex.org/title/e2f337f9-fe7c-4ff8-8d72-839a31d88caa",
+        "image": "https://uploads.mangadex.org/covers/e2f337f9-fe7c-4ff8-8d72-839a31d88caa/7836be2c-3fbc-4aa6-84cc-c53bbd810864.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 140285,
+        "createdAt": "2021-10-13T08:28:45.000Z",
+        "updatedAt": "2021-10-28T07:46:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

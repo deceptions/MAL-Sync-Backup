@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 113309,
   "createdAt": "2021-08-03T23:50:21.000Z",
-  "updatedAt": "2021-08-03T23:50:21.000Z",
+  "updatedAt": "2021-10-27T08:15:42.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "I Choose the Emperor Ending",
+      "황제엔딩으로 가겠습니다"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Su-O Kim",
+      "Jaradog"
+    ],
+    "id": 113309,
+    "malId": null,
+    "type": "manga",
+    "title": "Hwangjeendingeuro Gagetseumnida",
+    "url": "https://anilist.co/manga/113309",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b113309-6BtsnQkQ6z88.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-23T16:08:40.000Z",
+    "updatedAt": "2021-10-27T08:02:02.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

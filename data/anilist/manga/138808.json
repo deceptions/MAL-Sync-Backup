@@ -20,5 +20,28 @@
   "createdAt": "2021-09-06T14:34:30.000Z",
   "updatedAt": "2021-10-17T20:58:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mf989588": {
+        "authors": [
+          "Updating"
+        ],
+        "identifier": "manga-mf989588",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Supreme Taoist (2021)",
+        "url": "https://manganato.com/manga-mf989588",
+        "image": "https://avt.mkklcdnv6temp.com/37/q/24-1629803122.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 138808,
+        "createdAt": "2021-08-26T20:06:36.000Z",
+        "updatedAt": "2021-10-27T22:03:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

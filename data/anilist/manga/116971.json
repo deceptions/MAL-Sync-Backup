@@ -19,7 +19,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-30T04:12:13.000Z",
-  "updatedAt": "2021-06-21T15:19:12.000Z",
+  "updatedAt": "2021-10-27T08:04:12.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,29 @@
         "aniId": 116971,
         "createdAt": "2020-10-12T16:20:56.000Z",
         "updatedAt": "2021-06-08T01:39:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hx984932": {
+        "authors": [
+          "Red Parsley",
+          "Whitefence"
+        ],
+        "identifier": "manga-hx984932",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ingrid, The White Deer",
+        "url": "https://readmanganato.com/manga-hx984932",
+        "image": "https://avt.mkklcdnv6temp.com/44/y/20-1584323309.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 116971,
+        "createdAt": "2021-05-28T21:24:43.000Z",
+        "updatedAt": "2021-10-27T08:15:47.000Z",
         "deletedAt": null
       }
     }

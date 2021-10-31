@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-23T11:12:58.000Z",
-  "updatedAt": "2021-08-11T16:39:54.000Z",
+  "updatedAt": "2021-10-29T00:46:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 123908,
         "createdAt": "2020-10-12T16:21:02.000Z",
         "updatedAt": "2021-06-08T06:59:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "only-for-you": {
+        "authors": [
+          "KASHIWAGI Ayano"
+        ],
+        "identifier": "only-for-you",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Only for You",
+        "url": "https://mangasee123.com/manga/Only-for-You",
+        "image": "https://cover.nep.li/cover/Only-for-You.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 123908,
+        "createdAt": "2021-02-20T22:34:08.000Z",
+        "updatedAt": "2021-10-29T14:03:07.000Z",
         "deletedAt": null
       }
     }

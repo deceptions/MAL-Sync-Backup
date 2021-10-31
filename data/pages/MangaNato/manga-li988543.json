@@ -11,13 +11,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 140699,
   "createdAt": "2021-06-08T15:56:53.000Z",
-  "updatedAt": "2021-06-08T15:56:53.000Z",
+  "updatedAt": "2021-10-25T16:19:18.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "我有一座末世地下城"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Wo Er Xie Ti"
+    ],
+    "id": 140699,
+    "malId": null,
+    "type": "manga",
+    "title": "Wo You Yi Zuo Moshi Dixiacheng",
+    "url": "https://anilist.co/manga/140699",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140699-dhyZjmNab7Gw.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-25T08:31:04.000Z",
+    "updatedAt": "2021-10-25T08:31:04.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -65,6 +65,48 @@
         "createdAt": "2021-10-09T05:02:29.000Z",
         "updatedAt": "2021-10-09T05:32:19.000Z",
         "deletedAt": null
+      },
+      "manga-mk989867": {
+        "authors": [
+          "Asaga Iori"
+        ],
+        "identifier": "manga-mk989867",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dog And Scum",
+        "url": "https://manganato.com/manga-mk989867",
+        "image": "https://avt.mkklcdnv6temp.com/50/d/24-1635174693.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 138015,
+        "aniId": 135930,
+        "createdAt": "2021-10-25T16:31:25.000Z",
+        "updatedAt": "2021-10-25T17:00:54.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "inu_to_kuzu": {
+        "authors": [
+          "ASAGA Iori"
+        ],
+        "identifier": "inu_to_kuzu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Inu to Kuzu",
+        "url": "https://fanfox.net/manga/inu_to_kuzu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39380/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 138015,
+        "aniId": 135930,
+        "createdAt": "2021-10-24T23:30:53.000Z",
+        "updatedAt": "2021-10-25T00:00:53.000Z",
+        "deletedAt": null
       }
     }
   }

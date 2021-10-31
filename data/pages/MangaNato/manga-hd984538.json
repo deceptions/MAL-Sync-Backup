@@ -11,13 +11,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 131214,
+  "aniId": 115737,
   "createdAt": "2021-09-09T18:05:15.000Z",
-  "updatedAt": "2021-09-09T18:05:17.000Z",
+  "updatedAt": "2021-10-25T08:00:53.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Goukon Aite wa Nikushoku Keikan!?: 26-sai Shoujo wa Torawaretai",
+      "My Blind Date Is a Womanizing Cop",
+      "合コン相手は肉食警官!?"
+    ],
+    "authors": [
+      "Odoru Doku Ringo",
+      "Satori, Momo"
+    ],
+    "id": 131214,
+    "type": "manga",
+    "title": "Goukon Aite wa Nikushoku Keikan!?",
+    "url": "https://myanimelist.net/manga/131214/Goukon_Aite_wa_Nikushoku_Keikan",
+    "image": "https://cdn.myanimelist.net/images/manga/1/237149.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-11-16T11:15:22.000Z",
+    "updatedAt": "2021-10-24T21:32:27.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "合コン相手は肉食警官!?～26歳処女は捕らわれたい～",
+      "My Blind Date is a Womanizing Cop",
+      "合コン相手は肉食警官! ? "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Odorudokuringo",
+      "Momo Satori"
+    ],
+    "id": 115737,
+    "malId": 131214,
+    "type": "manga",
+    "title": "Goukon Aite wa Nikushoku Keikan!? 26-sai Shojo wa Torawaretai",
+    "url": "https://anilist.co/manga/115737",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115737-GhCliwGzRzRe.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-05-24T16:08:18.000Z",
+    "updatedAt": "2021-06-18T08:04:31.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/131214/Goukon_Aite_wa_Nikushoku_Keikan"
 }

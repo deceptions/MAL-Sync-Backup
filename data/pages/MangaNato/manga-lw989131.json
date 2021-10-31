@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 140895,
   "createdAt": "2021-06-05T16:51:00.000Z",
-  "updatedAt": "2021-06-05T16:51:00.000Z",
+  "updatedAt": "2021-10-30T16:01:59.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "There's No Way There Are Any Girls in My Guild",
+      "我的公会不可能有女孩子"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Wan Dian",
+      "Man Tou"
+    ],
+    "id": 140895,
+    "malId": null,
+    "type": "manga",
+    "title": "Wo De Gonghui Bukeneng You Nühaizi",
+    "url": "https://anilist.co/manga/140895",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140895-RjtizGyRNmsL.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-30T02:16:49.000Z",
+    "updatedAt": "2021-10-30T02:16:49.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -18,5 +18,29 @@
   "createdAt": "2021-06-05T09:48:57.000Z",
   "updatedAt": "2021-09-16T02:10:43.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "b89018c2-7a2d-4f9b-a5d6-12aa54087c25": {
+        "authors": [
+          "Saitou Kenji",
+          "Hata Hiro"
+        ],
+        "identifier": "b89018c2-7a2d-4f9b-a5d6-12aa54087c25",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Misumi-san Can’t See Through",
+        "url": "https://mangadex.org/title/b89018c2-7a2d-4f9b-a5d6-12aa54087c25",
+        "image": "https://uploads.mangadex.org/covers/b89018c2-7a2d-4f9b-a5d6-12aa54087c25/7790762a-a936-443f-b643-43b2393f863e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136899,
+        "aniId": 131401,
+        "createdAt": "2021-10-27T16:16:18.000Z",
+        "updatedAt": "2021-10-27T16:16:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 124557,
   "createdAt": "2021-05-29T06:15:26.000Z",
-  "updatedAt": "2021-10-15T07:58:55.000Z",
+  "updatedAt": "2021-10-25T07:54:15.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "万魂豪婿",
+      "My son-in-law",
+      "Extraordinary Son-in-Law"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "You Lu Wenhua"
+    ],
+    "id": 124557,
+    "malId": null,
+    "type": "manga",
+    "title": "Wan Hun Hao Xu",
+    "url": "https://anilist.co/manga/124557",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b124557-wkIbHhl06p8Z.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T20:12:57.000Z",
+    "updatedAt": "2021-09-26T17:45:55.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

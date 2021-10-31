@@ -43,6 +43,28 @@
         "updatedAt": "2021-06-06T18:12:54.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "fake_cinderella": {
+        "authors": [
+          "SHIOMURA Hina"
+        ],
+        "identifier": "fake_cinderella",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fake Cinderella",
+        "url": "https://fanfox.net/manga/fake_cinderella/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31022/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113256,
+        "aniId": 109585,
+        "createdAt": "2021-10-27T22:46:27.000Z",
+        "updatedAt": "2021-10-27T23:15:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

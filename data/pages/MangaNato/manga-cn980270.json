@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 119438,
   "createdAt": "2021-05-31T09:12:30.000Z",
-  "updatedAt": "2021-09-25T17:45:39.000Z",
+  "updatedAt": "2021-10-29T14:05:48.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "天才高手",
+      "Talented Genius",
+      "Godly Expert"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shanjun Tu",
+      "Zhang Yue Wen Hua"
+    ],
+    "id": 119438,
+    "malId": null,
+    "type": "manga",
+    "title": "Tiancai Gaoshou",
+    "url": "https://anilist.co/manga/119438",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx119438-sZ0RKdX240yI.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-26T06:08:18.000Z",
+    "updatedAt": "2021-10-29T11:47:01.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

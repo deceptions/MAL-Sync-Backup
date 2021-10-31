@@ -61,6 +61,28 @@
         "updatedAt": "2021-05-20T15:40:04.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kurogane_ikezawa_haruto": {
+        "authors": [
+          "IKEZAWA Haruto"
+        ],
+        "identifier": "kurogane_ikezawa_haruto",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kurogane (IKEZAWA Haruto)",
+        "url": "https://fanfox.net/manga/kurogane_ikezawa_haruto/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9359/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29447,
+        "aniId": 59447,
+        "createdAt": "2021-10-26T19:00:56.000Z",
+        "updatedAt": "2021-10-26T19:30:54.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

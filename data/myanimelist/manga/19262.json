@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Love_Plus"
+    }
+  ],
   "altTitle": [
     "LovePlus: Rinko Days",
     "ラブプラス Rinko Days"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:43.000Z",
-  "updatedAt": "2021-06-23T11:45:43.000Z",
+  "updatedAt": "2021-10-26T20:01:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +66,28 @@
         "aniId": 49262,
         "createdAt": "2020-12-23T11:26:25.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "loveplus_rinko_days": {
+        "authors": [
+          "SEO Kouji"
+        ],
+        "identifier": "loveplus_rinko_days",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Loveplus Rinko Days",
+        "url": "https://fanfox.net/manga/loveplus_rinko_days/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7700/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19262,
+        "aniId": 49262,
+        "createdAt": "2021-10-26T20:01:16.000Z",
+        "updatedAt": "2021-10-26T20:30:54.000Z",
         "deletedAt": null
       }
     }

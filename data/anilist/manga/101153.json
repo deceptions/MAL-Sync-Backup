@@ -40,6 +40,28 @@
         "updatedAt": "2021-07-10T04:43:17.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "koi_wa_etude": {
+        "authors": [
+          "UMI Tomoshibi"
+        ],
+        "identifier": "koi_wa_etude",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koi wa Etude!",
+        "url": "https://fanfox.net/manga/koi_wa_etude/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27174/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109169,
+        "aniId": 101153,
+        "createdAt": "2021-10-25T06:31:04.000Z",
+        "updatedAt": "2021-10-25T07:00:53.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

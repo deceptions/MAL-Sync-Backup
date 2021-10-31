@@ -12,13 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 140655,
   "createdAt": "2021-10-17T22:28:57.000Z",
-  "updatedAt": "2021-10-17T22:28:57.000Z",
+  "updatedAt": "2021-10-25T07:54:19.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "더는 못 본 척하지 않기로 했다",
+      " I Can No Longer Pretend I Don’t See It",
+      "Can’t pretend to be blind anymore"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Jae-Hyeon Lee",
+      "DAMA",
+      "Yulbi"
+    ],
+    "id": 140655,
+    "malId": null,
+    "type": "manga",
+    "title": "Deoneun Mon Bon Cheokaji Ankiro Haetda",
+    "url": "https://anilist.co/manga/140655",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140655-yAAf915BjmeV.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-24T13:31:04.000Z",
+    "updatedAt": "2021-10-24T13:31:04.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-23T16:08:40.000Z",
-  "updatedAt": "2021-06-21T14:50:16.000Z",
+  "updatedAt": "2021-10-27T08:02:02.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaSee": {
@@ -63,6 +63,28 @@
         "aniId": 113309,
         "createdAt": "2021-05-31T09:16:41.000Z",
         "updatedAt": "2021-05-31T09:16:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "i_will_go_with_the_emperor_s_ending": {
+        "authors": [
+          "KIM Suo"
+        ],
+        "identifier": "i_will_go_with_the_emperor_s_ending",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "I Will Go with the Emperor's Ending",
+        "url": "https://fanfox.net/manga/i_will_go_with_the_emperor_s_ending/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32971/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 113309,
+        "createdAt": "2021-08-03T23:50:21.000Z",
+        "updatedAt": "2021-10-27T08:15:42.000Z",
         "deletedAt": null
       }
     }

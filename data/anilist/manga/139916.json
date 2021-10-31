@@ -19,5 +19,28 @@
   "createdAt": "2021-10-03T08:30:53.000Z",
   "updatedAt": "2021-10-03T08:30:53.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a96d22d1-e577-4f2a-a865-64c42f37e767": {
+        "authors": [
+          "Yanagida Fumita"
+        ],
+        "identifier": "a96d22d1-e577-4f2a-a865-64c42f37e767",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Demon Lord and the Hero",
+        "url": "https://mangadex.org/title/a96d22d1-e577-4f2a-a865-64c42f37e767",
+        "image": "https://uploads.mangadex.org/covers/a96d22d1-e577-4f2a-a865-64c42f37e767/1a908cde-50ea-4d23-9440-6f9f2b717994.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": false,
+        "actor": null,
+        "malId": null,
+        "aniId": 139916,
+        "createdAt": "2021-10-28T08:16:08.000Z",
+        "updatedAt": "2021-10-28T08:16:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

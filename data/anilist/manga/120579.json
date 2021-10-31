@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T19:09:12.000Z",
-  "updatedAt": "2021-06-21T15:52:07.000Z",
+  "updatedAt": "2021-10-27T08:04:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 120579,
         "createdAt": "2020-10-12T16:18:38.000Z",
         "updatedAt": "2021-06-07T19:17:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mu989555": {
+        "authors": [
+          "Bai Hu Tang Comic Studio"
+        ],
+        "identifier": "manga-mu989555",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Xiu Tu",
+        "url": "https://manganato.com/manga-mu989555",
+        "image": "https://avt.mkklcdnv6temp.com/36/h/24-1629605702.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120579,
+        "createdAt": "2021-08-22T13:16:20.000Z",
+        "updatedAt": "2021-10-27T08:15:49.000Z",
         "deletedAt": null
       }
     }

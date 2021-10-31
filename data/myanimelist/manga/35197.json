@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%91%E3%83%B3"
+    }
+  ],
   "altTitle": [
     "My Chopin",
     "僕のショパン"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:58.000Z",
-  "updatedAt": "2021-05-05T15:02:03.000Z",
+  "updatedAt": "2021-10-28T04:16:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 65197,
         "createdAt": "2020-10-12T16:04:03.000Z",
         "updatedAt": "2021-06-02T18:17:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "boku-no-chopin": {
+        "authors": [
+          "MOMOYUKI Kotori"
+        ],
+        "identifier": "boku-no-chopin",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Boku no Chopin",
+        "url": "https://mangasee123.com/manga/Boku-No-Chopin",
+        "image": "https://cover.nep.li/cover/Boku-No-Chopin.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35197,
+        "aniId": 65197,
+        "createdAt": "2021-10-28T04:16:16.000Z",
+        "updatedAt": "2021-10-28T04:45:57.000Z",
         "deletedAt": null
       }
     }

@@ -85,6 +85,29 @@
         "updatedAt": "2021-07-31T12:21:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "cross_days": {
+        "authors": [
+          "Overflow",
+          "SAKAZUKI Homare"
+        ],
+        "identifier": "cross_days",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cross Days",
+        "url": "https://fanfox.net/manga/cross_days/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9973/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23438,
+        "aniId": 53438,
+        "createdAt": "2021-10-25T19:30:57.000Z",
+        "updatedAt": "2021-10-25T20:00:54.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

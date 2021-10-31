@@ -12,11 +12,34 @@
   "type": "manga",
   "title": "Amakara Gishimai ni Hasamarete Masu",
   "url": "https://anilist.co/manga/138368",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138368-EnOiS8oVIebL.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138368-BHycK4AfRfu2.jpg",
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-01T23:45:49.000Z",
-  "updatedAt": "2021-09-01T23:45:49.000Z",
+  "updatedAt": "2021-10-27T01:31:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "68c5ca83-b5d7-4d06-baf5-aaf777676d3d": {
+        "authors": [
+          "Kirisaki Shuusei"
+        ],
+        "identifier": "68c5ca83-b5d7-4d06-baf5-aaf777676d3d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I'm Sandwiched Between Sweet and Spicy Step-Sisters",
+        "url": "https://mangadex.org/title/68c5ca83-b5d7-4d06-baf5-aaf777676d3d",
+        "image": "https://uploads.mangadex.org/covers/68c5ca83-b5d7-4d06-baf5-aaf777676d3d/1007677f-0727-4782-af1a-26c8c6c54f24.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 138368,
+        "createdAt": "2020-11-30T05:23:17.000Z",
+        "updatedAt": "2021-10-27T07:41:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

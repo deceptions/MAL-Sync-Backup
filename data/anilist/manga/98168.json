@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-04T22:07:01.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "color_recipe": {
+        "authors": [
+          "Harada"
+        ],
+        "identifier": "color_recipe",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Color Recipe",
+        "url": "https://fanfox.net/manga/color_recipe/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20403/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90822,
+        "aniId": 98168,
+        "createdAt": "2021-10-30T21:05:11.000Z",
+        "updatedAt": "2021-10-30T21:34:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

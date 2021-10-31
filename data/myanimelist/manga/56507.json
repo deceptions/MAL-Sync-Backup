@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B0%E3%83%BB%E3%83%9B%E3%83%A9%E3%82%A4%E3%82%BA%E3%83%B3"
+    }
+  ],
   "altTitle": [
     "Log Horizon: The West Wind Brigade",
     "Log Horizon: Caravan of the West Wind",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:48.000Z",
-  "updatedAt": "2021-05-10T17:43:42.000Z",
+  "updatedAt": "2021-10-28T22:46:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -86,6 +91,28 @@
         "aniId": 85179,
         "createdAt": "2021-05-10T17:43:42.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lh962390": {
+        "authors": [
+          "Touno Mamare"
+        ],
+        "identifier": "manga-lh962390",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Log Horizon - Nishikaze No Ryodan",
+        "url": "https://manganato.com/manga-lh962390",
+        "image": "https://avt.mkklcdnv6temp.com/17/m/8-1583478838.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56507,
+        "aniId": 85179,
+        "createdAt": "2021-10-28T22:46:28.000Z",
+        "updatedAt": "2021-10-28T23:15:57.000Z",
         "deletedAt": null
       }
     }

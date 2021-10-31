@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.alphapolis.co.jp/manga/official/371000235"
+    }
+  ],
   "altTitle": [
     "The Mage With Special Circumstances Wants to Live Peacefully",
     "訳あり魔導士は静かに暮らしたい"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:09.000Z",
-  "updatedAt": "2021-08-08T05:49:36.000Z",
+  "updatedAt": "2021-10-30T18:05:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +66,29 @@
         "aniId": 111215,
         "createdAt": "2021-08-08T05:49:26.000Z",
         "updatedAt": "2021-08-08T06:14:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gl983594": {
+        "authors": [
+          "Makoto Uehara",
+          "Yuu Enoki"
+        ],
+        "identifier": "manga-gl983594",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Mage With Special Circumstances Wants To Live Peacefully",
+        "url": "https://readmanganato.com/manga-gl983594",
+        "image": "https://avt.mkklcdnv6temp.com/44/l/19-1583500794.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122742,
+        "aniId": 111215,
+        "createdAt": "2021-10-30T18:05:31.000Z",
+        "updatedAt": "2021-10-30T18:34:19.000Z",
         "deletedAt": null
       }
     }

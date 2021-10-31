@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-07T21:25:51.000Z",
-  "updatedAt": "2021-08-07T21:25:51.000Z",
+  "updatedAt": "2021-10-30T03:46:17.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaNato": {
@@ -39,6 +39,28 @@
         "aniId": 81345,
         "createdAt": "2021-08-03T16:19:41.000Z",
         "updatedAt": "2021-08-07T21:25:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "futaridake_no_kyoushitsu": {
+        "authors": [
+          "MIZU Asato"
+        ],
+        "identifier": "futaridake_no_kyoushitsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Futaridake no Kyoushitsu",
+        "url": "https://fanfox.net/manga/futaridake_no_kyoushitsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28576/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 81345,
+        "createdAt": "2021-10-30T03:45:59.000Z",
+        "updatedAt": "2021-10-30T03:46:17.000Z",
         "deletedAt": null
       }
     }

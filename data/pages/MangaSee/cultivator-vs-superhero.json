@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 120688,
   "createdAt": "2021-02-03T02:31:44.000Z",
-  "updatedAt": "2021-10-04T15:31:02.000Z",
+  "updatedAt": "2021-10-27T08:15:45.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "修仙者大战超能力",
+      "Cultivator Against Hero Society"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Taxue Dongman"
+    ],
+    "id": 120688,
+    "malId": null,
+    "type": "manga",
+    "title": "Xiu Xian Zhe Dazhan Chaonengli",
+    "url": "https://anilist.co/manga/120688",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b120688-vbR3pnEPRZca.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T23:12:57.000Z",
+    "updatedAt": "2021-10-27T08:02:42.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

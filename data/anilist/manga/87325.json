@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-04T19:20:19.000Z",
-  "updatedAt": "2021-06-21T13:22:05.000Z",
+  "updatedAt": "2021-10-27T08:02:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,29 @@
         "aniId": 87325,
         "createdAt": "2020-10-12T16:09:39.000Z",
         "updatedAt": "2021-06-04T19:28:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tv970804": {
+        "authors": [
+          "Fei Fei",
+          "Da D"
+        ],
+        "identifier": "manga-tv970804",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ni Xi Ba Mo Wang!",
+        "url": "https://manganato.com/manga-tv970804",
+        "image": "https://avt.mkklcdnv6temp.com/33/n/13-1583488939.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 87325,
+        "createdAt": "2021-10-24T04:58:38.000Z",
+        "updatedAt": "2021-10-27T08:02:22.000Z",
         "deletedAt": null
       }
     }

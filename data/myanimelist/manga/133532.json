@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://magazine-edge.jp/contents/futago.html"
+    }
+  ],
   "altTitle": [
     "I Can't Tell Which Twin is Which Sex",
     "双子の男女がわからない"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-08T15:41:02.000Z",
-  "updatedAt": "2021-09-08T01:04:31.000Z",
+  "updatedAt": "2021-10-26T16:31:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 129566,
         "createdAt": "2021-03-08T23:10:32.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ko988123": {
+        "authors": [
+          "Hanajiro Abe"
+        ],
+        "identifier": "manga-ko988123",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Can't Tell Which Twin Is Which Sex",
+        "url": "https://manganato.com/manga-ko988123",
+        "image": "https://avt.mkklcdnv6temp.com/25/t/23-1613317563.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133532,
+        "aniId": 129566,
+        "createdAt": "2021-10-26T16:31:25.000Z",
+        "updatedAt": "2021-10-26T17:00:54.000Z",
         "deletedAt": null
       }
     }

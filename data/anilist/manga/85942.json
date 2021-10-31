@@ -64,6 +64,28 @@
         "updatedAt": "2021-08-04T17:17:29.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "date_a_party": {
+        "authors": [
+          "TACHIBANA Koushi"
+        ],
+        "identifier": "date_a_party",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Date A Party",
+        "url": "https://fanfox.net/manga/date_a_party/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13934/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72779,
+        "aniId": 85942,
+        "createdAt": "2021-10-24T14:01:06.000Z",
+        "updatedAt": "2021-10-24T14:30:53.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

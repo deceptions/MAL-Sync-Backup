@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.naver.com/webtoon/list.nhn?titleId=478262"
+    }
+  ],
   "altTitle": [
     "Lessa",
     "Lessa: the Crimson Knight",
@@ -17,7 +22,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-30T19:12:26.000Z",
-  "updatedAt": "2021-08-25T01:36:36.000Z",
+  "updatedAt": "2021-10-26T20:01:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -123,6 +128,26 @@
         "aniId": 85268,
         "createdAt": "2021-04-22T11:28:49.000Z",
         "updatedAt": "2021-05-20T15:40:19.000Z",
+        "deletedAt": null
+      },
+      "lessa_the_crimson_knight": {
+        "authors": [
+          "POGO"
+        ],
+        "identifier": "lessa_the_crimson_knight",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Lessa the Crimson Knight",
+        "url": "https://fanfox.net/manga/lessa_the_crimson_knight/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13419/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118788,
+        "aniId": 85268,
+        "createdAt": "2021-10-26T20:00:56.000Z",
+        "updatedAt": "2021-10-26T20:30:54.000Z",
         "deletedAt": null
       }
     },

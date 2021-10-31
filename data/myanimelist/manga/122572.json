@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic-walker.com/contents/detail/KDCW_AM21201276010000_68/"
+    }
+  ],
   "altTitle": [
     "Touhou Chireikiden: Cheating Detective Satori",
     "東方智霊奇伝 反則探偵さとり"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:09.000Z",
-  "updatedAt": "2021-06-05T19:50:51.000Z",
+  "updatedAt": "2021-10-26T12:01:24.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +66,28 @@
         "aniId": 112917,
         "createdAt": "2021-06-05T19:50:51.000Z",
         "updatedAt": "2021-06-05T20:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gg983463": {
+        "authors": [
+          "Zun"
+        ],
+        "identifier": "manga-gg983463",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Touhou Chireikiden ~ Hansoku Tantei Satori",
+        "url": "https://manganato.com/manga-gg983463",
+        "image": "https://avt.mkklcdnv6temp.com/39/o/19-1583500620.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122572,
+        "aniId": 112917,
+        "createdAt": "2021-10-26T12:01:06.000Z",
+        "updatedAt": "2021-10-26T12:30:54.000Z",
         "deletedAt": null
       }
     }

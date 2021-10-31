@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic-walker.com/contents/detail/KDCW_FL00201343010000_68/"
+    }
+  ],
   "altTitle": [
     "Mr. Devil Rejoiced When I Made Parfait.",
     "魔王様にパフェを作ったら喜ばれました"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-05-29T13:42:52.000Z",
-  "updatedAt": "2021-05-29T13:42:52.000Z",
+  "updatedAt": "2021-10-29T12:47:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 114077,
         "createdAt": "2021-05-29T13:42:52.000Z",
         "updatedAt": "2021-06-08T00:20:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "maou_sama_ni_parfait_wo_tsukuttara_yorokobaremashita": {
+        "authors": [
+          "KANAME Ryu"
+        ],
+        "identifier": "maou_sama_ni_parfait_wo_tsukuttara_yorokobaremashita",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Maou-sama ni Parfait wo Tsukuttara Yorokobaremashita",
+        "url": "https://fanfox.net/manga/maou_sama_ni_parfait_wo_tsukuttara_yorokobaremashita/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34331/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132427,
+        "aniId": 114077,
+        "createdAt": "2021-10-29T12:46:38.000Z",
+        "updatedAt": "2021-10-29T13:15:57.000Z",
         "deletedAt": null
       }
     }

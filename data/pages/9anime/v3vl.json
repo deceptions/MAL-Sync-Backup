@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 9279,
-  "aniId": null,
+  "aniId": 9279,
   "createdAt": "2021-09-06T05:46:20.000Z",
-  "updatedAt": "2021-09-06T05:46:22.000Z",
+  "updatedAt": "2021-10-24T10:58:24.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -38,6 +38,24 @@
     "updatedAt": "2021-10-02T05:33:24.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "バラの花とジョー",
+      "Rose Flower and Joe",
+      "Bara no Hana & Joe"
+    ],
+    "externalLinks": [],
+    "id": 9279,
+    "malId": 9279,
+    "type": "anime",
+    "title": "Bara no Hana to Joe",
+    "url": "https://anilist.co/anime/9279",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9279-fV8QZ3hEF45W.jpg",
+    "category": "movie",
+    "hentai": false,
+    "createdAt": "2021-10-24T10:28:24.000Z",
+    "updatedAt": "2021-10-24T10:28:24.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/9279/Bara_no_Hana_to_Joe"
 }

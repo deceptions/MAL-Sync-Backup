@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://comic.mag-garden.co.jp/beats/2922.html"
+    }
+  ],
   "altTitle": [
     "17-sai Degree Celsius",
     "17歳℃"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:31.000Z",
-  "updatedAt": "2021-07-13T10:45:03.000Z",
+  "updatedAt": "2021-10-26T23:01:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 78805,
         "createdAt": "2021-01-13T10:40:27.000Z",
         "updatedAt": "2021-05-20T15:37:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pb960684": {
+        "authors": [
+          "Mugimori Nagi"
+        ],
+        "identifier": "manga-pb960684",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "17-Sai Degrees Celsius",
+        "url": "https://manganato.com/manga-pb960684",
+        "image": "https://avt.mkklcdnv6temp.com/10/v/7-1583476699.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48805,
+        "aniId": 78805,
+        "createdAt": "2021-10-26T23:00:56.000Z",
+        "updatedAt": "2021-10-26T23:30:54.000Z",
         "deletedAt": null
       }
     }

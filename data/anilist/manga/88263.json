@@ -68,6 +68,28 @@
         "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "li_mu": {
+        "authors": [
+          "HARA Yasuhisa"
+        ],
+        "identifier": "li_mu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Li Mu",
+        "url": "https://fanfox.net/manga/li_mu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12872/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56681,
+        "aniId": 88263,
+        "createdAt": "2021-10-27T20:16:40.000Z",
+        "updatedAt": "2021-10-27T20:45:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

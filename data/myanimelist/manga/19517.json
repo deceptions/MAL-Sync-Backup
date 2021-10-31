@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "13Club",
     "サーティーンクラブ"
@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:44.000Z",
-  "updatedAt": "2021-09-15T14:50:14.000Z",
+  "updatedAt": "2021-10-27T19:17:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 49517,
         "createdAt": "2021-03-15T14:33:11.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pr960700": {
+        "authors": [
+          "Shihira Tatsuya"
+        ],
+        "identifier": "manga-pr960700",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "13 Club",
+        "url": "https://manganato.com/manga-pr960700",
+        "image": "https://avt.mkklcdnv6temp.com/11/l/7-1583476718.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19517,
+        "aniId": 49517,
+        "createdAt": "2021-10-27T19:16:59.000Z",
+        "updatedAt": "2021-10-27T19:45:57.000Z",
         "deletedAt": null
       }
     }

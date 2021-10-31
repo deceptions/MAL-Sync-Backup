@@ -13,9 +13,9 @@
   "active": true,
   "actor": 2,
   "malId": 108388,
-  "aniId": null,
+  "aniId": 130314,
   "createdAt": "2020-10-12T16:10:18.000Z",
-  "updatedAt": "2021-06-04T23:50:20.000Z",
+  "updatedAt": "2021-10-29T21:45:57.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -37,6 +37,26 @@
     "updatedAt": "2021-06-04T23:50:08.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "彼は羊を被った狼",
+      "The Wolf in Sheep's Clothing"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shuu Torihara"
+    ],
+    "id": 130314,
+    "malId": 108388,
+    "type": "manga",
+    "title": "Kare wa Hitsuji wo Kabutta Ookami",
+    "url": "https://anilist.co/manga/130314",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130314-LzDtll19MzRB.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-29T21:15:58.000Z",
+    "updatedAt": "2021-10-29T21:15:58.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/108388/Kare_wa_Hitsuji_wo_Kabutta_Ookami"
 }

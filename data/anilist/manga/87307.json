@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-04T17:05:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "houkago_saikoro_kurabu": {
+        "authors": [
+          "NAKAMICHI Hiroo"
+        ],
+        "identifier": "houkago_saikoro_kurabu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Houkago Saikoro Kurabu",
+        "url": "https://fanfox.net/manga/houkago_saikoro_kurabu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18131/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69035,
+        "aniId": 87307,
+        "createdAt": "2021-10-25T02:30:58.000Z",
+        "updatedAt": "2021-10-25T03:00:53.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

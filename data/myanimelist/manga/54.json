@@ -1,8 +1,17 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B"
+    }
+  ],
   "altTitle": [
     "Yu-Gi-Oh!",
-    "Yuu Gi Ou Shadow Games, Yugioh Duelist, Yu-Gi-Oh! Millenium World, Game King, King of Games",
+    "Yuu Gi Ou Shadow Games",
+    "Yugioh Duelist",
+    "Yu-Gi-Oh! Millenium World",
+    "Game King",
+    "King of Games",
     "遊☆戯☆王"
   ],
   "authors": [
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:17.000Z",
-  "updatedAt": "2021-05-28T23:43:23.000Z",
+  "updatedAt": "2021-10-27T19:46:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -224,6 +233,26 @@
         "aniId": 30054,
         "createdAt": "2021-05-28T23:43:23.000Z",
         "updatedAt": "2021-05-29T00:12:12.000Z",
+        "deletedAt": null
+      },
+      "manga-kh987864": {
+        "authors": [
+          "Takahashi Kazuki"
+        ],
+        "identifier": "manga-kh987864",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yu-Gi-Oh!",
+        "url": "https://readmanganato.com/manga-kh987864",
+        "image": "https://avt.mkklcdnv6temp.com/15/e/23-1612109538.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54,
+        "aniId": 30054,
+        "createdAt": "2021-10-27T19:46:08.000Z",
+        "updatedAt": "2021-10-27T20:15:57.000Z",
         "deletedAt": null
       }
     }

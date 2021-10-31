@@ -1,7 +1,17 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://dc.dengeki.com/comic-cp/sorekano.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%9D%E3%82%8C%E3%81%8C%E5%BD%BC%E5%A5%B3%E3%81%AE%E3%82%BB%E3%82%A4%E3%82%AE%E3%81%AA%E3%82%89"
+    }
+  ],
   "altTitle": [
-    "Belief & Sex, Belief and Sex",
+    "Belief & Sex",
+    "Belief and Sex",
     "それが彼女のセイギなら"
   ],
   "authors": [
@@ -15,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:56.000Z",
-  "updatedAt": "2021-05-01T16:33:32.000Z",
+  "updatedAt": "2021-10-29T17:16:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +91,28 @@
         "aniId": 51328,
         "createdAt": "2021-05-12T16:25:23.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ch956790": {
+        "authors": [
+          "Sanada Rin"
+        ],
+        "identifier": "manga-ch956790",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sore Ga Kanojo No Seigi Nara",
+        "url": "https://manganato.com/manga-ch956790",
+        "image": "https://avt.mkklcdnv6temp.com/26/j/4-1583470769.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21328,
+        "aniId": 51328,
+        "createdAt": "2021-10-29T17:16:07.000Z",
+        "updatedAt": "2021-10-29T17:45:57.000Z",
         "deletedAt": null
       }
     }

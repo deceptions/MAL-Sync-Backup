@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83"
+    }
+  ],
   "altTitle": [
     "Kodocha: Sana's Stage",
     "Child's Toy",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:17.000Z",
-  "updatedAt": "2021-04-26T13:13:29.000Z",
+  "updatedAt": "2021-10-24T23:02:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +65,28 @@
         "aniId": 30018,
         "createdAt": "2021-04-26T13:13:30.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jc957511": {
+        "authors": [
+          "Obana Miho"
+        ],
+        "identifier": "manga-jc957511",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kodomo No Omocha",
+        "url": "https://manganato.com/manga-jc957511",
+        "image": "https://avt.mkklcdnv6temp.com/48/d/4-1583471707.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18,
+        "aniId": 30018,
+        "createdAt": "2021-10-24T23:02:47.000Z",
+        "updatedAt": "2021-10-24T23:30:53.000Z",
         "deletedAt": null
       }
     }

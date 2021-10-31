@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T00:12:58.000Z",
-  "updatedAt": "2021-06-21T16:21:32.000Z",
+  "updatedAt": "2021-10-27T08:01:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 123519,
         "createdAt": "2020-10-12T16:18:13.000Z",
         "updatedAt": "2021-07-20T09:35:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "lost_princess": {
+        "authors": [
+          "KATINO",
+          "[Add]"
+        ],
+        "identifier": "lost_princess",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Lost Princess",
+        "url": "https://fanfox.net/manga/lost_princess/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32970/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123519,
+        "createdAt": "2021-06-02T14:01:33.000Z",
+        "updatedAt": "2021-10-27T08:15:25.000Z",
         "deletedAt": null
       }
     }

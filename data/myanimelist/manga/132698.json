@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://r-cbs.mangafactory.jp/c4554/c180-7829/"
+    }
+  ],
   "altTitle": [
     "不毛恋愛"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-22T23:03:51.000Z",
-  "updatedAt": "2021-07-22T23:34:10.000Z",
+  "updatedAt": "2021-10-27T23:46:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +41,28 @@
         "aniId": null,
         "createdAt": "2020-11-04T15:58:16.000Z",
         "updatedAt": "2021-06-08T06:32:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kp987898": {
+        "authors": [
+          "Hanada Momo"
+        ],
+        "identifier": "manga-kp987898",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fumou Renai",
+        "url": "https://manganato.com/manga-kp987898",
+        "image": "https://avt.mkklcdnv6temp.com/16/n/23-1612174702.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132698,
+        "aniId": null,
+        "createdAt": "2021-10-27T23:45:57.000Z",
+        "updatedAt": "2021-10-27T23:46:08.000Z",
         "deletedAt": null
       }
     }

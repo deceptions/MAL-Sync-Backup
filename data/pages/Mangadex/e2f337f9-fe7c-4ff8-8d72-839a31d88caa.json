@@ -10,14 +10,33 @@
   "image": "https://uploads.mangadex.org/covers/e2f337f9-fe7c-4ff8-8d72-839a31d88caa/7836be2c-3fbc-4aa6-84cc-c53bbd810864.png",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 140285,
   "createdAt": "2021-10-13T08:28:45.000Z",
-  "updatedAt": "2021-10-13T08:28:45.000Z",
+  "updatedAt": "2021-10-28T07:46:38.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "うさぎのふらふら"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kumai"
+    ],
+    "id": 140285,
+    "malId": null,
+    "type": "manga",
+    "title": "Usagi no Furafura",
+    "url": "https://anilist.co/manga/140285",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140285-NQCnS4WY1Ez5.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-13T20:58:45.000Z",
+    "updatedAt": "2021-10-13T20:58:45.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

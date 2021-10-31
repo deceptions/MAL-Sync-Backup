@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 118935,
   "createdAt": "2021-06-13T02:08:24.000Z",
-  "updatedAt": "2021-10-21T13:12:54.000Z",
+  "updatedAt": "2021-10-27T08:15:27.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "리턴 서바이벌",
+      "Riteon Seobaibeol"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sol Yeon Woo",
+      "Moo-hyun Kim"
+    ],
+    "id": 118935,
+    "malId": null,
+    "type": "manga",
+    "title": "Return Survival",
+    "url": "https://anilist.co/manga/118935",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b118935-67qTxZgs4atf.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-27T13:28:43.000Z",
+    "updatedAt": "2021-10-27T08:01:42.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

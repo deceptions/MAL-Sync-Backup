@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/content/top.php/1000002970"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%A6%E3%82%A6%E3%82%BF%E3%82%A4%E3%83%8E%E3%83%B4%E3%82%A1"
+    }
+  ],
   "altTitle": [
     "ユウタイノヴァ"
   ],
@@ -14,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:31.000Z",
-  "updatedAt": "2021-07-01T00:30:34.000Z",
+  "updatedAt": "2021-10-24T03:58:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +89,28 @@
         "aniId": 41036,
         "createdAt": "2020-12-31T11:26:14.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vb961336": {
+        "authors": [
+          "Oshimi Shuzo"
+        ],
+        "identifier": "manga-vb961336",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yuutai Nova",
+        "url": "https://manganato.com/manga-vb961336",
+        "image": "https://avt.mkklcdnv6temp.com/34/f/7-1583477562.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11036,
+        "aniId": 41036,
+        "createdAt": "2021-10-24T03:58:37.000Z",
+        "updatedAt": "2021-10-24T04:28:24.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,27 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-21T06:12:57.000Z",
-  "updatedAt": "2021-06-17T14:51:24.000Z",
+  "updatedAt": "2021-10-27T08:02:12.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "pripara-3": {
+        "identifier": "pripara-3",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "PriPara 3",
+        "url": "https://gogoanime.pe/category/pripara-3",
+        "image": "https://gogocdn.net/cover/pripara-3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 21559,
+        "createdAt": "2021-10-23T22:58:26.000Z",
+        "updatedAt": "2021-10-27T08:02:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

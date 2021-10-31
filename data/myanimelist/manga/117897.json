@@ -66,6 +66,28 @@
         "updatedAt": "2021-05-20T15:40:50.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "moon_land": {
+        "authors": [
+          "Sai Yamagishi"
+        ],
+        "identifier": "moon_land",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Moon Land",
+        "url": "https://fanfox.net/manga/moon_land/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30957/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117897,
+        "aniId": 107446,
+        "createdAt": "2021-10-24T17:01:21.000Z",
+        "updatedAt": "2021-10-24T17:30:53.000Z",
+        "deletedAt": null
+      }
     }
   }
 }
