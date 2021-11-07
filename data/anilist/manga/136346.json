@@ -15,7 +15,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-04T04:29:51.000Z",
-  "updatedAt": "2021-09-14T16:04:44.000Z",
+  "updatedAt": "2021-11-05T19:04:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,26 @@
         "aniId": 136346,
         "createdAt": "2020-10-12T16:16:59.000Z",
         "updatedAt": "2021-08-19T09:19:37.000Z",
+        "deletedAt": null
+      },
+      "e0e3f414-397e-4f2a-b22c-6cd18c73a93b": {
+        "authors": [
+          "Chilt"
+        ],
+        "identifier": "e0e3f414-397e-4f2a-b22c-6cd18c73a93b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Majime Succubus Hiiragi-san",
+        "url": "https://mangadex.org/title/e0e3f414-397e-4f2a-b22c-6cd18c73a93b",
+        "image": "https://uploads.mangadex.org/covers/e0e3f414-397e-4f2a-b22c-6cd18c73a93b/a5e0cbfe-408c-40fa-9acd-ae7aba07e593.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 136346,
+        "createdAt": "2021-11-05T19:04:22.000Z",
+        "updatedAt": "2021-11-05T19:04:23.000Z",
         "deletedAt": null
       }
     },

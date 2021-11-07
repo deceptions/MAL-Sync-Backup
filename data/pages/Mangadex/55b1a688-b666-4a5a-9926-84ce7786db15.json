@@ -18,9 +18,20 @@
   "updatedAt": "2021-06-02T14:46:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://comic.naver.com/webtoon/list.nhn?titleId=26316"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Welcome_to_Convenience_Store"
+      }
+    ],
     "altTitle": [
-      "Come On! Convenience Store, Welcome to the Convenience Store!, Welcome! Convenience Store",
+      "Come On! Convenience Store",
+      "Welcome to the Convenience Store!",
+      "Welcome! Convenience Store",
       "와라! 편의점"
     ],
     "authors": [
@@ -34,7 +45,7 @@
     "category": "Manhwa",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:42.000Z",
-    "updatedAt": "2021-05-04T23:03:20.000Z",
+    "updatedAt": "2021-11-04T23:06:11.000Z",
     "deletedAt": null
   },
   "Anilist": {

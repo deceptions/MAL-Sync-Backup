@@ -19,5 +19,28 @@
   "createdAt": "2021-10-10T23:37:53.000Z",
   "updatedAt": "2021-10-10T23:37:53.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "wonted": {
+        "authors": [
+          "Lucks"
+        ],
+        "identifier": "wonted",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Wonted",
+        "url": "https://mangasee123.com/manga/Wonted",
+        "image": "https://cover.nep.li/cover/Wonted.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 85841,
+        "createdAt": "2021-03-07T09:32:54.000Z",
+        "updatedAt": "2021-10-31T03:34:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "Eye Examination",
     "シリョクケンサ"
@@ -17,7 +17,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:42.000Z",
-  "updatedAt": "2021-05-08T01:17:52.000Z",
+  "updatedAt": "2021-11-06T09:04:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,29 @@
         "aniId": 81773,
         "createdAt": "2020-10-12T16:06:25.000Z",
         "updatedAt": "2021-06-03T19:31:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shiryoku_kensa": {
+        "authors": [
+          "40mP",
+          "Chano"
+        ],
+        "identifier": "shiryoku_kensa",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shiryoku Kensa",
+        "url": "https://fanfox.net/manga/shiryoku_kensa/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12530/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51773,
+        "aniId": 81773,
+        "createdAt": "2021-11-06T09:04:22.000Z",
+        "updatedAt": "2021-11-06T09:34:20.000Z",
         "deletedAt": null
       }
     }

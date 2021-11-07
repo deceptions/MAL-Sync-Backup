@@ -47,7 +47,7 @@
     "MangaSee": {
       "the-boxer": {
         "authors": [
-          "Jeong Ji-Hoon"
+          "Jeong Ji-Hun"
         ],
         "identifier": "the-boxer",
         "type": "manga",
@@ -58,11 +58,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
-        "malId": null,
+        "actor": 1,
+        "malId": 141120,
         "aniId": 119174,
         "createdAt": "2020-12-18T13:57:03.000Z",
-        "updatedAt": "2021-07-29T15:21:56.000Z",
+        "updatedAt": "2021-11-03T08:53:29.000Z",
         "deletedAt": null
       }
     },

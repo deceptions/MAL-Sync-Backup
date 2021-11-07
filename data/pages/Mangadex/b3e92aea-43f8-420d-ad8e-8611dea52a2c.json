@@ -19,9 +19,15 @@
   "updatedAt": "2021-06-08T03:00:30.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AA%E3%82%A3%E3%81%95%E3%82%93%E3%81%8C%E9%80%9A%E3%82%8B"
+      }
+    ],
     "altTitle": [
-      "Horii-san ga Tooru, Horii-san is Passing Through",
+      "Horii-san ga Tooru",
+      "Horii-san is Passing Through",
       "ホリィさんが通る"
     ],
     "authors": [
@@ -36,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:42:08.000Z",
-    "updatedAt": "2021-05-01T23:02:51.000Z",
+    "updatedAt": "2021-10-31T23:06:10.000Z",
     "deletedAt": null
   },
   "Anilist": {

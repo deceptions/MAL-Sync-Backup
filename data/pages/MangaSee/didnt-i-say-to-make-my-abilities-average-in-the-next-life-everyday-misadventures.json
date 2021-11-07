@@ -12,13 +12,41 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 1,
+  "malId": 134246,
   "aniId": 118868,
   "createdAt": "2020-12-28T12:52:25.000Z",
-  "updatedAt": "2021-05-27T22:28:53.000Z",
+  "updatedAt": "2021-11-05T18:06:11.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.comic-earthstar.jp/detail/noukin4koma/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/私、能力は平均値でって言ったよね!"
+      }
+    ],
+    "altTitle": [
+      "Didn't I Say to Make My Abilities Average in the Next Life?! Everyday Misadventures!",
+      "私、日常は平均値でって言ったよね!"
+    ],
+    "authors": [
+      "Moritaka, Yuki"
+    ],
+    "id": 134246,
+    "type": "manga",
+    "title": "Watashi, Nichijou wa Heikinchi de tte Itta yo ne!",
+    "url": "https://myanimelist.net/manga/134246/Watashi_Nichijou_wa_Heikinchi_de_tte_Itta_yo_ne",
+    "image": "https://cdn.myanimelist.net/images/manga/3/245725.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-06-09T10:05:48.000Z",
+    "updatedAt": "2021-11-05T13:04:50.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "Didn’t I Say to Make My Abilities Average in the Next Life?! Everyday Misadventures!",
@@ -43,5 +71,5 @@
     "updatedAt": "2021-06-21T15:28:13.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/134246/Watashi_Nichijou_wa_Heikinchi_de_tte_Itta_yo_ne"
 }

@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 141171,
   "createdAt": "2021-07-19T07:02:23.000Z",
-  "updatedAt": "2021-07-19T07:02:26.000Z",
+  "updatedAt": "2021-11-05T21:42:36.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "牧龙师",
+      "Dragon Master"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Luan",
+      "Yuanwai Yuan",
+      "Liang Mu"
+    ],
+    "id": 141171,
+    "malId": null,
+    "type": "manga",
+    "title": "Mu Long Shi",
+    "url": "https://anilist.co/manga/141171",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141171-BJISIkGjXeyH.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-05T05:34:20.000Z",
+    "updatedAt": "2021-11-05T05:34:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

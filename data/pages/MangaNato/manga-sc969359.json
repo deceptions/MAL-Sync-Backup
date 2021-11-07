@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 11219,
-  "aniId": null,
+  "aniId": 41219,
   "createdAt": "2021-09-21T19:10:47.000Z",
-  "updatedAt": "2021-09-21T19:10:49.000Z",
+  "updatedAt": "2021-11-04T02:04:19.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -37,6 +37,28 @@
     "updatedAt": "2021-09-21T19:10:49.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Ninja Baseball Kyuma",
+      "キュウマ!",
+      "Kyuma!",
+      "Kyuuma!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shunshin Maeda"
+    ],
+    "id": 41219,
+    "malId": 11219,
+    "type": "manga",
+    "title": "Ninja Baseball Kyuma",
+    "url": "https://anilist.co/manga/41219",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11219.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-04T01:34:20.000Z",
+    "updatedAt": "2021-11-04T01:34:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/11219/Kyuuma"
 }

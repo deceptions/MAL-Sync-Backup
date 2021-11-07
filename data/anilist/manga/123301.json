@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-15T10:20:13.000Z",
-  "updatedAt": "2021-09-15T10:20:13.000Z",
+  "updatedAt": "2021-11-01T01:35:55.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ip985898": {
+        "authors": [
+          "Dong Bu Liao"
+        ],
+        "identifier": "manga-ip985898",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Infinite Variation",
+        "url": "https://readmanganato.com/manga-ip985898",
+        "image": "https://avt.mkklcdnv6temp.com/35/l/21-1595521024.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 123301,
+        "createdAt": "2021-05-29T18:12:34.000Z",
+        "updatedAt": "2021-11-01T08:28:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

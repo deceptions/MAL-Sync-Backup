@@ -20,5 +20,28 @@
   "createdAt": "2021-10-30T19:34:20.000Z",
   "updatedAt": "2021-10-30T19:34:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mf989840": {
+        "authors": [
+          "Jin Sol U"
+        ],
+        "identifier": "manga-mf989840",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Seoul Station's Necromancer",
+        "url": "https://manganato.com/manga-mf989840",
+        "image": "https://avt.mkklcdnv6temp.com/48/w/24-1634356279.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 140896,
+        "createdAt": "2021-10-16T04:28:55.000Z",
+        "updatedAt": "2021-11-05T18:06:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

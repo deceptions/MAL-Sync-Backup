@@ -25,5 +25,28 @@
   "createdAt": "2020-10-12T15:40:34.000Z",
   "updatedAt": "2021-10-27T01:01:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "kiss-made-no-kyori": {
+        "authors": [
+          "YOSHINAGA Yuu"
+        ],
+        "identifier": "kiss-made-no-kyori",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kiss made no Kyori (YOSHINAGA Yuu)",
+        "url": "https://mangasee123.com/manga/Kiss-Made-No-Kyori",
+        "image": "https://cover.nep.li/cover/Kiss-Made-No-Kyori.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 1519,
+        "aniId": 31519,
+        "createdAt": "2021-11-03T09:34:39.000Z",
+        "updatedAt": "2021-11-03T19:04:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

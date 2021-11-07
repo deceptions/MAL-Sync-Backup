@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A_STAND_ALONE_COMPLEX#.E6.9B.B8.E7.B1.8D.E3.83.BB.E9.9B.91.E8.AA.8C.EF.BC.88.E3.82.B3.E3.83.9F.E3.83.83.E3.82.AF.EF.BC.89"
+    }
+  ],
   "altTitle": [
     "Ghost in the Shell: Stand Alone Complex",
     "攻殻機動隊STAND ALONE COMPLEX"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:44.000Z",
-  "updatedAt": "2021-09-07T02:05:32.000Z",
+  "updatedAt": "2021-10-31T04:34:40.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaSee": {
@@ -38,6 +43,28 @@
         "aniId": 61935,
         "createdAt": "2021-04-30T05:20:55.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cs980027": {
+        "authors": [
+          "Kinutani Yuu"
+        ],
+        "identifier": "manga-cs980027",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ghost In The Shell: Stand Alone Complex",
+        "url": "https://manganato.com/manga-cs980027",
+        "image": "https://avt.mkklcdnv6temp.com/13/h/17-1583495744.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31935,
+        "aniId": 61935,
+        "createdAt": "2021-10-31T04:34:29.000Z",
+        "updatedAt": "2021-10-31T05:04:19.000Z",
         "deletedAt": null
       }
     }

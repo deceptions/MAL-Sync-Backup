@@ -22,7 +22,7 @@
   "hentai": false,
   "anidbId": 1567,
   "createdAt": "2020-10-12T15:38:17.000Z",
-  "updatedAt": "2021-09-30T22:37:25.000Z",
+  "updatedAt": "2021-11-04T16:04:30.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -77,6 +77,25 @@
         "aniId": 1475,
         "createdAt": "2020-10-12T15:58:28.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "city-hunter-bay-city-wars-dub": {
+        "identifier": "city-hunter-bay-city-wars-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "City Hunter: Bay City Wars (Dub)",
+        "url": "https://gogoanime.pe/category/city-hunter-bay-city-wars-dub",
+        "image": "https://gogocdn.net/cover/city-hunter-bay-city-wars-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1475,
+        "aniId": 1475,
+        "createdAt": "2021-11-04T16:04:19.000Z",
+        "updatedAt": "2021-11-04T16:34:19.000Z",
         "deletedAt": null
       }
     }

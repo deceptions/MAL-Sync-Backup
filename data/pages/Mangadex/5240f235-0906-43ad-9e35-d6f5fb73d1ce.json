@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 113513,
-  "aniId": null,
+  "aniId": 112398,
   "createdAt": "2020-10-12T16:10:36.000Z",
-  "updatedAt": "2021-06-05T08:54:58.000Z",
+  "updatedAt": "2021-11-01T23:34:19.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -37,6 +37,26 @@
     "updatedAt": "2021-06-05T02:20:27.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "たいへん不良くできました",
+      "not only good but also bad"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mamoru Aoi"
+    ],
+    "id": 112398,
+    "malId": 113513,
+    "type": "manga",
+    "title": "Taihen Waruku Dekimashita",
+    "url": "https://anilist.co/manga/112398",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b112398-rtKFzsMgXL2r.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-01T23:04:20.000Z",
+    "updatedAt": "2021-11-01T23:04:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/113513/Taihen_Waruku_Dekimashita"
 }

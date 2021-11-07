@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 113520,
-  "aniId": null,
+  "aniId": 98614,
   "createdAt": "2020-10-12T16:08:43.000Z",
-  "updatedAt": "2021-06-04T12:53:04.000Z",
+  "updatedAt": "2021-11-05T10:04:20.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -36,6 +36,26 @@
     "updatedAt": "2021-06-04T12:21:59.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "スイートソロウ",
+      "我的丝丝心意"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Aki Mochida"
+    ],
+    "id": 98614,
+    "malId": 113520,
+    "type": "manga",
+    "title": "Sweet Sorrow",
+    "url": "https://anilist.co/manga/98614",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98614-37afMllUNwT9.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-05T09:34:20.000Z",
+    "updatedAt": "2021-11-05T09:34:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/113520/Sweet_Sorrow"
 }

@@ -17,5 +17,28 @@
   "createdAt": "2021-10-07T07:32:20.000Z",
   "updatedAt": "2021-10-09T20:32:21.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ku988103": {
+        "authors": [
+          "绘佳之路"
+        ],
+        "identifier": "manga-ku988103",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "How To Disguise As A Failure",
+        "url": "https://manganato.com/manga-ku988103",
+        "image": "https://avt.mkklcdnv6temp.com/24/z/23-1613264461.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 140070,
+        "createdAt": "2021-06-17T19:30:18.000Z",
+        "updatedAt": "2021-11-06T20:40:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

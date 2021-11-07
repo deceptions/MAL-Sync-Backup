@@ -8,7 +8,7 @@
     "Kentarou Yabuki"
   ],
   "id": 108482,
-  "malId": null,
+  "malId": 127578,
   "type": "manga",
   "title": "Reo x Leo",
   "url": "https://anilist.co/manga/108482",
@@ -16,7 +16,30 @@
   "category": "one_shot",
   "hentai": false,
   "createdAt": "2021-10-16T21:28:46.000Z",
-  "updatedAt": "2021-10-16T21:28:46.000Z",
+  "updatedAt": "2021-11-04T10:34:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "0b1fdb85-209f-493d-9d21-b197f7d7d244": {
+        "authors": [
+          "Yabuki Kentaro"
+        ],
+        "identifier": "0b1fdb85-209f-493d-9d21-b197f7d7d244",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Leo x Leo",
+        "url": "https://mangadex.org/title/0b1fdb85-209f-493d-9d21-b197f7d7d244",
+        "image": "https://uploads.mangadex.org/covers/0b1fdb85-209f-493d-9d21-b197f7d7d244/9272b964-ca1f-4dbc-8091-e84090a9ba0f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127578,
+        "aniId": 108482,
+        "createdAt": "2020-10-12T16:15:10.000Z",
+        "updatedAt": "2021-11-04T11:04:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

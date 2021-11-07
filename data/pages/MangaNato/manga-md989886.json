@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 140050,
   "createdAt": "2021-10-26T10:01:15.000Z",
-  "updatedAt": "2021-10-26T10:01:15.000Z",
+  "updatedAt": "2021-11-03T08:53:12.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "苍天在下"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "J Zai",
+      "Ke Qiang"
+    ],
+    "id": 140050,
+    "malId": null,
+    "type": "manga",
+    "title": "Cang Tian Zai Xia",
+    "url": "https://anilist.co/manga/140050",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b140050-Cx97WYPN6SZB.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-06T08:02:17.000Z",
+    "updatedAt": "2021-10-06T08:02:17.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -1,6 +1,6 @@
 {
   "authors": [
-    "Jeong Ji-Hoon"
+    "Jeong Ji-Hun"
   ],
   "identifier": "the-boxer",
   "type": "manga",
@@ -11,13 +11,38 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 1,
+  "malId": 141120,
   "aniId": 119174,
   "createdAt": "2020-12-18T13:57:03.000Z",
-  "updatedAt": "2021-07-29T15:21:56.000Z",
+  "updatedAt": "2021-11-03T08:53:29.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=736989"
+      }
+    ],
+    "altTitle": [
+      "The Boxer",
+      "Deo Boxer",
+      "더 복서"
+    ],
+    "authors": [
+      "Jeong, Ji-Hoon"
+    ],
+    "id": 141120,
+    "type": "manga",
+    "title": "The Boxer",
+    "url": "https://myanimelist.net/manga/141120/The_Boxer",
+    "image": "https://cdn.myanimelist.net/images/manga/3/251281.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "createdAt": "2021-11-01T18:34:42.000Z",
+    "updatedAt": "2021-11-01T18:34:42.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "The Boxer",
@@ -42,5 +67,5 @@
     "updatedAt": "2021-10-20T01:29:07.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/141120/The_Boxer"
 }

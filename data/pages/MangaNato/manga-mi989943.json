@@ -12,13 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 140946,
   "createdAt": "2021-10-28T08:45:57.000Z",
-  "updatedAt": "2021-10-28T08:45:57.000Z",
+  "updatedAt": "2021-10-31T14:15:28.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "어차피 조연인데 나랑 사랑이나 해",
+      "You're a Supporting Character, Just Love Me",
+      "He's a Supporting Character but I Love Him Anyway"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "sodapie",
+      "Dandi",
+      "Morakbul"
+    ],
+    "id": 140946,
+    "malId": null,
+    "type": "manga",
+    "title": "Eochapi Joyeoninde Narang Sarangina Hae",
+    "url": "https://anilist.co/manga/140946",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140946-d2EEmyWhP5QL.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-30T20:34:20.000Z",
+    "updatedAt": "2021-10-30T20:34:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

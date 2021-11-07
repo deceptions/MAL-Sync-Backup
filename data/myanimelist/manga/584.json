@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mirai_Nikki"
+    }
+  ],
   "altTitle": [
     "Future Diary",
     "未来日記"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:23.000Z",
-  "updatedAt": "2021-09-20T16:41:00.000Z",
+  "updatedAt": "2021-11-04T04:35:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +86,28 @@
         "aniId": 30584,
         "createdAt": "2021-05-18T08:01:34.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-oa966309": {
+        "authors": [
+          "Esuno Sakae"
+        ],
+        "identifier": "manga-oa966309",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mirai Nikki",
+        "url": "https://readmanganato.com/manga-oa966309",
+        "image": "https://avt.mkklcdnv6temp.com/37/x/10-1583483542.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 584,
+        "aniId": 30584,
+        "createdAt": "2021-11-04T04:34:32.000Z",
+        "updatedAt": "2021-11-04T05:04:19.000Z",
         "deletedAt": null
       }
     }

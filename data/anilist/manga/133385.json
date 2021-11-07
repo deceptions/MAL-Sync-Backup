@@ -19,5 +19,28 @@
   "createdAt": "2021-05-24T16:08:18.000Z",
   "updatedAt": "2021-10-28T21:45:58.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "bee5f778-5445-4faa-9ffd-9d6c9c4bd809": {
+        "authors": [
+          "Kanzaki Yuuya"
+        ],
+        "identifier": "bee5f778-5445-4faa-9ffd-9d6c9c4bd809",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Red List ~Metropolitan Police Department, Third Division, PO~",
+        "url": "https://mangadex.org/title/bee5f778-5445-4faa-9ffd-9d6c9c4bd809",
+        "image": "https://uploads.mangadex.org/covers/bee5f778-5445-4faa-9ffd-9d6c9c4bd809/38ec2363-2d5e-4363-8f03-732a0e115a78.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 136910,
+        "aniId": 133385,
+        "createdAt": "2021-11-06T18:35:01.000Z",
+        "updatedAt": "2021-11-06T21:04:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

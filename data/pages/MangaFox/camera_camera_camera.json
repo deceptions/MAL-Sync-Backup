@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 224,
-  "aniId": null,
+  "aniId": 30224,
   "createdAt": "2021-05-20T22:16:20.000Z",
-  "updatedAt": "2021-05-20T22:16:20.000Z",
+  "updatedAt": "2021-11-05T03:04:20.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -37,6 +37,26 @@
     "updatedAt": "2021-05-09T01:17:21.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Camera Camera Camera",
+      "カメラ・カメラ・カメラ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kazura Matsumoto"
+    ],
+    "id": 30224,
+    "malId": 224,
+    "type": "manga",
+    "title": "Camera Camera Camera",
+    "url": "https://anilist.co/manga/30224",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30224-wa1ByJDMhdQI.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-05T02:34:20.000Z",
+    "updatedAt": "2021-11-05T02:34:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/224/Camera_Camera_Camera"
 }

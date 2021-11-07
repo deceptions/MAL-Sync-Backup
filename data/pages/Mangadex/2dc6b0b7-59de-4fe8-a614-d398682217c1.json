@@ -14,9 +14,9 @@
   "active": true,
   "actor": 1,
   "malId": 141402,
-  "aniId": null,
+  "aniId": 141023,
   "createdAt": "2021-10-13T19:59:46.000Z",
-  "updatedAt": "2021-10-30T16:01:42.000Z",
+  "updatedAt": "2021-11-02T08:34:19.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -39,6 +39,28 @@
     "updatedAt": "2021-10-30T02:16:07.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "監禁王",
+      "Confinement King"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yoika Ashimoto",
+      "Masai",
+      "Pei"
+    ],
+    "id": 141023,
+    "malId": 141402,
+    "type": "manga",
+    "title": "Kankin Ou",
+    "url": "https://anilist.co/manga/141023",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141023-TIBq7y6RE5Dn.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-11-01T22:04:20.000Z",
+    "updatedAt": "2021-11-02T08:04:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/141402/Kankin_Ou"
 }

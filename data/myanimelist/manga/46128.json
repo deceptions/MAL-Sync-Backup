@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%82%A4%E3%83%BC%E3%82%BF%E3%83%BC"
+    }
+  ],
   "altTitle": [
     "God Eater: The Second Break",
     "GOD EATER －the 2nd break－"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:23.000Z",
-  "updatedAt": "2021-06-20T03:22:07.000Z",
+  "updatedAt": "2021-10-31T06:34:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +66,28 @@
         "aniId": 76128,
         "createdAt": "2021-06-20T03:22:06.000Z",
         "updatedAt": "2021-06-20T03:50:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kq962125": {
+        "authors": [
+          "Katagiri Ikumi"
+        ],
+        "identifier": "manga-kq962125",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "God Eater - The 2Nd Break",
+        "url": "https://readmanganato.com/manga-kq962125",
+        "image": "https://avt.mkklcdnv6temp.com/9/v/8-1583478551.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46128,
+        "aniId": 76128,
+        "createdAt": "2021-10-31T06:34:29.000Z",
+        "updatedAt": "2021-10-31T07:04:19.000Z",
         "deletedAt": null
       }
     }

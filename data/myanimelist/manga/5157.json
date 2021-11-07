@@ -130,6 +130,28 @@
         "updatedAt": "2021-07-10T03:13:17.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "new_grappler_baki": {
+        "authors": [
+          "ITAGAKI Keisuke"
+        ],
+        "identifier": "new_grappler_baki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Baki",
+        "url": "https://fanfox.net/manga/new_grappler_baki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/267/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 5157,
+        "aniId": 35157,
+        "createdAt": "2021-11-01T08:04:21.000Z",
+        "updatedAt": "2021-11-01T08:34:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

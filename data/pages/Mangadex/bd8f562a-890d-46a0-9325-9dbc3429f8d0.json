@@ -14,9 +14,9 @@
   "active": true,
   "actor": 1,
   "malId": 134045,
-  "aniId": null,
+  "aniId": 140559,
   "createdAt": "2020-10-12T16:19:44.000Z",
-  "updatedAt": "2021-07-23T07:33:08.000Z",
+  "updatedAt": "2021-10-31T05:04:19.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -45,6 +45,28 @@
     "updatedAt": "2021-10-21T23:47:22.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ラストオーダー",
+      "Last Order: Hitoribocchi no Hyakunen Sensou"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kazunari",
+      "Satoru Matsuba",
+      "Kasuga Hamamatsu"
+    ],
+    "id": 140559,
+    "malId": 134045,
+    "type": "manga",
+    "title": "Last Order",
+    "url": "https://anilist.co/manga/140559",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140559-uwRHdRL3ap9A.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-31T04:34:20.000Z",
+    "updatedAt": "2021-10-31T04:34:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/134045/Last_Order"
 }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://webtoon.daum.net/webtoon/view/findjuly"
+    }
+  ],
   "altTitle": [
     "How I Found It in July",
     "Eojjeoda Balgyeonhan 7-wol",
@@ -16,9 +21,31 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2021-06-14T13:57:43.000Z",
-  "updatedAt": "2021-06-14T13:57:43.000Z",
+  "updatedAt": "2021-11-06T08:34:23.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "1b948749-b49b-4834-823f-cb355fa3a2c4": {
+        "authors": [
+          "Muryu"
+        ],
+        "identifier": "1b948749-b49b-4834-823f-cb355fa3a2c4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "July Found by Chance",
+        "url": "https://mangadex.org/title/1b948749-b49b-4834-823f-cb355fa3a2c4",
+        "image": "https://uploads.mangadex.org/covers/1b948749-b49b-4834-823f-cb355fa3a2c4/f542027b-e416-48be-83a7-6ac3444dbe9a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 134746,
+        "aniId": 108774,
+        "createdAt": "2020-10-12T16:13:44.000Z",
+        "updatedAt": "2021-11-06T20:40:39.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-cz979608": {
         "authors": [

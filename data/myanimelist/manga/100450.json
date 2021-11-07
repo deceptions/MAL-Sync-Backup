@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%82%8B%E3%81%8B%E3%81%AA%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%96"
+    }
+  ],
   "altTitle": [
     "Harukana Receive",
     "はるかなレシーブ"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:41.000Z",
-  "updatedAt": "2021-09-23T15:11:34.000Z",
+  "updatedAt": "2021-10-31T13:34:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +86,28 @@
         "aniId": 101391,
         "createdAt": "2021-03-23T15:06:06.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xd974938": {
+        "authors": [
+          "Nyoi Jizai"
+        ],
+        "identifier": "manga-xd974938",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Harukana Receive",
+        "url": "https://readmanganato.com/manga-xd974938",
+        "image": "https://avt.mkklcdnv6temp.com/1/t/14-1583491534.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100450,
+        "aniId": 101391,
+        "createdAt": "2021-10-31T13:34:29.000Z",
+        "updatedAt": "2021-10-31T14:04:19.000Z",
         "deletedAt": null
       }
     }

@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 141151,
   "createdAt": "2021-05-31T15:53:40.000Z",
-  "updatedAt": "2021-05-31T15:53:40.000Z",
+  "updatedAt": "2021-11-05T18:05:59.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "仙王的日常生活"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Xuan Ku",
+      "Yueling Wu",
+      "Xi He"
+    ],
+    "id": 141151,
+    "malId": null,
+    "type": "manga",
+    "title": "Xianwang De Richang Shenghuo",
+    "url": "https://anilist.co/manga/141151",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141151-52A6gbw1iQkK.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-04T08:34:20.000Z",
+    "updatedAt": "2021-11-05T16:34:30.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

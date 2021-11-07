@@ -22,5 +22,29 @@
   "createdAt": "2021-06-27T14:49:20.000Z",
   "updatedAt": "2021-10-21T07:42:51.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "18ce2342-f970-4fc4-bb2e-398577200879": {
+        "authors": [
+          "Renkinou",
+          "TAKASE Asuka"
+        ],
+        "identifier": "18ce2342-f970-4fc4-bb2e-398577200879",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tensei Shitara no Musuko Deshita: Inakagai de Nonbiri Slow Life o Okurou",
+        "url": "https://mangadex.org/title/18ce2342-f970-4fc4-bb2e-398577200879",
+        "image": "https://uploads.mangadex.org/covers/18ce2342-f970-4fc4-bb2e-398577200879/fc51a878-1839-4d20-9752-1cde4afe1c09.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 141113,
+        "aniId": 136158,
+        "createdAt": "2021-10-10T06:02:34.000Z",
+        "updatedAt": "2021-11-01T08:34:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

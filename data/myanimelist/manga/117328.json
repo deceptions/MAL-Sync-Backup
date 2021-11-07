@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "The ComiQ",
     "THE COMIQ"
@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-17T01:44:56.000Z",
-  "updatedAt": "2021-09-23T01:41:00.000Z",
+  "updatedAt": "2021-10-31T18:35:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 104604,
         "createdAt": "2020-11-17T01:44:56.000Z",
         "updatedAt": "2021-06-08T07:25:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-comiq": {
+        "authors": [
+          "TAKAHASHI Kazuki"
+        ],
+        "identifier": "the-comiq",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Comiq",
+        "url": "https://mangasee123.com/manga/The-Comiq",
+        "image": "https://cover.nep.li/cover/The-Comiq.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117328,
+        "aniId": 104604,
+        "createdAt": "2021-10-31T18:35:17.000Z",
+        "updatedAt": "2021-10-31T19:04:19.000Z",
         "deletedAt": null
       }
     }

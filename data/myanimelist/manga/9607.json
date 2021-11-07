@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%A4%A2%E3%81%BF%E3%82%8B%E5%A4%AA%E9%99%BD"
+    }
+  ],
   "altTitle": [
     "Dreamin' Sun",
     "Bambi no Tegami",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:24.000Z",
-  "updatedAt": "2021-07-02T14:34:34.000Z",
+  "updatedAt": "2021-11-02T22:34:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -103,6 +108,28 @@
         "aniId": 39607,
         "createdAt": "2021-07-02T14:34:32.000Z",
         "updatedAt": "2021-07-02T15:03:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yumemiru_taiyou": {
+        "authors": [
+          "TAKANO Ichigo"
+        ],
+        "identifier": "yumemiru_taiyou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yumemiru Taiyou",
+        "url": "https://fanfox.net/manga/yumemiru_taiyou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7798/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9607,
+        "aniId": 39607,
+        "createdAt": "2021-11-02T22:34:40.000Z",
+        "updatedAt": "2021-11-02T23:04:19.000Z",
         "deletedAt": null
       }
     }

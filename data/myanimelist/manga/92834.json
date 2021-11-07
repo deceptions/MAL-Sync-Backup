@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%82%E3%81%AE%E3%81%AE%E6%AD%A9"
+    }
+  ],
   "altTitle": [
     "Mononofu",
     "ものの歩"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:11.000Z",
-  "updatedAt": "2021-07-06T13:00:42.000Z",
+  "updatedAt": "2021-11-03T00:35:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 86501,
         "createdAt": "2021-07-18T07:33:54.000Z",
         "updatedAt": "2021-07-18T08:02:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mononofu": {
+        "authors": [
+          "IKEZAWA Haruto"
+        ],
+        "identifier": "mononofu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mononofu",
+        "url": "https://mangasee123.com/manga/Mononofu",
+        "image": "https://cover.nep.li/cover/Mononofu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92834,
+        "aniId": 86501,
+        "createdAt": "2021-11-03T00:34:23.000Z",
+        "updatedAt": "2021-11-03T01:04:19.000Z",
         "deletedAt": null
       }
     }

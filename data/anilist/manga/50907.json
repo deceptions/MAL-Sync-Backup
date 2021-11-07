@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-06T08:06:56.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "sabbath_cafe": {
+        "authors": [
+          "YACHI Emiko"
+        ],
+        "identifier": "sabbath_cafe",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sabbath Cafe",
+        "url": "https://fanfox.net/manga/sabbath_cafe/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12295/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20907,
+        "aniId": 50907,
+        "createdAt": "2021-11-02T22:04:19.000Z",
+        "updatedAt": "2021-11-02T22:34:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

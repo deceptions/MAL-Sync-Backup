@@ -25,7 +25,7 @@
   "hentai": false,
   "anidbId": 260,
   "createdAt": "2021-04-23T02:57:38.000Z",
-  "updatedAt": "2021-10-02T11:36:44.000Z",
+  "updatedAt": "2021-11-02T01:37:03.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -44,6 +44,23 @@
         "aniId": 12225,
         "createdAt": "2021-04-23T02:58:09.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      },
+      "98vx": {
+        "identifier": "98vx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Galaxy Angel S",
+        "url": "https://9anime.to/watch/galaxy-angel-s.98vx",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/d7/d7df4dbbb602c5be952a11dcbb2dacee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12225,
+        "aniId": 12225,
+        "createdAt": "2021-11-02T01:36:46.000Z",
+        "updatedAt": "2021-11-02T02:04:19.000Z",
         "deletedAt": null
       }
     }

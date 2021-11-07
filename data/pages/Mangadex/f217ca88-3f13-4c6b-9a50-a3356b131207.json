@@ -13,9 +13,9 @@
   "active": true,
   "actor": 2,
   "malId": 118553,
-  "aniId": null,
+  "aniId": 98166,
   "createdAt": "2020-10-12T16:11:58.000Z",
-  "updatedAt": "2021-06-05T14:07:38.000Z",
+  "updatedAt": "2021-11-01T10:04:19.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -38,6 +38,27 @@
     "updatedAt": "2021-06-05T13:19:09.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "You're My Sex Star",
+      "僕のセックススター"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Koujirou Nanahira",
+      "Aline Kukor"
+    ],
+    "id": 98166,
+    "malId": 118553,
+    "type": "manga",
+    "title": "Boku no Sex Star",
+    "url": "https://anilist.co/manga/98166",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx98166-ZapXohhOTji5.png",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-11-01T09:34:20.000Z",
+    "updatedAt": "2021-11-01T09:34:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/118553/Boku_no_Sex_Star"
 }

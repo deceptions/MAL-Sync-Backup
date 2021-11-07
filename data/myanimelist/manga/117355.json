@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic-walker.com/contents/detail/KDCW_KS01200720010000_68/"
+    }
+  ],
   "altTitle": [
     "All of Humanity is Yuri Except For Me",
     "Ms. Humankind or: How I Started to Love Her",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:50.000Z",
-  "updatedAt": "2021-08-17T16:08:08.000Z",
+  "updatedAt": "2021-11-02T11:35:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,6 +87,28 @@
         "aniId": 105949,
         "createdAt": "2021-08-17T16:08:06.000Z",
         "updatedAt": "2021-08-19T08:07:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "all_of_humanity_is_yuri_except_for_me": {
+        "authors": [
+          "HARUSE Hiroki"
+        ],
+        "identifier": "all_of_humanity_is_yuri_except_for_me",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "All of Humanity is Yuri Except For Me",
+        "url": "https://fanfox.net/manga/all_of_humanity_is_yuri_except_for_me/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29743/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117355,
+        "aniId": 105949,
+        "createdAt": "2021-11-02T11:35:01.000Z",
+        "updatedAt": "2021-11-02T12:04:19.000Z",
         "deletedAt": null
       }
     }

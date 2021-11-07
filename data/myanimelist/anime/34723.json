@@ -12,7 +12,7 @@
   "hentai": false,
   "anidbId": null,
   "createdAt": "2020-10-12T15:39:51.000Z",
-  "updatedAt": "2021-10-03T15:06:24.000Z",
+  "updatedAt": "2021-11-05T06:05:51.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -50,6 +50,25 @@
         "aniId": null,
         "createdAt": "2021-01-10T16:51:32.000Z",
         "updatedAt": "2021-01-10T16:51:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "youjo-shenki-episode-0": {
+        "identifier": "youjo-shenki-episode-0",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Youjo Shenki Episode 0",
+        "url": "https://gogoanime.pe/category/youjo-shenki-episode-0",
+        "image": "https://gogocdn.net/cover/youjo-shenki-episode-0.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34723,
+        "aniId": null,
+        "createdAt": "2021-11-05T13:04:51.000Z",
+        "updatedAt": "2021-11-05T13:04:51.000Z",
         "deletedAt": null
       }
     }

@@ -11,13 +11,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 128680,
   "createdAt": "2021-06-01T15:34:51.000Z",
-  "updatedAt": "2021-06-01T15:34:51.000Z",
+  "updatedAt": "2021-11-06T20:40:03.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "A Dragon in the Abyss",
+      "逆鳞",
+      "The Inverted Dragon's Scale"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Xia Hui Liu",
+      "Xiao Yuan Tang",
+      "Xia Xian Wen Qiu",
+      "DICE"
+    ],
+    "id": 128680,
+    "malId": null,
+    "type": "manga",
+    "title": "Ni Lin",
+    "url": "https://anilist.co/manga/128680",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b128680-056Ji2egQ3Ka.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-02T09:00:51.000Z",
+    "updatedAt": "2021-10-09T15:32:25.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

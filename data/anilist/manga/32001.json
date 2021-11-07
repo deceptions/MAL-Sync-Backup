@@ -32,5 +32,28 @@
   "createdAt": "2021-06-27T01:49:20.000Z",
   "updatedAt": "2021-06-27T01:49:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-qt967602": {
+        "authors": [
+          "Sadahiro Mika"
+        ],
+        "identifier": "manga-qt967602",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Three And A Half",
+        "url": "https://manganato.com/manga-qt967602",
+        "image": "https://avt.mkklcdnv6temp.com/31/m/11-1583485147.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2001,
+        "aniId": 32001,
+        "createdAt": "2021-11-01T09:34:29.000Z",
+        "updatedAt": "2021-11-01T10:04:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

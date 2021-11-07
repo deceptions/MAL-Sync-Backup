@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-02T23:46:52.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "the_fox_lover": {
+        "authors": [
+          "Puyo"
+        ],
+        "identifier": "the_fox_lover",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Fox Lover",
+        "url": "https://fanfox.net/manga/the_fox_lover/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10762/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40301,
+        "aniId": 70301,
+        "createdAt": "2021-11-05T05:04:30.000Z",
+        "updatedAt": "2021-11-05T05:34:20.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

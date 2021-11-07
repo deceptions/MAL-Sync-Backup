@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 139305,
   "createdAt": "2021-06-29T08:49:39.000Z",
-  "updatedAt": "2021-06-29T08:49:57.000Z",
+  "updatedAt": "2021-11-06T21:28:11.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Live Off Her Favor",
+      "最豪赘婿 龙王殿"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hui Shuo Hua De Xiang Yan",
+      "Xiao Ming Tai Ji"
+    ],
+    "id": 139305,
+    "malId": null,
+    "type": "manga",
+    "title": "Zui Hao Zhui Xu, Long Wang Dian",
+    "url": "https://anilist.co/manga/139305",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139305-gAFLmtmIycXd.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-21T01:42:51.000Z",
+    "updatedAt": "2021-10-21T01:42:51.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

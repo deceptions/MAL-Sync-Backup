@@ -15,5 +15,44 @@
   "createdAt": "2021-06-30T19:20:02.000Z",
   "updatedAt": "2021-10-02T21:30:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "jvvnn": {
+        "identifier": "jvvnn",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Mao Zhi Ming",
+        "url": "https://9anime.to/watch/cats-tea.jvvnn",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/44/446b59439e5d8d0e381c721cd57d61cc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49380,
+        "aniId": 116010,
+        "createdAt": "2021-11-03T13:35:30.000Z",
+        "updatedAt": "2021-11-03T14:04:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mao-zhi-ming": {
+        "identifier": "mao-zhi-ming",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mao Zhi Ming",
+        "url": "https://gogoanime.pe/category/mao-zhi-ming",
+        "image": "https://gogocdn.net/cover/mao-zhi-ming.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49380,
+        "aniId": 116010,
+        "createdAt": "2021-11-03T23:04:30.000Z",
+        "updatedAt": "2021-11-03T23:34:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

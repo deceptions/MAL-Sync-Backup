@@ -19,5 +19,28 @@
   "createdAt": "2021-07-13T09:45:02.000Z",
   "updatedAt": "2021-07-13T09:45:02.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "14fe3778-68d5-406d-ac03-88653c29b0f3": {
+        "authors": [
+          "Tesutarossa"
+        ],
+        "identifier": "14fe3778-68d5-406d-ac03-88653c29b0f3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Makabe-san wa Tada Motetai",
+        "url": "https://mangadex.org/title/14fe3778-68d5-406d-ac03-88653c29b0f3",
+        "image": "https://uploads.mangadex.org/covers/14fe3778-68d5-406d-ac03-88653c29b0f3/21936f0a-01cc-4a4b-bbac-d352a661acb8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 128089,
+        "aniId": 136617,
+        "createdAt": "2020-11-21T22:53:03.000Z",
+        "updatedAt": "2021-10-31T14:34:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

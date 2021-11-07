@@ -21,5 +21,28 @@
   "createdAt": "2021-10-29T23:16:27.000Z",
   "updatedAt": "2021-10-29T23:16:27.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "3dda9dc7-be06-4f27-af07-670786ceee4e": {
+        "authors": [
+          "Kumeta Kouji"
+        ],
+        "identifier": "3dda9dc7-be06-4f27-af07-670786ceee4e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shibuya Near Family",
+        "url": "https://mangadex.org/title/3dda9dc7-be06-4f27-af07-670786ceee4e",
+        "image": "https://uploads.mangadex.org/covers/3dda9dc7-be06-4f27-af07-670786ceee4e/48689e45-7d47-439f-aaf2-4fb9ac34e2e7.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141443,
+        "aniId": 140760,
+        "createdAt": "2021-11-03T17:04:30.000Z",
+        "updatedAt": "2021-11-03T17:04:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/A%E5%90%9B%2817%29%E3%81%AE%E6%88%A6%E4%BA%89"
+    }
+  ],
   "altTitle": [
     "A-kun 17 no Sensou",
     "A君(17)の戦争 I, THE TYCOON?"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:45.000Z",
-  "updatedAt": "2021-05-02T22:33:11.000Z",
+  "updatedAt": "2021-10-31T19:05:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +66,28 @@
         "aniId": 49554,
         "createdAt": "2021-05-08T16:48:52.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-op960624": {
+        "authors": [
+          "Gouya Daisuke"
+        ],
+        "identifier": "manga-op960624",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "A-Kun (17) No Sensou - I, The Tycoon?",
+        "url": "https://manganato.com/manga-op960624",
+        "image": "https://avt.mkklcdnv6temp.com/8/o/7-1583476619.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19554,
+        "aniId": 49554,
+        "createdAt": "2021-10-31T19:05:16.000Z",
+        "updatedAt": "2021-10-31T19:34:19.000Z",
         "deletedAt": null
       }
     }

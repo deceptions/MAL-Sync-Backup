@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://zh.wikipedia.org/wiki/%E8%A1%80%E9%BB%91%E7%8A%AC"
+    }
+  ],
   "altTitle": [
     "Xueheiquan",
     "血黑犬"
@@ -16,7 +21,7 @@
   "category": "Manhua",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:17.000Z",
-  "updatedAt": "2021-09-05T05:47:07.000Z",
+  "updatedAt": "2021-11-03T23:34:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -62,6 +67,29 @@
         "aniId": 91221,
         "createdAt": "2021-03-05T05:21:24.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kv952430": {
+        "authors": [
+          "Gui Yu Zi",
+          "Xiao Sha Long"
+        ],
+        "identifier": "manga-kv952430",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Black Dog",
+        "url": "https://manganato.com/manga-kv952430",
+        "image": "https://avt.mkklcdnv6temp.com/39/a/1-1583465230.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70657,
+        "aniId": 91221,
+        "createdAt": "2021-11-03T23:34:29.000Z",
+        "updatedAt": "2021-11-04T00:04:19.000Z",
         "deletedAt": null
       }
     }

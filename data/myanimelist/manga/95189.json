@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.heros-web.com/works/babel.html"
+    }
+  ],
   "altTitle": [
     "BABEL"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:21.000Z",
-  "updatedAt": "2021-06-07T20:35:48.000Z",
+  "updatedAt": "2021-11-06T13:34:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +66,29 @@
         "aniId": 96575,
         "createdAt": "2021-03-26T23:49:49.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lj951992": {
+        "authors": [
+          "Kinoshita Hanta",
+          "Inoue Noriyoshi"
+        ],
+        "identifier": "manga-lj951992",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Babel (Inoue Noriyoshi)",
+        "url": "https://manganato.com/manga-lj951992",
+        "image": "https://avt.mkklcdnv6temp.com/23/w/1-1583464636.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95189,
+        "aniId": 96575,
+        "createdAt": "2021-11-06T13:34:30.000Z",
+        "updatedAt": "2021-11-06T14:04:20.000Z",
         "deletedAt": null
       }
     }

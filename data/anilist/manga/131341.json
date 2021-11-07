@@ -19,5 +19,29 @@
   "createdAt": "2021-07-14T11:20:50.000Z",
   "updatedAt": "2021-08-31T07:36:43.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "bf187d8e-3b2f-4fd7-acaa-5f54d8999b83": {
+        "authors": [
+          "Shirai Kaiu",
+          "Demizu Posuka"
+        ],
+        "identifier": "bf187d8e-3b2f-4fd7-acaa-5f54d8999b83",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "miroirs",
+        "url": "https://mangadex.org/title/bf187d8e-3b2f-4fd7-acaa-5f54d8999b83",
+        "image": "https://uploads.mangadex.org/covers/bf187d8e-3b2f-4fd7-acaa-5f54d8999b83/7b85ac95-015f-4214-be49-50881679a3f6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136246,
+        "aniId": 131341,
+        "createdAt": "2021-11-01T01:34:53.000Z",
+        "updatedAt": "2021-11-01T02:04:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

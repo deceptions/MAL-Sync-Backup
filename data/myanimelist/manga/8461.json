@@ -42,6 +42,29 @@
         "updatedAt": "2021-06-02T19:19:52.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "f_o_x": {
+        "authors": [
+          "Os Rabbit Cat",
+          "A-Bao"
+        ],
+        "identifier": "f_o_x",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "F.O.X",
+        "url": "https://fanfox.net/manga/f_o_x/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/994/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8461,
+        "aniId": 38461,
+        "createdAt": "2021-11-05T05:04:22.000Z",
+        "updatedAt": "2021-11-05T05:34:20.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

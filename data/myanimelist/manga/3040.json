@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Anata_to_Scandal"
+    }
+  ],
   "altTitle": [
     "You & Scandal",
     "(あなたとスキャンダル",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:47.000Z",
-  "updatedAt": "2021-06-18T12:25:21.000Z",
+  "updatedAt": "2021-11-06T04:05:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +66,28 @@
         "aniId": 33040,
         "createdAt": "2021-05-16T21:55:45.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ql953020": {
+        "authors": [
+          "Shiina Ayumi"
+        ],
+        "identifier": "manga-ql953020",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Anata To Scandal",
+        "url": "https://manganato.com/manga-ql953020",
+        "image": "https://avt.mkklcdnv6temp.com/9/f/2-1583466051.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3040,
+        "aniId": 33040,
+        "createdAt": "2021-11-06T04:04:30.000Z",
+        "updatedAt": "2021-11-06T04:34:20.000Z",
         "deletedAt": null
       }
     }

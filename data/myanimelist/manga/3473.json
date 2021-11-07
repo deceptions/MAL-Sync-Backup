@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.mangaupdates.com/series.html?id=399"
+    }
+  ],
   "altTitle": [
     "Ruodra",
     "魅力反射"
@@ -15,7 +20,7 @@
   "category": "Manhua",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:51.000Z",
-  "updatedAt": "2021-07-02T07:20:56.000Z",
+  "updatedAt": "2021-10-31T22:06:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 33473,
         "createdAt": "2021-01-02T06:50:21.000Z",
         "updatedAt": "2021-05-20T15:29:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ss951801": {
+        "authors": [
+          "Wu Rou Xuan"
+        ],
+        "identifier": "manga-ss951801",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ardour",
+        "url": "https://manganato.com/manga-ss951801",
+        "image": "https://avt.mkklcdnv6temp.com/17/e/1-1583464364.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3473,
+        "aniId": 33473,
+        "createdAt": "2021-10-31T22:06:20.000Z",
+        "updatedAt": "2021-10-31T22:34:19.000Z",
         "deletedAt": null
       }
     }

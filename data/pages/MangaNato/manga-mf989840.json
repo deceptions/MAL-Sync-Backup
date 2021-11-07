@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 140896,
   "createdAt": "2021-10-16T04:28:55.000Z",
-  "updatedAt": "2021-10-16T04:28:55.000Z",
+  "updatedAt": "2021-11-05T18:06:52.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "서울역 네크로맨서",
+      "Seoul Station Necromancer"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Seol-Woo Jin",
+      "Seong-Ung Ji",
+      "Ji-Hun Sin"
+    ],
+    "id": 140896,
+    "malId": null,
+    "type": "manga",
+    "title": "Seoul-yeong Necromancer",
+    "url": "https://anilist.co/manga/140896",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140896-aBT941ybjolV.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-30T19:34:20.000Z",
+    "updatedAt": "2021-10-30T19:34:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

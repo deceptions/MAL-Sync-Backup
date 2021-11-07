@@ -19,5 +19,28 @@
   "createdAt": "2021-06-24T05:44:54.000Z",
   "updatedAt": "2021-10-15T10:29:05.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lu989203": {
+        "authors": [
+          "Menghuage"
+        ],
+        "identifier": "manga-lu989203",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fight Like A Girl",
+        "url": "https://manganato.com/manga-lu989203",
+        "image": "https://avt.mkklcdnv6temp.com/20/s/24-1624381207.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 136015,
+        "createdAt": "2021-06-29T08:33:25.000Z",
+        "updatedAt": "2021-11-05T18:06:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,12 +1,15 @@
 {
   "altTitle": [
+    "Bestia",
     "Bestia ベスティア"
   ],
   "externalLinks": [],
   "authors": [
     "Kashiwa Miyako",
     "Makoto Sanda",
-    "Ako Arisaka"
+    "Ako Arisaka",
+    "Rochelle Gancio",
+    "Caleb Cook"
   ],
   "id": 107238,
   "malId": 128275,
@@ -17,7 +20,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-28T20:23:33.000Z",
-  "updatedAt": "2021-06-18T05:26:02.000Z",
+  "updatedAt": "2021-11-01T18:04:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -86,6 +89,28 @@
         "aniId": 107238,
         "createdAt": "2021-08-26T03:08:03.000Z",
         "updatedAt": "2021-08-26T03:36:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "bestia_sanda_makoto": {
+        "authors": [
+          "Sanda Makoto"
+        ],
+        "identifier": "bestia_sanda_makoto",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bestia (SANDA Makoto)",
+        "url": "https://fanfox.net/manga/bestia_sanda_makoto/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28308/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128275,
+        "aniId": 107238,
+        "createdAt": "2021-11-01T05:34:23.000Z",
+        "updatedAt": "2021-11-01T06:04:19.000Z",
         "deletedAt": null
       }
     }

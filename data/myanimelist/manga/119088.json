@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://morning.kodansha.co.jp/c/kitaifukugaaru"
+    }
+  ],
   "altTitle": [
     "I show my true colors shining through.",
     "着たい服がある"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-19T07:49:18.000Z",
-  "updatedAt": "2021-05-03T13:33:16.000Z",
+  "updatedAt": "2021-11-03T13:37:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 113939,
         "createdAt": "2020-10-12T16:15:37.000Z",
         "updatedAt": "2021-06-06T15:12:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gt984228": {
+        "authors": [
+          "Tsuneki Netarou"
+        ],
+        "identifier": "manga-gt984228",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kitai Fuku Ga Aru",
+        "url": "https://manganato.com/manga-gt984228",
+        "image": "https://avt.mkklcdnv6temp.com/18/g/20-1583501730.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119088,
+        "aniId": 113939,
+        "createdAt": "2021-11-06T00:04:40.000Z",
+        "updatedAt": "2021-11-06T00:34:20.000Z",
         "deletedAt": null
       }
     }

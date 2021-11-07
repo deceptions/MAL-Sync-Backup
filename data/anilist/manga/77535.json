@@ -16,7 +16,30 @@
   "category": "one_shot",
   "hentai": false,
   "createdAt": "2021-08-16T19:07:01.000Z",
-  "updatedAt": "2021-08-16T19:07:01.000Z",
+  "updatedAt": "2021-10-31T17:06:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-bu978629": {
+        "authors": [
+          "Hideyoshico"
+        ],
+        "identifier": "manga-bu978629",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Love You Until The End Of The World",
+        "url": "https://manganato.com/manga-bu978629",
+        "image": "https://avt.mkklcdnv6temp.com/12/n/16-1583493924.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 77535,
+        "createdAt": "2021-10-31T17:06:00.000Z",
+        "updatedAt": "2021-10-31T17:06:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

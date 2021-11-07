@@ -18,5 +18,29 @@
   "createdAt": "2021-09-05T20:15:46.000Z",
   "updatedAt": "2021-10-07T08:02:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "0b7f8a9f-091d-4fcf-9577-8c2e59b2379a": {
+        "authors": [
+          "Iguchi Kon",
+          "HOSHI Renji"
+        ],
+        "identifier": "0b7f8a9f-091d-4fcf-9577-8c2e59b2379a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Renkinjutsu Mujintou Survival",
+        "url": "https://mangadex.org/title/0b7f8a9f-091d-4fcf-9577-8c2e59b2379a",
+        "image": "https://uploads.mangadex.org/covers/0b7f8a9f-091d-4fcf-9577-8c2e59b2379a/674aadc7-4888-4a5b-8504-05e7c33c4bf2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140181,
+        "aniId": 132106,
+        "createdAt": "2021-11-03T10:04:50.000Z",
+        "updatedAt": "2021-11-03T10:34:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

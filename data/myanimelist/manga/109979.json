@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.pixiv.net/works/2883"
+    }
+  ],
   "altTitle": [
     "I love you. I'm sorry.",
     "好きでごめん。"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:17.000Z",
-  "updatedAt": "2021-05-14T00:25:10.000Z",
+  "updatedAt": "2021-10-31T17:08:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 100509,
         "createdAt": "2020-10-12T16:15:20.000Z",
         "updatedAt": "2021-06-06T12:42:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ct979802": {
+        "authors": [
+          "Okamoto Satoru"
+        ],
+        "identifier": "manga-ct979802",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Suki De Gomen",
+        "url": "https://manganato.com/manga-ct979802",
+        "image": "https://avt.mkklcdnv6temp.com/5/f/17-1583495450.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109979,
+        "aniId": 100509,
+        "createdAt": "2021-10-31T17:07:40.000Z",
+        "updatedAt": "2021-10-31T17:34:19.000Z",
         "deletedAt": null
       }
     }

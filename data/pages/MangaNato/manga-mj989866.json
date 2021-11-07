@@ -13,13 +13,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 137665,
+  "aniId": 134065,
   "createdAt": "2021-10-25T16:00:56.000Z",
-  "updatedAt": "2021-10-25T16:00:58.000Z",
+  "updatedAt": "2021-11-06T20:41:12.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AD%E5%A4%96%E4%BC%9D_%E7%83%88%E6%B5%B7%E7%8E%8B%E3%81%AF%E7%95%B0%E4%B8%96%E7%95%8C%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%A6%E3%82%82%E4%B8%80%E5%90%91%E3%81%AB%E3%81%8B%E3%81%BE%E3%82%8F%E3%82%93%E3%83%83%E3%83%8"
+      }
+    ],
+    "altTitle": [
+      "バキ外伝 烈海王は異世界転生しても一向にかまわんッッ"
+    ],
+    "authors": [
+      "Ihara, Daisuke",
+      "Mutsui, Eiji"
+    ],
+    "id": 137665,
+    "type": "manga",
+    "title": "Baki Gaiden: Retsu Kaiou wa Isekai Tensei shitemo Ikkou ni Kamawan!",
+    "url": "https://myanimelist.net/manga/137665/Baki_Gaiden__Retsu_Kaiou_wa_Isekai_Tensei_shitemo_Ikkou_ni_Kamawan",
+    "image": "https://cdn.myanimelist.net/images/manga/1/246962.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-07-29T08:53:33.000Z",
+    "updatedAt": "2021-11-06T20:40:48.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "バキ外伝 烈海王は異世界転生しても一向にかまわんッッ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Keisuke Itagaki",
+      "Sai Ihara",
+      "Eiji Murai"
+    ],
+    "id": 134065,
+    "malId": 137665,
+    "type": "manga",
+    "title": "Baki Gaiden: Retsu Kaiou wa Isekai Tensei Shitemo Ikkou ni Kamawan",
+    "url": "https://anilist.co/manga/134065",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134065-lio1A88oDjvL.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-21T08:20:50.000Z",
+    "updatedAt": "2021-11-06T14:34:31.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/137665/Baki_Gaiden__Retsu_Kaiou_wa_Isekai_Tensei_shitemo_Ikkou_ni_Kamawan"
 }

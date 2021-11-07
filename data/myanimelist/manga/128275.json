@@ -92,6 +92,28 @@
         "updatedAt": "2021-08-26T03:36:33.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "bestia_sanda_makoto": {
+        "authors": [
+          "Sanda Makoto"
+        ],
+        "identifier": "bestia_sanda_makoto",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bestia (SANDA Makoto)",
+        "url": "https://fanfox.net/manga/bestia_sanda_makoto/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28308/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128275,
+        "aniId": 107238,
+        "createdAt": "2021-11-01T05:34:23.000Z",
+        "updatedAt": "2021-11-01T06:04:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

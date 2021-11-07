@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-19T17:02:31.000Z",
-  "updatedAt": "2021-07-19T17:02:31.000Z",
+  "updatedAt": "2021-11-06T03:04:52.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaNato": {
@@ -39,6 +39,28 @@
         "aniId": 136849,
         "createdAt": "2021-06-21T12:51:35.000Z",
         "updatedAt": "2021-10-23T19:28:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_golden_age_park_hui_jin": {
+        "authors": [
+          "YEO Beop-Ryong"
+        ],
+        "identifier": "the_golden_age_park_hui_jin",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Golden Age (PARK Hui-Jin)",
+        "url": "https://fanfox.net/manga/the_golden_age_park_hui_jin/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38906/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 136849,
+        "createdAt": "2021-09-15T12:50:35.000Z",
+        "updatedAt": "2021-11-06T20:40:23.000Z",
         "deletedAt": null
       }
     }

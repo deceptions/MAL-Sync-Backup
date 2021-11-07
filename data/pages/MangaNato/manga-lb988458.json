@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 141103,
   "createdAt": "2021-06-24T04:15:03.000Z",
-  "updatedAt": "2021-06-24T04:15:03.000Z",
+  "updatedAt": "2021-11-05T18:06:13.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Strongest Demon Becomes the Protagonist's Strategist",
+      "最强魔尊的退休生活从攻略主角开始"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shisi Lin",
+      "Xie Lao Ban"
+    ],
+    "id": 141103,
+    "malId": null,
+    "type": "manga",
+    "title": "Zui Qiang Mozun De Tuixiu Shenghuo Cong Gonglüe Zhujiao Kaishi",
+    "url": "https://anilist.co/manga/141103",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141103-cIkqDmRjncyh.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-03T07:34:20.000Z",
+    "updatedAt": "2021-11-03T08:04:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

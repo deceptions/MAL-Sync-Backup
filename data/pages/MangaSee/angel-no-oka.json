@@ -18,9 +18,19 @@
   "updatedAt": "2021-05-20T15:40:04.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://tezukaosamu.net/en/manga/52.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%BC%E3%83%AB%E3%81%AE%E4%B8%98"
+      }
+    ],
     "altTitle": [
-      "Enzeru no Oka, Angel's Hill",
+      "Enzeru no Oka",
+      "Angel's Hill",
       "エンゼルの丘"
     ],
     "authors": [
@@ -34,7 +44,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:00.000Z",
-    "updatedAt": "2021-05-03T10:32:55.000Z",
+    "updatedAt": "2021-11-03T10:35:41.000Z",
     "deletedAt": null
   },
   "Anilist": {

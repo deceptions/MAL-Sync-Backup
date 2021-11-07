@@ -61,6 +61,28 @@
         "updatedAt": "2021-06-14T06:57:33.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "chokotto_hime": {
+        "authors": [
+          "KAZAMA Ayami"
+        ],
+        "identifier": "chokotto_hime",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Chokotto Hime",
+        "url": "https://fanfox.net/manga/chokotto_hime/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5348/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8470,
+        "aniId": 38470,
+        "createdAt": "2021-11-06T06:35:21.000Z",
+        "updatedAt": "2021-11-06T07:04:20.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

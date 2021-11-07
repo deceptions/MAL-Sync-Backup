@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%A9%E3%82%8D%E3%82%93%E3%81%8D%E3%82%85%E3%83%BC"
+    }
+  ],
   "altTitle": [
-    "DoRoN x Cutie, Doron x Cute",
+    "DoRoN x Cutie",
+    "Doron x Cute",
     "どろんきゅー"
   ],
   "authors": [
@@ -15,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:12.000Z",
-  "updatedAt": "2021-05-09T20:17:22.000Z",
+  "updatedAt": "2021-11-03T07:04:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +63,28 @@
         "aniId": 90573,
         "createdAt": "2020-10-12T16:17:10.000Z",
         "updatedAt": "2021-06-07T05:27:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "doronkyu": {
+        "authors": [
+          "YOSHIMURA Kai"
+        ],
+        "identifier": "doronkyu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Doronkyu",
+        "url": "https://mangasee123.com/manga/Doronkyu",
+        "image": "https://cover.nep.li/cover/Doronkyu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67177,
+        "aniId": 90573,
+        "createdAt": "2021-11-03T07:04:37.000Z",
+        "updatedAt": "2021-11-03T07:34:19.000Z",
         "deletedAt": null
       }
     }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC"
+    }
+  ],
   "altTitle": [
     "ガーリッシュ ナンバー"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:25.000Z",
-  "updatedAt": "2021-05-15T21:25:04.000Z",
+  "updatedAt": "2021-10-31T20:35:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,28 @@
         "aniId": 87011,
         "createdAt": "2020-10-12T16:10:03.000Z",
         "updatedAt": "2021-06-04T21:57:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vc972559": {
+        "authors": [
+          "Watari Wataru"
+        ],
+        "identifier": "manga-vc972559",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Girlish Number",
+        "url": "https://readmanganato.com/manga-vc972559",
+        "image": "https://avt.mkklcdnv6temp.com/16/c/14-1583490327.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96522,
+        "aniId": 87011,
+        "createdAt": "2021-10-31T20:35:00.000Z",
+        "updatedAt": "2021-10-31T21:04:19.000Z",
         "deletedAt": null
       }
     }

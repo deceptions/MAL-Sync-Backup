@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 138652,
   "createdAt": "2021-08-15T19:38:11.000Z",
-  "updatedAt": "2021-09-17T18:40:57.000Z",
+  "updatedAt": "2021-10-31T14:16:58.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "내가 죽였다",
+      "I Killed Him"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ga-Yeong Jeong",
+      "Hae-Yeon Jeong",
+      "Yong-Jun Jeong"
+    ],
+    "id": 138652,
+    "malId": null,
+    "type": "manga",
+    "title": "Naega Jugyeotda",
+    "url": "https://anilist.co/manga/138652",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138652-N9ENN3kl2oaN.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-01T05:15:46.000Z",
+    "updatedAt": "2021-10-31T02:04:30.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

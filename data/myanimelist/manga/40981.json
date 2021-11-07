@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%83%E3%83%97!!_%E3%81%B2%E3%81%B0%E3%82%8A%E3%81%8F%E3%82%93!"
+    }
+  ],
   "altTitle": [
     "ストップ!! ひばりくん!"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:08.000Z",
-  "updatedAt": "2021-06-24T20:15:04.000Z",
+  "updatedAt": "2021-11-06T04:36:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +63,28 @@
         "aniId": 70981,
         "createdAt": "2021-06-24T20:14:54.000Z",
         "updatedAt": "2021-06-24T20:44:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kn954996": {
+        "authors": [
+          "Eguchi Hisashi"
+        ],
+        "identifier": "manga-kn954996",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Stop!! Hibari-Kun!",
+        "url": "https://manganato.com/manga-kn954996",
+        "image": "https://avt.mkklcdnv6temp.com/24/x/3-1583468657.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40981,
+        "aniId": 70981,
+        "createdAt": "2021-11-06T04:35:51.000Z",
+        "updatedAt": "2021-11-06T05:04:20.000Z",
         "deletedAt": null
       }
     }

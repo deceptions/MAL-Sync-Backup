@@ -10,14 +10,35 @@
   "image": "https://cover.nep.li/cover/Wonted.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 85841,
   "createdAt": "2021-03-07T09:32:54.000Z",
-  "updatedAt": "2021-10-15T23:59:06.000Z",
+  "updatedAt": "2021-10-31T03:34:29.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "원티드",
+      "Wonted: Cacophony",
+      "Wonted: Noise"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "LuckS"
+    ],
+    "id": 85841,
+    "malId": null,
+    "type": "manga",
+    "title": "Wonted",
+    "url": "https://anilist.co/manga/85841",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55841-MRaAVhyVcoQd.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-10T23:37:53.000Z",
+    "updatedAt": "2021-10-10T23:37:53.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

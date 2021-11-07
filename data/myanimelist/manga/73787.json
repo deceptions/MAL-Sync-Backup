@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "初音ミク -Project DIVA- オムニバスコミック"
   ],
@@ -15,7 +15,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:21.000Z",
-  "updatedAt": "2021-05-03T10:33:25.000Z",
+  "updatedAt": "2021-11-03T10:36:30.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ec981637": {
+        "authors": [
+          "Sekizui Hikinuki No Kei"
+        ],
+        "identifier": "manga-ec981637",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sekizui Hikinuki No Kei Omnibus",
+        "url": "https://manganato.com/manga-ec981637",
+        "image": "https://avt.mkklcdnv6temp.com/22/i/18-1583497970.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 73787,
+        "aniId": null,
+        "createdAt": "2021-11-04T06:04:29.000Z",
+        "updatedAt": "2021-11-05T18:05:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

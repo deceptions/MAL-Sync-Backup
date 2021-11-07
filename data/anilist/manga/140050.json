@@ -18,5 +18,28 @@
   "createdAt": "2021-10-06T08:02:17.000Z",
   "updatedAt": "2021-10-06T08:02:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-md989886": {
+        "authors": [
+          "Updating"
+        ],
+        "identifier": "manga-md989886",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Heaven Is Under Me",
+        "url": "https://manganato.com/manga-md989886",
+        "image": "https://avt.mkklcdnv6temp.com/50/w/24-1635221193.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 140050,
+        "createdAt": "2021-10-26T10:01:15.000Z",
+        "updatedAt": "2021-11-03T08:53:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

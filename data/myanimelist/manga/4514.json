@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.sho-comi.com/sakuhin/kyokoi.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/今日、恋をはじめます"
+    }
+  ],
   "altTitle": [
     "Today, We'll Start Our Love",
     "今日、恋をはじめます"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:59.000Z",
-  "updatedAt": "2021-08-15T20:07:48.000Z",
+  "updatedAt": "2021-11-01T19:05:12.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +90,28 @@
         "aniId": 34514,
         "createdAt": "2021-08-15T20:07:46.000Z",
         "updatedAt": "2021-08-15T20:37:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kyou_koi_wo_hajimemasu": {
+        "authors": [
+          "Minami Kanan"
+        ],
+        "identifier": "kyou_koi_wo_hajimemasu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kyou, Koi wo Hajimemasu",
+        "url": "https://fanfox.net/manga/kyou_koi_wo_hajimemasu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1047/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4514,
+        "aniId": 34514,
+        "createdAt": "2021-11-01T19:04:21.000Z",
+        "updatedAt": "2021-11-01T19:34:19.000Z",
         "deletedAt": null
       }
     }

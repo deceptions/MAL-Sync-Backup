@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/My-Otome_%28manga%29"
+    }
+  ],
   "altTitle": [
     "My-Otome",
     "Mai Otome",
@@ -21,7 +26,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:29.000Z",
-  "updatedAt": "2021-09-06T18:04:49.000Z",
+  "updatedAt": "2021-11-05T05:05:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -45,6 +50,28 @@
         "aniId": 31069,
         "createdAt": "2020-10-12T16:04:45.000Z",
         "updatedAt": "2021-06-02T23:09:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mai_otome": {
+        "authors": [
+          "SATOU Kenetsu"
+        ],
+        "identifier": "mai_otome",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mai-Otome",
+        "url": "https://fanfox.net/manga/mai_otome/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/236/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1069,
+        "aniId": 31069,
+        "createdAt": "2021-11-05T05:05:21.000Z",
+        "updatedAt": "2021-11-05T05:34:20.000Z",
         "deletedAt": null
       }
     }

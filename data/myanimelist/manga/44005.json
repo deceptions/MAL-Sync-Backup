@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%BC%E3%82%AB%E3%83%B3!"
+    }
+  ],
   "altTitle": [
     "レーカン！"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:18.000Z",
-  "updatedAt": "2021-07-01T00:33:13.000Z",
+  "updatedAt": "2021-11-06T02:35:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +63,28 @@
         "aniId": 74005,
         "createdAt": "2020-12-31T15:39:16.000Z",
         "updatedAt": "2021-05-20T15:25:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ue971739": {
+        "authors": [
+          "Seta Hinako"
+        ],
+        "identifier": "manga-ue971739",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Re-Kan!",
+        "url": "https://readmanganato.com/manga-ue971739",
+        "image": "https://avt.mkklcdnv6temp.com/1/k/13-1583489734.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44005,
+        "aniId": 74005,
+        "createdAt": "2021-11-06T02:34:41.000Z",
+        "updatedAt": "2021-11-06T03:04:20.000Z",
         "deletedAt": null
       }
     }

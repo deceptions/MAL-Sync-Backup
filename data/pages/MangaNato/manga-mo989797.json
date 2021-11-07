@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 141119,
   "createdAt": "2021-10-14T03:58:54.000Z",
-  "updatedAt": "2021-10-14T03:58:54.000Z",
+  "updatedAt": "2021-11-05T18:06:36.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "로엘린은 미래를 걷는다",
+      "Roelin Walks the Future"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Rojiya"
+    ],
+    "id": 141119,
+    "malId": null,
+    "type": "manga",
+    "title": "Roelin Miraereul Geonneunda",
+    "url": "https://anilist.co/manga/141119",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141119-W4VjqajNgbrV.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-03T20:04:20.000Z",
+    "updatedAt": "2021-11-03T20:04:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

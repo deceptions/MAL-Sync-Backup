@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 123301,
   "createdAt": "2021-05-29T18:12:34.000Z",
-  "updatedAt": "2021-05-29T18:12:34.000Z",
+  "updatedAt": "2021-11-01T08:28:47.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "无限变异",
+      "Infinite Viral Infection  "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yi  ",
+      "Dong Bu Liao  "
+    ],
+    "id": 123301,
+    "malId": null,
+    "type": "manga",
+    "title": "Wuxian Bianyi",
+    "url": "https://anilist.co/manga/123301",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b123301-jxISej7TnaY4.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-15T10:20:13.000Z",
+    "updatedAt": "2021-11-01T01:35:55.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

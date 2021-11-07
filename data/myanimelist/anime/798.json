@@ -29,7 +29,7 @@
   "hentai": false,
   "anidbId": 4113,
   "createdAt": "2020-10-12T15:38:08.000Z",
-  "updatedAt": "2021-09-30T17:02:43.000Z",
+  "updatedAt": "2021-11-05T15:04:30.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -48,6 +48,25 @@
         "aniId": 798,
         "createdAt": "2020-10-12T15:48:30.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "yomigaeru-sora-rescue-wings": {
+        "identifier": "yomigaeru-sora-rescue-wings",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Yomigaeru Sora Rescue Wings",
+        "url": "https://gogoanime.pe/category/yomigaeru-sora-rescue-wings",
+        "image": "https://gogocdn.net/images/anime/Y/yomigaeru-sora-rescue-wings.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 798,
+        "aniId": 798,
+        "createdAt": "2021-11-05T15:04:20.000Z",
+        "updatedAt": "2021-11-05T15:34:19.000Z",
         "deletedAt": null
       }
     }

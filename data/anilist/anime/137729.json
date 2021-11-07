@@ -14,5 +14,44 @@
   "createdAt": "2021-08-10T00:09:16.000Z",
   "updatedAt": "2021-10-19T12:28:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "2o26q": {
+        "identifier": "2o26q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dou Po Cangqiong: San Nian Zhi Yao",
+        "url": "https://9anime.to/watch/battle-through-the-heavens-3-year-agreement.2o26q",
+        "image": "https://static.bunnycdn.ru/i/cache/images/a/ac/ac78855466d75f6213131f804263a3f2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 49701,
+        "aniId": 137729,
+        "createdAt": "2021-09-01T08:15:47.000Z",
+        "updatedAt": "2021-10-31T18:34:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "doupo-cangqiong-san-nian-zhi-yue": {
+        "identifier": "doupo-cangqiong-san-nian-zhi-yue",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Doupo Cangqiong: San Nian Zhi Yue",
+        "url": "https://gogoanime.pe/category/doupo-cangqiong-san-nian-zhi-yue",
+        "image": "https://gogocdn.net/cover/doupo-cangqiong-san-nian-zhi-yue.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49701,
+        "aniId": 137729,
+        "createdAt": "2021-11-01T03:34:20.000Z",
+        "updatedAt": "2021-11-01T04:04:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

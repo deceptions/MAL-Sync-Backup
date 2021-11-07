@@ -10,14 +10,31 @@
   "image": "https://cover.nep.li/cover/T-A-L.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 85735,
   "createdAt": "2021-03-24T19:19:56.000Z",
-  "updatedAt": "2021-09-24T19:47:15.000Z",
+  "updatedAt": "2021-10-31T03:34:29.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [],
+    "externalLinks": [],
+    "authors": [
+      "Kang Im"
+    ],
+    "id": 85735,
+    "malId": null,
+    "type": "manga",
+    "title": "TAL",
+    "url": "https://anilist.co/manga/85735",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55735.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-02T07:17:18.000Z",
+    "updatedAt": "2021-10-31T03:34:29.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

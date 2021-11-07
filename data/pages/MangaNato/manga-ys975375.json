@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 102020,
   "createdAt": "2021-10-17T22:28:47.000Z",
-  "updatedAt": "2021-10-17T22:28:57.000Z",
+  "updatedAt": "2021-10-31T14:16:21.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "징크스의 연인",
+      "The Jinx's Lover"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ji-Hye Han",
+      "Guseul"
+    ],
+    "id": 102020,
+    "malId": null,
+    "type": "manga",
+    "title": "Jinx-ui Yeonin",
+    "url": "https://anilist.co/manga/102020",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/102020-SyWgbfREiU5u.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-05T01:19:28.000Z",
+    "updatedAt": "2021-10-31T08:06:10.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

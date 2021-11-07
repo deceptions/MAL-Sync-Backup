@@ -47,6 +47,28 @@
         "updatedAt": "2021-06-03T00:10:53.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "romeo_x_juliet": {
+        "authors": [
+          "GONZO"
+        ],
+        "identifier": "romeo_x_juliet",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Romeo x Juliet",
+        "url": "https://fanfox.net/manga/romeo_x_juliet/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/934/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1661,
+        "aniId": 31661,
+        "createdAt": "2021-11-02T07:04:20.000Z",
+        "updatedAt": "2021-11-02T07:34:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

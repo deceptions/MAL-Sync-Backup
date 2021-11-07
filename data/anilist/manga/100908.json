@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-05T22:42:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kamisama_no_uroko": {
+        "authors": [
+          "Hinohara Meguru"
+        ],
+        "identifier": "kamisama_no_uroko",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kamisama no Uroko",
+        "url": "https://fanfox.net/manga/kamisama_no_uroko/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27138/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111161,
+        "aniId": 100908,
+        "createdAt": "2021-11-05T08:36:45.000Z",
+        "updatedAt": "2021-11-05T09:04:20.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

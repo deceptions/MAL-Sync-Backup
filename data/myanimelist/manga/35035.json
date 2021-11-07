@@ -1,6 +1,12 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%87%E3%81%86%E3%81%AE%E3%82%AD%E3%83%A9%E5%90%9B"
+    }
+  ],
   "altTitle": [
+    "Kira-kun Today",
     "Today's Kira-kun",
     "きょうのキラ君"
   ],
@@ -15,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:56.000Z",
-  "updatedAt": "2021-06-28T08:19:22.000Z",
+  "updatedAt": "2021-11-05T18:35:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +87,28 @@
         "aniId": 65035,
         "createdAt": "2021-06-28T08:19:19.000Z",
         "updatedAt": "2021-06-28T08:49:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kyou_no_kira_kun": {
+        "authors": [
+          "MIKIMOTO Rin"
+        ],
+        "identifier": "kyou_no_kira_kun",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kyou no Kira-kun",
+        "url": "https://fanfox.net/manga/kyou_no_kira_kun/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10386/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35035,
+        "aniId": 65035,
+        "createdAt": "2021-11-05T18:35:34.000Z",
+        "updatedAt": "2021-11-05T19:04:20.000Z",
         "deletedAt": null
       }
     }

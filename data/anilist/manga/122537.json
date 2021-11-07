@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-10T10:13:17.000Z",
-  "updatedAt": "2021-07-10T10:13:17.000Z",
+  "updatedAt": "2021-11-01T23:34:29.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "ctrl_z": {
+        "authors": [
+          "Miti"
+        ],
+        "identifier": "ctrl_z",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ctrl + Z",
+        "url": "https://fanfox.net/manga/ctrl_z/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20105/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 122537,
+        "createdAt": "2021-11-01T23:34:29.000Z",
+        "updatedAt": "2021-11-01T23:34:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

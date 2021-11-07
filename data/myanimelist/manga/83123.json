@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:38.000Z",
-  "updatedAt": "2021-10-04T19:03:18.000Z",
+  "updatedAt": "2021-11-05T23:34:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,6 +64,28 @@
         "aniId": 93359,
         "createdAt": "2021-10-04T19:03:08.000Z",
         "updatedAt": "2021-10-04T19:32:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "soumatou_kabushikigaisha": {
+        "authors": [
+          "SUGAWARA Keita"
+        ],
+        "identifier": "soumatou_kabushikigaisha",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Soumatou Kabushikigaisha",
+        "url": "https://fanfox.net/manga/soumatou_kabushikigaisha/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39345/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83123,
+        "aniId": 93359,
+        "createdAt": "2021-11-05T23:34:32.000Z",
+        "updatedAt": "2021-11-06T00:04:20.000Z",
         "deletedAt": null
       }
     }

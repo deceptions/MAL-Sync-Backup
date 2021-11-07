@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-09T15:13:19.000Z",
-  "updatedAt": "2021-07-09T15:13:19.000Z",
+  "updatedAt": "2021-10-31T19:34:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "21c40dc1-4558-4fc9-84d5-52e2ed9495d9": {
+        "authors": [
+          "Yuzuhara Teiru",
+          "Sekihara"
+        ],
+        "identifier": "21c40dc1-4558-4fc9-84d5-52e2ed9495d9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Isn’t the Villainess’s Punishment to Enter Into a Political Marriage With an Autocrat Too Lenient?",
+        "url": "https://mangadex.org/title/21c40dc1-4558-4fc9-84d5-52e2ed9495d9",
+        "image": "https://uploads.mangadex.org/covers/21c40dc1-4558-4fc9-84d5-52e2ed9495d9/9fcdc977-8db8-4910-b430-fa3f6bdbc831.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 136493,
+        "createdAt": "2021-10-31T18:35:53.000Z",
+        "updatedAt": "2021-11-01T08:26:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

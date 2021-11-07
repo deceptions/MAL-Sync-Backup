@@ -18,5 +18,51 @@
   "createdAt": "2021-10-12T10:08:26.000Z",
   "updatedAt": "2021-10-12T10:08:26.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-md989960": {
+        "authors": [
+          "Kawamoto Homura",
+          "Kamiya Zuzu"
+        ],
+        "identifier": "manga-md989960",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Humanity’S Existence Depends On Love Gambling With Another World’S Princess",
+        "url": "https://manganato.com/manga-md989960",
+        "image": "https://avt.mkklcdnv6temp.com/3/y/25-1636001446.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140554,
+        "aniId": null,
+        "createdAt": "2021-11-04T05:34:19.000Z",
+        "updatedAt": "2021-11-04T05:34:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "isekai_no_hime_to_no_koi_bakuchi_ni_jinrui_no_sonbou_ga_kakkatemasu": {
+        "authors": [
+          "KAWAMOTO Homura"
+        ],
+        "identifier": "isekai_no_hime_to_no_koi_bakuchi_ni_jinrui_no_sonbou_ga_kakkatemasu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Isekai no Hime to no Koi Bakuchi ni, Jinrui no Sonbou ga Kakkatemasu",
+        "url": "https://fanfox.net/manga/isekai_no_hime_to_no_koi_bakuchi_ni_jinrui_no_sonbou_ga_kakkatemasu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39855/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140554,
+        "aniId": null,
+        "createdAt": "2021-11-04T10:35:22.000Z",
+        "updatedAt": "2021-11-04T10:35:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

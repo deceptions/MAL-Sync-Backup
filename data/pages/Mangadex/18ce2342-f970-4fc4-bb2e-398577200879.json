@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 141113,
+  "aniId": 136158,
   "createdAt": "2021-10-10T06:02:34.000Z",
-  "updatedAt": "2021-10-10T14:40:20.000Z",
+  "updatedAt": "2021-11-01T08:34:19.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/mangaup/original/tensei_yadoya/"
+      }
+    ],
+    "altTitle": [
+      "Welcome to My Inn.",
+      "After Reincarnating, I Became the Son of Innkeepers",
+      "転生したら宿屋の息子でした 田舎街でのんびりスローライフをおくろう"
+    ],
+    "authors": [
+      "Renkinou",
+      "Takase, Asuka"
+    ],
+    "id": 141113,
+    "type": "manga",
+    "title": "Tensei shitara Yadoya no Musuko deshita: Inaka Machi de Nonbiri Slow Life wo Okurou",
+    "url": "https://myanimelist.net/manga/141113/Tensei_shitara_Yadoya_no_Musuko_deshita__Inaka_Machi_de_Nonbiri_Slow_Life_wo_Okurou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/251366.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-11-01T03:05:54.000Z",
+    "updatedAt": "2021-11-01T03:05:54.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "転生したら宿屋の息子でした 田舎街でのんびりスローライフをおくろう",
+      "Tensei Shitara Yadoya no Musuko deshita: Inakagai de Nonbiri Slow Life wo Okurou",
+      "Welcome to My Inn",
+      "After Reincarnating, I Became the Son of Inkeepers"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Renkinou",
+      "Chako Abeno",
+      "Asuka Takase"
+    ],
+    "id": 136158,
+    "malId": 141113,
+    "type": "manga",
+    "title": "Tensei Shitara Yadoya no Musuko deshita: Inaka Machi de Nonbiri Slow Life wo Okurou",
+    "url": "https://anilist.co/manga/136158",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136158-FKvpy9rBvMdP.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-27T14:49:20.000Z",
+    "updatedAt": "2021-10-21T07:42:51.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/141113/Tensei_shitara_Yadoya_no_Musuko_deshita__Inaka_Machi_de_Nonbiri_Slow_Life_wo_Okurou"
 }

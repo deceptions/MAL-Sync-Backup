@@ -18,7 +18,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-25T23:36:34.000Z",
-  "updatedAt": "2021-08-25T23:36:34.000Z",
+  "updatedAt": "2021-10-31T13:34:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mu989777": {
+        "authors": [
+          "剑神无敌"
+        ],
+        "identifier": "manga-mu989777",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Talent Copycat",
+        "url": "https://manganato.com/manga-mu989777",
+        "image": "https://avt.mkklcdnv6temp.com/46/b/24-1633870751.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 138366,
+        "createdAt": "2021-10-10T15:02:55.000Z",
+        "updatedAt": "2021-10-31T14:15:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%88%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E4%B8%83%E5%A4%89%E5%8C%96_%28%E6%BC%AB%E7%94%BB%29"
+    }
+  ],
   "altTitle": [
     "The Wallflower: Yamatonadeshiko Shichihenge",
     "My Fair Lady",
@@ -19,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:21.000Z",
-  "updatedAt": "2021-09-07T20:35:11.000Z",
+  "updatedAt": "2021-11-01T00:34:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -63,6 +68,28 @@
         "aniId": 30422,
         "createdAt": "2021-06-10T22:08:24.000Z",
         "updatedAt": "2021-06-10T22:38:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lu955077": {
+        "authors": [
+          "Hayakawa Tomoko"
+        ],
+        "identifier": "manga-lu955077",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yamato Nadeshiko Shichihenge",
+        "url": "https://manganato.com/manga-lu955077",
+        "image": "https://avt.mkklcdnv6temp.com/27/m/3-1583468760.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 422,
+        "aniId": 30422,
+        "createdAt": "2021-11-01T00:34:19.000Z",
+        "updatedAt": "2021-11-01T01:04:19.000Z",
         "deletedAt": null
       }
     }

@@ -23,5 +23,28 @@
   "createdAt": "2021-10-12T23:59:26.000Z",
   "updatedAt": "2021-10-12T23:59:26.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "f032b354-db45-4f39-a07e-1e4902c02c7a": {
+        "authors": [
+          "Yuzuchiri"
+        ],
+        "identifier": "f032b354-db45-4f39-a07e-1e4902c02c7a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kimi to Pico-Pico",
+        "url": "https://mangadex.org/title/f032b354-db45-4f39-a07e-1e4902c02c7a",
+        "image": "https://uploads.mangadex.org/covers/f032b354-db45-4f39-a07e-1e4902c02c7a/58117c05-9ed3-41ac-83da-23e476a3e165.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135383,
+        "aniId": 131287,
+        "createdAt": "2021-11-02T17:04:51.000Z",
+        "updatedAt": "2021-11-02T17:34:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 136015,
   "createdAt": "2021-06-29T08:33:25.000Z",
-  "updatedAt": "2021-10-15T10:28:45.000Z",
+  "updatedAt": "2021-11-05T18:06:29.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Fight Like a Girl",
+      "知nan而上",
+      " Ultimate Fighting Champion"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Meng Hua Ge"
+    ],
+    "id": 136015,
+    "malId": null,
+    "type": "manga",
+    "title": "Zhi Nan Er Shang",
+    "url": "https://anilist.co/manga/136015",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b136015-MYgq9TwrB8Tv.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-24T05:44:54.000Z",
+    "updatedAt": "2021-10-15T10:29:05.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

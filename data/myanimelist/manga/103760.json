@@ -1,8 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%B6%E7%95%9C%E4%BA%BA%E3%83%A4%E3%83%97%E3%83%BC"
+    }
+  ],
   "altTitle": [
     "The Domestic Yapoo",
-    "Yapoo, the Human Cattle, Uchuu Teikoku e no  Shoutai",
+    "Yapoo, the Human Cattle",
+    "Uchuu Teikoku e no  Shoutai",
     "劇画家畜人ヤプー"
   ],
   "authors": [
@@ -17,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:51.000Z",
-  "updatedAt": "2021-05-18T03:25:04.000Z",
+  "updatedAt": "2021-11-06T14:04:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +46,28 @@
         "aniId": 98189,
         "createdAt": "2020-10-12T16:10:24.000Z",
         "updatedAt": "2021-06-05T00:33:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xq974773": {
+        "authors": [
+          "Numa Shozo"
+        ],
+        "identifier": "manga-xq974773",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Domestic Yapoo",
+        "url": "https://manganato.com/manga-xq974773",
+        "image": "https://avt.mkklcdnv6temp.com/49/b/14-1583491442.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103760,
+        "aniId": 98189,
+        "createdAt": "2021-11-06T14:04:20.000Z",
+        "updatedAt": "2021-11-06T14:34:20.000Z",
         "deletedAt": null
       }
     }

@@ -1,8 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.square-enix.co.jp/magazine/gfantasy/story/umineko/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%BF%E3%81%AD%E3%81%93%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB_episode2_-_Turn_of_the_golden_witch"
+    }
+  ],
   "altTitle": [
     "Umineko When They Cry Episode 2: Turn of the Golden Witch",
-    "Umineko no Naku Koro ni Episode 2, When Seagulls Cry Episode 2: Turn of the Golden Witch",
+    "Umineko no Naku Koro ni Episode 2",
+    "When Seagulls Cry Episode 2: Turn of the Golden Witch",
     "うみねこのなく頃に - Episode 2: Turn of the Golden Witch"
   ],
   "authors": [
@@ -13,11 +23,11 @@
   "type": "manga",
   "title": "Umineko no Naku Koro ni - Episode 2: Turn of the Golden Witch",
   "url": "https://myanimelist.net/manga/9547/Umineko_no_Naku_Koro_ni_-_Episode_2__Turn_of_the_Golden_Witch",
-  "image": "https://cdn.myanimelist.net/images/manga/1/21284.jpg",
+  "image": "https://cdn.myanimelist.net/images/manga/3/251377.jpg",
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:24.000Z",
-  "updatedAt": "2021-06-05T16:51:01.000Z",
+  "updatedAt": "2021-11-02T00:35:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -63,6 +73,30 @@
         "aniId": 39547,
         "createdAt": "2021-01-04T01:57:09.000Z",
         "updatedAt": "2021-05-20T15:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nz964534": {
+        "authors": [
+          "Ryukishi07",
+          "Natsumi",
+          "Kei"
+        ],
+        "identifier": "manga-nz964534",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Umineko No Naku Koro Ni Episode 3",
+        "url": "https://readmanganato.com/manga-nz964534",
+        "image": "https://avt.mkklcdnv6temp.com/32/m/9-1583481398.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9547,
+        "aniId": 39547,
+        "createdAt": "2021-11-02T00:34:50.000Z",
+        "updatedAt": "2021-11-02T01:04:19.000Z",
         "deletedAt": null
       }
     }

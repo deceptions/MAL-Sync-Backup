@@ -27,7 +27,7 @@
   "hentai": false,
   "anidbId": 52,
   "createdAt": "2020-10-12T15:38:00.000Z",
-  "updatedAt": "2021-09-30T11:35:05.000Z",
+  "updatedAt": "2021-10-31T12:36:10.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -82,6 +82,23 @@
         "aniId": 192,
         "createdAt": "2020-10-12T17:23:10.000Z",
         "updatedAt": "2021-05-20T15:21:55.000Z",
+        "deletedAt": null
+      },
+      "love-hina-spring-special": {
+        "identifier": "love-hina-spring-special",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Love Hina Spring",
+        "url": "https://gogoanime.pe/category/love-hina-spring-special",
+        "image": "https://gogocdn.net/images/love.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 192,
+        "aniId": 192,
+        "createdAt": "2021-10-31T12:35:00.000Z",
+        "updatedAt": "2021-10-31T13:04:19.000Z",
         "deletedAt": null
       }
     },

@@ -59,6 +59,28 @@
         "updatedAt": "2021-06-08T00:56:01.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "cardfight_vanguard": {
+        "authors": [
+          "ITOU Akira"
+        ],
+        "identifier": "cardfight_vanguard",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cardfight!! Vanguard",
+        "url": "https://fanfox.net/manga/cardfight_vanguard/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10769/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28759,
+        "aniId": 58759,
+        "createdAt": "2021-11-03T22:35:21.000Z",
+        "updatedAt": "2021-11-03T23:04:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

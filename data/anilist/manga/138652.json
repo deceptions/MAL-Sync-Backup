@@ -18,7 +18,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-01T05:15:46.000Z",
-  "updatedAt": "2021-09-01T05:45:46.000Z",
+  "updatedAt": "2021-10-31T02:04:30.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-my989507": {
+        "authors": [
+          "Updating"
+        ],
+        "identifier": "manga-my989507",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Killed Him",
+        "url": "https://manganato.com/manga-my989507",
+        "image": "https://avt.mkklcdnv6temp.com/34/g/24-1629052193.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 138652,
+        "createdAt": "2021-08-15T19:38:11.000Z",
+        "updatedAt": "2021-10-31T14:16:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

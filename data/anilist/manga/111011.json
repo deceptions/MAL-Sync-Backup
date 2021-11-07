@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-09T18:04:15.000Z",
-  "updatedAt": "2021-06-21T14:27:32.000Z",
+  "updatedAt": "2021-10-31T17:09:03.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-eg981841": {
+        "authors": [
+          "Bopul"
+        ],
+        "identifier": "manga-eg981841",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "11:59",
+        "url": "https://manganato.com/manga-eg981841",
+        "image": "https://avt.mkklcdnv6temp.com/29/u/18-1583498232.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 111011,
+        "createdAt": "2021-10-31T17:09:03.000Z",
+        "updatedAt": "2021-10-31T17:09:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

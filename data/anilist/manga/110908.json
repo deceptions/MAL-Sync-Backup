@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-09T05:13:17.000Z",
-  "updatedAt": "2021-07-09T05:13:17.000Z",
+  "updatedAt": "2021-10-31T17:09:33.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-eh981690": {
+        "authors": [
+          "Yoojae",
+          "Emjae"
+        ],
+        "identifier": "manga-eh981690",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fantasia World",
+        "url": "https://manganato.com/manga-eh981690",
+        "image": "https://avt.mkklcdnv6temp.com/24/g/18-1583498038.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 110908,
+        "createdAt": "2021-10-31T17:09:33.000Z",
+        "updatedAt": "2021-10-31T17:09:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

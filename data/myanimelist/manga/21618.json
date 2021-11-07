@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/サムライハイスクール_(漫画)"
+    }
+  ],
   "altTitle": [
     "サムライハイスクール"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:58.000Z",
-  "updatedAt": "2021-09-04T07:46:57.000Z",
+  "updatedAt": "2021-10-31T18:35:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +63,28 @@
         "aniId": 51618,
         "createdAt": "2021-03-04T07:20:44.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-im957447": {
+        "authors": [
+          "Kashiwaba Hiro"
+        ],
+        "identifier": "manga-im957447",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Samurai High School",
+        "url": "https://manganato.com/manga-im957447",
+        "image": "https://avt.mkklcdnv6temp.com/45/s/4-1583471611.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21618,
+        "aniId": 51618,
+        "createdAt": "2021-10-31T18:34:50.000Z",
+        "updatedAt": "2021-10-31T19:04:19.000Z",
         "deletedAt": null
       }
     }

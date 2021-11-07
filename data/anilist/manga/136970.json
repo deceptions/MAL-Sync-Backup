@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-22T09:33:49.000Z",
-  "updatedAt": "2021-07-22T09:33:49.000Z",
+  "updatedAt": "2021-10-31T15:36:21.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-em982347": {
+        "authors": [
+          "Talk"
+        ],
+        "identifier": "manga-em982347",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Crisis (Talk)",
+        "url": "https://readmanganato.com/manga-em982347",
+        "image": "https://avt.mkklcdnv6temp.com/48/k/18-1583498986.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 136970,
+        "createdAt": "2021-10-31T15:35:41.000Z",
+        "updatedAt": "2021-10-31T18:15:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

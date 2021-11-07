@@ -31,7 +31,7 @@
   "hentai": false,
   "anidbId": 1451,
   "createdAt": "2020-10-12T15:38:48.000Z",
-  "updatedAt": "2021-10-01T20:05:23.000Z",
+  "updatedAt": "2021-11-01T02:34:21.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -50,6 +50,25 @@
         "aniId": 5688,
         "createdAt": "2020-10-12T15:57:02.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "gegege-no-kitarou-1968": {
+        "identifier": "gegege-no-kitarou-1968",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Gegege no Kitarou (1968)",
+        "url": "https://gogoanime.pe/category/gegege-no-kitarou-1968",
+        "image": "https://gogocdn.net/cover/gegege-no-kitarou-1968.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5688,
+        "aniId": 5688,
+        "createdAt": "2021-11-01T02:34:20.000Z",
+        "updatedAt": "2021-11-01T03:04:19.000Z",
         "deletedAt": null
       }
     }

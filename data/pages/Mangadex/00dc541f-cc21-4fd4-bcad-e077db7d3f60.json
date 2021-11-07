@@ -13,12 +13,57 @@
   "sticky": false,
   "active": true,
   "actor": 2,
-  "malId": null,
-  "aniId": null,
+  "malId": 138877,
+  "aniId": 136961,
   "createdAt": "2021-10-25T10:00:56.000Z",
-  "updatedAt": "2021-10-25T16:20:14.000Z",
+  "updatedAt": "2021-10-31T14:15:14.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pocket.shonenmagazine.com/episode/3269754496381400495"
+      }
+    ],
+    "altTitle": [
+      "日本語が話せないロシア人美少女転入生が頼れるのは、多言語マスターの俺1人"
+    ],
+    "authors": [
+      "Aiue, Okaki",
+      "Asahi"
+    ],
+    "id": 138877,
+    "type": "manga",
+    "title": "Nihongo ga Hanasenai Russia-jin Bishoujo Tennyuusei ga Tayoreru no wa, Tagengo Master no Ore Hitori",
+    "url": "https://myanimelist.net/manga/138877/Nihongo_ga_Hanasenai_Russia-jin_Bishoujo_Tennyuusei_ga_Tayoreru_no_wa_Tagengo_Master_no_Ore_Hitori",
+    "image": "https://cdn.myanimelist.net/images/manga/3/248360.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-10-31T14:15:11.000Z",
+    "updatedAt": "2021-10-31T14:15:11.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "日本語が話せないロシア人美少女転入生が頼れるのは、多言語マスターの俺1人"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Usagi Ame",
+      "Okaki Aiue",
+      "Asahi"
+    ],
+    "id": 136961,
+    "malId": 138877,
+    "type": "manga",
+    "title": "Nihongo ga Hanasenai Russia-jin Bishoujo Tennyuusei ga Tanomareru no wa, Tagengo Master no Ore Hitori",
+    "url": "https://anilist.co/manga/136961",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136961-QqodYeWAFIis.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-22T03:03:50.000Z",
+    "updatedAt": "2021-10-31T02:04:29.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/138877/Nihongo_ga_Hanasenai_Russia-jin_Bishoujo_Tennyuusei_ga_Tayoreru_no_wa_Tagengo_Master_no_Ore_Hitori"
 }

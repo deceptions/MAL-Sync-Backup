@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://palcy.jp/comics/212"
+    }
+  ],
   "altTitle": [
     "それはまるで雨傘のように"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:53.000Z",
-  "updatedAt": "2021-05-23T15:13:28.000Z",
+  "updatedAt": "2021-11-04T13:34:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,28 @@
         "aniId": 107149,
         "createdAt": "2020-10-12T16:13:57.000Z",
         "updatedAt": "2021-06-06T10:28:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sore_wa_marude_amagasa_no_you_ni": {
+        "authors": [
+          "Rii"
+        ],
+        "identifier": "sore_wa_marude_amagasa_no_you_ni",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sore wa marude Amagasa no you ni",
+        "url": "https://fanfox.net/manga/sore_wa_marude_amagasa_no_you_ni/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29773/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118621,
+        "aniId": 107149,
+        "createdAt": "2021-11-04T13:34:19.000Z",
+        "updatedAt": "2021-11-04T14:04:19.000Z",
         "deletedAt": null
       }
     }

@@ -49,6 +49,28 @@
         "updatedAt": "2021-06-07T10:49:50.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kieta_hatsukoi": {
+        "authors": [
+          "HINEKURE Wataru"
+        ],
+        "identifier": "kieta_hatsukoi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kieta Hatsukoi",
+        "url": "https://fanfox.net/manga/kieta_hatsukoi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32131/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122906,
+        "aniId": 109921,
+        "createdAt": "2021-11-02T02:04:19.000Z",
+        "updatedAt": "2021-11-02T02:34:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

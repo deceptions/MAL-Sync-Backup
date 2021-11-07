@@ -106,6 +106,28 @@
         "updatedAt": "2021-07-02T15:03:56.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "yumemiru_taiyou": {
+        "authors": [
+          "TAKANO Ichigo"
+        ],
+        "identifier": "yumemiru_taiyou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yumemiru Taiyou",
+        "url": "https://fanfox.net/manga/yumemiru_taiyou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7798/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9607,
+        "aniId": 39607,
+        "createdAt": "2021-11-02T22:34:40.000Z",
+        "updatedAt": "2021-11-02T23:04:19.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

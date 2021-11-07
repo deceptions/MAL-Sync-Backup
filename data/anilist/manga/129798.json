@@ -19,5 +19,30 @@
   "createdAt": "2021-06-05T11:48:58.000Z",
   "updatedAt": "2021-06-18T11:52:01.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a7ad8806-57c1-4fc6-9822-8de8edf956e9": {
+        "authors": [
+          "KK",
+          "Hachikawa Kyuu",
+          "Yuki Kana"
+        ],
+        "identifier": "a7ad8806-57c1-4fc6-9822-8de8edf956e9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Home Centre Sales Clerk’s Life in Another World",
+        "url": "https://mangadex.org/title/a7ad8806-57c1-4fc6-9822-8de8edf956e9",
+        "image": "https://uploads.mangadex.org/covers/a7ad8806-57c1-4fc6-9822-8de8edf956e9/6ce4656b-ccc4-4eaf-85d5-247e54179c42.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 134250,
+        "aniId": 129798,
+        "createdAt": "2021-11-01T22:34:21.000Z",
+        "updatedAt": "2021-11-03T09:04:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }
