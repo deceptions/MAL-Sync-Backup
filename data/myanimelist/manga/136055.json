@@ -22,5 +22,28 @@
   "createdAt": "2021-10-11T09:37:55.000Z",
   "updatedAt": "2021-10-11T09:37:55.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "f9e8e828-7000-4f8a-b394-6d552aed0e98": {
+        "authors": [
+          "Medamayaki"
+        ],
+        "identifier": "f9e8e828-7000-4f8a-b394-6d552aed0e98",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Uso to Kiss wa Houkago ni",
+        "url": "https://mangadex.org/title/f9e8e828-7000-4f8a-b394-6d552aed0e98",
+        "image": "https://uploads.mangadex.org/covers/f9e8e828-7000-4f8a-b394-6d552aed0e98/d90ff029-0c02-4f89-b4bf-690cb7c4eb37.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136055,
+        "aniId": 130288,
+        "createdAt": "2021-11-08T00:43:46.000Z",
+        "updatedAt": "2021-11-08T01:13:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

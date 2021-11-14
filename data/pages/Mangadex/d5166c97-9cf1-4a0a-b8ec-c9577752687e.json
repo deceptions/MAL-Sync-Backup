@@ -13,9 +13,9 @@
   "active": true,
   "actor": 2,
   "malId": 134763,
-  "aniId": null,
+  "aniId": 141242,
   "createdAt": "2021-03-13T07:09:19.000Z",
-  "updatedAt": "2021-06-08T15:06:01.000Z",
+  "updatedAt": "2021-11-07T09:17:45.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -37,6 +37,25 @@
     "updatedAt": "2021-06-08T12:57:13.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "じんじょり祓い"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sachiko Uguisu"
+    ],
+    "id": 141242,
+    "malId": 134763,
+    "type": "manga",
+    "title": "Jinjori Barai",
+    "url": "https://anilist.co/manga/141242",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b141242-bv85kCrKjUdv.png",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-11-07T08:47:46.000Z",
+    "updatedAt": "2021-11-07T08:47:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/134763/Jinjori_Harai"
 }

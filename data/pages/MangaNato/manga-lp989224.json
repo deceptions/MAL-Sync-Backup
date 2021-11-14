@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 136969,
   "createdAt": "2021-06-29T08:27:03.000Z",
-  "updatedAt": "2021-10-07T05:02:19.000Z",
+  "updatedAt": "2021-11-10T20:52:21.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "나쁜사람",
+      "A Bad Person"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Dumseu"
+    ],
+    "id": 136969,
+    "malId": null,
+    "type": "manga",
+    "title": "Nappeun Saram",
+    "url": "https://anilist.co/manga/136969",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136969-isiwhYAxHAU3.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-23T15:21:35.000Z",
+    "updatedAt": "2021-11-10T20:43:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

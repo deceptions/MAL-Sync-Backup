@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.webnewtype.com/contents/geass_g/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%AE%E3%82%A2%E3%82%B9"
+    }
+  ],
   "altTitle": [
     "Code Geass: Lelouch of the Rebellion - Lancelot & Guren",
     "コードギアス 反逆のルルーシュ外伝 白の騎士 紅の夜叉"
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:51.000Z",
-  "updatedAt": "2021-05-23T07:12:59.000Z",
+  "updatedAt": "2021-11-09T04:43:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +48,28 @@
         "aniId": 126220,
         "createdAt": "2020-10-12T16:20:49.000Z",
         "updatedAt": "2021-06-08T00:58:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "code_geass_hangyaku_no_rurushu_gaiden_shiro_no_kishi_kurenai_no_yasha": {
+        "authors": [
+          "TAKAHASHI Bisui"
+        ],
+        "identifier": "code_geass_hangyaku_no_rurushu_gaiden_shiro_no_kishi_kurenai_no_yasha",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Code Geass - Hangyaku no Rurushu Gaiden - Shiro no Kishi Kurenai no Yasha",
+        "url": "https://fanfox.net/manga/code_geass_hangyaku_no_rurushu_gaiden_shiro_no_kishi_kurenai_no_yasha/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34971/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117661,
+        "aniId": 126220,
+        "createdAt": "2021-11-09T04:43:35.000Z",
+        "updatedAt": "2021-11-09T05:13:34.000Z",
         "deletedAt": null
       }
     }

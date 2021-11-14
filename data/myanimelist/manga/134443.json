@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://betsufure.net/comics/1000038241.html"
+    }
+  ],
   "altTitle": [
     "メガネ、時々、ヤンキーくん"
   ],
@@ -10,11 +15,11 @@
   "type": "manga",
   "title": "Megane, Tokidoki, Yankee-kun",
   "url": "https://myanimelist.net/manga/134443/Megane_Tokidoki_Yankee-kun",
-  "image": "https://cdn.myanimelist.net/images/manga/1/241998.jpg",
+  "image": "https://cdn.myanimelist.net/images/manga/2/246371.jpg",
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-03-10T18:09:37.000Z",
-  "updatedAt": "2021-05-29T19:12:32.000Z",
+  "updatedAt": "2021-11-07T13:18:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +63,28 @@
         "aniId": 128448,
         "createdAt": "2021-05-29T19:12:32.000Z",
         "updatedAt": "2021-06-21T17:14:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "megane_tokidoki_yankee_kun": {
+        "authors": [
+          "Naruki"
+        ],
+        "identifier": "megane_tokidoki_yankee_kun",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Megane, Tokidoki, Yankee-kun",
+        "url": "https://fanfox.net/manga/megane_tokidoki_yankee_kun/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39033/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 134443,
+        "aniId": 128448,
+        "createdAt": "2021-11-07T13:17:47.000Z",
+        "updatedAt": "2021-11-07T13:47:45.000Z",
         "deletedAt": null
       }
     }

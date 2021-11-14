@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 103903,
   "createdAt": "2021-06-03T16:20:40.000Z",
-  "updatedAt": "2021-07-11T21:46:26.000Z",
+  "updatedAt": "2021-11-10T15:43:52.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "先輩から目が離せないとある会社員の日常",
+      "Me ga Hana",
+      "The Daily life of A Certain Office Lady Who Can’t Take Her Eyes Off Her Senpai"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "ruch_f"
+    ],
+    "id": 103903,
+    "malId": null,
+    "type": "manga",
+    "title": "Senpai Kara Me ga Hanasenai To Aru Kaishain no Nichijou",
+    "url": "https://anilist.co/manga/103903",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx103903-7Pm6Jo1zXKuY.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-05T19:49:08.000Z",
+    "updatedAt": "2021-11-10T13:44:47.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

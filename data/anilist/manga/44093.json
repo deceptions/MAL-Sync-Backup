@@ -63,6 +63,28 @@
         "updatedAt": "2021-05-20T15:39:39.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "shinwa_ponchi": {
+        "authors": [
+          "KATSURA Asuka"
+        ],
+        "identifier": "shinwa_ponchi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shinwa Ponchi",
+        "url": "https://fanfox.net/manga/shinwa_ponchi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5908/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14093,
+        "aniId": 44093,
+        "createdAt": "2021-11-13T22:13:41.000Z",
+        "updatedAt": "2021-11-13T22:43:39.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

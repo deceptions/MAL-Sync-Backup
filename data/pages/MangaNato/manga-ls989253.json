@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 139781,
   "createdAt": "2021-07-04T16:29:50.000Z",
-  "updatedAt": "2021-07-04T16:30:51.000Z",
+  "updatedAt": "2021-11-11T22:15:50.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Threads of Love",
+      "사랑과 평강의 온달!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gi-Ju Han",
+      "Il"
+    ],
+    "id": 139781,
+    "malId": null,
+    "type": "manga",
+    "title": "Saranggwa Pyeonggangui Ondal!",
+    "url": "https://anilist.co/manga/139781",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139781-oHBmHqswjMlD.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-30T02:36:20.000Z",
+    "updatedAt": "2021-11-11T21:43:56.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

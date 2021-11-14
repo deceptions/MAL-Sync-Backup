@@ -12,12 +12,54 @@
   "sticky": false,
   "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 140717,
+  "aniId": 128779,
   "createdAt": "2021-08-09T06:40:10.000Z",
-  "updatedAt": "2021-09-20T22:40:45.000Z",
+  "updatedAt": "2021-11-10T19:49:39.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://grandjump.shueisha.co.jp/manga/marriage.html"
+      }
+    ],
+    "altTitle": [
+      "マリッジグレー"
+    ],
+    "authors": [
+      "Wadachi, Taira"
+    ],
+    "id": 140717,
+    "type": "manga",
+    "title": "Marriage Gray",
+    "url": "https://myanimelist.net/manga/140717/Marriage_Gray",
+    "image": "https://cdn.myanimelist.net/images/manga/1/250665.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-10-02T01:02:36.000Z",
+    "updatedAt": "2021-11-10T15:20:08.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "マリッジグレー"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Taira Wadachi"
+    ],
+    "id": 128779,
+    "malId": 140717,
+    "type": "manga",
+    "title": "Marriage Gray",
+    "url": "https://anilist.co/manga/128779",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128779-ekXmWadd0Lsu.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-09T04:09:16.000Z",
+    "updatedAt": "2021-10-17T11:29:16.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/140717/Marriage_Gray"
 }

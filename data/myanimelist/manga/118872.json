@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic-days.com/episode/10834108156630543838"
+    }
+  ],
   "altTitle": [
     "20 Years Apart",
     "あいだにはたち"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:54.000Z",
-  "updatedAt": "2021-05-23T17:38:27.000Z",
+  "updatedAt": "2021-11-11T07:14:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 114821,
         "createdAt": "2021-05-31T09:20:11.000Z",
         "updatedAt": "2021-05-31T09:30:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "aida_ni_hatachi": {
+        "authors": [
+          "SAOTOME Yagi"
+        ],
+        "identifier": "aida_ni_hatachi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Aida Ni Hatachi",
+        "url": "https://fanfox.net/manga/aida_ni_hatachi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32645/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118872,
+        "aniId": 114821,
+        "createdAt": "2021-11-11T07:13:48.000Z",
+        "updatedAt": "2021-11-11T07:43:35.000Z",
         "deletedAt": null
       }
     }

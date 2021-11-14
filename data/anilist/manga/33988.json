@@ -89,6 +89,28 @@
         "updatedAt": "2021-07-05T18:29:51.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "vampire_hunter_d": {
+        "authors": [
+          "KIKUCHI Hideyuki"
+        ],
+        "identifier": "vampire_hunter_d",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Vampire Hunter D",
+        "url": "https://fanfox.net/manga/vampire_hunter_d/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7692/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3988,
+        "aniId": 33988,
+        "createdAt": "2021-11-11T20:13:45.000Z",
+        "updatedAt": "2021-11-11T20:43:35.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -66,6 +66,50 @@
         "updatedAt": "2021-05-20T15:40:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-ku961803": {
+        "authors": [
+          "Narumi Naru"
+        ],
+        "identifier": "manga-ku961803",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ramen Daisuki Koizumi-San",
+        "url": "https://readmanganato.com/manga-ku961803",
+        "image": "https://avt.mkklcdnv6temp.com/50/g/7-1583478186.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82773,
+        "aniId": 86472,
+        "createdAt": "2021-11-08T20:44:37.000Z",
+        "updatedAt": "2021-11-08T21:13:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ramen_daisuki_koizumi_san": {
+        "authors": [
+          "NARUMI Naru"
+        ],
+        "identifier": "ramen_daisuki_koizumi_san",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ramen Daisuki Koizumi-san",
+        "url": "https://fanfox.net/manga/ramen_daisuki_koizumi_san/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14695/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82773,
+        "aniId": 86472,
+        "createdAt": "2021-11-08T20:45:39.000Z",
+        "updatedAt": "2021-11-08T21:13:34.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

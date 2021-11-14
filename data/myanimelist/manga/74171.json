@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://urasunday.com/herohearts/"
+    }
+  ],
   "altTitle": [
     "ヒーローハーツ"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:21.000Z",
-  "updatedAt": "2021-05-10T20:42:21.000Z",
+  "updatedAt": "2021-11-10T20:45:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +41,28 @@
         "aniId": 91949,
         "createdAt": "2020-10-12T16:07:30.000Z",
         "updatedAt": "2021-06-04T03:20:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ls963001": {
+        "authors": [
+          "Haruhara Robinson"
+        ],
+        "identifier": "manga-ls963001",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hero Hearts",
+        "url": "https://manganato.com/manga-ls963001",
+        "image": "https://avt.mkklcdnv6temp.com/35/l/8-1583479527.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 74171,
+        "aniId": 91949,
+        "createdAt": "2021-11-11T19:44:48.000Z",
+        "updatedAt": "2021-11-11T20:13:35.000Z",
         "deletedAt": null
       }
     }

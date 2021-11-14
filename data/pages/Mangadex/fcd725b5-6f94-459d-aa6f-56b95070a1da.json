@@ -14,9 +14,9 @@
   "active": true,
   "actor": 2,
   "malId": 122350,
-  "aniId": null,
+  "aniId": 110008,
   "createdAt": "2020-10-12T16:13:46.000Z",
-  "updatedAt": "2021-06-06T13:33:19.000Z",
+  "updatedAt": "2021-11-07T09:47:45.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -39,6 +39,29 @@
     "updatedAt": "2021-06-06T00:19:59.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "犬ヶ島",
+      "Isle of Dogs",
+      "L'Ile aux chiens"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Minetarou Mochizuki",
+      "Wes Anderson",
+      "Miyako Slocombe"
+    ],
+    "id": 110008,
+    "malId": 122350,
+    "type": "manga",
+    "title": "Inugashima",
+    "url": "https://anilist.co/manga/110008",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110008-aD2SQic8XD3m.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-07T09:17:46.000Z",
+    "updatedAt": "2021-11-07T09:17:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/122350/Inugashima"
 }

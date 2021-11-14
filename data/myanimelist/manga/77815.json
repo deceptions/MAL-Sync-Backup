@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%96%B0%E7%A8%AE%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%82%B0%E3%83%BC%E3%83%AB"
+    }
+  ],
   "altTitle": [
     "Tokyo Ghoul [Jack]",
     "Toukyou Kuushuu: Jack",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:31.000Z",
-  "updatedAt": "2021-06-24T19:15:54.000Z",
+  "updatedAt": "2021-11-13T03:13:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,6 +87,28 @@
         "aniId": 85522,
         "createdAt": "2021-07-08T07:13:30.000Z",
         "updatedAt": "2021-07-08T07:43:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "toukyou_kushu_jack": {
+        "authors": [
+          "ISHIDA Sui"
+        ],
+        "identifier": "toukyou_kushu_jack",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Toukyou Kushu Jack",
+        "url": "https://fanfox.net/manga/toukyou_kushu_jack/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14216/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 77815,
+        "aniId": 85522,
+        "createdAt": "2021-11-13T03:13:38.000Z",
+        "updatedAt": "2021-11-13T03:43:37.000Z",
         "deletedAt": null
       }
     }

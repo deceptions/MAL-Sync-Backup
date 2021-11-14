@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://manga.line.me/product/periodic?id=Z0000418"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E7%95%9C%E5%B3%B6"
+    }
+  ],
   "altTitle": [
     "Offal Island",
     "臓物島"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-06T19:20:42.000Z",
-  "updatedAt": "2021-06-06T19:20:42.000Z",
+  "updatedAt": "2021-11-13T01:14:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +46,28 @@
         "aniId": 109714,
         "createdAt": "2020-10-12T16:16:03.000Z",
         "updatedAt": "2021-06-06T19:23:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ep981850": {
+        "authors": [
+          "Masaya Hokazono"
+        ],
+        "identifier": "manga-ep981850",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Offal Island",
+        "url": "https://manganato.com/manga-ep981850",
+        "image": "https://avt.mkklcdnv6temp.com/30/b/18-1583498246.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120326,
+        "aniId": 109714,
+        "createdAt": "2021-11-13T01:13:46.000Z",
+        "updatedAt": "2021-11-13T01:43:35.000Z",
         "deletedAt": null
       }
     }

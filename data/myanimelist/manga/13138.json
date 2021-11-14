@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-03T00:35:02.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "love_slave": {
+        "authors": [
+          "ONOZUKA Kahori"
+        ],
+        "identifier": "love_slave",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Love Slave",
+        "url": "https://fanfox.net/manga/love_slave/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5693/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13138,
+        "aniId": 43138,
+        "createdAt": "2021-11-13T22:44:30.000Z",
+        "updatedAt": "2021-11-13T23:13:39.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

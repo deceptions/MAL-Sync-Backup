@@ -65,6 +65,28 @@
         "updatedAt": "2021-05-20T15:40:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "pinocchio": {
+        "authors": [
+          "Maru"
+        ],
+        "identifier": "pinocchio",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Pinocchio",
+        "url": "https://fanfox.net/manga/pinocchio/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7718/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58145,
+        "aniId": 85431,
+        "createdAt": "2021-11-08T23:44:08.000Z",
+        "updatedAt": "2021-11-09T00:13:34.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -19,5 +19,28 @@
   "createdAt": "2021-09-13T00:34:34.000Z",
   "updatedAt": "2021-10-09T01:32:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "2917bd11-97f9-4f63-9a28-be2e04467bbd": {
+        "authors": [
+          "Ueno Meguru"
+        ],
+        "identifier": "2917bd11-97f9-4f63-9a28-be2e04467bbd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gyaru Sen",
+        "url": "https://mangadex.org/title/2917bd11-97f9-4f63-9a28-be2e04467bbd",
+        "image": "https://uploads.mangadex.org/covers/2917bd11-97f9-4f63-9a28-be2e04467bbd/ecd4c99f-a6fa-4136-ba68-5e20955c2391.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140486,
+        "aniId": 138776,
+        "createdAt": "2021-11-08T10:43:34.000Z",
+        "updatedAt": "2021-11-08T10:43:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

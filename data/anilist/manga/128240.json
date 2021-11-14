@@ -18,7 +18,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-05T10:18:58.000Z",
-  "updatedAt": "2021-09-19T12:40:42.000Z",
+  "updatedAt": "2021-11-09T09:43:36.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "24af0dff-b8ea-48f8-a1f9-d7de0403a6bc": {
+        "authors": [
+          "Tsukiyo Namida.",
+          "Nagao-ken"
+        ],
+        "identifier": "24af0dff-b8ea-48f8-a1f9-d7de0403a6bc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hospitality of Healer",
+        "url": "https://mangadex.org/title/24af0dff-b8ea-48f8-a1f9-d7de0403a6bc",
+        "image": "https://uploads.mangadex.org/covers/24af0dff-b8ea-48f8-a1f9-d7de0403a6bc/5718ad2c-691d-4dcc-9156-42adbff64fe8.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 136234,
+        "aniId": 128240,
+        "createdAt": "2021-02-09T01:11:24.000Z",
+        "updatedAt": "2021-11-09T18:49:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

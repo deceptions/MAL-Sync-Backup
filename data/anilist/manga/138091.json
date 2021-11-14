@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-19T06:37:07.000Z",
-  "updatedAt": "2021-10-07T16:02:39.000Z",
+  "updatedAt": "2021-11-07T11:47:47.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "329cf43e-8e0c-4984-95c8-5df22aca1aa1": {
+        "authors": [
+          "冷场施法者"
+        ],
+        "identifier": "329cf43e-8e0c-4984-95c8-5df22aca1aa1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Xuejie, Don't Livestream It!",
+        "url": "https://mangadex.org/title/329cf43e-8e0c-4984-95c8-5df22aca1aa1",
+        "image": "https://uploads.mangadex.org/covers/329cf43e-8e0c-4984-95c8-5df22aca1aa1/b7d56fc3-b46f-4958-b3b3-ab45e37e894f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 138091,
+        "createdAt": "2020-10-12T16:21:10.000Z",
+        "updatedAt": "2021-11-07T22:46:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

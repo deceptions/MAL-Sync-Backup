@@ -42,6 +42,29 @@
         "updatedAt": "2021-06-05T07:58:13.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "eyami-no-kami": {
+        "authors": [
+          "FUJISAWA Tooru",
+          "OCHIAI Hirokazu"
+        ],
+        "identifier": "eyami-no-kami",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Eyami no Kami",
+        "url": "https://mangasee123.com/manga/Eyami-No-Kami",
+        "image": "https://cover.nep.li/cover/Eyami-No-Kami.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 70527,
+        "aniId": 85769,
+        "createdAt": "2021-11-13T21:14:08.000Z",
+        "updatedAt": "2021-11-13T21:43:39.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

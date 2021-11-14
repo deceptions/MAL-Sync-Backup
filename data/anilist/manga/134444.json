@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T05:42:58.000Z",
-  "updatedAt": "2021-06-21T17:59:12.000Z",
+  "updatedAt": "2021-11-07T17:47:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "b736ba2f-0602-4f2f-8f77-2a61cb53c0a7": {
+        "authors": [
+          "Sakuragi Sakura",
+          "Clear"
+        ],
+        "identifier": "b736ba2f-0602-4f2f-8f77-2a61cb53c0a7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Omiai Shitakunakattanode, Muri Nandai Na Jouken Wo Tsuketara Doukyuusei Ga Kita Ken Ni Tsuite",
+        "url": "https://mangadex.org/title/b736ba2f-0602-4f2f-8f77-2a61cb53c0a7",
+        "image": "https://uploads.mangadex.org/covers/b736ba2f-0602-4f2f-8f77-2a61cb53c0a7/5b0eebbe-4353-4e54-aa3b-12f6b2192a1e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 134444,
+        "createdAt": "2021-11-07T17:47:47.000Z",
+        "updatedAt": "2021-11-07T18:48:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

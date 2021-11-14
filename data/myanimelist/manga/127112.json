@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://magcomi.com/episode/13933686331650787935"
+    }
+  ],
   "altTitle": [
     "Reincarnation's little girl never gives up",
     "転生幼女はあきらめない"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-09T19:13:45.000Z",
-  "updatedAt": "2021-09-09T23:34:51.000Z",
+  "updatedAt": "2021-11-12T21:44:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -62,6 +67,28 @@
         "aniId": 121410,
         "createdAt": "2021-03-12T23:39:06.000Z",
         "updatedAt": "2021-09-27T09:03:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tensei_youjo_wa_akiramenai": {
+        "authors": [
+          "Kaya (カヤ)"
+        ],
+        "identifier": "tensei_youjo_wa_akiramenai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tensei Youjo wa Akiramenai",
+        "url": "https://fanfox.net/manga/tensei_youjo_wa_akiramenai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35643/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127112,
+        "aniId": 121410,
+        "createdAt": "2021-11-12T21:43:49.000Z",
+        "updatedAt": "2021-11-12T22:13:35.000Z",
         "deletedAt": null
       }
     }

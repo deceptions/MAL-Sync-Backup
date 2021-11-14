@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-10-10T12:33:34.000Z",
-  "updatedAt": "2021-10-10T12:33:34.000Z",
+  "updatedAt": "2021-11-11T22:44:25.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaNato": {
@@ -33,9 +33,31 @@
         "active": true,
         "actor": null,
         "malId": 110656,
-        "aniId": null,
+        "aniId": 107461,
         "createdAt": "2021-10-25T07:01:25.000Z",
-        "updatedAt": "2021-10-25T07:01:25.000Z",
+        "updatedAt": "2021-11-12T03:13:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shippuu_windmill": {
+        "authors": [
+          "HARUNO Shu"
+        ],
+        "identifier": "shippuu_windmill",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shippuu Windmill!",
+        "url": "https://fanfox.net/manga/shippuu_windmill/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39725/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110656,
+        "aniId": 107461,
+        "createdAt": "2021-11-13T14:44:18.000Z",
+        "updatedAt": "2021-11-13T15:13:37.000Z",
         "deletedAt": null
       }
     }

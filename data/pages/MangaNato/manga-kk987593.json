@@ -11,13 +11,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 133833,
+  "aniId": 129023,
   "createdAt": "2021-07-10T12:13:26.000Z",
-  "updatedAt": "2021-07-10T12:13:28.000Z",
+  "updatedAt": "2021-11-13T20:13:39.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "The You Next to Me Is the Cutest One of All",
+      "You, The One Sitting Next To Me, Are The Cutest.",
+      "隣の君が一番かわいい"
+    ],
+    "authors": [
+      "Torii, Ma"
+    ],
+    "id": 133833,
+    "type": "manga",
+    "title": "Tonari no Kimi ga Ichiban Kawaii",
+    "url": "https://myanimelist.net/manga/133833/Tonari_no_Kimi_ga_Ichiban_Kawaii",
+    "image": "https://cdn.myanimelist.net/images/manga/1/246184.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-07-10T12:13:28.000Z",
+    "updatedAt": "2021-11-13T15:43:50.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "隣の君が一番かわいい",
+      "You, the One Sitting Next to Me, Are the Cutest.",
+      "The You Next to Me is the Cutest One of All"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Maa Torii"
+    ],
+    "id": 129023,
+    "malId": 133833,
+    "type": "manga",
+    "title": "Tonari no Kimi ga Ichiban Kawaii",
+    "url": "https://anilist.co/manga/129023",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129023-Eq7kVdjUWE2T.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-05T02:18:58.000Z",
+    "updatedAt": "2021-06-21T17:17:32.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/133833/Tonari_no_Kimi_ga_Ichiban_Kawaii"
 }

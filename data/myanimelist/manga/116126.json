@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://pocket.shonenmagazine.com/episode/10834108156636253329"
+    }
+  ],
   "altTitle": [
     "ギャンブラーズパレード"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:41.000Z",
-  "updatedAt": "2021-09-23T02:11:01.000Z",
+  "updatedAt": "2021-11-11T22:44:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +88,29 @@
         "aniId": 104520,
         "createdAt": "2021-03-23T02:04:47.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ci980265": {
+        "authors": [
+          "Kazutaka Kodaka",
+          "Atsushi Nakayama"
+        ],
+        "identifier": "manga-ci980265",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gamblers Parade",
+        "url": "https://manganato.com/manga-ci980265",
+        "image": "https://avt.mkklcdnv6temp.com/22/d/17-1583496054.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116126,
+        "aniId": 104520,
+        "createdAt": "2021-11-11T22:43:46.000Z",
+        "updatedAt": "2021-11-11T23:13:35.000Z",
         "deletedAt": null
       }
     }

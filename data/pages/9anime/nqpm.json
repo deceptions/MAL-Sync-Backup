@@ -8,13 +8,49 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 1,
+  "malId": 35994,
   "aniId": null,
   "createdAt": "2020-10-12T15:53:59.000Z",
-  "updatedAt": "2021-11-06T21:35:15.000Z",
+  "updatedAt": "2021-11-07T22:46:06.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://satsuriku.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13307"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20772"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Angels_of_Death_(video_game)"
+      }
+    ],
+    "altTitle": [
+      "Angels of Death",
+      "Angel of Massacre",
+      "Angel of Slaughter",
+      "殺戮の天使"
+    ],
+    "id": 35994,
+    "type": "anime",
+    "title": "Satsuriku no Tenshi",
+    "url": "https://myanimelist.net/anime/35994/Satsuriku_no_Tenshi",
+    "image": "https://cdn.myanimelist.net/images/anime/1862/95624.jpg",
+    "category": "TV",
+    "hentai": false,
+    "anidbId": 13307,
+    "createdAt": "2020-10-12T15:39:55.000Z",
+    "updatedAt": "2021-11-06T21:35:34.000Z",
+    "deletedAt": null
+  },
   "Anilist": null,
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/anime/35994/Satsuriku_no_Tenshi"
 }

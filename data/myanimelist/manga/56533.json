@@ -18,5 +18,28 @@
   "createdAt": "2021-11-06T18:04:30.000Z",
   "updatedAt": "2021-11-06T18:04:30.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "288c3057-3b57-4f82-94b7-6a6695081c21": {
+        "authors": [
+          "Tanaka Masashi"
+        ],
+        "identifier": "288c3057-3b57-4f82-94b7-6a6695081c21",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "U.P.O.",
+        "url": "https://mangadex.org/title/288c3057-3b57-4f82-94b7-6a6695081c21",
+        "image": "https://uploads.mangadex.org/covers/288c3057-3b57-4f82-94b7-6a6695081c21/ca976752-fb49-4f5f-bcda-2c6ad5064c7d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 56533,
+        "aniId": 88237,
+        "createdAt": "2021-11-11T20:44:28.000Z",
+        "updatedAt": "2021-11-11T22:16:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

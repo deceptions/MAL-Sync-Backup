@@ -61,6 +61,28 @@
         "updatedAt": "2021-10-12T18:28:45.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "dousei_chuu": {
+        "authors": [
+          "BENNY'S"
+        ],
+        "identifier": "dousei_chuu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dousei Chuu!!",
+        "url": "https://fanfox.net/manga/dousei_chuu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28624/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49823,
+        "aniId": 79823,
+        "createdAt": "2021-11-10T03:14:06.000Z",
+        "updatedAt": "2021-11-10T03:43:34.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

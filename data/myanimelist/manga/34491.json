@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/content/top.php/01033/KB00000383"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3!"
+    }
+  ],
   "altTitle": [
     "Supa Darin!",
     "Super-Dan!",
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:50.000Z",
-  "updatedAt": "2021-08-09T10:39:36.000Z",
+  "updatedAt": "2021-11-13T23:43:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +69,28 @@
         "aniId": 64491,
         "createdAt": "2021-08-09T10:39:24.000Z",
         "updatedAt": "2021-08-09T11:09:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "super_darling": {
+        "authors": [
+          "SHOUOTO Aya"
+        ],
+        "identifier": "super_darling",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Super Darling!",
+        "url": "https://fanfox.net/manga/super_darling/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10575/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34491,
+        "aniId": 64491,
+        "createdAt": "2021-11-13T23:43:40.000Z",
+        "updatedAt": "2021-11-14T00:13:39.000Z",
         "deletedAt": null
       }
     }

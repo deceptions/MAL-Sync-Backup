@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%8B%BC%E3%81%A8%E7%BE%8A%E7%9A%AE%E7%B4%99"
+    }
+  ],
   "altTitle": [
     "Wolf on the Parchment",
     "Wolf & Parchment: New Theory Spice & Wolf",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:57.000Z",
-  "updatedAt": "2021-09-29T02:03:25.000Z",
+  "updatedAt": "2021-11-11T07:45:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -86,6 +91,26 @@
         "aniId": 115750,
         "createdAt": "2021-03-29T01:49:30.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      },
+      "shinsetsu_ookami_to_koushinryou_ookami_to_youhishi": {
+        "authors": [
+          "HASEKURA Isuna"
+        ],
+        "identifier": "shinsetsu_ookami_to_koushinryou_ookami_to_youhishi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shinsetsu Ookami to Koushinryou: Ookami to Youhishi",
+        "url": "https://fanfox.net/manga/shinsetsu_ookami_to_koushinryou_ookami_to_youhishi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31342/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119626,
+        "aniId": 115750,
+        "createdAt": "2021-11-11T07:45:48.000Z",
+        "updatedAt": "2021-11-11T08:13:35.000Z",
         "deletedAt": null
       }
     }

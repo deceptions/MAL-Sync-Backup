@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://web-ace.jp/shonenace/contents/268/"
+    }
+  ],
   "altTitle": [
     "Love Fighter Shuravan",
     "恋愛戦士シュラバン"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:48.000Z",
-  "updatedAt": "2021-06-06T02:49:51.000Z",
+  "updatedAt": "2021-11-07T13:48:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 105629,
         "createdAt": "2021-03-24T19:49:54.000Z",
         "updatedAt": "2021-05-20T15:40:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cz980182": {
+        "authors": [
+          "Hayato Aoki"
+        ],
+        "identifier": "manga-cz980182",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Love Fighter Shuravan",
+        "url": "https://manganato.com/manga-cz980182",
+        "image": "https://avt.mkklcdnv6temp.com/19/f/17-1583495951.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116675,
+        "aniId": 105629,
+        "createdAt": "2021-11-07T13:47:55.000Z",
+        "updatedAt": "2021-11-07T14:17:45.000Z",
         "deletedAt": null
       }
     }

@@ -92,6 +92,28 @@
         "updatedAt": "2021-09-20T17:41:02.000Z",
         "deletedAt": null
       }
+    },
+    "Mangadex": {
+      "68112dc1-2b80-4f20-beb8-2f2a8716a430": {
+        "authors": [
+          "Tatsu Yukinobu"
+        ],
+        "identifier": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dandadan",
+        "url": "https://mangadex.org/title/68112dc1-2b80-4f20-beb8-2f2a8716a430",
+        "image": "https://uploads.mangadex.org/covers/68112dc1-2b80-4f20-beb8-2f2a8716a430/465d9ab8-07b1-4c82-b770-e68813644b18.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135496,
+        "aniId": 132029,
+        "createdAt": "2021-11-08T23:13:35.000Z",
+        "updatedAt": "2021-11-08T23:13:35.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

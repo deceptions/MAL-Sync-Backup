@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Nagao-ken",
-    "Tsukiyo Namida."
+    "Tsukiyo Namida.",
+    "Nagao-ken"
   ],
   "identifier": "24af0dff-b8ea-48f8-a1f9-d7de0403a6bc",
   "type": "manga",
@@ -12,13 +12,63 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 136234,
+  "aniId": 128240,
   "createdAt": "2021-02-09T01:11:24.000Z",
-  "updatedAt": "2021-06-08T11:04:27.000Z",
+  "updatedAt": "2021-11-09T18:49:18.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://web-ace.jp/youngaceup/contents/1000156/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki//回復術士のやり直し"
+      }
+    ],
+    "altTitle": [
+      "Hospitality of Healer",
+      "回復術士のおもてなし"
+    ],
+    "authors": [
+      "Nagao, Kudan"
+    ],
+    "id": 136234,
+    "type": "manga",
+    "title": "Kaifuku Jutsushi no Omotenashi",
+    "url": "https://myanimelist.net/manga/136234/Kaifuku_Jutsushi_no_Omotenashi",
+    "image": "https://cdn.myanimelist.net/images/manga/2/248797.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-10-10T18:42:57.000Z",
+    "updatedAt": "2021-11-09T18:44:46.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "回復術士のおもてなし",
+      "Hospitality of Healer"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Rui Tsukiyo",
+      "Siokonbu",
+      "Ken Nagao"
+    ],
+    "id": 128240,
+    "malId": 136234,
+    "type": "manga",
+    "title": "Kaifuku Jutsushi no Omotenashi",
+    "url": "https://anilist.co/manga/128240",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128240-qti1KBSKuGRx.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-05T10:18:58.000Z",
+    "updatedAt": "2021-11-09T09:43:36.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/136234/Kaifuku_Jutsushi_no_Omotenashi"
 }

@@ -19,7 +19,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-10-02T01:02:36.000Z",
-  "updatedAt": "2021-10-02T01:02:36.000Z",
+  "updatedAt": "2021-11-10T15:20:08.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "ad2f66cc-3b77-4122-bda1-7c3894066305": {
+        "authors": [
+          "Wadachi Taira"
+        ],
+        "identifier": "ad2f66cc-3b77-4122-bda1-7c3894066305",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Marriage Gray",
+        "url": "https://mangadex.org/title/ad2f66cc-3b77-4122-bda1-7c3894066305",
+        "image": "https://uploads.mangadex.org/covers/ad2f66cc-3b77-4122-bda1-7c3894066305/6818d983-4f04-4e73-ba59-1b12af2103dc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140717,
+        "aniId": 128779,
+        "createdAt": "2021-08-09T06:40:10.000Z",
+        "updatedAt": "2021-11-10T19:49:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

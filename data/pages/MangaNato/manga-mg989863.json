@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 110656,
-  "aniId": null,
+  "aniId": 107461,
   "createdAt": "2021-10-25T07:01:25.000Z",
-  "updatedAt": "2021-10-25T07:01:25.000Z",
+  "updatedAt": "2021-11-12T03:13:35.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -33,9 +33,28 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-10-10T12:33:34.000Z",
-    "updatedAt": "2021-10-10T12:33:34.000Z",
+    "updatedAt": "2021-11-11T22:44:25.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "疾風ういんどみる！"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shuu Haruno"
+    ],
+    "id": 107461,
+    "malId": 110656,
+    "type": "manga",
+    "title": "Shippuu Windmill!",
+    "url": "https://anilist.co/manga/107461",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx107461-vPk4A7jU0cJK.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-12T02:43:36.000Z",
+    "updatedAt": "2021-11-12T02:43:36.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/110656/Shippuu_Windmill"
 }

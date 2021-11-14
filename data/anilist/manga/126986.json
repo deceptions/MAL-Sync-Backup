@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T21:12:57.000Z",
-  "updatedAt": "2021-06-21T16:50:32.000Z",
+  "updatedAt": "2021-11-09T08:43:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-kd987738": {
+        "authors": [
+          "Wanan"
+        ],
+        "identifier": "manga-kd987738",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "No Home",
+        "url": "https://readmanganato.com/manga-kd987738",
+        "image": "https://avt.mkklcdnv6temp.com/10/b/23-1611541789.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 126986,
+        "createdAt": "2021-06-06T10:49:38.000Z",
+        "updatedAt": "2021-11-09T18:44:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

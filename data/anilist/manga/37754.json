@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-02T14:38:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "tsukiyo_no_fromage": {
+        "authors": [
+          "Tinkle"
+        ],
+        "identifier": "tsukiyo_no_fromage",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tsukiyo no Fromage",
+        "url": "https://fanfox.net/manga/tsukiyo_no_fromage/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3454/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7754,
+        "aniId": 37754,
+        "createdAt": "2021-11-09T19:15:26.000Z",
+        "updatedAt": "2021-11-09T19:43:35.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

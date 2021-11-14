@@ -13,13 +13,45 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 2,
+  "malId": 118730,
   "aniId": 124618,
   "createdAt": "2021-05-29T00:43:53.000Z",
-  "updatedAt": "2021-10-06T10:02:20.000Z",
+  "updatedAt": "2021-11-10T15:43:31.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.dajiaochongmanhua.com/comic/662"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://zh.wikipedia.org/wiki/%E5%85%A8%E8%81%B7%E9%AB%98%E6%89%8B"
+      }
+    ],
+    "altTitle": [
+      "The King's Avatar",
+      "Quan Zhi Gao Shou",
+      "Full-Time Expert",
+      "Master of Skills",
+      "全职高手"
+    ],
+    "authors": [
+      "Butterfly Blue",
+      "Changpan Yongzhe"
+    ],
+    "id": 118730,
+    "type": "manga",
+    "title": "Quanzhi Gaoshou",
+    "url": "https://myanimelist.net/manga/118730/Quanzhi_Gaoshou",
+    "image": "https://cdn.myanimelist.net/images/manga/1/220436.jpg",
+    "category": "Manhua",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:54.000Z",
+    "updatedAt": "2021-11-10T07:43:56.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "The King's Avatar",
@@ -44,5 +76,5 @@
     "updatedAt": "2021-08-07T21:23:01.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/118730/Quanzhi_Gaoshou"
 }

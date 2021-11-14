@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E7%B4%85_%28%E5%B0%8F%E8%AA%AC%29"
+    }
+  ],
   "altTitle": [
     "Kurenai",
     "紅 kure-nai"
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:51.000Z",
-  "updatedAt": "2021-07-26T18:51:45.000Z",
+  "updatedAt": "2021-11-07T21:18:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -96,6 +101,28 @@
         "aniId": 33415,
         "createdAt": "2021-01-26T18:39:14.000Z",
         "updatedAt": "2021-05-20T15:39:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kure_nai": {
+        "authors": [
+          "KATAYAMA Kentarou"
+        ],
+        "identifier": "kure_nai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kure-nai",
+        "url": "https://fanfox.net/manga/kure_nai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1222/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3415,
+        "aniId": 33415,
+        "createdAt": "2021-11-07T21:18:07.000Z",
+        "updatedAt": "2021-11-07T21:47:45.000Z",
         "deletedAt": null
       }
     }

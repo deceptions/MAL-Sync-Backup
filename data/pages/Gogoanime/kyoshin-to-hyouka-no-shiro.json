@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 42057,
-  "aniId": null,
+  "aniId": 121684,
   "createdAt": "2020-10-12T16:01:05.000Z",
-  "updatedAt": "2021-03-16T14:03:26.000Z",
+  "updatedAt": "2021-11-10T21:13:35.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -46,6 +46,22 @@
     "updatedAt": "2021-10-04T08:04:04.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "巨神と氷華の城"
+    ],
+    "externalLinks": [],
+    "id": 121684,
+    "malId": 42057,
+    "type": "anime",
+    "title": "Kyoshin to Hyouka no Shiro",
+    "url": "https://anilist.co/anime/121684",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121684-VOEm4ipW5uoA.png",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-06-05T07:18:57.000Z",
+    "updatedAt": "2021-11-10T20:43:36.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/42057/Kyoshin_to_Hyouka_no_Shiro"
 }

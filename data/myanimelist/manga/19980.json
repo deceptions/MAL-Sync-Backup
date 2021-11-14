@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%81%8B%E3%81%A0%E3%81%AE%E6%84%9B%E3%81%A0%E3%81%AE"
+    }
+  ],
   "altTitle": [
     "Like and Love and",
     "Koi da no Ai da no",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:47.000Z",
-  "updatedAt": "2021-07-07T11:59:53.000Z",
+  "updatedAt": "2021-11-07T17:17:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +66,28 @@
         "aniId": 49980,
         "createdAt": "2021-01-07T11:51:31.000Z",
         "updatedAt": "2021-05-20T15:37:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "koi_dano_ai_dano": {
+        "authors": [
+          "TSUJITA Ririko"
+        ],
+        "identifier": "koi_dano_ai_dano",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koi dano Ai dano",
+        "url": "https://fanfox.net/manga/koi_dano_ai_dano/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9180/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19980,
+        "aniId": 49980,
+        "createdAt": "2021-11-07T17:17:46.000Z",
+        "updatedAt": "2021-11-07T17:47:45.000Z",
         "deletedAt": null
       }
     }

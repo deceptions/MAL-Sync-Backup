@@ -18,10 +18,21 @@
   "updatedAt": "2021-05-31T13:52:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.hakusensha.co.jp/natsume/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%B3"
+      }
+    ],
     "altTitle": [
       "Natsume's Book of Friends",
-      "The Natsume Book of Friends, Manabiya no Sumi, Natsu ni wa Tameiki wo Tsuku",
+      "The Natsume Book of Friends",
+      "Manabiya no Sumi",
+      "Natsu ni wa Tameiki wo Tsuku",
       "夏目友人帳"
     ],
     "authors": [
@@ -35,7 +46,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:38.000Z",
-    "updatedAt": "2021-05-31T13:24:48.000Z",
+    "updatedAt": "2021-11-11T23:14:29.000Z",
     "deletedAt": null
   },
   "Anilist": {

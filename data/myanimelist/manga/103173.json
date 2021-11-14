@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:47.000Z",
-  "updatedAt": "2021-10-03T20:40:34.000Z",
+  "updatedAt": "2021-11-08T05:44:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -67,6 +67,28 @@
         "aniId": 101987,
         "createdAt": "2021-04-03T20:08:27.000Z",
         "updatedAt": "2021-05-20T15:40:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "fata_morgana_no_yakata_anata_no_hitomi_o_tozasu_monogatari": {
+        "authors": [
+          "HANADA Keika"
+        ],
+        "identifier": "fata_morgana_no_yakata_anata_no_hitomi_o_tozasu_monogatari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fata Morgana no Yakata - Anata no Hitomi o Tozasu Monogatari",
+        "url": "https://fanfox.net/manga/fata_morgana_no_yakata_anata_no_hitomi_o_tozasu_monogatari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34277/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103173,
+        "aniId": 101987,
+        "createdAt": "2021-11-08T05:44:17.000Z",
+        "updatedAt": "2021-11-08T06:13:34.000Z",
         "deletedAt": null
       }
     }

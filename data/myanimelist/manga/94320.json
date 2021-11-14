@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://comic.naver.com/webtoon/list.nhn?titleId=570502"
+    }
+  ],
   "altTitle": [
     "Kids Are All Right",
     "아이들은 즐겁다"
@@ -15,7 +20,30 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-11-12T18:48:15.000Z",
-  "updatedAt": "2021-08-14T22:38:00.000Z",
+  "updatedAt": "2021-11-11T23:14:10.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "kids_are_all_right": {
+        "authors": [
+          "HP56"
+        ],
+        "identifier": "kids_are_all_right",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kids are all right",
+        "url": "https://fanfox.net/manga/kids_are_all_right/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14476/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94320,
+        "aniId": 97742,
+        "createdAt": "2021-11-11T23:13:47.000Z",
+        "updatedAt": "2021-11-11T23:43:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

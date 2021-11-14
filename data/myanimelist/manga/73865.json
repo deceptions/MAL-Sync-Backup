@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%B8%E8%85%B9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3"
+    }
+  ],
   "altTitle": [
     "Happy Cooking Graffiti",
     "Happiness Graffiti",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:21.000Z",
-  "updatedAt": "2021-07-18T19:02:30.000Z",
+  "updatedAt": "2021-11-08T20:45:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +44,28 @@
         "aniId": 91893,
         "createdAt": "2020-10-12T16:07:50.000Z",
         "updatedAt": "2021-06-04T05:37:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qm952969": {
+        "authors": [
+          "Kawai Makoto"
+        ],
+        "identifier": "manga-qm952969",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Koufuku Graffiti",
+        "url": "https://manganato.com/manga-qm952969",
+        "image": "https://avt.mkklcdnv6temp.com/7/k/2-1583465978.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73865,
+        "aniId": 91893,
+        "createdAt": "2021-11-08T20:45:16.000Z",
+        "updatedAt": "2021-11-08T21:13:34.000Z",
         "deletedAt": null
       }
     }

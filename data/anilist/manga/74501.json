@@ -84,6 +84,28 @@
         "updatedAt": "2021-06-28T04:19:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "high_score_girl": {
+        "authors": [
+          "OSHIKIRI Rensuke"
+        ],
+        "identifier": "high_score_girl",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "High Score Girl",
+        "url": "https://fanfox.net/manga/high_score_girl/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12748/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44501,
+        "aniId": 74501,
+        "createdAt": "2021-11-10T04:13:37.000Z",
+        "updatedAt": "2021-11-10T04:43:34.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

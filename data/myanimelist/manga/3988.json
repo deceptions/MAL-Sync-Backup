@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.vampire-d.com/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Hideyuki_Kikuchi%27s_Vampire_Hunter_D"
+    }
+  ],
   "altTitle": [
     "Hideyuki Kikuchi's Vampire Hunter D",
     "バンパイアハンターD"
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:55.000Z",
-  "updatedAt": "2021-07-05T18:00:22.000Z",
+  "updatedAt": "2021-11-11T20:13:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -85,6 +94,28 @@
         "aniId": 33988,
         "createdAt": "2021-07-05T18:00:13.000Z",
         "updatedAt": "2021-07-05T18:29:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "vampire_hunter_d": {
+        "authors": [
+          "KIKUCHI Hideyuki"
+        ],
+        "identifier": "vampire_hunter_d",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Vampire Hunter D",
+        "url": "https://fanfox.net/manga/vampire_hunter_d/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7692/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3988,
+        "aniId": 33988,
+        "createdAt": "2021-11-11T20:13:45.000Z",
+        "updatedAt": "2021-11-11T20:43:35.000Z",
         "deletedAt": null
       }
     }

@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-10-08T09:33:29.000Z",
-  "updatedAt": "2021-10-08T09:33:29.000Z",
+  "updatedAt": "2021-11-07T10:18:26.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaNato": {
@@ -65,6 +65,28 @@
         "aniId": 138373,
         "createdAt": "2021-10-16T15:58:49.000Z",
         "updatedAt": "2021-10-16T16:28:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "90be0dde-350d-4f0e-ba83-da4ba05dbc37": {
+        "authors": [
+          "Fujichika Koume"
+        ],
+        "identifier": "90be0dde-350d-4f0e-ba83-da4ba05dbc37",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I'm in Love With the Older Girl Next Door",
+        "url": "https://mangadex.org/title/90be0dde-350d-4f0e-ba83-da4ba05dbc37",
+        "image": "https://uploads.mangadex.org/covers/90be0dde-350d-4f0e-ba83-da4ba05dbc37/dca476a8-8af8-446d-93de-8e57cc7fb385.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140330,
+        "aniId": 138373,
+        "createdAt": "2021-11-07T10:18:06.000Z",
+        "updatedAt": "2021-11-07T10:47:45.000Z",
         "deletedAt": null
       }
     }

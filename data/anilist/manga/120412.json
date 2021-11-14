@@ -23,5 +23,28 @@
   "createdAt": "2021-05-22T18:13:09.000Z",
   "updatedAt": "2021-10-27T08:02:03.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "i_will_become_an_immortal": {
+        "authors": [
+          "Wang Yu"
+        ],
+        "identifier": "i_will_become_an_immortal",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "I Will Become an Immortal",
+        "url": "https://fanfox.net/manga/i_will_become_an_immortal/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34328/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 120412,
+        "createdAt": "2021-11-09T04:13:36.000Z",
+        "updatedAt": "2021-11-09T04:13:36.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

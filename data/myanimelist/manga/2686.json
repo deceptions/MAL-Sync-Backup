@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:45.000Z",
-  "updatedAt": "2021-10-09T21:33:12.000Z",
+  "updatedAt": "2021-11-12T03:15:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -66,6 +66,28 @@
         "aniId": 32686,
         "createdAt": "2021-04-09T21:21:01.000Z",
         "updatedAt": "2021-05-20T15:39:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yj956392": {
+        "authors": [
+          "Shinjo Mayu"
+        ],
+        "identifier": "manga-yj956392",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ai Wo Utau Yori Ore Ni Oborero!",
+        "url": "https://readmanganato.com/manga-yj956392",
+        "image": "https://avt.mkklcdnv6temp.com/13/t/4-1583470232.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2686,
+        "aniId": 32686,
+        "createdAt": "2021-11-12T03:14:57.000Z",
+        "updatedAt": "2021-11-12T03:43:35.000Z",
         "deletedAt": null
       }
     }

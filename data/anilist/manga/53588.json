@@ -65,6 +65,28 @@
         "updatedAt": "2021-05-20T15:40:04.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "billionaire_girl": {
+        "authors": [
+          "HASEKURA Isuna"
+        ],
+        "identifier": "billionaire_girl",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Billionaire Girl",
+        "url": "https://fanfox.net/manga/billionaire_girl/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8634/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23588,
+        "aniId": 53588,
+        "createdAt": "2021-11-11T07:44:06.000Z",
+        "updatedAt": "2021-11-11T08:13:35.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

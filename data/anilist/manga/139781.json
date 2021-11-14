@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-30T02:36:20.000Z",
-  "updatedAt": "2021-09-30T02:36:20.000Z",
+  "updatedAt": "2021-11-11T21:43:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ls989253": {
+        "authors": [
+          "일",
+          "한기주"
+        ],
+        "identifier": "manga-ls989253",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sarang And Pyeonggang’S Ondal",
+        "url": "https://manganato.com/manga-ls989253",
+        "image": "https://avt.mkklcdnv6temp.com/22/u/24-1625410440.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 139781,
+        "createdAt": "2021-07-04T16:29:50.000Z",
+        "updatedAt": "2021-11-11T22:15:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

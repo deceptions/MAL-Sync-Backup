@@ -20,7 +20,16 @@
   "updatedAt": "2021-08-08T20:09:15.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.fate-go.jp/manga_fgo/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Fate/Grand_Order"
+      }
+    ],
     "altTitle": [
       "Learning with Manga! Fate/Grand Order",
       "Motto Manga de Wakaru! Fate/Grand Order",
@@ -38,7 +47,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:31.000Z",
-    "updatedAt": "2021-08-08T19:39:43.000Z",
+    "updatedAt": "2021-11-08T21:14:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

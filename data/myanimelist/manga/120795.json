@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://pocket.shonenmagazine.com/episode/10834108156629252336"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/我間乱〜GAMARAN〜"
+    }
+  ],
   "altTitle": [
     "我間乱―修羅―"
   ],
@@ -14,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-06T14:20:21.000Z",
-  "updatedAt": "2021-07-20T17:34:58.000Z",
+  "updatedAt": "2021-11-13T07:13:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +67,28 @@
         "aniId": 111045,
         "createdAt": "2021-07-20T17:34:41.000Z",
         "updatedAt": "2021-07-20T18:03:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mc990011": {
+        "authors": [
+          "Nakamaru Yousuke"
+        ],
+        "identifier": "manga-mc990011",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gamaran: Shura",
+        "url": "https://manganato.com/manga-mc990011",
+        "image": "https://avt.mkklcdnv6temp.com/5/z/25-1636644904.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120795,
+        "aniId": 111045,
+        "createdAt": "2021-11-13T07:13:38.000Z",
+        "updatedAt": "2021-11-13T07:43:37.000Z",
         "deletedAt": null
       }
     }

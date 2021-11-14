@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 140766,
   "createdAt": "2021-10-16T15:29:30.000Z",
-  "updatedAt": "2021-10-16T15:29:30.000Z",
+  "updatedAt": "2021-11-11T22:15:52.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "포식자의 혼약자",
+      "The Predator’s Fiancée",
+      "The Predator's Contract Partner"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Lisabel",
+      "Julie",
+      "Jackpot"
+    ],
+    "id": 140766,
+    "malId": null,
+    "type": "manga",
+    "title": "Posikjaui Honyakja",
+    "url": "https://anilist.co/manga/140766",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140766-Q7xo8plGbZom.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-26T19:01:04.000Z",
+    "updatedAt": "2021-10-26T19:31:05.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

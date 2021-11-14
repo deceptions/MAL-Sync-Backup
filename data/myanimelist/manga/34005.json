@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "ブルームド・イン・アクション"
   ],
@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:48.000Z",
-  "updatedAt": "2021-09-26T23:15:37.000Z",
+  "updatedAt": "2021-11-12T15:13:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 64005,
         "createdAt": "2021-03-26T22:49:05.000Z",
         "updatedAt": "2021-05-20T15:40:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "bloomed_in_action": {
+        "authors": [
+          "SHIONO Etorouji"
+        ],
+        "identifier": "bloomed_in_action",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bloomed in Action",
+        "url": "https://fanfox.net/manga/bloomed_in_action/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11171/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34005,
+        "aniId": 64005,
+        "createdAt": "2021-11-12T15:13:36.000Z",
+        "updatedAt": "2021-11-12T15:43:35.000Z",
         "deletedAt": null
       }
     }

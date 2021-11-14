@@ -19,7 +19,16 @@
   "updatedAt": "2021-06-04T07:21:08.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://comic-meteor.jp/seikaino/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%98%9F%E7%95%8C%E3%81%AE%E7%B4%8B%E7%AB%A0"
+      }
+    ],
     "altTitle": [
       "Crest of the Stars",
       "星界の紋章"
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:16.000Z",
-    "updatedAt": "2021-05-10T06:17:45.000Z",
+    "updatedAt": "2021-11-10T06:45:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

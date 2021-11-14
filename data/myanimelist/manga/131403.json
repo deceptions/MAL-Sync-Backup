@@ -89,6 +89,28 @@
         "updatedAt": "2021-07-21T17:33:47.000Z",
         "deletedAt": null
       }
+    },
+    "Mangadex": {
+      "11b74211-f4c0-4f08-b5a4-c491da0d0c0b": {
+        "authors": [
+          "Ishida Sui"
+        ],
+        "identifier": "11b74211-f4c0-4f08-b5a4-c491da0d0c0b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Choujin X",
+        "url": "https://mangadex.org/title/11b74211-f4c0-4f08-b5a4-c491da0d0c0b",
+        "image": "https://uploads.mangadex.org/covers/11b74211-f4c0-4f08-b5a4-c491da0d0c0b/86bb5dd5-3643-4954-a146-82b3c6d15766.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131403,
+        "aniId": 126693,
+        "createdAt": "2021-11-09T08:13:35.000Z",
+        "updatedAt": "2021-11-09T08:43:34.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

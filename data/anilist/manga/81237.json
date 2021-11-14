@@ -65,6 +65,28 @@
         "updatedAt": "2021-05-20T15:40:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kouboku_no_keibu": {
+        "authors": [
+          "SHIBAMURA Yuri"
+        ],
+        "identifier": "kouboku_no_keibu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kouboku no Keibu",
+        "url": "https://fanfox.net/manga/kouboku_no_keibu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13803/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51237,
+        "aniId": 81237,
+        "createdAt": "2021-11-13T22:43:50.000Z",
+        "updatedAt": "2021-11-13T23:13:39.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

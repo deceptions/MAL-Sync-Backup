@@ -75,6 +75,50 @@
         "updatedAt": "2021-05-20T15:25:53.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "persona_3": {
+        "authors": [
+          "SOGABE Shuji"
+        ],
+        "identifier": "persona_3",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Persona 3",
+        "url": "https://fanfox.net/manga/persona_3/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1124/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2566,
+        "aniId": 32566,
+        "createdAt": "2021-11-09T01:13:36.000Z",
+        "updatedAt": "2021-11-09T01:43:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ky961381": {
+        "authors": [
+          "Sogabe Shuji"
+        ],
+        "identifier": "manga-ky961381",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Persona 3",
+        "url": "https://readmanganato.com/manga-ky961381",
+        "image": "https://avt.mkklcdnv6temp.com/35/w/7-1583477624.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2566,
+        "aniId": 32566,
+        "createdAt": "2021-11-09T06:13:46.000Z",
+        "updatedAt": "2021-11-09T06:43:34.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

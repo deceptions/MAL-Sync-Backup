@@ -21,5 +21,28 @@
   "createdAt": "2021-10-10T16:33:11.000Z",
   "updatedAt": "2021-10-10T16:33:11.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "5ad82f6a-4898-4f5b-ae0d-f1cc42f1a031": {
+        "authors": [
+          "Sei Fukui"
+        ],
+        "identifier": "5ad82f6a-4898-4f5b-ae0d-f1cc42f1a031",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kakeau Tsukihi",
+        "url": "https://mangadex.org/title/5ad82f6a-4898-4f5b-ae0d-f1cc42f1a031",
+        "image": "https://uploads.mangadex.org/covers/5ad82f6a-4898-4f5b-ae0d-f1cc42f1a031/9ff094b2-038f-4a4c-ad69-bbfcc41307b0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136558,
+        "aniId": 134122,
+        "createdAt": "2021-11-08T10:13:44.000Z",
+        "updatedAt": "2021-11-08T10:43:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

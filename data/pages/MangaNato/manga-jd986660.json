@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 139863,
   "createdAt": "2021-08-01T06:18:38.000Z",
-  "updatedAt": "2021-08-01T06:18:38.000Z",
+  "updatedAt": "2021-11-07T22:44:23.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Missy’s Geek Raising Plan",
+      "涩系大小姐的废宅养成计划"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Qi Xi",
+      "Xiong Wen Shayu",
+      "Beta"
+    ],
+    "id": 139863,
+    "malId": null,
+    "type": "manga",
+    "title": "Se Xi Daxiaojie de Fei Zhai Yangcheng Jihua",
+    "url": "https://anilist.co/manga/139863",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139863-bJlnVxiyg1k7.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-07T18:18:16.000Z",
+    "updatedAt": "2021-11-07T18:18:16.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

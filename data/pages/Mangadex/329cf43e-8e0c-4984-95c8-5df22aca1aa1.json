@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 138091,
   "createdAt": "2020-10-12T16:21:10.000Z",
-  "updatedAt": "2021-06-08T01:36:48.000Z",
+  "updatedAt": "2021-11-07T22:46:12.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Please, Don't Livestream It!",
+      "学姐，不要直播出去！"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yu Zhou",
+      "Leng Chang Shi Fa Zhe"
+    ],
+    "id": 138091,
+    "malId": null,
+    "type": "manga",
+    "title": "Xuejie, Buyao Zhibo Chuqu!",
+    "url": "https://anilist.co/manga/138091",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138091-Ehg50X8wFKaF.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-19T06:37:07.000Z",
+    "updatedAt": "2021-11-07T11:47:47.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

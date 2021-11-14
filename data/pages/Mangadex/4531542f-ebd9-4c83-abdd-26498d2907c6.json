@@ -20,9 +20,19 @@
   "updatedAt": "2021-06-04T11:00:18.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://chancro.jp/comics/eden"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F"
+      }
+    ],
     "altTitle": [
-      "The Eden of Grisaia, Le Eden de la Grisaia",
+      "The Eden of Grisaia",
+      "Le Eden de la Grisaia",
       "グリザイアの楽園 サンクチュアリフェローズ"
     ],
     "authors": [
@@ -38,7 +48,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:57.000Z",
-    "updatedAt": "2021-05-13T07:55:21.000Z",
+    "updatedAt": "2021-11-13T08:14:39.000Z",
     "deletedAt": null
   },
   "Anilist": {

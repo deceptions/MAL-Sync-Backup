@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://aria-comic.jp/contents/list79.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%88%9D%E6%81%8B%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC"
+    }
+  ],
   "altTitle": [
     "First Love Monster",
     "初恋モンスター"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:07.000Z",
-  "updatedAt": "2021-08-03T08:48:20.000Z",
+  "updatedAt": "2021-11-07T14:18:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +46,28 @@
         "aniId": 86105,
         "createdAt": "2020-10-12T16:07:41.000Z",
         "updatedAt": "2021-06-04T04:32:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hatsukoi-monster": {
+        "authors": [
+          "HIYOSHIMARU Akira"
+        ],
+        "identifier": "hatsukoi-monster",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "First Love Monster",
+        "url": "https://mangasee123.com/manga/Hatsukoi-Monster",
+        "image": "https://cover.nep.li/cover/Hatsukoi-Monster.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 65121,
+        "aniId": 86105,
+        "createdAt": "2021-11-07T14:18:04.000Z",
+        "updatedAt": "2021-11-07T14:47:45.000Z",
         "deletedAt": null
       }
     }

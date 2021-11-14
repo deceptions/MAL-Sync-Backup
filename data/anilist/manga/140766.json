@@ -21,5 +21,28 @@
   "createdAt": "2021-10-26T19:01:04.000Z",
   "updatedAt": "2021-10-26T19:31:05.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mp989850": {
+        "authors": [
+          "리사벨"
+        ],
+        "identifier": "manga-mp989850",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Predator’S Contracted Fiancée",
+        "url": "https://manganato.com/manga-mp989850",
+        "image": "https://avt.mkklcdnv6temp.com/49/j/24-1634361278.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 140766,
+        "createdAt": "2021-10-16T15:29:30.000Z",
+        "updatedAt": "2021-11-11T22:15:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

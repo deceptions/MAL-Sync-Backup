@@ -15,7 +15,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-25T16:16:07.000Z",
-  "updatedAt": "2021-09-25T16:16:07.000Z",
+  "updatedAt": "2021-11-11T03:43:47.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "ee55a02f-7e15-4f61-8de6-83cf1772021c": {
+        "authors": [
+          "Sensiya"
+        ],
+        "identifier": "ee55a02f-7e15-4f61-8de6-83cf1772021c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aizen-san Can't Be Honest!",
+        "url": "https://mangadex.org/title/ee55a02f-7e15-4f61-8de6-83cf1772021c",
+        "image": "https://uploads.mangadex.org/covers/ee55a02f-7e15-4f61-8de6-83cf1772021c/39e1b25c-e1fe-4455-b45a-1f43b0e26052.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": false,
+        "actor": null,
+        "malId": null,
+        "aniId": 110339,
+        "createdAt": "2021-11-10T12:43:35.000Z",
+        "updatedAt": "2021-11-10T12:43:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

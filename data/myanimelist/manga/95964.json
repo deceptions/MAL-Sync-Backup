@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://jumpsq.shueisha.co.jp/rensai/kekkaisensen/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E8%A1%80%E7%95%8C%E6%88%A6%E7%B7%9A"
+    }
+  ],
   "altTitle": [
     "血界戦線 Back 2 Back"
   ],
@@ -14,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:23.000Z",
-  "updatedAt": "2021-08-01T03:18:42.000Z",
+  "updatedAt": "2021-11-09T04:44:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +67,28 @@
         "aniId": 86771,
         "createdAt": "2021-08-01T03:18:32.000Z",
         "updatedAt": "2021-08-01T03:47:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kekkai_sensen_back_2_back": {
+        "authors": [
+          "NIGHTOW Yasuhiro"
+        ],
+        "identifier": "kekkai_sensen_back_2_back",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kekkai Sensen - Back 2 Back",
+        "url": "https://fanfox.net/manga/kekkai_sensen_back_2_back/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26117/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95964,
+        "aniId": 86771,
+        "createdAt": "2021-11-09T04:43:55.000Z",
+        "updatedAt": "2021-11-09T05:13:34.000Z",
         "deletedAt": null
       }
     }

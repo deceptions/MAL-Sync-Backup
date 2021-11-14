@@ -18,7 +18,12 @@
   "updatedAt": "2021-06-07T22:30:49.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Alichino"
+      }
+    ],
     "altTitle": [
       "Alichino",
       "ALICHINO 〜アリキーノ〜"
@@ -34,12 +39,13 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2021-05-11T10:42:01.000Z",
+    "updatedAt": "2021-11-11T10:43:36.000Z",
     "deletedAt": null
   },
   "Anilist": {
     "altTitle": [
       "Alichino",
+      "ALICHINO",
       "アリキーノ"
     ],
     "externalLinks": [],
@@ -55,13 +61,13 @@
     "id": 30078,
     "malId": 78,
     "type": "manga",
-    "title": "Alichino",
+    "title": "ALICHINO",
     "url": "https://anilist.co/manga/30078",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30078-XknhNAhYDX9c.jpg",
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:35:23.000Z",
-    "updatedAt": "2021-06-17T08:17:06.000Z",
+    "updatedAt": "2021-11-09T10:43:35.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/78/Alichino"

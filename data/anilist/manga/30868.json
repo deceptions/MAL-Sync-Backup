@@ -89,6 +89,28 @@
         "updatedAt": "2021-05-31T13:52:54.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "karakuri_circus": {
+        "authors": [
+          "FUJITA Kazuhiro"
+        ],
+        "identifier": "karakuri_circus",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Karakuri Circus",
+        "url": "https://fanfox.net/manga/karakuri_circus/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2917/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 868,
+        "aniId": 30868,
+        "createdAt": "2021-11-08T00:43:48.000Z",
+        "updatedAt": "2021-11-08T01:13:34.000Z",
+        "deletedAt": null
+      }
     }
   }
 }
