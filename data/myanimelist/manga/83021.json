@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:38.000Z",
-  "updatedAt": "2021-10-10T19:38:15.000Z",
+  "updatedAt": "2021-11-17T10:27:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -67,92 +67,6 @@
         "createdAt": "2020-10-12T16:19:26.000Z",
         "updatedAt": "2021-06-07T21:59:22.000Z",
         "deletedAt": null
-      },
-      "ee07286f-5b2e-4b49-8c1c-581c0b49c378": {
-        "authors": [
-          "Kanikieru (Circle)",
-          "Tomoe Tenbu"
-        ],
-        "identifier": "ee07286f-5b2e-4b49-8c1c-581c0b49c378",
-        "type": "manga",
-        "page": "Mangadex",
-        "title": "Death March kara Hajimaru Isekai Kyousoukyoku - Tokage no Shippo no Sayokyoku (Doujinshi)",
-        "url": "https://mangadex.org/title/ee07286f-5b2e-4b49-8c1c-581c0b49c378",
-        "image": "https://uploads.mangadex.org/covers/ee07286f-5b2e-4b49-8c1c-581c0b49c378/d31dd944-35d6-408d-b1c5-cac2d392885a.jpg",
-        "hentai": true,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 83021,
-        "aniId": 86511,
-        "createdAt": "2020-10-12T16:20:03.000Z",
-        "updatedAt": "2021-06-07T23:06:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "death-march-kara-hajimaru": {
-        "authors": [
-          "AINANA Hiro",
-          "AYA Megumu"
-        ],
-        "identifier": "death-march-kara-hajimaru",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
-        "url": "https://mangasee123.com/manga/Death-March-Kara-Hajimaru",
-        "image": "https://cover.nep.li/cover/Death-March-Kara-Hajimaru.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 83021,
-        "aniId": 86511,
-        "createdAt": "2020-12-17T03:27:44.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "death_march_kara_hajimaru_isekai_kyousoukyoku": {
-        "authors": [
-          "AINANA Hiro"
-        ],
-        "identifier": "death_march_kara_hajimaru_isekai_kyousoukyoku",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
-        "url": "https://fanfox.net/manga/death_march_kara_hajimaru_isekai_kyousoukyoku/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/16457/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 83021,
-        "aniId": 86511,
-        "createdAt": "2021-01-15T21:01:53.000Z",
-        "updatedAt": "2021-05-20T15:38:10.000Z",
-        "deletedAt": null
-      },
-      "death_march_kara_hajimaru_isekai_kyusoukyoku_novel": {
-        "authors": [
-          "AINANA Hiro"
-        ],
-        "identifier": "death_march_kara_hajimaru_isekai_kyusoukyoku_novel",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Death March kara Hajimaru Isekai Kyusoukyoku (Novel)",
-        "url": "https://fanfox.net/manga/death_march_kara_hajimaru_isekai_kyusoukyoku_novel/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/36190/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 83021,
-        "aniId": 86511,
-        "createdAt": "2021-10-10T19:38:04.000Z",
-        "updatedAt": "2021-10-10T20:07:52.000Z",
-        "deletedAt": null
       }
     },
     "MangaNato": {
@@ -175,6 +89,28 @@
         "aniId": 86511,
         "createdAt": "2021-05-28T21:24:53.000Z",
         "updatedAt": "2021-05-28T21:53:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "death_march_kara_hajimaru_isekai_kyusoukyoku_novel": {
+        "authors": [
+          "AINANA Hiro"
+        ],
+        "identifier": "death_march_kara_hajimaru_isekai_kyusoukyoku_novel",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Death March kara Hajimaru Isekai Kyusoukyoku (Novel)",
+        "url": "https://fanfox.net/manga/death_march_kara_hajimaru_isekai_kyusoukyoku_novel/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36190/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83021,
+        "aniId": 86511,
+        "createdAt": "2021-10-10T19:38:04.000Z",
+        "updatedAt": "2021-10-10T20:07:52.000Z",
         "deletedAt": null
       }
     }

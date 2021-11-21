@@ -1,7 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.square-enix.co.jp/magazine/yg/introduction/kannou/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8E%E3%82%B8%E3%83%A7%E3%81%AF%E5%AE%98%E8%83%BD%E5%B0%8F%E8%AA%AC%E5%AE%B6"
+    }
+  ],
   "altTitle": [
-    "Kanojo wa Kanno Shosetsuka, Kanojyo wa Kannou Shousetsuka, She's an Erotic Writer",
+    "Kanojo wa Kanno Shosetsuka",
+    "Kanojyo wa Kannou Shousetsuka",
+    "She's an Erotic Writer",
     "カノジョは官能小説家"
   ],
   "authors": [
@@ -15,7 +26,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:03.000Z",
-  "updatedAt": "2021-05-20T21:46:00.000Z",
+  "updatedAt": "2021-11-20T22:19:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,50 +48,6 @@
         "aniId": 44261,
         "createdAt": "2020-10-12T16:02:29.000Z",
         "updatedAt": "2021-06-02T07:11:16.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "kanojo-wa-kanno-shosetsuka": {
-        "authors": [
-          "GOTO Akira"
-        ],
-        "identifier": "kanojo-wa-kanno-shosetsuka",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Kanojo wa Kanno Shosetsuka",
-        "url": "https://mangasee123.com/manga/Kanojo-Wa-Kanno-Shosetsuka",
-        "image": "https://cover.nep.li/cover/Kanojo-Wa-Kanno-Shosetsuka.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 14261,
-        "aniId": 44261,
-        "createdAt": "2021-04-04T12:08:27.000Z",
-        "updatedAt": "2021-05-20T15:39:39.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "kanojo_wa_kanno_shosetsuka": {
-        "authors": [
-          "GOTO Akira"
-        ],
-        "identifier": "kanojo_wa_kanno_shosetsuka",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Kanojo wa Kanno Shosetsuka",
-        "url": "https://fanfox.net/manga/kanojo_wa_kanno_shosetsuka/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/5954/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 14261,
-        "aniId": 44261,
-        "createdAt": "2021-05-20T21:46:01.000Z",
-        "updatedAt": "2021-05-20T22:12:57.000Z",
         "deletedAt": null
       }
     }

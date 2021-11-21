@@ -1,8 +1,17 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/M%C3%84R"
+    }
+  ],
   "altTitle": [
     "MÄR",
-    "MAR, Märchen Awakens Romance, MAR-Heaven, Marchen Awakens Romance, MÄR-Heaven",
+    "MAR",
+    "Märchen Awakens Romance",
+    "MAR-Heaven",
+    "Marchen Awakens Romance",
+    "MÄR-Heaven",
     "MÄR"
   ],
   "authors": [
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:18.000Z",
-  "updatedAt": "2021-05-14T06:55:32.000Z",
+  "updatedAt": "2021-11-14T07:13:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,50 +47,6 @@
         "aniId": 30134,
         "createdAt": "2020-10-12T16:04:06.000Z",
         "updatedAt": "2021-06-02T18:45:02.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "marchen_awakens_romance": {
-        "authors": [
-          "Anzai Nobuyuki"
-        ],
-        "identifier": "marchen_awakens_romance",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Marchen Awakens Romance",
-        "url": "https://fanfox.net/manga/marchen_awakens_romance/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/50/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 134,
-        "aniId": 30134,
-        "createdAt": "2021-04-22T11:28:09.000Z",
-        "updatedAt": "2021-05-20T15:39:24.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "mar": {
-        "authors": [
-          "ANZAI Nobuyuki"
-        ],
-        "identifier": "mar",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "MAR",
-        "url": "https://mangasee123.com/manga/MAR",
-        "image": "https://cover.nep.li/cover/MAR.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 2,
-        "malId": 134,
-        "aniId": 30134,
-        "createdAt": "2021-05-14T06:55:24.000Z",
-        "updatedAt": "2021-05-20T15:39:24.000Z",
         "deletedAt": null
       }
     }

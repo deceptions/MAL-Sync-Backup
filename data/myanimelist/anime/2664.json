@@ -31,7 +31,7 @@
   "hentai": false,
   "anidbId": 3315,
   "createdAt": "2020-10-12T15:38:31.000Z",
-  "updatedAt": "2021-10-01T08:06:07.000Z",
+  "updatedAt": "2021-11-19T17:46:16.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -50,6 +50,23 @@
         "aniId": 2664,
         "createdAt": "2020-10-12T15:49:18.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      },
+      "3rrv2": {
+        "identifier": "3rrv2",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Doraemon: Nobita no Nankai Dai Bouken (Dub)",
+        "url": "https://9anime.to/watch/doraemon-nobitas-south-sea-adventure-dub.3rrv2",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/64/64f52ffd25db0d913e37cf63dd127ef2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2664,
+        "aniId": 2664,
+        "createdAt": "2021-11-19T17:46:14.000Z",
+        "updatedAt": "2021-11-19T18:14:03.000Z",
         "deletedAt": null
       }
     },

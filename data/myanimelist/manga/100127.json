@@ -53,71 +53,6 @@
         "deletedAt": null
       }
     },
-    "MangaFox": {
-      "for_my_daughter_i_might_even_be_able_to_defeat_the_demon_king": {
-        "authors": [
-          "Chirolu"
-        ],
-        "identifier": "for_my_daughter_i_might_even_be_able_to_defeat_the_demon_king",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "For My Daughter, I Might Even Be Able to Defeat the Demon King",
-        "url": "https://fanfox.net/manga/for_my_daughter_i_might_even_be_able_to_defeat_the_demon_king/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/21123/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 100127,
-        "aniId": 87375,
-        "createdAt": "2021-01-04T03:26:57.000Z",
-        "updatedAt": "2021-05-20T15:33:41.000Z",
-        "deletedAt": null
-      },
-      "uchi_no_musume_no_tame_naraba_ore_wa_moshikashitara_mao_mo_taoseru_kamo_shirenai": {
-        "authors": [
-          "Chirolu"
-        ],
-        "identifier": "uchi_no_musume_no_tame_naraba_ore_wa_moshikashitara_mao_mo_taoseru_kamo_shirenai",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Mao mo Taoseru Kamo Shirenai.",
-        "url": "https://fanfox.net/manga/uchi_no_musume_no_tame_naraba_ore_wa_moshikashitara_mao_mo_taoseru_kamo_shirenai/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/27676/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 100127,
-        "aniId": 87375,
-        "createdAt": "2021-07-11T10:15:04.000Z",
-        "updatedAt": "2021-07-11T10:43:17.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "for-my-daughter": {
-        "authors": [
-          "Chirolu",
-          "Hota"
-        ],
-        "identifier": "for-my-daughter",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "For My Daughter, I Might Even Be Able to Defeat the Demon King",
-        "url": "https://mangasee123.com/manga/For-My-Daughter",
-        "image": "https://cover.nep.li/cover/For-My-Daughter.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 100127,
-        "aniId": 87375,
-        "createdAt": "2021-02-01T06:01:43.000Z",
-        "updatedAt": "2021-05-20T15:40:31.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-ut972276": {
         "authors": [
@@ -138,6 +73,28 @@
         "aniId": 87375,
         "createdAt": "2021-05-29T19:12:53.000Z",
         "updatedAt": "2021-05-29T20:12:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "uchi_no_musume_no_tame_naraba_ore_wa_moshikashitara_mao_mo_taoseru_kamo_shirenai": {
+        "authors": [
+          "Chirolu"
+        ],
+        "identifier": "uchi_no_musume_no_tame_naraba_ore_wa_moshikashitara_mao_mo_taoseru_kamo_shirenai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Mao mo Taoseru Kamo Shirenai.",
+        "url": "https://fanfox.net/manga/uchi_no_musume_no_tame_naraba_ore_wa_moshikashitara_mao_mo_taoseru_kamo_shirenai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27676/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100127,
+        "aniId": 87375,
+        "createdAt": "2021-07-11T10:15:04.000Z",
+        "updatedAt": "2021-07-11T10:43:17.000Z",
         "deletedAt": null
       }
     }

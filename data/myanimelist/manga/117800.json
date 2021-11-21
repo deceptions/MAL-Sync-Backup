@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "If I Could Summon a Small Cat",
     "ちいさな猫を召喚できたなら"
@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-15T15:57:44.000Z",
-  "updatedAt": "2021-06-15T15:57:44.000Z",
+  "updatedAt": "2021-11-15T06:15:10.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaNato": {
@@ -37,6 +37,28 @@
         "aniId": 116312,
         "createdAt": "2021-06-15T15:57:33.000Z",
         "updatedAt": "2021-06-15T16:27:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "if_i_could_summon_a_small_cat": {
+        "authors": [
+          "Taco"
+        ],
+        "identifier": "if_i_could_summon_a_small_cat",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "If I could summon a small cat",
+        "url": "https://fanfox.net/manga/if_i_could_summon_a_small_cat/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28801/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117800,
+        "aniId": 116312,
+        "createdAt": "2021-11-15T06:14:50.000Z",
+        "updatedAt": "2021-11-15T06:43:45.000Z",
         "deletedAt": null
       }
     }

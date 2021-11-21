@@ -43,6 +43,28 @@
         "updatedAt": "2021-06-05T04:06:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mahou_tsukai_no_oshigoto": {
+        "authors": [
+          "Amazake No Hisago"
+        ],
+        "identifier": "mahou_tsukai_no_oshigoto",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mahou Tsukai no Oshigoto",
+        "url": "https://fanfox.net/manga/mahou_tsukai_no_oshigoto/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26323/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108612,
+        "aniId": 99777,
+        "createdAt": "2021-11-16T06:58:15.000Z",
+        "updatedAt": "2021-11-16T07:27:01.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

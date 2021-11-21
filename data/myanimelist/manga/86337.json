@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shonenjump.com/j/rensai/bclover.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC"
+    }
+  ],
   "altTitle": [
     "Black Clover",
     "ブラッククローバー"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:47.000Z",
-  "updatedAt": "2021-08-27T22:08:13.000Z",
+  "updatedAt": "2021-11-19T13:44:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -77,28 +86,6 @@
         "aniId": 86123,
         "createdAt": "2020-10-12T16:16:07.000Z",
         "updatedAt": "2021-06-06T19:41:54.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "black_clover": {
-        "authors": [
-          "TABATA Yuuki"
-        ],
-        "identifier": "black_clover",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Black Clover",
-        "url": "https://fanfox.net/manga/black_clover/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/15291/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 86337,
-        "aniId": 86123,
-        "createdAt": "2020-12-10T16:49:20.000Z",
-        "updatedAt": "2021-05-20T15:25:52.000Z",
         "deletedAt": null
       }
     },

@@ -15,10 +15,19 @@
   "malId": 122663,
   "aniId": 85143,
   "createdAt": "2021-05-28T20:24:23.000Z",
-  "updatedAt": "2021-05-28T20:53:32.000Z",
+  "updatedAt": "2021-11-15T15:27:13.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list.nhn?titleId=183559"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%9D%98_%ED%83%91"
+      }
+    ],
     "altTitle": [
       "Tower of God",
       "Sin-ui Tap",
@@ -35,7 +44,7 @@
     "category": "Manhwa",
     "hentai": false,
     "createdAt": "2020-10-12T15:48:09.000Z",
-    "updatedAt": "2021-09-21T06:10:56.000Z",
+    "updatedAt": "2021-11-15T15:28:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

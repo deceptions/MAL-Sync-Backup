@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.onmyoutaisenki.net/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Onmy%C5%8D_Taisenki"
+    }
+  ],
   "altTitle": [
     "Onmyō Taisenki",
     "陰陽大戦記"
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:31.000Z",
-  "updatedAt": "2021-05-20T23:14:38.000Z",
+  "updatedAt": "2021-11-20T23:45:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,28 +48,6 @@
         "aniId": 31212,
         "createdAt": "2020-10-12T16:05:06.000Z",
         "updatedAt": "2021-06-03T10:11:27.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "onmyou_taisenki": {
-        "authors": [
-          "KAIDOU Hiroyuki"
-        ],
-        "identifier": "onmyou_taisenki",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Onmyou Taisenki",
-        "url": "https://fanfox.net/manga/onmyou_taisenki/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/4238/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 1212,
-        "aniId": 31212,
-        "createdAt": "2021-05-20T23:14:38.000Z",
-        "updatedAt": "2021-05-20T23:42:56.000Z",
         "deletedAt": null
       }
     }

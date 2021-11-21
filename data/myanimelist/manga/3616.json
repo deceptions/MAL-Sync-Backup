@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "Hana Maru Go ! Go !",
     "花まるGO ! GO !"
@@ -15,7 +15,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:52.000Z",
-  "updatedAt": "2021-07-01T00:29:24.000Z",
+  "updatedAt": "2021-11-19T06:16:16.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "hanamaru_go_go": {
+        "authors": [
+          "ENOMOTO Chizuru"
+        ],
+        "identifier": "hanamaru_go_go",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hanamaru GO! GO!",
+        "url": "https://fanfox.net/manga/hanamaru_go_go/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1702/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3616,
+        "aniId": null,
+        "createdAt": "2021-11-19T06:15:56.000Z",
+        "updatedAt": "2021-11-19T06:16:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

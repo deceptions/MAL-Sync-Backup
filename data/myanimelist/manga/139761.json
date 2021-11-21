@@ -23,9 +23,32 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-10-15T08:28:46.000Z",
-  "updatedAt": "2021-10-15T08:28:46.000Z",
+  "updatedAt": "2021-11-17T11:18:20.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "42f62ab4-8fdb-4710-956d-999e3c55f7ad": {
+        "authors": [
+          "Nabeshiki",
+          "KRSG"
+        ],
+        "identifier": "42f62ab4-8fdb-4710-956d-999e3c55f7ad",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ore wa Subete wo “Parry” Suru",
+        "url": "https://mangadex.org/title/42f62ab4-8fdb-4710-956d-999e3c55f7ad",
+        "image": "https://uploads.mangadex.org/covers/42f62ab4-8fdb-4710-956d-999e3c55f7ad/8b497b88-3a61-4b97-9d49-ff3671e156ec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 139761,
+        "aniId": 131041,
+        "createdAt": "2020-10-12T18:04:32.000Z",
+        "updatedAt": "2021-11-17T15:48:24.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-kx987380": {
         "authors": [

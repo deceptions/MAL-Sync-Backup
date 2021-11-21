@@ -53,71 +53,6 @@
         "deletedAt": null
       }
     },
-    "MangaFox": {
-      "honzuki_no_gekokujou_part_2": {
-        "authors": [
-          "KAZUKI Miya"
-        ],
-        "identifier": "honzuki_no_gekokujou_part_2",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Honzuki no Gekokujou: Part 2",
-        "url": "https://fanfox.net/manga/honzuki_no_gekokujou_part_2/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/32391/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 122830,
-        "aniId": 110804,
-        "createdAt": "2020-12-19T19:56:25.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      },
-      "ascendance_of_a_bookworm_novel": {
-        "authors": [
-          "KAZUKI Miya"
-        ],
-        "identifier": "ascendance_of_a_bookworm_novel",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Ascendance of a Bookworm (Novel)",
-        "url": "https://fanfox.net/manga/ascendance_of_a_bookworm_novel/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/27004/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 122830,
-        "aniId": 110804,
-        "createdAt": "2021-07-02T03:50:12.000Z",
-        "updatedAt": "2021-07-02T04:20:08.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "honzuki-no-gekokujou-part-2": {
-        "authors": [
-          "KAZUKI Miya",
-          "Suzuka"
-        ],
-        "identifier": "honzuki-no-gekokujou-part-2",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Honzuki no Gekokujou Part 2",
-        "url": "https://mangasee123.com/manga/Honzuki-no-Gekokujou-Part-2",
-        "image": "https://cover.nep.li/cover/Honzuki-no-Gekokujou-Part-2.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 122830,
-        "aniId": 110804,
-        "createdAt": "2021-03-22T15:35:03.000Z",
-        "updatedAt": "2021-05-20T15:40:31.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-gl983968": {
         "authors": [
@@ -138,6 +73,28 @@
         "aniId": 110804,
         "createdAt": "2021-06-01T14:23:07.000Z",
         "updatedAt": "2021-06-01T15:21:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ascendance_of_a_bookworm_novel": {
+        "authors": [
+          "KAZUKI Miya"
+        ],
+        "identifier": "ascendance_of_a_bookworm_novel",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ascendance of a Bookworm (Novel)",
+        "url": "https://fanfox.net/manga/ascendance_of_a_bookworm_novel/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27004/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122830,
+        "aniId": 110804,
+        "createdAt": "2021-07-02T03:50:12.000Z",
+        "updatedAt": "2021-07-02T04:20:08.000Z",
         "deletedAt": null
       }
     }

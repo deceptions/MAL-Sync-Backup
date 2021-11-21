@@ -23,5 +23,28 @@
   "createdAt": "2021-08-02T03:47:39.000Z",
   "updatedAt": "2021-10-27T08:02:32.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mf989362": {
+        "authors": [
+          "유진성"
+        ],
+        "identifier": "manga-mf989362",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Return Of The Crazy Demon",
+        "url": "https://manganato.com/manga-mf989362",
+        "image": "https://avt.mkklcdnv6temp.com/27/x/24-1627387513.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 137304,
+        "createdAt": "2021-07-27T13:21:35.000Z",
+        "updatedAt": "2021-11-18T20:16:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

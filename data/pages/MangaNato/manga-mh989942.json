@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 141616,
   "createdAt": "2021-10-28T07:46:07.000Z",
-  "updatedAt": "2021-10-28T07:46:07.000Z",
+  "updatedAt": "2021-11-15T08:35:58.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "숩겨진 성녀",
+      "The Hidden Saintess"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Seur-A Yeon",
+      "Yamagetdon",
+      "Won-Sik Lee"
+    ],
+    "id": 141616,
+    "malId": null,
+    "type": "manga",
+    "title": "Supgyeojin Seongnyeo",
+    "url": "https://anilist.co/manga/141616",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141616-JuU9mNYIdc3W.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-14T15:43:40.000Z",
+    "updatedAt": "2021-11-14T16:13:40.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

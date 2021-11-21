@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA_%28%E6%BC%AB%E7%94%BB%29"
+    }
+  ],
   "altTitle": [
     "The Seven Deadly Sins",
     "七つの大罪"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:19.000Z",
-  "updatedAt": "2021-09-26T03:45:31.000Z",
+  "updatedAt": "2021-11-20T05:45:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,50 +62,6 @@
         "aniId": 74485,
         "createdAt": "2020-10-12T16:17:04.000Z",
         "updatedAt": "2021-06-07T04:30:29.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "nanatsu_no_taizai": {
-        "authors": [
-          "SUZUKI Nakaba"
-        ],
-        "identifier": "nanatsu_no_taizai",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Nanatsu no Taizai",
-        "url": "https://fanfox.net/manga/nanatsu_no_taizai/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/11374/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 44485,
-        "aniId": 74485,
-        "createdAt": "2020-12-18T00:56:19.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "nanatsu-no-taizai": {
-        "authors": [
-          "SUZUKI Nakaba"
-        ],
-        "identifier": "nanatsu-no-taizai",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Nanatsu no Taizai",
-        "url": "https://mangasee123.com/manga/Nanatsu-No-Taizai",
-        "image": "https://cover.nep.li/cover/Nanatsu-No-Taizai.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 44485,
-        "aniId": 74485,
-        "createdAt": "2020-12-18T13:56:38.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
         "deletedAt": null
       }
     },

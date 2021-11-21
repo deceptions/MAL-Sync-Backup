@@ -21,7 +21,7 @@
   "hentai": false,
   "anidbId": 14511,
   "createdAt": "2020-10-12T15:40:07.000Z",
-  "updatedAt": "2021-10-04T01:33:04.000Z",
+  "updatedAt": "2021-11-14T09:15:26.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -40,6 +40,42 @@
         "aniId": 105931,
         "createdAt": "2020-10-12T15:50:35.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      },
+      "n3348": {
+        "identifier": "n3348",
+        "type": "anime",
+        "page": "9anime",
+        "title": "BLADE RUNNER: BLACK LOTUS (Dub)",
+        "url": "https://9anime.to/watch/blade-runner-black-lotus-dub.n3348",
+        "image": "https://static.bunnycdn.ru/i/cache/images/1/13/137421db0c4a23c3d839ab728965a77e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38749,
+        "aniId": 105931,
+        "createdAt": "2021-11-14T09:14:35.000Z",
+        "updatedAt": "2021-11-14T09:43:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "blade-runner-black-lotus": {
+        "identifier": "blade-runner-black-lotus",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Blade Runner: Black Lotus",
+        "url": "https://gogoanime.cm/category/blade-runner-black-lotus",
+        "image": "https://gogocdn.net/cover/blade-runner-black-lotus.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38749,
+        "aniId": 105931,
+        "createdAt": "2021-11-17T11:18:56.000Z",
+        "updatedAt": "2021-11-17T11:44:02.000Z",
         "deletedAt": null
       }
     }

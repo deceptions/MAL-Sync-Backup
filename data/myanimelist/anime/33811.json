@@ -30,7 +30,7 @@
   "hentai": false,
   "anidbId": 12321,
   "createdAt": "2020-10-12T15:39:48.000Z",
-  "updatedAt": "2021-10-03T13:02:23.000Z",
+  "updatedAt": "2021-11-17T11:19:32.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -87,6 +87,25 @@
         "aniId": 21896,
         "createdAt": "2021-03-22T18:34:54.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "teekyuu-8": {
+        "identifier": "teekyuu-8",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Teekyuu 8",
+        "url": "https://gogoanime.cm/category/teekyuu-8",
+        "image": "https://gogocdn.net/cover/teekyuu-8.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33811,
+        "aniId": 21896,
+        "createdAt": "2021-11-17T11:19:23.000Z",
+        "updatedAt": "2021-11-17T11:44:02.000Z",
         "deletedAt": null
       }
     }

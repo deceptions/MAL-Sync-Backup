@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/GENTE%E3%80%9C%E3%83%AA%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%83%86%E3%81%AE%E4%BA%BA%E3%80%85%E3%80%9C"
+    }
+  ],
   "altTitle": [
     "Gente",
     "Gente: The People of Ristorante Paradiso",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-04T20:49:48.000Z",
-  "updatedAt": "2021-06-04T20:49:48.000Z",
+  "updatedAt": "2021-11-14T07:44:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,28 @@
         "aniId": 42400,
         "createdAt": "2020-10-12T16:09:50.000Z",
         "updatedAt": "2021-06-04T21:00:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gu983655": {
+        "authors": [
+          "Natsume Ono"
+        ],
+        "identifier": "manga-gu983655",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Gente - The People Of Ristorante Paradiso",
+        "url": "https://readmanganato.com/manga-gu983655",
+        "image": "https://avt.mkklcdnv6temp.com/46/s/19-1583500876.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12400,
+        "aniId": 42400,
+        "createdAt": "2021-11-14T07:44:50.000Z",
+        "updatedAt": "2021-11-14T08:13:39.000Z",
         "deletedAt": null
       }
     }

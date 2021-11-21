@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 141621,
   "createdAt": "2021-11-11T03:43:46.000Z",
-  "updatedAt": "2021-11-11T03:43:46.000Z",
+  "updatedAt": "2021-11-15T08:36:56.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "In the Name of the Savior",
+      "그대 사자의 이름으로",
+      "In the Name of Your Death  "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Doonipig",
+      "Hye-Yong",
+      "Huinultari"
+    ],
+    "id": 141621,
+    "malId": null,
+    "type": "manga",
+    "title": "Geudae Sajaui Ireumeuro",
+    "url": "https://anilist.co/manga/141621",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b141621-T7m3wR4SuRcG.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-14T16:13:40.000Z",
+    "updatedAt": "2021-11-14T16:43:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

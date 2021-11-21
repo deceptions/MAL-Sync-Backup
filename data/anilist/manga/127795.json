@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-08T08:13:19.000Z",
-  "updatedAt": "2021-07-08T08:13:19.000Z",
+  "updatedAt": "2021-11-19T00:44:14.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ln989170": {
+        "authors": [
+          "Updating"
+        ],
+        "identifier": "manga-ln989170",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Mismatched Marriage",
+        "url": "https://readmanganato.com/manga-ln989170",
+        "image": "https://avt.mkklcdnv6temp.com/19/h/24-1623561079.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 127795,
+        "createdAt": "2021-06-13T05:38:18.000Z",
+        "updatedAt": "2021-11-19T09:18:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

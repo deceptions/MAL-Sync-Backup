@@ -25,7 +25,7 @@
   "hentai": false,
   "anidbId": 1708,
   "createdAt": "2020-10-12T15:38:08.000Z",
-  "updatedAt": "2021-09-30T16:40:22.000Z",
+  "updatedAt": "2021-11-19T21:14:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -44,6 +44,25 @@
         "aniId": 786,
         "createdAt": "2020-10-12T15:56:07.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "pugyuru": {
+        "identifier": "pugyuru",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Pugyuru",
+        "url": "https://gogoanime.cm/category/pugyuru",
+        "image": "https://gogocdn.net/cover/pugyuru.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 786,
+        "aniId": 786,
+        "createdAt": "2021-11-19T21:14:14.000Z",
+        "updatedAt": "2021-11-19T21:44:03.000Z",
         "deletedAt": null
       }
     }

@@ -33,7 +33,7 @@
   "hentai": false,
   "anidbId": 3308,
   "createdAt": "2020-10-12T15:38:41.000Z",
-  "updatedAt": "2021-10-01T15:02:43.000Z",
+  "updatedAt": "2021-11-17T11:17:39.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -69,6 +69,25 @@
         "aniId": 3991,
         "createdAt": "2020-10-12T15:53:37.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "mahou-shoujo-tai-arusu-the-adventure": {
+        "identifier": "mahou-shoujo-tai-arusu-the-adventure",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Mahou Shoujo-tai Arusu the Adventure",
+        "url": "https://gogoanime.cm/category/mahou-shoujo-tai-arusu-the-adventure",
+        "image": "https://gogocdn.net/cover/mahou-shoujo-tai-arusu-the-adventure.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3991,
+        "aniId": 3991,
+        "createdAt": "2021-11-17T11:17:29.000Z",
+        "updatedAt": "2021-11-17T11:44:02.000Z",
         "deletedAt": null
       }
     }

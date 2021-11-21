@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://comic-meteor.jp/jyashin/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E9%82%AA%E7%A5%9E%E3%81%A1%E3%82%83%E3%82%93%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%AD%E3%83%83%E3%82%AF"
+    }
+  ],
   "altTitle": [
     "Dropkick On My Devil!",
     "False God Dropkick",
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:18.000Z",
-  "updatedAt": "2021-07-05T09:59:54.000Z",
+  "updatedAt": "2021-11-20T23:14:24.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,50 +47,6 @@
         "aniId": 74279,
         "createdAt": "2020-10-12T16:05:27.000Z",
         "updatedAt": "2021-06-03T12:44:28.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "jyashin-chan-dropkick": {
-        "authors": [
-          "Yukiwo"
-        ],
-        "identifier": "jyashin-chan-dropkick",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Jyashin-chan Dropkick",
-        "url": "https://mangasee123.com/manga/Jyashin-Chan-Dropkick",
-        "image": "https://cover.nep.li/cover/Jyashin-Chan-Dropkick.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 44279,
-        "aniId": 74279,
-        "createdAt": "2021-02-16T21:36:22.000Z",
-        "updatedAt": "2021-05-20T15:40:19.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "jashin_chan_dropkick": {
-        "authors": [
-          "Yukiwo"
-        ],
-        "identifier": "jashin_chan_dropkick",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Jashin-chan Dropkick",
-        "url": "https://fanfox.net/manga/jashin_chan_dropkick/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/11223/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 44279,
-        "aniId": 74279,
-        "createdAt": "2021-04-22T07:58:00.000Z",
-        "updatedAt": "2021-05-20T15:40:19.000Z",
         "deletedAt": null
       }
     },

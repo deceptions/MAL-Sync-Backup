@@ -16,11 +16,17 @@
   "malId": 72025,
   "aniId": 86265,
   "createdAt": "2020-12-13T10:19:43.000Z",
-  "updatedAt": "2021-05-20T15:25:53.000Z",
+  "updatedAt": "2021-11-14T16:44:18.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%82%AC%E3%83%B3%E3%82%A2%E3%82%B7%E3%83%A5%E3%83%A9"
+      }
+    ],
     "altTitle": [
+      "Kengan Ashura",
       "ケンガンアシュラ"
     ],
     "authors": [
@@ -35,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:19.000Z",
-    "updatedAt": "2021-05-31T09:11:15.000Z",
+    "updatedAt": "2021-11-14T16:44:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

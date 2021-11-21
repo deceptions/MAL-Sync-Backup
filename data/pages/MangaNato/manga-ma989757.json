@@ -13,13 +13,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 141479,
   "createdAt": "2021-10-08T09:33:11.000Z",
-  "updatedAt": "2021-11-08T11:44:05.000Z",
+  "updatedAt": "2021-11-15T08:37:06.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "역대급 창기사의 회귀",
+      "Return of The Unrivaled Spear Knight"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Studio Enus",
+      "Cho-seonsaengnim",
+      "Hu-Sang Jo"
+    ],
+    "id": 141479,
+    "malId": null,
+    "type": "manga",
+    "title": "Yeokdaegeup Changgisaui Hoegwi",
+    "url": "https://anilist.co/manga/141479",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141479-9h8eyaxyRZP8.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-14T00:13:40.000Z",
+    "updatedAt": "2021-11-14T00:13:40.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

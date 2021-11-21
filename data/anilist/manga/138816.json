@@ -30,5 +30,29 @@
   "createdAt": "2021-09-06T21:34:30.000Z",
   "updatedAt": "2021-11-07T12:47:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "show-ha-shoten": {
+        "authors": [
+          "ASAKURA Akinari",
+          "OBATA Takeshi"
+        ],
+        "identifier": "show-ha-shoten",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Show-ha Shoten!",
+        "url": "https://mangasee123.com/manga/Show-ha-Shoten",
+        "image": "https://cover.nep.li/cover/Show-ha-Shoten.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140868,
+        "aniId": 138816,
+        "createdAt": "2021-11-14T16:44:30.000Z",
+        "updatedAt": "2021-11-14T17:13:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

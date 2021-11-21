@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://jumpsq.shueisha.co.jp/rensai/kemonojihen/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%80%AA%E7%89%A9%E4%BA%8B%E5%A4%89"
+    }
+  ],
   "altTitle": [
     "怪物事変"
   ],
@@ -14,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:56.000Z",
-  "updatedAt": "2021-05-29T07:15:28.000Z",
+  "updatedAt": "2021-11-20T05:15:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,50 +45,6 @@
         "aniId": 98466,
         "createdAt": "2020-10-12T16:10:32.000Z",
         "updatedAt": "2021-06-05T01:31:29.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "kemono-jihen": {
-        "authors": [
-          "AIMOTO Shou"
-        ],
-        "identifier": "kemono-jihen",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Kemono Jihen",
-        "url": "https://mangasee123.com/manga/Kemono-Jihen",
-        "image": "https://cover.nep.li/cover/Kemono-Jihen.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 104076,
-        "aniId": 98466,
-        "createdAt": "2020-12-19T15:26:57.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "kemono_jihen": {
-        "authors": [
-          "AIMOTO Shou"
-        ],
-        "identifier": "kemono_jihen",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Kemono Jihen",
-        "url": "https://fanfox.net/manga/kemono_jihen/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/24601/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 104076,
-        "aniId": 98466,
-        "createdAt": "2021-01-07T12:51:30.000Z",
-        "updatedAt": "2021-05-20T15:37:17.000Z",
         "deletedAt": null
       }
     },

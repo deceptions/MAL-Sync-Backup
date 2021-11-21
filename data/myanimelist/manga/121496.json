@@ -3,6 +3,10 @@
     {
       "site": "officialsite",
       "url": "https://page.kakao.com/home/50866481"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ko.wikipedia.org/wiki/%EB%82%98_%ED%98%BC%EC%9E%90%EB%A7%8C_%EB%A0%88%EB%B2%A8%EC%97%85"
     }
   ],
   "altTitle": [
@@ -23,7 +27,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:07.000Z",
-  "updatedAt": "2021-10-17T14:29:06.000Z",
+  "updatedAt": "2021-11-18T23:45:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -70,29 +74,6 @@
         "aniId": 105398,
         "createdAt": "2020-11-22T17:24:54.000Z",
         "updatedAt": "2021-07-21T17:04:52.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "solo_leveling": {
-        "authors": [
-          "Jang Sung-Lak",
-          "[Add]"
-        ],
-        "identifier": "solo_leveling",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Solo Leveling",
-        "url": "https://fanfox.net/manga/solo_leveling/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/29037/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 121496,
-        "aniId": 105398,
-        "createdAt": "2020-12-15T22:34:40.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
         "deletedAt": null
       }
     },

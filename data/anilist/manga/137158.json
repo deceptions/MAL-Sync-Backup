@@ -16,9 +16,32 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-27T14:51:36.000Z",
-  "updatedAt": "2021-08-10T12:39:16.000Z",
+  "updatedAt": "2021-11-17T11:44:34.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "b76a0506-5168-431b-8acc-fa340a042f93": {
+        "authors": [
+          "Nakamaru Yosuke",
+          "Azuma Kyoutarou"
+        ],
+        "identifier": "b76a0506-5168-431b-8acc-fa340a042f93",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenkaichi - Nihon Saikyou Bugeisha Ketteisen",
+        "url": "https://mangadex.org/title/b76a0506-5168-431b-8acc-fa340a042f93",
+        "image": "https://uploads.mangadex.org/covers/b76a0506-5168-431b-8acc-fa340a042f93/fbce67c1-b50a-4e32-8001-097aadf9cf41.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139395,
+        "aniId": 137158,
+        "createdAt": "2021-01-08T12:21:33.000Z",
+        "updatedAt": "2021-11-17T15:50:33.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaSee": {
       "tenkaichi-nihon-saikyou-bugeisha-ketteisen": {
         "authors": [

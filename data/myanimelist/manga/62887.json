@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://youngjump.jp/manga/allyou/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/All_You_Need_Is_Kill"
+    }
+  ],
   "altTitle": [
     "All You Need Is Kill",
     "Edge of Tomorrow",
@@ -18,7 +27,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:04.000Z",
-  "updatedAt": "2021-07-12T04:47:22.000Z",
+  "updatedAt": "2021-11-20T07:14:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,53 +51,6 @@
         "aniId": 85215,
         "createdAt": "2020-10-12T16:07:05.000Z",
         "updatedAt": "2021-06-04T00:11:20.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "all-you-need-is-kill": {
-        "authors": [
-          "OBATA Takeshi",
-          "SAKURAZAKA Hiroshi",
-          "TAKEUCHI Ryousuke"
-        ],
-        "identifier": "all-you-need-is-kill",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "All You Need Is Kill",
-        "url": "https://mangasee123.com/manga/All-You-Need-Is-Kill",
-        "image": "https://cover.nep.li/cover/All-You-Need-Is-Kill.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 62887,
-        "aniId": 85215,
-        "createdAt": "2020-12-25T10:55:04.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "all_you_need_is_kill": {
-        "authors": [
-          "SAKURAZAKA Hiroshi",
-          "TAKEUCHI Ryousuke"
-        ],
-        "identifier": "all_you_need_is_kill",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "All You Need Is Kill",
-        "url": "https://fanfox.net/manga/all_you_need_is_kill/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/13528/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 62887,
-        "aniId": 85215,
-        "createdAt": "2021-02-05T20:53:38.000Z",
-        "updatedAt": "2021-05-20T15:40:19.000Z",
         "deletedAt": null
       }
     },

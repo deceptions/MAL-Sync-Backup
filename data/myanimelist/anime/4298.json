@@ -27,7 +27,7 @@
   "hentai": false,
   "anidbId": 4512,
   "createdAt": "2020-10-12T15:38:42.000Z",
-  "updatedAt": "2021-10-01T16:04:34.000Z",
+  "updatedAt": "2021-11-17T09:28:42.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -65,6 +65,23 @@
         "aniId": 4298,
         "createdAt": "2021-06-12T07:08:22.000Z",
         "updatedAt": "2021-06-12T07:38:18.000Z",
+        "deletedAt": null
+      },
+      "futari-no-joe": {
+        "identifier": "futari-no-joe",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Futari no Joe",
+        "url": "https://gogoanime.cm/category/futari-no-joe",
+        "image": "https://gogocdn.net/cover/futari-no-joe.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4298,
+        "aniId": 4298,
+        "createdAt": "2021-11-17T18:14:04.000Z",
+        "updatedAt": "2021-11-17T18:44:03.000Z",
         "deletedAt": null
       }
     }

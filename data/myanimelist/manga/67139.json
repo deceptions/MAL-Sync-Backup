@@ -44,48 +44,6 @@
         "deletedAt": null
       }
     },
-    "MangaFox": {
-      "i_shoujo": {
-        "authors": [
-          "TAKAYAMA Toshinori"
-        ],
-        "identifier": "i_shoujo",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "iShoujo",
-        "url": "https://fanfox.net/manga/i_shoujo/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/13956/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 67139,
-        "aniId": 85320,
-        "createdAt": "2021-02-18T16:44:49.000Z",
-        "updatedAt": "2021-05-20T15:40:19.000Z",
-        "deletedAt": null
-      },
-      "ishoujo": {
-        "authors": [
-          "TAKAYAMA Toshinori"
-        ],
-        "identifier": "ishoujo",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "iShoujo",
-        "url": "https://fanfox.net/manga/ishoujo/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/13956/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 67139,
-        "aniId": 85320,
-        "createdAt": "2021-07-02T08:51:10.000Z",
-        "updatedAt": "2021-07-02T09:18:16.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "i-shoujo": {
         "authors": [
@@ -105,6 +63,28 @@
         "aniId": 85320,
         "createdAt": "2021-06-30T08:50:28.000Z",
         "updatedAt": "2021-06-30T09:20:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ishoujo": {
+        "authors": [
+          "TAKAYAMA Toshinori"
+        ],
+        "identifier": "ishoujo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "iShoujo",
+        "url": "https://fanfox.net/manga/ishoujo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13956/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67139,
+        "aniId": 85320,
+        "createdAt": "2021-07-02T08:51:10.000Z",
+        "updatedAt": "2021-07-02T09:18:16.000Z",
         "deletedAt": null
       }
     },

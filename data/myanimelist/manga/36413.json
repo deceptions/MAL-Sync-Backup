@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/ヒナまつり"
+    }
+  ],
   "altTitle": [
     "Hinamatsuri",
     "Hina Festival",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:00.000Z",
-  "updatedAt": "2021-05-31T13:31:17.000Z",
+  "updatedAt": "2021-11-15T05:43:55.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,50 +63,6 @@
         "aniId": 66413,
         "createdAt": "2020-10-12T16:20:04.000Z",
         "updatedAt": "2021-06-07T23:24:07.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "hinamatsuri": {
-        "authors": [
-          "OHTAKE Masao"
-        ],
-        "identifier": "hinamatsuri",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Hinamatsuri",
-        "url": "https://mangasee123.com/manga/Hinamatsuri",
-        "image": "https://cover.nep.li/cover/Hinamatsuri.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 36413,
-        "aniId": 66413,
-        "createdAt": "2020-12-17T15:56:21.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "hinamatsuri": {
-        "authors": [
-          "OHTAKE Masao"
-        ],
-        "identifier": "hinamatsuri",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Hinamatsuri",
-        "url": "https://fanfox.net/manga/hinamatsuri/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/11760/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 36413,
-        "aniId": 66413,
-        "createdAt": "2021-01-08T08:51:42.000Z",
-        "updatedAt": "2021-05-20T15:37:17.000Z",
         "deletedAt": null
       }
     },

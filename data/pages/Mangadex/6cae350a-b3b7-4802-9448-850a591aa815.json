@@ -12,13 +12,36 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 116774,
   "createdAt": "2020-10-12T16:17:47.000Z",
-  "updatedAt": "2021-08-11T15:09:24.000Z",
+  "updatedAt": "2021-11-17T15:48:35.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Sexercise",
+      "섹서사이즈",
+      "セクササイズ〜世にもエッチな痩せ方〜",
+      "Sex Exercise"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Nam-Sae Choi",
+      "Shuroop"
+    ],
+    "id": 116774,
+    "malId": null,
+    "type": "manga",
+    "title": "Sexercise",
+    "url": "https://anilist.co/manga/116774",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116774-yCYyRI2chEC3.png",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-05-21T06:12:57.000Z",
+    "updatedAt": "2021-11-07T07:18:06.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

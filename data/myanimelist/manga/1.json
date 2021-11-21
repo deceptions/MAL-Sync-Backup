@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/MONSTER"
+    }
+  ],
   "altTitle": [
     "Monster",
     "MONSTER"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:16.000Z",
-  "updatedAt": "2021-09-21T00:42:28.000Z",
+  "updatedAt": "2021-11-19T07:14:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,50 +42,6 @@
         "aniId": 30001,
         "createdAt": "2020-10-12T16:02:52.000Z",
         "updatedAt": "2021-06-02T10:04:23.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "monster": {
-        "authors": [
-          "URASAWA Naoki"
-        ],
-        "identifier": "monster",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Monster",
-        "url": "https://mangasee123.com/manga/Monster",
-        "image": "https://cover.nep.li/cover/Monster.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 1,
-        "aniId": 30001,
-        "createdAt": "2020-12-16T07:55:52.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "monster": {
-        "authors": [
-          "URASAWA Naoki"
-        ],
-        "identifier": "monster",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Monster",
-        "url": "https://fanfox.net/manga/monster/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/228/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 1,
-        "aniId": 30001,
-        "createdAt": "2021-01-08T18:20:41.000Z",
-        "updatedAt": "2021-05-20T15:37:17.000Z",
         "deletedAt": null
       }
     },

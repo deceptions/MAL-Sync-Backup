@@ -29,7 +29,7 @@
   "hentai": false,
   "anidbId": 902,
   "createdAt": "2020-10-12T15:38:00.000Z",
-  "updatedAt": "2021-09-30T11:10:57.000Z",
+  "updatedAt": "2021-11-17T11:20:01.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -84,6 +84,23 @@
         "aniId": 171,
         "createdAt": "2021-02-18T16:16:43.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      },
+      "strange-dawn": {
+        "identifier": "strange-dawn",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Strange Dawn",
+        "url": "https://gogoanime.cm/category/strange-dawn",
+        "image": "https://gogocdn.net/cover/strange-dawn.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 171,
+        "aniId": 171,
+        "createdAt": "2021-11-17T11:19:52.000Z",
+        "updatedAt": "2021-11-17T11:44:02.000Z",
         "deletedAt": null
       }
     }

@@ -1,6 +1,16 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://morning.moae.jp/lineup/667"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%82%93%E3%81%8C%E3%82%8A%E5%B8%BD%E5%AD%90%E3%81%AE%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8"
+    }
+  ],
   "altTitle": [
+    "Witch Hat Atelier",
     "Atelier of Witch Hat",
     "とんがり帽子のアトリエ"
   ],
@@ -15,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:38.000Z",
-  "updatedAt": "2021-09-16T15:41:48.000Z",
+  "updatedAt": "2021-11-19T04:15:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,50 +47,6 @@
         "aniId": 98263,
         "createdAt": "2020-10-12T16:10:28.000Z",
         "updatedAt": "2021-06-05T00:58:49.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "tongari-booshi-no-atorie": {
-        "authors": [
-          "SHIRAHAMA Kamome"
-        ],
-        "identifier": "tongari-booshi-no-atorie",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Tongari Booshi no Atorie",
-        "url": "https://mangasee123.com/manga/Tongari-Booshi-No-Atorie",
-        "image": "https://cover.nep.li/cover/Tongari-Booshi-No-Atorie.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 100035,
-        "aniId": 98263,
-        "createdAt": "2020-12-16T19:56:16.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "tongari_boushi_no_atelier": {
-        "authors": [
-          "SHIRAHAMA Kamome"
-        ],
-        "identifier": "tongari_boushi_no_atelier",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Tongari Boushi no Atelier",
-        "url": "https://fanfox.net/manga/tongari_boushi_no_atelier/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/24137/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 100035,
-        "aniId": 98263,
-        "createdAt": "2021-03-27T01:49:07.000Z",
-        "updatedAt": "2021-05-20T15:40:31.000Z",
         "deletedAt": null
       }
     },

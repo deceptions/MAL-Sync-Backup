@@ -42,70 +42,6 @@
         "deletedAt": null
       }
     },
-    "MangaSee": {
-      "kimi-no-okasan-o-boku-ni-kudasai": {
-        "authors": [
-          "Tazawa Yutaka"
-        ],
-        "identifier": "kimi-no-okasan-o-boku-ni-kudasai",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Kimi no Okasan o Boku Ni Kudasai!",
-        "url": "https://mangasee123.com/manga/Kimi-no-Okasan-o-Boku-ni-Kudasai",
-        "image": "https://cover.nep.li/cover/Kimi-no-Okasan-o-Boku-ni-Kudasai.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 121740,
-        "aniId": 111477,
-        "createdAt": "2020-12-21T21:27:07.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "kimi_no_okasan_o_boku_ni_kudasai": {
-        "authors": [
-          "Tazawa Yutaka"
-        ],
-        "identifier": "kimi_no_okasan_o_boku_ni_kudasai",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Kimi no Okasan o Boku Ni Kudasai!",
-        "url": "https://fanfox.net/manga/kimi_no_okasan_o_boku_ni_kudasai/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/31654/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 121740,
-        "aniId": 111477,
-        "createdAt": "2021-02-06T22:50:05.000Z",
-        "updatedAt": "2021-05-20T15:40:31.000Z",
-        "deletedAt": null
-      },
-      "kimi_no_okaa_san_o_boku_ni_kudasai": {
-        "authors": [
-          "Tazawa Yutaka"
-        ],
-        "identifier": "kimi_no_okaa_san_o_boku_ni_kudasai",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Kimi no Okaa-san o Boku ni Kudasai!",
-        "url": "https://fanfox.net/manga/kimi_no_okaa_san_o_boku_ni_kudasai/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/38849/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 121740,
-        "aniId": 111477,
-        "createdAt": "2021-08-28T04:06:42.000Z",
-        "updatedAt": "2021-08-28T04:36:33.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-fl983068": {
         "authors": [
@@ -145,6 +81,28 @@
         "aniId": 111477,
         "createdAt": "2021-07-16T12:02:41.000Z",
         "updatedAt": "2021-07-16T12:32:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kimi_no_okaa_san_o_boku_ni_kudasai": {
+        "authors": [
+          "Tazawa Yutaka"
+        ],
+        "identifier": "kimi_no_okaa_san_o_boku_ni_kudasai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi no Okaa-san o Boku ni Kudasai!",
+        "url": "https://fanfox.net/manga/kimi_no_okaa_san_o_boku_ni_kudasai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38849/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121740,
+        "aniId": 111477,
+        "createdAt": "2021-08-28T04:06:42.000Z",
+        "updatedAt": "2021-08-28T04:36:33.000Z",
         "deletedAt": null
       }
     }

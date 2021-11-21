@@ -40,28 +40,6 @@
         "deletedAt": null
       }
     },
-    "MangaFox": {
-      "bokutachi_wa_hanshoku_wo_yameta": {
-        "authors": [
-          "SAOTOME Yagi"
-        ],
-        "identifier": "bokutachi_wa_hanshoku_wo_yameta",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Bokutachi wa Hanshoku wo yameta",
-        "url": "https://fanfox.net/manga/bokutachi_wa_hanshoku_wo_yameta/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/37300/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 132870,
-        "aniId": 126603,
-        "createdAt": "2021-02-22T14:03:39.000Z",
-        "updatedAt": "2021-05-20T15:40:31.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-ks987753": {
         "authors": [
@@ -81,6 +59,28 @@
         "aniId": 126603,
         "createdAt": "2021-06-11T17:38:29.000Z",
         "updatedAt": "2021-06-11T18:08:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "bokutachi-wa-hanshoku-wo-yameta": {
+        "authors": [
+          "SAOTOME Yagi"
+        ],
+        "identifier": "bokutachi-wa-hanshoku-wo-yameta",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bokutachi wa Hanshoku wo Yameta",
+        "url": "https://mangasee123.com/manga/Bokutachi-wa-Hanshoku-wo-Yameta",
+        "image": "https://cover.nep.li/cover/Bokutachi-wa-Hanshoku-wo-Yameta.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132870,
+        "aniId": 126603,
+        "createdAt": "2021-11-16T20:58:30.000Z",
+        "updatedAt": "2021-11-16T21:27:01.000Z",
         "deletedAt": null
       }
     }

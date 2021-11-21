@@ -18,5 +18,29 @@
   "createdAt": "2021-10-21T04:42:51.000Z",
   "updatedAt": "2021-10-21T04:42:51.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "45866858-19c2-4f54-9e15-226e2f2beabf": {
+        "authors": [
+          "Nakanomura Ayasuke",
+          "Fuduki Roa"
+        ],
+        "identifier": "45866858-19c2-4f54-9e15-226e2f2beabf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Don't Overlook the Reincarnated Granny - The Second Life of a Former Villainous Empress",
+        "url": "https://mangadex.org/title/45866858-19c2-4f54-9e15-226e2f2beabf",
+        "image": "https://uploads.mangadex.org/covers/45866858-19c2-4f54-9e15-226e2f2beabf/3a5b7103-fbce-44d1-99d6-57a4a528015f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 137660,
+        "aniId": 140503,
+        "createdAt": "2021-11-19T20:15:56.000Z",
+        "updatedAt": "2021-11-19T20:40:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

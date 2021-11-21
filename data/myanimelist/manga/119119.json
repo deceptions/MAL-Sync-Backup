@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://evening.moae.jp/lineup/1091"
+    }
+  ],
   "altTitle": [
     "ふたりソロキャンプ"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:55.000Z",
-  "updatedAt": "2021-06-09T19:34:37.000Z",
+  "updatedAt": "2021-11-19T10:44:24.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,50 +41,6 @@
         "aniId": 110853,
         "createdAt": "2020-10-12T16:16:23.000Z",
         "updatedAt": "2021-06-06T22:05:01.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "futari-solo-camp": {
-        "authors": [
-          "DEBATA Yuudai"
-        ],
-        "identifier": "futari-solo-camp",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Futari Solo Camp",
-        "url": "https://mangasee123.com/manga/Futari-Solo-Camp",
-        "image": "https://cover.nep.li/cover/Futari-Solo-Camp.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 119119,
-        "aniId": 110853,
-        "createdAt": "2021-01-16T06:02:43.000Z",
-        "updatedAt": "2021-05-20T15:38:10.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "futari_solo_camp": {
-        "authors": [
-          "DEBATA Yuudai"
-        ],
-        "identifier": "futari_solo_camp",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Futari Solo Camp",
-        "url": "https://fanfox.net/manga/futari_solo_camp/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/30813/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 119119,
-        "aniId": 110853,
-        "createdAt": "2021-02-28T22:46:44.000Z",
-        "updatedAt": "2021-05-20T15:40:31.000Z",
         "deletedAt": null
       }
     },

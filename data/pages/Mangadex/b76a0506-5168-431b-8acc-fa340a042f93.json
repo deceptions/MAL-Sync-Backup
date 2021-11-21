@@ -1,24 +1,68 @@
 {
   "authors": [
-    "NAKAMARU Yosuke",
-    "AZUMA Kyoutarou"
+    "Nakamaru Yosuke",
+    "Azuma Kyoutarou"
   ],
   "identifier": "b76a0506-5168-431b-8acc-fa340a042f93",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Tenkaichi - Nihon Saikyou Mononofu Ketteisen",
+  "title": "Tenkaichi - Nihon Saikyou Bugeisha Ketteisen",
   "url": "https://mangadex.org/title/b76a0506-5168-431b-8acc-fa340a042f93",
-  "image": "https://uploads.mangadex.org/covers/b76a0506-5168-431b-8acc-fa340a042f93/71179842-ad35-4822-b414-8884b1130632.jpg",
+  "image": "https://uploads.mangadex.org/covers/b76a0506-5168-431b-8acc-fa340a042f93/fbce67c1-b50a-4e32-8001-097aadf9cf41.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 139395,
+  "aniId": 137158,
   "createdAt": "2021-01-08T12:21:33.000Z",
-  "updatedAt": "2021-06-08T09:37:14.000Z",
+  "updatedAt": "2021-11-17T15:50:33.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.yanmaga.jp/c/tenkaichi"
+      }
+    ],
+    "altTitle": [
+      "テンカイチ 日本最強武芸者決定戦"
+    ],
+    "authors": [
+      "Nakamaru, Yousuke",
+      "Azuma, Kyoutarou"
+    ],
+    "id": 139395,
+    "type": "manga",
+    "title": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
+    "url": "https://myanimelist.net/manga/139395/Tenkaichi__Nihon_Saikyou_Bugeisha_Ketteisen",
+    "image": "https://cdn.myanimelist.net/images/manga/3/249038.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-10-13T20:59:55.000Z",
+    "updatedAt": "2021-11-17T11:17:21.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "テンカイチ　日本最強武芸者決定戦"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yousuke Nakamaru",
+      "Kyoutarou Azuma"
+    ],
+    "id": 137158,
+    "malId": 139395,
+    "type": "manga",
+    "title": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
+    "url": "https://anilist.co/manga/137158",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137158-MLzWCUQZu4ku.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-27T14:51:36.000Z",
+    "updatedAt": "2021-11-17T11:44:34.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/139395/Tenkaichi__Nihon_Saikyou_Bugeisha_Ketteisen"
 }

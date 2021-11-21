@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%ABD%C3%97D"
+    }
+  ],
   "altTitle": [
     "High School DxD",
     "ハイスクールD×D"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:42.000Z",
-  "updatedAt": "2021-05-31T08:12:15.000Z",
+  "updatedAt": "2021-11-20T19:46:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,52 +44,6 @@
         "aniId": 60859,
         "createdAt": "2020-10-12T16:03:21.000Z",
         "updatedAt": "2021-06-02T13:22:22.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "high_school_dxd": {
-        "authors": [
-          "ISHIBUMI Ichiei"
-        ],
-        "identifier": "high_school_dxd",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "High-School DxD",
-        "url": "https://fanfox.net/manga/high_school_dxd/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/9628/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 30859,
-        "aniId": 60859,
-        "createdAt": "2021-01-08T14:22:05.000Z",
-        "updatedAt": "2021-05-20T15:37:17.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "high-school-dx-d": {
-        "authors": [
-          "ISHIBUMI Ichiei",
-          "MISHIMA Hiroji",
-          "MIYAMA Zero"
-        ],
-        "identifier": "high-school-dx-d",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "High-School DxD",
-        "url": "https://mangasee123.com/manga/High-School-Dx-D",
-        "image": "https://cover.nep.li/cover/High-School-Dx-D.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 30859,
-        "aniId": 60859,
-        "createdAt": "2021-02-08T20:10:42.000Z",
-        "updatedAt": "2021-05-20T15:40:04.000Z",
         "deletedAt": null
       }
     },

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://spi-net.jp/rensai_sakuhin/lastinning/index.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B9%E3%83%88%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0"
+    }
+  ],
   "altTitle": [
     "ラストイニング"
   ],
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:22.000Z",
-  "updatedAt": "2021-05-17T04:55:49.000Z",
+  "updatedAt": "2021-11-17T04:57:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,29 +47,6 @@
         "aniId": 46555,
         "createdAt": "2020-10-12T16:02:32.000Z",
         "updatedAt": "2021-06-02T07:43:36.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "last-inning": {
-        "authors": [
-          "KAMIO Ryuu",
-          "NAKAHARA Yuu"
-        ],
-        "identifier": "last-inning",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Last Inning",
-        "url": "https://mangasee123.com/manga/Last-Inning",
-        "image": "https://cover.nep.li/cover/Last-Inning.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 16555,
-        "aniId": 46555,
-        "createdAt": "2021-05-17T04:55:58.000Z",
-        "updatedAt": "2021-05-20T15:39:39.000Z",
         "deletedAt": null
       }
     }

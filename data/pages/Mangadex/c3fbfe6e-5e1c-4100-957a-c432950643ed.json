@@ -11,13 +11,50 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 134369,
+  "aniId": 107205,
   "createdAt": "2020-10-12T16:14:37.000Z",
-  "updatedAt": "2021-06-06T06:37:41.000Z",
+  "updatedAt": "2021-11-19T13:55:20.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "絵空ひこうき"
+    ],
+    "authors": [
+      "Emoto, Nao"
+    ],
+    "id": 134369,
+    "type": "manga",
+    "title": "Esora Hikouki",
+    "url": "https://myanimelist.net/manga/134369/Esora_Hikouki",
+    "image": "https://cdn.myanimelist.net/images/manga/1/247606.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "createdAt": "2021-11-19T13:55:19.000Z",
+    "updatedAt": "2021-11-19T13:55:19.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "絵空ひこうき"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Nao Emoto"
+    ],
+    "id": 107205,
+    "malId": 134369,
+    "type": "manga",
+    "title": "Esora Hikouki",
+    "url": "https://anilist.co/manga/107205",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n107205-YZ5MPQUjUwp9.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-06-13T09:08:29.000Z",
+    "updatedAt": "2021-11-19T13:44:14.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/134369/Esora_Hikouki"
 }

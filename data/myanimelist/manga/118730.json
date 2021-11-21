@@ -100,71 +100,6 @@
         "deletedAt": null
       }
     },
-    "MangaFox": {
-      "quan_zhi_gao_shou": {
-        "authors": [
-          "Chang Pan Yongzhe",
-          "Hudie Lan"
-        ],
-        "identifier": "quan_zhi_gao_shou",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Quan Zhi Gao Shou",
-        "url": "https://fanfox.net/manga/quan_zhi_gao_shou/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/35503/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 118730,
-        "aniId": 97662,
-        "createdAt": "2021-04-22T10:57:18.000Z",
-        "updatedAt": "2021-05-20T15:40:50.000Z",
-        "deletedAt": null
-      },
-      "the_king_s_avatar": {
-        "authors": [
-          "Butterfly Blue",
-          "常盘勇者"
-        ],
-        "identifier": "the_king_s_avatar",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "The King's Avatar",
-        "url": "https://fanfox.net/manga/the_king_s_avatar/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/21253/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 118730,
-        "aniId": 97662,
-        "createdAt": "2021-06-04T20:49:59.000Z",
-        "updatedAt": "2021-06-04T21:18:57.000Z",
-        "deletedAt": null
-      },
-      "quanzhi_gaoshou": {
-        "authors": [
-          "Chang Pan Yongzhe",
-          "Hudie Lan"
-        ],
-        "identifier": "quanzhi_gaoshou",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Quanzhi Gaoshou",
-        "url": "https://fanfox.net/manga/quanzhi_gaoshou/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/38565/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 118730,
-        "aniId": 97662,
-        "createdAt": "2021-07-22T20:04:10.000Z",
-        "updatedAt": "2021-07-22T20:33:49.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-ky987907": {
         "authors": [
@@ -208,6 +143,50 @@
         "aniId": 97662,
         "createdAt": "2021-06-01T17:01:19.000Z",
         "updatedAt": "2021-06-01T17:31:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_king_s_avatar": {
+        "authors": [
+          "Butterfly Blue",
+          "常盘勇者"
+        ],
+        "identifier": "the_king_s_avatar",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The King's Avatar",
+        "url": "https://fanfox.net/manga/the_king_s_avatar/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21253/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118730,
+        "aniId": 97662,
+        "createdAt": "2021-06-04T20:49:59.000Z",
+        "updatedAt": "2021-06-04T21:18:57.000Z",
+        "deletedAt": null
+      },
+      "quanzhi_gaoshou": {
+        "authors": [
+          "Chang Pan Yongzhe",
+          "Hudie Lan"
+        ],
+        "identifier": "quanzhi_gaoshou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Quanzhi Gaoshou",
+        "url": "https://fanfox.net/manga/quanzhi_gaoshou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38565/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118730,
+        "aniId": 97662,
+        "createdAt": "2021-07-22T20:04:10.000Z",
+        "updatedAt": "2021-07-22T20:33:49.000Z",
         "deletedAt": null
       }
     }

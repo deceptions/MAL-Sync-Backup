@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shodensha.co.jp/umibeno/"
+    }
+  ],
   "altTitle": [
     "Étranger de la plage",
     "Seaside stranger",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:29.000Z",
-  "updatedAt": "2021-08-23T23:08:45.000Z",
+  "updatedAt": "2021-11-14T02:44:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,28 +44,6 @@
         "aniId": 85616,
         "createdAt": "2020-10-12T16:08:28.000Z",
         "updatedAt": "2021-06-04T10:25:20.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "umibe_no_etranger": {
-        "authors": [
-          "KII Kanna"
-        ],
-        "identifier": "umibe_no_etranger",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Umibe no Etranger",
-        "url": "https://fanfox.net/manga/umibe_no_etranger/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/16171/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 77601,
-        "aniId": 85616,
-        "createdAt": "2021-03-06T21:04:10.000Z",
-        "updatedAt": "2021-05-20T15:40:19.000Z",
         "deletedAt": null
       }
     },

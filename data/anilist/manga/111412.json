@@ -91,6 +91,28 @@
         "updatedAt": "2021-11-07T14:20:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "beast_with_flowers": {
+        "authors": [
+          "Solddam"
+        ],
+        "identifier": "beast_with_flowers",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Beast with Flowers",
+        "url": "https://fanfox.net/manga/beast_with_flowers/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31715/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 111412,
+        "createdAt": "2021-11-17T12:14:14.000Z",
+        "updatedAt": "2021-11-17T12:14:14.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -41,28 +41,6 @@
         "deletedAt": null
       }
     },
-    "MangaSee": {
-      "boku-no-futatsu-no-tsubasa": {
-        "authors": [
-          "YUI Toshiki"
-        ],
-        "identifier": "boku-no-futatsu-no-tsubasa",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Boku no Futatsu no Tsubasa",
-        "url": "https://mangasee123.com/manga/Boku-No-Futatsu-No-Tsubasa",
-        "image": "https://cover.nep.li/cover/Boku-No-Futatsu-No-Tsubasa.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 1147,
-        "aniId": 31147,
-        "createdAt": "2021-01-08T11:21:43.000Z",
-        "updatedAt": "2021-05-20T15:37:17.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-wp956224": {
         "authors": [
@@ -82,6 +60,28 @@
         "aniId": 31147,
         "createdAt": "2021-06-04T04:21:22.000Z",
         "updatedAt": "2021-06-04T04:48:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "boku_no_futatsu_no_tsubasa": {
+        "authors": [
+          "YUI Toshiki"
+        ],
+        "identifier": "boku_no_futatsu_no_tsubasa",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Boku no Futatsu no Tsubasa",
+        "url": "https://fanfox.net/manga/boku_no_futatsu_no_tsubasa/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/319/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1147,
+        "aniId": 31147,
+        "createdAt": "2021-11-20T22:14:58.000Z",
+        "updatedAt": "2021-11-20T22:44:04.000Z",
         "deletedAt": null
       }
     }

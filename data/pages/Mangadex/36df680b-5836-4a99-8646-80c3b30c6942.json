@@ -18,7 +18,12 @@
   "updatedAt": "2021-06-05T18:36:00.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Moon_Boy_%28manhwa%29"
+      }
+    ],
     "altTitle": [
       "Moon Boy",
       "月요일 소년"
@@ -34,11 +39,12 @@
     "category": "Manhwa",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2021-05-20T03:01:04.000Z",
+    "updatedAt": "2021-11-20T03:15:05.000Z",
     "deletedAt": null
   },
   "Anilist": {
     "altTitle": [
+      "Moon Boy",
       "月요일 소년"
     ],
     "externalLinks": [],
@@ -48,13 +54,13 @@
     "id": 30876,
     "malId": 876,
     "type": "manga",
-    "title": "Moon Boy",
+    "title": "Wolyoil Sonyeon",
     "url": "https://anilist.co/manga/30876",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/876.jpg",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30876-FsiKFLhpRwfo.png",
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:35:46.000Z",
-    "updatedAt": "2021-06-17T08:54:43.000Z",
+    "updatedAt": "2021-11-18T20:44:03.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/876/Moon_Boy"

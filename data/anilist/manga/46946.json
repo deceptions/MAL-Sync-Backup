@@ -19,7 +19,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-05T10:29:51.000Z",
-  "updatedAt": "2021-07-05T10:29:51.000Z",
+  "updatedAt": "2021-11-17T16:44:23.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "9f4459f8-4775-43fe-a885-81213f00d1b4": {
+        "authors": [
+          "Yamato Waki"
+        ],
+        "identifier": "9f4459f8-4775-43fe-a885-81213f00d1b4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Aiiro Shinwa",
+        "url": "https://mangadex.org/title/9f4459f8-4775-43fe-a885-81213f00d1b4",
+        "image": "https://uploads.mangadex.org/covers/9f4459f8-4775-43fe-a885-81213f00d1b4/401b5bc7-5e0d-4e25-aa91-6362616a96e9.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16946,
+        "aniId": 46946,
+        "createdAt": "2021-11-17T16:44:04.000Z",
+        "updatedAt": "2021-11-17T16:44:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

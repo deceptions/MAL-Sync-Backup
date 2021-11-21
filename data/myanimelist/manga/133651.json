@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://magazine.jp.square-enix.com/gfantasy/story/bokuneko/"
+    }
+  ],
   "altTitle": [
     "I'm the Catlords' Manservant",
     "I Am Their Catships' Catservant",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-05-13T17:55:21.000Z",
-  "updatedAt": "2021-08-28T20:37:05.000Z",
+  "updatedAt": "2021-11-15T12:45:32.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaSee": {
@@ -81,6 +86,28 @@
         "aniId": 112627,
         "createdAt": "2021-08-28T20:37:00.000Z",
         "updatedAt": "2021-08-28T21:06:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hv984630": {
+        "authors": [
+          "Kitaguni Rato"
+        ],
+        "identifier": "manga-hv984630",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Am Their Catships' Catservant",
+        "url": "https://manganato.com/manga-hv984630",
+        "image": "https://avt.mkklcdnv6temp.com/33/k/20-1583502317.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133651,
+        "aniId": 112627,
+        "createdAt": "2021-11-15T12:45:13.000Z",
+        "updatedAt": "2021-11-15T13:13:47.000Z",
         "deletedAt": null
       }
     }

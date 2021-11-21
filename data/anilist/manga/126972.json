@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-26T18:08:19.000Z",
-  "updatedAt": "2021-09-10T20:04:54.000Z",
+  "updatedAt": "2021-11-15T04:14:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -62,6 +62,29 @@
         "aniId": 126972,
         "createdAt": "2021-03-22T20:05:57.000Z",
         "updatedAt": "2021-06-09T15:04:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "angelic_lady": {
+        "authors": [
+          "Susu",
+          "[Add]"
+        ],
+        "identifier": "angelic_lady",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Angelic Lady",
+        "url": "https://fanfox.net/manga/angelic_lady/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36574/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 126972,
+        "createdAt": "2021-11-15T04:14:39.000Z",
+        "updatedAt": "2021-11-15T04:14:39.000Z",
         "deletedAt": null
       }
     }

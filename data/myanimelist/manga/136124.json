@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.comicbunch.com/manga/bunch/kaijujieitai"
+    }
+  ],
   "altTitle": [
     "Task Force for Paranormal Disaster Management",
     "怪獣自衛隊"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-05-29T17:42:13.000Z",
-  "updatedAt": "2021-08-19T05:37:58.000Z",
+  "updatedAt": "2021-11-19T22:14:33.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaSee": {
@@ -60,6 +65,30 @@
         "aniId": 117479,
         "createdAt": "2021-06-11T12:08:32.000Z",
         "updatedAt": "2021-06-12T07:08:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kaijuu_jieitai_task_force_for_paranormal_disaster_management": {
+        "authors": [
+          "INOUE Junya",
+          "Studio Hisekutta",
+          "[Add]"
+        ],
+        "identifier": "kaijuu_jieitai_task_force_for_paranormal_disaster_management",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kaijuu Jieitai: Task Force for Paranormal Disaster Management",
+        "url": "https://fanfox.net/manga/kaijuu_jieitai_task_force_for_paranormal_disaster_management/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35035/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136124,
+        "aniId": 117479,
+        "createdAt": "2021-11-20T05:45:49.000Z",
+        "updatedAt": "2021-11-20T06:14:04.000Z",
         "deletedAt": null
       }
     }

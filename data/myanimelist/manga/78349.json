@@ -21,50 +21,5 @@
   "createdAt": "2021-05-05T12:03:09.000Z",
   "updatedAt": "2021-11-05T12:06:42.000Z",
   "deletedAt": null,
-  "Pages": {
-    "MangaSee": {
-      "domino-kick": {
-        "authors": [
-          "SHITAKAMIKI Ruco"
-        ],
-        "identifier": "domino-kick",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Domino Kick",
-        "url": "https://mangasee123.com/manga/Domino-Kick",
-        "image": "https://cover.nep.li/cover/Domino-Kick.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 78349,
-        "aniId": 85565,
-        "createdAt": "2021-05-05T12:03:01.000Z",
-        "updatedAt": "2021-05-20T15:40:19.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "domino_kick": {
-        "authors": [
-          "SHITAKAMIKI Ruco"
-        ],
-        "identifier": "domino_kick",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Domino Kick",
-        "url": "https://fanfox.net/manga/domino_kick/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/14142/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 78349,
-        "aniId": 85565,
-        "createdAt": "2021-05-06T20:47:32.000Z",
-        "updatedAt": "2021-05-20T15:40:19.000Z",
-        "deletedAt": null
-      }
-    }
-  }
+  "Pages": {}
 }

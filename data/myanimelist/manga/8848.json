@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%B1%E3%83%B3%E3%83%AD%E3%83%83%E3%82%AF"
+    }
+  ],
   "altTitle": [
     "Sun-Ken Rock",
     "Trigun: The Lost Plant",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:21.000Z",
-  "updatedAt": "2021-06-01T01:23:38.000Z",
+  "updatedAt": "2021-11-19T14:14:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,50 +63,6 @@
         "aniId": 38848,
         "createdAt": "2020-10-12T16:08:34.000Z",
         "updatedAt": "2021-06-04T11:07:48.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "sun_ken_rock": {
-        "authors": [
-          "Boichi"
-        ],
-        "identifier": "sun_ken_rock",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Sun-ken Rock",
-        "url": "https://fanfox.net/manga/sun_ken_rock/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/6611/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 8848,
-        "aniId": 38848,
-        "createdAt": "2020-12-21T10:26:17.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "sunken-rock": {
-        "authors": [
-          "Boichi"
-        ],
-        "identifier": "sunken-rock",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Sun-ken Rock",
-        "url": "https://mangasee123.com/manga/Sunken-Rock",
-        "image": "https://cover.nep.li/cover/Sunken-Rock.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 8848,
-        "aniId": 38848,
-        "createdAt": "2021-01-21T09:34:01.000Z",
-        "updatedAt": "2021-05-20T15:38:31.000Z",
         "deletedAt": null
       }
     },

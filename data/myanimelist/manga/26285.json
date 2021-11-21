@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/DCD"
+    }
+  ],
   "altTitle": [
     "Diamond Cut Diamond",
     "DCD"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:25.000Z",
-  "updatedAt": "2021-07-08T20:14:49.000Z",
+  "updatedAt": "2021-11-15T10:44:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,28 +45,6 @@
         "deletedAt": null
       }
     },
-    "MangaFox": {
-      "diamond_cut_diamond": {
-        "authors": [
-          "TAGUCHI Kenji"
-        ],
-        "identifier": "diamond_cut_diamond",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "DCD",
-        "url": "https://fanfox.net/manga/diamond_cut_diamond/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/9856/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 26285,
-        "aniId": 56285,
-        "createdAt": "2021-02-26T20:26:08.000Z",
-        "updatedAt": "2021-05-20T15:40:04.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaSee": {
       "d-c-d": {
         "authors": [
@@ -81,6 +64,28 @@
         "aniId": 56285,
         "createdAt": "2021-07-08T20:14:46.000Z",
         "updatedAt": "2021-07-08T20:43:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kj954966": {
+        "authors": [
+          "Taguchi Kenji"
+        ],
+        "identifier": "manga-kj954966",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dcd",
+        "url": "https://manganato.com/manga-kj954966",
+        "image": "https://avt.mkklcdnv6temp.com/24/a/3-1583468620.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26285,
+        "aniId": 56285,
+        "createdAt": "2021-11-15T10:43:57.000Z",
+        "updatedAt": "2021-11-15T11:13:47.000Z",
         "deletedAt": null
       }
     }

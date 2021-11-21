@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://yotuba.com/yotu_comics.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%88%E3%81%A4%E3%81%B0%E3%81%A8!"
+    }
+  ],
   "altTitle": [
     "Yotsuba&!",
     "Yotsuba and!",
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:18.000Z",
-  "updatedAt": "2021-08-11T16:10:11.000Z",
+  "updatedAt": "2021-11-19T23:45:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,70 +47,6 @@
         "aniId": 30104,
         "createdAt": "2020-10-12T16:02:31.000Z",
         "updatedAt": "2021-06-02T07:28:16.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "yotsubato": {
-        "authors": [
-          "AZUMA Kiyohiko"
-        ],
-        "identifier": "yotsubato",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Yotsubato!",
-        "url": "https://mangasee123.com/manga/Yotsubato",
-        "image": "https://cover.nep.li/cover/Yotsubato.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 104,
-        "aniId": 30104,
-        "createdAt": "2021-01-02T23:20:41.000Z",
-        "updatedAt": "2021-05-20T15:29:23.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "yotsuba": {
-        "authors": [
-          "AZUMA Kiyohiko"
-        ],
-        "identifier": "yotsuba",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Yotsubato!",
-        "url": "https://fanfox.net/manga/yotsuba/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/741/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 104,
-        "aniId": 30104,
-        "createdAt": "2021-03-01T00:14:31.000Z",
-        "updatedAt": "2021-05-20T15:39:23.000Z",
-        "deletedAt": null
-      },
-      "yotsubato": {
-        "authors": [
-          "AZUMA Kiyohiko"
-        ],
-        "identifier": "yotsubato",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Yotsubato!",
-        "url": "https://fanfox.net/manga/yotsubato/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/741/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 104,
-        "aniId": 30104,
-        "createdAt": "2021-03-01T00:14:32.000Z",
-        "updatedAt": "2021-05-20T15:39:23.000Z",
         "deletedAt": null
       }
     },

@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "I'm an Otaku but I Want to Fall in Love with a Gal",
     "Otaku datte Gyaru to Koi Shitai",
@@ -18,7 +18,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-07-31T07:22:02.000Z",
-  "updatedAt": "2021-07-31T07:22:02.000Z",
+  "updatedAt": "2021-11-17T10:58:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,11 +35,33 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
+        "actor": null,
         "malId": 139094,
         "aniId": 131963,
         "createdAt": "2020-10-12T16:19:53.000Z",
-        "updatedAt": "2021-07-31T15:21:49.000Z",
+        "updatedAt": "2021-11-17T11:18:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jq986973": {
+        "authors": [
+          "Sasakisaki9646"
+        ],
+        "identifier": "manga-jq986973",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Story Of An Otaku And A Gyaru Falling In Love",
+        "url": "https://readmanganato.com/manga-jq986973",
+        "image": "https://avt.mkklcdnv6temp.com/28/n/22-1603038342.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 139094,
+        "aniId": 131963,
+        "createdAt": "2021-06-03T20:19:08.000Z",
+        "updatedAt": "2021-11-17T11:14:03.000Z",
         "deletedAt": null
       }
     }

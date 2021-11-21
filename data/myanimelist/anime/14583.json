@@ -28,7 +28,7 @@
   "hentai": false,
   "anidbId": 8583,
   "createdAt": "2020-10-12T15:39:14.000Z",
-  "updatedAt": "2021-10-02T14:32:25.000Z",
+  "updatedAt": "2021-11-20T16:14:26.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -66,6 +66,25 @@
         "aniId": 14583,
         "createdAt": "2020-11-01T20:22:52.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "rinne-no-lagrange-specials": {
+        "identifier": "rinne-no-lagrange-specials",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Rinne no Lagrange Specials",
+        "url": "https://gogoanime.cm/category/rinne-no-lagrange-specials",
+        "image": "https://gogocdn.net/images/anime/R/rinne-no-agrange-specials.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14583,
+        "aniId": 14583,
+        "createdAt": "2021-11-20T16:14:15.000Z",
+        "updatedAt": "2021-11-20T16:44:04.000Z",
         "deletedAt": null
       }
     }

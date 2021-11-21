@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%BE%8D%E7%9C%BC_-%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%A2%E3%82%A4-"
+    }
+  ],
   "altTitle": [
     "Dragon Eye",
     "Ryuugan",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:20.000Z",
-  "updatedAt": "2021-05-20T21:44:09.000Z",
+  "updatedAt": "2021-11-20T22:14:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,28 +43,6 @@
         "aniId": 30343,
         "createdAt": "2020-10-12T16:04:01.000Z",
         "updatedAt": "2021-06-02T18:08:03.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "dragon_eye": {
-        "authors": [
-          "FUJIYAMA Kairi"
-        ],
-        "identifier": "dragon_eye",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Dragon Eye",
-        "url": "https://fanfox.net/manga/dragon_eye/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/6449/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 343,
-        "aniId": 30343,
-        "createdAt": "2021-05-20T21:44:10.000Z",
-        "updatedAt": "2021-05-20T22:12:57.000Z",
         "deletedAt": null
       }
     }

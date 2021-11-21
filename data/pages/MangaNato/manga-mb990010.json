@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 141626,
   "createdAt": "2021-11-11T15:45:20.000Z",
-  "updatedAt": "2021-11-11T15:45:21.000Z",
+  "updatedAt": "2021-11-17T11:00:58.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "김부장",
+      "Manager Kim"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Toy",
+      "Jong-Taek Jeong"
+    ],
+    "id": 141626,
+    "malId": null,
+    "type": "manga",
+    "title": "Kim Bujang",
+    "url": "https://anilist.co/manga/141626",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141626-2AQM2uUYS8wC.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-14T16:43:46.000Z",
+    "updatedAt": "2021-11-15T11:13:47.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -12,13 +12,64 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 139761,
+  "aniId": 131041,
   "createdAt": "2020-10-12T18:04:32.000Z",
-  "updatedAt": "2021-06-08T05:22:57.000Z",
+  "updatedAt": "2021-11-17T15:48:24.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.comic-earthstar.jp/detail/parry/"
+      }
+    ],
+    "altTitle": [
+      "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+      "I Will Parry Everything to Become the Greatest Adventurer!",
+      "I Will \"Parry\" All: The World's Strongest Man Dreams of an Adventure",
+      "俺は全てを【パリイ】する～逆勘違いの世界最強は冒険者の夢をみる～"
+    ],
+    "authors": [
+      "Nabeshiki",
+      "KRSG"
+    ],
+    "id": 139761,
+    "type": "manga",
+    "title": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha no Yume wo Miru",
+    "url": "https://myanimelist.net/manga/139761/Ore_wa_Subete_wo_Parry_suru__Gyaku_Kanchigai_no_Sekai_Saikyou_wa_Boukensha_no_Yume_wo_Miru",
+    "image": "https://cdn.myanimelist.net/images/manga/3/249442.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-10-15T08:28:46.000Z",
+    "updatedAt": "2021-11-17T11:18:20.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "俺は全てを【パリイ】する ~逆勘違いの世界最強は冒険者の夢をみる~ ",
+      "I Will Parry Everything to Become the Greatest Adventurer!",
+      "I Will \"Parry\" All: The World's Strongest Man Wanna Be an Adventurer",
+      "パリイ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "KRSG",
+      "Nabeshiki",
+      "Kawaguchi"
+    ],
+    "id": 131041,
+    "malId": 139761,
+    "type": "manga",
+    "title": "Ore wa Subete wo \"Parry\" Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha no Yume wo Miru",
+    "url": "https://anilist.co/manga/131041",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131041-I06OpqQxE95F.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-01T03:50:06.000Z",
+    "updatedAt": "2021-11-17T11:44:03.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/139761/Ore_wa_Subete_wo_Parry_suru__Gyaku_Kanchigai_no_Sekai_Saikyou_wa_Boukensha_no_Yume_wo_Miru"
 }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88_%28%E6%BC%AB%E7%94%BB%29"
+    }
+  ],
   "altTitle": [
     "Fruits Basket",
     "FuruBa",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:18.000Z",
-  "updatedAt": "2021-05-29T13:42:54.000Z",
+  "updatedAt": "2021-11-19T23:44:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,50 +63,6 @@
         "aniId": 30102,
         "createdAt": "2021-02-07T14:20:14.000Z",
         "updatedAt": "2021-06-08T11:01:52.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "fruits-basket": {
-        "authors": [
-          "TAKAYA Natsuki"
-        ],
-        "identifier": "fruits-basket",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Fruits Basket",
-        "url": "https://mangasee123.com/manga/Fruits-Basket",
-        "image": "https://cover.nep.li/cover/Fruits-Basket.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 102,
-        "aniId": 30102,
-        "createdAt": "2020-12-21T20:56:35.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "fruits_basket": {
-        "authors": [
-          "TAKAYA Natsuki"
-        ],
-        "identifier": "fruits_basket",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Fruits Basket",
-        "url": "https://fanfox.net/manga/fruits_basket/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/10/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 102,
-        "aniId": 30102,
-        "createdAt": "2021-02-10T13:41:02.000Z",
-        "updatedAt": "2021-05-20T15:39:23.000Z",
         "deletedAt": null
       }
     },

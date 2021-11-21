@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%8A%AC%E7%A5%9E%E5%A7%AB%E3%81%AE%E5%BE%92"
+    }
+  ],
   "altTitle": [
     "犬神姫の徒"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:58.000Z",
-  "updatedAt": "2021-05-18T14:32:47.000Z",
+  "updatedAt": "2021-11-18T14:44:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,50 +41,6 @@
         "aniId": 65309,
         "createdAt": "2020-10-12T16:04:26.000Z",
         "updatedAt": "2021-06-02T21:03:02.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "inugamihime_no_shimobe": {
-        "authors": [
-          "MIZUSAWA Michiru"
-        ],
-        "identifier": "inugamihime_no_shimobe",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Inugamihime no Shimobe",
-        "url": "https://fanfox.net/manga/inugamihime_no_shimobe/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/10462/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 35309,
-        "aniId": 65309,
-        "createdAt": "2021-04-04T12:09:02.000Z",
-        "updatedAt": "2021-05-20T15:40:04.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "inugamihime-no-shimobe": {
-        "authors": [
-          "MIZUSAWA Michiru"
-        ],
-        "identifier": "inugamihime-no-shimobe",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Inugamihime no Shimobe",
-        "url": "https://mangasee123.com/manga/Inugamihime-No-Shimobe",
-        "image": "https://cover.nep.li/cover/Inugamihime-No-Shimobe.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 35309,
-        "aniId": 65309,
-        "createdAt": "2021-05-18T14:32:48.000Z",
-        "updatedAt": "2021-05-20T15:40:04.000Z",
         "deletedAt": null
       }
     }

@@ -45,73 +45,6 @@
         "deletedAt": null
       }
     },
-    "MangaSee": {
-      "tenohira-kaitakumura-de-isekai-kenkouki": {
-        "authors": [
-          "Aruya",
-          "HOSHIZAKI Kon",
-          "Yatsutaganakuto"
-        ],
-        "identifier": "tenohira-kaitakumura-de-isekai-kenkouki",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Tenohira Kaitakumura de Isekai Kenkouki",
-        "url": "https://mangasee123.com/manga/Tenohira-Kaitakumura-de-Isekai-Kenkouki",
-        "image": "https://cover.nep.li/cover/Tenohira-Kaitakumura-de-Isekai-Kenkouki.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 117271,
-        "aniId": 111423,
-        "createdAt": "2021-01-06T15:07:13.000Z",
-        "updatedAt": "2021-05-20T15:33:41.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "tenohira_kaitaku_mura_de_isekai_kenkokuki_fueteku_yome_tachi_to_nonbiri_mujintou_life": {
-        "authors": [
-          "Hoshizaki Kon"
-        ],
-        "identifier": "tenohira_kaitaku_mura_de_isekai_kenkokuki_fueteku_yome_tachi_to_nonbiri_mujintou_life",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Tenohira Kaitaku Mura de Isekai Kenkokuki: Fueteku Yome-tachi to Nonbiri Mujintou Life",
-        "url": "https://fanfox.net/manga/tenohira_kaitaku_mura_de_isekai_kenkokuki_fueteku_yome_tachi_to_nonbiri_mujintou_life/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/30840/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 117271,
-        "aniId": 111423,
-        "createdAt": "2021-02-09T04:40:33.000Z",
-        "updatedAt": "2021-05-20T15:40:31.000Z",
-        "deletedAt": null
-      },
-      "tenohira_kaitakumura_de_isekai_kenkouki_fueteku_yome_tachi_to_nonbiri_mujintou_raifu": {
-        "authors": [
-          "HOSHIZAKI Kon",
-          "Yatsutaganakuto"
-        ],
-        "identifier": "tenohira_kaitakumura_de_isekai_kenkouki_fueteku_yome_tachi_to_nonbiri_mujintou_raifu",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Tenohira Kaitakumura de Isekai Kenkouki ~Fueteku Yome-tachi to Nonbiri Mujintou Raifu~",
-        "url": "https://fanfox.net/manga/tenohira_kaitakumura_de_isekai_kenkouki_fueteku_yome_tachi_to_nonbiri_mujintou_raifu/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/34579/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 117271,
-        "aniId": 111423,
-        "createdAt": "2021-08-20T21:16:07.000Z",
-        "updatedAt": "2021-08-20T21:46:06.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-ew982205": {
         "authors": [
@@ -131,6 +64,29 @@
         "aniId": 111423,
         "createdAt": "2021-05-28T22:24:04.000Z",
         "updatedAt": "2021-05-28T22:53:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tenohira_kaitakumura_de_isekai_kenkouki_fueteku_yome_tachi_to_nonbiri_mujintou_raifu": {
+        "authors": [
+          "HOSHIZAKI Kon",
+          "Yatsutaganakuto"
+        ],
+        "identifier": "tenohira_kaitakumura_de_isekai_kenkouki_fueteku_yome_tachi_to_nonbiri_mujintou_raifu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tenohira Kaitakumura de Isekai Kenkouki ~Fueteku Yome-tachi to Nonbiri Mujintou Raifu~",
+        "url": "https://fanfox.net/manga/tenohira_kaitakumura_de_isekai_kenkouki_fueteku_yome_tachi_to_nonbiri_mujintou_raifu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34579/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117271,
+        "aniId": 111423,
+        "createdAt": "2021-08-20T21:16:07.000Z",
+        "updatedAt": "2021-08-20T21:46:06.000Z",
         "deletedAt": null
       }
     }

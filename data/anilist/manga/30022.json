@@ -1,7 +1,8 @@
 {
   "altTitle": [
-    "Rurouni Kenshin: Meiji Swordsman Romantic Story",
+    "Rurouni Kenshin",
     "るろうに剣心 -明治剣客浪漫譚-",
+    "Rurouni Kenshin: Meiji Swordsman Romantic Story",
     "Samurai X",
     "Sengoku no Mikazuki",
     "Crescent Moon in the Warring States",
@@ -36,7 +37,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:35:21.000Z",
-  "updatedAt": "2021-09-14T22:20:14.000Z",
+  "updatedAt": "2021-11-14T18:43:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -102,48 +103,6 @@
         "deletedAt": null
       }
     },
-    "MangaSee": {
-      "rurouni-kenshin": {
-        "authors": [
-          "WATSUKI Nobuhiro"
-        ],
-        "identifier": "rurouni-kenshin",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Rurouni Kenshin",
-        "url": "https://mangasee123.com/manga/Rurouni-Kenshin",
-        "image": "https://cover.nep.li/cover/Rurouni-Kenshin.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 22,
-        "aniId": 30022,
-        "createdAt": "2021-02-02T11:02:15.000Z",
-        "updatedAt": "2021-05-20T15:39:23.000Z",
-        "deletedAt": null
-      },
-      "rurouni-kenshin-color": {
-        "authors": [
-          "WATSUKI Nobuhiro"
-        ],
-        "identifier": "rurouni-kenshin-color",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Rurouni Kenshin - Color",
-        "url": "https://mangasee123.com/manga/Rurouni-Kenshin-Color",
-        "image": "https://cover.nep.li/cover/Rurouni-Kenshin-Color.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 22,
-        "aniId": 30022,
-        "createdAt": "2021-06-29T17:50:11.000Z",
-        "updatedAt": "2021-06-30T07:50:01.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-kx962306": {
         "authors": [
@@ -163,6 +122,28 @@
         "aniId": 30022,
         "createdAt": "2021-06-01T08:53:05.000Z",
         "updatedAt": "2021-06-02T06:30:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "rurouni-kenshin-color": {
+        "authors": [
+          "WATSUKI Nobuhiro"
+        ],
+        "identifier": "rurouni-kenshin-color",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Rurouni Kenshin - Color",
+        "url": "https://mangasee123.com/manga/Rurouni-Kenshin-Color",
+        "image": "https://cover.nep.li/cover/Rurouni-Kenshin-Color.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 22,
+        "aniId": 30022,
+        "createdAt": "2021-06-29T17:50:11.000Z",
+        "updatedAt": "2021-06-30T07:50:01.000Z",
         "deletedAt": null
       }
     }

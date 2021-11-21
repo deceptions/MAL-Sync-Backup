@@ -23,5 +23,29 @@
   "createdAt": "2021-10-10T15:32:23.000Z",
   "updatedAt": "2021-11-12T06:44:06.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "004e6dbe-b8cf-4f95-8ab2-e5f112ead297": {
+        "authors": [
+          "Toshiki",
+          "Yamakawa Machi"
+        ],
+        "identifier": "004e6dbe-b8cf-4f95-8ab2-e5f112ead297",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Die by my love",
+        "url": "https://mangadex.org/title/004e6dbe-b8cf-4f95-8ab2-e5f112ead297",
+        "image": "https://uploads.mangadex.org/covers/004e6dbe-b8cf-4f95-8ab2-e5f112ead297/d1c6824c-c92e-48a3-9c9f-171b32be0b44.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135488,
+        "aniId": 138633,
+        "createdAt": "2021-11-17T11:18:50.000Z",
+        "updatedAt": "2021-11-17T11:44:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

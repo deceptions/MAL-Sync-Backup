@@ -11,13 +11,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 132161,
+  "aniId": 127143,
   "createdAt": "2021-08-12T16:08:21.000Z",
-  "updatedAt": "2021-08-12T16:08:24.000Z",
+  "updatedAt": "2021-11-15T19:57:01.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Somehow, I Started Living With a NEET Otaku Kunoichi",
+      "NEET de Otaku na Kunoichi to Naze ka Dousei Hajimemashita",
+      "ニートくノ一となぜか同棲はじめました"
+    ],
+    "authors": [
+      "Kotatsu"
+    ],
+    "id": 132161,
+    "type": "manga",
+    "title": "NEET Kunoichi to Naze ka Dousei Hajimemashita",
+    "url": "https://myanimelist.net/manga/132161/NEET_Kunoichi_to_Naze_ka_Dousei_Hajimemashita",
+    "image": "https://cdn.myanimelist.net/images/manga/1/249746.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-09-10T11:04:40.000Z",
+    "updatedAt": "2021-11-15T16:57:33.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ニートでオタクなくノ一となぜか同棲はじめました",
+      "Somehow, I Started Living With a NEET Otaku Kunoichi",
+      "Somehow, I Started Living With a NEET Otaku Kunoichi"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kotatsu",
+      "Mato Yagito"
+    ],
+    "id": 127143,
+    "malId": 132161,
+    "type": "manga",
+    "title": "NEET de Otaku na Kunoichi to Naze ka Dousei Hajimemashita",
+    "url": "https://anilist.co/manga/127143",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127143-lYZEWBlC2poE.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-07T00:18:58.000Z",
+    "updatedAt": "2021-09-10T19:34:34.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/132161/NEET_Kunoichi_to_Naze_ka_Dousei_Hajimemashita"
 }

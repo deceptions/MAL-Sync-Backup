@@ -76,70 +76,6 @@
         "deletedAt": null
       }
     },
-    "MangaSee": {
-      "battle-tendency": {
-        "authors": [
-          "ARAKI Hirohiko"
-        ],
-        "identifier": "battle-tendency",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
-        "url": "https://mangasee123.com/manga/Battle-Tendency",
-        "image": "https://cover.nep.li/cover/Battle-Tendency.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 1630,
-        "aniId": 31630,
-        "createdAt": "2020-12-23T11:56:04.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "jojo_s_bizarre_adventure": {
-        "authors": [
-          "ARAKI Hirohiko"
-        ],
-        "identifier": "jojo_s_bizarre_adventure",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Jojo no Kimyou na Bouken",
-        "url": "https://fanfox.net/manga/jojo_s_bizarre_adventure/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/91/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 1630,
-        "aniId": 31630,
-        "createdAt": "2021-02-22T12:04:34.000Z",
-        "updatedAt": "2021-05-20T15:39:23.000Z",
-        "deletedAt": null
-      },
-      "battle_tendency": {
-        "authors": [
-          "ARAKI Hirohiko"
-        ],
-        "identifier": "battle_tendency",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Battle Tendency",
-        "url": "https://fanfox.net/manga/battle_tendency/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/10897/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 2,
-        "malId": 1630,
-        "aniId": 31630,
-        "createdAt": "2021-06-17T12:31:23.000Z",
-        "updatedAt": "2021-06-17T15:27:45.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-lb988736": {
         "authors": [
@@ -159,6 +95,28 @@
         "aniId": 31630,
         "createdAt": "2021-06-11T01:09:38.000Z",
         "updatedAt": "2021-06-11T01:38:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "battle_tendency": {
+        "authors": [
+          "ARAKI Hirohiko"
+        ],
+        "identifier": "battle_tendency",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Battle Tendency",
+        "url": "https://fanfox.net/manga/battle_tendency/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10897/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 1630,
+        "aniId": 31630,
+        "createdAt": "2021-06-17T12:31:23.000Z",
+        "updatedAt": "2021-06-17T15:27:45.000Z",
         "deletedAt": null
       }
     }

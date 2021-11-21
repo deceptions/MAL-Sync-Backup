@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/仮面ティーチャー"
+    }
+  ],
   "altTitle": [
-    "Masked Teacher, Kamen Teacher vs Police",
+    "Masked Teacher",
+    "Kamen Teacher vs Police",
     "仮面ティーチャーBLACK"
   ],
   "authors": [
@@ -15,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-03-04T07:20:27.000Z",
-  "updatedAt": "2021-06-04T04:21:22.000Z",
+  "updatedAt": "2021-11-16T20:58:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +63,28 @@
         "aniId": 93354,
         "createdAt": "2021-03-04T07:20:27.000Z",
         "updatedAt": "2021-06-08T12:08:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lm963095": {
+        "authors": [
+          "Fujisawa Tohru"
+        ],
+        "identifier": "manga-lm963095",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kamen Teacher Vs Police",
+        "url": "https://manganato.com/manga-lm963095",
+        "image": "https://avt.mkklcdnv6temp.com/38/r/8-1583479650.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83083,
+        "aniId": 93354,
+        "createdAt": "2021-11-16T20:58:13.000Z",
+        "updatedAt": "2021-11-16T21:27:01.000Z",
         "deletedAt": null
       }
     }

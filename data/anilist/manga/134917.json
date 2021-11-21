@@ -17,5 +17,28 @@
   "createdAt": "2021-05-31T13:52:55.000Z",
   "updatedAt": "2021-06-18T13:01:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "5ae836aa-95fa-4f18-8b02-b5f6c261be5c": {
+        "authors": [
+          "Yaneura Cisco"
+        ],
+        "identifier": "5ae836aa-95fa-4f18-8b02-b5f6c261be5c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honki daseba omae koroseru",
+        "url": "https://mangadex.org/title/5ae836aa-95fa-4f18-8b02-b5f6c261be5c",
+        "image": "https://uploads.mangadex.org/covers/5ae836aa-95fa-4f18-8b02-b5f6c261be5c/1ae843a8-4850-4a05-834f-bfb849a8244d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126848,
+        "aniId": 134917,
+        "createdAt": "2021-11-17T19:44:54.000Z",
+        "updatedAt": "2021-11-17T20:14:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

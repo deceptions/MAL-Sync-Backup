@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 141800,
   "createdAt": "2021-08-09T08:09:24.000Z",
-  "updatedAt": "2021-09-15T07:50:33.000Z",
+  "updatedAt": "2021-11-18T21:11:46.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "史上第一祖师爷"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Bayue Feiying",
+      "Dongliu Yun"
+    ],
+    "id": 141800,
+    "malId": null,
+    "type": "manga",
+    "title": "Shi Shang Diyi Zushiye",
+    "url": "https://anilist.co/manga/141800",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b141800-Rg2NJp7v9PgV.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-18T20:44:34.000Z",
+    "updatedAt": "2021-11-18T20:44:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

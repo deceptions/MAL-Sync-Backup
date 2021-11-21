@@ -12,13 +12,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 141685,
   "createdAt": "2021-10-06T14:33:20.000Z",
-  "updatedAt": "2021-10-06T14:33:39.000Z",
+  "updatedAt": "2021-11-17T11:00:49.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "捕获宠物娘的正确方法"
+    ],
+    "externalLinks": [],
+    "authors": [],
+    "id": 141685,
+    "malId": null,
+    "type": "manga",
+    "title": "Buhuo Chongwuniang de Zhengque Fangfa",
+    "url": "https://anilist.co/manga/141685",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141685-AtWYCqd1hFcb.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-15T21:27:32.000Z",
+    "updatedAt": "2021-11-15T21:27:32.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

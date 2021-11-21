@@ -44,71 +44,6 @@
         "deletedAt": null
       }
     },
-    "MangaSee": {
-      "maou-sama-no-machizukuri": {
-        "authors": [
-          "TSUKIYO Rui",
-          "YOSHIKAWA Hideaki"
-        ],
-        "identifier": "maou-sama-no-machizukuri",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Maou-sama no Machizukuri",
-        "url": "https://mangasee123.com/manga/Maou-sama-No-Machizukuri",
-        "image": "https://cover.nep.li/cover/Maou-sama-No-Machizukuri.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 113292,
-        "aniId": 102732,
-        "createdAt": "2021-01-06T15:06:02.000Z",
-        "updatedAt": "2021-05-20T15:33:41.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "maou_sama_no_machizukuri_saikyou_no_danjon_wa_kindai_toshi": {
-        "authors": [
-          "TSUKIYO Rui"
-        ],
-        "identifier": "maou_sama_no_machizukuri_saikyou_no_danjon_wa_kindai_toshi",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Maou-sama no Machizukuri! ~Saikyou no Danjon wa Kindai Toshi~",
-        "url": "https://fanfox.net/manga/maou_sama_no_machizukuri_saikyou_no_danjon_wa_kindai_toshi/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/27340/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 113292,
-        "aniId": 102732,
-        "createdAt": "2021-03-26T07:49:28.000Z",
-        "updatedAt": "2021-05-20T15:40:31.000Z",
-        "deletedAt": null
-      },
-      "maou_sama_no_machizukuri_saikyou_no_danjon_wa_kindai_toshi_novel": {
-        "authors": [
-          "TSUKIYO Rui"
-        ],
-        "identifier": "maou_sama_no_machizukuri_saikyou_no_danjon_wa_kindai_toshi_novel",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Maou-sama no Machizukuri! ~Saikyou no Danjon wa Kindai Toshi~ (Novel)",
-        "url": "https://fanfox.net/manga/maou_sama_no_machizukuri_saikyou_no_danjon_wa_kindai_toshi_novel/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/35131/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 113292,
-        "aniId": 102732,
-        "createdAt": "2021-06-29T09:54:59.000Z",
-        "updatedAt": "2021-06-29T10:19:24.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-bb979136": {
         "authors": [
@@ -128,6 +63,28 @@
         "aniId": 102732,
         "createdAt": "2021-05-28T23:24:45.000Z",
         "updatedAt": "2021-05-28T23:42:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "maou_sama_no_machizukuri_saikyou_no_danjon_wa_kindai_toshi_novel": {
+        "authors": [
+          "TSUKIYO Rui"
+        ],
+        "identifier": "maou_sama_no_machizukuri_saikyou_no_danjon_wa_kindai_toshi_novel",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Maou-sama no Machizukuri! ~Saikyou no Danjon wa Kindai Toshi~ (Novel)",
+        "url": "https://fanfox.net/manga/maou_sama_no_machizukuri_saikyou_no_danjon_wa_kindai_toshi_novel/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35131/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113292,
+        "aniId": 102732,
+        "createdAt": "2021-06-29T09:54:59.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
     }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%B5%E3%83%B3_(%E6%BC%AB%E7%94%BB)"
+    }
+  ],
   "altTitle": [
     "リヴァイアサン"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:41.000Z",
-  "updatedAt": "2021-05-29T09:42:14.000Z",
+  "updatedAt": "2021-11-19T21:45:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,29 +43,6 @@
         "aniId": 32154,
         "createdAt": "2020-10-12T16:03:35.000Z",
         "updatedAt": "2021-06-02T15:08:42.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "leviathan": {
-        "authors": [
-          "KINUTANI Yuu",
-          "OTSUKA Eiji"
-        ],
-        "identifier": "leviathan",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Leviathan",
-        "url": "https://mangasee123.com/manga/Leviathan",
-        "image": "https://cover.nep.li/cover/Leviathan.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 2154,
-        "aniId": 32154,
-        "createdAt": "2021-01-18T14:33:23.000Z",
-        "updatedAt": "2021-05-20T15:38:31.000Z",
         "deletedAt": null
       }
     },

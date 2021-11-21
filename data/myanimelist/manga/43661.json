@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://jumpsq.shueisha.co.jp/rensai/owarinoseraph/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%AE%E3%82%BB%E3%83%A9%E3%83%95"
+    }
+  ],
   "altTitle": [
     "Seraph of the End: Vampire Reign",
     "終わりのセラフ"
@@ -17,7 +26,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:17.000Z",
-  "updatedAt": "2021-05-29T10:13:07.000Z",
+  "updatedAt": "2021-11-19T21:46:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,71 +50,6 @@
         "aniId": 73661,
         "createdAt": "2020-10-12T16:05:42.000Z",
         "updatedAt": "2021-06-03T14:27:08.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "owari-no-seraph": {
-        "authors": [
-          "KAGAMI Takaya",
-          "YAMAMOTO Yamato"
-        ],
-        "identifier": "owari-no-seraph",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Owari no Seraph",
-        "url": "https://mangasee123.com/manga/Owari-No-Seraph",
-        "image": "https://cover.nep.li/cover/Owari-No-Seraph.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 43661,
-        "aniId": 73661,
-        "createdAt": "2020-12-14T20:48:51.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "owari_no_seraph": {
-        "authors": [
-          "KAGAMI Takaya"
-        ],
-        "identifier": "owari_no_seraph",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Owari no Seraph",
-        "url": "https://fanfox.net/manga/owari_no_seraph/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/11483/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 43661,
-        "aniId": 73661,
-        "createdAt": "2020-12-20T14:56:24.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      },
-      "owari_no_serafu": {
-        "authors": [
-          "KAGAMI Takaya"
-        ],
-        "identifier": "owari_no_serafu",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Owari no Seraph",
-        "url": "https://fanfox.net/manga/owari_no_serafu/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/11483/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 43661,
-        "aniId": 73661,
-        "createdAt": "2021-03-31T23:01:53.000Z",
-        "updatedAt": "2021-05-20T15:40:19.000Z",
         "deletedAt": null
       }
     },

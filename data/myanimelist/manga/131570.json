@@ -1,6 +1,12 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://web-ace.jp/shonenace/contents/460/"
+    }
+  ],
   "altTitle": [
+    "If You Could See Love",
     "もし、恋が見えたなら"
   ],
   "authors": [
@@ -15,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-03-04T14:21:54.000Z",
-  "updatedAt": "2021-05-28T21:56:33.000Z",
+  "updatedAt": "2021-11-15T17:59:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +66,29 @@
         "aniId": 120968,
         "createdAt": "2021-06-01T18:01:29.000Z",
         "updatedAt": "2021-06-01T18:31:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "if-you-could-see-love": {
+        "authors": [
+          "MIKAMI Teren",
+          "NANAJI Yuuki"
+        ],
+        "identifier": "if-you-could-see-love",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "If You Could See Love",
+        "url": "https://mangasee123.com/manga/If-You-Could-See-Love",
+        "image": "https://cover.nep.li/cover/If-You-Could-See-Love.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131570,
+        "aniId": 120968,
+        "createdAt": "2021-11-15T17:59:53.000Z",
+        "updatedAt": "2021-11-15T18:27:01.000Z",
         "deletedAt": null
       }
     }

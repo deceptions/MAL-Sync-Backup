@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://asuka-web.jp/work/shitsuji.html"
+    }
+  ],
   "altTitle": [
     "うちの執事が言うことには"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-05T00:51:09.000Z",
-  "updatedAt": "2021-06-05T00:51:09.000Z",
+  "updatedAt": "2021-11-14T12:44:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,28 @@
         "aniId": 98313,
         "createdAt": "2020-10-12T16:10:24.000Z",
         "updatedAt": "2021-06-05T08:52:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xr974774": {
+        "authors": [
+          "Takasato Shiina"
+        ],
+        "identifier": "manga-xr974774",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Uchi No Shitsuji Ga Iu Koto Ni Wa",
+        "url": "https://manganato.com/manga-xr974774",
+        "image": "https://avt.mkklcdnv6temp.com/49/c/14-1583491444.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103813,
+        "aniId": 98313,
+        "createdAt": "2021-11-14T12:43:50.000Z",
+        "updatedAt": "2021-11-14T13:13:39.000Z",
         "deletedAt": null
       }
     }

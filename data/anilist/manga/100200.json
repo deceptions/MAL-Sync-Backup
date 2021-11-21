@@ -15,7 +15,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-21T09:12:57.000Z",
-  "updatedAt": "2021-08-31T10:37:07.000Z",
+  "updatedAt": "2021-11-14T18:43:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ad977660": {
+        "authors": [
+          "Herb Mandu"
+        ],
+        "identifier": "manga-ad977660",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dasadanan",
+        "url": "https://manganato.com/manga-ad977660",
+        "image": "https://avt.mkklcdnv6temp.com/47/g/15-1583493366.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 100200,
+        "createdAt": "2021-11-14T18:43:46.000Z",
+        "updatedAt": "2021-11-14T18:43:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

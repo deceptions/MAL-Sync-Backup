@@ -1,7 +1,16 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8BDMZ"
+    }
+  ],
   "altTitle": [
-    "Konbini DMZ, Conbini, Convenience Store DMZ, Demilitarized Zone, Roulettes!",
+    "Konbini DMZ",
+    "Conbini",
+    "Convenience Store DMZ",
+    "Demilitarized Zone",
+    "Roulettes!",
     "コンビニDMZ"
   ],
   "authors": [
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:07.000Z",
-  "updatedAt": "2021-05-14T04:55:01.000Z",
+  "updatedAt": "2021-11-14T05:14:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +46,50 @@
         "aniId": 95577,
         "createdAt": "2020-10-12T16:08:45.000Z",
         "updatedAt": "2021-06-04T12:30:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-uj953366": {
+        "authors": [
+          "Sao Satoru"
+        ],
+        "identifier": "manga-uj953366",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Konbini Dmz",
+        "url": "https://manganato.com/manga-uj953366",
+        "image": "https://avt.mkklcdnv6temp.com/20/u/2-1583466516.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91470,
+        "aniId": 95577,
+        "createdAt": "2021-11-16T07:57:01.000Z",
+        "updatedAt": "2021-11-16T08:27:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "konbini-d-m-z": {
+        "authors": [
+          "SAO Satoru"
+        ],
+        "identifier": "konbini-d-m-z",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Konbini DMZ",
+        "url": "https://mangasee123.com/manga/Konbini-D-M-Z",
+        "image": "https://cover.nep.li/cover/Konbini-D-M-Z.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91470,
+        "aniId": 95577,
+        "createdAt": "2021-11-16T07:57:40.000Z",
+        "updatedAt": "2021-11-16T08:27:01.000Z",
         "deletedAt": null
       }
     }

@@ -46,28 +46,6 @@
         "deletedAt": null
       }
     },
-    "MangaFox": {
-      "hidamari_sketch": {
-        "authors": [
-          "AOKI Ume"
-        ],
-        "identifier": "hidamari_sketch",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Hidamari Sketch",
-        "url": "https://fanfox.net/manga/hidamari_sketch/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/3680/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 1362,
-        "aniId": 31362,
-        "createdAt": "2021-03-10T07:40:54.000Z",
-        "updatedAt": "2021-05-20T15:39:23.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-ha952209": {
         "authors": [
@@ -87,6 +65,28 @@
         "aniId": 31362,
         "createdAt": "2021-06-01T15:35:00.000Z",
         "updatedAt": "2021-06-01T16:01:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "sunshine-sketch": {
+        "authors": [
+          "AOKI Ume"
+        ],
+        "identifier": "sunshine-sketch",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sunshine Sketch",
+        "url": "https://mangasee123.com/manga/Sunshine-Sketch",
+        "image": "https://cover.nep.li/cover/Sunshine-Sketch.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1362,
+        "aniId": 31362,
+        "createdAt": "2021-11-16T00:57:19.000Z",
+        "updatedAt": "2021-11-16T01:27:01.000Z",
         "deletedAt": null
       }
     }

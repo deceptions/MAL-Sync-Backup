@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-21T14:40:44.000Z",
-  "updatedAt": "2021-09-21T14:40:44.000Z",
+  "updatedAt": "2021-11-14T21:44:40.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mp989998": {
+        "authors": [
+          "Bongsoo"
+        ],
+        "identifier": "manga-mp989998",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Aftermath",
+        "url": "https://manganato.com/manga-mp989998",
+        "image": "https://avt.mkklcdnv6temp.com/5/k/25-1636606940.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 139497,
+        "createdAt": "2021-11-14T21:44:40.000Z",
+        "updatedAt": "2021-11-14T21:44:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

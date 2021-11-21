@@ -22,5 +22,30 @@
   "createdAt": "2021-10-04T16:00:52.000Z",
   "updatedAt": "2021-10-18T05:58:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "perfect-marriage-revenge": {
+        "authors": [
+          "Jeribol",
+          "LEE Bumbae",
+          "Yeong"
+        ],
+        "identifier": "perfect-marriage-revenge",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Perfect Marriage Revenge",
+        "url": "https://mangasee123.com/manga/Perfect-Marriage-Revenge",
+        "image": "https://cover.nep.li/cover/Perfect-Marriage-Revenge.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 139660,
+        "createdAt": "2021-11-16T20:59:32.000Z",
+        "updatedAt": "2021-11-16T20:59:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

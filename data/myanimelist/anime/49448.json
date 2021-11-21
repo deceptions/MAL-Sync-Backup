@@ -1,6 +1,10 @@
 {
   "externalLinks": [
     {
+      "site": "animedb",
+      "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16583"
+    },
+    {
       "site": "wikipedia",
       "url": "https://baike.baidu.com/item/%E9%80%86%E5%A4%A9%E8%87%B3%E5%B0%8A/56028403"
     }
@@ -17,9 +21,9 @@
   "image": "https://cdn.myanimelist.net/images/anime/1557/117031.jpg",
   "category": "ONA",
   "hentai": false,
-  "anidbId": null,
+  "anidbId": 16583,
   "createdAt": "2021-08-14T08:07:01.000Z",
-  "updatedAt": "2021-10-04T12:31:03.000Z",
+  "updatedAt": "2021-11-14T13:45:20.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -33,11 +37,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 49448,
         "aniId": 136862,
         "createdAt": "2021-07-17T02:33:17.000Z",
-        "updatedAt": "2021-10-15T08:58:44.000Z",
+        "updatedAt": "2021-11-15T21:27:31.000Z",
         "deletedAt": null
       }
     }

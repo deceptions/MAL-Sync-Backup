@@ -67,49 +67,6 @@
         "deletedAt": null
       }
     },
-    "MangaFox": {
-      "ichiokunen_button_wo_renda_shita_ore_wa_kizuitara_saikyou_ni_natte_ita_rakudai_kenshi_no_gakuin_muso": {
-        "authors": [
-          "TSUKISHIMA Shuuichi",
-          "[Add]"
-        ],
-        "identifier": "ichiokunen_button_wo_renda_shita_ore_wa_kizuitara_saikyou_ni_natte_ita_rakudai_kenshi_no_gakuin_muso",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Ichiokunen Button wo Renda shita Ore wa, Kizuitara Saikyou ni natte ita: Rakudai Kenshi no Gakuin Musou",
-        "url": "https://fanfox.net/manga/ichiokunen_button_wo_renda_shita_ore_wa_kizuitara_saikyou_ni_natte_ita_rakudai_kenshi_no_gakuin_muso/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/33930/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 126971,
-        "aniId": 118725,
-        "createdAt": "2021-05-04T07:02:19.000Z",
-        "updatedAt": "2021-05-20T15:40:50.000Z",
-        "deletedAt": null
-      },
-      "ichiokunen_button_wo_renda_shita_ore_wa": {
-        "authors": [
-          "TSUKISHIMA Shuuichi"
-        ],
-        "identifier": "ichiokunen_button_wo_renda_shita_ore_wa",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Ichiokunen Button wo Renda shita Ore wa",
-        "url": "https://fanfox.net/manga/ichiokunen_button_wo_renda_shita_ore_wa/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/33930/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 126971,
-        "aniId": 118725,
-        "createdAt": "2021-08-13T11:07:06.000Z",
-        "updatedAt": "2021-08-16T08:07:00.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-hs985353": {
         "authors": [
@@ -129,6 +86,28 @@
         "aniId": 118725,
         "createdAt": "2021-05-29T11:44:04.000Z",
         "updatedAt": "2021-05-29T12:12:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ichiokunen_button_wo_renda_shita_ore_wa": {
+        "authors": [
+          "TSUKISHIMA Shuuichi"
+        ],
+        "identifier": "ichiokunen_button_wo_renda_shita_ore_wa",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ichiokunen Button wo Renda shita Ore wa",
+        "url": "https://fanfox.net/manga/ichiokunen_button_wo_renda_shita_ore_wa/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33930/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 126971,
+        "aniId": 118725,
+        "createdAt": "2021-08-13T11:07:06.000Z",
+        "updatedAt": "2021-08-16T08:07:00.000Z",
         "deletedAt": null
       }
     }

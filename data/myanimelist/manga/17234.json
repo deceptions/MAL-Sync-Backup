@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%9D%92%E6%98%A5%E6%94%BB%E7%95%A5%E6%9C%AC"
+    }
+  ],
   "altTitle": [
     "Seishun Kouryaku Hon",
     "Fuyu Hodoki",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:26.000Z",
-  "updatedAt": "2021-07-26T09:52:27.000Z",
+  "updatedAt": "2021-11-20T18:44:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,28 @@
         "aniId": 47234,
         "createdAt": "2020-10-12T16:03:25.000Z",
         "updatedAt": "2021-06-02T13:51:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "seishun-kouryakuhon": {
+        "authors": [
+          "AKIZUKI Sorata"
+        ],
+        "identifier": "seishun-kouryakuhon",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Seishun Kouryakuhon",
+        "url": "https://mangasee123.com/manga/Seishun-Kouryakuhon",
+        "image": "https://cover.nep.li/cover/Seishun-Kouryakuhon.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17234,
+        "aniId": 47234,
+        "createdAt": "2021-11-20T18:44:46.000Z",
+        "updatedAt": "2021-11-20T19:14:04.000Z",
         "deletedAt": null
       }
     }

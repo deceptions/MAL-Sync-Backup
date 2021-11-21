@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://manga-park.com/title/13595"
+    }
+  ],
   "altTitle": [
     "Love and Heart",
     "恋と心臓"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-12-01T01:22:36.000Z",
-  "updatedAt": "2021-05-14T02:25:35.000Z",
+  "updatedAt": "2021-11-14T02:44:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,28 +42,6 @@
         "aniId": 121741,
         "createdAt": "2020-12-01T01:22:40.000Z",
         "updatedAt": "2021-06-08T08:03:32.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "love-and-heart": {
-        "authors": [
-          "KAIDOU Chitose"
-        ],
-        "identifier": "love-and-heart",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Love and Heart",
-        "url": "https://mangasee123.com/manga/Love-and-Heart",
-        "image": "https://cover.nep.li/cover/Love-and-Heart.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 117203,
-        "aniId": 121741,
-        "createdAt": "2021-05-14T02:25:35.000Z",
-        "updatedAt": "2021-05-20T15:40:50.000Z",
         "deletedAt": null
       }
     }

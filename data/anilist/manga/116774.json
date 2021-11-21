@@ -21,5 +21,29 @@
   "createdAt": "2021-05-21T06:12:57.000Z",
   "updatedAt": "2021-11-07T07:18:06.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "6cae350a-b3b7-4802-9448-850a591aa815": {
+        "authors": [
+          "﻿Choe Namsae",
+          "Shuroop"
+        ],
+        "identifier": "6cae350a-b3b7-4802-9448-850a591aa815",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sexercise",
+        "url": "https://mangadex.org/title/6cae350a-b3b7-4802-9448-850a591aa815",
+        "image": "https://uploads.mangadex.org/covers/6cae350a-b3b7-4802-9448-850a591aa815/c63e7e18-065b-41da-9e97-04b3a097a6ae.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 116774,
+        "createdAt": "2020-10-12T16:17:47.000Z",
+        "updatedAt": "2021-11-17T15:48:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.square-enix.com/jp/magazine/joker/series/akame/index.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%A1%E3%81%8C%E6%96%AC%E3%82%8B!"
+    }
+  ],
   "altTitle": [
     "Akame ga Kill!",
     "Akame ga Kiru!",
@@ -17,7 +26,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:16.000Z",
-  "updatedAt": "2021-05-22T17:43:21.000Z",
+  "updatedAt": "2021-11-14T09:15:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,71 +49,6 @@
         "aniId": 55132,
         "createdAt": "2020-10-12T16:02:29.000Z",
         "updatedAt": "2021-06-02T07:07:26.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "akame-ga-kiru": {
-        "authors": [
-          "Takahiro",
-          "TASHIRO Tetsuya"
-        ],
-        "identifier": "akame-ga-kiru",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Akame ga Kiru!",
-        "url": "https://mangasee123.com/manga/Akame-Ga-Kiru",
-        "image": "https://cover.nep.li/cover/Akame-Ga-Kiru.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 25132,
-        "aniId": 55132,
-        "createdAt": "2020-12-17T15:56:33.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "akame_ga_kill": {
-        "authors": [
-          "Takahiro (タカヒロ)"
-        ],
-        "identifier": "akame_ga_kill",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Akame ga Kill!",
-        "url": "https://fanfox.net/manga/akame_ga_kill/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/10416/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 25132,
-        "aniId": 55132,
-        "createdAt": "2021-02-10T16:10:48.000Z",
-        "updatedAt": "2021-05-20T15:40:04.000Z",
-        "deletedAt": null
-      },
-      "akame_ga_kiru": {
-        "authors": [
-          "Takahiro (タカヒロ)"
-        ],
-        "identifier": "akame_ga_kiru",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Akame ga Kiru!",
-        "url": "https://fanfox.net/manga/akame_ga_kiru/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/31869/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 25132,
-        "aniId": 55132,
-        "createdAt": "2021-03-05T07:50:48.000Z",
-        "updatedAt": "2021-05-20T15:40:04.000Z",
         "deletedAt": null
       }
     },

@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:22.000Z",
-  "updatedAt": "2021-10-02T23:31:12.000Z",
+  "updatedAt": "2021-11-17T20:45:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -66,6 +66,28 @@
         "aniId": 30475,
         "createdAt": "2021-10-02T23:30:56.000Z",
         "updatedAt": "2021-10-03T00:00:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dg980463": {
+        "authors": [
+          "Miwa Ueda"
+        ],
+        "identifier": "manga-dg980463",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Peach Girl",
+        "url": "https://readmanganato.com/manga-dg980463",
+        "image": "https://avt.mkklcdnv6temp.com/29/p/17-1583496323.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 475,
+        "aniId": 30475,
+        "createdAt": "2021-11-17T20:45:05.000Z",
+        "updatedAt": "2021-11-17T21:14:03.000Z",
         "deletedAt": null
       }
     }

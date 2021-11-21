@@ -94,70 +94,6 @@
         "deletedAt": null
       }
     },
-    "MangaSee": {
-      "go-toubun-no-hanayome": {
-        "authors": [
-          "HARUBA Negi"
-        ],
-        "identifier": "go-toubun-no-hanayome",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Go-Toubun no Hanayome",
-        "url": "https://mangasee123.com/manga/Go-toubun-No-Hanayome",
-        "image": "https://cover.nep.li/cover/Go-toubun-No-Hanayome.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 103851,
-        "aniId": 100230,
-        "createdAt": "2020-12-18T15:26:32.000Z",
-        "updatedAt": "2021-05-20T15:25:53.000Z",
-        "deletedAt": null
-      },
-      "the-quintessential-quintuplets-color": {
-        "authors": [
-          "HARUBA Negi"
-        ],
-        "identifier": "the-quintessential-quintuplets-color",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "The Quintessential Quintuplets - Color",
-        "url": "https://mangasee123.com/manga/The-Quintessential-Quintuplets-Color",
-        "image": "https://cover.nep.li/cover/The-Quintessential-Quintuplets-Color.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 103851,
-        "aniId": 100230,
-        "createdAt": "2021-06-29T09:19:27.000Z",
-        "updatedAt": "2021-06-29T10:19:24.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "go_toubun_no_hanayome": {
-        "authors": [
-          "HARUBA Negi"
-        ],
-        "identifier": "go_toubun_no_hanayome",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Go-Toubun no Hanayome",
-        "url": "https://fanfox.net/manga/go_toubun_no_hanayome/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/23949/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 103851,
-        "aniId": 100230,
-        "createdAt": "2021-01-05T04:56:50.000Z",
-        "updatedAt": "2021-05-20T15:33:41.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-xj974944": {
         "authors": [
@@ -177,6 +113,28 @@
         "aniId": 100230,
         "createdAt": "2021-05-29T15:42:12.000Z",
         "updatedAt": "2021-05-29T16:12:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-quintessential-quintuplets-color": {
+        "authors": [
+          "HARUBA Negi"
+        ],
+        "identifier": "the-quintessential-quintuplets-color",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Quintessential Quintuplets - Color",
+        "url": "https://mangasee123.com/manga/The-Quintessential-Quintuplets-Color",
+        "image": "https://cover.nep.li/cover/The-Quintessential-Quintuplets-Color.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103851,
+        "aniId": 100230,
+        "createdAt": "2021-06-29T09:19:27.000Z",
+        "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
     }

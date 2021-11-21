@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://comicbunch.com/comicinfo/gangsta/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/GANGSTA."
+    }
+  ],
   "altTitle": [
     "Gangsta.",
     "GANGSTA."
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:15.000Z",
-  "updatedAt": "2021-07-18T14:32:42.000Z",
+  "updatedAt": "2021-11-16T13:27:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,25 +49,25 @@
         "deletedAt": null
       }
     },
-    "MangaFox": {
+    "MangaSee": {
       "gangsta": {
         "authors": [
-          "Kohske"
+          "Kosuke"
         ],
         "identifier": "gangsta",
         "type": "manga",
-        "page": "MangaFox",
+        "page": "MangaSee",
         "title": "Gangsta.",
-        "url": "https://fanfox.net/manga/gangsta/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/8942/cover.jpg",
+        "url": "https://mangasee123.com/manga/Gangsta",
+        "image": "https://cover.nep.li/cover/Gangsta.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
+        "actor": 1,
         "malId": 24903,
         "aniId": 54903,
-        "createdAt": "2021-02-01T14:02:24.000Z",
-        "updatedAt": "2021-05-20T15:40:04.000Z",
+        "createdAt": "2020-12-17T14:26:49.000Z",
+        "updatedAt": "2021-11-21T00:44:04.000Z",
         "deletedAt": null
       }
     }

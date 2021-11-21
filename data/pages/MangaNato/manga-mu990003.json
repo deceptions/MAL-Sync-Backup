@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 141816,
   "createdAt": "2021-11-11T11:13:45.000Z",
-  "updatedAt": "2021-11-11T11:13:56.000Z",
+  "updatedAt": "2021-11-21T00:27:05.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "祖师爷下山",
+      "Ancestral Visit"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tianxia Yin",
+      "Chunri Wenhua",
+      "Ke Ke Peng Peng"
+    ],
+    "id": 141816,
+    "malId": null,
+    "type": "manga",
+    "title": "Zushiye Xiashan",
+    "url": "https://anilist.co/manga/141816",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141816-IDT2pmIf583V.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-19T05:44:03.000Z",
+    "updatedAt": "2021-11-20T00:14:13.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

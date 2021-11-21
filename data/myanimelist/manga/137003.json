@@ -19,7 +19,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-10-12T20:29:15.000Z",
-  "updatedAt": "2021-10-12T20:29:15.000Z",
+  "updatedAt": "2021-11-17T05:28:42.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "16943d50-e2be-4f05-aac4-4b387599515b": {
+        "authors": [
+          "Ukami"
+        ],
+        "identifier": "16943d50-e2be-4f05-aac4-4b387599515b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dual na Kanojo no Taoshikata",
+        "url": "https://mangadex.org/title/16943d50-e2be-4f05-aac4-4b387599515b",
+        "image": "https://uploads.mangadex.org/covers/16943d50-e2be-4f05-aac4-4b387599515b/f720e079-1229-4e31-ae36-622cddfe0919.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 137003,
+        "aniId": 133381,
+        "createdAt": "2021-11-18T02:14:18.000Z",
+        "updatedAt": "2021-11-18T02:44:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

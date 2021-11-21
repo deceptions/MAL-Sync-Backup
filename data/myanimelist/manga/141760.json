@@ -17,5 +17,28 @@
   "createdAt": "2021-11-11T11:46:05.000Z",
   "updatedAt": "2021-11-11T11:46:05.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "1c01dcad-8e60-4fdd-8dd4-ddc5c200ba36": {
+        "authors": [
+          "Matono Anji"
+        ],
+        "identifier": "1c01dcad-8e60-4fdd-8dd4-ddc5c200ba36",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hundred Ghost Stories of My Own Death",
+        "url": "https://mangadex.org/title/1c01dcad-8e60-4fdd-8dd4-ddc5c200ba36",
+        "image": "https://uploads.mangadex.org/covers/1c01dcad-8e60-4fdd-8dd4-ddc5c200ba36/4f5009b1-2f0e-45d1-9739-00991925cf32.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141760,
+        "aniId": 138347,
+        "createdAt": "2021-11-17T11:19:03.000Z",
+        "updatedAt": "2021-11-17T11:19:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

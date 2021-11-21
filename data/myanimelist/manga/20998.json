@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:54.000Z",
-  "updatedAt": "2021-10-14T22:29:08.000Z",
+  "updatedAt": "2021-11-15T19:27:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 50998,
         "createdAt": "2021-10-14T22:29:06.000Z",
         "updatedAt": "2021-10-14T22:58:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "bakekano": {
+        "authors": [
+          "INOUE Yukihiro"
+        ],
+        "identifier": "bakekano",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bakekano",
+        "url": "https://fanfox.net/manga/bakekano/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8048/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20998,
+        "aniId": 50998,
+        "createdAt": "2021-11-15T19:27:11.000Z",
+        "updatedAt": "2021-11-15T19:57:01.000Z",
         "deletedAt": null
       }
     }

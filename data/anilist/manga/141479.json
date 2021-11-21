@@ -20,5 +20,30 @@
   "createdAt": "2021-11-14T00:13:40.000Z",
   "updatedAt": "2021-11-14T00:13:40.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ma989757": {
+        "authors": [
+          "Jo Huang",
+          "Studio Ignis",
+          "Teacher Jo"
+        ],
+        "identifier": "manga-ma989757",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Return Of The Legendary Spear Knight",
+        "url": "https://manganato.com/manga-ma989757",
+        "image": "https://avt.mkklcdnv6temp.com/45/g/24-1633684555.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 141479,
+        "createdAt": "2021-10-08T09:33:11.000Z",
+        "updatedAt": "2021-11-15T08:37:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%83%E3%81%99%E3%82%8B!%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB"
+    }
+  ],
   "altTitle": [
     "The Fighting of Idol Wrestler",
     "Ressuru! Aidoru",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:11.000Z",
-  "updatedAt": "2021-06-07T21:23:05.000Z",
+  "updatedAt": "2021-11-19T08:14:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +45,28 @@
         "aniId": 36837,
         "createdAt": "2020-10-12T16:18:57.000Z",
         "updatedAt": "2021-06-07T21:50:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "wrestle_idol": {
+        "authors": [
+          "Buredo"
+        ],
+        "identifier": "wrestle_idol",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Wrestle! Idol",
+        "url": "https://fanfox.net/manga/wrestle_idol/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3977/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6837,
+        "aniId": 36837,
+        "createdAt": "2021-11-19T08:14:04.000Z",
+        "updatedAt": "2021-11-19T08:44:03.000Z",
         "deletedAt": null
       }
     }

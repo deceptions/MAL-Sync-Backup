@@ -70,6 +70,28 @@
         "updatedAt": "2021-10-11T16:37:53.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "magia_record": {
+        "authors": [
+          "Magica Quartet"
+        ],
+        "identifier": "magia_record",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Magia Record",
+        "url": "https://fanfox.net/manga/magia_record/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28685/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 115774,
+        "aniId": 104273,
+        "createdAt": "2021-11-18T17:44:35.000Z",
+        "updatedAt": "2021-11-18T20:44:03.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

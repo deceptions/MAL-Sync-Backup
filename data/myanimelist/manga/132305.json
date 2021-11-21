@@ -1,6 +1,12 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://manga-park.com/title/30301"
+    }
+  ],
   "altTitle": [
+    "Your Tears are Mine",
     "I Want to Drain Your Tears",
     "君の涙を飲み干したい"
   ],
@@ -15,9 +21,31 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-09-05T08:45:57.000Z",
-  "updatedAt": "2021-09-05T08:45:57.000Z",
+  "updatedAt": "2021-11-17T11:19:11.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "8c6bb0ef-6fa9-472b-8bb0-807fc10f28bc": {
+        "authors": [
+          "Hirose Ayumu"
+        ],
+        "identifier": "8c6bb0ef-6fa9-472b-8bb0-807fc10f28bc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Want to Drain Your Tears",
+        "url": "https://mangadex.org/title/8c6bb0ef-6fa9-472b-8bb0-807fc10f28bc",
+        "image": "https://uploads.mangadex.org/covers/8c6bb0ef-6fa9-472b-8bb0-807fc10f28bc/4884fc3c-5509-48c6-b2fa-97abaf8f0ec8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 132305,
+        "aniId": 122360,
+        "createdAt": "2020-10-12T16:20:55.000Z",
+        "updatedAt": "2021-11-17T16:14:03.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaFox": {
       "kimi_no_namida_o_nomihoshitai": {
         "authors": [

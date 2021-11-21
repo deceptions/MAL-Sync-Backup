@@ -43,6 +43,28 @@
         "updatedAt": "2021-06-02T13:53:43.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kill_me_baby": {
+        "authors": [
+          "Kazuho"
+        ],
+        "identifier": "kill_me_baby",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kill Me Baby",
+        "url": "https://fanfox.net/manga/kill_me_baby/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7399/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18472,
+        "aniId": 48472,
+        "createdAt": "2021-11-19T07:14:14.000Z",
+        "updatedAt": "2021-11-19T07:44:03.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -11,13 +11,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 139438,
+  "aniId": 127845,
   "createdAt": "2020-12-20T10:56:12.000Z",
-  "updatedAt": "2021-06-08T08:59:14.000Z",
+  "updatedAt": "2021-11-21T00:44:04.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-zenon.com/episode/13933686331689929643"
+      }
+    ],
+    "altTitle": [
+      "Tokyo Duel",
+      "東京決闘環状戦"
+    ],
+    "authors": [
+      "Yamada, Toshiyaki"
+    ],
+    "id": 139438,
+    "type": "manga",
+    "title": "Tokyo Kettou Kanjousen",
+    "url": "https://myanimelist.net/manga/139438/Tokyo_Kettou_Kanjousen",
+    "image": "https://cdn.myanimelist.net/images/manga/2/249101.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-10-16T17:29:00.000Z",
+    "updatedAt": "2021-11-20T16:45:06.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "東京決闘環状戦",
+      "Tokyo Duel"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Toshiaki Yamada"
+    ],
+    "id": 127845,
+    "malId": 139438,
+    "type": "manga",
+    "title": "Toukyou Kettou Kanjou-sen",
+    "url": "https://anilist.co/manga/127845",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127845-kqR2BNnyBPFH.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-29T06:19:24.000Z",
+    "updatedAt": "2021-10-25T13:31:04.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/139438/Tokyo_Kettou_Kanjousen"
 }

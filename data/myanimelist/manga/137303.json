@@ -19,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-10-10T14:33:14.000Z",
-  "updatedAt": "2021-10-10T14:33:14.000Z",
+  "updatedAt": "2021-11-17T02:57:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,28 @@
         "aniId": 132288,
         "createdAt": "2021-10-12T15:59:08.000Z",
         "updatedAt": "2021-10-12T16:28:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hirayasumi": {
+        "authors": [
+          "SHINZOU Keigo"
+        ],
+        "identifier": "hirayasumi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hirayasumi",
+        "url": "https://mangasee123.com/manga/Hirayasumi",
+        "image": "https://cover.nep.li/cover/Hirayasumi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 137303,
+        "aniId": 132288,
+        "createdAt": "2021-11-17T02:57:19.000Z",
+        "updatedAt": "2021-11-17T03:27:01.000Z",
         "deletedAt": null
       }
     }

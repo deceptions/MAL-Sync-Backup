@@ -22,5 +22,28 @@
   "createdAt": "2021-10-30T21:04:49.000Z",
   "updatedAt": "2021-10-30T21:04:49.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "947cdce5-182e-4ff3-9484-218c638e88ac": {
+        "authors": [
+          "Yasuda Tsuyoshi"
+        ],
+        "identifier": "947cdce5-182e-4ff3-9484-218c638e88ac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ao no Miburo",
+        "url": "https://mangadex.org/title/947cdce5-182e-4ff3-9484-218c638e88ac",
+        "image": "https://uploads.mangadex.org/covers/947cdce5-182e-4ff3-9484-218c638e88ac/f627207a-6a33-48b6-b52e-eda6a89fbae1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141087,
+        "aniId": 138883,
+        "createdAt": "2021-11-17T11:15:30.000Z",
+        "updatedAt": "2021-11-17T11:15:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

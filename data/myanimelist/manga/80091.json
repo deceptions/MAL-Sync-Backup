@@ -42,91 +42,6 @@
         "deletedAt": null
       }
     },
-    "MangaFox": {
-      "yahari_ore_no_seishun_rabukome_wa_machigatte_iru_mougenroku": {
-        "authors": [
-          "WATARI Wataru"
-        ],
-        "identifier": "yahari_ore_no_seishun_rabukome_wa_machigatte_iru_mougenroku",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Yahari Ore no Seishun Rabukome wa Machigatte Iru. - Mougenroku",
-        "url": "https://fanfox.net/manga/yahari_ore_no_seishun_rabukome_wa_machigatte_iru_mougenroku/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/12562/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 80091,
-        "aniId": 92954,
-        "createdAt": "2021-01-20T14:32:54.000Z",
-        "updatedAt": "2021-05-20T15:38:31.000Z",
-        "deletedAt": null
-      },
-      "yahari_ore_no_seishun_love_come_wa_machigatteiru": {
-        "authors": [
-          "WATARI Wataru"
-        ],
-        "identifier": "yahari_ore_no_seishun_love_come_wa_machigatteiru",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Yahari Ore no Seishun Rabukome wa Machigatte Iru. - Mougenroku",
-        "url": "https://fanfox.net/manga/yahari_ore_no_seishun_love_come_wa_machigatteiru/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/12562/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 80091,
-        "aniId": 92954,
-        "createdAt": "2021-03-01T09:15:13.000Z",
-        "updatedAt": "2021-05-20T15:40:31.000Z",
-        "deletedAt": null
-      },
-      "yahari_ore_no_seishun_rabukome_wa_machigatte_iru_comic": {
-        "authors": [
-          "WATARI Wataru"
-        ],
-        "identifier": "yahari_ore_no_seishun_rabukome_wa_machigatte_iru_comic",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Yahari Ore no Seishun Rabukome wa Machigatte Iru. @ Comic",
-        "url": "https://fanfox.net/manga/yahari_ore_no_seishun_rabukome_wa_machigatte_iru_comic/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/14699/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 80091,
-        "aniId": 92954,
-        "createdAt": "2021-06-29T13:51:13.000Z",
-        "updatedAt": "2021-06-29T14:20:01.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "yahari-ore-no-seishun-rabukome-wa-machigatte-iru-comic": {
-        "authors": [
-          "IO Naomichi",
-          "WATARI Wataru"
-        ],
-        "identifier": "yahari-ore-no-seishun-rabukome-wa-machigatte-iru-comic",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Yahari Ore no Seishun Rabukome wa Machigatte Iru. @ Comic",
-        "url": "https://mangasee123.com/manga/Yahari-Ore-no-Seishun-Rabukome-wa-Machigatte-Iru-Comic",
-        "image": "https://cover.nep.li/cover/Yahari-Ore-no-Seishun-Rabukome-wa-Machigatte-Iru-Comic.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 80091,
-        "aniId": 92954,
-        "createdAt": "2021-01-20T19:03:46.000Z",
-        "updatedAt": "2021-05-20T15:38:31.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaNato": {
       "manga-cs959427": {
         "authors": [
@@ -146,6 +61,28 @@
         "aniId": 92954,
         "createdAt": "2021-06-17T09:27:45.000Z",
         "updatedAt": "2021-06-17T09:57:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yahari_ore_no_seishun_rabukome_wa_machigatte_iru_comic": {
+        "authors": [
+          "WATARI Wataru"
+        ],
+        "identifier": "yahari_ore_no_seishun_rabukome_wa_machigatte_iru_comic",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yahari Ore no Seishun Rabukome wa Machigatte Iru. @ Comic",
+        "url": "https://fanfox.net/manga/yahari_ore_no_seishun_rabukome_wa_machigatte_iru_comic/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14699/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80091,
+        "aniId": 92954,
+        "createdAt": "2021-06-29T13:51:13.000Z",
+        "updatedAt": "2021-06-29T14:20:01.000Z",
         "deletedAt": null
       }
     }

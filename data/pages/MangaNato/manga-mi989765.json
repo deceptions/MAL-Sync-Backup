@@ -11,13 +11,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 136856,
+  "aniId": 130837,
   "createdAt": "2021-10-09T16:32:20.000Z",
-  "updatedAt": "2021-10-09T16:32:20.000Z",
+  "updatedAt": "2021-11-15T08:43:45.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://web-ace.jp/shonenace/contents/534/"
+      }
+    ],
+    "altTitle": [
+      "Days with My Step Sister",
+      "義妹生活"
+    ],
+    "authors": [
+      "Mikawa, Ghost",
+      "Kanade, Yumika"
+    ],
+    "id": 136856,
+    "type": "manga",
+    "title": "Gimai Seikatsu",
+    "url": "https://myanimelist.net/manga/136856/Gimai_Seikatsu",
+    "image": "https://cdn.myanimelist.net/images/manga/1/250943.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-10-16T09:29:08.000Z",
+    "updatedAt": "2021-10-16T09:29:08.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "義妹生活",
+      "Days with my Step Sister"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hiten",
+      "Ghost Mikawa",
+      "Yumika Kanade"
+    ],
+    "id": 130837,
+    "malId": 136856,
+    "type": "manga",
+    "title": "Gimai Seikatsu",
+    "url": "https://anilist.co/manga/130837",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130837-sk5JDcue9B2W.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-03T05:30:51.000Z",
+    "updatedAt": "2021-10-12T13:14:34.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/136856/Gimai_Seikatsu"
 }

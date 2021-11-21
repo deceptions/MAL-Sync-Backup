@@ -11,13 +11,38 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 137304,
   "createdAt": "2021-07-27T13:21:35.000Z",
-  "updatedAt": "2021-11-11T15:13:38.000Z",
+  "updatedAt": "2021-11-18T20:16:46.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "광마회귀",
+      "Return of the Mad Demon",
+      "The Return of the Crazy Demon"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "JP",
+      "Hi Lee",
+      "Jin-Seong Yu",
+      "Ra-Gi Yun",
+      "Ra-Gi Yun"
+    ],
+    "id": 137304,
+    "malId": null,
+    "type": "manga",
+    "title": "Gwangmahoegwi",
+    "url": "https://anilist.co/manga/137304",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137304-BGeSKgGow18v.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-02T03:47:39.000Z",
+    "updatedAt": "2021-10-27T08:02:32.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }
