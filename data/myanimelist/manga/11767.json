@@ -41,6 +41,70 @@
         "deletedAt": null
       }
     },
+    "MangaFox": {
+      "suki_tte_ii_na_yo": {
+        "authors": [
+          "HAZUKI Kanae"
+        ],
+        "identifier": "suki_tte_ii_na_yo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Suki tte Ii na yo.",
+        "url": "https://fanfox.net/manga/suki_tte_ii_na_yo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5152/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11767,
+        "aniId": 41767,
+        "createdAt": "2021-01-22T15:04:16.000Z",
+        "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      },
+      "sukitte_ii_na_yo": {
+        "authors": [
+          "HAZUKI Kanae"
+        ],
+        "identifier": "sukitte_ii_na_yo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Suki tte Ii na yo.",
+        "url": "https://fanfox.net/manga/sukitte_ii_na_yo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5152/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11767,
+        "aniId": 41767,
+        "createdAt": "2021-06-24T01:44:53.000Z",
+        "updatedAt": "2021-06-24T02:14:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "sukitte-ii-na-yo": {
+        "authors": [
+          "HAZUKI Kanae"
+        ],
+        "identifier": "sukitte-ii-na-yo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sukitte Ii na yo",
+        "url": "https://mangasee123.com/manga/Sukitte-Ii-Na-Yo",
+        "image": "https://cover.nep.li/cover/Sukitte-Ii-Na-Yo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11767,
+        "aniId": 41767,
+        "createdAt": "2021-02-06T11:50:02.000Z",
+        "updatedAt": "2021-11-20T18:14:58.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-al953968": {
         "authors": [
@@ -80,28 +144,6 @@
         "aniId": 41767,
         "createdAt": "2021-05-31T09:42:34.000Z",
         "updatedAt": "2021-05-31T10:00:42.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "sukitte_ii_na_yo": {
-        "authors": [
-          "HAZUKI Kanae"
-        ],
-        "identifier": "sukitte_ii_na_yo",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Suki tte Ii na yo.",
-        "url": "https://fanfox.net/manga/sukitte_ii_na_yo/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/5152/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 11767,
-        "aniId": 41767,
-        "createdAt": "2021-06-24T01:44:53.000Z",
-        "updatedAt": "2021-06-24T02:14:53.000Z",
         "deletedAt": null
       }
     }

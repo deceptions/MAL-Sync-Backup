@@ -19,5 +19,28 @@
   "createdAt": "2021-05-20T14:35:33.000Z",
   "updatedAt": "2021-06-17T08:26:15.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "modotte_mamotte_lollipop": {
+        "authors": [
+          "KIKUTA Michiyo"
+        ],
+        "identifier": "modotte_mamotte_lollipop",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Modotte! Mamotte! Lollipop!",
+        "url": "https://fanfox.net/manga/modotte_mamotte_lollipop/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/849/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 417,
+        "aniId": 30417,
+        "createdAt": "2021-04-22T06:29:22.000Z",
+        "updatedAt": "2021-11-20T21:48:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

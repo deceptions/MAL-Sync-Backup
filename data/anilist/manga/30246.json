@@ -43,6 +43,28 @@
         "updatedAt": "2021-06-02T13:43:13.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "princess_princess": {
+        "authors": [
+          "TSUDA Mikiyo"
+        ],
+        "identifier": "princess_princess",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Princess Princess",
+        "url": "https://fanfox.net/manga/princess_princess/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/392/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 246,
+        "aniId": 30246,
+        "createdAt": "2021-05-20T23:15:18.000Z",
+        "updatedAt": "2021-11-20T23:49:30.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

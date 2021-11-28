@@ -43,6 +43,71 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "ningen-shikkaku": {
+        "authors": [
+          "DAZAI Osamu",
+          "FURUYA Usamaru"
+        ],
+        "identifier": "ningen-shikkaku",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "No Longer Human",
+        "url": "https://mangasee123.com/manga/Ningen-Shikkaku",
+        "image": "https://cover.nep.li/cover/Ningen-Shikkaku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 13290,
+        "aniId": 43290,
+        "createdAt": "2021-01-12T09:51:32.000Z",
+        "updatedAt": "2021-11-20T17:15:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ningen_shikkaku_itou_junji": {
+        "authors": [
+          "DAZAI Osamu"
+        ],
+        "identifier": "ningen_shikkaku_itou_junji",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ningen Shikkaku (ITOU Junji)",
+        "url": "https://fanfox.net/manga/ningen_shikkaku_itou_junji/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29391/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13290,
+        "aniId": 43290,
+        "createdAt": "2021-02-10T16:10:57.000Z",
+        "updatedAt": "2021-11-20T18:44:25.000Z",
+        "deletedAt": null
+      },
+      "ningen_shikkaku_dazai_osamu": {
+        "authors": [
+          "DAZAI Osamu"
+        ],
+        "identifier": "ningen_shikkaku_dazai_osamu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ningen Shikkaku (DAZAI Osamu)",
+        "url": "https://fanfox.net/manga/ningen_shikkaku_dazai_osamu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7592/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13290,
+        "aniId": 43290,
+        "createdAt": "2021-10-30T21:35:10.000Z",
+        "updatedAt": "2021-10-30T22:04:19.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-dj980444": {
         "authors": [
@@ -83,28 +148,6 @@
         "aniId": 43290,
         "createdAt": "2021-11-10T02:13:56.000Z",
         "updatedAt": "2021-11-10T02:43:36.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "ningen_shikkaku_dazai_osamu": {
-        "authors": [
-          "DAZAI Osamu"
-        ],
-        "identifier": "ningen_shikkaku_dazai_osamu",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Ningen Shikkaku (DAZAI Osamu)",
-        "url": "https://fanfox.net/manga/ningen_shikkaku_dazai_osamu/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/7592/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 13290,
-        "aniId": 43290,
-        "createdAt": "2021-10-30T21:35:10.000Z",
-        "updatedAt": "2021-10-30T22:04:19.000Z",
         "deletedAt": null
       }
     }

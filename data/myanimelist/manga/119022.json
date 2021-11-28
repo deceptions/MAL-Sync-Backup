@@ -1,8 +1,13 @@
 {
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E9%99%B0%E3%81%AE%E5%AE%9F%E5%8A%9B%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%A6!"
+    }
+  ],
   "altTitle": [
     "The Eminence in Shadow",
-    "陰の実力者になりたくて！"
+    "陰の実力者になりたくて!"
   ],
   "authors": [
     "Sakano, Anri",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:54.000Z",
-  "updatedAt": "2021-10-13T03:29:08.000Z",
+  "updatedAt": "2021-11-27T15:05:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +44,51 @@
         "aniId": 106758,
         "createdAt": "2020-10-12T16:14:43.000Z",
         "updatedAt": "2021-06-06T07:30:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kage-no-jitsuryokusha-ni-naritakute": {
+        "authors": [
+          "Aizawa Daisuke",
+          "SAKANO Anri"
+        ],
+        "identifier": "kage-no-jitsuryokusha-ni-naritakute",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kage no Jitsuryokusha ni Naritakute",
+        "url": "https://mangasee123.com/manga/Kage-No-Jitsuryokusha-Ni-Naritakute",
+        "image": "https://cover.nep.li/cover/Kage-No-Jitsuryokusha-Ni-Naritakute.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119022,
+        "aniId": 106758,
+        "createdAt": "2021-01-20T03:08:28.000Z",
+        "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kage_no_jitsuryokusha_ni_naritakute": {
+        "authors": [
+          "Aizawa Daisuke"
+        ],
+        "identifier": "kage_no_jitsuryokusha_ni_naritakute",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kage no Jitsuryokusha ni Naritakute",
+        "url": "https://fanfox.net/manga/kage_no_jitsuryokusha_ni_naritakute/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30091/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119022,
+        "aniId": 106758,
+        "createdAt": "2021-03-01T15:24:39.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
         "deletedAt": null
       }
     },

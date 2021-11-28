@@ -17,5 +17,28 @@
   "createdAt": "2020-10-12T15:42:54.000Z",
   "updatedAt": "2021-08-13T01:07:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "blush_dc": {
+        "authors": [
+          "MIYAZAKI Maya"
+        ],
+        "identifier": "blush_dc",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "/Blush-DC.",
+        "url": "https://fanfox.net/manga/blush_dc/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10641/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21036,
+        "aniId": 51036,
+        "createdAt": "2021-02-13T01:05:45.000Z",
+        "updatedAt": "2021-11-20T18:44:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

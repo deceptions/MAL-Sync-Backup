@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.comic-ryu.jp/_hitomi/"
+    }
+  ],
   "altTitle": [
     "Nurse Hitomi's Monster Infirmary",
     "Dr. Hitomi's Infirmary",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:55.000Z",
-  "updatedAt": "2021-06-29T08:22:44.000Z",
+  "updatedAt": "2021-11-24T10:06:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +65,28 @@
         "aniId": 85236,
         "createdAt": "2021-03-22T15:34:58.000Z",
         "updatedAt": "2021-07-16T03:33:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hitomi_sensei_no_hokenshitsu": {
+        "authors": [
+          "Shake O"
+        ],
+        "identifier": "hitomi_sensei_no_hokenshitsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hitomi-sensei no Hokenshitsu",
+        "url": "https://fanfox.net/manga/hitomi_sensei_no_hokenshitsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13208/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59799,
+        "aniId": 85236,
+        "createdAt": "2021-03-26T13:19:16.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
         "deletedAt": null
       }
     },

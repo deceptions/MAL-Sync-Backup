@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shonenmagazine.com/smaga/senryushoujo"
+    }
+  ],
   "altTitle": [
     "Senryuu Girl",
     "川柳少女"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:59.000Z",
-  "updatedAt": "2021-07-10T22:43:42.000Z",
+  "updatedAt": "2021-11-21T01:47:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,50 @@
         "aniId": 99183,
         "createdAt": "2020-10-12T16:11:04.000Z",
         "updatedAt": "2021-07-10T22:43:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "senryu-girl": {
+        "authors": [
+          "IGARASHI Masakuni"
+        ],
+        "identifier": "senryu-girl",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Senryu Girl",
+        "url": "https://mangasee123.com/manga/Senryu-Girl",
+        "image": "https://cover.nep.li/cover/Senryu-Girl.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105430,
+        "aniId": 99183,
+        "createdAt": "2021-01-01T09:25:29.000Z",
+        "updatedAt": "2021-11-20T16:44:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "senryuu_shoujo": {
+        "authors": [
+          "IGARASHI Masakuni"
+        ],
+        "identifier": "senryuu_shoujo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Senryuu Shoujo",
+        "url": "https://fanfox.net/manga/senryuu_shoujo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26569/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105430,
+        "aniId": 99183,
+        "createdAt": "2021-03-02T14:52:08.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
         "deletedAt": null
       }
     },

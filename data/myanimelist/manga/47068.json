@@ -38,6 +38,50 @@
         "updatedAt": "2021-06-03T16:30:59.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "kingdom-of-zombie": {
+        "authors": [
+          "Nojeok"
+        ],
+        "identifier": "kingdom-of-zombie",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kingdom of Zombie",
+        "url": "https://mangasee123.com/manga/Kingdom-Of-Zombie",
+        "image": "https://cover.nep.li/cover/Kingdom-Of-Zombie.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47068,
+        "aniId": 77068,
+        "createdAt": "2021-01-28T18:52:29.000Z",
+        "updatedAt": "2021-11-20T18:14:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kingdom_of_zombie": {
+        "authors": [
+          "Nojeok"
+        ],
+        "identifier": "kingdom_of_zombie",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kingdom of Zombie",
+        "url": "https://fanfox.net/manga/kingdom_of_zombie/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11842/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47068,
+        "aniId": 77068,
+        "createdAt": "2021-03-14T08:39:33.000Z",
+        "updatedAt": "2021-11-20T19:45:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

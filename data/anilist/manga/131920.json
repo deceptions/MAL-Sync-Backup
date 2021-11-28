@@ -17,9 +17,32 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-25T00:44:54.000Z",
-  "updatedAt": "2021-08-24T04:36:34.000Z",
+  "updatedAt": "2021-11-22T07:42:48.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "af5f2646-cddd-4c4c-b652-96577ed89647": {
+        "authors": [
+          "Mondo Hasekura",
+          "Ron Makita"
+        ],
+        "identifier": "af5f2646-cddd-4c4c-b652-96577ed89647",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Maken Tsukai no Moto Shounen Hei wa, Moto Teki Kanbu no Onee-san to Issho ni Ikitai",
+        "url": "https://mangadex.org/title/af5f2646-cddd-4c4c-b652-96577ed89647",
+        "image": "https://uploads.mangadex.org/covers/af5f2646-cddd-4c4c-b652-96577ed89647/325921c2-e595-4ccc-9071-8f7c0d3c1fed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 139794,
+        "aniId": 131920,
+        "createdAt": "2021-02-27T08:47:24.000Z",
+        "updatedAt": "2021-11-22T08:41:55.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-lb989310": {
         "authors": [],

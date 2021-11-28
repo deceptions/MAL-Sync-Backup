@@ -43,6 +43,29 @@
         "updatedAt": "2021-06-02T08:33:04.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "delivery": {
+        "authors": [
+          "OHTA Tohko",
+          "TESHIROGI Shiori"
+        ],
+        "identifier": "delivery",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Delivery",
+        "url": "https://mangasee123.com/manga/Delivery",
+        "image": "https://cover.nep.li/cover/Delivery.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10378,
+        "aniId": 40378,
+        "createdAt": "2021-04-17T07:44:28.000Z",
+        "updatedAt": "2021-11-20T21:48:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

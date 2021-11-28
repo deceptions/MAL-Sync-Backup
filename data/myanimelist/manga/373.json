@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:21.000Z",
-  "updatedAt": "2021-10-19T22:29:16.000Z",
+  "updatedAt": "2021-11-24T17:37:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,28 @@
         "aniId": 30373,
         "createdAt": "2020-10-12T16:03:17.000Z",
         "updatedAt": "2021-06-02T12:54:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xy958881": {
+        "authors": [
+          "Ozaki Kaori"
+        ],
+        "identifier": "manga-xy958881",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Immortal Rain",
+        "url": "https://manganato.com/manga-xy958881",
+        "image": "https://avt.mkklcdnv6temp.com/43/b/5-1583473581.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 373,
+        "aniId": 30373,
+        "createdAt": "2021-11-27T00:05:52.000Z",
+        "updatedAt": "2021-11-27T00:35:32.000Z",
         "deletedAt": null
       }
     }

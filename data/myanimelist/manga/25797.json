@@ -40,6 +40,50 @@
         "updatedAt": "2021-06-02T07:29:36.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "gwisin-byeolgok": {
+        "authors": [
+          "HAN Hyun Dong"
+        ],
+        "identifier": "gwisin-byeolgok",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Gwisin Byeolgok",
+        "url": "https://mangasee123.com/manga/Gwisin-Byeolgok",
+        "image": "https://cover.nep.li/cover/Gwisin-Byeolgok.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25797,
+        "aniId": 55797,
+        "createdAt": "2021-03-04T20:21:25.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "gwisin_byeolgok": {
+        "authors": [
+          "HAN Hyun Dong"
+        ],
+        "identifier": "gwisin_byeolgok",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Gwisin Byeolgok",
+        "url": "https://fanfox.net/manga/gwisin_byeolgok/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9080/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25797,
+        "aniId": 55797,
+        "createdAt": "2021-04-17T22:44:38.000Z",
+        "updatedAt": "2021-11-20T21:48:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

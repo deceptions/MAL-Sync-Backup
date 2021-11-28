@@ -38,6 +38,28 @@
         "updatedAt": "2021-06-02T20:10:25.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kara_no_shounen": {
+        "authors": [
+          "FUJITSUKA Yuki"
+        ],
+        "identifier": "kara_no_shounen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kara no Shounen",
+        "url": "https://fanfox.net/manga/kara_no_shounen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7143/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10598,
+        "aniId": 40598,
+        "createdAt": "2021-04-01T13:31:15.000Z",
+        "updatedAt": "2021-11-20T21:17:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

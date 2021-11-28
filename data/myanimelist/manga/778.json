@@ -73,6 +73,28 @@
         "updatedAt": "2021-06-06T18:59:33.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "angel_diary": {
+        "authors": [
+          "LEE Yun Hee"
+        ],
+        "identifier": "angel_diary",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Angel Diary",
+        "url": "https://fanfox.net/manga/angel_diary/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/286/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 778,
+        "aniId": 30778,
+        "createdAt": "2021-05-20T20:44:49.000Z",
+        "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

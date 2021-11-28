@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://web.archive.org/web/20150315162617/www.ikki-para.com/comix/dorohedoro.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AD%E3%83%98%E3%83%89%E3%83%AD"
+    }
+  ],
   "altTitle": [
     "Dorohedoro",
     "ドロヘドロ"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:30.000Z",
-  "updatedAt": "2021-05-29T08:42:55.000Z",
+  "updatedAt": "2021-11-21T12:14:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +46,50 @@
         "aniId": 31133,
         "createdAt": "2020-10-12T16:03:26.000Z",
         "updatedAt": "2021-06-02T14:02:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dorohedoro": {
+        "authors": [
+          "HAYASHIDA Q."
+        ],
+        "identifier": "dorohedoro",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dorohedoro",
+        "url": "https://fanfox.net/manga/dorohedoro/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3518/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1133,
+        "aniId": 31133,
+        "createdAt": "2020-12-15T13:18:53.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "dorohedoro": {
+        "authors": [
+          "HAYASHIDA Q."
+        ],
+        "identifier": "dorohedoro",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dorohedoro",
+        "url": "https://mangasee123.com/manga/Dorohedoro",
+        "image": "https://cover.nep.li/cover/Dorohedoro.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1133,
+        "aniId": 31133,
+        "createdAt": "2020-12-16T18:26:46.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
         "deletedAt": null
       }
     },

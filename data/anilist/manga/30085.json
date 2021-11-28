@@ -63,6 +63,50 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "azumanga-daioh": {
+        "authors": [
+          "AZUMA Kiyohiko"
+        ],
+        "identifier": "azumanga-daioh",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Azumanga Daioh",
+        "url": "https://mangasee123.com/manga/Azumanga-Daioh",
+        "image": "https://cover.nep.li/cover/Azumanga-Daioh.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85,
+        "aniId": 30085,
+        "createdAt": "2020-11-13T10:22:59.000Z",
+        "updatedAt": "2021-11-20T15:46:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "azumanga_daioh": {
+        "authors": [
+          "AZUMA Kiyohiko"
+        ],
+        "identifier": "azumanga_daioh",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Azumanga Daioh",
+        "url": "https://fanfox.net/manga/azumanga_daioh/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/160/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 85,
+        "aniId": 30085,
+        "createdAt": "2021-03-01T00:14:34.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-ly960307": {
         "authors": [

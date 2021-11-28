@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-02T14:20:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "idol-a": {
+        "authors": [
+          "ADACHI Mitsuru"
+        ],
+        "identifier": "idol-a",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Idol A",
+        "url": "https://mangasee123.com/manga/Idol-A",
+        "image": "https://cover.nep.li/cover/Idol-A.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32401,
+        "aniId": 62401,
+        "createdAt": "2021-03-29T15:01:10.000Z",
+        "updatedAt": "2021-11-20T20:46:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

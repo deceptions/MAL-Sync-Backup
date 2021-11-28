@@ -51,5 +51,28 @@
   "createdAt": "2021-02-22T12:05:13.000Z",
   "updatedAt": "2021-06-05T03:20:38.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "tea_ceremony_training": {
+        "authors": [
+          "MORI Kaoru"
+        ],
+        "identifier": "tea_ceremony_training",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tea Ceremony Training",
+        "url": "https://fanfox.net/manga/tea_ceremony_training/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25443/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120421,
+        "aniId": 126037,
+        "createdAt": "2021-02-22T12:05:13.000Z",
+        "updatedAt": "2021-11-20T19:16:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-28T11:33:03.000Z",
-  "updatedAt": "2021-09-28T11:33:03.000Z",
+  "updatedAt": "2021-11-27T17:36:47.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ks988301": {
+        "authors": [
+          "温流素言，主笔"
+        ],
+        "identifier": "manga-ks988301",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Pampered Regent Of The Richest Woman",
+        "url": "https://manganato.com/manga-ks988301",
+        "image": "https://avt.mkklcdnv6temp.com/33/c/23-1614222742.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 139743,
+        "createdAt": "2021-06-17T12:36:17.000Z",
+        "updatedAt": "2021-11-27T22:54:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -18,5 +18,28 @@
   "createdAt": "2021-05-20T21:14:38.000Z",
   "updatedAt": "2021-11-20T21:44:15.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "lights_out": {
+        "authors": [
+          "LEE Myung-Jin"
+        ],
+        "identifier": "lights_out",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Lights Out",
+        "url": "https://fanfox.net/manga/lights_out/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2763/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 433,
+        "aniId": null,
+        "createdAt": "2021-05-20T21:14:38.000Z",
+        "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

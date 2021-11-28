@@ -38,6 +38,50 @@
         "updatedAt": "2021-06-02T16:04:11.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "hungry-joker": {
+        "authors": [
+          "TABATA Yuuki"
+        ],
+        "identifier": "hungry-joker",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hungry Joker",
+        "url": "https://mangasee123.com/manga/Hungry-Joker",
+        "image": "https://cover.nep.li/cover/Hungry-Joker.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45221,
+        "aniId": 75221,
+        "createdAt": "2021-01-31T16:34:13.000Z",
+        "updatedAt": "2021-11-20T18:14:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hungry_joker": {
+        "authors": [
+          "TABATA Yuuki"
+        ],
+        "identifier": "hungry_joker",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hungry Joker",
+        "url": "https://fanfox.net/manga/hungry_joker/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9759/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45221,
+        "aniId": 75221,
+        "createdAt": "2021-02-21T05:03:35.000Z",
+        "updatedAt": "2021-11-20T18:44:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

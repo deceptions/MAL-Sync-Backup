@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-06T19:05:04.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kishidou_kurabu": {
+        "authors": [
+          "NISHIMURA Shuuko"
+        ],
+        "identifier": "kishidou_kurabu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kishidou Kurabu",
+        "url": "https://fanfox.net/manga/kishidou_kurabu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3080/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2466,
+        "aniId": 32466,
+        "createdAt": "2021-05-20T22:14:58.000Z",
+        "updatedAt": "2021-11-20T23:14:26.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

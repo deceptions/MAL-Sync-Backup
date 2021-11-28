@@ -41,6 +41,50 @@
         "updatedAt": "2021-06-02T12:37:02.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "360_degrees_material": {
+        "authors": [
+          "MINAMI Touko"
+        ],
+        "identifier": "360_degrees_material",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "360 Degrees Material",
+        "url": "https://fanfox.net/manga/360_degrees_material/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9274/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22551,
+        "aniId": 52551,
+        "createdAt": "2021-01-06T11:25:45.000Z",
+        "updatedAt": "2021-11-20T16:44:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "360-material": {
+        "authors": [
+          "MINAMI Touko"
+        ],
+        "identifier": "360-material",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "360 Material",
+        "url": "https://mangasee123.com/manga/360-Material",
+        "image": "https://cover.nep.li/cover/360-Material.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22551,
+        "aniId": 52551,
+        "createdAt": "2021-03-26T23:50:16.000Z",
+        "updatedAt": "2021-11-20T20:45:59.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

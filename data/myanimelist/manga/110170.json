@@ -19,5 +19,28 @@
   "createdAt": "2021-05-20T00:01:34.000Z",
   "updatedAt": "2021-11-20T00:16:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "primitive-boyfriend": {
+        "authors": [
+          "KITAFUKU Yoshineko"
+        ],
+        "identifier": "primitive-boyfriend",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Primitive Boyfriend",
+        "url": "https://mangasee123.com/manga/Primitive-Boyfriend",
+        "image": "https://cover.nep.li/cover/Primitive-Boyfriend.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110170,
+        "aniId": 110410,
+        "createdAt": "2021-05-20T00:01:34.000Z",
+        "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

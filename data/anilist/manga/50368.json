@@ -37,6 +37,28 @@
         "updatedAt": "2021-06-02T14:11:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "dear-diary": {
+        "authors": [
+          "YOON Lee Hyun"
+        ],
+        "identifier": "dear-diary",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dear Diary",
+        "url": "https://mangasee123.com/manga/Dear-Diary",
+        "image": "https://cover.nep.li/cover/Dear-Diary.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20368,
+        "aniId": 50368,
+        "createdAt": "2021-05-05T18:02:00.000Z",
+        "updatedAt": "2021-11-20T22:22:05.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -59,6 +59,28 @@
         "updatedAt": "2021-06-06T12:08:29.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "i_love_you_baby": {
+        "authors": [
+          "KOMORI Mikko"
+        ],
+        "identifier": "i_love_you_baby",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "I Love You Baby",
+        "url": "https://fanfox.net/manga/i_love_you_baby/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13567/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 66193,
+        "aniId": 85357,
+        "createdAt": "2021-02-13T07:05:54.000Z",
+        "updatedAt": "2021-11-20T18:44:25.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

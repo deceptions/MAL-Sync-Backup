@@ -18,5 +18,28 @@
   "createdAt": "2020-12-16T23:26:43.000Z",
   "updatedAt": "2021-06-16T23:28:15.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "jounetsu_no_hate_ni": {
+        "authors": [
+          "Sharon Kendrick"
+        ],
+        "identifier": "jounetsu_no_hate_ni",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Jounetsu no Hate ni",
+        "url": "https://fanfox.net/manga/jounetsu_no_hate_ni/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8858/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24933,
+        "aniId": 54933,
+        "createdAt": "2020-12-16T23:26:44.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

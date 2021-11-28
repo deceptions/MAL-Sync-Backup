@@ -1,6 +1,9 @@
 {
   "altTitle": [
-    "月夜のグルメ"
+    "月夜のグルメ",
+    "Moonlit Gourmet",
+    "Moonlit Groumet",
+    "Tsukiyo no Groumet"
   ],
   "externalLinks": [],
   "authors": [
@@ -16,7 +19,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-31T21:15:46.000Z",
-  "updatedAt": "2021-08-31T21:45:46.000Z",
+  "updatedAt": "2021-11-21T07:42:48.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "616b3351-3d3a-4fac-ba16-ecc26765d2c1": {
+        "authors": [
+          "Maijou Outarou",
+          "Okunishi Chie"
+        ],
+        "identifier": "616b3351-3d3a-4fac-ba16-ecc26765d2c1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsukiyo no Groumet",
+        "url": "https://mangadex.org/title/616b3351-3d3a-4fac-ba16-ecc26765d2c1",
+        "image": "https://uploads.mangadex.org/covers/616b3351-3d3a-4fac-ba16-ecc26765d2c1/6825437a-08b1-44a0-ac63-c6485327edd5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 138635,
+        "createdAt": "2021-11-21T07:42:37.000Z",
+        "updatedAt": "2021-11-21T07:42:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

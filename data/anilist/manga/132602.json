@@ -24,5 +24,28 @@
   "createdAt": "2021-05-20T17:43:18.000Z",
   "updatedAt": "2021-06-21T17:48:16.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "the-hip-guy": {
+        "authors": [
+          "Henie"
+        ],
+        "identifier": "the-hip-guy",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Hip Guy",
+        "url": "https://mangasee123.com/manga/The-Hip-Guy",
+        "image": "https://cover.nep.li/cover/The-Hip-Guy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 132602,
+        "createdAt": "2021-05-20T17:43:18.000Z",
+        "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

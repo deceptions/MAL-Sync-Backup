@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://pocket.shonenmagazine.com/episode/13933686331630379964"
+    }
+  ],
   "altTitle": [
     "My Maid Kishi",
     "メイドの岸さん"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-21T17:39:53.000Z",
-  "updatedAt": "2021-06-22T15:15:05.000Z",
+  "updatedAt": "2021-11-28T00:36:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 118704,
         "createdAt": "2020-10-12T16:21:05.000Z",
         "updatedAt": "2021-06-08T01:31:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "maid-no-kishi-san": {
+        "authors": [
+          "KASHIWAGI Kano"
+        ],
+        "identifier": "maid-no-kishi-san",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Maid no Kishi-san",
+        "url": "https://mangasee123.com/manga/Maid-no-Kishi-san",
+        "image": "https://cover.nep.li/cover/Maid-no-Kishi-san.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128920,
+        "aniId": 118704,
+        "createdAt": "2021-01-05T18:27:19.000Z",
+        "updatedAt": "2021-11-20T16:44:06.000Z",
         "deletedAt": null
       }
     }

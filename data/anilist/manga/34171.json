@@ -21,5 +21,29 @@
   "createdAt": "2021-05-20T14:38:25.000Z",
   "updatedAt": "2021-07-29T23:51:42.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "toki-wo-kakeru-shoujo": {
+        "authors": [
+          "TSUGANO Gaku",
+          "TSUTSUI Yasutaka"
+        ],
+        "identifier": "toki-wo-kakeru-shoujo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Toki wo Kakeru Shoujo",
+        "url": "https://mangasee123.com/manga/Toki-Wo-Kakeru-Shoujo",
+        "image": "https://cover.nep.li/cover/Toki-Wo-Kakeru-Shoujo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4171,
+        "aniId": 34171,
+        "createdAt": "2021-04-10T04:50:59.000Z",
+        "updatedAt": "2021-11-20T21:17:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

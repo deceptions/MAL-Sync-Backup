@@ -46,6 +46,50 @@
         "updatedAt": "2021-06-04T00:52:59.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "koiiro_devil": {
+        "authors": [
+          "MIURA Hiraku"
+        ],
+        "identifier": "koiiro_devil",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koiiro Devil",
+        "url": "https://fanfox.net/manga/koiiro_devil/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13613/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24767,
+        "aniId": 54767,
+        "createdAt": "2021-02-11T07:11:23.000Z",
+        "updatedAt": "2021-11-20T18:44:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "koiiro-devil": {
+        "authors": [
+          "MIURA Hiraku"
+        ],
+        "identifier": "koiiro-devil",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Koiiro Devil",
+        "url": "https://mangasee123.com/manga/Koiiro-Devil",
+        "image": "https://cover.nep.li/cover/Koiiro-Devil.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24767,
+        "aniId": 54767,
+        "createdAt": "2021-03-13T16:09:44.000Z",
+        "updatedAt": "2021-11-20T19:45:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

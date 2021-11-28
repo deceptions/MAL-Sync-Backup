@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-02T15:54:22.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "my_sweet_dragon": {
+        "authors": [
+          "SAKAKI Yuuka"
+        ],
+        "identifier": "my_sweet_dragon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "My Sweet Dragon",
+        "url": "https://fanfox.net/manga/my_sweet_dragon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1630/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5188,
+        "aniId": 35188,
+        "createdAt": "2021-05-20T22:43:49.000Z",
+        "updatedAt": "2021-11-20T23:14:26.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

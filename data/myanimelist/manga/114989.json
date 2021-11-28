@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:37.000Z",
-  "updatedAt": "2021-10-04T15:31:25.000Z",
+  "updatedAt": "2021-11-25T11:05:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -45,6 +45,28 @@
         "aniId": 102169,
         "createdAt": "2020-10-12T16:11:24.000Z",
         "updatedAt": "2021-06-05T08:07:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "zoku_kono_subarashii_sekai_ni_bakuen_wo": {
+        "authors": [
+          "AKATSUKI Natsume"
+        ],
+        "identifier": "zoku_kono_subarashii_sekai_ni_bakuen_wo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Zoku Kono Subarashii Sekai ni Bakuen wo!",
+        "url": "https://fanfox.net/manga/zoku_kono_subarashii_sekai_ni_bakuen_wo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27597/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114989,
+        "aniId": 102169,
+        "createdAt": "2021-02-24T10:25:40.000Z",
+        "updatedAt": "2021-11-20T19:16:15.000Z",
         "deletedAt": null
       }
     },

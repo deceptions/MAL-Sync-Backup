@@ -27,7 +27,7 @@
   "hentai": false,
   "anidbId": 1710,
   "createdAt": "2020-10-12T15:38:33.000Z",
-  "updatedAt": "2021-10-01T09:08:58.000Z",
+  "updatedAt": "2021-11-24T11:37:48.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -65,6 +65,25 @@
         "aniId": 2803,
         "createdAt": "2021-05-04T05:03:26.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "densetsu-no-yuusha-da-garn": {
+        "identifier": "densetsu-no-yuusha-da-garn",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Densetsu no Yuusha Da Garn",
+        "url": "https://gogoanime.cm/category/densetsu-no-yuusha-da-garn",
+        "image": "https://gogocdn.net/cover/densetsu-no-yuusha-da-garn.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2803,
+        "aniId": 2803,
+        "createdAt": "2021-11-24T11:37:30.000Z",
+        "updatedAt": "2021-11-24T12:05:47.000Z",
         "deletedAt": null
       }
     }

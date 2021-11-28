@@ -17,7 +17,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:09.000Z",
-  "updatedAt": "2021-09-30T13:11:55.000Z",
+  "updatedAt": "2021-11-24T00:36:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,50 @@
         "aniId": 100948,
         "createdAt": "2020-10-12T16:10:53.000Z",
         "updatedAt": "2021-06-05T04:05:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "fairy-tail-s": {
+        "authors": [
+          "MASHIMA Hiro"
+        ],
+        "identifier": "fairy-tail-s",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Fairy Tail S",
+        "url": "https://mangasee123.com/manga/Fairy-Tail-S",
+        "image": "https://cover.nep.li/cover/Fairy-Tail-S.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108461,
+        "aniId": 100948,
+        "createdAt": "2021-01-03T15:51:05.000Z",
+        "updatedAt": "2021-11-20T16:44:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ch980290": {
+        "authors": [
+          "Hiro Mashima"
+        ],
+        "identifier": "manga-ch980290",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fairy Tail S",
+        "url": "https://readmanganato.com/manga-ch980290",
+        "image": "https://avt.mkklcdnv6temp.com/23/c/17-1583496088.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108461,
+        "aniId": 100948,
+        "createdAt": "2021-11-24T00:36:09.000Z",
+        "updatedAt": "2021-11-24T01:05:47.000Z",
         "deletedAt": null
       }
     }

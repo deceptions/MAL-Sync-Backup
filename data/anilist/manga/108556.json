@@ -26,7 +26,10 @@
     "Simona Stanzani",
     "Lara Iacucci",
     "Luciane Yasawa",
-    "Mafuyu Konishi"
+    "Mafuyu Konishi",
+    "Satoko Fujimoto",
+    "Nathalie Bougon",
+    "Sylvie Naddeo-Deloche"
   ],
   "id": 108556,
   "malId": 119161,
@@ -37,7 +40,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:58:06.000Z",
-  "updatedAt": "2021-08-30T10:06:35.000Z",
+  "updatedAt": "2021-11-25T14:05:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +83,50 @@
         "aniId": 108556,
         "createdAt": "2020-10-12T16:19:51.000Z",
         "updatedAt": "2021-10-24T16:09:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "spy-x-family": {
+        "authors": [
+          "ENDOU Tatsuya"
+        ],
+        "identifier": "spy-x-family",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Spy X Family",
+        "url": "https://mangasee123.com/manga/Spy-X-Family",
+        "image": "https://cover.nep.li/cover/Spy-X-Family.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119161,
+        "aniId": 108556,
+        "createdAt": "2020-12-16T14:55:35.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "spy_x_family": {
+        "authors": [
+          "ENDOU Tatsuya (遠藤達哉)"
+        ],
+        "identifier": "spy_x_family",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Spy X Family",
+        "url": "https://fanfox.net/manga/spy_x_family/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30419/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119161,
+        "aniId": 108556,
+        "createdAt": "2020-12-19T21:57:12.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
         "deletedAt": null
       }
     },

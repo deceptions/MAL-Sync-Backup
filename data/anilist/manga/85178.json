@@ -50,6 +50,50 @@
         "updatedAt": "2021-06-03T22:36:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "joshi_kausei": {
+        "authors": [
+          "WAKAI Ken"
+        ],
+        "identifier": "joshi_kausei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Joshi Kausei",
+        "url": "https://fanfox.net/manga/joshi_kausei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13287/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60815,
+        "aniId": 85178,
+        "createdAt": "2021-03-12T20:39:48.000Z",
+        "updatedAt": "2021-11-20T19:45:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "jyoshikausei": {
+        "authors": [
+          "WAKAI Ken"
+        ],
+        "identifier": "jyoshikausei",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Jyoshikausei",
+        "url": "https://mangasee123.com/manga/Jyoshikausei",
+        "image": "https://cover.nep.li/cover/Jyoshikausei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60815,
+        "aniId": 85178,
+        "createdAt": "2021-05-05T18:32:57.000Z",
+        "updatedAt": "2021-11-20T22:22:05.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

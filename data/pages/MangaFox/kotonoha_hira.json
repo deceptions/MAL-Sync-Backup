@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 73037,
-  "aniId": null,
+  "aniId": 91734,
   "createdAt": "2021-08-17T07:08:29.000Z",
-  "updatedAt": "2021-08-17T07:08:38.000Z",
+  "updatedAt": "2021-11-26T19:05:31.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -37,6 +37,26 @@
     "updatedAt": "2021-08-17T07:08:38.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "コトノハヒラ",
+      "Palm of Words"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yuu"
+    ],
+    "id": 91734,
+    "malId": 73037,
+    "type": "manga",
+    "title": "Kotonoha Hira",
+    "url": "https://anilist.co/manga/91734",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/91734-rLQV80ZQS5PW.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-11-26T18:35:32.000Z",
+    "updatedAt": "2021-11-26T18:35:32.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/73037/Kotonoha_Hira"
 }

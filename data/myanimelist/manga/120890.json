@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.pixiv.net/works/4709"
+    }
+  ],
   "altTitle": [
     "Even if I Were to Die, I Wouldn't Choose You",
     "君だけは死んでもごめん"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:05.000Z",
-  "updatedAt": "2021-05-29T04:42:13.000Z",
+  "updatedAt": "2021-11-25T06:05:55.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 111209,
         "createdAt": "2021-05-29T04:42:13.000Z",
         "updatedAt": "2021-05-29T18:12:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kimi_dake_wa_shinde_mo_gomen": {
+        "authors": [
+          "AZUSA Kina"
+        ],
+        "identifier": "kimi_dake_wa_shinde_mo_gomen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi dake wa Shinde mo Gomen",
+        "url": "https://fanfox.net/manga/kimi_dake_wa_shinde_mo_gomen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33189/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120890,
+        "aniId": 111209,
+        "createdAt": "2021-11-25T06:05:44.000Z",
+        "updatedAt": "2021-11-25T06:35:31.000Z",
         "deletedAt": null
       }
     }

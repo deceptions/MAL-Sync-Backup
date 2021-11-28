@@ -38,6 +38,28 @@
         "updatedAt": "2021-06-02T18:54:42.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "spray_king": {
+        "authors": [
+          "MIKUNI Shin"
+        ],
+        "identifier": "spray_king",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Spray King",
+        "url": "https://fanfox.net/manga/spray_king/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5201/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12112,
+        "aniId": 42112,
+        "createdAt": "2021-05-20T21:15:20.000Z",
+        "updatedAt": "2021-11-20T23:14:26.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

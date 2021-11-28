@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7_%E5%B0%91%E5%A5%B3%E9%A8%8E%E5%A3%AB%E7%89%A9%E8%AA%9E"
+    }
+  ],
   "altTitle": [
     "Valkyrie Romanze",
     "ワルキューレロマンツェ［少女騎士物語］"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:21.000Z",
-  "updatedAt": "2021-05-27T23:58:46.000Z",
+  "updatedAt": "2021-11-28T00:05:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +44,50 @@
         "aniId": 75379,
         "createdAt": "2020-10-12T16:05:33.000Z",
         "updatedAt": "2021-06-03T13:25:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "walkure-romanze-shoujo-kishi-monogatari-n-o-gomesu": {
+        "authors": [
+          "NO. Gomesu",
+          "Ricotta"
+        ],
+        "identifier": "walkure-romanze-shoujo-kishi-monogatari-n-o-gomesu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Walkure Romanze - Shoujo Kishi Monogatari (NO. Gomesu)",
+        "url": "https://mangasee123.com/manga/Walkure-Romanze-Shoujo-Kishi-Monogatari-N-O-Gomesu",
+        "image": "https://cover.nep.li/cover/Walkure-Romanze-Shoujo-Kishi-Monogatari-N-O-Gomesu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45379,
+        "aniId": 75379,
+        "createdAt": "2020-12-18T22:56:11.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
+        "deletedAt": null
+      },
+      "walkure-romanze-shoujo-kishi-monogatari": {
+        "authors": [
+          "Mitsu King",
+          "Ricotta"
+        ],
+        "identifier": "walkure-romanze-shoujo-kishi-monogatari",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Walkure Romanze - Shoujo Kishi Monogatari",
+        "url": "https://mangasee123.com/manga/Walkure-Romanze-Shoujo-Kishi-Monogatari",
+        "image": "https://cover.nep.li/cover/Walkure-Romanze-Shoujo-Kishi-Monogatari.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45379,
+        "aniId": 75379,
+        "createdAt": "2021-04-18T07:44:19.000Z",
+        "updatedAt": "2021-11-20T21:48:16.000Z",
         "deletedAt": null
       }
     }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.pixiv.net/works/3546"
+    }
+  ],
   "altTitle": [
     "Coffee shop Anemone",
     "放課後は喫茶店で"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:22.000Z",
-  "updatedAt": "2021-05-24T19:08:27.000Z",
+  "updatedAt": "2021-11-24T19:35:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,28 +42,6 @@
         "aniId": 100874,
         "createdAt": "2020-10-12T16:11:14.000Z",
         "updatedAt": "2021-06-05T06:40:29.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "hokago_wa_kissaten_de": {
-        "authors": [
-          "AZUSA Kina"
-        ],
-        "identifier": "hokago_wa_kissaten_de",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Hokago wa Kissaten De",
-        "url": "https://fanfox.net/manga/hokago_wa_kissaten_de/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/27050/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 111540,
-        "aniId": 100874,
-        "createdAt": "2021-05-12T17:54:44.000Z",
-        "updatedAt": "2021-05-24T19:38:17.000Z",
         "deletedAt": null
       }
     },

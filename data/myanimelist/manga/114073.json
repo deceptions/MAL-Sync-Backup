@@ -19,5 +19,29 @@
   "createdAt": "2021-03-05T05:21:04.000Z",
   "updatedAt": "2021-09-05T05:47:27.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "chis-sweet-adventures": {
+        "authors": [
+          "KONAMI Kanata",
+          "NATSUME Kinoko"
+        ],
+        "identifier": "chis-sweet-adventures",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Chi's Sweet Adventures",
+        "url": "https://mangasee123.com/manga/Chis-Sweet-Adventures",
+        "image": "https://cover.nep.li/cover/Chis-Sweet-Adventures.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114073,
+        "aniId": 103286,
+        "createdAt": "2021-03-05T05:21:04.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

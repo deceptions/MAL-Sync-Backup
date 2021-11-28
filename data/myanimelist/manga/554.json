@@ -52,6 +52,29 @@
         "updatedAt": "2021-06-05T18:40:30.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "tokyo-mew-mew": {
+        "authors": [
+          "IKUMI Mia",
+          "YOSHIDA Reiko"
+        ],
+        "identifier": "tokyo-mew-mew",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tokyo Mew Mew",
+        "url": "https://mangasee123.com/manga/Tokyo-Mew-Mew",
+        "image": "https://cover.nep.li/cover/Tokyo-Mew-Mew.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 554,
+        "aniId": 30554,
+        "createdAt": "2021-05-11T15:19:46.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

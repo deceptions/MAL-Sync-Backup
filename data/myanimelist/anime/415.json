@@ -2,7 +2,7 @@
   "externalLinks": [
     {
       "site": "officialsite",
-      "url": "http://www.nausicaa.net/miyazaki/yamada/"
+      "url": "https://www.ghibli.jp/works/yamada/"
     },
     {
       "site": "animedb",
@@ -11,6 +11,10 @@
     {
       "site": "animenewsnetwork",
       "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=177"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/My_Neighbors_the_Yamadas"
     }
   ],
   "altTitle": [
@@ -28,7 +32,7 @@
   "hentai": false,
   "anidbId": 370,
   "createdAt": "2020-10-12T15:38:03.000Z",
-  "updatedAt": "2021-09-30T13:36:04.000Z",
+  "updatedAt": "2021-11-22T03:43:18.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -64,6 +68,25 @@
         "aniId": 415,
         "createdAt": "2020-10-12T15:55:04.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "my-neighbors-the-yamadas": {
+        "identifier": "my-neighbors-the-yamadas",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "My Neighbors the Yamadas",
+        "url": "https://gogoanime.cm/category/my-neighbors-the-yamadas",
+        "image": "https://gogocdn.net/images/anime/M/My-Neighbors-the-Yamadas.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 415,
+        "aniId": 415,
+        "createdAt": "2021-11-22T03:43:10.000Z",
+        "updatedAt": "2021-11-22T04:12:37.000Z",
         "deletedAt": null
       }
     }

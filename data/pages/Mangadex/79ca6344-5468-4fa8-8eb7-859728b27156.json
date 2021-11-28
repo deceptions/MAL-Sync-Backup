@@ -11,13 +11,36 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 2,
+  "malId": 139756,
   "aniId": 137303,
   "createdAt": "2021-10-17T19:00:42.000Z",
-  "updatedAt": "2021-10-17T19:00:42.000Z",
+  "updatedAt": "2021-11-27T16:41:43.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comiccune.jp/series/dorekoi"
+      }
+    ],
+    "altTitle": [
+      "どれが恋かがわからない"
+    ],
+    "authors": [
+      "Oku, Tamamushi"
+    ],
+    "id": 139756,
+    "type": "manga",
+    "title": "Dore ga Koi ka ga Wakaranai",
+    "url": "https://myanimelist.net/manga/139756/Dore_ga_Koi_ka_ga_Wakaranai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/249629.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-10-10T19:38:04.000Z",
+    "updatedAt": "2021-11-26T20:05:43.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "どれが恋かがわからない",
@@ -39,5 +62,5 @@
     "updatedAt": "2021-09-22T16:10:50.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/139756/Dore_ga_Koi_ka_ga_Wakaranai"
 }

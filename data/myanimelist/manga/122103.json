@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "異邦人、ダンジョンに潜る。"
   ],
@@ -11,11 +11,11 @@
   "type": "manga",
   "title": "Ihoujin, Dungeon ni Kuguru.",
   "url": "https://myanimelist.net/manga/122103/Ihoujin_Dungeon_ni_Kuguru",
-  "image": "https://cdn.myanimelist.net/images/manga/1/226572.jpg",
+  "image": "https://cdn.myanimelist.net/images/manga/2/251138.jpg",
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:08.000Z",
-  "updatedAt": "2021-05-24T03:08:49.000Z",
+  "updatedAt": "2021-11-24T03:37:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,52 @@
         "aniId": 112114,
         "createdAt": "2020-10-12T16:17:19.000Z",
         "updatedAt": "2021-06-07T06:42:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ihoujin-dungeon-ni-moguru": {
+        "authors": [
+          "ASAMI Hinagi",
+          "HOSHINO Kaoru",
+          "Kureta"
+        ],
+        "identifier": "ihoujin-dungeon-ni-moguru",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ihoujin, Dungeon ni Moguru",
+        "url": "https://mangasee123.com/manga/Ihoujin-Dungeon-ni-Moguru",
+        "image": "https://cover.nep.li/cover/Ihoujin-Dungeon-ni-Moguru.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122103,
+        "aniId": 112114,
+        "createdAt": "2020-12-25T16:56:27.000Z",
+        "updatedAt": "2021-11-20T16:14:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ihoujin_dungeon_ni_moguru": {
+        "authors": [
+          "ASAMI Hinagi"
+        ],
+        "identifier": "ihoujin_dungeon_ni_moguru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ihoujin, dungeon ni moguru.",
+        "url": "https://fanfox.net/manga/ihoujin_dungeon_ni_moguru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32241/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122103,
+        "aniId": 112114,
+        "createdAt": "2020-12-25T17:56:02.000Z",
+        "updatedAt": "2021-11-20T16:14:07.000Z",
         "deletedAt": null
       }
     },

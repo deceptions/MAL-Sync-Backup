@@ -1,7 +1,16 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%95%E3%82%A7%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%88"
+    }
+  ],
   "altTitle": [
-    "Elven Song, Elfenlied, MOL, Digitopolis, memoria",
+    "Elven Song",
+    "Elfenlied",
+    "MOL",
+    "Digitopolis",
+    "memoria",
     "エルフェンリート"
   ],
   "authors": [
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:28.000Z",
-  "updatedAt": "2021-06-04T09:51:41.000Z",
+  "updatedAt": "2021-11-21T01:49:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +66,50 @@
         "aniId": 30933,
         "createdAt": "2020-10-12T16:11:23.000Z",
         "updatedAt": "2021-06-05T07:59:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "elfen-lied": {
+        "authors": [
+          "OKAMOTO Lynn"
+        ],
+        "identifier": "elfen-lied",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Elfen Lied",
+        "url": "https://mangasee123.com/manga/Elfen-Lied",
+        "image": "https://cover.nep.li/cover/Elfen-Lied.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 933,
+        "aniId": 30933,
+        "createdAt": "2021-02-13T15:09:28.000Z",
+        "updatedAt": "2021-11-20T18:44:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "elfen_lied": {
+        "authors": [
+          "OKAMOTO Lynn"
+        ],
+        "identifier": "elfen_lied",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Elfen Lied",
+        "url": "https://fanfox.net/manga/elfen_lied/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 933,
+        "aniId": 30933,
+        "createdAt": "2021-02-27T19:14:32.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
         "deletedAt": null
       }
     },

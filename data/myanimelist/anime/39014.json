@@ -31,7 +31,7 @@
   "hentai": false,
   "anidbId": 14601,
   "createdAt": "2020-10-12T15:40:08.000Z",
-  "updatedAt": "2021-10-04T02:06:44.000Z",
+  "updatedAt": "2021-11-26T19:06:46.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -50,6 +50,25 @@
         "aniId": 107202,
         "createdAt": "2020-10-12T15:49:46.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "free-movie-3-road-to-the-world-yume": {
+        "identifier": "free-movie-3-road-to-the-world-yume",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Free! Movie 3: Road to the World - Yume",
+        "url": "https://gogoanime.cm/category/free-movie-3-road-to-the-world-yume",
+        "image": "https://gogocdn.net/cover/free-movie-3-road-to-the-world-yume.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39014,
+        "aniId": 107202,
+        "createdAt": "2021-11-26T19:05:54.000Z",
+        "updatedAt": "2021-11-26T19:35:31.000Z",
         "deletedAt": null
       }
     }

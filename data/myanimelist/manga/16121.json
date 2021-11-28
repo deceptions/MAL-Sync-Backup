@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-02T08:21:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "sukimasuki": {
+        "authors": [
+          "UNITA Yumi"
+        ],
+        "identifier": "sukimasuki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sukimasuki",
+        "url": "https://fanfox.net/manga/sukimasuki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6587/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16121,
+        "aniId": 46121,
+        "createdAt": "2021-05-20T23:13:50.000Z",
+        "updatedAt": "2021-11-20T23:49:30.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

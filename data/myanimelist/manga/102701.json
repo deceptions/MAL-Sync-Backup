@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-04T23:08:10.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "chouchou_koi": {
+        "authors": [
+          "IWA Chika"
+        ],
+        "identifier": "chouchou_koi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Chouchou Koi",
+        "url": "https://fanfox.net/manga/chouchou_koi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28502/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102701,
+        "aniId": 106667,
+        "createdAt": "2021-03-24T19:19:56.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

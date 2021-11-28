@@ -46,6 +46,28 @@
         "updatedAt": "2021-06-04T11:03:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "tekken_chinmi": {
+        "authors": [
+          "MAEKAWA Takeshi"
+        ],
+        "identifier": "tekken_chinmi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tekken Chinmi",
+        "url": "https://fanfox.net/manga/tekken_chinmi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2908/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1100,
+        "aniId": 31100,
+        "createdAt": "2021-04-24T01:27:02.000Z",
+        "updatedAt": "2021-11-20T21:48:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

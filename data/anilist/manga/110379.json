@@ -44,6 +44,29 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "the-great-cleric": {
+        "authors": [
+          "AKIKAZE Hiiro",
+          "Broccoli Lion"
+        ],
+        "identifier": "the-great-cleric",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Great Cleric",
+        "url": "https://mangasee123.com/manga/The-Great-Cleric",
+        "image": "https://cover.nep.li/cover/The-Great-Cleric.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112971,
+        "aniId": 110379,
+        "createdAt": "2021-02-13T18:35:53.000Z",
+        "updatedAt": "2021-11-20T18:44:26.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-ff982614": {
         "authors": [
@@ -64,6 +87,27 @@
         "aniId": 110379,
         "createdAt": "2021-06-09T06:29:46.000Z",
         "updatedAt": "2021-06-09T06:35:13.000Z",
+        "deletedAt": null
+      },
+      "manga-ms990075": {
+        "authors": [
+          "Akikaze Hiiro",
+          "Broccoli Lion"
+        ],
+        "identifier": "manga-ms990075",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Seija Musou: Salaryman, Isekai De Ikinokoru Tame Ni Ayumu Michi",
+        "url": "https://manganato.com/manga-ms990075",
+        "image": "https://avt.mkklcdnv6temp.com/8/y/25-1637987121.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112971,
+        "aniId": 110379,
+        "createdAt": "2021-11-27T06:05:33.000Z",
+        "updatedAt": "2021-11-27T06:35:32.000Z",
         "deletedAt": null
       }
     }

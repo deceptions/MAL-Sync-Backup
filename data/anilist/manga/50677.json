@@ -42,6 +42,50 @@
         "updatedAt": "2021-06-02T12:09:22.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "love-stalking": {
+        "authors": [
+          "HAZUKI Kanae"
+        ],
+        "identifier": "love-stalking",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Love Stalking!",
+        "url": "https://mangasee123.com/manga/Love-Stalking",
+        "image": "https://cover.nep.li/cover/Love-Stalking.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20677,
+        "aniId": 50677,
+        "createdAt": "2021-03-21T19:04:31.000Z",
+        "updatedAt": "2021-11-20T19:45:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "love_stalking": {
+        "authors": [
+          "HAZUKI Kanae"
+        ],
+        "identifier": "love_stalking",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Love Stalking!",
+        "url": "https://fanfox.net/manga/love_stalking/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8110/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20677,
+        "aniId": 50677,
+        "createdAt": "2021-05-02T02:03:53.000Z",
+        "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

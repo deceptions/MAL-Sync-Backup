@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-08T01:53:17.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "boku_no_koto_suki_ni_natte": {
+        "authors": [
+          "MINADORI Naya"
+        ],
+        "identifier": "boku_no_koto_suki_ni_natte",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Boku no Koto Suki ni Natte",
+        "url": "https://fanfox.net/manga/boku_no_koto_suki_ni_natte/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35301/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82357,
+        "aniId": 97878,
+        "createdAt": "2021-03-26T15:49:15.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

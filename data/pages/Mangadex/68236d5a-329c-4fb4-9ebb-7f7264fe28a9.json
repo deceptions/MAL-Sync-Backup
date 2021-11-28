@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 136510,
   "createdAt": "2021-10-13T05:58:45.000Z",
-  "updatedAt": "2021-11-20T05:17:08.000Z",
+  "updatedAt": "2021-11-21T01:31:53.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "紙山さんの紙袋の中には",
+      "What's inside Kamiyama's Paper Bag"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Pochi Edoya",
+      "Abyss Enoshima",
+      "neropaso"
+    ],
+    "id": 136510,
+    "malId": null,
+    "type": "manga",
+    "title": "Kamiyama-san no Kami Bukuro no Naka ni wa",
+    "url": "https://anilist.co/manga/136510",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136510-RHf4OT9JVs1S.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-10T00:43:18.000Z",
+    "updatedAt": "2021-11-21T01:30:56.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

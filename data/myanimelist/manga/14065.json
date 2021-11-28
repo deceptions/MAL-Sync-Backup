@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%A4%A2%E5%96%B0%E3%81%84%E3%83%A1%E3%83%AA%E3%83%BC"
+    }
+  ],
   "altTitle": [
     "Dream Eater Merry",
     "Yume Kui Merry",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:02.000Z",
-  "updatedAt": "2021-06-09T06:32:36.000Z",
+  "updatedAt": "2021-11-21T16:15:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,50 @@
         "aniId": 44065,
         "createdAt": "2020-10-12T16:02:26.000Z",
         "updatedAt": "2021-06-02T06:52:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "yumekui-merry": {
+        "authors": [
+          "USHIKI Yoshitaka"
+        ],
+        "identifier": "yumekui-merry",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yumekui Merry",
+        "url": "https://mangasee123.com/manga/Yumekui-Merry",
+        "image": "https://cover.nep.li/cover/Yumekui-Merry.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14065,
+        "aniId": 44065,
+        "createdAt": "2021-01-11T13:20:41.000Z",
+        "updatedAt": "2021-11-20T17:15:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yumekui_merry": {
+        "authors": [
+          "USHIKI Yoshitaka"
+        ],
+        "identifier": "yumekui_merry",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yumekui Merry",
+        "url": "https://fanfox.net/manga/yumekui_merry/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5898/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14065,
+        "aniId": 44065,
+        "createdAt": "2021-04-22T06:29:10.000Z",
+        "updatedAt": "2021-11-20T21:48:17.000Z",
         "deletedAt": null
       }
     },

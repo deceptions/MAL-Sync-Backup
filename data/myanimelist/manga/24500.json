@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-04T18:34:52.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kodoku_na_fugou": {
+        "authors": [
+          "Lucy Gordon"
+        ],
+        "identifier": "kodoku_na_fugou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kodoku na Fugou",
+        "url": "https://fanfox.net/manga/kodoku_na_fugou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8790/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24500,
+        "aniId": 54500,
+        "createdAt": "2020-12-16T23:29:05.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

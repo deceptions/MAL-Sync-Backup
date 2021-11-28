@@ -5,19 +5,61 @@
   "identifier": "def0adc9-0a65-4051-9494-8be4ab13f92d",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Kouga-san no Hamiguse",
+  "title": "Kouga-san no Kamiguse",
   "url": "https://mangadex.org/title/def0adc9-0a65-4051-9494-8be4ab13f92d",
   "image": "https://uploads.mangadex.org/covers/def0adc9-0a65-4051-9494-8be4ab13f92d/33df74f4-d7d8-4d22-9d8a-5ba637dcc5aa.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 134993,
+  "aniId": 131013,
   "createdAt": "2021-03-18T15:03:42.000Z",
-  "updatedAt": "2021-06-08T12:40:14.000Z",
+  "updatedAt": "2021-11-25T11:05:32.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine-edge.jp/contents/kougasan.html"
+      }
+    ],
+    "altTitle": [
+      "コウガさんの噛みぐせ"
+    ],
+    "authors": [
+      "Tsukinowa, Ao"
+    ],
+    "id": 134993,
+    "type": "manga",
+    "title": "Kouga-san no Kami Guse",
+    "url": "https://myanimelist.net/manga/134993/Kouga-san_no_Kami_Guse",
+    "image": "https://cdn.myanimelist.net/images/manga/1/251218.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-10-02T01:01:23.000Z",
+    "updatedAt": "2021-11-25T10:35:53.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "コウガさんの噛みぐせ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ao Tsukinokawa"
+    ],
+    "id": 131013,
+    "malId": 134993,
+    "type": "manga",
+    "title": "Kouga-san no Hamiguse",
+    "url": "https://anilist.co/manga/131013",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131013-ON2lUYhUHVj4.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-21T02:10:43.000Z",
+    "updatedAt": "2021-11-25T11:05:53.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/134993/Kouga-san_no_Kami_Guse"
 }

@@ -44,6 +44,28 @@
         "updatedAt": "2021-06-02T09:01:21.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "koi_hirari": {
+        "authors": [
+          "MITSUKI Miko"
+        ],
+        "identifier": "koi_hirari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koi, Hirari",
+        "url": "https://fanfox.net/manga/koi_hirari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5466/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13111,
+        "aniId": 43111,
+        "createdAt": "2021-05-20T21:13:58.000Z",
+        "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

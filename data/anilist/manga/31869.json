@@ -41,6 +41,50 @@
         "updatedAt": "2021-06-02T07:21:56.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "ryuuroden": {
+        "authors": [
+          "YAMAHARA Yoshito"
+        ],
+        "identifier": "ryuuroden",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ryuuroden",
+        "url": "https://mangasee123.com/manga/Ryuuroden",
+        "image": "https://cover.nep.li/cover/Ryuuroden.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1869,
+        "aniId": 31869,
+        "createdAt": "2021-01-26T13:43:04.000Z",
+        "updatedAt": "2021-11-20T17:45:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ryuurouden": {
+        "authors": [
+          "YAMAHARA Yoshito"
+        ],
+        "identifier": "ryuurouden",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ryuurouden",
+        "url": "https://fanfox.net/manga/ryuurouden/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/204/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1869,
+        "aniId": 31869,
+        "createdAt": "2021-04-12T12:51:30.000Z",
+        "updatedAt": "2021-11-20T21:17:18.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

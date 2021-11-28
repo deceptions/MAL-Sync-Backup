@@ -39,6 +39,50 @@
         "updatedAt": "2021-06-04T02:50:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "kyou-no-kerberos": {
+        "authors": [
+          "SAKURAI Ato"
+        ],
+        "identifier": "kyou-no-kerberos",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kyou no Kerberos",
+        "url": "https://mangasee123.com/manga/Kyou-No-Kerberos",
+        "image": "https://cover.nep.li/cover/Kyou-No-Kerberos.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 57185,
+        "aniId": 85489,
+        "createdAt": "2020-12-13T16:50:15.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kyou_no_cerberus": {
+        "authors": [
+          "SAKURAI Ato"
+        ],
+        "identifier": "kyou_no_cerberus",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kyou no Cerberus",
+        "url": "https://fanfox.net/manga/kyou_no_cerberus/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13832/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57185,
+        "aniId": 85489,
+        "createdAt": "2021-01-08T00:21:52.000Z",
+        "updatedAt": "2021-11-20T17:15:25.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

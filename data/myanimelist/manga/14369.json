@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%90%E3%82%82%E3%82%82"
+    }
+  ],
   "altTitle": [
     "つぐもも"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:04.000Z",
-  "updatedAt": "2021-05-31T09:45:13.000Z",
+  "updatedAt": "2021-11-23T01:36:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -56,6 +61,50 @@
         "aniId": 44369,
         "createdAt": "2021-01-06T01:26:46.000Z",
         "updatedAt": "2021-06-08T09:34:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tsugumomo": {
+        "authors": [
+          "HAMADA Yoshikazu"
+        ],
+        "identifier": "tsugumomo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tsugumomo",
+        "url": "https://fanfox.net/manga/tsugumomo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6605/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14369,
+        "aniId": 44369,
+        "createdAt": "2020-12-16T04:25:33.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tsugumomo": {
+        "authors": [
+          "HAMADA Yoshikazu"
+        ],
+        "identifier": "tsugumomo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tsugumomo",
+        "url": "https://mangasee123.com/manga/Tsugumomo",
+        "image": "https://cover.nep.li/cover/Tsugumomo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14369,
+        "aniId": 44369,
+        "createdAt": "2021-01-15T19:32:44.000Z",
+        "updatedAt": "2021-11-20T17:15:27.000Z",
         "deletedAt": null
       }
     },

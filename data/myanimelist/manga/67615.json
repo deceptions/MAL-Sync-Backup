@@ -45,25 +45,50 @@
         "createdAt": "2020-10-12T16:07:42.000Z",
         "updatedAt": "2021-06-04T04:40:40.000Z",
         "deletedAt": null
-      },
-      "99f2bd26-0323-4bc6-a585-0d6b3d3c7fc6": {
+      }
+    },
+    "MangaSee": {
+      "tate-no-yuusha-no-nariagari": {
         "authors": [
-          "Aneko Yusagi"
+          "AIYA Kyu",
+          "ANEKO Yusagi"
         ],
-        "identifier": "99f2bd26-0323-4bc6-a585-0d6b3d3c7fc6",
+        "identifier": "tate-no-yuusha-no-nariagari",
         "type": "manga",
-        "page": "Mangadex",
-        "title": "Tate no Yuusha No Nariagari - Mobile Game Short Comics",
-        "url": "https://mangadex.org/title/99f2bd26-0323-4bc6-a585-0d6b3d3c7fc6",
-        "image": "https://uploads.mangadex.org/covers/99f2bd26-0323-4bc6-a585-0d6b3d3c7fc6/12d53fbb-cfc6-479a-af91-af978f523320.jpg",
+        "page": "MangaSee",
+        "title": "Tate no Yuusha no Nariagari",
+        "url": "https://mangasee123.com/manga/Tate-No-Yuusha-No-Nariagari",
+        "image": "https://cover.nep.li/cover/Tate-No-Yuusha-No-Nariagari.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 67615,
         "aniId": 85442,
-        "createdAt": "2020-10-12T16:21:34.000Z",
-        "updatedAt": "2021-06-08T02:34:10.000Z",
+        "createdAt": "2020-12-16T17:58:11.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tate_no_yuusha_no_nariagari": {
+        "authors": [
+          "ANEKO Yusagi"
+        ],
+        "identifier": "tate_no_yuusha_no_nariagari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tate no Yuusha no Nariagari",
+        "url": "https://fanfox.net/manga/tate_no_yuusha_no_nariagari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14036/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67615,
+        "aniId": 85442,
+        "createdAt": "2021-01-01T04:14:17.000Z",
+        "updatedAt": "2021-11-20T16:44:04.000Z",
         "deletedAt": null
       }
     },

@@ -40,6 +40,29 @@
         "updatedAt": "2021-06-04T17:39:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "amentia": {
+        "authors": [
+          "Bak Hyein",
+          "Yang Hyeseok"
+        ],
+        "identifier": "amentia",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Amentia",
+        "url": "https://mangasee123.com/manga/Amentia",
+        "image": "https://cover.nep.li/cover/Amentia.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 99349,
+        "aniId": 86826,
+        "createdAt": "2021-03-15T21:32:51.000Z",
+        "updatedAt": "2021-11-20T19:45:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -43,6 +43,50 @@
         "updatedAt": "2021-06-02T20:47:22.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "yasha": {
+        "authors": [
+          "YOSHIDA Akimi"
+        ],
+        "identifier": "yasha",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yasha",
+        "url": "https://mangasee123.com/manga/Yasha",
+        "image": "https://cover.nep.li/cover/Yasha.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5422,
+        "aniId": 35422,
+        "createdAt": "2021-01-22T08:04:35.000Z",
+        "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yasha": {
+        "authors": [
+          "YOSHIDA Akimi"
+        ],
+        "identifier": "yasha",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yasha",
+        "url": "https://fanfox.net/manga/yasha/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4508/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5422,
+        "aniId": 35422,
+        "createdAt": "2021-04-22T11:00:29.000Z",
+        "updatedAt": "2021-11-20T21:48:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

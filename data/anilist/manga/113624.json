@@ -45,6 +45,73 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "yakuza-reincarnation": {
+        "authors": [
+          "MIYASHITA Hiroki",
+          "NATSUHARA Takeshi"
+        ],
+        "identifier": "yakuza-reincarnation",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yakuza Reincarnation",
+        "url": "https://mangasee123.com/manga/Yakuza-Reincarnation",
+        "image": "https://cover.nep.li/cover/Yakuza-Reincarnation.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 123065,
+        "aniId": 113624,
+        "createdAt": "2020-12-29T00:00:13.000Z",
+        "updatedAt": "2021-11-20T16:14:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ninkyou_tensei": {
+        "authors": [
+          "MIYASHITA Hiroki",
+          "NATSUHARA Takeshi"
+        ],
+        "identifier": "ninkyou_tensei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ninkyou Tensei",
+        "url": "https://fanfox.net/manga/ninkyou_tensei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32222/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 123065,
+        "aniId": 113624,
+        "createdAt": "2020-12-29T23:55:08.000Z",
+        "updatedAt": "2021-11-20T16:14:08.000Z",
+        "deletedAt": null
+      },
+      "ninkyou_tensei_isekai_no_yakuzahime": {
+        "authors": [
+          "MIYASHITA Hiroki",
+          "NATSUHARA Takeshi"
+        ],
+        "identifier": "ninkyou_tensei_isekai_no_yakuzahime",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ninkyou Tensei: Isekai no Yakuzahime",
+        "url": "https://fanfox.net/manga/ninkyou_tensei_isekai_no_yakuzahime/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35474/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123065,
+        "aniId": 113624,
+        "createdAt": "2021-01-27T13:40:26.000Z",
+        "updatedAt": "2021-11-20T17:45:39.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-gp983750": {
         "authors": [

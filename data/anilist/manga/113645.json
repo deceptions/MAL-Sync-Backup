@@ -23,5 +23,28 @@
   "createdAt": "2021-05-20T14:59:29.000Z",
   "updatedAt": "2021-06-18T07:32:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "hana-chan-and-the-shape-of-the-world": {
+        "authors": [
+          "UEDA Ryoutarou"
+        ],
+        "identifier": "hana-chan-and-the-shape-of-the-world",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hana-chan and the Shape of the World",
+        "url": "https://mangasee123.com/manga/Hana-chan-and-the-Shape-of-the-World",
+        "image": "https://cover.nep.li/cover/Hana-chan-and-the-Shape-of-the-World.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129812,
+        "aniId": 113645,
+        "createdAt": "2021-05-11T16:25:20.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

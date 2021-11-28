@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 140098,
   "createdAt": "2021-06-04T01:20:00.000Z",
-  "updatedAt": "2021-11-20T17:14:04.000Z",
+  "updatedAt": "2021-11-21T01:31:50.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The All-devouring Whale",
+      "鲲吞天下",
+      "King of Spirit Beast"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mo"
+    ],
+    "id": 140098,
+    "malId": null,
+    "type": "manga",
+    "title": "Kun Tun Tianxia",
+    "url": "https://anilist.co/manga/140098",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b140098-MGK5JvDyHujJ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-08T09:32:19.000Z",
+    "updatedAt": "2021-11-21T01:30:42.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

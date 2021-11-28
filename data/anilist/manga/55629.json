@@ -41,6 +41,51 @@
         "updatedAt": "2021-06-02T16:42:13.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "melty_blood_x": {
+        "authors": [
+          "Type-Moon"
+        ],
+        "identifier": "melty_blood_x",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Melty Blood X",
+        "url": "https://fanfox.net/manga/melty_blood_x/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9806/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25629,
+        "aniId": 55629,
+        "createdAt": "2021-03-21T00:36:41.000Z",
+        "updatedAt": "2021-11-20T19:45:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "melty-blood-x": {
+        "authors": [
+          "KIRISHIMA Takeru",
+          "Type-Moon"
+        ],
+        "identifier": "melty-blood-x",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Melty Blood X",
+        "url": "https://mangasee123.com/manga/Melty-Blood-X",
+        "image": "https://cover.nep.li/cover/Melty-Blood-X.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25629,
+        "aniId": 55629,
+        "createdAt": "2021-04-04T20:08:27.000Z",
+        "updatedAt": "2021-11-20T21:17:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

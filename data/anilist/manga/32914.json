@@ -112,6 +112,37 @@
         "updatedAt": "2021-06-04T13:26:01.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "robot": {
+        "authors": [
+          "OKAMA",
+          "KINUTANI Yuu",
+          "MIURA Yasuto",
+          "NARUKO Hanaharu",
+          "SANBE Kei",
+          "NEKOI Mie",
+          "Sabe",
+          "ABE Yoshitoshi",
+          "ITOH Mami",
+          "YASUDA Suzuhi"
+        ],
+        "identifier": "robot",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Robot",
+        "url": "https://fanfox.net/manga/robot/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3403/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2914,
+        "aniId": 32914,
+        "createdAt": "2021-03-08T15:10:34.000Z",
+        "updatedAt": "2021-11-20T19:16:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

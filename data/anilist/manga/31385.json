@@ -41,6 +41,51 @@
         "updatedAt": "2021-06-02T08:16:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "cloth-road": {
+        "authors": [
+          "KURATA Hideyuki",
+          "OKAMA"
+        ],
+        "identifier": "cloth-road",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Cloth Road",
+        "url": "https://mangasee123.com/manga/Cloth-Road",
+        "image": "https://cover.nep.li/cover/Cloth-Road.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1385,
+        "aniId": 31385,
+        "createdAt": "2021-03-02T17:21:40.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "cloth_road": {
+        "authors": [
+          "KURATA Hideyuki"
+        ],
+        "identifier": "cloth_road",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cloth Road",
+        "url": "https://fanfox.net/manga/cloth_road/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1984/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1385,
+        "aniId": 31385,
+        "createdAt": "2021-05-10T20:13:23.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -39,6 +39,50 @@
         "updatedAt": "2021-06-02T18:15:33.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hana_michi_otome": {
+        "authors": [
+          "HAMASIN"
+        ],
+        "identifier": "hana_michi_otome",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hana Michi Otome",
+        "url": "https://fanfox.net/manga/hana_michi_otome/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10145/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32199,
+        "aniId": 62199,
+        "createdAt": "2021-03-14T09:39:39.000Z",
+        "updatedAt": "2021-11-20T19:45:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hana-michi-otome": {
+        "authors": [
+          "HAMASIN"
+        ],
+        "identifier": "hana-michi-otome",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hana Michi Otome",
+        "url": "https://mangasee123.com/manga/Hana-Michi-Otome",
+        "image": "https://cover.nep.li/cover/Hana-Michi-Otome.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32199,
+        "aniId": 62199,
+        "createdAt": "2021-04-22T11:27:07.000Z",
+        "updatedAt": "2021-11-20T21:48:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

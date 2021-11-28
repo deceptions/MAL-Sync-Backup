@@ -11,13 +11,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 140407,
   "createdAt": "2021-08-29T23:36:38.000Z",
-  "updatedAt": "2021-10-31T14:06:30.000Z",
+  "updatedAt": "2021-11-24T17:38:02.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Greatest Estate Developer",
+      "역대급 영지 설계사",
+      "The World's Best Engineer",
+      "The Greatest Estate Designer "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hyun-Min Lee",
+      "Back-Kyung Moon",
+      "Hyeon-Su Kim"
+    ],
+    "id": 140407,
+    "malId": null,
+    "type": "manga",
+    "title": "Yeokdaegeum Yeongji Seolgyesa",
+    "url": "https://anilist.co/manga/140407",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140407-tiRecSZiDCmo.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-18T18:28:50.000Z",
+    "updatedAt": "2021-11-21T08:42:38.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

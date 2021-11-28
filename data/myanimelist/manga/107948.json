@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "My Solo Exchange Diary",
     "Exchange Diaries by Myself",
@@ -17,7 +17,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:07.000Z",
-  "updatedAt": "2021-09-07T09:04:45.000Z",
+  "updatedAt": "2021-11-24T01:37:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 99140,
         "createdAt": "2020-10-12T16:12:32.000Z",
         "updatedAt": "2021-06-05T15:10:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hitori_koukan_nikki": {
+        "authors": [
+          "NAGATA Kabi"
+        ],
+        "identifier": "hitori_koukan_nikki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hitori Koukan Nikki",
+        "url": "https://fanfox.net/manga/hitori_koukan_nikki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28874/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107948,
+        "aniId": 99140,
+        "createdAt": "2021-03-18T04:32:55.000Z",
+        "updatedAt": "2021-11-20T19:45:17.000Z",
         "deletedAt": null
       }
     },

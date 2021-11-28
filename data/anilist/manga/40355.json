@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-03T11:58:07.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "reideen": {
+        "authors": [
+          "KARASUMA Tasuku"
+        ],
+        "identifier": "reideen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Reideen",
+        "url": "https://fanfox.net/manga/reideen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2787/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10355,
+        "aniId": 40355,
+        "createdAt": "2021-03-23T03:35:29.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

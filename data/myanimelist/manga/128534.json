@@ -1,7 +1,16 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://pocket.shonenmagazine.com/episode/13933686331662787205"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/彼女、お借りします"
+    }
+  ],
   "altTitle": [
-    "Rent-A-(Really Shy!)-Girlfriend",
+    "Rent-a-(Really Shy!)-Girlfriend",
     "彼女、人見知ります"
   ],
   "authors": [
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:23.000Z",
-  "updatedAt": "2021-06-01T15:34:30.000Z",
+  "updatedAt": "2021-11-22T17:37:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +46,51 @@
         "aniId": 119767,
         "createdAt": "2020-10-12T16:20:13.000Z",
         "updatedAt": "2021-06-07T23:33:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kanojo-hitomishirimasu": {
+        "authors": [
+          "MIYAJIMA Reiji",
+          "Yunkeru"
+        ],
+        "identifier": "kanojo-hitomishirimasu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kanojo, Hitomishirimasu",
+        "url": "https://mangasee123.com/manga/Kanojo-Hitomishirimasu",
+        "image": "https://cover.nep.li/cover/Kanojo-Hitomishirimasu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128534,
+        "aniId": 119767,
+        "createdAt": "2020-12-18T12:57:00.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kanojo_hitomishirimasu": {
+        "authors": [
+          "MIYAJIMA Reiji"
+        ],
+        "identifier": "kanojo_hitomishirimasu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kanojo, Hitomishirimasu",
+        "url": "https://fanfox.net/manga/kanojo_hitomishirimasu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34706/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128534,
+        "aniId": 119767,
+        "createdAt": "2021-02-17T07:21:16.000Z",
+        "updatedAt": "2021-11-20T18:44:26.000Z",
         "deletedAt": null
       }
     },

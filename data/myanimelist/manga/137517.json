@@ -21,5 +21,28 @@
   "createdAt": "2021-10-10T17:02:38.000Z",
   "updatedAt": "2021-11-14T22:45:19.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mi990065": {
+        "authors": [
+          "Ishikawa Hideyuki"
+        ],
+        "identifier": "manga-mi990065",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Maguro-Shoujo",
+        "url": "https://manganato.com/manga-mi990065",
+        "image": "https://avt.mkklcdnv6temp.com/8/l/25-1637514159.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 137517,
+        "aniId": 125508,
+        "createdAt": "2021-11-21T18:43:30.000Z",
+        "updatedAt": "2021-11-21T19:12:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "Marginal",
     "Maajinare",
@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:22.000Z",
-  "updatedAt": "2021-07-22T20:33:59.000Z",
+  "updatedAt": "2021-11-27T08:06:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 39174,
         "createdAt": "2020-10-12T16:03:03.000Z",
         "updatedAt": "2021-06-02T11:23:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "marginal": {
+        "authors": [
+          "HAGIO Moto"
+        ],
+        "identifier": "marginal",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Marginal",
+        "url": "https://mangasee123.com/manga/Marginal",
+        "image": "https://cover.nep.li/cover/Marginal.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9174,
+        "aniId": 39174,
+        "createdAt": "2021-11-27T08:05:54.000Z",
+        "updatedAt": "2021-11-27T08:35:32.000Z",
         "deletedAt": null
       }
     }

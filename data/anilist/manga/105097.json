@@ -62,11 +62,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
-        "malId": 116790,
+        "actor": 1,
+        "malId": null,
         "aniId": 105097,
         "createdAt": "2020-10-12T16:18:14.000Z",
-        "updatedAt": "2021-06-07T15:12:28.000Z",
+        "updatedAt": "2021-11-22T08:42:01.000Z",
         "deletedAt": null
       },
       "80d82c48-4895-43b3-b28f-5ed2b0362067": {
@@ -82,11 +82,75 @@
         "hentai": false,
         "sticky": false,
         "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 105097,
+        "createdAt": "2020-10-12T16:19:55.000Z",
+        "updatedAt": "2021-11-22T08:41:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "girl_that_can_see_it": {
+        "authors": [
+          "Tomoki Izumi"
+        ],
+        "identifier": "girl_that_can_see_it",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Girl That Can See It",
+        "url": "https://fanfox.net/manga/girl_that_can_see_it/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29195/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
         "actor": null,
         "malId": 116790,
         "aniId": 105097,
-        "createdAt": "2020-10-12T16:19:55.000Z",
-        "updatedAt": "2021-06-07T22:58:11.000Z",
+        "createdAt": "2020-12-23T10:26:58.000Z",
+        "updatedAt": "2021-11-20T16:14:06.000Z",
+        "deletedAt": null
+      },
+      "mieruko_chan": {
+        "authors": [
+          "Izumi Tomoki"
+        ],
+        "identifier": "mieruko_chan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mieruko-chan",
+        "url": "https://fanfox.net/manga/mieruko_chan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29254/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116790,
+        "aniId": 105097,
+        "createdAt": "2021-02-08T05:49:58.000Z",
+        "updatedAt": "2021-11-20T18:44:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mieruko-chan": {
+        "authors": [
+          "Izumi Tomoki"
+        ],
+        "identifier": "mieruko-chan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mieruko-chan",
+        "url": "https://mangasee123.com/manga/Mieruko-chan",
+        "image": "https://cover.nep.li/cover/Mieruko-chan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116790,
+        "aniId": 105097,
+        "createdAt": "2020-12-24T00:57:05.000Z",
+        "updatedAt": "2021-11-20T16:14:06.000Z",
         "deletedAt": null
       }
     },

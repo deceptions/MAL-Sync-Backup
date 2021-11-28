@@ -1,12 +1,17 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.sunday-webry.com/series/1091"
+    }
+  ],
   "altTitle": [
     "Young Master the Grim Reaper and the Black Maid",
     "The Duke of Death and his Black Maid",
     "死神坊ちゃんと黒メイド"
   ],
   "authors": [
-    "Ikami, Koharu"
+    "Inoue, Koharu"
   ],
   "id": 110029,
   "type": "manga",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:18.000Z",
-  "updatedAt": "2021-08-28T21:07:04.000Z",
+  "updatedAt": "2021-11-27T07:07:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,50 @@
         "aniId": 100293,
         "createdAt": "2020-10-12T16:11:02.000Z",
         "updatedAt": "2021-07-09T18:14:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-duke-of-death-and-his-black-maid": {
+        "authors": [
+          "INOUE Koharu"
+        ],
+        "identifier": "the-duke-of-death-and-his-black-maid",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Duke of Death and his Black Maid",
+        "url": "https://mangasee123.com/manga/The-Duke-Of-Death-And-His-Black-Maid",
+        "image": "https://cover.nep.li/cover/The-Duke-Of-Death-And-His-Black-Maid.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110029,
+        "aniId": 100293,
+        "createdAt": "2020-12-16T15:26:34.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_duke_of_death_and_his_black_maid": {
+        "authors": [
+          "INOUE Koharu"
+        ],
+        "identifier": "the_duke_of_death_and_his_black_maid",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Duke of Death and his Black Maid",
+        "url": "https://fanfox.net/manga/the_duke_of_death_and_his_black_maid/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26577/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110029,
+        "aniId": 100293,
+        "createdAt": "2021-02-11T22:40:42.000Z",
+        "updatedAt": "2021-11-20T18:44:25.000Z",
         "deletedAt": null
       }
     },

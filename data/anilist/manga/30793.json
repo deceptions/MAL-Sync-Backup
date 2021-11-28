@@ -39,6 +39,50 @@
         "updatedAt": "2021-06-02T20:09:11.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "wanted": {
+        "authors": [
+          "ODA Eiichiro"
+        ],
+        "identifier": "wanted",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Wanted!",
+        "url": "https://mangasee123.com/manga/Wanted",
+        "image": "https://cover.nep.li/cover/Wanted.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 793,
+        "aniId": 30793,
+        "createdAt": "2021-01-17T02:02:51.000Z",
+        "updatedAt": "2021-11-20T17:15:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "one_piece_wanted": {
+        "authors": [
+          "ODA Eiichiro"
+        ],
+        "identifier": "one_piece_wanted",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "One Piece: Wanted!",
+        "url": "https://fanfox.net/manga/one_piece_wanted/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/924/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 793,
+        "aniId": 30793,
+        "createdAt": "2021-03-29T11:19:26.000Z",
+        "updatedAt": "2021-11-20T20:46:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -1,6 +1,12 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://pocket.shonenmagazine.com/episode/13933686331813840778"
+    }
+  ],
   "altTitle": [
+    "Go, Go, Loser Ranger!",
     "Ranger Reject",
     "戦隊大失格"
   ],
@@ -15,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-02T22:01:47.000Z",
-  "updatedAt": "2021-05-30T20:12:44.000Z",
+  "updatedAt": "2021-11-27T23:06:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +43,50 @@
         "aniId": 127564,
         "createdAt": "2021-01-29T22:56:26.000Z",
         "updatedAt": "2021-06-08T10:37:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ranger-reject": {
+        "authors": [
+          "HARUBA Negi"
+        ],
+        "identifier": "ranger-reject",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ranger Reject",
+        "url": "https://mangasee123.com/manga/Ranger-Reject",
+        "image": "https://cover.nep.li/cover/Ranger-Reject.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132129,
+        "aniId": 127564,
+        "createdAt": "2021-02-18T16:48:42.000Z",
+        "updatedAt": "2021-11-20T18:44:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sentai_daishikkaku": {
+        "authors": [
+          "HARUBA Negi"
+        ],
+        "identifier": "sentai_daishikkaku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sentai Daishikkaku",
+        "url": "https://fanfox.net/manga/sentai_daishikkaku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37676/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132129,
+        "aniId": 127564,
+        "createdAt": "2021-03-31T23:30:55.000Z",
+        "updatedAt": "2021-11-20T20:46:01.000Z",
         "deletedAt": null
       }
     },

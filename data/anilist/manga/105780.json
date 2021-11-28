@@ -71,6 +71,51 @@
         "updatedAt": "2021-06-06T17:55:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "ne0lation": {
+        "authors": [
+          "Mizuki Yoda",
+          "Tomohide Hirao"
+        ],
+        "identifier": "ne0lation",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ne0;lation",
+        "url": "https://mangasee123.com/manga/Ne0lation",
+        "image": "https://cover.nep.li/cover/Ne0lation.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116975,
+        "aniId": 105780,
+        "createdAt": "2021-03-30T12:01:40.000Z",
+        "updatedAt": "2021-11-20T20:46:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ne0_lation": {
+        "authors": [
+          "Tomohide Hirao"
+        ],
+        "identifier": "ne0_lation",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ne0;lation",
+        "url": "https://fanfox.net/manga/ne0_lation/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29579/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116975,
+        "aniId": 105780,
+        "createdAt": "2021-03-31T10:01:04.000Z",
+        "updatedAt": "2021-11-20T20:46:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

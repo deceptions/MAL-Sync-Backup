@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://webtoon.daum.net/webtoon/view/girlsinsun"
+    }
+  ],
   "altTitle": [
     "Sonyeo Sinseon",
     "소녀 신선"
@@ -15,7 +20,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:54.000Z",
-  "updatedAt": "2021-05-23T16:38:27.000Z",
+  "updatedAt": "2021-11-21T15:13:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 111652,
         "createdAt": "2020-10-12T16:10:49.000Z",
         "updatedAt": "2021-06-05T09:18:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zw977079": {
+        "authors": [
+          "Hyomi"
+        ],
+        "identifier": "manga-zw977079",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shaman Girl",
+        "url": "https://readmanganato.com/manga-zw977079",
+        "image": "https://avt.mkklcdnv6temp.com/34/w/15-1583492830.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118777,
+        "aniId": 111652,
+        "createdAt": "2021-11-21T15:12:58.000Z",
+        "updatedAt": "2021-11-21T15:42:37.000Z",
         "deletedAt": null
       }
     }

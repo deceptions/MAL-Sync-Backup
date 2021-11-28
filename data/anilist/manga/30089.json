@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-03T09:42:10.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "gals": {
+        "authors": [
+          "FUJII Mihona"
+        ],
+        "identifier": "gals",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "GALS!",
+        "url": "https://fanfox.net/manga/gals/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2161/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89,
+        "aniId": 30089,
+        "createdAt": "2021-03-07T04:03:42.000Z",
+        "updatedAt": "2021-11-20T19:16:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

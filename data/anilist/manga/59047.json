@@ -40,6 +40,50 @@
         "updatedAt": "2021-06-02T12:05:02.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "akuma_no_ikenie": {
+        "authors": [
+          "TACHIBANA Ayun"
+        ],
+        "identifier": "akuma_no_ikenie",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Akuma no Ikenie",
+        "url": "https://fanfox.net/manga/akuma_no_ikenie/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9500/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29047,
+        "aniId": 59047,
+        "createdAt": "2021-02-15T02:05:46.000Z",
+        "updatedAt": "2021-11-20T18:44:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "akuma-no-ikenie": {
+        "authors": [
+          "TACHIBANA Ayun"
+        ],
+        "identifier": "akuma-no-ikenie",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Akuma no Ikenie",
+        "url": "https://mangasee123.com/manga/Akuma-No-Ikenie",
+        "image": "https://cover.nep.li/cover/Akuma-No-Ikenie.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29047,
+        "aniId": 59047,
+        "createdAt": "2021-04-07T18:20:59.000Z",
+        "updatedAt": "2021-11-20T21:17:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

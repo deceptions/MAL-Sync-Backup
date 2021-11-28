@@ -46,6 +46,28 @@
         "updatedAt": "2021-06-02T09:55:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "koi_no_kamisama": {
+        "authors": [
+          "KOMI Naoshi"
+        ],
+        "identifier": "koi_no_kamisama",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koi no Kamisama",
+        "url": "https://fanfox.net/manga/koi_no_kamisama/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4026/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70251,
+        "aniId": 91144,
+        "createdAt": "2021-05-20T20:44:31.000Z",
+        "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

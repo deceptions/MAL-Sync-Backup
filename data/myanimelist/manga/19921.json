@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-07T22:03:41.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "beyond_the_feeling": {
+        "authors": [
+          "KUROMASA Shisei"
+        ],
+        "identifier": "beyond_the_feeling",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Beyond the Feeling",
+        "url": "https://fanfox.net/manga/beyond_the_feeling/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9698/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19921,
+        "aniId": 49921,
+        "createdAt": "2021-03-25T12:49:17.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

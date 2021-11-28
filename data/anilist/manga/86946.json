@@ -44,6 +44,29 @@
         "updatedAt": "2021-06-04T11:10:08.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "etotama": {
+        "authors": [
+          "HOSHI Takashi",
+          "ZEKUU Tooru"
+        ],
+        "identifier": "etotama",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Etotama",
+        "url": "https://fanfox.net/manga/etotama/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/19107/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82011,
+        "aniId": 86946,
+        "createdAt": "2021-02-19T00:03:59.000Z",
+        "updatedAt": "2021-11-20T18:44:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

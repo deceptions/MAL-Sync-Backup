@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%83%E3%81%AB%E3%82%80%E3%81%ABGO"
+    }
+  ],
   "altTitle": [
     "しゃにむにGO"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:18.000Z",
-  "updatedAt": "2021-05-25T21:08:59.000Z",
+  "updatedAt": "2021-11-25T21:36:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,28 +62,6 @@
         "aniId": 38218,
         "createdAt": "2020-10-12T16:18:29.000Z",
         "updatedAt": "2021-06-07T17:19:59.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "shanimuni-go": {
-        "authors": [
-          "RAGAWA Marimo"
-        ],
-        "identifier": "shanimuni-go",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Shanimuni Go",
-        "url": "https://mangasee123.com/manga/Shanimuni-Go",
-        "image": "https://cover.nep.li/cover/Shanimuni-Go.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 8218,
-        "aniId": 38218,
-        "createdAt": "2021-05-25T21:09:00.000Z",
-        "updatedAt": "2021-05-25T21:38:18.000Z",
         "deletedAt": null
       }
     },

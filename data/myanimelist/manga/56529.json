@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kadokawa.co.jp/sp/bungo/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%87%E8%B1%AA%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%89%E3%83%83%E3%82%B0%E3%82%B9"
+    }
+  ],
   "altTitle": [
     "Bungo Stray Dogs",
     "文豪ストレイドッグス"
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:48.000Z",
-  "updatedAt": "2021-06-22T12:46:27.000Z",
+  "updatedAt": "2021-11-21T05:43:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +69,51 @@
         "aniId": 85307,
         "createdAt": "2020-10-12T16:18:56.000Z",
         "updatedAt": "2021-06-07T20:59:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "bungou_stray_dogs": {
+        "authors": [
+          "ASAGIRI Kafuka"
+        ],
+        "identifier": "bungou_stray_dogs",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bungou Stray Dogs",
+        "url": "https://fanfox.net/manga/bungou_stray_dogs/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13700/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56529,
+        "aniId": 85307,
+        "createdAt": "2020-12-19T01:56:20.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "bungo-stray-dogs": {
+        "authors": [
+          "ASAGIRI Kafuka",
+          "Hirukawa 35"
+        ],
+        "identifier": "bungo-stray-dogs",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bungo Stray Dogs",
+        "url": "https://mangasee123.com/manga/Bungo-Stray-Dogs",
+        "image": "https://cover.nep.li/cover/Bungo-Stray-Dogs.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56529,
+        "aniId": 85307,
+        "createdAt": "2020-12-19T12:56:51.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
         "deletedAt": null
       }
     },

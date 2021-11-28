@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-02T18:16:33.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "xue_lian": {
+        "authors": [
+          "Yan Xi"
+        ],
+        "identifier": "xue_lian",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Xue Lian",
+        "url": "https://fanfox.net/manga/xue_lian/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8338/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21662,
+        "aniId": 51662,
+        "createdAt": "2021-03-03T15:51:45.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

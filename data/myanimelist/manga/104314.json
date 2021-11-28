@@ -1,6 +1,16 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://bigcomicbros.net/work/6279"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%AC%E3%83%BC%E3%83%B3"
+    }
+  ],
   "altTitle": [
+    "Jagan",
     "ジャガーン"
   ],
   "authors": [
@@ -15,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:57.000Z",
-  "updatedAt": "2021-05-28T19:24:05.000Z",
+  "updatedAt": "2021-11-22T03:13:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +48,51 @@
         "aniId": 98328,
         "createdAt": "2020-10-12T16:10:34.000Z",
         "updatedAt": "2021-06-05T01:39:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "jagaaaaaan": {
+        "authors": [
+          "KANESHIRO Muneyuki",
+          "NISHIDA Kensuke"
+        ],
+        "identifier": "jagaaaaaan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Jagaaaaaan",
+        "url": "https://mangasee123.com/manga/Jagaaaaaan",
+        "image": "https://cover.nep.li/cover/Jagaaaaaan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104314,
+        "aniId": 98328,
+        "createdAt": "2020-11-10T17:13:34.000Z",
+        "updatedAt": "2021-11-20T15:46:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "jagaaaaaan": {
+        "authors": [
+          "KANESHIRO Muneyuki"
+        ],
+        "identifier": "jagaaaaaan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Jagaaaaaan",
+        "url": "https://fanfox.net/manga/jagaaaaaan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/24119/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104314,
+        "aniId": 98328,
+        "createdAt": "2020-12-19T23:28:15.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
         "deletedAt": null
       }
     },

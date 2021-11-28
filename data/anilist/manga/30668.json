@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-04T01:29:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "appleseed": {
+        "authors": [
+          "SHIROW Masamune"
+        ],
+        "identifier": "appleseed",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Appleseed",
+        "url": "https://mangasee123.com/manga/Appleseed",
+        "image": "https://cover.nep.li/cover/Appleseed.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 668,
+        "aniId": 30668,
+        "createdAt": "2021-02-01T09:31:54.000Z",
+        "updatedAt": "2021-11-20T18:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -18,5 +18,28 @@
   "createdAt": "2021-05-20T22:13:47.000Z",
   "updatedAt": "2021-11-20T22:19:33.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "totally_captivated_dj_totally_spying_on_them": {
+        "authors": [
+          "YOO Ha jin"
+        ],
+        "identifier": "totally_captivated_dj_totally_spying_on_them",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Totally Captivated dj - Totally Spying On Them",
+        "url": "https://fanfox.net/manga/totally_captivated_dj_totally_spying_on_them/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5689/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13449,
+        "aniId": null,
+        "createdAt": "2021-05-20T22:13:47.000Z",
+        "updatedAt": "2021-11-20T23:14:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

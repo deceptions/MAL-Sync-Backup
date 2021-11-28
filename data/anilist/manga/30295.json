@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-02T22:42:22.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "angel_dust_neo": {
+        "authors": [
+          "NANASE Aoi"
+        ],
+        "identifier": "angel_dust_neo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Angel Dust Neo",
+        "url": "https://fanfox.net/manga/angel_dust_neo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2408/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 295,
+        "aniId": 30295,
+        "createdAt": "2021-05-04T03:33:41.000Z",
+        "updatedAt": "2021-11-20T22:22:05.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

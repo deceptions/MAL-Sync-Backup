@@ -46,6 +46,51 @@
         "updatedAt": "2021-06-02T11:20:31.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "kamisama-no-inai-nichiyoubi": {
+        "authors": [
+          "ABARA Heiki",
+          "IRIE Kimihito"
+        ],
+        "identifier": "kamisama-no-inai-nichiyoubi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kamisama no Inai Nichiyoubi",
+        "url": "https://mangasee123.com/manga/Kamisama-No-Inai-Nichiyoubi",
+        "image": "https://cover.nep.li/cover/Kamisama-No-Inai-Nichiyoubi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29651,
+        "aniId": 59651,
+        "createdAt": "2021-03-24T19:50:04.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kamisama_no_inai_nichiyoubi": {
+        "authors": [
+          "IRIE Kimihito"
+        ],
+        "identifier": "kamisama_no_inai_nichiyoubi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kamisama no Inai Nichiyoubi",
+        "url": "https://fanfox.net/manga/kamisama_no_inai_nichiyoubi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9435/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29651,
+        "aniId": 59651,
+        "createdAt": "2021-04-28T00:21:13.000Z",
+        "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

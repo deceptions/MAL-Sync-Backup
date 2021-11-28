@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-05T04:33:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kimi_to_wonderland": {
+        "authors": [
+          "WATANABE Kana"
+        ],
+        "identifier": "kimi_to_wonderland",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi to Wonderland",
+        "url": "https://fanfox.net/manga/kimi_to_wonderland/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26633/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 107891,
+        "aniId": 99751,
+        "createdAt": "2021-03-28T11:19:06.000Z",
+        "updatedAt": "2021-11-20T20:45:59.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

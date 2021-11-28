@@ -43,6 +43,28 @@
         "updatedAt": "2021-06-02T14:02:41.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "holy_knight": {
+        "authors": [
+          "MIYAZAKI Maya"
+        ],
+        "identifier": "holy_knight",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Holy Knight",
+        "url": "https://fanfox.net/manga/holy_knight/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9574/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28133,
+        "aniId": 58133,
+        "createdAt": "2021-02-03T03:01:54.000Z",
+        "updatedAt": "2021-11-20T18:14:58.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

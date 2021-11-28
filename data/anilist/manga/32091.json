@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-08T00:57:30.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "toritsu_mahou_gakuen": {
+        "authors": [
+          "HOSHINO LILY"
+        ],
+        "identifier": "toritsu_mahou_gakuen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Toritsu Mahou Gakuen",
+        "url": "https://fanfox.net/manga/toritsu_mahou_gakuen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2586/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2091,
+        "aniId": 32091,
+        "createdAt": "2021-05-20T21:15:30.000Z",
+        "updatedAt": "2021-11-20T23:14:26.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -50,6 +50,50 @@
         "updatedAt": "2021-06-02T07:51:06.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "aoi-hana": {
+        "authors": [
+          "SHIMURA Takako"
+        ],
+        "identifier": "aoi-hana",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Aoi Hana",
+        "url": "https://mangasee123.com/manga/Aoi-Hana",
+        "image": "https://cover.nep.li/cover/Aoi-Hana.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1363,
+        "aniId": 31363,
+        "createdAt": "2021-04-17T13:14:18.000Z",
+        "updatedAt": "2021-11-20T21:48:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "aoi_hana": {
+        "authors": [
+          "SHIMURA Takako"
+        ],
+        "identifier": "aoi_hana",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Aoi Hana",
+        "url": "https://fanfox.net/manga/aoi_hana/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3111/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1363,
+        "aniId": 31363,
+        "createdAt": "2021-05-06T18:18:21.000Z",
+        "updatedAt": "2021-11-20T22:22:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

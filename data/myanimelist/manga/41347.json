@@ -47,6 +47,51 @@
         "updatedAt": "2021-06-03T12:43:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "kanojo-ga-flag-o-oraretara": {
+        "authors": [
+          "NAGIAN",
+          "TAKEI Touka"
+        ],
+        "identifier": "kanojo-ga-flag-o-oraretara",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kanojo ga Flag o Oraretara",
+        "url": "https://mangasee123.com/manga/Kanojo-Ga-Flag-O-Oraretara",
+        "image": "https://cover.nep.li/cover/Kanojo-Ga-Flag-O-Oraretara.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41347,
+        "aniId": 71347,
+        "createdAt": "2021-03-21T00:05:01.000Z",
+        "updatedAt": "2021-11-20T19:45:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kanojo_ga_flag_o_oraretara": {
+        "authors": [
+          "TAKEI Touka"
+        ],
+        "identifier": "kanojo_ga_flag_o_oraretara",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kanojo ga Flag o Oraretara",
+        "url": "https://fanfox.net/manga/kanojo_ga_flag_o_oraretara/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11219/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41347,
+        "aniId": 71347,
+        "createdAt": "2021-05-06T04:34:13.000Z",
+        "updatedAt": "2021-11-20T22:22:05.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

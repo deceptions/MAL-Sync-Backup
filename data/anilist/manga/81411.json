@@ -60,6 +60,28 @@
         "updatedAt": "2021-06-07T15:18:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "boku_no_geboku_ni_nare": {
+        "authors": [
+          "Assa"
+        ],
+        "identifier": "boku_no_geboku_ni_nare",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Boku no Geboku ni Nare!",
+        "url": "https://fanfox.net/manga/boku_no_geboku_ni_nare/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12473/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51411,
+        "aniId": 81411,
+        "createdAt": "2021-03-26T16:23:56.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

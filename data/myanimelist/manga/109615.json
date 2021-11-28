@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jp.square-enix.com/magazine/joker/series/renaigame/index.html"
+    }
+  ],
   "altTitle": [
     "俺の現実は恋愛ゲーム??かと思ったら命がけのゲームだった"
   ],
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:16.000Z",
-  "updatedAt": "2021-05-25T22:38:38.000Z",
+  "updatedAt": "2021-11-25T23:05:33.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +45,30 @@
         "aniId": 102547,
         "createdAt": "2020-10-12T16:12:51.000Z",
         "updatedAt": "2021-06-05T16:56:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ore-no-genjitsu": {
+        "authors": [
+          "Nashyu",
+          "PONJEA",
+          "Waruiotoko"
+        ],
+        "identifier": "ore-no-genjitsu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ore no Genjitsu wa Ren'ai Game??",
+        "url": "https://mangasee123.com/manga/Ore-No-Genjitsu",
+        "image": "https://cover.nep.li/cover/Ore-No-Genjitsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 109615,
+        "aniId": 102547,
+        "createdAt": "2021-01-11T13:51:31.000Z",
+        "updatedAt": "2021-11-20T17:15:26.000Z",
         "deletedAt": null
       }
     },

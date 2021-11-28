@@ -44,6 +44,28 @@
         "updatedAt": "2021-06-03T20:28:29.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "quick_start": {
+        "authors": [
+          "ADACHI Yousuke"
+        ],
+        "identifier": "quick_start",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Quick Start!!",
+        "url": "https://fanfox.net/manga/quick_start/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12744/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54829,
+        "aniId": 84829,
+        "createdAt": "2021-05-03T12:33:35.000Z",
+        "updatedAt": "2021-11-20T22:22:05.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

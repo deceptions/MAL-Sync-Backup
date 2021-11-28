@@ -42,6 +42,51 @@
         "updatedAt": "2021-06-02T08:18:08.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "paradox-blue": {
+        "authors": [
+          "NAKANISHI Tatsurou",
+          "Nini"
+        ],
+        "identifier": "paradox-blue",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Paradox Blue",
+        "url": "https://mangasee123.com/manga/Paradox-Blue",
+        "image": "https://cover.nep.li/cover/Paradox-Blue.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18056,
+        "aniId": 48056,
+        "createdAt": "2021-03-22T16:39:38.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "paradox_blue": {
+        "authors": [
+          "NAKANISHI Tatsurou"
+        ],
+        "identifier": "paradox_blue",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Paradox Blue",
+        "url": "https://fanfox.net/manga/paradox_blue/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8251/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18056,
+        "aniId": 48056,
+        "createdAt": "2021-05-10T20:13:24.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

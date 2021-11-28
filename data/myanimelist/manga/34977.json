@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8A%E3%83%A4%E3%83%9E%E3%82%BF"
+    }
+  ],
   "altTitle": [
     "ハナヤマタ"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:54.000Z",
-  "updatedAt": "2021-08-05T23:18:21.000Z",
+  "updatedAt": "2021-11-21T01:50:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +41,28 @@
         "aniId": 64977,
         "createdAt": "2020-10-12T16:06:43.000Z",
         "updatedAt": "2021-06-03T21:39:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hanayamata": {
+        "authors": [
+          "Sou"
+        ],
+        "identifier": "hanayamata",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hanayamata",
+        "url": "https://mangasee123.com/manga/Hanayamata",
+        "image": "https://cover.nep.li/cover/Hanayamata.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34977,
+        "aniId": 64977,
+        "createdAt": "2021-02-05T22:49:51.000Z",
+        "updatedAt": "2021-11-20T18:14:58.000Z",
         "deletedAt": null
       }
     },

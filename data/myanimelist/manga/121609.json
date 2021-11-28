@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://online.ichijinsha.co.jp/zerosum/comic/kuuki"
+    }
+  ],
   "altTitle": [
     "空気が「読める」新入社員と無愛想な先輩"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-10T09:41:03.000Z",
-  "updatedAt": "2021-05-21T11:13:39.000Z",
+  "updatedAt": "2021-11-21T11:42:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +63,28 @@
         "aniId": 114356,
         "createdAt": "2021-06-13T02:08:18.000Z",
         "updatedAt": "2021-06-13T13:08:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kuuki_ga_yomeru_shinnyushain_to_buaiso_na_senpai_no_hanashi": {
+        "authors": [
+          "Torihara Shu"
+        ],
+        "identifier": "kuuki_ga_yomeru_shinnyushain_to_buaiso_na_senpai_no_hanashi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kuuki ga",
+        "url": "https://fanfox.net/manga/kuuki_ga_yomeru_shinnyushain_to_buaiso_na_senpai_no_hanashi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32466/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 121609,
+        "aniId": 114356,
+        "createdAt": "2021-11-22T17:37:32.000Z",
+        "updatedAt": "2021-11-23T17:05:47.000Z",
         "deletedAt": null
       }
     }

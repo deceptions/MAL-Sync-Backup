@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:08.000Z",
-  "updatedAt": "2021-10-11T05:08:16.000Z",
+  "updatedAt": "2021-11-26T22:35:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -44,6 +44,51 @@
         "aniId": 52993,
         "createdAt": "2020-10-12T16:02:33.000Z",
         "updatedAt": "2021-06-02T07:57:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "accel-world": {
+        "authors": [
+          "AIGAMO Hiroyuki",
+          "KAWAHARA Reki"
+        ],
+        "identifier": "accel-world",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Accel World",
+        "url": "https://mangasee123.com/manga/Accel-World",
+        "image": "https://cover.nep.li/cover/Accel-World.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22993,
+        "aniId": 52993,
+        "createdAt": "2021-02-15T01:05:55.000Z",
+        "updatedAt": "2021-11-20T18:44:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "accel_world": {
+        "authors": [
+          "KAWAHARA Reki"
+        ],
+        "identifier": "accel_world",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Accel World",
+        "url": "https://fanfox.net/manga/accel_world/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8517/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22993,
+        "aniId": 52993,
+        "createdAt": "2021-04-17T05:44:51.000Z",
+        "updatedAt": "2021-11-20T21:48:16.000Z",
         "deletedAt": null
       }
     },

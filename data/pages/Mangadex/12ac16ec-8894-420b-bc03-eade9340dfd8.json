@@ -19,10 +19,20 @@
   "updatedAt": "2021-06-02T07:12:36.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.fujimishobo.co.jp/sp/201107trinity/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%83%8B%E3%83%86%E3%82%A3%E3%82%BB%E3%83%96%E3%83%B3_7%E4%BA%BA%E3%81%AE%E9%AD%94%E6%9B%B8%E4%BD%BF%E3%81%84"
+      }
+    ],
     "altTitle": [
       "Trinity Seven: The Seven Magicians",
-      "Trinity Seven: Shichinin no Mashotsukai, 7-nin no Mahoutsukai",
+      "Trinity Seven: Shichinin no Mashotsukai",
+      "7-nin no Mahoutsukai",
       "トリニティセブン 7人の魔書使い"
     ],
     "authors": [
@@ -37,7 +47,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:15.000Z",
-    "updatedAt": "2021-05-31T09:03:57.000Z",
+    "updatedAt": "2021-11-21T01:52:41.000Z",
     "deletedAt": null
   },
   "Anilist": {

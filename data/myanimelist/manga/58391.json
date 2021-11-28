@@ -44,6 +44,53 @@
         "updatedAt": "2021-06-04T00:36:09.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "kill-la-kill": {
+        "authors": [
+          "AKIZUKI Ryou",
+          "NAKASHIMA Kazuki",
+          "TRIGGER"
+        ],
+        "identifier": "kill-la-kill",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kill la Kill",
+        "url": "https://mangasee123.com/manga/Kill-La-Kill",
+        "image": "https://cover.nep.li/cover/Kill-La-Kill.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58391,
+        "aniId": 88609,
+        "createdAt": "2021-01-30T22:32:23.000Z",
+        "updatedAt": "2021-11-20T18:14:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kill_la_kill": {
+        "authors": [
+          "NAKASHIMA Kazuki",
+          "TRIGGER"
+        ],
+        "identifier": "kill_la_kill",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kill la Kill",
+        "url": "https://fanfox.net/manga/kill_la_kill/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13589/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58391,
+        "aniId": 88609,
+        "createdAt": "2021-03-03T14:21:22.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

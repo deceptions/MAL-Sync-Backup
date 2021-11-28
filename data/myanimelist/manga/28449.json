@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-03T12:22:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "saezuru_tori_wa_habatakanai": {
+        "authors": [
+          "YONEDA Kou"
+        ],
+        "identifier": "saezuru_tori_wa_habatakanai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Saezuru Tori wa Habatakanai",
+        "url": "https://fanfox.net/manga/saezuru_tori_wa_habatakanai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9458/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 28449,
+        "aniId": 58449,
+        "createdAt": "2021-04-10T15:21:47.000Z",
+        "updatedAt": "2021-11-20T21:17:18.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

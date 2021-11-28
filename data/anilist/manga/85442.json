@@ -58,11 +58,56 @@
         "hentai": false,
         "sticky": false,
         "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 85442,
+        "createdAt": "2020-10-12T16:21:34.000Z",
+        "updatedAt": "2021-11-22T08:41:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tate-no-yuusha-no-nariagari": {
+        "authors": [
+          "AIYA Kyu",
+          "ANEKO Yusagi"
+        ],
+        "identifier": "tate-no-yuusha-no-nariagari",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tate no Yuusha no Nariagari",
+        "url": "https://mangasee123.com/manga/Tate-No-Yuusha-No-Nariagari",
+        "image": "https://cover.nep.li/cover/Tate-No-Yuusha-No-Nariagari.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
         "actor": null,
         "malId": 67615,
         "aniId": 85442,
-        "createdAt": "2020-10-12T16:21:34.000Z",
-        "updatedAt": "2021-06-08T02:34:10.000Z",
+        "createdAt": "2020-12-16T17:58:11.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tate_no_yuusha_no_nariagari": {
+        "authors": [
+          "ANEKO Yusagi"
+        ],
+        "identifier": "tate_no_yuusha_no_nariagari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tate no Yuusha no Nariagari",
+        "url": "https://fanfox.net/manga/tate_no_yuusha_no_nariagari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14036/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 67615,
+        "aniId": 85442,
+        "createdAt": "2021-01-01T04:14:17.000Z",
+        "updatedAt": "2021-11-20T16:44:04.000Z",
         "deletedAt": null
       }
     },

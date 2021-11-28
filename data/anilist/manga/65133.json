@@ -39,6 +39,50 @@
         "updatedAt": "2021-06-02T18:32:21.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "seiketsu_no_haguruma": {
+        "authors": [
+          "HANAO Kohei"
+        ],
+        "identifier": "seiketsu_no_haguruma",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Seiketsu no Haguruma",
+        "url": "https://fanfox.net/manga/seiketsu_no_haguruma/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10172/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35133,
+        "aniId": 65133,
+        "createdAt": "2021-02-17T06:49:54.000Z",
+        "updatedAt": "2021-11-20T18:44:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "seiketsu-no-haguruma": {
+        "authors": [
+          "HANAO Kohei"
+        ],
+        "identifier": "seiketsu-no-haguruma",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Seiketsu no Haguruma",
+        "url": "https://mangasee123.com/manga/Seiketsu-No-Haguruma",
+        "image": "https://cover.nep.li/cover/Seiketsu-No-Haguruma.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35133,
+        "aniId": 65133,
+        "createdAt": "2021-03-21T12:35:13.000Z",
+        "updatedAt": "2021-11-20T19:45:18.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

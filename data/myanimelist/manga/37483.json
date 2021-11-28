@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-02T21:40:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "ore_no_ko_desu_ka": {
+        "authors": [
+          "KURITA Riku"
+        ],
+        "identifier": "ore_no_ko_desu_ka",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ore no Ko desu ka?",
+        "url": "https://fanfox.net/manga/ore_no_ko_desu_ka/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10624/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37483,
+        "aniId": 67483,
+        "createdAt": "2021-03-14T09:40:07.000Z",
+        "updatedAt": "2021-11-20T19:45:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

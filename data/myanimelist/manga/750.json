@@ -17,5 +17,28 @@
   "createdAt": "2021-04-28T15:21:22.000Z",
   "updatedAt": "2021-10-28T15:45:58.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "dvd": {
+        "authors": [
+          "CHUN Kye Young"
+        ],
+        "identifier": "dvd",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "DVD",
+        "url": "https://fanfox.net/manga/dvd/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3498/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 750,
+        "aniId": 30750,
+        "createdAt": "2021-04-28T15:21:22.000Z",
+        "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

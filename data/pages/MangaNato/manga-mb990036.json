@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 141954,
   "createdAt": "2021-11-19T10:14:43.000Z",
-  "updatedAt": "2021-11-19T10:14:43.000Z",
+  "updatedAt": "2021-11-23T16:36:53.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "악당이 살아가는 법",
+      "How to Live as a Villain"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gamsakeu",
+      "Ma-Sik Lee",
+      "Rundeugeurin"
+    ],
+    "id": 141954,
+    "malId": null,
+    "type": "manga",
+    "title": "Akdangi Saraganeun Beop",
+    "url": "https://anilist.co/manga/141954",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141954-7C2eS3NdcBx3.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-22T11:42:38.000Z",
+    "updatedAt": "2021-11-22T11:42:38.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

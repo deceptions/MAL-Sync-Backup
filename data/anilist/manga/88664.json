@@ -60,6 +60,28 @@
         "updatedAt": "2021-06-07T22:06:51.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "unknown": {
+        "authors": [
+          "YOSHIMURA Tsumuzi"
+        ],
+        "identifier": "unknown",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Unknown",
+        "url": "https://mangasee123.com/manga/Unknown",
+        "image": "https://cover.nep.li/cover/Unknown.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58717,
+        "aniId": 88664,
+        "createdAt": "2021-05-11T15:19:06.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

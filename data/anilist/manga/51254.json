@@ -40,6 +40,50 @@
         "updatedAt": "2021-06-02T12:05:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "kimi-no-neiro": {
+        "authors": [
+          "FUKUSHIMA Haruka"
+        ],
+        "identifier": "kimi-no-neiro",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kimi no Neiro",
+        "url": "https://mangasee123.com/manga/Kimi-No-Neiro",
+        "image": "https://cover.nep.li/cover/Kimi-No-Neiro.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21254,
+        "aniId": 51254,
+        "createdAt": "2021-01-12T22:21:40.000Z",
+        "updatedAt": "2021-11-20T17:15:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kimi_no_neiro": {
+        "authors": [
+          "FUKUSHIMA Haruka"
+        ],
+        "identifier": "kimi_no_neiro",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi no Neiro",
+        "url": "https://fanfox.net/manga/kimi_no_neiro/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9426/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21254,
+        "aniId": 51254,
+        "createdAt": "2021-03-26T16:19:35.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

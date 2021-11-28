@@ -1,7 +1,12 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://dengekidaioh.jp/product/sakuraisan/"
+    }
+  ],
   "altTitle": [
-    "Sakurai-san Wants To Be Noticed",
+    "Sakurai-san Wants to Be Noticed",
     "桜井さんは気づいてほしい"
   ],
   "authors": [
@@ -11,11 +16,11 @@
   "type": "manga",
   "title": "Sakurai-san wa Kizuite Hoshii",
   "url": "https://myanimelist.net/manga/124036/Sakurai-san_wa_Kizuite_Hoshii",
-  "image": "https://cdn.myanimelist.net/images/manga/1/233085.jpg",
+  "image": "https://cdn.myanimelist.net/images/manga/2/252607.jpg",
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:12.000Z",
-  "updatedAt": "2021-05-22T16:43:49.000Z",
+  "updatedAt": "2021-11-22T17:13:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 113801,
         "createdAt": "2021-01-10T18:52:23.000Z",
         "updatedAt": "2021-11-14T17:14:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sakurai_san_wa_kidzuite_hoshii": {
+        "authors": [
+          "AKINO Sora"
+        ],
+        "identifier": "sakurai_san_wa_kidzuite_hoshii",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sakurai-san wa kidzuite hoshii",
+        "url": "https://fanfox.net/manga/sakurai_san_wa_kidzuite_hoshii/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33534/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124036,
+        "aniId": 113801,
+        "createdAt": "2021-04-27T19:50:32.000Z",
+        "updatedAt": "2021-11-20T22:22:04.000Z",
         "deletedAt": null
       }
     },

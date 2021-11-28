@@ -108,6 +108,71 @@
         "deletedAt": null
       }
     },
+    "MangaFox": {
+      "dragon_ball_super": {
+        "authors": [
+          "TORIYAMA Akira"
+        ],
+        "identifier": "dragon_ball_super",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dragon Ball Super",
+        "url": "https://fanfox.net/manga/dragon_ball_super/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/16093/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89734,
+        "aniId": 86508,
+        "createdAt": "2020-12-20T10:26:09.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "dragon-ball-super": {
+        "authors": [
+          "TORIYAMA Akira"
+        ],
+        "identifier": "dragon-ball-super",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dragon Ball Super",
+        "url": "https://mangasee123.com/manga/Dragon-Ball-Super",
+        "image": "https://cover.nep.li/cover/Dragon-Ball-Super.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89734,
+        "aniId": 86508,
+        "createdAt": "2020-12-21T03:25:04.000Z",
+        "updatedAt": "2021-11-20T16:14:05.000Z",
+        "deletedAt": null
+      },
+      "dragon-ball-super-color": {
+        "authors": [
+          "TORIYAMA Akira",
+          "Toyotarou"
+        ],
+        "identifier": "dragon-ball-super-color",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dragon Ball Super - Color",
+        "url": "https://mangasee123.com/manga/Dragon-Ball-Super-Color",
+        "image": "https://cover.nep.li/cover/Dragon-Ball-Super-Color.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89734,
+        "aniId": 86508,
+        "createdAt": "2021-07-01T16:50:40.000Z",
+        "updatedAt": "2021-07-01T17:20:04.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-wl973694": {
         "authors": [
@@ -147,29 +212,6 @@
         "aniId": 86508,
         "createdAt": "2021-07-22T16:04:01.000Z",
         "updatedAt": "2021-07-22T16:33:48.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "dragon-ball-super-color": {
-        "authors": [
-          "TORIYAMA Akira",
-          "Toyotarou"
-        ],
-        "identifier": "dragon-ball-super-color",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Dragon Ball Super - Color",
-        "url": "https://mangasee123.com/manga/Dragon-Ball-Super-Color",
-        "image": "https://cover.nep.li/cover/Dragon-Ball-Super-Color.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 89734,
-        "aniId": 86508,
-        "createdAt": "2021-07-01T16:50:40.000Z",
-        "updatedAt": "2021-07-01T17:20:04.000Z",
         "deletedAt": null
       }
     }

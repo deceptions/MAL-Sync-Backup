@@ -42,6 +42,51 @@
         "updatedAt": "2021-06-05T22:25:48.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "shaman-king-red-crimson": {
+        "authors": [
+          "JET kusamura",
+          "TAKEI Hiroyuki"
+        ],
+        "identifier": "shaman-king-red-crimson",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shaman King - Red Crimson",
+        "url": "https://mangasee123.com/manga/Shaman-King-Red-Crimson",
+        "image": "https://cover.nep.li/cover/Shaman-King-Red-Crimson.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114665,
+        "aniId": 108968,
+        "createdAt": "2021-01-04T19:27:12.000Z",
+        "updatedAt": "2021-11-20T16:44:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shaman_king_red_crimson": {
+        "authors": [
+          "TAKEI Hiroyuki"
+        ],
+        "identifier": "shaman_king_red_crimson",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shaman King: Red Crimson",
+        "url": "https://fanfox.net/manga/shaman_king_red_crimson/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28857/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114665,
+        "aniId": 108968,
+        "createdAt": "2021-04-04T04:38:17.000Z",
+        "updatedAt": "2021-11-20T21:17:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

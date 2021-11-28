@@ -45,6 +45,28 @@
         "updatedAt": "2021-06-05T08:40:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "otakare_fujo_kano": {
+        "authors": [
+          "Shinobi"
+        ],
+        "identifier": "otakare_fujo_kano",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Otakare Fujo Kano",
+        "url": "https://fanfox.net/manga/otakare_fujo_kano/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27324/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109233,
+        "aniId": 101303,
+        "createdAt": "2021-05-08T11:48:06.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

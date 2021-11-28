@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-02T20:06:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hari_no_hana": {
+        "authors": [
+          "INARIYA Fusanosuke"
+        ],
+        "identifier": "hari_no_hana",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hari no Hana",
+        "url": "https://fanfox.net/manga/hari_no_hana/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6504/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15779,
+        "aniId": 45779,
+        "createdAt": "2021-04-01T14:00:53.000Z",
+        "updatedAt": "2021-11-20T21:17:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

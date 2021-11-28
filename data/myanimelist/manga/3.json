@@ -1,8 +1,16 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/20%E4%B8%96%E7%B4%80%E5%B0%91%E5%B9%B4"
+    }
+  ],
   "altTitle": [
     "20th Century Boys",
-    "20 Seiki Shounen, Nijuu Seiki Shounen, Nijuusseiki Shounen, 20thCB",
+    "20 Seiki Shounen",
+    "Nijuu Seiki Shounen",
+    "Nijuusseiki Shounen",
+    "20thCB",
     "20世紀少年"
   ],
   "authors": [
@@ -16,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:16.000Z",
-  "updatedAt": "2021-05-31T09:11:20.000Z",
+  "updatedAt": "2021-11-24T17:05:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +46,50 @@
         "aniId": 30003,
         "createdAt": "2020-10-12T16:02:46.000Z",
         "updatedAt": "2021-06-02T09:14:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "20th-century-boys": {
+        "authors": [
+          "URASAWA Naoki"
+        ],
+        "identifier": "20th-century-boys",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "20th Century Boys",
+        "url": "https://mangasee123.com/manga/20th-Century-Boys",
+        "image": "https://cover.nep.li/cover/20th-Century-Boys.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3,
+        "aniId": 30003,
+        "createdAt": "2020-12-22T02:56:08.000Z",
+        "updatedAt": "2021-11-20T16:14:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "20th_century_boys": {
+        "authors": [
+          "URASAWA Naoki"
+        ],
+        "identifier": "20th_century_boys",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "20th Century Boys",
+        "url": "https://fanfox.net/manga/20th_century_boys/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3,
+        "aniId": 30003,
+        "createdAt": "2021-02-12T18:05:54.000Z",
+        "updatedAt": "2021-11-20T18:44:25.000Z",
         "deletedAt": null
       }
     },

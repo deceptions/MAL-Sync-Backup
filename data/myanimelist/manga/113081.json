@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic-walker.com/contents/detail/KDCW_MF02000062010000_68/"
+    }
+  ],
   "altTitle": [
-    "Ruff Ruff Story: I Said Make Me a Rich Man's Dog, But I Didn't Say Make Me Fenrir!, Woof Woof Story: I Told You to Turn Me Into a Pampered Pooch, Not Fenrir!",
+    "Ruff Ruff Story: I Said Make Me a Rich Man's Dog, But I Didn't Say Make Me Fenrir!",
+    "Woof Woof Story: I Told You to Turn Me Into a Pampered Pooch, Not Fenrir!",
     "ワンワン物語 ～金持ちの犬にしてとは言ったが、フェンリルにしろとは言ってねえ！～"
   ],
   "authors": [
@@ -10,13 +16,13 @@
   ],
   "id": 113081,
   "type": "manga",
-  "title": "Wanwan Monogatari: Kanemochi no Inu ni Shite to wa Itta ga, Fenrir ni Shiro to wa Itte Nee!",
-  "url": "https://myanimelist.net/manga/113081/Wanwan_Monogatari__Kanemochi_no_Inu_ni_Shite_to_wa_Itta_ga_Fenrir_ni_Shiro_to_wa_Itte_Nee",
+  "title": "Wanwan Monogatari: Kanemochi no Inu ni Shite to wa Itta ga, Fenrir ni Shiro to wa Ittenee!",
+  "url": "https://myanimelist.net/manga/113081/Wanwan_Monogatari__Kanemochi_no_Inu_ni_Shite_to_wa_Itta_ga_Fenrir_ni_Shiro_to_wa_Ittenee",
   "image": "https://cdn.myanimelist.net/images/manga/2/215061.jpg",
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:31.000Z",
-  "updatedAt": "2021-05-25T07:08:48.000Z",
+  "updatedAt": "2021-11-25T07:36:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,26 +48,45 @@
         "deletedAt": null
       }
     },
-    "MangaSee": {
-      "wanwan-monogatari": {
+    "MangaFox": {
+      "wanwan_monogatari_kanemochi_no_inu_n_shite_to_wa_itta_ga_fenrir_ni_shiro_to_wa_itte_nee": {
         "authors": [
-          "Inumajin",
-          "KOIKUCHI Kiki"
+          "Inumajin"
         ],
-        "identifier": "wanwan-monogatari",
+        "identifier": "wanwan_monogatari_kanemochi_no_inu_n_shite_to_wa_itta_ga_fenrir_ni_shiro_to_wa_itte_nee",
         "type": "manga",
-        "page": "MangaSee",
-        "title": "Woof Woof Story - I Told You to Turn Me Into a Pampered Pooch, Not Fenrir!",
-        "url": "https://mangasee123.com/manga/Wanwan-Monogatari",
-        "image": "https://cover.nep.li/cover/Wanwan-Monogatari.jpg",
+        "page": "MangaFox",
+        "title": "Wanwan Monogatari ~Kanemochi no Inu n shite to wa Itta ga, Fenrir ni shiro to wa Itte nee!~",
+        "url": "https://fanfox.net/manga/wanwan_monogatari_kanemochi_no_inu_n_shite_to_wa_itta_ga_fenrir_ni_shiro_to_wa_itte_nee/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27856/cover.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 113081,
         "aniId": 101866,
-        "createdAt": "2021-05-25T07:08:49.000Z",
-        "updatedAt": "2021-05-25T07:38:17.000Z",
+        "createdAt": "2021-01-27T07:11:09.000Z",
+        "updatedAt": "2021-11-20T17:45:39.000Z",
+        "deletedAt": null
+      },
+      "woof_woof_story_i_told_you_to_turn_me_into_a_pampered_pooch_not_fenrir_novel": {
+        "authors": [
+          "Inumajin"
+        ],
+        "identifier": "woof_woof_story_i_told_you_to_turn_me_into_a_pampered_pooch_not_fenrir_novel",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Woof Woof Story: I Told You to Turn Me into a Pampered Pooch, Not Fenrir (Novel)",
+        "url": "https://fanfox.net/manga/woof_woof_story_i_told_you_to_turn_me_into_a_pampered_pooch_not_fenrir_novel/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33444/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113081,
+        "aniId": 101866,
+        "createdAt": "2021-03-02T07:20:36.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
         "deletedAt": null
       }
     },

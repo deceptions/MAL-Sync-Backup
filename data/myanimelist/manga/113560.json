@@ -45,6 +45,28 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "my-senpai-is-annoying": {
+        "authors": [
+          "Shiro Manta"
+        ],
+        "identifier": "my-senpai-is-annoying",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "My Senpai Is Annoying",
+        "url": "https://mangasee123.com/manga/My-Senpai-Is-Annoying",
+        "image": "https://cover.nep.li/cover/My-Senpai-Is-Annoying.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 113560,
+        "aniId": 103111,
+        "createdAt": "2020-12-29T23:55:33.000Z",
+        "updatedAt": "2021-11-20T16:14:08.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-bq978951": {
         "authors": [
@@ -64,6 +86,26 @@
         "aniId": 103111,
         "createdAt": "2021-05-29T11:13:04.000Z",
         "updatedAt": "2021-08-25T16:06:43.000Z",
+        "deletedAt": null
+      },
+      "manga-md989860": {
+        "authors": [
+          "Shiro Manta"
+        ],
+        "identifier": "manga-md989860",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Senpai Ga Uzai Kouhai No Hanashi",
+        "url": "https://manganato.com/manga-md989860",
+        "image": "https://avt.mkklcdnv6temp.com/49/w/24-1635010516.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 113560,
+        "aniId": 103111,
+        "createdAt": "2021-10-23T20:58:35.000Z",
+        "updatedAt": "2021-11-27T17:05:32.000Z",
         "deletedAt": null
       }
     }

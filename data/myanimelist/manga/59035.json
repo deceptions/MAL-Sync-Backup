@@ -38,6 +38,28 @@
         "updatedAt": "2021-06-05T20:55:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "zenryoku_otome": {
+        "authors": [
+          "CUTEG"
+        ],
+        "identifier": "zenryoku_otome",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Zenryoku Otome",
+        "url": "https://fanfox.net/manga/zenryoku_otome/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13132/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59035,
+        "aniId": 85513,
+        "createdAt": "2021-03-26T16:22:55.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

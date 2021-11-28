@@ -40,6 +40,50 @@
         "updatedAt": "2021-06-03T22:36:48.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "dolls-code": {
+        "authors": [
+          "KINASHI Runamu"
+        ],
+        "identifier": "dolls-code",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dolls Code",
+        "url": "https://mangasee123.com/manga/Dolls-Code",
+        "image": "https://cover.nep.li/cover/Dolls-Code.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60833,
+        "aniId": 85367,
+        "createdAt": "2021-05-01T05:33:31.000Z",
+        "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dolls_code": {
+        "authors": [
+          "KINASHI Runamu"
+        ],
+        "identifier": "dolls_code",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dolls Code",
+        "url": "https://fanfox.net/manga/dolls_code/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13270/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 60833,
+        "aniId": 85367,
+        "createdAt": "2021-05-10T15:43:23.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

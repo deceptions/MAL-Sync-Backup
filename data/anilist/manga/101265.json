@@ -46,6 +46,50 @@
         "updatedAt": "2021-06-05T04:38:08.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "ran-the-peerless-beauty": {
+        "authors": [
+          "Ammitsu"
+        ],
+        "identifier": "ran-the-peerless-beauty",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ran the Peerless Beauty",
+        "url": "https://mangasee123.com/manga/Ran-the-Peerless-Beauty",
+        "image": "https://cover.nep.li/cover/Ran-the-Peerless-Beauty.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 108424,
+        "aniId": 101265,
+        "createdAt": "2021-01-13T23:10:17.000Z",
+        "updatedAt": "2021-11-20T17:15:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "takane_no_ran_san": {
+        "authors": [
+          "Ammitsu"
+        ],
+        "identifier": "takane_no_ran_san",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Takane no Ran-san",
+        "url": "https://fanfox.net/manga/takane_no_ran_san/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27164/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108424,
+        "aniId": 101265,
+        "createdAt": "2021-11-21T19:13:21.000Z",
+        "updatedAt": "2021-11-21T19:42:37.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-03T22:01:59.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "dear_my_teacher": {
+        "authors": [
+          "Ajiichi"
+        ],
+        "identifier": "dear_my_teacher",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dear My Teacher",
+        "url": "https://fanfox.net/manga/dear_my_teacher/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13759/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99275,
+        "aniId": 85399,
+        "createdAt": "2021-01-02T16:50:41.000Z",
+        "updatedAt": "2021-11-20T16:44:05.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -1,8 +1,19 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://seiga.nicovideo.jp/comic/36922"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B9%99%E5%A5%B3%E3%82%B2%E3%83%BC%E4%B8%96%E7%95%8C%E3%81%AF%E3%83%A2%E3%83%96%E3%81%AB%E5%8E%B3%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%99"
+    }
+  ],
   "altTitle": [
+    "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
+    "The World of Otome Games is Tough for Mobs",
+    "Otomege Sekai wa Mob ni Kibishii Sekai desu",
     "The World of Otome Games is a Tough for Mobs.",
-    "The World of Otome Games is Tough for Mobs, Otomege Sekai wa Mob ni Kibishii Sekai desu",
     "乙女ゲー世界はモブに厳しい世界です"
   ],
   "authors": [
@@ -17,7 +28,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:41.000Z",
-  "updatedAt": "2021-05-29T09:42:32.000Z",
+  "updatedAt": "2021-11-24T07:36:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +51,51 @@
         "aniId": 104503,
         "createdAt": "2020-10-12T16:14:05.000Z",
         "updatedAt": "2021-06-06T02:23:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "otomege-sekai-wa-mob-ni-kibishii-sekai-desu": {
+        "authors": [
+          "MISHIMA Yomu",
+          "Shiosato Jun"
+        ],
+        "identifier": "otomege-sekai-wa-mob-ni-kibishii-sekai-desu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Otomege Sekai wa Mob ni Kibishii Sekai Desu",
+        "url": "https://mangasee123.com/manga/Otomege-Sekai-Wa-Mob-Ni-Kibishii-Sekai-Desu",
+        "image": "https://cover.nep.li/cover/Otomege-Sekai-Wa-Mob-Ni-Kibishii-Sekai-Desu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116157,
+        "aniId": 104503,
+        "createdAt": "2020-12-31T04:19:12.000Z",
+        "updatedAt": "2021-11-20T16:44:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "the_world_of_otome_games_is_tough_for_mobs": {
+        "authors": [
+          "MISHIMA Yomu"
+        ],
+        "identifier": "the_world_of_otome_games_is_tough_for_mobs",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The World of Otome Games is Tough for Mobs",
+        "url": "https://fanfox.net/manga/the_world_of_otome_games_is_tough_for_mobs/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28821/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116157,
+        "aniId": 104503,
+        "createdAt": "2021-01-03T16:19:31.000Z",
+        "updatedAt": "2021-11-20T16:44:05.000Z",
         "deletedAt": null
       }
     },

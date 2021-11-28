@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-05T14:08:02.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "too_much_pain": {
+        "authors": [
+          "HARADA Masafumi"
+        ],
+        "identifier": "too_much_pain",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Too Much Pain",
+        "url": "https://fanfox.net/manga/too_much_pain/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28600/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91665,
+        "aniId": 87352,
+        "createdAt": "2021-11-27T23:35:34.000Z",
+        "updatedAt": "2021-11-28T00:05:32.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

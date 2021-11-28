@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-04T12:46:04.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "ultra_cute": {
+        "authors": [
+          "AKIMOTO Nami"
+        ],
+        "identifier": "ultra_cute",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ultra Cute",
+        "url": "https://fanfox.net/manga/ultra_cute/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1106/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 560,
+        "aniId": 30560,
+        "createdAt": "2021-05-20T22:15:39.000Z",
+        "updatedAt": "2021-11-20T23:14:26.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

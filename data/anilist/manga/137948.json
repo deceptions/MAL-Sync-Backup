@@ -15,7 +15,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-08T00:04:30.000Z",
-  "updatedAt": "2021-09-08T00:04:30.000Z",
+  "updatedAt": "2021-11-21T13:13:08.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "5705813a-91fc-4f5a-af0d-b4f2c2a194f4": {
+        "authors": [
+          "Azusa Kina"
+        ],
+        "identifier": "5705813a-91fc-4f5a-af0d-b4f2c2a194f4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Story of a Guy Who Fell in Love with His Friend’s Sister",
+        "url": "https://mangadex.org/title/5705813a-91fc-4f5a-af0d-b4f2c2a194f4",
+        "image": "https://uploads.mangadex.org/covers/5705813a-91fc-4f5a-af0d-b4f2c2a194f4/27bf8b3b-1257-4a2e-9a19-3bb82752cf1b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 137948,
+        "createdAt": "2021-11-18T21:44:57.000Z",
+        "updatedAt": "2021-11-21T15:26:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

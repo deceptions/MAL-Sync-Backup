@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/モングレル"
+    }
+  ],
   "altTitle": [
     "MONGREL",
     "モングレル"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:34.000Z",
-  "updatedAt": "2021-09-27T18:35:36.000Z",
+  "updatedAt": "2021-11-23T06:37:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 85651,
         "createdAt": "2020-10-12T16:07:57.000Z",
         "updatedAt": "2021-06-04T06:29:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "mongrel": {
+        "authors": [
+          "MURASE Katsutoshi"
+        ],
+        "identifier": "mongrel",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mongrel",
+        "url": "https://mangasee123.com/manga/Mongrel",
+        "image": "https://cover.nep.li/cover/Mongrel.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80493,
+        "aniId": 85651,
+        "createdAt": "2021-03-27T18:20:10.000Z",
+        "updatedAt": "2021-11-20T20:45:59.000Z",
         "deletedAt": null
       }
     }

@@ -49,6 +49,50 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "monster": {
+        "authors": [
+          "URASAWA Naoki"
+        ],
+        "identifier": "monster",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Monster",
+        "url": "https://mangasee123.com/manga/Monster",
+        "image": "https://cover.nep.li/cover/Monster.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1,
+        "aniId": 30001,
+        "createdAt": "2020-12-16T07:55:52.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "monster": {
+        "authors": [
+          "URASAWA Naoki"
+        ],
+        "identifier": "monster",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Monster",
+        "url": "https://fanfox.net/manga/monster/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/228/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1,
+        "aniId": 30001,
+        "createdAt": "2021-01-08T18:20:41.000Z",
+        "updatedAt": "2021-11-20T17:15:25.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-kr961526": {
         "authors": [

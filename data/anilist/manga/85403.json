@@ -43,6 +43,50 @@
         "updatedAt": "2021-06-04T03:28:48.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "gojikanme-no-sensou": {
+        "authors": [
+          "Yuu"
+        ],
+        "identifier": "gojikanme-no-sensou",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Gojikanme no Sensou",
+        "url": "https://mangasee123.com/manga/Gojikanme-No-Sensou",
+        "image": "https://cover.nep.li/cover/Gojikanme-No-Sensou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72979,
+        "aniId": 85403,
+        "createdAt": "2021-02-12T19:35:55.000Z",
+        "updatedAt": "2021-11-20T18:44:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "gojikanme_no_sensou_home_sweet_home": {
+        "authors": [
+          "Yuu (優)"
+        ],
+        "identifier": "gojikanme_no_sensou_home_sweet_home",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Gojikanme no Sensou - Home, Sweet Home!",
+        "url": "https://fanfox.net/manga/gojikanme_no_sensou_home_sweet_home/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13891/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 72979,
+        "aniId": 85403,
+        "createdAt": "2021-03-23T15:06:20.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

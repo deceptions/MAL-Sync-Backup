@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-02T23:54:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "soushokukei_ism": {
+        "authors": [
+          "WATANABE Nana"
+        ],
+        "identifier": "soushokukei_ism",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Soushokukei Ism",
+        "url": "https://fanfox.net/manga/soushokukei_ism/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10773/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40393,
+        "aniId": 70393,
+        "createdAt": "2021-03-26T16:22:16.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

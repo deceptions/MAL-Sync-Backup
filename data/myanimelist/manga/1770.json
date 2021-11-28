@@ -83,6 +83,28 @@
         "updatedAt": "2021-06-04T02:26:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "takumi_kun_series": {
+        "authors": [
+          "GOTOU Shinobu"
+        ],
+        "identifier": "takumi_kun_series",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Takumi-kun Series",
+        "url": "https://fanfox.net/manga/takumi_kun_series/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5659/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1770,
+        "aniId": 31770,
+        "createdAt": "2021-04-14T01:15:37.000Z",
+        "updatedAt": "2021-11-20T21:48:15.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

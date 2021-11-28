@@ -82,6 +82,48 @@
         "updatedAt": "2021-06-03T20:38:59.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "tadashii_ace_no_kouryakuhou": {
+        "authors": [
+          "MATSUMOTO Mitohi"
+        ],
+        "identifier": "tadashii_ace_no_kouryakuhou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tadashii Ace no Kouryakuhou",
+        "url": "https://fanfox.net/manga/tadashii_ace_no_kouryakuhou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11808/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47635,
+        "aniId": 77635,
+        "createdAt": "2021-03-26T16:20:06.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      },
+      "ani_tsura": {
+        "authors": [
+          "MATSUMOTO Mitohi"
+        ],
+        "identifier": "ani_tsura",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ani Tsura",
+        "url": "https://fanfox.net/manga/ani_tsura/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12775/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47635,
+        "aniId": 77635,
+        "createdAt": "2021-03-26T16:23:37.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

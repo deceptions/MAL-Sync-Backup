@@ -45,6 +45,28 @@
         "updatedAt": "2021-06-02T13:43:33.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "chocolate_cosmos": {
+        "authors": [
+          "HARUTA Nana"
+        ],
+        "identifier": "chocolate_cosmos",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Chocolate Cosmos",
+        "url": "https://fanfox.net/manga/chocolate_cosmos/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1828/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3831,
+        "aniId": 33831,
+        "createdAt": "2021-05-20T22:15:28.000Z",
+        "updatedAt": "2021-11-20T23:14:26.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

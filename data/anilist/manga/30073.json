@@ -81,6 +81,26 @@
       }
     },
     "MangaSee": {
+      "tenjou-tenge": {
+        "authors": [
+          "Oh! Great"
+        ],
+        "identifier": "tenjou-tenge",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tenjou Tenge",
+        "url": "https://mangasee123.com/manga/Tenjou-Tenge",
+        "image": "https://cover.nep.li/cover/Tenjou-Tenge.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73,
+        "aniId": 30073,
+        "createdAt": "2021-02-12T13:40:39.000Z",
+        "updatedAt": "2021-11-20T18:44:25.000Z",
+        "deletedAt": null
+      },
       "tenjo-tenge-color": {
         "authors": [
           "Oh! Great"
@@ -99,6 +119,48 @@
         "aniId": 30073,
         "createdAt": "2021-07-20T22:34:09.000Z",
         "updatedAt": "2021-07-21T08:03:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tenjo_tenge": {
+        "authors": [
+          "Oh! Great"
+        ],
+        "identifier": "tenjo_tenge",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tenjou Tenge",
+        "url": "https://fanfox.net/manga/tenjo_tenge/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/76/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73,
+        "aniId": 30073,
+        "createdAt": "2021-02-22T12:03:46.000Z",
+        "updatedAt": "2021-11-20T19:16:15.000Z",
+        "deletedAt": null
+      },
+      "tenjou_tenge": {
+        "authors": [
+          "Oh! Great"
+        ],
+        "identifier": "tenjou_tenge",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tenjou Tenge",
+        "url": "https://fanfox.net/manga/tenjou_tenge/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/76/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73,
+        "aniId": 30073,
+        "createdAt": "2021-03-23T17:15:42.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
         "deletedAt": null
       }
     },

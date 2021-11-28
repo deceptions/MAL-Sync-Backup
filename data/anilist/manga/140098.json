@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-10-08T09:32:19.000Z",
-  "updatedAt": "2021-10-08T09:32:19.000Z",
+  "updatedAt": "2021-11-21T01:30:42.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-jx987032": {
+        "authors": [
+          "Updating"
+        ],
+        "identifier": "manga-jx987032",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "King Of Spirit Beast",
+        "url": "https://readmanganato.com/manga-jx987032",
+        "image": "https://avt.mkklcdnv6temp.com/30/v/22-1603511463.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 140098,
+        "createdAt": "2021-06-04T01:20:00.000Z",
+        "updatedAt": "2021-11-21T01:31:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

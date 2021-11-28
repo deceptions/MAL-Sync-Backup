@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:15.000Z",
-  "updatedAt": "2021-10-08T06:02:29.000Z",
+  "updatedAt": "2021-11-23T09:06:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 72173,
         "createdAt": "2020-10-12T16:05:19.000Z",
         "updatedAt": "2021-06-03T11:41:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-rh968842": {
+        "authors": [
+          "Yuzuki Utano"
+        ],
+        "identifier": "manga-rh968842",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Majo To Hatsukoi.",
+        "url": "https://manganato.com/manga-rh968842",
+        "image": "https://avt.mkklcdnv6temp.com/26/z/12-1583486823.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42173,
+        "aniId": 72173,
+        "createdAt": "2021-11-23T09:05:57.000Z",
+        "updatedAt": "2021-11-23T09:35:47.000Z",
         "deletedAt": null
       }
     }

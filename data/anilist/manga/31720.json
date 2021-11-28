@@ -53,6 +53,50 @@
         "updatedAt": "2021-06-05T12:37:40.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "captive-hearts": {
+        "authors": [
+          "HINO Matsuri"
+        ],
+        "identifier": "captive-hearts",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Captive Hearts",
+        "url": "https://mangasee123.com/manga/Captive-Hearts",
+        "image": "https://cover.nep.li/cover/Captive-Hearts.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1720,
+        "aniId": 31720,
+        "createdAt": "2021-03-22T23:35:34.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "toraware_no_minoue": {
+        "authors": [
+          "HINO Matsuri"
+        ],
+        "identifier": "toraware_no_minoue",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Toraware no Minoue",
+        "url": "https://fanfox.net/manga/toraware_no_minoue/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/806/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1720,
+        "aniId": 31720,
+        "createdAt": "2021-04-22T10:58:38.000Z",
+        "updatedAt": "2021-11-20T21:48:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

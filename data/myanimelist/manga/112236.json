@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://magazine.jp.square-enix.com/yg/introduction/86/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/86-%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9-"
+    }
+  ],
   "altTitle": [
     "86—Eighty-Six",
     "Eighty Six",
@@ -17,7 +26,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:25.000Z",
-  "updatedAt": "2021-08-08T07:40:37.000Z",
+  "updatedAt": "2021-11-22T11:13:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -63,6 +72,28 @@
         "aniId": 101606,
         "createdAt": "2021-01-31T12:05:40.000Z",
         "updatedAt": "2021-08-08T07:39:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "86": {
+        "authors": [
+          "Asato Asato"
+        ],
+        "identifier": "86",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "86",
+        "url": "https://fanfox.net/manga/86/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27808/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112236,
+        "aniId": 101606,
+        "createdAt": "2021-03-25T06:19:48.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
         "deletedAt": null
       }
     },

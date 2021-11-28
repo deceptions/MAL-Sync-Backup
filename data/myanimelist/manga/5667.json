@@ -28,5 +28,48 @@
   "createdAt": "2021-05-20T21:43:47.000Z",
   "updatedAt": "2021-11-20T21:45:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "kyou_mo_dokoka_de_himitsu_no_jouji": {
+        "authors": [
+          "FUJII Sakuya"
+        ],
+        "identifier": "kyou_mo_dokoka_de_himitsu_no_jouji",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kyou mo Dokoka de Himitsu no Jouji",
+        "url": "https://fanfox.net/manga/kyou_mo_dokoka_de_himitsu_no_jouji/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6164/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5667,
+        "aniId": null,
+        "createdAt": "2021-05-20T21:43:49.000Z",
+        "updatedAt": "2021-11-20T23:14:26.000Z",
+        "deletedAt": null
+      },
+      "asu_mo_dokokade_himitsu_no_jouji": {
+        "authors": [
+          "FUJII Sakuya"
+        ],
+        "identifier": "asu_mo_dokokade_himitsu_no_jouji",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Asu mo Dokokade Himitsu no Jouji",
+        "url": "https://fanfox.net/manga/asu_mo_dokokade_himitsu_no_jouji/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6154/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5667,
+        "aniId": null,
+        "createdAt": "2021-05-20T21:43:58.000Z",
+        "updatedAt": "2021-11-20T23:14:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

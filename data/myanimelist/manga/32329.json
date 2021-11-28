@@ -18,5 +18,28 @@
   "createdAt": "2020-12-16T23:26:27.000Z",
   "updatedAt": "2021-06-16T23:29:25.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "honeymoon_wa_anata_to": {
+        "authors": [
+          "Leigh Michaels"
+        ],
+        "identifier": "honeymoon_wa_anata_to",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Honeymoon wa Anata to",
+        "url": "https://fanfox.net/manga/honeymoon_wa_anata_to/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9592/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32329,
+        "aniId": 62329,
+        "createdAt": "2020-12-16T23:26:27.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

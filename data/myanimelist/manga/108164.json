@@ -61,6 +61,50 @@
         "updatedAt": "2021-06-06T12:44:02.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "argate-online": {
+        "authors": [
+          "TOUNO Tsumugu"
+        ],
+        "identifier": "argate-online",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Argate Online",
+        "url": "https://mangasee123.com/manga/Argate-Online",
+        "image": "https://cover.nep.li/cover/Argate-Online.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108164,
+        "aniId": 99859,
+        "createdAt": "2020-12-17T23:56:50.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "argate_online": {
+        "authors": [
+          "TOUNO Tsumugu"
+        ],
+        "identifier": "argate_online",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Argate online",
+        "url": "https://fanfox.net/manga/argate_online/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25907/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108164,
+        "aniId": 99859,
+        "createdAt": "2021-04-05T11:08:08.000Z",
+        "updatedAt": "2021-11-20T21:17:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

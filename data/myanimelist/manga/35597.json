@@ -38,6 +38,28 @@
         "updatedAt": "2021-06-03T09:40:50.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "renren_zakari": {
+        "authors": [
+          "KONNO Risa"
+        ],
+        "identifier": "renren_zakari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Renren Zakari",
+        "url": "https://fanfox.net/manga/renren_zakari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10830/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35597,
+        "aniId": 65597,
+        "createdAt": "2021-03-24T23:19:06.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%AD%E3%83%AF%E6%9D%A5%E3%81%9F%E3%82%8C%E3%82%8A!!"
+    }
+  ],
   "altTitle": [
     "Kanata",
     "Haruka",
@@ -18,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:39.000Z",
-  "updatedAt": "2021-09-24T11:16:25.000Z",
+  "updatedAt": "2021-11-21T21:43:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +45,50 @@
         "aniId": 85997,
         "createdAt": "2020-10-12T16:08:17.000Z",
         "updatedAt": "2021-06-04T08:58:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tokiwa_kitareri": {
+        "authors": [
+          "Matsuena Syun"
+        ],
+        "identifier": "tokiwa_kitareri",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tokiwa Kitareri!!",
+        "url": "https://fanfox.net/manga/tokiwa_kitareri/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15036/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83417,
+        "aniId": 85997,
+        "createdAt": "2021-03-24T10:49:45.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tokiwa-kitareri": {
+        "authors": [
+          "MATSUENA Shun"
+        ],
+        "identifier": "tokiwa-kitareri",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tokiwa Kitareri!!",
+        "url": "https://mangasee123.com/manga/Tokiwa-Kitareri",
+        "image": "https://cover.nep.li/cover/Tokiwa-Kitareri.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 83417,
+        "aniId": 85997,
+        "createdAt": "2021-11-21T21:43:03.000Z",
+        "updatedAt": "2021-11-21T22:12:37.000Z",
         "deletedAt": null
       }
     }

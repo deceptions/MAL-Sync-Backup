@@ -45,6 +45,28 @@
         "updatedAt": "2021-06-02T10:17:04.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "goggle": {
+        "authors": [
+          "TOYODA Tetsuya"
+        ],
+        "identifier": "goggle",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Goggle",
+        "url": "https://mangasee123.com/manga/Goggle",
+        "image": "https://cover.nep.li/cover/Goggle.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13515,
+        "aniId": 43515,
+        "createdAt": "2021-03-05T05:21:05.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

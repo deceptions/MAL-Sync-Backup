@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-02T18:51:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "sky-blue": {
+        "authors": [
+          "KOBAYASHI Daiki"
+        ],
+        "identifier": "sky-blue",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sky Blue",
+        "url": "https://mangasee123.com/manga/Sky-Blue",
+        "image": "https://cover.nep.li/cover/Sky-Blue.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32233,
+        "aniId": 62233,
+        "createdAt": "2021-04-12T18:47:08.000Z",
+        "updatedAt": "2021-11-20T21:48:15.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

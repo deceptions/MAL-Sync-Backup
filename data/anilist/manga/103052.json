@@ -18,5 +18,29 @@
   "createdAt": "2021-05-29T17:12:13.000Z",
   "updatedAt": "2021-06-18T03:59:40.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "unlucky_young_men": {
+        "authors": [
+          "FUJIWARA Kamui",
+          "OTSUKA Eiji"
+        ],
+        "identifier": "unlucky_young_men",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Unlucky Young Men",
+        "url": "https://fanfox.net/manga/unlucky_young_men/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39428/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94448,
+        "aniId": 103052,
+        "createdAt": "2021-11-22T14:12:37.000Z",
+        "updatedAt": "2021-11-22T14:42:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

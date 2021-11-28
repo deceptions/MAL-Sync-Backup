@@ -17,5 +17,28 @@
   "createdAt": "2020-12-16T23:27:44.000Z",
   "updatedAt": "2021-06-16T23:57:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "kiss_dorobou": {
+        "authors": [
+          "KER Madeleine"
+        ],
+        "identifier": "kiss_dorobou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kiss Dorobou",
+        "url": "https://fanfox.net/manga/kiss_dorobou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7196/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1234,
+        "aniId": 31234,
+        "createdAt": "2020-12-16T23:27:45.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

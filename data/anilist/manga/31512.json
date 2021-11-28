@@ -42,6 +42,28 @@
         "updatedAt": "2021-06-02T07:43:56.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "angel-heart": {
+        "authors": [
+          "HOJO Tsukasa"
+        ],
+        "identifier": "angel-heart",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Angel Heart",
+        "url": "https://mangasee123.com/manga/Angel-Heart",
+        "image": "https://cover.nep.li/cover/Angel-Heart.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1512,
+        "aniId": 31512,
+        "createdAt": "2021-04-17T23:44:41.000Z",
+        "updatedAt": "2021-11-20T21:48:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

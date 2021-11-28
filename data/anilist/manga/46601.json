@@ -41,6 +41,50 @@
         "updatedAt": "2021-06-05T05:38:00.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "limit": {
+        "authors": [
+          "SUENOBU Keiko"
+        ],
+        "identifier": "limit",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Limit",
+        "url": "https://fanfox.net/manga/limit/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7301/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16601,
+        "aniId": 46601,
+        "createdAt": "2021-11-21T19:42:49.000Z",
+        "updatedAt": "2021-11-21T20:12:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-aw978305": {
+        "authors": [
+          "Suenobu Keiko"
+        ],
+        "identifier": "manga-aw978305",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Limit",
+        "url": "https://manganato.com/manga-aw978305",
+        "image": "https://avt.mkklcdnv6temp.com/8/g/16-1583493763.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16601,
+        "aniId": 46601,
+        "createdAt": "2021-11-21T19:43:08.000Z",
+        "updatedAt": "2021-11-21T20:12:37.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

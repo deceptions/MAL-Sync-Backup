@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://baki.ne.jp/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%83%E3%83%97%E3%83%A9%E3%83%BC%E5%88%83%E7%89%99"
+    }
+  ],
   "altTitle": [
     "Baki the Grappler",
     "グラップラー刃牙"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:33.000Z",
-  "updatedAt": "2021-08-18T14:37:12.000Z",
+  "updatedAt": "2021-11-27T00:05:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +46,70 @@
         "aniId": 41425,
         "createdAt": "2020-10-12T16:03:28.000Z",
         "updatedAt": "2021-06-02T14:11:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "grappler-baki": {
+        "authors": [
+          "ITAGAKI Keisuke"
+        ],
+        "identifier": "grappler-baki",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Grappler Baki",
+        "url": "https://mangasee123.com/manga/Grappler-Baki",
+        "image": "https://cover.nep.li/cover/Grappler-Baki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11425,
+        "aniId": 41425,
+        "createdAt": "2020-12-13T10:19:12.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      },
+      "new-grappler-baki": {
+        "authors": [
+          "ITAGAKI Keisuke"
+        ],
+        "identifier": "new-grappler-baki",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "New Grappler Baki",
+        "url": "https://mangasee123.com/manga/New-Grappler-Baki",
+        "image": "https://cover.nep.li/cover/New-Grappler-Baki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11425,
+        "aniId": 41425,
+        "createdAt": "2020-12-13T10:19:12.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "grappler_baki": {
+        "authors": [
+          "ITAGAKI Keisuke"
+        ],
+        "identifier": "grappler_baki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Grappler Baki",
+        "url": "https://fanfox.net/manga/grappler_baki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4458/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11425,
+        "aniId": 41425,
+        "createdAt": "2021-02-13T12:06:10.000Z",
+        "updatedAt": "2021-11-20T18:44:25.000Z",
         "deletedAt": null
       }
     },

@@ -12,11 +12,11 @@
   "type": "manga",
   "title": "Boku to Senpai no Tekken Kousai",
   "url": "https://anilist.co/manga/79613",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/49613-akSNc4e3zPuC.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx79613-khAPzptreePC.jpg",
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:49:42.000Z",
-  "updatedAt": "2021-06-17T20:55:31.000Z",
+  "updatedAt": "2021-11-24T03:05:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,51 @@
         "aniId": 79613,
         "createdAt": "2020-10-12T16:06:12.000Z",
         "updatedAt": "2021-06-03T17:57:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "boku_to_senpai_no_tekken_kousai": {
+        "authors": [
+          "NARITA Shun"
+        ],
+        "identifier": "boku_to_senpai_no_tekken_kousai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Boku to Senpai no Tekken Kousai",
+        "url": "https://fanfox.net/manga/boku_to_senpai_no_tekken_kousai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12214/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49613,
+        "aniId": 79613,
+        "createdAt": "2021-01-01T19:21:03.000Z",
+        "updatedAt": "2021-11-20T16:44:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "boku-to-senpai-no-tekken-kousai": {
+        "authors": [
+          "NARITA Shun",
+          "Osora"
+        ],
+        "identifier": "boku-to-senpai-no-tekken-kousai",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Boku to Senpai no Tekken Kousai",
+        "url": "https://mangasee123.com/manga/Boku-To-Senpai-No-Tekken-Kousai",
+        "image": "https://cover.nep.li/cover/Boku-To-Senpai-No-Tekken-Kousai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49613,
+        "aniId": 79613,
+        "createdAt": "2021-01-28T03:13:38.000Z",
+        "updatedAt": "2021-11-20T17:45:39.000Z",
         "deletedAt": null
       }
     }

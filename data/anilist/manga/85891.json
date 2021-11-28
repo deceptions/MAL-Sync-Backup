@@ -41,6 +41,50 @@
         "updatedAt": "2021-06-04T03:01:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "aka_akatoretachi_no_monogatari": {
+        "authors": [
+          "KAISHAKU"
+        ],
+        "identifier": "aka_akatoretachi_no_monogatari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Aka Akatoretachi no Monogatari",
+        "url": "https://fanfox.net/manga/aka_akatoretachi_no_monogatari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14007/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70485,
+        "aniId": 85891,
+        "createdAt": "2021-01-01T18:50:53.000Z",
+        "updatedAt": "2021-11-20T16:44:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "aka-akatoretachi-no-monogatari": {
+        "authors": [
+          "KAISHAKU"
+        ],
+        "identifier": "aka-akatoretachi-no-monogatari",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Aka Akatoretachi no Monogatari",
+        "url": "https://mangasee123.com/manga/Aka-Akatoretachi-No-Monogatari",
+        "image": "https://cover.nep.li/cover/Aka-Akatoretachi-No-Monogatari.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 70485,
+        "aniId": 85891,
+        "createdAt": "2021-01-21T01:02:54.000Z",
+        "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

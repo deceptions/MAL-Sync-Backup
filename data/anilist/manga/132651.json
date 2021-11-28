@@ -19,5 +19,28 @@
   "createdAt": "2021-05-20T17:43:16.000Z",
   "updatedAt": "2021-06-21T17:48:42.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "when-the-day-comes": {
+        "authors": [
+          "Omyo"
+        ],
+        "identifier": "when-the-day-comes",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "When the Day Comes",
+        "url": "https://mangasee123.com/manga/When-the-Day-Comes",
+        "image": "https://cover.nep.li/cover/When-the-Day-Comes.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 132651,
+        "createdAt": "2021-05-20T17:43:18.000Z",
+        "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,8 +1,19 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jp.square-enix.com/magazine/joker/series/vanitas/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%BF%E3%82%B9%E3%81%AE%E6%89%8B%E8%A8%98"
+    }
+  ],
   "altTitle": [
     "The Case Study of Vanitas",
-    "Vanitas no Shuki, Memoir of Vanitas",
+    "Vanitas no Carte",
+    "Vanitas no Shuki",
+    "Memoir of Vanitas",
     "ヴァニタスの手記〈カルテ〉"
   ],
   "authors": [
@@ -10,13 +21,13 @@
   ],
   "id": 93753,
   "type": "manga",
-  "title": "Vanitas no Carte",
-  "url": "https://myanimelist.net/manga/93753/Vanitas_no_Carte",
+  "title": "Vanitas no Karte",
+  "url": "https://myanimelist.net/manga/93753/Vanitas_no_Karte",
   "image": "https://cdn.myanimelist.net/images/manga/2/176009.jpg",
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:17.000Z",
-  "updatedAt": "2021-06-06T05:49:40.000Z",
+  "updatedAt": "2021-11-21T01:51:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +49,50 @@
         "aniId": 86568,
         "createdAt": "2020-10-12T16:09:04.000Z",
         "updatedAt": "2021-06-04T14:52:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "vanitas-no-shuki": {
+        "authors": [
+          "MOCHIZUKI Jun"
+        ],
+        "identifier": "vanitas-no-shuki",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Vanitas no Shuki",
+        "url": "https://mangasee123.com/manga/Vanitas-No-Shuki",
+        "image": "https://cover.nep.li/cover/Vanitas-No-Shuki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 93753,
+        "aniId": 86568,
+        "createdAt": "2020-12-25T10:56:32.000Z",
+        "updatedAt": "2021-11-20T16:14:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "vanitas_no_shuki": {
+        "authors": [
+          "MOCHIZUKI Jun"
+        ],
+        "identifier": "vanitas_no_shuki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Vanitas no Shuki",
+        "url": "https://fanfox.net/manga/vanitas_no_shuki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21775/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93753,
+        "aniId": 86568,
+        "createdAt": "2021-05-07T16:18:12.000Z",
+        "updatedAt": "2021-11-20T22:49:05.000Z",
         "deletedAt": null
       }
     },

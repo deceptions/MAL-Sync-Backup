@@ -45,6 +45,29 @@
         "updatedAt": "2021-06-02T11:01:41.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "kenji": {
+        "authors": [
+          "FUJIWARA Yoshihide",
+          "MATSUDA Ryuchi"
+        ],
+        "identifier": "kenji",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kenji",
+        "url": "https://mangasee123.com/manga/Kenji",
+        "image": "https://cover.nep.li/cover/Kenji.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15426,
+        "aniId": 45426,
+        "createdAt": "2021-05-04T04:33:45.000Z",
+        "updatedAt": "2021-11-20T22:22:05.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

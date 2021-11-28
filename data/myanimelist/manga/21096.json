@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%9F%E3%81%A8%E3%83%9C%E3%82%AF%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E3%82%82%E3%81%AE"
+    }
+  ],
   "altTitle": [
     "キミとボクをつなぐもの"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:54.000Z",
-  "updatedAt": "2021-05-28T00:29:06.000Z",
+  "updatedAt": "2021-11-28T00:35:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,28 +41,6 @@
         "aniId": 51096,
         "createdAt": "2020-10-12T16:08:37.000Z",
         "updatedAt": "2021-06-04T11:26:58.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "kimi-to-boku-wo-tsunagumono": {
-        "authors": [
-          "ARAI Cherry"
-        ],
-        "identifier": "kimi-to-boku-wo-tsunagumono",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Kimi to Boku wo Tsunagumono",
-        "url": "https://mangasee123.com/manga/Kimi-To-Boku-Wo-Tsunagumono",
-        "image": "https://cover.nep.li/cover/Kimi-To-Boku-Wo-Tsunagumono.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 21096,
-        "aniId": 51096,
-        "createdAt": "2021-05-28T00:29:08.000Z",
-        "updatedAt": "2021-05-28T00:58:42.000Z",
         "deletedAt": null
       }
     }

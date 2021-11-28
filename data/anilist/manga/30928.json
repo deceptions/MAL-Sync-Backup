@@ -55,6 +55,72 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "pocket-monster-special": {
+        "authors": [
+          "KUSAKA Hidenori",
+          "MATO",
+          "YAMAMOTO Satoshi"
+        ],
+        "identifier": "pocket-monster-special",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Pocket Monster Special",
+        "url": "https://mangasee123.com/manga/Pocket-Monster-Special",
+        "image": "https://cover.nep.li/cover/Pocket-Monster-Special.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 928,
+        "aniId": 30928,
+        "createdAt": "2020-12-25T03:56:17.000Z",
+        "updatedAt": "2021-11-20T16:14:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "pocket_monster_special": {
+        "authors": [
+          "KUSAKA Hidenori"
+        ],
+        "identifier": "pocket_monster_special",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Pocket Monster Special",
+        "url": "https://fanfox.net/manga/pocket_monster_special/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/363/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 928,
+        "aniId": 30928,
+        "createdAt": "2021-02-20T18:33:31.000Z",
+        "updatedAt": "2021-11-20T18:44:27.000Z",
+        "deletedAt": null
+      },
+      "pokemon_special_sword_and_shield": {
+        "authors": [
+          "Kusaka Hidenori"
+        ],
+        "identifier": "pokemon_special_sword_and_shield",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Pokemon SPECIAL Sword and Shield",
+        "url": "https://fanfox.net/manga/pokemon_special_sword_and_shield/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32181/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 928,
+        "aniId": 30928,
+        "createdAt": "2021-09-16T01:41:01.000Z",
+        "updatedAt": "2021-09-16T02:10:42.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-zv953904": {
         "authors": [
@@ -75,27 +141,25 @@
         "createdAt": "2021-05-29T05:42:13.000Z",
         "updatedAt": "2021-05-29T06:12:12.000Z",
         "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "pokemon_special_sword_and_shield": {
+      },
+      "manga-le962639": {
         "authors": [
           "Kusaka Hidenori"
         ],
-        "identifier": "pokemon_special_sword_and_shield",
+        "identifier": "manga-le962639",
         "type": "manga",
-        "page": "MangaFox",
-        "title": "Pokemon SPECIAL Sword and Shield",
-        "url": "https://fanfox.net/manga/pokemon_special_sword_and_shield/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/32181/cover.jpg",
+        "page": "MangaNato",
+        "title": "Pocket Monsters Special Xy",
+        "url": "https://readmanganato.com/manga-le962639",
+        "image": "https://avt.mkklcdnv6temp.com/25/d/8-1583479135.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 928,
         "aniId": 30928,
-        "createdAt": "2021-09-16T01:41:01.000Z",
-        "updatedAt": "2021-09-16T02:10:42.000Z",
+        "createdAt": "2021-11-24T21:07:24.000Z",
+        "updatedAt": "2021-11-24T21:35:31.000Z",
         "deletedAt": null
       }
     }

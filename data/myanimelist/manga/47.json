@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%AE%B6%E5%BA%AD%E6%95%99%E5%B8%AB%E3%83%92%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3REBORN!"
+    }
+  ],
   "altTitle": [
     "Reborn!",
     "Kateikyoushi Hitman Reborn!",
@@ -19,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:17.000Z",
-  "updatedAt": "2021-09-08T20:35:37.000Z",
+  "updatedAt": "2021-11-21T11:13:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +66,70 @@
         "aniId": 30047,
         "createdAt": "2021-01-31T04:31:42.000Z",
         "updatedAt": "2021-06-08T10:39:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "katekyo-hitman-reborn": {
+        "authors": [
+          "AMANO Akira"
+        ],
+        "identifier": "katekyo-hitman-reborn",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Katekyo Hitman Reborn!",
+        "url": "https://mangasee123.com/manga/Katekyo-Hitman-Reborn",
+        "image": "https://cover.nep.li/cover/Katekyo-Hitman-Reborn.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47,
+        "aniId": 30047,
+        "createdAt": "2020-12-22T04:56:21.000Z",
+        "updatedAt": "2021-11-20T16:14:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kateikyoushi_hitman_reborn": {
+        "authors": [
+          "AMANO Akira"
+        ],
+        "identifier": "kateikyoushi_hitman_reborn",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kateikyoushi Hitman Reborn!",
+        "url": "https://fanfox.net/manga/kateikyoushi_hitman_reborn/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/880/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47,
+        "aniId": 30047,
+        "createdAt": "2021-02-20T20:03:33.000Z",
+        "updatedAt": "2021-11-20T18:44:27.000Z",
+        "deletedAt": null
+      },
+      "katekyo_hitman_reborn": {
+        "authors": [
+          "AMANO Akira"
+        ],
+        "identifier": "katekyo_hitman_reborn",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kateikyoushi Hitman Reborn!",
+        "url": "https://fanfox.net/manga/katekyo_hitman_reborn/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/880/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47,
+        "aniId": 30047,
+        "createdAt": "2021-04-18T12:14:20.000Z",
+        "updatedAt": "2021-11-20T21:48:16.000Z",
         "deletedAt": null
       }
     },

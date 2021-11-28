@@ -65,6 +65,76 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "fate-zero": {
+        "authors": [
+          "Shinjirou",
+          "Type-Moon",
+          "UROBUCHI Gen"
+        ],
+        "identifier": "fate-zero",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Fate/Zero",
+        "url": "https://mangasee123.com/manga/Fate-Zero",
+        "image": "https://cover.nep.li/cover/Fate-Zero.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25191,
+        "aniId": 55191,
+        "createdAt": "2021-02-14T01:36:08.000Z",
+        "updatedAt": "2021-11-20T18:44:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "fate_zero": {
+        "authors": [
+          "UROBUCHI Gen",
+          "Type-Moon"
+        ],
+        "identifier": "fate_zero",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fate/Zero",
+        "url": "https://fanfox.net/manga/fate_zero/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9154/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25191,
+        "aniId": 55191,
+        "createdAt": "2021-03-21T00:36:21.000Z",
+        "updatedAt": "2021-11-20T19:45:18.000Z",
+        "deletedAt": null
+      },
+      "fate_zero_novel": {
+        "authors": [
+          "NASU Kinoko",
+          "Nitro+",
+          "Type-Moon",
+          "UROBUCHI Gen"
+        ],
+        "identifier": "fate_zero_novel",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fate/Zero (Novel)",
+        "url": "https://fanfox.net/manga/fate_zero_novel/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35809/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25191,
+        "aniId": 55191,
+        "createdAt": "2021-04-23T02:26:59.000Z",
+        "updatedAt": "2021-11-20T21:48:17.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-pp960750": {
         "authors": [

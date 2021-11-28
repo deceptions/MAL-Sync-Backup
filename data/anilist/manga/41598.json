@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-05T20:37:41.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "towakan": {
+        "authors": [
+          "OSHIMA Towa"
+        ],
+        "identifier": "towakan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Towakan",
+        "url": "https://fanfox.net/manga/towakan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5088/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11598,
+        "aniId": 41598,
+        "createdAt": "2021-05-02T02:33:32.000Z",
+        "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

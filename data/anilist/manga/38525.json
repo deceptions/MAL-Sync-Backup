@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-05T12:45:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "rockman_x": {
+        "authors": [
+          "Yoshihiro Iwamoto"
+        ],
+        "identifier": "rockman_x",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Rockman X",
+        "url": "https://fanfox.net/manga/rockman_x/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1323/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8525,
+        "aniId": 38525,
+        "createdAt": "2021-04-06T03:08:15.000Z",
+        "updatedAt": "2021-11-20T21:17:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

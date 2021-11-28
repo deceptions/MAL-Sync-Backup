@@ -48,25 +48,50 @@
         "createdAt": "2020-10-12T16:07:13.000Z",
         "updatedAt": "2021-06-04T01:07:29.000Z",
         "deletedAt": null
-      },
-      "d7021e82-6cce-4197-adc6-f3f8811a9b2a": {
+      }
+    },
+    "MangaSee": {
+      "killing-bites": {
         "authors": [
-          "Hon (혼)"
+          "MURATA Shinya",
+          "SUMITA Kazuasa"
         ],
-        "identifier": "d7021e82-6cce-4197-adc6-f3f8811a9b2a",
+        "identifier": "killing-bites",
         "type": "manga",
-        "page": "Mangadex",
-        "title": "Killing Time",
-        "url": "https://mangadex.org/title/d7021e82-6cce-4197-adc6-f3f8811a9b2a",
-        "image": "https://uploads.mangadex.org/covers/d7021e82-6cce-4197-adc6-f3f8811a9b2a/84b075bd-b9f4-4ea2-b299-6520c65033ec.png",
+        "page": "MangaSee",
+        "title": "Killing Bites",
+        "url": "https://mangasee123.com/manga/Killing-Bites",
+        "image": "https://cover.nep.li/cover/Killing-Bites.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 61087,
         "aniId": 85639,
-        "createdAt": "2020-10-12T16:18:59.000Z",
-        "updatedAt": "2021-06-07T21:02:38.000Z",
+        "createdAt": "2020-12-19T09:27:36.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "killing_bites": {
+        "authors": [
+          "MURATA Shinya"
+        ],
+        "identifier": "killing_bites",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Killing Bites",
+        "url": "https://fanfox.net/manga/killing_bites/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13719/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61087,
+        "aniId": 85639,
+        "createdAt": "2021-01-10T03:51:33.000Z",
+        "updatedAt": "2021-11-20T17:15:26.000Z",
         "deletedAt": null
       }
     },

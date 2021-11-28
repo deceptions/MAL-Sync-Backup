@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-04T06:08:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "mephisto": {
+        "authors": [
+          "MIYAMA Noboru"
+        ],
+        "identifier": "mephisto",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mephisto",
+        "url": "https://mangasee123.com/manga/Mephisto",
+        "image": "https://cover.nep.li/cover/Mephisto.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12928,
+        "aniId": 42928,
+        "createdAt": "2021-04-15T22:15:08.000Z",
+        "updatedAt": "2021-11-20T21:48:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

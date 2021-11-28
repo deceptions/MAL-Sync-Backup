@@ -70,6 +70,29 @@
         "updatedAt": "2021-06-06T10:30:21.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "shokugeki_no_sanji": {
+        "authors": [
+          "Tsukuda Yuuto",
+          "Eiichiro Oda"
+        ],
+        "identifier": "shokugeki_no_sanji",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shokugeki no Sanji",
+        "url": "https://fanfox.net/manga/shokugeki_no_sanji/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27933/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114760,
+        "aniId": 103252,
+        "createdAt": "2021-01-09T22:51:51.000Z",
+        "updatedAt": "2021-11-20T17:15:26.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://websunday.net/rensai/ginpaku/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%8A%80%E7%99%BD%E3%81%AE%E3%83%91%E3%83%A9%E3%83%87%E3%82%A3%E3%83%B3_-%E8%81%96%E9%A8%8E%E5%A3%AB-"
+    }
+  ],
   "altTitle": [
     "Le Paladin de Blanc d'Argent",
     "Ginpaku no Seikishi",
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:21.000Z",
-  "updatedAt": "2021-09-22T15:42:10.000Z",
+  "updatedAt": "2021-11-21T01:51:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +47,28 @@
         "aniId": 102855,
         "createdAt": "2020-10-12T16:10:26.000Z",
         "updatedAt": "2021-06-05T00:50:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ginpaku-no-paladin---seikishi": {
+        "authors": [
+          "OKA Keisuke"
+        ],
+        "identifier": "ginpaku-no-paladin---seikishi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ginpaku no Paladin - Seikishi",
+        "url": "https://mangasee123.com/manga/Ginpaku-No-Paladin---Seikishi",
+        "image": "https://cover.nep.li/cover/Ginpaku-No-Paladin---Seikishi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 73519,
+        "aniId": 102855,
+        "createdAt": "2021-03-22T15:35:54.000Z",
+        "updatedAt": "2021-11-20T20:14:55.000Z",
         "deletedAt": null
       }
     }

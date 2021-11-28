@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic-days.com/episode/10834108156646923965"
+    }
+  ],
   "altTitle": [
     "Daughter's friend",
     "娘の友達"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:07.000Z",
-  "updatedAt": "2021-05-29T20:42:23.000Z",
+  "updatedAt": "2021-11-21T19:13:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,50 @@
         "aniId": 111444,
         "createdAt": "2020-10-12T16:17:00.000Z",
         "updatedAt": "2021-06-07T03:44:14.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "musume-no-tomodachi": {
+        "authors": [
+          "HAGIHARA Asami"
+        ],
+        "identifier": "musume-no-tomodachi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Musume no Tomodachi",
+        "url": "https://mangasee123.com/manga/Musume-no-Tomodachi",
+        "image": "https://cover.nep.li/cover/Musume-no-Tomodachi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121729,
+        "aniId": 111444,
+        "createdAt": "2020-12-17T13:56:03.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "musume_no_tomodachi": {
+        "authors": [
+          "HAGIHARA Asami"
+        ],
+        "identifier": "musume_no_tomodachi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Musume no Tomodachi",
+        "url": "https://fanfox.net/manga/musume_no_tomodachi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31394/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121729,
+        "aniId": 111444,
+        "createdAt": "2021-03-20T17:05:32.000Z",
+        "updatedAt": "2021-11-20T19:45:17.000Z",
         "deletedAt": null
       }
     },

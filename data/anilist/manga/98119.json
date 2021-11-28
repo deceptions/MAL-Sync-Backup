@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-05T12:53:08.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "sakaku_opera": {
+        "authors": [
+          "KURAKA Sui"
+        ],
+        "identifier": "sakaku_opera",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sakaku Opera",
+        "url": "https://fanfox.net/manga/sakaku_opera/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21973/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100812,
+        "aniId": 98119,
+        "createdAt": "2021-03-23T20:45:38.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

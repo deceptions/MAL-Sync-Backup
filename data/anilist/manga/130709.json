@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-29T13:12:13.000Z",
-  "updatedAt": "2021-06-21T17:27:04.000Z",
+  "updatedAt": "2021-11-23T16:36:21.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-gp983950": {
+        "authors": [
+          "Chie Shimomoto"
+        ],
+        "identifier": "manga-gp983950",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kabuki Princess: The Greatest Girl",
+        "url": "https://manganato.com/manga-gp983950",
+        "image": "https://avt.mkklcdnv6temp.com/7/x/20-1583501327.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 130709,
+        "createdAt": "2021-11-23T16:36:10.000Z",
+        "updatedAt": "2021-11-23T16:36:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

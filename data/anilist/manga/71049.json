@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:48:47.000Z",
-  "updatedAt": "2021-06-17T19:53:29.000Z",
+  "updatedAt": "2021-11-21T12:42:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 71049,
         "createdAt": "2020-10-12T16:09:35.000Z",
         "updatedAt": "2021-06-04T18:38:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "yama-no-susume": {
+        "authors": [
+          "Shiro"
+        ],
+        "identifier": "yama-no-susume",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yama no Susume",
+        "url": "https://mangasee123.com/manga/Yama-No-Susume",
+        "image": "https://cover.nep.li/cover/Yama-No-Susume.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 41049,
+        "aniId": 71049,
+        "createdAt": "2021-07-09T04:14:44.000Z",
+        "updatedAt": "2021-11-21T15:22:02.000Z",
         "deletedAt": null
       }
     }

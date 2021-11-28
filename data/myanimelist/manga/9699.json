@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:24.000Z",
-  "updatedAt": "2021-10-10T16:03:59.000Z",
+  "updatedAt": "2021-11-24T09:36:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,28 @@
         "aniId": 39699,
         "createdAt": "2020-10-12T16:08:40.000Z",
         "updatedAt": "2021-06-04T11:51:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "doukyuusei": {
+        "authors": [
+          "NAKAMURA Asumiko"
+        ],
+        "identifier": "doukyuusei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Doukyuusei",
+        "url": "https://fanfox.net/manga/doukyuusei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5361/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9699,
+        "aniId": 39699,
+        "createdAt": "2020-12-28T03:44:16.000Z",
+        "updatedAt": "2021-11-20T16:14:07.000Z",
         "deletedAt": null
       }
     },

@@ -31,7 +31,7 @@
   "hentai": false,
   "anidbId": 10667,
   "createdAt": "2020-10-12T15:39:28.000Z",
-  "updatedAt": "2021-10-03T00:02:24.000Z",
+  "updatedAt": "2021-11-25T16:06:57.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -51,6 +51,23 @@
         "createdAt": "2020-10-12T15:52:58.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
         "deletedAt": null
+      },
+      "zllqm": {
+        "identifier": "zllqm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hoozuki no Reitetsu 2 OVA",
+        "url": "https://9anime.to/watch/hoozuki-no-reitetsu-2-ova.zllqm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/8d/8d15243f5cf7b26959757f5cadbcd28b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24471,
+        "aniId": 20732,
+        "createdAt": "2021-11-25T16:06:55.000Z",
+        "updatedAt": "2021-11-25T16:35:31.000Z",
+        "deletedAt": null
       }
     },
     "animepahe": {
@@ -69,6 +86,25 @@
         "aniId": 20732,
         "createdAt": "2021-01-02T21:52:58.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "hoozuki-no-reitetsu-ova": {
+        "identifier": "hoozuki-no-reitetsu-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hoozuki no Reitetsu OVA",
+        "url": "https://gogoanime.cm/category/hoozuki-no-reitetsu-ova",
+        "image": "https://gogocdn.net/images/upload/68677.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24471,
+        "aniId": 20732,
+        "createdAt": "2021-11-25T18:35:53.000Z",
+        "updatedAt": "2021-11-25T19:05:31.000Z",
         "deletedAt": null
       }
     }

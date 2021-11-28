@@ -30,7 +30,7 @@
   "hentai": false,
   "anidbId": 5415,
   "createdAt": "2020-12-02T09:52:45.000Z",
-  "updatedAt": "2021-10-01T16:32:43.000Z",
+  "updatedAt": "2021-11-26T22:06:33.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -49,6 +49,23 @@
         "aniId": 4454,
         "createdAt": "2020-12-09T14:27:31.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      },
+      "mwm8": {
+        "identifier": "mwm8",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Macross Frontier Deculture Edition",
+        "url": "https://9anime.to/watch/macross-frontier-deculture-edition.mwm8",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2018/03/33ff1784d65a87a73e90bdb024dd5af4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 4454,
+        "aniId": 4454,
+        "createdAt": "2021-11-26T22:06:22.000Z",
+        "updatedAt": "2021-11-27T17:05:32.000Z",
         "deletedAt": null
       }
     }

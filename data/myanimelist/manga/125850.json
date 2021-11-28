@@ -41,6 +41,50 @@
         "updatedAt": "2021-06-07T21:24:01.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "shinrin_ousha_mori_king": {
+        "authors": [
+          "HASEGAWA Tomohiro"
+        ],
+        "identifier": "shinrin_ousha_mori_king",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shinrin Ousha Mori King",
+        "url": "https://fanfox.net/manga/shinrin_ousha_mori_king/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34334/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125850,
+        "aniId": 117521,
+        "createdAt": "2021-01-18T20:02:52.000Z",
+        "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "moriking": {
+        "authors": [
+          "HASEGAWA Tomohiro"
+        ],
+        "identifier": "moriking",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Moriking",
+        "url": "https://mangasee123.com/manga/Moriking",
+        "image": "https://cover.nep.li/cover/Moriking.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125850,
+        "aniId": 117521,
+        "createdAt": "2021-03-19T21:04:31.000Z",
+        "updatedAt": "2021-11-20T19:45:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

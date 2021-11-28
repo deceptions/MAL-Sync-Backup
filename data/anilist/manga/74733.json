@@ -42,6 +42,51 @@
         "updatedAt": "2021-06-03T17:20:39.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "sword-art-online-fairy-dance": {
+        "authors": [
+          "HAZUKI Tsubasa",
+          "KAWAHARA Reki"
+        ],
+        "identifier": "sword-art-online-fairy-dance",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sword Art Online - Fairy Dance",
+        "url": "https://mangasee123.com/manga/Sword-Art-Online-Fairy-Dance",
+        "image": "https://cover.nep.li/cover/Sword-Art-Online-Fairy-Dance.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44733,
+        "aniId": 74733,
+        "createdAt": "2021-01-21T08:33:47.000Z",
+        "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sword_art_online_fairy_dance": {
+        "authors": [
+          "KAWAHARA Reki"
+        ],
+        "identifier": "sword_art_online_fairy_dance",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sword Art Online - Fairy Dance",
+        "url": "https://fanfox.net/manga/sword_art_online_fairy_dance/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12005/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44733,
+        "aniId": 74733,
+        "createdAt": "2021-01-21T22:04:04.000Z",
+        "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

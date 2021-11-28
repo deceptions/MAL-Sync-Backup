@@ -17,5 +17,28 @@
   "createdAt": "2021-03-05T16:50:04.000Z",
   "updatedAt": "2021-09-05T17:16:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "lemon-angel": {
+        "authors": [
+          "WATABE Jun"
+        ],
+        "identifier": "lemon-angel",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Lemon Angel",
+        "url": "https://mangasee123.com/manga/Lemon-Angel",
+        "image": "https://cover.nep.li/cover/Lemon-Angel.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122971,
+        "aniId": 117538,
+        "createdAt": "2021-03-05T16:50:17.000Z",
+        "updatedAt": "2021-11-20T19:16:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

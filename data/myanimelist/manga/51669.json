@@ -16,5 +16,28 @@
   "createdAt": "2020-10-12T15:44:42.000Z",
   "updatedAt": "2021-09-26T16:52:06.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "houkago_2_c_no_kyoushitsu_de": {
+        "authors": [
+          "ARARAGI Ayune"
+        ],
+        "identifier": "houkago_2_c_no_kyoushitsu_de",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Houkago, 2-C no Kyoushitsu de.",
+        "url": "https://fanfox.net/manga/houkago_2_c_no_kyoushitsu_de/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12522/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51669,
+        "aniId": 81669,
+        "createdAt": "2021-03-26T16:23:57.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

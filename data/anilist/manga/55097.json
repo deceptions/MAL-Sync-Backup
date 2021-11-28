@@ -46,6 +46,51 @@
         "updatedAt": "2021-06-02T11:45:02.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "sentou_jousai_masurawo": {
+        "authors": [
+          "HAYASHI Tomoaki"
+        ],
+        "identifier": "sentou_jousai_masurawo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sentou Jousai Masurawo",
+        "url": "https://fanfox.net/manga/sentou_jousai_masurawo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9024/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25097,
+        "aniId": 55097,
+        "createdAt": "2021-03-24T10:49:55.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "sentou-jousai-masurawo": {
+        "authors": [
+          "ASAI Renji",
+          "HAYASHI Tomoaki"
+        ],
+        "identifier": "sentou-jousai-masurawo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sentou Jousai Masurawo",
+        "url": "https://mangasee123.com/manga/Sentou-Jousai-Masurawo",
+        "image": "https://cover.nep.li/cover/Sentou-Jousai-Masurawo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25097,
+        "aniId": 55097,
+        "createdAt": "2021-04-11T13:51:18.000Z",
+        "updatedAt": "2021-11-20T21:17:18.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

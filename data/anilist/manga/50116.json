@@ -42,6 +42,28 @@
         "updatedAt": "2021-06-02T09:54:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "soramiyo": {
+        "authors": [
+          "UMEKAWA Kazumi"
+        ],
+        "identifier": "soramiyo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Soramiyo",
+        "url": "https://fanfox.net/manga/soramiyo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7979/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20116,
+        "aniId": 50116,
+        "createdAt": "2021-03-07T14:02:58.000Z",
+        "updatedAt": "2021-11-20T19:16:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

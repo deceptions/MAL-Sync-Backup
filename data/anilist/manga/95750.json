@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-04T13:10:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "trans_star": {
+        "authors": [
+          "OHARA Hiroki"
+        ],
+        "identifier": "trans_star",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Trans Star",
+        "url": "https://fanfox.net/manga/trans_star/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/16487/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92042,
+        "aniId": 95750,
+        "createdAt": "2021-03-26T16:21:56.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

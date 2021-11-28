@@ -43,6 +43,28 @@
         "updatedAt": "2021-06-02T17:43:22.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "animal_jungle": {
+        "authors": [
+          "SHIIBA Nana"
+        ],
+        "identifier": "animal_jungle",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Animal Jungle",
+        "url": "https://fanfox.net/manga/animal_jungle/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/761/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4196,
+        "aniId": 34196,
+        "createdAt": "2021-02-03T02:01:46.000Z",
+        "updatedAt": "2021-11-20T18:14:58.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

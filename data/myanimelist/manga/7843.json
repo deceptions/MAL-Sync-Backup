@@ -42,6 +42,28 @@
         "updatedAt": "2021-06-02T18:45:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "sister_trap": {
+        "authors": [
+          "OOHASHI Kaoru"
+        ],
+        "identifier": "sister_trap",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sister Trap",
+        "url": "https://fanfox.net/manga/sister_trap/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3640/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7843,
+        "aniId": 37843,
+        "createdAt": "2021-01-26T17:09:07.000Z",
+        "updatedAt": "2021-11-20T17:45:39.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

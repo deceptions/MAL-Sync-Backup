@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-02T14:46:02.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "k_no_souretsu": {
+        "authors": [
+          "KUSUMOTO Maki"
+        ],
+        "identifier": "k_no_souretsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "K no Souretsu",
+        "url": "https://fanfox.net/manga/k_no_souretsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2403/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1829,
+        "aniId": 31829,
+        "createdAt": "2020-12-20T19:56:06.000Z",
+        "updatedAt": "2021-11-20T16:14:05.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

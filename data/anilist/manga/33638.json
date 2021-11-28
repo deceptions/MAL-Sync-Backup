@@ -44,6 +44,51 @@
         "updatedAt": "2021-06-02T11:34:22.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "kurogane-no-linebarrel": {
+        "authors": [
+          "SHIMIZU Eiichi",
+          "SHIMOGUCHI Tomohiro"
+        ],
+        "identifier": "kurogane-no-linebarrel",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kurogane no Linebarrel",
+        "url": "https://mangasee123.com/manga/Kurogane-No-Linebarrel",
+        "image": "https://cover.nep.li/cover/Kurogane-No-Linebarrel.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3638,
+        "aniId": 33638,
+        "createdAt": "2021-03-05T05:20:34.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kurogane_no_linebarrel": {
+        "authors": [
+          "SHIMIZU Eiichi"
+        ],
+        "identifier": "kurogane_no_linebarrel",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kurogane no Linebarrel",
+        "url": "https://fanfox.net/manga/kurogane_no_linebarrel/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3406/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3638,
+        "aniId": 33638,
+        "createdAt": "2021-03-20T18:35:03.000Z",
+        "updatedAt": "2021-11-20T19:45:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

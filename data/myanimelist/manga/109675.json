@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-05T03:59:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hoshikuzu_no_sorakil": {
+        "authors": [
+          "IWASHIRO Toshiaki"
+        ],
+        "identifier": "hoshikuzu_no_sorakil",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hoshikuzu no Sorakil",
+        "url": "https://fanfox.net/manga/hoshikuzu_no_sorakil/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26067/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109675,
+        "aniId": 121136,
+        "createdAt": "2021-04-29T07:51:01.000Z",
+        "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

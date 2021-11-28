@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-04T03:54:39.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "shiritsu_hakanai_gakuen": {
+        "authors": [
+          "KONNO Azure"
+        ],
+        "identifier": "shiritsu_hakanai_gakuen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shiritsu Hakanai Gakuen",
+        "url": "https://fanfox.net/manga/shiritsu_hakanai_gakuen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15479/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 54399,
+        "aniId": 84399,
+        "createdAt": "2021-11-22T03:42:49.000Z",
+        "updatedAt": "2021-11-22T04:12:37.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

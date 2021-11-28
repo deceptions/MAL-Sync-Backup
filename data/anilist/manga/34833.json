@@ -63,6 +63,28 @@
         "updatedAt": "2021-06-06T22:07:22.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "marugoto_anju_gakuen": {
+        "authors": [
+          "Amatsu Sae"
+        ],
+        "identifier": "marugoto_anju_gakuen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Marugoto Anju Gakuen",
+        "url": "https://fanfox.net/manga/marugoto_anju_gakuen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4011/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4833,
+        "aniId": 34833,
+        "createdAt": "2021-03-02T20:50:18.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

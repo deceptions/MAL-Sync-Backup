@@ -19,5 +19,29 @@
   "createdAt": "2021-05-29T15:12:13.000Z",
   "updatedAt": "2021-07-17T17:32:21.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "20143014-832d-4f6d-a078-793cb99ced09": {
+        "authors": [
+          "Nagatsuki Tappei",
+          "Yamataka Morito"
+        ],
+        "identifier": "20143014-832d-4f6d-a078-793cb99ced09",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Vivy -Fluorite Eye's Song-",
+        "url": "https://mangadex.org/title/20143014-832d-4f6d-a078-793cb99ced09",
+        "image": "https://uploads.mangadex.org/covers/20143014-832d-4f6d-a078-793cb99ced09/2676c3bb-51d8-4af2-b72a-6a2a40ebd1c9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135396,
+        "aniId": 131940,
+        "createdAt": "2021-11-23T03:05:48.000Z",
+        "updatedAt": "2021-11-23T03:35:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -47,6 +47,50 @@
         "updatedAt": "2021-06-05T07:07:59.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hokuhokusei_ni_kumo_to_ike": {
+        "authors": [
+          "IRIE Aki"
+        ],
+        "identifier": "hokuhokusei_ni_kumo_to_ike",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hokuhokusei ni Kumo to Ike",
+        "url": "https://fanfox.net/manga/hokuhokusei_ni_kumo_to_ike/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27090/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97179,
+        "aniId": 87020,
+        "createdAt": "2021-01-01T05:07:37.000Z",
+        "updatedAt": "2021-11-20T16:44:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hokuhokusei-ni-kumo-to-ike": {
+        "authors": [
+          "IRIE Aki"
+        ],
+        "identifier": "hokuhokusei-ni-kumo-to-ike",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hokuhokusei ni Kumo to Ike",
+        "url": "https://mangasee123.com/manga/Hokuhokusei-Ni-Kumo-To-Ike",
+        "image": "https://cover.nep.li/cover/Hokuhokusei-Ni-Kumo-To-Ike.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97179,
+        "aniId": 87020,
+        "createdAt": "2021-01-28T18:53:40.000Z",
+        "updatedAt": "2021-11-20T18:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

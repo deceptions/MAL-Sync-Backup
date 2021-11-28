@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-04T16:24:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "23_00": {
+        "authors": [
+          "MATSUMOTO Tomo"
+        ],
+        "identifier": "23_00",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "23:00",
+        "url": "https://fanfox.net/manga/23_00/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/409/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1509,
+        "aniId": 31509,
+        "createdAt": "2021-01-31T03:02:54.000Z",
+        "updatedAt": "2021-11-20T18:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

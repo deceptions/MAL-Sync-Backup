@@ -19,5 +19,28 @@
   "createdAt": "2021-05-20T14:59:13.000Z",
   "updatedAt": "2021-06-18T09:53:54.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "akai-tsurugi": {
+        "authors": [
+          "AZUMI Ryou"
+        ],
+        "identifier": "akai-tsurugi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Akai Tsurugi",
+        "url": "https://mangasee123.com/manga/Akai-Tsurugi",
+        "image": "https://cover.nep.li/cover/Akai-Tsurugi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126446,
+        "aniId": 121598,
+        "createdAt": "2021-04-17T12:44:48.000Z",
+        "updatedAt": "2021-11-20T21:48:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

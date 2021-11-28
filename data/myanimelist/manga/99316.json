@@ -38,6 +38,28 @@
         "updatedAt": "2021-06-04T20:26:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mou_ichido_nando_demo": {
+        "authors": [
+          "ANIYA Yuiji"
+        ],
+        "identifier": "mou_ichido_nando_demo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mou Ichido, Nando Demo.",
+        "url": "https://fanfox.net/manga/mou_ichido_nando_demo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20455/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99316,
+        "aniId": 87310,
+        "createdAt": "2021-04-01T12:31:52.000Z",
+        "updatedAt": "2021-11-20T20:46:01.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -39,6 +39,50 @@
         "updatedAt": "2021-06-04T18:26:18.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hanayome_wa_motodanshi": {
+        "authors": [
+          "Chii"
+        ],
+        "identifier": "hanayome_wa_motodanshi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hanayome wa Motodanshi.",
+        "url": "https://fanfox.net/manga/hanayome_wa_motodanshi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/19019/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96936,
+        "aniId": 86937,
+        "createdAt": "2021-03-26T16:19:37.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hanayome-wa-motodanshi": {
+        "authors": [
+          "Chii"
+        ],
+        "identifier": "hanayome-wa-motodanshi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Bride was a Boy",
+        "url": "https://mangasee123.com/manga/Hanayome-Wa-Motodanshi",
+        "image": "https://cover.nep.li/cover/Hanayome-Wa-Motodanshi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96936,
+        "aniId": 86937,
+        "createdAt": "2021-05-14T04:55:34.000Z",
+        "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

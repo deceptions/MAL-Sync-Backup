@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-02T16:23:42.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "akagi": {
+        "authors": [
+          "FUKUMOTO Nobuyuki"
+        ],
+        "identifier": "akagi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Akagi",
+        "url": "https://mangasee123.com/manga/Akagi",
+        "image": "https://cover.nep.li/cover/Akagi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 1218,
+        "aniId": 31218,
+        "createdAt": "2021-02-01T08:01:45.000Z",
+        "updatedAt": "2021-11-20T18:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

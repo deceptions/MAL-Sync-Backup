@@ -38,6 +38,28 @@
         "updatedAt": "2021-06-03T23:01:09.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "trans_trans": {
+        "authors": [
+          "RUEN Rouga"
+        ],
+        "identifier": "trans_trans",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Trans Trans",
+        "url": "https://fanfox.net/manga/trans_trans/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21285/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 61561,
+        "aniId": 87410,
+        "createdAt": "2021-02-11T09:40:37.000Z",
+        "updatedAt": "2021-11-20T18:44:25.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

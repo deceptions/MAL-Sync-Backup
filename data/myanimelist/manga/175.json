@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE"
+    }
+  ],
   "altTitle": [
     "東方三月精 Eastern and Little Nature Deity"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:19.000Z",
-  "updatedAt": "2021-08-03T14:47:50.000Z",
+  "updatedAt": "2021-11-27T14:06:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,29 @@
         "aniId": 30175,
         "createdAt": "2020-10-12T16:03:23.000Z",
         "updatedAt": "2021-06-02T13:41:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "touhou-sangetsusei-eastern-and-little-nature-deity": {
+        "authors": [
+          "MATSUKURA Nemu",
+          "ZUN"
+        ],
+        "identifier": "touhou-sangetsusei-eastern-and-little-nature-deity",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Touhou Sangetsusei: Eastern and Little Nature Deity",
+        "url": "https://mangasee123.com/manga/Touhou-Sangetsusei-Eastern-And-Little-Nature-Deity",
+        "image": "https://cover.nep.li/cover/Touhou-Sangetsusei-Eastern-And-Little-Nature-Deity.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 175,
+        "aniId": 30175,
+        "createdAt": "2021-02-03T14:41:06.000Z",
+        "updatedAt": "2021-11-20T18:14:58.000Z",
         "deletedAt": null
       }
     }

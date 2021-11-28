@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/CROSS_OVER"
+    }
+  ],
   "altTitle": [
     "Crossover",
     "X Over",
@@ -18,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:31.000Z",
-  "updatedAt": "2021-07-27T13:21:45.000Z",
+  "updatedAt": "2021-11-24T19:36:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +85,28 @@
         "aniId": 31217,
         "createdAt": "2020-10-12T16:16:06.000Z",
         "updatedAt": "2021-06-06T19:38:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "cross-over": {
+        "authors": [
+          "SEO Kouji"
+        ],
+        "identifier": "cross-over",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Cross Over",
+        "url": "https://mangasee123.com/manga/Cross-Over",
+        "image": "https://cover.nep.li/cover/Cross-Over.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1217,
+        "aniId": 31217,
+        "createdAt": "2021-11-24T19:36:00.000Z",
+        "updatedAt": "2021-11-24T20:05:31.000Z",
         "deletedAt": null
       }
     }

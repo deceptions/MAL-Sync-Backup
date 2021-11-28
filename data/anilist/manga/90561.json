@@ -47,6 +47,28 @@
         "updatedAt": "2021-06-05T18:13:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "action-mask": {
+        "authors": [
+          "NISHIWAKI Datto"
+        ],
+        "identifier": "action-mask",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Action Mask",
+        "url": "https://mangasee123.com/manga/Action-Mask",
+        "image": "https://cover.nep.li/cover/Action-Mask.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 67131,
+        "aniId": 90561,
+        "createdAt": "2021-03-30T10:01:44.000Z",
+        "updatedAt": "2021-11-20T20:46:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

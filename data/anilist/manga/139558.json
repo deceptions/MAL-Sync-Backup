@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-23T12:10:57.000Z",
-  "updatedAt": "2021-09-23T12:10:57.000Z",
+  "updatedAt": "2021-11-27T15:36:37.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mu990077": {
+        "authors": [
+          "Shin Eui-Cheol",
+          "Jang Dae-Hyun"
+        ],
+        "identifier": "manga-mu990077",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Age Of Barbarous",
+        "url": "https://manganato.com/manga-mu990077",
+        "image": "https://avt.mkklcdnv6temp.com/9/a/25-1637988449.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 139558,
+        "createdAt": "2021-11-27T15:36:26.000Z",
+        "updatedAt": "2021-11-27T15:36:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -11,13 +11,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 133081,
+  "aniId": 135083,
   "createdAt": "2021-11-11T23:43:55.000Z",
-  "updatedAt": "2021-11-11T23:44:06.000Z",
+  "updatedAt": "2021-11-21T15:22:05.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pocket.shonenmagazine.com/episode/13933686331776549532"
+      }
+    ],
+    "altTitle": [
+      "WIND BREAKER"
+    ],
+    "authors": [
+      "Nii, Satoru"
+    ],
+    "id": 133081,
+    "type": "manga",
+    "title": "Wind Breaker",
+    "url": "https://myanimelist.net/manga/133081/Wind_Breaker",
+    "image": "https://cdn.myanimelist.net/images/manga/1/244074.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-01-25T21:42:58.000Z",
+    "updatedAt": "2021-11-19T10:16:15.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "WIND BREAKER",
+      "ウィンドブレイカ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Satoru Nii"
+    ],
+    "id": 135083,
+    "malId": 133081,
+    "type": "manga",
+    "title": "WIND BREAKER",
+    "url": "https://anilist.co/manga/135083",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135083-TQbNFWKGJJHW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-04T04:48:57.000Z",
+    "updatedAt": "2021-11-12T01:43:36.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/133081/Wind_Breaker"
 }

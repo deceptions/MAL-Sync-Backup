@@ -19,5 +19,28 @@
   "createdAt": "2020-10-12T15:43:44.000Z",
   "updatedAt": "2021-06-16T23:29:05.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "itsuwari_no_kekkonyubiwa": {
+        "authors": [
+          "Kim Lawrence"
+        ],
+        "identifier": "itsuwari_no_kekkonyubiwa",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Itsuwari no Kekkonyubiwa",
+        "url": "https://fanfox.net/manga/itsuwari_no_kekkonyubiwa/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9555/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31851,
+        "aniId": 61851,
+        "createdAt": "2020-12-16T23:26:44.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

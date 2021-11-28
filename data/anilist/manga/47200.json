@@ -44,6 +44,51 @@
         "updatedAt": "2021-06-02T10:16:04.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "makai_ouji_devils_and_realist": {
+        "authors": [
+          "TAKADONO Madoka"
+        ],
+        "identifier": "makai_ouji_devils_and_realist",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Makai Ouji: Devils and Realist",
+        "url": "https://fanfox.net/manga/makai_ouji_devils_and_realist/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6966/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17200,
+        "aniId": 47200,
+        "createdAt": "2021-02-02T20:32:25.000Z",
+        "updatedAt": "2021-11-20T18:14:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "makai-ouji-devils-and-realist": {
+        "authors": [
+          "TAKADONO Madoka",
+          "YUKIHIRO Utako"
+        ],
+        "identifier": "makai-ouji-devils-and-realist",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Makai Ouji: Devils and Realist",
+        "url": "https://mangasee123.com/manga/Makai-Ouji-Devils-And-Realist",
+        "image": "https://cover.nep.li/cover/Makai-Ouji-Devils-And-Realist.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17200,
+        "aniId": 47200,
+        "createdAt": "2021-03-01T16:50:04.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -19,5 +19,28 @@
   "createdAt": "2021-05-20T14:45:35.000Z",
   "updatedAt": "2021-06-17T16:49:33.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "simoun_magical_biyuden": {
+        "authors": [
+          "MAEDA Masayoshi"
+        ],
+        "identifier": "simoun_magical_biyuden",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Simoun - Magical Biyuden",
+        "url": "https://fanfox.net/manga/simoun_magical_biyuden/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6661/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20738,
+        "aniId": 50738,
+        "createdAt": "2021-05-18T20:01:54.000Z",
+        "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

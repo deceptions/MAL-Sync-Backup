@@ -19,7 +19,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-10-10T19:38:04.000Z",
-  "updatedAt": "2021-10-10T19:38:04.000Z",
+  "updatedAt": "2021-11-26T20:05:43.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "79ca6344-5468-4fa8-8eb7-859728b27156": {
+        "authors": [
+          "Oku Tamamushi"
+        ],
+        "identifier": "79ca6344-5468-4fa8-8eb7-859728b27156",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dore ga Koi Ka ga Wakaranai",
+        "url": "https://mangadex.org/title/79ca6344-5468-4fa8-8eb7-859728b27156",
+        "image": "https://uploads.mangadex.org/covers/79ca6344-5468-4fa8-8eb7-859728b27156/4a0b2d85-8f1e-4983-8cb5-d6c468710cb7.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 139756,
+        "aniId": 137303,
+        "createdAt": "2021-10-17T19:00:42.000Z",
+        "updatedAt": "2021-11-27T16:41:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

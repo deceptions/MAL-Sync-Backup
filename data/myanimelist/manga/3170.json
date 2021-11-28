@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Jinb%C4%93"
+    }
+  ],
   "altTitle": [
     "じんべえ"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:48.000Z",
-  "updatedAt": "2021-05-25T23:38:27.000Z",
+  "updatedAt": "2021-11-26T00:06:24.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,28 +41,6 @@
         "aniId": 33170,
         "createdAt": "2020-10-12T16:02:57.000Z",
         "updatedAt": "2021-06-02T10:39:31.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "jinbe": {
-        "authors": [
-          "ADACHI Mitsuru"
-        ],
-        "identifier": "jinbe",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Jinbe",
-        "url": "https://mangasee123.com/manga/Jinbe",
-        "image": "https://cover.nep.li/cover/Jinbe.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 3170,
-        "aniId": 33170,
-        "createdAt": "2021-05-25T23:38:28.000Z",
-        "updatedAt": "2021-05-26T00:08:17.000Z",
         "deletedAt": null
       }
     }

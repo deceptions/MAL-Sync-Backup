@@ -25,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:45.000Z",
-  "updatedAt": "2021-10-07T05:03:22.000Z",
+  "updatedAt": "2021-11-24T21:07:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -69,6 +69,28 @@
         "aniId": 97830,
         "createdAt": "2020-12-23T08:56:13.000Z",
         "updatedAt": "2021-09-01T23:16:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "to_you_the_immortal": {
+        "authors": [
+          "OIMA Yoshitoki"
+        ],
+        "identifier": "to_you_the_immortal",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "To You, The Immortal",
+        "url": "https://fanfox.net/manga/to_you_the_immortal/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/22661/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102343,
+        "aniId": 97830,
+        "createdAt": "2021-01-27T04:11:42.000Z",
+        "updatedAt": "2021-11-20T17:45:39.000Z",
         "deletedAt": null
       }
     },

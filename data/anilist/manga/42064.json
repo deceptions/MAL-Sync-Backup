@@ -43,6 +43,50 @@
         "updatedAt": "2021-06-02T16:51:03.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "sora-log": {
+        "authors": [
+          "MITSUKI Kako"
+        ],
+        "identifier": "sora-log",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sora Log",
+        "url": "https://mangasee123.com/manga/Sora-Log",
+        "image": "https://cover.nep.li/cover/Sora-Log.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12064,
+        "aniId": 42064,
+        "createdAt": "2021-01-17T12:33:07.000Z",
+        "updatedAt": "2021-11-20T17:45:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sora_log": {
+        "authors": [
+          "MITSUKI Kako"
+        ],
+        "identifier": "sora_log",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sora Log",
+        "url": "https://fanfox.net/manga/sora_log/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7125/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12064,
+        "aniId": 42064,
+        "createdAt": "2021-04-01T12:32:22.000Z",
+        "updatedAt": "2021-11-20T20:46:01.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

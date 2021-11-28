@@ -11,13 +11,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 41049,
+  "aniId": 71049,
   "createdAt": "2021-07-09T04:14:44.000Z",
-  "updatedAt": "2021-07-09T04:14:47.000Z",
+  "updatedAt": "2021-11-21T15:22:02.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://comic-earthstar.jp/author/detail20.php"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%8E%E3%82%B9%E3%82%B9%E3%83%A1"
+      }
+    ],
+    "altTitle": [
+      "Encouragement of climb.",
+      "ヤマノススメ"
+    ],
+    "authors": [
+      "siro"
+    ],
+    "id": 41049,
+    "type": "manga",
+    "title": "Yama no Susume",
+    "url": "https://myanimelist.net/manga/41049/Yama_no_Susume",
+    "image": "https://cdn.myanimelist.net/images/manga/2/171537.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:44:08.000Z",
+    "updatedAt": "2021-11-21T15:22:00.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ヤマノススメ",
+      "Encouragement of Climb",
+      "Siro's Encouragement of Climb"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Siro"
+    ],
+    "id": 71049,
+    "malId": 41049,
+    "type": "manga",
+    "title": "Yama no Susume",
+    "url": "https://anilist.co/manga/71049",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx71049-FrpQWq0U8QZP.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:48:47.000Z",
+    "updatedAt": "2021-11-21T12:42:58.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/41049/Yama_no_Susume"
 }

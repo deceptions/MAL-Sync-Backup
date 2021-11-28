@@ -19,9 +19,19 @@
   "updatedAt": "2021-06-07T21:03:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://youngjump.jp/manga/oshinoko/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%80%90%E6%8E%A8%E3%81%97%E3%81%AE%E5%AD%90%E3%80%91"
+      }
+    ],
     "altTitle": [
-      "推しの子"
+      "My Star",
+      "【推しの子】"
     ],
     "authors": [
       "Akasaka, Aka",
@@ -29,13 +39,13 @@
     ],
     "id": 126146,
     "type": "manga",
-    "title": "Oshi no Ko",
+    "title": "\"Oshi no Ko\"",
     "url": "https://myanimelist.net/manga/126146/Oshi_no_Ko",
     "image": "https://cdn.myanimelist.net/images/manga/3/233991.jpg",
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:48:21.000Z",
-    "updatedAt": "2021-07-15T02:51:43.000Z",
+    "updatedAt": "2021-11-21T01:52:20.000Z",
     "deletedAt": null
   },
   "Anilist": {

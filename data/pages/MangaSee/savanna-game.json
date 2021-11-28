@@ -11,14 +11,61 @@
   "image": "https://cover.nep.li/cover/Savanna-Game.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actor": 1,
+  "malId": 48471,
+  "aniId": 78471,
   "createdAt": "2021-04-07T20:51:48.000Z",
-  "updatedAt": "2021-10-07T21:02:39.000Z",
+  "updatedAt": "2021-11-22T08:42:37.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.shogakukan-cr.jp/savannagame/"
+      }
+    ],
+    "altTitle": [
+      "Savanna Game: The Ultimate",
+      "サバンナゲーム The Comic"
+    ],
+    "authors": [
+      "Kuroi, Ransuke",
+      "Shiozuka, Makoto",
+      "Haruno, Eri"
+    ],
+    "id": 48471,
+    "type": "manga",
+    "title": "Savanna Game: The Comic",
+    "url": "https://myanimelist.net/manga/48471/Savanna_Game__The_Comic",
+    "image": "https://cdn.myanimelist.net/images/manga/3/166846.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:44:31.000Z",
+    "updatedAt": "2021-11-21T20:43:08.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "サバンナゲーム The Comic",
+      "Savanna Game"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ransuke Kuroi",
+      "Eri Haruno"
+    ],
+    "id": 78471,
+    "malId": 48471,
+    "type": "manga",
+    "title": "Savanna Game The Comic",
+    "url": "https://anilist.co/manga/78471",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx78471-qyY6tRWtCS5U.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:49:39.000Z",
+    "updatedAt": "2021-06-17T20:37:30.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/48471/Savanna_Game__The_Comic"
 }

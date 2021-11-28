@@ -64,6 +64,32 @@
         "updatedAt": "2021-06-05T09:02:30.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "city-of-darkness": {
+        "authors": [
+          "Andy Seto",
+          "Chenjing Group",
+          "Situ Jian Qiao",
+          "Yu Er",
+          "Yuyongliang"
+        ],
+        "identifier": "city-of-darkness",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "City of Darkness",
+        "url": "https://mangasee123.com/manga/City-Of-Darkness",
+        "image": "https://cover.nep.li/cover/City-Of-Darkness.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 29609,
+        "aniId": 59609,
+        "createdAt": "2021-02-02T11:31:59.000Z",
+        "updatedAt": "2021-11-20T18:14:58.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

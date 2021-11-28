@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.kurage-bunch.com/manga/mahoushojo/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E9%96%93%E9%81%95%E3%81%A3%E3%81%9F%E5%AD%90%E3%82%92%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AB%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F"
+    }
+  ],
   "altTitle": [
     "Machimaho: I Messed Up and Made the Wrong Person Into a Magical Girl!",
     "Mistaken Child Attempts to Become a Magical Girl",
@@ -17,7 +26,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:53.000Z",
-  "updatedAt": "2021-07-05T06:00:03.000Z",
+  "updatedAt": "2021-11-21T01:47:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +48,50 @@
         "aniId": 98285,
         "createdAt": "2020-10-12T16:10:24.000Z",
         "updatedAt": "2021-06-05T00:33:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "machigatta-ko-wo-mahou-shoujo-ni-shite-shimatta": {
+        "authors": [
+          "Souryuu"
+        ],
+        "identifier": "machigatta-ko-wo-mahou-shoujo-ni-shite-shimatta",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Machigatta ko wo Mahou Shoujo ni shite shimatta",
+        "url": "https://mangasee123.com/manga/Machigatta-Ko-Wo-Mahou-Shoujo-Ni-Shite-Shimatta",
+        "image": "https://cover.nep.li/cover/Machigatta-Ko-Wo-Mahou-Shoujo-Ni-Shite-Shimatta.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103815,
+        "aniId": 98285,
+        "createdAt": "2021-01-05T04:56:50.000Z",
+        "updatedAt": "2021-11-20T16:44:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "machigatta_ko_wo_mahou_shoujo_ni_shite_shimatta": {
+        "authors": [
+          "Souryuu"
+        ],
+        "identifier": "machigatta_ko_wo_mahou_shoujo_ni_shite_shimatta",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Machigatta ko wo Mahou Shoujo ni Shite Shimatta",
+        "url": "https://fanfox.net/manga/machigatta_ko_wo_mahou_shoujo_ni_shite_shimatta/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/23801/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103815,
+        "aniId": 98285,
+        "createdAt": "2021-02-26T21:55:55.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
         "deletedAt": null
       }
     },

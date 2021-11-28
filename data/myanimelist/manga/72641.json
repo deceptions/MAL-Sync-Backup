@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-04T09:44:00.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "area51": {
+        "authors": [
+          "HISA Masato"
+        ],
+        "identifier": "area51",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Area 51",
+        "url": "https://mangasee123.com/manga/Area51",
+        "image": "https://cover.nep.li/cover/Area51.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72641,
+        "aniId": 86210,
+        "createdAt": "2021-03-05T05:20:05.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

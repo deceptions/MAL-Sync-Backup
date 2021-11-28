@@ -21,5 +21,29 @@
   "createdAt": "2021-09-14T09:34:41.000Z",
   "updatedAt": "2021-09-14T09:34:41.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "caae74bc-c055-4f25-883d-102141eeae62": {
+        "authors": [
+          "Masaya HONDA",
+          "Nanboku"
+        ],
+        "identifier": "caae74bc-c055-4f25-883d-102141eeae62",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Char's Daily Life",
+        "url": "https://mangadex.org/title/caae74bc-c055-4f25-883d-102141eeae62",
+        "image": "https://uploads.mangadex.org/covers/caae74bc-c055-4f25-883d-102141eeae62/9321128d-9956-43fc-a3d4-ae13b2c0198a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70331,
+        "aniId": 91161,
+        "createdAt": "2021-11-23T17:35:47.000Z",
+        "updatedAt": "2021-11-23T18:05:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

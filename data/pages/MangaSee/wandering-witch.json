@@ -6,19 +6,74 @@
   "identifier": "wandering-witch",
   "type": "manga",
   "page": "MangaSee",
-  "title": "Wandering Witch",
+  "title": "Wandering Witch - The Journey of Elaina",
   "url": "https://mangasee123.com/manga/Wandering-Witch",
   "image": "https://cover.nep.li/cover/Wandering-Witch.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 116831,
+  "aniId": 105913,
   "createdAt": "2020-12-19T17:26:17.000Z",
-  "updatedAt": "2021-06-19T17:52:10.000Z",
+  "updatedAt": "2021-11-26T09:08:23.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/mangaup/original/majono"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%AD%94%E5%A5%B3%E3%81%AE%E6%97%85%E3%80%85"
+      }
+    ],
+    "altTitle": [
+      "Wandering Witch: The Journey of Elaina",
+      "魔女の旅々"
+    ],
+    "authors": [
+      "Shiraishi, Jougi",
+      "Nanao, Itsuki"
+    ],
+    "id": 116831,
+    "type": "manga",
+    "title": "Majo no Tabitabi",
+    "url": "https://myanimelist.net/manga/116831/Majo_no_Tabitabi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/217437.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:49.000Z",
+    "updatedAt": "2021-11-25T20:07:16.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Wandering Witch: The Journey of Elaina",
+      "魔女の旅々",
+      "MajoTabi",
+      "Elainas Reise"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Jougi Shiraishi",
+      "Itsuki Nanao",
+      "Azuru",
+      "Taylor Engel",
+      "Bianca Pistillo"
+    ],
+    "id": 105913,
+    "malId": 116831,
+    "type": "manga",
+    "title": "Majo no Tabitabi",
+    "url": "https://anilist.co/manga/105913",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx105913-A0w5OohVRfjb.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:57:53.000Z",
+    "updatedAt": "2021-11-26T01:36:34.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/116831/Majo_no_Tabitabi"
 }

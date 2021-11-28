@@ -20,5 +20,28 @@
   "createdAt": "2021-05-20T14:36:43.000Z",
   "updatedAt": "2021-06-17T09:21:01.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "milk_crown_h": {
+        "authors": [
+          "MIZUTO Aqua"
+        ],
+        "identifier": "milk_crown_h",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Milk Crown H",
+        "url": "https://fanfox.net/manga/milk_crown_h/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1033/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1311,
+        "aniId": 31311,
+        "createdAt": "2021-04-20T22:57:01.000Z",
+        "updatedAt": "2021-11-20T21:48:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

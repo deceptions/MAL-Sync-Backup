@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-05T18:35:40.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "mail": {
+        "authors": [
+          "YAMAZAKI Housui"
+        ],
+        "identifier": "mail",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mail",
+        "url": "https://mangasee123.com/manga/Mail",
+        "image": "https://cover.nep.li/cover/Mail.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4260,
+        "aniId": 34260,
+        "createdAt": "2021-04-08T21:21:29.000Z",
+        "updatedAt": "2021-11-20T21:17:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

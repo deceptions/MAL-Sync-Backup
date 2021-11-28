@@ -41,6 +41,50 @@
         "updatedAt": "2021-06-06T10:30:39.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "utsubora-the-story-of-a-novelist": {
+        "authors": [
+          "NAKAMURA Asumiko"
+        ],
+        "identifier": "utsubora-the-story-of-a-novelist",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Utsubora - The Story of a Novelist",
+        "url": "https://mangasee123.com/manga/Utsubora-The-Story-of-a-Novelist",
+        "image": "https://cover.nep.li/cover/Utsubora-The-Story-of-a-Novelist.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20096,
+        "aniId": 50096,
+        "createdAt": "2021-04-30T04:49:14.000Z",
+        "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "utsubora": {
+        "authors": [
+          "NAKAMURA Asumiko"
+        ],
+        "identifier": "utsubora",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Utsubora",
+        "url": "https://fanfox.net/manga/utsubora/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35564/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20096,
+        "aniId": 50096,
+        "createdAt": "2021-05-04T03:33:50.000Z",
+        "updatedAt": "2021-11-20T22:22:05.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

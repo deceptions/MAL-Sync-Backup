@@ -40,6 +40,50 @@
         "updatedAt": "2021-06-02T17:54:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "banana-no-nana": {
+        "authors": [
+          "ONIYAZU Kakashi"
+        ],
+        "identifier": "banana-no-nana",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Banana no Nana",
+        "url": "https://mangasee123.com/manga/Banana-No-Nana",
+        "image": "https://cover.nep.li/cover/Banana-No-Nana.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20281,
+        "aniId": 50281,
+        "createdAt": "2021-01-20T10:34:05.000Z",
+        "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "banana_no_nana": {
+        "authors": [
+          "ONIYAZU Kakashi"
+        ],
+        "identifier": "banana_no_nana",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Banana no Nana",
+        "url": "https://fanfox.net/manga/banana_no_nana/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8045/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20281,
+        "aniId": 50281,
+        "createdAt": "2021-03-15T07:00:43.000Z",
+        "updatedAt": "2021-11-20T19:45:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

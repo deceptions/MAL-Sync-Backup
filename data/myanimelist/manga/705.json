@@ -1,8 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/真月譚_月姫"
+    }
+  ],
   "altTitle": [
     "Lunar Legend Tsukihime",
-    "True Lunar Chronicle Tsukihime, Lunar Legend Chronicles",
+    "True Lunar Chronicle Tsukihime",
+    "Lunar Legend Chronicles",
     "真月譚 月姫"
   ],
   "authors": [
@@ -18,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:25.000Z",
-  "updatedAt": "2021-05-29T17:42:22.000Z",
+  "updatedAt": "2021-11-24T17:40:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +47,52 @@
         "aniId": 30705,
         "createdAt": "2020-10-12T16:03:00.000Z",
         "updatedAt": "2021-06-02T11:06:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shingetsutan-tsukihime": {
+        "authors": [
+          "SASAKI Shounen",
+          "Type-Moon"
+        ],
+        "identifier": "shingetsutan-tsukihime",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shingetsutan Tsukihime",
+        "url": "https://mangasee123.com/manga/Shingetsutan-Tsukihime",
+        "image": "https://cover.nep.li/cover/Shingetsutan-Tsukihime.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 705,
+        "aniId": 30705,
+        "createdAt": "2021-01-14T00:39:05.000Z",
+        "updatedAt": "2021-11-20T17:15:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shingetsutan_tsukihime": {
+        "authors": [
+          "Type-Moon",
+          "Sasaki Shonen"
+        ],
+        "identifier": "shingetsutan_tsukihime",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shingetsutan Tsukihime",
+        "url": "https://fanfox.net/manga/shingetsutan_tsukihime/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1116/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 705,
+        "aniId": 30705,
+        "createdAt": "2021-02-01T02:32:08.000Z",
+        "updatedAt": "2021-11-20T18:14:57.000Z",
         "deletedAt": null
       }
     },

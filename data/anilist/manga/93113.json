@@ -20,5 +20,28 @@
   "createdAt": "2021-05-20T14:52:02.000Z",
   "updatedAt": "2021-06-18T00:24:22.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "norn_9_norn_nonet": {
+        "authors": [
+          "Xiao Kaori [Add]"
+        ],
+        "identifier": "norn_9_norn_nonet",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Norn 9 - Norn + Nonet",
+        "url": "https://fanfox.net/manga/norn_9_norn_nonet/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14432/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 81249,
+        "aniId": 93113,
+        "createdAt": "2021-01-01T04:07:39.000Z",
+        "updatedAt": "2021-11-20T16:44:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

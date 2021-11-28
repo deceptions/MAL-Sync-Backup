@@ -18,7 +18,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-10T00:43:18.000Z",
-  "updatedAt": "2021-10-15T21:28:45.000Z",
+  "updatedAt": "2021-11-21T01:30:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "68236d5a-329c-4fb4-9ebb-7f7264fe28a9": {
+        "authors": [
+          "Enoshima Abyss",
+          "Edoya Pochi"
+        ],
+        "identifier": "68236d5a-329c-4fb4-9ebb-7f7264fe28a9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kamiyama-san No Kamibukuro No Naka Ni wa",
+        "url": "https://mangadex.org/title/68236d5a-329c-4fb4-9ebb-7f7264fe28a9",
+        "image": "https://uploads.mangadex.org/covers/68236d5a-329c-4fb4-9ebb-7f7264fe28a9/6de3ffdc-4b81-4dfd-80b8-588e1b3d55a0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 136510,
+        "createdAt": "2021-10-13T05:58:45.000Z",
+        "updatedAt": "2021-11-21T01:31:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -38,6 +38,28 @@
         "updatedAt": "2021-06-02T23:11:23.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "wane_koi_tsumi": {
+        "authors": [
+          "HOSHINO Lily"
+        ],
+        "identifier": "wane_koi_tsumi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Wane Koi Tsumi",
+        "url": "https://fanfox.net/manga/wane_koi_tsumi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4663/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5263,
+        "aniId": 35263,
+        "createdAt": "2021-05-02T02:34:05.000Z",
+        "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

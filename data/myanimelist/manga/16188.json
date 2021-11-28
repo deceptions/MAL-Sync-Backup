@@ -44,6 +44,50 @@
         "updatedAt": "2021-06-02T20:39:11.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "3-am-dangerous-zone": {
+        "authors": [
+          "NEMU Youko"
+        ],
+        "identifier": "3-am-dangerous-zone",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "3 am Dangerous Zone",
+        "url": "https://mangasee123.com/manga/3-Am-Dangerous-Zone",
+        "image": "https://cover.nep.li/cover/3-Am-Dangerous-Zone.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16188,
+        "aniId": 46188,
+        "createdAt": "2021-01-27T04:38:15.000Z",
+        "updatedAt": "2021-11-20T17:45:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "3_am_dangerous_zone": {
+        "authors": [
+          "NEMU Youko"
+        ],
+        "identifier": "3_am_dangerous_zone",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "3 AM Dangerous Zone",
+        "url": "https://fanfox.net/manga/3_am_dangerous_zone/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7439/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16188,
+        "aniId": 46188,
+        "createdAt": "2021-05-06T19:48:47.000Z",
+        "updatedAt": "2021-11-20T22:22:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

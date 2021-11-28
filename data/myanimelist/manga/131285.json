@@ -23,7 +23,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-11-30T18:52:38.000Z",
-  "updatedAt": "2021-10-10T07:03:02.000Z",
+  "updatedAt": "2021-11-25T11:44:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -46,6 +46,28 @@
         "aniId": 111108,
         "createdAt": "2020-10-12T16:16:51.000Z",
         "updatedAt": "2021-06-07T02:30:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sincerely_i_became_a_duke_s_maid": {
+        "authors": [
+          "Jooara/Juara (주아라)"
+        ],
+        "identifier": "sincerely_i_became_a_duke_s_maid",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sincerely: I Became a Duke's Maid",
+        "url": "https://fanfox.net/manga/sincerely_i_became_a_duke_s_maid/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31119/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 131285,
+        "aniId": 111108,
+        "createdAt": "2020-12-31T16:37:07.000Z",
+        "updatedAt": "2021-11-25T11:45:02.000Z",
         "deletedAt": null
       }
     },

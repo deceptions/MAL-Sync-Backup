@@ -48,6 +48,51 @@
         "updatedAt": "2021-06-02T13:50:53.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "hitsugime-no-chaika": {
+        "authors": [
+          "SAKAKI Ichirou",
+          "SAKAYAMA Shinta"
+        ],
+        "identifier": "hitsugime-no-chaika",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hitsugi no Chaika",
+        "url": "https://mangasee123.com/manga/Hitsugime-No-Chaika",
+        "image": "https://cover.nep.li/cover/Hitsugime-No-Chaika.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32097,
+        "aniId": 62097,
+        "createdAt": "2020-12-16T18:56:07.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hitsugime_no_chaika": {
+        "authors": [
+          "SAKAKI Ichirou"
+        ],
+        "identifier": "hitsugime_no_chaika",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hitsugime no Chaika",
+        "url": "https://fanfox.net/manga/hitsugime_no_chaika/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9808/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32097,
+        "aniId": 62097,
+        "createdAt": "2021-05-06T22:47:53.000Z",
+        "updatedAt": "2021-11-20T22:22:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

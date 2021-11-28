@@ -42,6 +42,29 @@
         "updatedAt": "2021-06-03T17:08:48.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "tsuki_no_sango": {
+        "authors": [
+          "Type-moon",
+          "Nasu Kinoko"
+        ],
+        "identifier": "tsuki_no_sango",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tsuki no Sango",
+        "url": "https://fanfox.net/manga/tsuki_no_sango/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10973/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41957,
+        "aniId": 71957,
+        "createdAt": "2021-03-21T00:36:42.000Z",
+        "updatedAt": "2021-11-20T19:45:18.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

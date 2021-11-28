@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-03T15:37:07.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kimi_to_parade": {
+        "authors": [
+          "KOJIMA Lalako"
+        ],
+        "identifier": "kimi_to_parade",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi to Parade",
+        "url": "https://fanfox.net/manga/kimi_to_parade/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11663/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25124,
+        "aniId": 55124,
+        "createdAt": "2021-04-01T14:01:04.000Z",
+        "updatedAt": "2021-11-20T21:17:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.pixiv.net/works/4708"
+    }
+  ],
   "altTitle": [
-    "Toshiue Jimiko to Kowamote Koukousei, Scary Face High Schooler and Miss Plain Jane",
+    "Toshiue Jimiko to Kowamote Koukousei",
+    "Scary Face High Schooler and Miss Plain Jane",
     "コワモテ高校生と地味子さん"
   ],
   "authors": [
@@ -15,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:52.000Z",
-  "updatedAt": "2021-05-23T10:43:11.000Z",
+  "updatedAt": "2021-11-23T11:06:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,29 +43,6 @@
         "aniId": 107260,
         "createdAt": "2020-10-12T16:14:51.000Z",
         "updatedAt": "2021-06-06T10:09:57.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "kowamote_koukousei_to_jimiko_san": {
-        "authors": [
-          "KOKONOE Yae",
-          "[Add]"
-        ],
-        "identifier": "kowamote_koukousei_to_jimiko_san",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Kowamote Koukousei to Jimiko-san",
-        "url": "https://fanfox.net/manga/kowamote_koukousei_to_jimiko_san/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/29805/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 118266,
-        "aniId": 107260,
-        "createdAt": "2021-05-23T10:43:13.000Z",
-        "updatedAt": "2021-05-23T11:12:57.000Z",
         "deletedAt": null
       }
     },

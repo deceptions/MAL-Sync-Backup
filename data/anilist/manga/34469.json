@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-03T11:38:18.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "short_sunzen": {
+        "authors": [
+          "SAKURAI Susugi"
+        ],
+        "identifier": "short_sunzen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Short Sunzen!",
+        "url": "https://fanfox.net/manga/short_sunzen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6683/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4469,
+        "aniId": 34469,
+        "createdAt": "2021-05-20T22:16:29.000Z",
+        "updatedAt": "2021-11-20T23:14:26.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

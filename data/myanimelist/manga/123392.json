@@ -17,5 +17,28 @@
   "createdAt": "2021-04-29T04:50:52.000Z",
   "updatedAt": "2021-10-29T05:18:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "bakumeshi": {
+        "authors": [
+          "TSUCHIYAMA Shigeru"
+        ],
+        "identifier": "bakumeshi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Food Explosion",
+        "url": "https://mangasee123.com/manga/Bakumeshi",
+        "image": "https://cover.nep.li/cover/Bakumeshi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123392,
+        "aniId": 125614,
+        "createdAt": "2021-04-29T04:50:52.000Z",
+        "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

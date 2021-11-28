@@ -40,6 +40,50 @@
         "updatedAt": "2021-06-03T12:33:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kimi_no_kakera": {
+        "authors": [
+          "TAKAHASHI Shin"
+        ],
+        "identifier": "kimi_no_kakera",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi no Kakera",
+        "url": "https://fanfox.net/manga/kimi_no_kakera/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2847/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1259,
+        "aniId": 31259,
+        "createdAt": "2021-04-22T06:28:31.000Z",
+        "updatedAt": "2021-11-20T21:48:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kimi-no-kakera": {
+        "authors": [
+          "TAKAHASHI Shin"
+        ],
+        "identifier": "kimi-no-kakera",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kimi no Kakera",
+        "url": "https://mangasee123.com/manga/Kimi-No-Kakera",
+        "image": "https://cover.nep.li/cover/Kimi-No-Kakera.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1259,
+        "aniId": 31259,
+        "createdAt": "2021-05-08T23:18:45.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

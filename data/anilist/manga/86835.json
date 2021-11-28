@@ -42,6 +42,51 @@
         "updatedAt": "2021-06-04T03:01:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "forest-of-drizzling-rain": {
+        "authors": [
+          "NAZUKA Kudan",
+          "SANADA Makoto"
+        ],
+        "identifier": "forest-of-drizzling-rain",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Forest of Drizzling Rain",
+        "url": "https://mangasee123.com/manga/Forest-Of-Drizzling-Rain",
+        "image": "https://cover.nep.li/cover/Forest-Of-Drizzling-Rain.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72167,
+        "aniId": 86835,
+        "createdAt": "2021-04-14T06:46:00.000Z",
+        "updatedAt": "2021-11-20T21:48:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kirisame_ga_furu_mori": {
+        "authors": [
+          "SANADA Makoto"
+        ],
+        "identifier": "kirisame_ga_furu_mori",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kirisame ga Furu Mori",
+        "url": "https://fanfox.net/manga/kirisame_ga_furu_mori/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13855/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 72167,
+        "aniId": 86835,
+        "createdAt": "2021-05-08T13:18:12.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

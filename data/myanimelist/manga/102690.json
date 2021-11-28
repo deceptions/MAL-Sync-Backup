@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.urasunday.com/fiveseconds/index.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%A65%E7%A7%92%E3%81%A7%E3%83%90%E3%83%88%E3%83%AB"
+    }
+  ],
   "altTitle": [
     "Battle in 5 Seconds",
     "Battle in 5 Seconds After Meeting.",
@@ -17,7 +26,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:46.000Z",
-  "updatedAt": "2021-09-15T09:51:06.000Z",
+  "updatedAt": "2021-11-27T20:06:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +49,51 @@
         "aniId": 101437,
         "createdAt": "2020-10-12T16:11:38.000Z",
         "updatedAt": "2021-06-05T09:56:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "deatte_5_byou_de_battle": {
+        "authors": [
+          "HARAWATA Saizou"
+        ],
+        "identifier": "deatte_5_byou_de_battle",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Deatte 5 Byou de Battle",
+        "url": "https://fanfox.net/manga/deatte_5_byou_de_battle/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27494/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102690,
+        "aniId": 101437,
+        "createdAt": "2020-12-17T08:26:44.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "battle-in-5-seconds-after-meeting": {
+        "authors": [
+          "HARAWATA Saizou",
+          "MIYAKO Kashiwa"
+        ],
+        "identifier": "battle-in-5-seconds-after-meeting",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Battle in 5 Seconds After Meeting",
+        "url": "https://mangasee123.com/manga/Battle-in-5-Seconds-After-Meeting",
+        "image": "https://cover.nep.li/cover/Battle-in-5-Seconds-After-Meeting.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102690,
+        "aniId": 101437,
+        "createdAt": "2020-12-17T21:57:14.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
         "deletedAt": null
       }
     },

@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 142123,
   "createdAt": "2021-06-14T01:39:40.000Z",
-  "updatedAt": "2021-06-14T01:39:52.000Z",
+  "updatedAt": "2021-11-27T16:43:59.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "杀手王妃不好惹"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Honmei Manhua",
+      "San Ye",
+      "Mi De Jia De San Jiu Mu"
+    ],
+    "id": 142123,
+    "malId": null,
+    "type": "manga",
+    "title": "Shashou Wangfei Bu Hao Re",
+    "url": "https://anilist.co/manga/142123",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142123-mSVKd11mqKT0.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-26T16:35:32.000Z",
+    "updatedAt": "2021-11-26T16:35:32.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

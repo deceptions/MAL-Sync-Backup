@@ -41,6 +41,29 @@
         "updatedAt": "2021-06-02T17:50:22.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "malicious-code": {
+        "authors": [
+          "IKENO Masahiro",
+          "YAKOU Hana"
+        ],
+        "identifier": "malicious-code",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Malicious Code",
+        "url": "https://mangasee123.com/manga/Malicious-Code",
+        "image": "https://cover.nep.li/cover/Malicious-Code.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34321,
+        "aniId": 64321,
+        "createdAt": "2021-05-11T15:19:45.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

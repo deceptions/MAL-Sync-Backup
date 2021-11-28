@@ -38,6 +38,28 @@
         "updatedAt": "2021-06-04T12:55:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "sekitsui_house": {
+        "authors": [
+          "SENO Soruto"
+        ],
+        "identifier": "sekitsui_house",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sekitsui House",
+        "url": "https://fanfox.net/manga/sekitsui_house/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15851/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89669,
+        "aniId": 99182,
+        "createdAt": "2021-05-10T21:13:48.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -48,6 +48,28 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "hachimitsu-to-clover": {
+        "authors": [
+          "UMINO Chica"
+        ],
+        "identifier": "hachimitsu-to-clover",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hachimitsu to Clover",
+        "url": "https://mangasee123.com/manga/Hachimitsu-To-Clover",
+        "image": "https://cover.nep.li/cover/Hachimitsu-To-Clover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1009,
+        "aniId": 31009,
+        "createdAt": "2021-01-27T15:41:19.000Z",
+        "updatedAt": "2021-11-20T17:45:39.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-yh958964": {
         "authors": [
@@ -67,6 +89,28 @@
         "aniId": 31009,
         "createdAt": "2021-09-03T22:16:13.000Z",
         "updatedAt": "2021-09-03T22:45:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hachimitsu_to_clover": {
+        "authors": [
+          "UMINO Chica"
+        ],
+        "identifier": "hachimitsu_to_clover",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hachimitsu to Clover",
+        "url": "https://fanfox.net/manga/hachimitsu_to_clover/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/247/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1009,
+        "aniId": 31009,
+        "createdAt": "2021-11-22T23:38:00.000Z",
+        "updatedAt": "2021-11-23T00:05:47.000Z",
         "deletedAt": null
       }
     }

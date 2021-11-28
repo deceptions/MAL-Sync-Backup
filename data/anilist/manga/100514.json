@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-04T07:43:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "onyanoko_darling": {
+        "authors": [
+          "SANO Airi"
+        ],
+        "identifier": "onyanoko_darling",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Onyanoko Darling",
+        "url": "https://fanfox.net/manga/onyanoko_darling/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15657/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 79507,
+        "aniId": 100514,
+        "createdAt": "2021-03-26T16:25:55.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

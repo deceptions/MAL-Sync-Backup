@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%81%8F%E3%82%93"
+    }
+  ],
   "altTitle": [
     "Super Mario",
     "スーパーマリオくん"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:27.000Z",
-  "updatedAt": "2021-06-30T21:20:13.000Z",
+  "updatedAt": "2021-11-21T04:43:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 40314,
         "createdAt": "2020-10-12T16:05:41.000Z",
         "updatedAt": "2021-06-03T14:13:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ob965684": {
+        "authors": [
+          "Sawada Yukio"
+        ],
+        "identifier": "manga-ob965684",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Super Mario-Kun",
+        "url": "https://readmanganato.com/manga-ob965684",
+        "image": "https://avt.mkklcdnv6temp.com/15/z/10-1583482747.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10314,
+        "aniId": 40314,
+        "createdAt": "2021-11-21T04:43:40.000Z",
+        "updatedAt": "2021-11-21T05:12:37.000Z",
         "deletedAt": null
       }
     }

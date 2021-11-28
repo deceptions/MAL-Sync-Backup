@@ -108,6 +108,28 @@
         "updatedAt": "2021-10-25T00:00:53.000Z",
         "deletedAt": null
       }
+    },
+    "Mangadex": {
+      "5f6c9c40-fae7-4f82-8a44-f86dfaa70957": {
+        "authors": [
+          "Asaga Iori"
+        ],
+        "identifier": "5f6c9c40-fae7-4f82-8a44-f86dfaa70957",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dog and Scum",
+        "url": "https://mangadex.org/title/5f6c9c40-fae7-4f82-8a44-f86dfaa70957",
+        "image": "https://uploads.mangadex.org/covers/5f6c9c40-fae7-4f82-8a44-f86dfaa70957/351e3b20-c5b0-4618-b603-2f31b736f1b0.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 138015,
+        "aniId": 135930,
+        "createdAt": "2021-11-17T11:17:57.000Z",
+        "updatedAt": "2021-11-22T08:42:37.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

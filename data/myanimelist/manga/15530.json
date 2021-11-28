@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-03T22:23:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "chibi-maruko-chan": {
+        "authors": [
+          "SAKURA Momoko"
+        ],
+        "identifier": "chibi-maruko-chan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Chibi Maruko-chan",
+        "url": "https://mangasee123.com/manga/Chibi-Maruko-Chan",
+        "image": "https://cover.nep.li/cover/Chibi-Maruko-Chan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15530,
+        "aniId": 45530,
+        "createdAt": "2021-03-23T10:05:12.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

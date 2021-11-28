@@ -32,7 +32,7 @@
   "hentai": false,
   "anidbId": 421,
   "createdAt": "2020-10-12T15:38:16.000Z",
-  "updatedAt": "2021-09-30T22:05:23.000Z",
+  "updatedAt": "2021-11-27T16:43:15.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -102,6 +102,23 @@
         "aniId": 1412,
         "createdAt": "2021-04-08T10:51:34.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      },
+      "7jjo1": {
+        "identifier": "7jjo1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lupin III (Dub)",
+        "url": "https://9anime.to/watch/lupin-the-3rd-dub.7jjo1",
+        "image": "https://static.bunnycdn.ru/i/cache/images/1/17/17646be2265fe628ff6e4d6b1c6c6975.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1412,
+        "aniId": 1412,
+        "createdAt": "2021-11-27T07:07:45.000Z",
+        "updatedAt": "2021-11-27T17:05:32.000Z",
         "deletedAt": null
       }
     },

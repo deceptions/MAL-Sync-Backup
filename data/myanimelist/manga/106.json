@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC%E3%81%95%E3%81%8F%E3%82%89"
+    }
+  ],
   "altTitle": [
     "Cardcaptor Sakura",
     "Cardcaptor Sakura: Master of the Clow",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:18.000Z",
-  "updatedAt": "2021-06-29T08:20:03.000Z",
+  "updatedAt": "2021-11-24T17:39:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -66,6 +71,53 @@
         "aniId": 30106,
         "createdAt": "2020-10-12T16:05:26.000Z",
         "updatedAt": "2021-06-03T12:34:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "cardcaptor-sakura": {
+        "authors": [
+          "APAPA Mokona",
+          "CLAMP",
+          "OHKAWA Ageha"
+        ],
+        "identifier": "cardcaptor-sakura",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Cardcaptor Sakura",
+        "url": "https://mangasee123.com/manga/Cardcaptor-Sakura",
+        "image": "https://cover.nep.li/cover/Cardcaptor-Sakura.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106,
+        "aniId": 30106,
+        "createdAt": "2021-03-14T14:09:52.000Z",
+        "updatedAt": "2021-11-20T19:45:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "cardcaptor_sakura": {
+        "authors": [
+          "CLAMP",
+          "OHKAWA Ageha"
+        ],
+        "identifier": "cardcaptor_sakura",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cardcaptor Sakura",
+        "url": "https://fanfox.net/manga/cardcaptor_sakura/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/78/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106,
+        "aniId": 30106,
+        "createdAt": "2021-05-01T03:04:06.000Z",
+        "updatedAt": "2021-11-20T22:22:04.000Z",
         "deletedAt": null
       }
     },

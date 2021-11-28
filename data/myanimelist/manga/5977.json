@@ -38,6 +38,28 @@
         "updatedAt": "2021-06-05T08:29:39.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "tsuttsukumon": {
+        "authors": [
+          "TAKAMURA Masaya"
+        ],
+        "identifier": "tsuttsukumon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tsuttsukumon!",
+        "url": "https://fanfox.net/manga/tsuttsukumon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7579/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5977,
+        "aniId": 35977,
+        "createdAt": "2021-03-26T16:24:45.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-07T08:37:30.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "benitsubaki": {
+        "authors": [
+          "TAKAHASHI Hirona"
+        ],
+        "identifier": "benitsubaki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Benitsubaki",
+        "url": "https://fanfox.net/manga/benitsubaki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33410/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126895,
+        "aniId": 112919,
+        "createdAt": "2021-01-04T07:57:14.000Z",
+        "updatedAt": "2021-11-20T16:44:05.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

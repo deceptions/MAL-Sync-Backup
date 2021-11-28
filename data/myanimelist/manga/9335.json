@@ -14,5 +14,28 @@
   "createdAt": "2021-03-26T22:20:06.000Z",
   "updatedAt": "2021-07-09T02:13:37.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "our_fake_relationship": {
+        "authors": [
+          "MATSUFUJI Junko"
+        ],
+        "identifier": "our_fake_relationship",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Our Fake Relationship",
+        "url": "https://fanfox.net/manga/our_fake_relationship/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3340/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9335,
+        "aniId": 39335,
+        "createdAt": "2021-03-26T22:20:06.000Z",
+        "updatedAt": "2021-11-20T20:45:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

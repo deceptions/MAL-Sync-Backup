@@ -18,5 +18,51 @@
   "createdAt": "2021-03-26T09:19:27.000Z",
   "updatedAt": "2021-09-26T09:45:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "holmes-of-kyoto": {
+        "authors": [
+          "AKIZUKI Ichiha",
+          "MOCHIZUKI Mai"
+        ],
+        "identifier": "holmes-of-kyoto",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Holmes of Kyoto",
+        "url": "https://mangasee123.com/manga/Holmes-of-Kyoto",
+        "image": "https://cover.nep.li/cover/Holmes-of-Kyoto.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 110430,
+        "aniId": 109890,
+        "createdAt": "2021-03-26T09:19:28.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kyoto_teramachi_sanjou_no_holmes": {
+        "authors": [
+          "MOCHIZUKI Mai"
+        ],
+        "identifier": "kyoto_teramachi_sanjou_no_holmes",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kyoto Teramachi Sanjou no Holmes",
+        "url": "https://fanfox.net/manga/kyoto_teramachi_sanjou_no_holmes/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28019/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110430,
+        "aniId": 109890,
+        "createdAt": "2021-03-26T16:24:57.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -46,6 +46,28 @@
         "updatedAt": "2021-06-03T23:21:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "no_color": {
+        "authors": [
+          "NATSUME Isaku"
+        ],
+        "identifier": "no_color",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "No Color",
+        "url": "https://fanfox.net/manga/no_color/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7244/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13382,
+        "aniId": 43382,
+        "createdAt": "2021-04-25T07:27:32.000Z",
+        "updatedAt": "2021-11-20T21:48:18.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

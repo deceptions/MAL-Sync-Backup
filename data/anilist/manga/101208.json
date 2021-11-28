@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-07T03:06:52.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "tabako_chan": {
+        "authors": [
+          "Himitsu"
+        ],
+        "identifier": "tabako_chan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tabako-chan",
+        "url": "https://fanfox.net/manga/tabako_chan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31495/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118583,
+        "aniId": 101208,
+        "createdAt": "2021-02-09T08:15:19.000Z",
+        "updatedAt": "2021-11-20T18:44:25.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

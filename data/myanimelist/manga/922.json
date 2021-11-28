@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9_%28%E6%BC%AB%E7%94%BB%29"
+    }
+  ],
   "altTitle": [
     "Hoshin Engi",
     "Soul Hunter",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:28.000Z",
-  "updatedAt": "2021-08-01T17:17:47.000Z",
+  "updatedAt": "2021-11-24T22:07:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -62,25 +67,25 @@
         "deletedAt": null
       }
     },
-    "MangaSee": {
-      "houshin-engi": {
+    "MangaFox": {
+      "houshin_engi": {
         "authors": [
           "FUJISAKI Ryu"
         ],
-        "identifier": "houshin-engi",
+        "identifier": "houshin_engi",
         "type": "manga",
-        "page": "MangaSee",
+        "page": "MangaFox",
         "title": "Houshin Engi",
-        "url": "https://mangasee123.com/manga/Houshin-Engi",
-        "image": "https://cover.nep.li/cover/Houshin-Engi.jpg",
+        "url": "https://fanfox.net/manga/houshin_engi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/42/cover.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 922,
         "aniId": 30922,
-        "createdAt": "2021-05-24T06:08:38.000Z",
-        "updatedAt": "2021-05-24T06:38:17.000Z",
+        "createdAt": "2021-04-22T10:59:49.000Z",
+        "updatedAt": "2021-11-20T21:48:17.000Z",
         "deletedAt": null
       }
     },

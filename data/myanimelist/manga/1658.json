@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%A9%E3%82%8D%E3%82%8D"
+    }
+  ],
   "altTitle": [
     "Dororo",
     "Dororo to Hyakkimaru",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:36.000Z",
-  "updatedAt": "2021-06-12T13:08:31.000Z",
+  "updatedAt": "2021-11-26T21:36:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +43,50 @@
         "aniId": 31658,
         "createdAt": "2020-10-12T16:05:04.000Z",
         "updatedAt": "2021-06-03T09:59:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dororo": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "dororo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dororo",
+        "url": "https://fanfox.net/manga/dororo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14667/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1658,
+        "aniId": 31658,
+        "createdAt": "2020-12-18T20:57:42.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "dororo": {
+        "authors": [
+          "TEZUKA Osamu"
+        ],
+        "identifier": "dororo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dororo",
+        "url": "https://mangasee123.com/manga/Dororo",
+        "image": "https://cover.nep.li/cover/Dororo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1658,
+        "aniId": 31658,
+        "createdAt": "2021-02-18T22:07:33.000Z",
+        "updatedAt": "2021-11-20T18:44:27.000Z",
         "deletedAt": null
       }
     },

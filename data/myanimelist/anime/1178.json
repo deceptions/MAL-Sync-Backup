@@ -26,7 +26,7 @@
   "hentai": false,
   "anidbId": 740,
   "createdAt": "2020-10-12T15:38:13.000Z",
-  "updatedAt": "2021-09-30T20:09:00.000Z",
+  "updatedAt": "2021-11-24T05:38:44.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -81,6 +81,25 @@
         "aniId": 1178,
         "createdAt": "2020-12-31T22:07:24.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "detonator-orgun": {
+        "identifier": "detonator-orgun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Detonator Orgun",
+        "url": "https://gogoanime.cm/category/detonator-orgun",
+        "image": "https://gogocdn.net/images/anime/D/detonator-orgun.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1178,
+        "aniId": 1178,
+        "createdAt": "2021-11-24T05:38:34.000Z",
+        "updatedAt": "2021-11-24T06:05:47.000Z",
         "deletedAt": null
       }
     }

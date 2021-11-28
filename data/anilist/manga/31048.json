@@ -52,6 +52,48 @@
         "deletedAt": null
       }
     },
+    "MangaFox": {
+      "kyou_kara_maou": {
+        "authors": [
+          "TAKABAYASHI Tomo"
+        ],
+        "identifier": "kyou_kara_maou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kyou Kara Maoh",
+        "url": "https://fanfox.net/manga/kyou_kara_maou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/968/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1048,
+        "aniId": 31048,
+        "createdAt": "2021-05-08T16:48:43.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      },
+      "kyou_kara_maoh": {
+        "authors": [
+          "TAKABAYASHI Tomo"
+        ],
+        "identifier": "kyou_kara_maoh",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kyou Kara Maoh",
+        "url": "https://fanfox.net/manga/kyou_kara_maoh/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/968/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1048,
+        "aniId": 31048,
+        "createdAt": "2021-10-03T12:30:52.000Z",
+        "updatedAt": "2021-10-03T13:00:52.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-kz952408": {
         "authors": [
@@ -71,28 +113,6 @@
         "aniId": 31048,
         "createdAt": "2021-05-31T15:53:40.000Z",
         "updatedAt": "2021-05-31T16:22:54.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "kyou_kara_maoh": {
-        "authors": [
-          "TAKABAYASHI Tomo"
-        ],
-        "identifier": "kyou_kara_maoh",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Kyou Kara Maoh",
-        "url": "https://fanfox.net/manga/kyou_kara_maoh/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/968/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 1048,
-        "aniId": 31048,
-        "createdAt": "2021-10-03T12:30:52.000Z",
-        "updatedAt": "2021-10-03T13:00:52.000Z",
         "deletedAt": null
       }
     }

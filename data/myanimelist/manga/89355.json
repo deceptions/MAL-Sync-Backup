@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-04T11:09:48.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "yamada_to_shounen": {
+        "authors": [
+          "MITA Ori"
+        ],
+        "identifier": "yamada_to_shounen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yamada to Shounen",
+        "url": "https://fanfox.net/manga/yamada_to_shounen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15784/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89355,
+        "aniId": 86413,
+        "createdAt": "2021-04-01T13:32:06.000Z",
+        "updatedAt": "2021-11-20T21:17:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

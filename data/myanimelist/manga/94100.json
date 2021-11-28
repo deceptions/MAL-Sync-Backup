@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-06T04:41:59.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kaiji": {
+        "authors": [
+          "FUKUMOTO Nobuyuki"
+        ],
+        "identifier": "kaiji",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kaiji",
+        "url": "https://fanfox.net/manga/kaiji/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3147/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 94100,
+        "aniId": 96314,
+        "createdAt": "2021-03-30T08:31:33.000Z",
+        "updatedAt": "2021-11-20T20:46:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

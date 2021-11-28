@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shonenmagazine.com/bmaga/tomodachigame"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A2%E3%83%80%E3%83%81%E3%82%B2%E3%83%BC%E3%83%A0"
+    }
+  ],
   "altTitle": [
     "Friend Game",
     "トモダチゲーム"
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:04.000Z",
-  "updatedAt": "2021-08-15T15:07:33.000Z",
+  "updatedAt": "2021-11-21T09:42:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +48,51 @@
         "aniId": 85911,
         "createdAt": "2020-10-12T16:07:55.000Z",
         "updatedAt": "2021-06-04T06:12:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tomodachi-game": {
+        "authors": [
+          "SATOU Yuuki",
+          "YAMAGUCHI Mikoto"
+        ],
+        "identifier": "tomodachi-game",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tomodachi Game",
+        "url": "https://mangasee123.com/manga/Tomodachi-Game",
+        "image": "https://cover.nep.li/cover/Tomodachi-Game.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 62795,
+        "aniId": 85911,
+        "createdAt": "2021-01-11T14:20:40.000Z",
+        "updatedAt": "2021-11-20T17:15:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tomodachi_game": {
+        "authors": [
+          "YAMAGUCHI Mikoto"
+        ],
+        "identifier": "tomodachi_game",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tomodachi Game",
+        "url": "https://fanfox.net/manga/tomodachi_game/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14331/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 62795,
+        "aniId": 85911,
+        "createdAt": "2021-04-19T09:14:19.000Z",
+        "updatedAt": "2021-11-20T21:48:16.000Z",
         "deletedAt": null
       }
     },

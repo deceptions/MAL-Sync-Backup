@@ -65,6 +65,29 @@
         "updatedAt": "2021-10-10T15:32:22.000Z",
         "deletedAt": null
       }
+    },
+    "Mangadex": {
+      "fff8f972-ff3e-4f24-9792-82e91635378e": {
+        "authors": [
+          "Komori Yoichi",
+          "Tachibana Kenichi"
+        ],
+        "identifier": "fff8f972-ff3e-4f24-9792-82e91635378e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gigantis",
+        "url": "https://mangadex.org/title/fff8f972-ff3e-4f24-9792-82e91635378e",
+        "image": "https://uploads.mangadex.org/covers/fff8f972-ff3e-4f24-9792-82e91635378e/674cd685-4720-49f2-9a69-fea133ce29a3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139257,
+        "aniId": 137873,
+        "createdAt": "2021-11-23T09:36:07.000Z",
+        "updatedAt": "2021-11-23T10:05:47.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

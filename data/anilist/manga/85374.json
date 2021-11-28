@@ -12,11 +12,11 @@
   "type": "manga",
   "title": "Kimi to Shitai to Boku no Kaitou",
   "url": "https://anilist.co/manga/85374",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n85374-3qhQzQBQEv2G.png",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85374-h1I8j3nrKePN.jpg",
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:51:29.000Z",
-  "updatedAt": "2021-06-17T21:32:30.000Z",
+  "updatedAt": "2021-11-23T19:05:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,50 @@
         "aniId": 85374,
         "createdAt": "2020-10-12T16:07:18.000Z",
         "updatedAt": "2021-06-04T01:51:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kimi-to-shitai-to-boku-no-kaitou": {
+        "authors": [
+          "Yogenme"
+        ],
+        "identifier": "kimi-to-shitai-to-boku-no-kaitou",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kimi to Shitai to Boku no Kaitou",
+        "url": "https://mangasee123.com/manga/Kimi-To-Shitai-To-Boku-No-Kaitou",
+        "image": "https://cover.nep.li/cover/Kimi-To-Shitai-To-Boku-No-Kaitou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69959,
+        "aniId": 85374,
+        "createdAt": "2021-04-02T02:00:53.000Z",
+        "updatedAt": "2021-11-20T21:17:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kimi_to_shitai_to_boku_no_kaitou": {
+        "authors": [
+          "Yogenme"
+        ],
+        "identifier": "kimi_to_shitai_to_boku_no_kaitou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi to Shitai to Boku no Kaitou",
+        "url": "https://fanfox.net/manga/kimi_to_shitai_to_boku_no_kaitou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20157/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 69959,
+        "aniId": 85374,
+        "createdAt": "2021-05-10T15:43:25.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
         "deletedAt": null
       }
     }

@@ -41,6 +41,50 @@
         "updatedAt": "2021-06-02T11:49:52.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hokkenshitsu": {
+        "authors": [
+          "Yasu"
+        ],
+        "identifier": "hokkenshitsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hokkenshitsu",
+        "url": "https://fanfox.net/manga/hokkenshitsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9589/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30241,
+        "aniId": 60241,
+        "createdAt": "2021-04-22T08:57:01.000Z",
+        "updatedAt": "2021-11-20T21:48:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nz965034": {
+        "authors": [
+          "Yasu"
+        ],
+        "identifier": "manga-nz965034",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hokkenshitsu",
+        "url": "https://manganato.com/manga-nz965034",
+        "image": "https://avt.mkklcdnv6temp.com/49/o/9-1583482161.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30241,
+        "aniId": 60241,
+        "createdAt": "2021-11-22T03:13:19.000Z",
+        "updatedAt": "2021-11-22T03:42:37.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

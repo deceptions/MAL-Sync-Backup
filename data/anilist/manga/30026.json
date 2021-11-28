@@ -78,6 +78,70 @@
         "deletedAt": null
       }
     },
+    "MangaFox": {
+      "hunter_x_hunter": {
+        "authors": [
+          "TOGASHI Yoshihiro"
+        ],
+        "identifier": "hunter_x_hunter",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hunter X Hunter",
+        "url": "https://fanfox.net/manga/hunter_x_hunter/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/44/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26,
+        "aniId": 30026,
+        "createdAt": "2020-11-05T17:59:28.000Z",
+        "updatedAt": "2021-11-20T15:46:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hunter-x-hunter": {
+        "authors": [
+          "TOGASHI Yoshihiro"
+        ],
+        "identifier": "hunter-x-hunter",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hunter x Hunter",
+        "url": "https://mangasee123.com/manga/Hunter-X-Hunter",
+        "image": "https://cover.nep.li/cover/Hunter-X-Hunter.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26,
+        "aniId": 30026,
+        "createdAt": "2020-12-13T10:19:32.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      },
+      "hunter-x-hunter-color": {
+        "authors": [
+          "TOGASHI Yoshihiro"
+        ],
+        "identifier": "hunter-x-hunter-color",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hunter x Hunter - Color",
+        "url": "https://mangasee123.com/manga/Hunter-x-Hunter-Color",
+        "image": "https://cover.nep.li/cover/Hunter-x-Hunter-Color.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26,
+        "aniId": 30026,
+        "createdAt": "2021-06-27T07:49:22.000Z",
+        "updatedAt": "2021-06-27T08:19:19.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-oc955385": {
         "authors": [
@@ -117,28 +181,6 @@
         "aniId": 30026,
         "createdAt": "2021-07-30T07:52:05.000Z",
         "updatedAt": "2021-07-30T15:21:48.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "hunter-x-hunter-color": {
-        "authors": [
-          "TOGASHI Yoshihiro"
-        ],
-        "identifier": "hunter-x-hunter-color",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Hunter x Hunter - Color",
-        "url": "https://mangasee123.com/manga/Hunter-x-Hunter-Color",
-        "image": "https://cover.nep.li/cover/Hunter-x-Hunter-Color.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 26,
-        "aniId": 30026,
-        "createdAt": "2021-06-27T07:49:22.000Z",
-        "updatedAt": "2021-06-27T08:19:19.000Z",
         "deletedAt": null
       }
     }

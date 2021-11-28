@@ -18,5 +18,28 @@
   "createdAt": "2021-05-20T14:58:13.000Z",
   "updatedAt": "2021-06-18T08:34:32.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "konna_ore_wo_suki_toka_majika": {
+        "authors": [
+          "HIIRAGI Nozomu"
+        ],
+        "identifier": "konna_ore_wo_suki_toka_majika",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Konna ore wo Suki Toka Majika",
+        "url": "https://fanfox.net/manga/konna_ore_wo_suki_toka_majika/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34054/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120074,
+        "aniId": 117436,
+        "createdAt": "2021-03-28T22:19:25.000Z",
+        "updatedAt": "2021-11-20T20:45:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

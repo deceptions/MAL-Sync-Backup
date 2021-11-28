@@ -18,5 +18,28 @@
   "createdAt": "2021-03-27T18:20:18.000Z",
   "updatedAt": "2021-09-27T18:35:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "super-shoku-king": {
+        "authors": [
+          "TSUCHIYAMA Shigeru"
+        ],
+        "identifier": "super-shoku-king",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Goku Shoku King",
+        "url": "https://mangasee123.com/manga/Super-Shoku-King",
+        "image": "https://cover.nep.li/cover/Super-Shoku-King.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106401,
+        "aniId": 134261,
+        "createdAt": "2021-03-27T18:20:20.000Z",
+        "updatedAt": "2021-11-20T20:45:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://jumpsq.shueisha.co.jp/rensai/gmaru/index.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%28G%29%E3%81%88%E3%81%A7%E3%81%83%E3%81%97%E3%82%87%E3%82%93"
+    }
+  ],
   "altTitle": [
     "(G) Edition",
     "Ⓖ Edition",
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:57.000Z",
-  "updatedAt": "2021-09-20T20:41:21.000Z",
+  "updatedAt": "2021-11-23T01:36:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +47,28 @@
         "aniId": 51600,
         "createdAt": "2020-10-12T16:02:47.000Z",
         "updatedAt": "2021-06-02T09:21:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "g-edition": {
+        "authors": [
+          "KAWASHITA Mizuki"
+        ],
+        "identifier": "g-edition",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "(G) Edition",
+        "url": "https://mangasee123.com/manga/G-Edition",
+        "image": "https://cover.nep.li/cover/G-Edition.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21600,
+        "aniId": 51600,
+        "createdAt": "2021-01-20T23:32:53.000Z",
+        "updatedAt": "2021-11-20T17:45:38.000Z",
         "deletedAt": null
       }
     },

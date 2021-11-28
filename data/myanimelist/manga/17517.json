@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/STEINS;GATE"
+    }
+  ],
   "altTitle": [
     "Steins",
     "Gate",
@@ -18,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:27.000Z",
-  "updatedAt": "2021-08-13T16:08:31.000Z",
+  "updatedAt": "2021-11-27T13:35:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +47,53 @@
         "aniId": 47517,
         "createdAt": "2020-10-12T16:07:18.000Z",
         "updatedAt": "2021-06-04T01:53:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "steins-gate": {
+        "authors": [
+          "5pb.",
+          "Nitroplus",
+          "SARACHI Yomi"
+        ],
+        "identifier": "steins-gate",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Steins;Gate",
+        "url": "https://mangasee123.com/manga/Steins-Gate",
+        "image": "https://cover.nep.li/cover/Steins-Gate.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17517,
+        "aniId": 47517,
+        "createdAt": "2021-03-25T17:49:06.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "steins_gate": {
+        "authors": [
+          "5pb.",
+          "Nitroplus"
+        ],
+        "identifier": "steins_gate",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Steins;Gate",
+        "url": "https://fanfox.net/manga/steins_gate/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7014/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17517,
+        "aniId": 47517,
+        "createdAt": "2021-03-30T21:31:02.000Z",
+        "updatedAt": "2021-11-20T20:46:00.000Z",
         "deletedAt": null
       }
     },

@@ -45,6 +45,28 @@
         "updatedAt": "2021-06-02T10:06:53.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "adventure-boys": {
+        "authors": [
+          "ADACHI Mitsuru"
+        ],
+        "identifier": "adventure-boys",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Adventure Boys",
+        "url": "https://mangasee123.com/manga/Adventure-Boys",
+        "image": "https://cover.nep.li/cover/Adventure-Boys.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1670,
+        "aniId": 31670,
+        "createdAt": "2021-03-31T00:01:01.000Z",
+        "updatedAt": "2021-11-20T20:46:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-05T08:35:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "sex_therapist": {
+        "authors": [
+          "Kodaka Kazuma"
+        ],
+        "identifier": "sex_therapist",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sex Therapist",
+        "url": "https://fanfox.net/manga/sex_therapist/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2149/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3267,
+        "aniId": 33267,
+        "createdAt": "2021-05-20T22:14:57.000Z",
+        "updatedAt": "2021-11-20T23:14:26.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

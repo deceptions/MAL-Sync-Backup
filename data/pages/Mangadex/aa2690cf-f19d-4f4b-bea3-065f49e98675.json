@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 140961,
   "createdAt": "2021-10-24T00:58:55.000Z",
-  "updatedAt": "2021-10-24T00:58:55.000Z",
+  "updatedAt": "2021-11-24T17:38:06.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ヤンキーJKあやかさんの弱点",
+      "The Many Weaknesses of Ayaka the Yankee JK"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tamago Komatsuri"
+    ],
+    "id": 140961,
+    "malId": null,
+    "type": "manga",
+    "title": "Yankee JK Ayaka-san no Jakuten  ",
+    "url": "https://anilist.co/manga/140961",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140961-PmyTj3u7Aa6x.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-31T15:34:20.000Z",
+    "updatedAt": "2021-10-31T15:34:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

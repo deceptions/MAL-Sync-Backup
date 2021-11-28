@@ -41,6 +41,51 @@
         "updatedAt": "2021-06-02T10:45:51.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "yakuza_girl": {
+        "authors": [
+          "MOTONAGA Masaki"
+        ],
+        "identifier": "yakuza_girl",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yakuza Girl",
+        "url": "https://fanfox.net/manga/yakuza_girl/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4642/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 10347,
+        "aniId": 40347,
+        "createdAt": "2021-03-26T13:49:58.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "yakuza-girl": {
+        "authors": [
+          "MOTONAGA Masaki",
+          "OKUMA Yugo"
+        ],
+        "identifier": "yakuza-girl",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yakuza Girl",
+        "url": "https://mangasee123.com/manga/Yakuza-Girl",
+        "image": "https://cover.nep.li/cover/Yakuza-Girl.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 10347,
+        "aniId": 40347,
+        "createdAt": "2021-04-08T20:21:36.000Z",
+        "updatedAt": "2021-11-20T21:17:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

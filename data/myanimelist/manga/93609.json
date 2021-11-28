@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-04T17:31:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "escape_journey": {
+        "authors": [
+          "Ogeretsu Tanaka"
+        ],
+        "identifier": "escape_journey",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Escape Journey",
+        "url": "https://fanfox.net/manga/escape_journey/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18587/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93609,
+        "aniId": 87092,
+        "createdAt": "2021-03-28T10:49:15.000Z",
+        "updatedAt": "2021-11-20T20:45:59.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

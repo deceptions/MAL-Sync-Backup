@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 142073,
   "createdAt": "2021-11-12T21:14:31.000Z",
-  "updatedAt": "2021-11-12T21:14:47.000Z",
+  "updatedAt": "2021-11-26T09:08:25.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Princess, Don't Ruin Your Public Persona!",
+      "郡主稳住，人设不能崩！",
+      "The princess's shop"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shan Jing",
+      "Tu An Tuan"
+    ],
+    "id": 142073,
+    "malId": null,
+    "type": "manga",
+    "title": "Junzhu Wen Zhu! Renshe Buneng Beng!",
+    "url": "https://anilist.co/manga/142073",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142073-pa8m781k9T2N.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-25T18:35:52.000Z",
+    "updatedAt": "2021-11-25T18:35:52.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

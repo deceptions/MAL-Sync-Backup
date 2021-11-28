@@ -44,6 +44,28 @@
         "updatedAt": "2021-06-04T00:59:59.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kuro_somato": {
+        "authors": [
+          "Somato"
+        ],
+        "identifier": "kuro_somato",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kuro (Somato)",
+        "url": "https://fanfox.net/manga/kuro_somato/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14572/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 67979,
+        "aniId": 85277,
+        "createdAt": "2021-04-22T06:27:10.000Z",
+        "updatedAt": "2021-11-20T21:48:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

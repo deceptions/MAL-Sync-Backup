@@ -97,6 +97,26 @@
       }
     },
     "MangaFox": {
+      "fullmetal_alchemist": {
+        "authors": [
+          "ARAKAWA Hiromu"
+        ],
+        "identifier": "fullmetal_alchemist",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "FullMetal Alchemist",
+        "url": "https://fanfox.net/manga/fullmetal_alchemist/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25,
+        "aniId": 30025,
+        "createdAt": "2021-02-10T13:41:01.000Z",
+        "updatedAt": "2021-11-20T18:44:25.000Z",
+        "deletedAt": null
+      },
       "full_metal_alchemist": {
         "authors": [
           "ARAKAWA Hiromu"

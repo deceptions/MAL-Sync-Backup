@@ -45,46 +45,70 @@
         "createdAt": "2020-10-12T16:08:03.000Z",
         "updatedAt": "2021-06-04T07:07:38.000Z",
         "deletedAt": null
-      },
-      "daeb959d-134e-4122-a882-89ca6ebaa554": {
+      }
+    },
+    "MangaSee": {
+      "kono-subarashii-sekai-ni-shukufuku-o": {
         "authors": [
-          "Wireframe (Circle)",
-          "Yuuki Hagure"
+          "AKATSUKI Natsume",
+          "WATARI Masahito"
         ],
-        "identifier": "daeb959d-134e-4122-a882-89ca6ebaa554",
+        "identifier": "kono-subarashii-sekai-ni-shukufuku-o",
         "type": "manga",
-        "page": "Mangadex",
-        "title": "Kono Subarashii Sekai ni Shukufuku wo! - Kono Kawaisou na Crusader ni Kyuusai o! (Doujinshi)",
-        "url": "https://mangadex.org/title/daeb959d-134e-4122-a882-89ca6ebaa554",
-        "image": "https://uploads.mangadex.org/covers/daeb959d-134e-4122-a882-89ca6ebaa554/cb79c903-eac7-4cb2-a392-0bd5e24028cd.jpg",
-        "hentai": true,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 80385,
-        "aniId": 85702,
-        "createdAt": "2020-10-12T16:14:37.000Z",
-        "updatedAt": "2021-06-06T06:42:31.000Z",
-        "deletedAt": null
-      },
-      "1a7d8492-16d9-4302-82b0-b9161b52f10b": {
-        "authors": [
-          "takanasu05"
-        ],
-        "identifier": "1a7d8492-16d9-4302-82b0-b9161b52f10b",
-        "type": "manga",
-        "page": "Mangadex",
-        "title": "Kono Subarashii Unmei ni Shukufuku wo! (Doujinshi)",
-        "url": "https://mangadex.org/title/1a7d8492-16d9-4302-82b0-b9161b52f10b",
-        "image": "https://uploads.mangadex.org/covers/1a7d8492-16d9-4302-82b0-b9161b52f10b/13ed53ec-8a00-44ca-aa80-5a6dd52156ca.jpg",
+        "page": "MangaSee",
+        "title": "Kono Subarashii Sekai ni Shukufuku o!",
+        "url": "https://mangasee123.com/manga/Kono-Subarashii-Sekai-Ni-Shukufuku-O",
+        "image": "https://cover.nep.li/cover/Kono-Subarashii-Sekai-Ni-Shukufuku-O.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 80385,
         "aniId": 85702,
-        "createdAt": "2020-10-12T16:19:03.000Z",
-        "updatedAt": "2021-06-07T21:07:19.000Z",
+        "createdAt": "2020-12-22T18:26:31.000Z",
+        "updatedAt": "2021-11-20T16:14:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kono_subarashii_sekai_ni_shukufuku_o_novel": {
+        "authors": [
+          "AKATSUKI Natsume"
+        ],
+        "identifier": "kono_subarashii_sekai_ni_shukufuku_o_novel",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kono Subarashii Sekai ni Shukufuku o! (Novel)",
+        "url": "https://fanfox.net/manga/kono_subarashii_sekai_ni_shukufuku_o_novel/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31980/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80385,
+        "aniId": 85702,
+        "createdAt": "2021-01-20T14:34:21.000Z",
+        "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      },
+      "kono_subarashii_sekai_ni_shukufuku_o": {
+        "authors": [
+          "AKATSUKI Natsume"
+        ],
+        "identifier": "kono_subarashii_sekai_ni_shukufuku_o",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kono Subarashii Sekai ni Shukufuku o!",
+        "url": "https://fanfox.net/manga/kono_subarashii_sekai_ni_shukufuku_o/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14550/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80385,
+        "aniId": 85702,
+        "createdAt": "2021-02-22T21:50:44.000Z",
+        "updatedAt": "2021-11-20T19:16:15.000Z",
         "deletedAt": null
       }
     },

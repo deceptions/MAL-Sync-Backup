@@ -28,7 +28,7 @@
   "hentai": false,
   "anidbId": 2097,
   "createdAt": "2020-10-12T15:38:31.000Z",
-  "updatedAt": "2021-10-01T08:08:57.000Z",
+  "updatedAt": "2021-11-24T06:36:38.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -47,6 +47,25 @@
         "aniId": 2682,
         "createdAt": "2020-10-12T15:54:07.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "aoki-densetsu-shoot-movie": {
+        "identifier": "aoki-densetsu-shoot-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aoki Densetsu Shoot! (Movie)",
+        "url": "https://gogoanime.cm/category/aoki-densetsu-shoot-movie",
+        "image": "https://gogocdn.net/cover/aoki-densetsu-shoot-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2682,
+        "aniId": 2682,
+        "createdAt": "2021-11-24T06:36:18.000Z",
+        "updatedAt": "2021-11-24T07:05:47.000Z",
         "deletedAt": null
       }
     }

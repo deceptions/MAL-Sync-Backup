@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:34.000Z",
-  "updatedAt": "2021-10-06T18:33:20.000Z",
+  "updatedAt": "2021-11-21T09:13:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,6 +64,28 @@
         "aniId": 93006,
         "createdAt": "2020-10-12T16:15:31.000Z",
         "updatedAt": "2021-06-06T14:32:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "otouto-no-otto": {
+        "authors": [
+          "TAGAME Gengorou"
+        ],
+        "identifier": "otouto-no-otto",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Otouto no Otto",
+        "url": "https://mangasee123.com/manga/Otouto-No-Otto",
+        "image": "https://cover.nep.li/cover/Otouto-No-Otto.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80375,
+        "aniId": 93006,
+        "createdAt": "2021-02-12T02:10:31.000Z",
+        "updatedAt": "2021-11-20T18:44:25.000Z",
         "deletedAt": null
       }
     },

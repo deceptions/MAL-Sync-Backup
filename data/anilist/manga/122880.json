@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T05:20:26.000Z",
-  "updatedAt": "2021-06-21T16:17:21.000Z",
+  "updatedAt": "2021-11-21T01:34:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "2f950e07-120c-435f-8637-48d72c9ec389": {
+        "authors": [
+          "Isakawa Megumi"
+        ],
+        "identifier": "2f950e07-120c-435f-8637-48d72c9ec389",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Princess is Delicious When Made Into a Pork Cutlet",
+        "url": "https://mangadex.org/title/2f950e07-120c-435f-8637-48d72c9ec389",
+        "image": "https://uploads.mangadex.org/covers/2f950e07-120c-435f-8637-48d72c9ec389/96285417-18b4-4aff-ad47-6598e18f7575.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 122880,
+        "createdAt": "2020-10-12T16:17:07.000Z",
+        "updatedAt": "2021-11-21T01:35:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,21 +1,54 @@
 {
   "altTitle": [
+    "Protect Me, Shugomaru!",
     "守れ！しゅごまる"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "MangaPlus",
+      "url": "https://mangaplus.shueisha.co.jp/titles/100181"
+    },
+    {
+      "site": "VIZ",
+      "url": "https://www.viz.com/shonenjump/chapters/protect-me-shugomaru"
+    }
+  ],
   "authors": [
     "Daiki Ihara"
   ],
   "id": 141263,
-  "malId": null,
+  "malId": 142030,
   "type": "manga",
   "title": "Mamore! Shugomaru",
   "url": "https://anilist.co/manga/141263",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b141263-YiLJqbnYzVit.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141263-JDfjPkCRt909.jpg",
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-11-07T15:47:46.000Z",
-  "updatedAt": "2021-11-07T15:47:46.000Z",
+  "updatedAt": "2021-11-23T06:05:48.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "eef9abbf-894f-4f92-bc27-746c135a90f5": {
+        "authors": [
+          "IHARA Daiki"
+        ],
+        "identifier": "eef9abbf-894f-4f92-bc27-746c135a90f5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mamore! Shugomaru",
+        "url": "https://mangadex.org/title/eef9abbf-894f-4f92-bc27-746c135a90f5",
+        "image": "https://uploads.mangadex.org/covers/eef9abbf-894f-4f92-bc27-746c135a90f5/bbf3f07b-1767-4335-af8a-16ed5a3a3abe.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 142030,
+        "aniId": 141263,
+        "createdAt": "2021-11-22T20:35:58.000Z",
+        "updatedAt": "2021-11-22T20:35:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

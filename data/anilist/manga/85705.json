@@ -42,6 +42,51 @@
         "updatedAt": "2021-06-03T22:48:57.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "life_ho": {
+        "authors": [
+          "Sung-Soo Wie"
+        ],
+        "identifier": "life_ho",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Life Ho",
+        "url": "https://fanfox.net/manga/life_ho/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13055/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58033,
+        "aniId": 85705,
+        "createdAt": "2021-04-13T21:16:07.000Z",
+        "updatedAt": "2021-11-20T21:48:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "life-ho": {
+        "authors": [
+          "Ji Won",
+          "WIE Sung-Soo"
+        ],
+        "identifier": "life-ho",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Life Ho",
+        "url": "https://mangasee123.com/manga/Life-Ho",
+        "image": "https://cover.nep.li/cover/Life-Ho.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 58033,
+        "aniId": 85705,
+        "createdAt": "2021-05-11T15:18:06.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

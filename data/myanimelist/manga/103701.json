@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/BEASTARS"
+    }
+  ],
   "altTitle": [
     "Beastars",
     "BEASTARS"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:50.000Z",
-  "updatedAt": "2021-05-31T09:09:48.000Z",
+  "updatedAt": "2021-11-26T16:06:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -57,6 +62,50 @@
         "aniId": 98587,
         "createdAt": "2020-10-12T16:19:29.000Z",
         "updatedAt": "2021-06-07T22:02:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "beastars": {
+        "authors": [
+          "ITAGAKI Paru"
+        ],
+        "identifier": "beastars",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Beastars",
+        "url": "https://mangasee123.com/manga/Beastars",
+        "image": "https://cover.nep.li/cover/Beastars.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103701,
+        "aniId": 98587,
+        "createdAt": "2020-12-21T19:55:39.000Z",
+        "updatedAt": "2021-11-20T16:14:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "beastars": {
+        "authors": [
+          "ITAGAKI Paru"
+        ],
+        "identifier": "beastars",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Beastars",
+        "url": "https://fanfox.net/manga/beastars/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/24547/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103701,
+        "aniId": 98587,
+        "createdAt": "2021-01-28T18:22:54.000Z",
+        "updatedAt": "2021-11-20T18:14:56.000Z",
         "deletedAt": null
       }
     },

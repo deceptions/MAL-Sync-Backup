@@ -21,7 +21,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-01T18:31:48.000Z",
-  "updatedAt": "2021-10-24T08:59:46.000Z",
+  "updatedAt": "2021-11-25T17:36:28.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "totsuzen_papa_ni_natta_saikyou_dragon_no_kosodate_nikki": {
+        "authors": [
+          "Kaeruda Ameko"
+        ],
+        "identifier": "totsuzen_papa_ni_natta_saikyou_dragon_no_kosodate_nikki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Totsuzen Papa ni Natta Saikyou Dragon no Kosodate nikki",
+        "url": "https://fanfox.net/manga/totsuzen_papa_ni_natta_saikyou_dragon_no_kosodate_nikki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/40160/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 131718,
+        "aniId": 140045,
+        "createdAt": "2021-11-25T17:36:18.000Z",
+        "updatedAt": "2021-11-26T09:35:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

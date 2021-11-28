@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-08T00:35:05.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "ikeda_kun": {
+        "authors": [
+          "ATSUMI Shun"
+        ],
+        "identifier": "ikeda_kun",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ikeda-kun",
+        "url": "https://fanfox.net/manga/ikeda_kun/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34220/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130962,
+        "aniId": 121540,
+        "createdAt": "2021-01-31T13:31:56.000Z",
+        "updatedAt": "2021-11-20T18:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

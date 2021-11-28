@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%96%E3%81%B2%E3%81%AA"
+    }
+  ],
   "altTitle": [
     "Love Hina",
     "ラブひな"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:16.000Z",
-  "updatedAt": "2021-06-11T19:39:09.000Z",
+  "updatedAt": "2021-11-24T17:38:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 30016,
         "createdAt": "2020-10-12T16:03:27.000Z",
         "updatedAt": "2021-06-02T14:06:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "love-hina": {
+        "authors": [
+          "AKAMATSU Ken"
+        ],
+        "identifier": "love-hina",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Love Hina",
+        "url": "https://mangasee123.com/manga/Love-Hina",
+        "image": "https://cover.nep.li/cover/Love-Hina.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16,
+        "aniId": 30016,
+        "createdAt": "2020-12-11T19:18:37.000Z",
+        "updatedAt": "2021-11-20T15:46:36.000Z",
         "deletedAt": null
       }
     },

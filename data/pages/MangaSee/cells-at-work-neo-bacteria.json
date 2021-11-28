@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 135697,
-  "aniId": null,
+  "aniId": 128375,
   "createdAt": "2021-11-11T17:44:43.000Z",
-  "updatedAt": "2021-11-11T17:45:00.000Z",
+  "updatedAt": "2021-11-25T04:35:32.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -47,6 +47,27 @@
     "updatedAt": "2021-11-11T17:45:00.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "はたらく細菌Neo",
+      "Cells at work : Bacteria ! Neo"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Haruyuki Yoshida",
+      "Akane Shimizu"
+    ],
+    "id": 128375,
+    "malId": 135697,
+    "type": "manga",
+    "title": "Hataraku Saikin Neo",
+    "url": "https://anilist.co/manga/128375",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128375-N7vVYbLR5CD0.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-25T04:05:32.000Z",
+    "updatedAt": "2021-11-25T04:05:32.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/135697/Hataraku_Saikin_Neo"
 }

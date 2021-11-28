@@ -43,6 +43,50 @@
         "updatedAt": "2021-06-04T01:13:09.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "stretch": {
+        "authors": [
+          "HIGASHIYAMA Shou"
+        ],
+        "identifier": "stretch",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Stretch",
+        "url": "https://mangasee123.com/manga/Stretch",
+        "image": "https://cover.nep.li/cover/Stretch.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68471,
+        "aniId": 85229,
+        "createdAt": "2021-04-14T04:16:03.000Z",
+        "updatedAt": "2021-11-20T21:48:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "stretch": {
+        "authors": [
+          "HIGASHIYAMA Shou"
+        ],
+        "identifier": "stretch",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Stretch",
+        "url": "https://fanfox.net/manga/stretch/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13677/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68471,
+        "aniId": 85229,
+        "createdAt": "2021-04-15T17:46:30.000Z",
+        "updatedAt": "2021-11-20T21:48:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://pocket.shonenmagazine.com/episode/10834108156630993874"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88_(%E6%BC%AB%E7%94%BB)"
+    }
+  ],
   "altTitle": [
     "Orient",
     "オリエント"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:33.000Z",
-  "updatedAt": "2021-07-03T22:34:51.000Z",
+  "updatedAt": "2021-11-25T09:06:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +46,50 @@
         "aniId": 101873,
         "createdAt": "2020-10-12T16:12:55.000Z",
         "updatedAt": "2021-06-05T17:28:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "orient": {
+        "authors": [
+          "OHTAKA Shinobu"
+        ],
+        "identifier": "orient",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Orient",
+        "url": "https://mangasee123.com/manga/Orient",
+        "image": "https://cover.nep.li/cover/Orient.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113644,
+        "aniId": 101873,
+        "createdAt": "2021-01-04T16:26:51.000Z",
+        "updatedAt": "2021-11-20T16:44:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "orient": {
+        "authors": [
+          "OHTAKA Shinobu"
+        ],
+        "identifier": "orient",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Orient",
+        "url": "https://fanfox.net/manga/orient/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27593/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113644,
+        "aniId": 101873,
+        "createdAt": "2021-04-22T07:57:39.000Z",
+        "updatedAt": "2021-11-20T21:48:17.000Z",
         "deletedAt": null
       }
     },

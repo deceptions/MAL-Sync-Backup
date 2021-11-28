@@ -42,9 +42,71 @@
         "createdAt": "2020-10-12T16:18:19.000Z",
         "updatedAt": "2021-06-07T15:55:59.000Z",
         "deletedAt": null
+      },
+      "1f366545-bf36-4f83-b3c1-f65021320a6e": {
+        "authors": [
+          "Konbu Wakame"
+        ],
+        "identifier": "1f366545-bf36-4f83-b3c1-f65021320a6e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Recently Hired Maid Is Suspicious (Magazine)",
+        "url": "https://mangadex.org/title/1f366545-bf36-4f83-b3c1-f65021320a6e",
+        "image": "https://uploads.mangadex.org/covers/1f366545-bf36-4f83-b3c1-f65021320a6e/dab091bf-29aa-40fe-a85f-4936d03177c5.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123450,
+        "aniId": 114917,
+        "createdAt": "2021-11-22T03:43:09.000Z",
+        "updatedAt": "2021-11-22T04:12:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "my-recently-hired-maid-is-suspicious": {
+        "authors": [
+          "KONBU Wakame"
+        ],
+        "identifier": "my-recently-hired-maid-is-suspicious",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "My Recently Hired Maid Is Suspicious",
+        "url": "https://mangasee123.com/manga/My-Recently-Hired-Maid-is-Suspicious",
+        "image": "https://cover.nep.li/cover/My-Recently-Hired-Maid-is-Suspicious.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123450,
+        "aniId": 114917,
+        "createdAt": "2020-12-22T06:55:04.000Z",
+        "updatedAt": "2021-11-20T16:14:06.000Z",
+        "deletedAt": null
       }
     },
     "MangaFox": {
+      "my_recently_hired_maid_is_suspicious": {
+        "authors": [
+          "KONBU Wakame"
+        ],
+        "identifier": "my_recently_hired_maid_is_suspicious",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "My Recently Hired Maid Is Suspicious",
+        "url": "https://fanfox.net/manga/my_recently_hired_maid_is_suspicious/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32010/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123450,
+        "aniId": 114917,
+        "createdAt": "2021-01-22T15:33:46.000Z",
+        "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      },
       "my_recently_hired_maid_is_suspicious_pre_serialization": {
         "authors": [
           "KONBU Wakame"

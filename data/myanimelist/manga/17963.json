@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:30.000Z",
-  "updatedAt": "2021-10-10T19:40:34.000Z",
+  "updatedAt": "2021-11-26T12:05:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,29 @@
         "aniId": 47963,
         "createdAt": "2020-10-12T16:03:47.000Z",
         "updatedAt": "2021-06-02T16:24:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kimi-no-sei": {
+        "authors": [
+          "CHATANI Ami",
+          "SAKURA Iro"
+        ],
+        "identifier": "kimi-no-sei",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kimi no Sei",
+        "url": "https://mangasee123.com/manga/Kimi-No-Sei",
+        "image": "https://cover.nep.li/cover/Kimi-No-Sei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17963,
+        "aniId": 47963,
+        "createdAt": "2021-01-21T21:03:54.000Z",
+        "updatedAt": "2021-11-20T17:45:38.000Z",
         "deletedAt": null
       }
     }

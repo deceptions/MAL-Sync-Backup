@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:17.000Z",
-  "updatedAt": "2021-10-12T14:15:06.000Z",
+  "updatedAt": "2021-11-24T17:06:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -68,6 +68,91 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "death-note": {
+        "authors": [
+          "OBATA Takeshi",
+          "OHBA Tsugumi"
+        ],
+        "identifier": "death-note",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Death Note",
+        "url": "https://mangasee123.com/manga/Death-Note",
+        "image": "https://cover.nep.li/cover/Death-Note.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21,
+        "aniId": 30021,
+        "createdAt": "2020-12-31T12:54:18.000Z",
+        "updatedAt": "2021-11-20T16:44:04.000Z",
+        "deletedAt": null
+      },
+      "death-note-color": {
+        "authors": [
+          "OHBA Tsugumi"
+        ],
+        "identifier": "death-note-color",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Death Note - Color",
+        "url": "https://mangasee123.com/manga/Death-Note-Color",
+        "image": "https://cover.nep.li/cover/Death-Note-Color.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 21,
+        "aniId": 30021,
+        "createdAt": "2021-06-30T08:50:23.000Z",
+        "updatedAt": "2021-07-01T05:50:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "death_note_coloured": {
+        "authors": [
+          "OHBA Tsugumi"
+        ],
+        "identifier": "death_note_coloured",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Death Note [coloured]",
+        "url": "https://fanfox.net/manga/death_note_coloured/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21457/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 21,
+        "aniId": 30021,
+        "createdAt": "2021-01-08T19:21:32.000Z",
+        "updatedAt": "2021-11-20T17:15:25.000Z",
+        "deletedAt": null
+      },
+      "death_note": {
+        "authors": [
+          "OHBA Tsugumi"
+        ],
+        "identifier": "death_note",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Death Note",
+        "url": "https://fanfox.net/manga/death_note/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/25/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21,
+        "aniId": 30021,
+        "createdAt": "2021-01-08T19:21:41.000Z",
+        "updatedAt": "2021-11-20T17:15:25.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-aw977479": {
         "authors": [
@@ -107,28 +192,6 @@
         "aniId": 30021,
         "createdAt": "2021-05-31T20:52:57.000Z",
         "updatedAt": "2021-05-31T21:22:54.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "death-note-color": {
-        "authors": [
-          "OHBA Tsugumi"
-        ],
-        "identifier": "death-note-color",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Death Note - Color",
-        "url": "https://mangasee123.com/manga/Death-Note-Color",
-        "image": "https://cover.nep.li/cover/Death-Note-Color.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 21,
-        "aniId": 30021,
-        "createdAt": "2021-06-30T08:50:23.000Z",
-        "updatedAt": "2021-07-01T05:50:05.000Z",
         "deletedAt": null
       }
     }

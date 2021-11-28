@@ -54,6 +54,91 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "to-aru-majutsu-no-index": {
+        "authors": [
+          "KAMACHI Kazuma",
+          "KOGINO Chuuya"
+        ],
+        "identifier": "to-aru-majutsu-no-index",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "To Aru Majutsu no Index",
+        "url": "https://mangasee123.com/manga/To-Aru-Majutsu-No-Index",
+        "image": "https://cover.nep.li/cover/To-Aru-Majutsu-No-Index.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7775,
+        "aniId": 37775,
+        "createdAt": "2020-12-23T15:57:12.000Z",
+        "updatedAt": "2021-11-20T16:14:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "to_aru_majutsu_no_kinsho_mokuroku": {
+        "authors": [
+          "KAMACHI Kazuma"
+        ],
+        "identifier": "to_aru_majutsu_no_kinsho_mokuroku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "To Aru Majutsu no Kinsho Mokuroku",
+        "url": "https://fanfox.net/manga/to_aru_majutsu_no_kinsho_mokuroku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2949/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7775,
+        "aniId": 37775,
+        "createdAt": "2021-02-13T21:35:47.000Z",
+        "updatedAt": "2021-11-20T18:44:26.000Z",
+        "deletedAt": null
+      },
+      "to_aru_majutsu_no_index": {
+        "authors": [
+          "KAMACHI Kazuma"
+        ],
+        "identifier": "to_aru_majutsu_no_index",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "To Aru Majutsu no Kinsho Mokuroku",
+        "url": "https://fanfox.net/manga/to_aru_majutsu_no_index/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2949/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7775,
+        "aniId": 37775,
+        "createdAt": "2021-02-18T06:51:01.000Z",
+        "updatedAt": "2021-11-20T18:44:26.000Z",
+        "deletedAt": null
+      },
+      "toaru_majutsu_no_kinsho_mokuroku": {
+        "authors": [
+          "KAMACHI Kazuma"
+        ],
+        "identifier": "toaru_majutsu_no_kinsho_mokuroku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Toaru Majutsu no Kinsho Mokuroku",
+        "url": "https://fanfox.net/manga/toaru_majutsu_no_kinsho_mokuroku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13517/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 7775,
+        "aniId": 37775,
+        "createdAt": "2021-06-11T09:39:05.000Z",
+        "updatedAt": "2021-06-11T15:08:18.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-lb962736": {
         "authors": [
@@ -73,28 +158,6 @@
         "aniId": 37775,
         "createdAt": "2021-05-28T18:55:25.000Z",
         "updatedAt": "2021-05-28T19:23:32.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "toaru_majutsu_no_kinsho_mokuroku": {
-        "authors": [
-          "KAMACHI Kazuma"
-        ],
-        "identifier": "toaru_majutsu_no_kinsho_mokuroku",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Toaru Majutsu no Kinsho Mokuroku",
-        "url": "https://fanfox.net/manga/toaru_majutsu_no_kinsho_mokuroku/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/13517/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 2,
-        "malId": 7775,
-        "aniId": 37775,
-        "createdAt": "2021-06-11T09:39:05.000Z",
-        "updatedAt": "2021-06-11T15:08:18.000Z",
         "deletedAt": null
       }
     }

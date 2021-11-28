@@ -19,5 +19,28 @@
   "createdAt": "2021-05-20T14:40:59.000Z",
   "updatedAt": "2021-06-17T13:16:49.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "tie_me_up_with_your_love": {
+        "authors": [
+          "WATANABE Asia"
+        ],
+        "identifier": "tie_me_up_with_your_love",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tie Me Up with Your Love",
+        "url": "https://fanfox.net/manga/tie_me_up_with_your_love/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3729/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9988,
+        "aniId": 39988,
+        "createdAt": "2021-11-27T22:35:45.000Z",
+        "updatedAt": "2021-11-27T23:05:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

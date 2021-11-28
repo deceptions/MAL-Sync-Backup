@@ -40,6 +40,51 @@
         "updatedAt": "2021-06-02T08:23:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "corpse-party-musume": {
+        "authors": [
+          "KEDOUIN Makoto",
+          "ORIE Mika"
+        ],
+        "identifier": "corpse-party-musume",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Corpse Party: Musume",
+        "url": "https://mangasee123.com/manga/Corpse-Party-Musume",
+        "image": "https://cover.nep.li/cover/Corpse-Party-Musume.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26206,
+        "aniId": 56206,
+        "createdAt": "2021-01-27T19:09:27.000Z",
+        "updatedAt": "2021-11-20T17:45:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "corpse_party_musume": {
+        "authors": [
+          "KEDOUIN Makoto"
+        ],
+        "identifier": "corpse_party_musume",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Corpse Party: Musume",
+        "url": "https://fanfox.net/manga/corpse_party_musume/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9657/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26206,
+        "aniId": 56206,
+        "createdAt": "2021-02-25T05:26:27.000Z",
+        "updatedAt": "2021-11-20T19:16:15.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

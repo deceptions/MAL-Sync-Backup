@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://youngjump.jp/manga/kingdom/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0_%28%E6%BC%AB%E7%94%BB%29"
+    }
+  ],
   "altTitle": [
     "キングダム"
   ],
@@ -14,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:23.000Z",
-  "updatedAt": "2021-09-28T00:34:57.000Z",
+  "updatedAt": "2021-11-21T01:54:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -56,6 +65,50 @@
         "aniId": 46765,
         "createdAt": "2020-10-12T16:20:12.000Z",
         "updatedAt": "2021-06-07T23:33:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kingdom": {
+        "authors": [
+          "HARA Yasuhisa"
+        ],
+        "identifier": "kingdom",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kingdom",
+        "url": "https://fanfox.net/manga/kingdom/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8198/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16765,
+        "aniId": 46765,
+        "createdAt": "2020-12-19T01:56:26.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kingdom": {
+        "authors": [
+          "HARA Yasuhisa"
+        ],
+        "identifier": "kingdom",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kingdom",
+        "url": "https://mangasee123.com/manga/Kingdom",
+        "image": "https://cover.nep.li/cover/Kingdom.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16765,
+        "aniId": 46765,
+        "createdAt": "2020-12-19T15:26:44.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
         "deletedAt": null
       }
     },

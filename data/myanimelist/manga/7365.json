@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%95_%28%E6%BC%AB%E7%94%BB%29"
+    }
+  ],
   "altTitle": [
     "ルーズリーフ"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:14.000Z",
-  "updatedAt": "2021-06-04T17:19:17.000Z",
+  "updatedAt": "2021-11-23T18:07:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +41,28 @@
         "aniId": 37365,
         "createdAt": "2020-10-12T16:09:20.000Z",
         "updatedAt": "2021-06-04T18:34:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "loose_leaf": {
+        "authors": [
+          "MOCHIDA Aki"
+        ],
+        "identifier": "loose_leaf",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Loose Leaf",
+        "url": "https://fanfox.net/manga/loose_leaf/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6094/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7365,
+        "aniId": 37365,
+        "createdAt": "2021-11-23T18:07:32.000Z",
+        "updatedAt": "2021-11-23T18:35:47.000Z",
         "deletedAt": null
       }
     }

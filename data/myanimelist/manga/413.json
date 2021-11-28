@@ -45,6 +45,28 @@
         "updatedAt": "2021-06-02T08:54:05.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "love_roma": {
+        "authors": [
+          "TOYODA Minoru"
+        ],
+        "identifier": "love_roma",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Love Roma",
+        "url": "https://fanfox.net/manga/love_roma/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/602/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 413,
+        "aniId": 30413,
+        "createdAt": "2021-04-13T06:16:21.000Z",
+        "updatedAt": "2021-11-20T21:48:15.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

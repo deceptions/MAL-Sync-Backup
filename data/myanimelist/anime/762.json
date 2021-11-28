@@ -28,7 +28,7 @@
   "hentai": false,
   "anidbId": 2369,
   "createdAt": "2020-10-12T15:38:08.000Z",
-  "updatedAt": "2021-09-30T16:37:22.000Z",
+  "updatedAt": "2021-11-24T15:06:51.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -47,6 +47,25 @@
         "aniId": 762,
         "createdAt": "2020-10-12T15:53:52.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bleach-memories-in-the-rain": {
+        "identifier": "bleach-memories-in-the-rain",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bleach: Memories in the Rain",
+        "url": "https://gogoanime.cm/category/bleach-memories-in-the-rain",
+        "image": "https://gogocdn.net/cover/bleach-memories-in-the-rain.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 762,
+        "aniId": 762,
+        "createdAt": "2021-11-24T15:06:42.000Z",
+        "updatedAt": "2021-11-24T15:35:47.000Z",
         "deletedAt": null
       }
     }

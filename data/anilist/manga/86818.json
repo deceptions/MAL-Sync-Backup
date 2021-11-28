@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-04T03:22:08.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "sayonara_sorcier": {
+        "authors": [
+          "Hozumi"
+        ],
+        "identifier": "sayonara_sorcier",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sayonara Sorcier",
+        "url": "https://fanfox.net/manga/sayonara_sorcier/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13666/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59191,
+        "aniId": 86818,
+        "createdAt": "2021-04-01T14:01:23.000Z",
+        "updatedAt": "2021-11-20T21:17:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

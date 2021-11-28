@@ -1,8 +1,8 @@
 {
   "authors": [
+    "Suzunoki Kuro",
     "Kurojishi",
-    "Shaku Himeki",
-    "Suzunoki Kuro"
+    "Shaku Himeki"
   ],
   "identifier": "16b4901e-6f6a-42f2-86eb-9558c922b386",
   "type": "manga",
@@ -13,33 +13,13 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 104032,
+  "actor": 1,
+  "malId": null,
   "aniId": 98226,
   "createdAt": "2020-10-12T16:19:03.000Z",
-  "updatedAt": "2021-06-07T21:07:24.000Z",
+  "updatedAt": "2021-11-22T08:41:16.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": null,
-    "altTitle": [
-      "I Won 4 Billion in a Lottery But I Went to Another World",
-      "宝くじで40億当たったんだけど異世界に移住する"
-    ],
-    "authors": [
-      "Suzunoki, Kuro",
-      "Imai, Mujii"
-    ],
-    "id": 104032,
-    "type": "manga",
-    "title": "Takarakuji de 40-oku Atattanda kedo Isekai ni Ijuusuru",
-    "url": "https://myanimelist.net/manga/104032/Takarakuji_de_40-oku_Atattanda_kedo_Isekai_ni_Ijuusuru",
-    "image": "https://cdn.myanimelist.net/images/manga/1/194831.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:56.000Z",
-    "updatedAt": "2021-07-13T13:46:44.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
       "I Won 4 Billion in a Lottery But I Went to Another World",
@@ -64,5 +44,5 @@
     "updatedAt": "2021-06-18T01:58:43.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/104032/Takarakuji_de_40-oku_Atattanda_kedo_Isekai_ni_Ijuusuru"
+  "malUrl": ""
 }

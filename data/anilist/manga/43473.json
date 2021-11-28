@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-07T09:27:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "foxy_foxy": {
+        "authors": [
+          "JARYUU Dokuro"
+        ],
+        "identifier": "foxy_foxy",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Foxy Foxy",
+        "url": "https://fanfox.net/manga/foxy_foxy/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6750/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13473,
+        "aniId": 43473,
+        "createdAt": "2021-01-31T03:32:28.000Z",
+        "updatedAt": "2021-11-20T18:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -5,8 +5,7 @@
   "externalLinks": [],
   "authors": [
     "Ki-Hoon Lee",
-    "Seung-Yup Cho",
-    "Yasu"
+    "Seung-Yup Cho"
   ],
   "id": 30477,
   "malId": 477,
@@ -17,7 +16,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:35:34.000Z",
-  "updatedAt": "2021-06-17T08:28:00.000Z",
+  "updatedAt": "2021-11-23T08:05:48.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "phantom": {
+        "authors": [
+          "CHO Seung-Yup",
+          "LEE Ki-Hoon"
+        ],
+        "identifier": "phantom",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Phantom",
+        "url": "https://mangasee123.com/manga/Phantom",
+        "image": "https://cover.nep.li/cover/Phantom.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 477,
+        "aniId": 30477,
+        "createdAt": "2021-03-27T23:19:48.000Z",
+        "updatedAt": "2021-11-20T20:45:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

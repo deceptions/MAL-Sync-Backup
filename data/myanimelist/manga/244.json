@@ -61,6 +61,28 @@
         "updatedAt": "2021-06-07T21:31:50.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "enchanter": {
+        "authors": [
+          "KAWACHI Izumi"
+        ],
+        "identifier": "enchanter",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Enchanter",
+        "url": "https://fanfox.net/manga/enchanter/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/867/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 244,
+        "aniId": 30244,
+        "createdAt": "2021-03-23T02:04:45.000Z",
+        "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

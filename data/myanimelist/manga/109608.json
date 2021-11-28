@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%96%E3%83%AA%E3%83%B3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC"
+    }
+  ],
   "altTitle": [
     "Goblin Slayer Side Story: Year One",
     "ゴブリンスレイヤー外伝：イヤーワン"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:16.000Z",
-  "updatedAt": "2021-07-24T20:52:48.000Z",
+  "updatedAt": "2021-11-21T01:43:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +44,51 @@
         "aniId": 100117,
         "createdAt": "2020-10-12T16:11:00.000Z",
         "updatedAt": "2021-06-05T04:58:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "goblin-slayer-side-story-year-one": {
+        "authors": [
+          "KAGYU Kumo",
+          "SAKAEDA Kento"
+        ],
+        "identifier": "goblin-slayer-side-story-year-one",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Goblin Slayer Side Story: Year One",
+        "url": "https://mangasee123.com/manga/Goblin-Slayer-Side-Story-Year-One",
+        "image": "https://cover.nep.li/cover/Goblin-Slayer-Side-Story-Year-One.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109608,
+        "aniId": 100117,
+        "createdAt": "2020-12-27T00:26:35.000Z",
+        "updatedAt": "2021-11-20T16:14:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "goblin_slayer_side_story_year_one": {
+        "authors": [
+          "KAGYU Kumo"
+        ],
+        "identifier": "goblin_slayer_side_story_year_one",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Goblin Slayer: Side Story Year One",
+        "url": "https://fanfox.net/manga/goblin_slayer_side_story_year_one/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26485/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109608,
+        "aniId": 100117,
+        "createdAt": "2021-01-03T16:50:48.000Z",
+        "updatedAt": "2021-11-20T16:44:05.000Z",
         "deletedAt": null
       }
     },

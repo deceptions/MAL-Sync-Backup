@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Pumpkin_Scissors"
+    }
+  ],
   "altTitle": [
     "Pumpkin Scissors",
     "パンプキン シザーズ"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:21.000Z",
-  "updatedAt": "2021-05-27T11:28:55.000Z",
+  "updatedAt": "2021-11-27T11:35:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,28 @@
         "aniId": 30426,
         "createdAt": "2020-10-12T16:03:42.000Z",
         "updatedAt": "2021-06-02T15:52:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "pumpkin-scissors": {
+        "authors": [
+          "IWANAGA Ryoutarou"
+        ],
+        "identifier": "pumpkin-scissors",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Pumpkin Scissors",
+        "url": "https://mangasee123.com/manga/Pumpkin-Scissors",
+        "image": "https://cover.nep.li/cover/Pumpkin-Scissors.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 426,
+        "aniId": 30426,
+        "createdAt": "2021-04-30T18:49:57.000Z",
+        "updatedAt": "2021-11-20T22:22:04.000Z",
         "deletedAt": null
       }
     },

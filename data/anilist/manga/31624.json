@@ -21,5 +21,28 @@
   "createdAt": "2021-05-20T14:36:49.000Z",
   "updatedAt": "2021-06-17T09:29:24.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "watashi-no-ookami-san": {
+        "authors": [
+          "FUJIWARA Cocoa"
+        ],
+        "identifier": "watashi-no-ookami-san",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Watashi no Ookami-san",
+        "url": "https://mangasee123.com/manga/Watashi-No-Ookami-San",
+        "image": "https://cover.nep.li/cover/Watashi-No-Ookami-San.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1624,
+        "aniId": 31624,
+        "createdAt": "2021-01-13T23:09:56.000Z",
+        "updatedAt": "2021-11-20T17:15:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

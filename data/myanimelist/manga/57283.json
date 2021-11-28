@@ -18,5 +18,28 @@
   "createdAt": "2020-12-20T19:56:15.000Z",
   "updatedAt": "2021-06-20T20:22:41.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "kurenai_gekkou_no_seitokaishitsu": {
+        "authors": [
+          "KAGAMI Takaya"
+        ],
+        "identifier": "kurenai_gekkou_no_seitokaishitsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kurenai Gekkou no Seitokaishitsu",
+        "url": "https://fanfox.net/manga/kurenai_gekkou_no_seitokaishitsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13003/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57283,
+        "aniId": 88379,
+        "createdAt": "2020-12-20T19:56:16.000Z",
+        "updatedAt": "2021-11-20T16:14:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

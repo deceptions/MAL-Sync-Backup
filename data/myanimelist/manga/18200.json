@@ -81,6 +81,28 @@
         "updatedAt": "2021-06-06T04:39:59.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "sotsugyousei": {
+        "authors": [
+          "NAKAMURA Asumiko"
+        ],
+        "identifier": "sotsugyousei",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sotsugyousei",
+        "url": "https://fanfox.net/manga/sotsugyousei/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15817/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18200,
+        "aniId": 48200,
+        "createdAt": "2021-04-29T21:19:35.000Z",
+        "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

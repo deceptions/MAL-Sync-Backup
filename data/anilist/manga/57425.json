@@ -40,6 +40,50 @@
         "updatedAt": "2021-06-02T20:50:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "yajirobee": {
+        "authors": [
+          "YAMAKAWA Aiji"
+        ],
+        "identifier": "yajirobee",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yajirobee",
+        "url": "https://fanfox.net/manga/yajirobee/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10440/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27425,
+        "aniId": 57425,
+        "createdAt": "2021-04-01T13:31:14.000Z",
+        "updatedAt": "2021-11-20T21:17:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "balancing-toy": {
+        "authors": [
+          "YAMAKAWA Aiji"
+        ],
+        "identifier": "balancing-toy",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Balancing Toy",
+        "url": "https://mangasee123.com/manga/Balancing-Toy",
+        "image": "https://cover.nep.li/cover/Balancing-Toy.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27425,
+        "aniId": 57425,
+        "createdAt": "2021-04-10T06:51:13.000Z",
+        "updatedAt": "2021-11-20T21:17:18.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

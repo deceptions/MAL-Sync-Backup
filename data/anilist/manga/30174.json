@@ -64,6 +64,28 @@
         "updatedAt": "2021-05-28T21:23:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "cowboy_bebop_shooting_star": {
+        "authors": [
+          "KUGA Cain"
+        ],
+        "identifier": "cowboy_bebop_shooting_star",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cowboy Bebop: Shooting Star",
+        "url": "https://fanfox.net/manga/cowboy_bebop_shooting_star/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/677/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 174,
+        "aniId": 30174,
+        "createdAt": "2021-11-22T09:13:11.000Z",
+        "updatedAt": "2021-11-22T09:42:37.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

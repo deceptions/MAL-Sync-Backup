@@ -19,5 +19,28 @@
   "createdAt": "2021-05-20T14:41:18.000Z",
   "updatedAt": "2021-06-17T13:51:44.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "mahou_zakkaten_vi_via": {
+        "authors": [
+          "NEKOBYOU Neko"
+        ],
+        "identifier": "mahou_zakkaten_vi_via",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mahou Zakkaten Vi Via",
+        "url": "https://fanfox.net/manga/mahou_zakkaten_vi_via/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2930/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11423,
+        "aniId": 41423,
+        "createdAt": "2021-03-26T16:49:45.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

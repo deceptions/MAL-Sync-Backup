@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95"
+    }
+  ],
   "altTitle": [
     "No Game, No Life",
     "NGNL",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:31.000Z",
-  "updatedAt": "2021-05-27T17:29:29.000Z",
+  "updatedAt": "2021-11-27T17:36:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +45,51 @@
         "aniId": 78397,
         "createdAt": "2020-10-12T16:06:02.000Z",
         "updatedAt": "2021-06-03T16:40:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "no_game_no_life": {
+        "authors": [
+          "KAMIYA Yuu"
+        ],
+        "identifier": "no_game_no_life",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "No Game No Life",
+        "url": "https://fanfox.net/manga/no_game_no_life/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11975/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48397,
+        "aniId": 78397,
+        "createdAt": "2020-10-28T14:36:40.000Z",
+        "updatedAt": "2021-11-20T15:46:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "no-game-no-life": {
+        "authors": [
+          "HIIRAGI Mashiro",
+          "KAMIYA Yuu"
+        ],
+        "identifier": "no-game-no-life",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "No Game No Life",
+        "url": "https://mangasee123.com/manga/No-Game-No-Life",
+        "image": "https://cover.nep.li/cover/No-Game-No-Life.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48397,
+        "aniId": 78397,
+        "createdAt": "2020-11-08T18:13:30.000Z",
+        "updatedAt": "2021-11-20T15:46:36.000Z",
         "deletedAt": null
       }
     },

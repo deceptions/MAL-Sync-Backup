@@ -17,5 +17,50 @@
   "createdAt": "2021-01-10T20:51:31.000Z",
   "updatedAt": "2021-09-27T00:16:25.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "tekkai_no_senshi": {
+        "authors": [
+          "SUMIYOSHI Ryou"
+        ],
+        "identifier": "tekkai_no_senshi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tekkai no Senshi",
+        "url": "https://fanfox.net/manga/tekkai_no_senshi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37208/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123961,
+        "aniId": 115413,
+        "createdAt": "2021-01-10T20:51:31.000Z",
+        "updatedAt": "2021-11-20T17:15:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ashidaka-the-iron-hero": {
+        "authors": [
+          "SUMIYOSHI Ryou"
+        ],
+        "identifier": "ashidaka-the-iron-hero",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ashidaka: The Iron Hero",
+        "url": "https://mangasee123.com/manga/Ashidaka-The-Iron-Hero",
+        "image": "https://cover.nep.li/cover/Ashidaka-The-Iron-Hero.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123961,
+        "aniId": 115413,
+        "createdAt": "2021-03-26T23:50:27.000Z",
+        "updatedAt": "2021-11-20T20:45:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

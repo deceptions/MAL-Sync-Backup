@@ -17,7 +17,9 @@
   "authors": [
     "Ryousuke Takeuchi",
     "Hikaru Miyoshi",
-    "Arthur Ignatius Conan Doyle"
+    "Arthur Ignatius Conan Doyle",
+    "Annaliese Christman",
+    "Saa"
   ],
   "id": 98544,
   "malId": 100323,
@@ -28,7 +30,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:54:49.000Z",
-  "updatedAt": "2021-09-10T05:04:30.000Z",
+  "updatedAt": "2021-11-23T09:35:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -74,6 +76,28 @@
         "aniId": 98544,
         "createdAt": "2020-12-17T12:57:32.000Z",
         "updatedAt": "2021-10-14T13:59:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yukoku_no_moriarty": {
+        "authors": [
+          "TAKEUCHI Ryousuke"
+        ],
+        "identifier": "yukoku_no_moriarty",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yukoku no Moriarty",
+        "url": "https://fanfox.net/manga/yukoku_no_moriarty/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/24753/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100323,
+        "aniId": 98544,
+        "createdAt": "2020-12-18T17:26:03.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
         "deletedAt": null
       }
     },

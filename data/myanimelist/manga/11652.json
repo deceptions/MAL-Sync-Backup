@@ -1,8 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E5%AD%90%E3%81%AE%E3%83%90%E3%82%B9%E3%82%B1"
+    }
+  ],
   "altTitle": [
     "Kuroko's Basketball",
-    "Kuroko no Basuke, The Basketball Which Kuroko Plays",
+    "Kuroko no Basuke",
+    "The Basketball Which Kuroko Plays",
     "黒子のバスケ"
   ],
   "authors": [
@@ -16,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:34.000Z",
-  "updatedAt": "2021-06-03T21:49:58.000Z",
+  "updatedAt": "2021-11-24T22:07:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +64,70 @@
         "aniId": 41652,
         "createdAt": "2020-10-12T16:20:11.000Z",
         "updatedAt": "2021-06-07T23:32:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kuroko_no_basuke": {
+        "authors": [
+          "FUJIMAKI Tadatoshi"
+        ],
+        "identifier": "kuroko_no_basuke",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kuroko no Basuke",
+        "url": "https://fanfox.net/manga/kuroko_no_basuke/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5259/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11652,
+        "aniId": 41652,
+        "createdAt": "2020-12-23T02:56:34.000Z",
+        "updatedAt": "2021-11-20T16:14:06.000Z",
+        "deletedAt": null
+      },
+      "kuroko_no_basket": {
+        "authors": [
+          "FUJIMAKI Tadatoshi"
+        ],
+        "identifier": "kuroko_no_basket",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kuroko no Basuke",
+        "url": "https://fanfox.net/manga/kuroko_no_basket/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5259/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11652,
+        "aniId": 41652,
+        "createdAt": "2021-04-25T20:27:08.000Z",
+        "updatedAt": "2021-11-20T22:22:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kuroko-no-basket": {
+        "authors": [
+          "FUJIMAKI Tadatoshi"
+        ],
+        "identifier": "kuroko-no-basket",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kuroko no Basket",
+        "url": "https://mangasee123.com/manga/Kuroko-No-Basket",
+        "image": "https://cover.nep.li/cover/Kuroko-No-Basket.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11652,
+        "aniId": 41652,
+        "createdAt": "2021-02-12T20:35:43.000Z",
+        "updatedAt": "2021-11-20T18:44:25.000Z",
         "deletedAt": null
       }
     },

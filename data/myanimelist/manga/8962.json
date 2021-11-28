@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "Color of Rage",
     "Naki no Ishimatsu",
@@ -18,7 +18,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:21.000Z",
-  "updatedAt": "2021-08-04T21:50:45.000Z",
+  "updatedAt": "2021-11-25T09:36:02.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,28 @@
         "aniId": 38962,
         "createdAt": "2020-10-12T16:04:24.000Z",
         "updatedAt": "2021-06-02T20:46:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "colored": {
+        "authors": [
+          "KOIKE Kazuo"
+        ],
+        "identifier": "colored",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Colored",
+        "url": "https://fanfox.net/manga/colored/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10430/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8962,
+        "aniId": 38962,
+        "createdAt": "2021-04-01T13:32:16.000Z",
+        "updatedAt": "2021-11-20T21:17:16.000Z",
         "deletedAt": null
       }
     }

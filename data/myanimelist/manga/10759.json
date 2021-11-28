@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-02T14:20:42.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "gift_under_the_rainbow": {
+        "authors": [
+          "Moonstone"
+        ],
+        "identifier": "gift_under_the_rainbow",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Gift - Under the Rainbow",
+        "url": "https://fanfox.net/manga/gift_under_the_rainbow/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4866/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10759,
+        "aniId": 40759,
+        "createdAt": "2021-05-09T11:48:37.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

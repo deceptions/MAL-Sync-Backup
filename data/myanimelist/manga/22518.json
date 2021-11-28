@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%98%98%E3%81%A4%E3%81%8D%E3%81%BF%E3%83%BC%E3%81%8F%E3%82%93%E3%81%A8%E5%A3%8A%E3%82%8C%E3%81%9F%E3%81%BE%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93"
+    }
+  ],
   "altTitle": [
     "Usotsuki Mi-kun to Kowareta Ma-chan: Totteoki no Uso",
     "Lying Mii-kun and Broken Maa-chan: Precious Lies",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:03.000Z",
-  "updatedAt": "2021-08-29T14:06:36.000Z",
+  "updatedAt": "2021-11-24T09:36:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +45,51 @@
         "aniId": 52518,
         "createdAt": "2020-10-12T16:02:35.000Z",
         "updatedAt": "2021-06-02T08:08:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "lying-mii-kun": {
+        "authors": [
+          "IRUMA Hitoma",
+          "SATOU Atsunori"
+        ],
+        "identifier": "lying-mii-kun",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Lying Mii-kun and Broken Maa-chan: Precious Lies",
+        "url": "https://mangasee123.com/manga/Lying-Mii-Kun",
+        "image": "https://cover.nep.li/cover/Lying-Mii-Kun.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22518,
+        "aniId": 52518,
+        "createdAt": "2021-03-01T13:45:31.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pr966400": {
+        "authors": [
+          "Iruma Hitoma"
+        ],
+        "identifier": "manga-pr966400",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Lying Mii-Kun And Broken Maa-Chan: Precious Lies",
+        "url": "https://manganato.com/manga-pr966400",
+        "image": "https://avt.mkklcdnv6temp.com/40/l/10-1583483632.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22518,
+        "aniId": 52518,
+        "createdAt": "2021-11-24T09:35:48.000Z",
+        "updatedAt": "2021-11-24T10:05:47.000Z",
         "deletedAt": null
       }
     }

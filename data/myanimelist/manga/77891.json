@@ -43,6 +43,50 @@
         "updatedAt": "2021-06-03T09:40:40.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "the_friendly_winter": {
+        "authors": [
+          "LEE Jun"
+        ],
+        "identifier": "the_friendly_winter",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Friendly Winter",
+        "url": "https://fanfox.net/manga/the_friendly_winter/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10831/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 77891,
+        "aniId": 85211,
+        "createdAt": "2021-05-10T01:17:22.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-friendly-winter": {
+        "authors": [
+          "LEE Jun"
+        ],
+        "identifier": "the-friendly-winter",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Friendly Winter",
+        "url": "https://mangasee123.com/manga/The-Friendly-Winter",
+        "image": "https://cover.nep.li/cover/The-Friendly-Winter.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 77891,
+        "aniId": 85211,
+        "createdAt": "2021-05-11T15:19:15.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

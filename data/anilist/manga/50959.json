@@ -64,6 +64,50 @@
         "updatedAt": "2021-09-24T23:45:23.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-uo956023": {
+        "authors": [
+          "Hoshino Yukinobu"
+        ],
+        "identifier": "manga-uo956023",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "El Alamein No Shinden",
+        "url": "https://manganato.com/manga-uo956023",
+        "image": "https://avt.mkklcdnv6temp.com/49/w/3-1583469640.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20959,
+        "aniId": 50959,
+        "createdAt": "2021-11-27T05:05:34.000Z",
+        "updatedAt": "2021-11-27T05:35:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "el_alamein_no_shinden": {
+        "authors": [
+          "HOSHINO Yukinobu"
+        ],
+        "identifier": "el_alamein_no_shinden",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "El Alamein no Shinden",
+        "url": "https://fanfox.net/manga/el_alamein_no_shinden/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11651/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20959,
+        "aniId": 50959,
+        "createdAt": "2021-11-27T10:05:34.000Z",
+        "updatedAt": "2021-11-27T10:35:34.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

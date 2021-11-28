@@ -88,6 +88,51 @@
         "updatedAt": "2021-06-07T22:06:02.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "ninja-slayer-setsu": {
+        "authors": [
+          "Bradley Bond",
+          "SEKINE Koutarou"
+        ],
+        "identifier": "ninja-slayer-setsu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ninja Slayer Setsu",
+        "url": "https://mangasee123.com/manga/Ninja-Slayer-Setsu",
+        "image": "https://cover.nep.li/cover/Ninja-Slayer-Setsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86400,
+        "aniId": 87173,
+        "createdAt": "2021-03-30T00:31:31.000Z",
+        "updatedAt": "2021-11-20T20:46:00.000Z",
+        "deletedAt": null
+      },
+      "ninja-slayer": {
+        "authors": [
+          "Bradley Bond",
+          "TABATA Yoshiaki",
+          "YOGO Yuuki"
+        ],
+        "identifier": "ninja-slayer",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ninja Slayer",
+        "url": "https://mangasee123.com/manga/Ninja-Slayer",
+        "image": "https://cover.nep.li/cover/Ninja-Slayer.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86400,
+        "aniId": 87173,
+        "createdAt": "2021-04-07T17:51:48.000Z",
+        "updatedAt": "2021-11-20T21:17:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

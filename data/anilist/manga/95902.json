@@ -39,6 +39,50 @@
         "updatedAt": "2021-06-04T13:26:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "ad-astra-per-aspera": {
+        "authors": [
+          "HATA Kenjirou"
+        ],
+        "identifier": "ad-astra-per-aspera",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ad Astra Per Aspera",
+        "url": "https://mangasee123.com/manga/Ad-Astra-Per-Aspera",
+        "image": "https://cover.nep.li/cover/Ad-Astra-Per-Aspera.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92627,
+        "aniId": 95902,
+        "createdAt": "2021-03-30T10:30:54.000Z",
+        "updatedAt": "2021-11-20T20:46:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ad_astra_per_aspera": {
+        "authors": [
+          "HATA Kenjirou"
+        ],
+        "identifier": "ad_astra_per_aspera",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ad Astra Per Aspera",
+        "url": "https://fanfox.net/manga/ad_astra_per_aspera/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/16865/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92627,
+        "aniId": 95902,
+        "createdAt": "2021-04-12T15:46:03.000Z",
+        "updatedAt": "2021-11-20T21:48:15.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

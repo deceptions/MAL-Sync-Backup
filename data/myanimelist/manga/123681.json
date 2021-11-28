@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://youngjump.jp/manga/100kano/"
+    }
+  ],
   "altTitle": [
     "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
     "君のことが大大大大大好きな100人の彼女"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:11.000Z",
-  "updatedAt": "2021-09-20T12:11:05.000Z",
+  "updatedAt": "2021-11-21T08:43:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +44,51 @@
         "aniId": 114416,
         "createdAt": "2020-10-12T16:18:10.000Z",
         "updatedAt": "2021-06-07T14:29:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-100-girlfriends-who-really-really-really-really-really-love-you": {
+        "authors": [
+          "NAKAMURA Rikito",
+          "NOZAWA Yukiko"
+        ],
+        "identifier": "the-100-girlfriends-who-really-really-really-really-really-love-you",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+        "url": "https://mangasee123.com/manga/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You",
+        "image": "https://cover.nep.li/cover/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 123681,
+        "aniId": 114416,
+        "createdAt": "2020-12-13T22:19:12.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kimi_no_koto_ga_daidaidaidaidai_suki_na_100_nin_no_kanojo": {
+        "authors": [
+          "NAKAMURA Rikito"
+        ],
+        "identifier": "kimi_no_koto_ga_daidaidaidaidai_suki_na_100_nin_no_kanojo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi no koto ga daidaidaidaidai suki na 100-nin no Kanojo",
+        "url": "https://fanfox.net/manga/kimi_no_koto_ga_daidaidaidaidai_suki_na_100_nin_no_kanojo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32839/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123681,
+        "aniId": 114416,
+        "createdAt": "2021-01-17T22:32:49.000Z",
+        "updatedAt": "2021-11-20T17:45:37.000Z",
         "deletedAt": null
       }
     },

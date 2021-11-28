@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-03T15:09:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "onnanoko_play": {
+        "authors": [
+          "HINEMOSU Notari"
+        ],
+        "identifier": "onnanoko_play",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Onnanoko Play",
+        "url": "https://fanfox.net/manga/onnanoko_play/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11601/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46308,
+        "aniId": 76308,
+        "createdAt": "2021-03-26T16:20:35.000Z",
+        "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

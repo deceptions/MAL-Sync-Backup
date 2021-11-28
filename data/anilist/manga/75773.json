@@ -42,6 +42,50 @@
         "updatedAt": "2021-06-03T14:32:18.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "shuumatsu-no-laughter": {
+        "authors": [
+          "TANABE Yellow"
+        ],
+        "identifier": "shuumatsu-no-laughter",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shuumatsu no Laughter",
+        "url": "https://mangasee123.com/manga/Shuumatsu-No-Laughter",
+        "image": "https://cover.nep.li/cover/Shuumatsu-No-Laughter.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45773,
+        "aniId": 75773,
+        "createdAt": "2021-02-24T16:25:47.000Z",
+        "updatedAt": "2021-11-20T19:16:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shuumatsu_no_laughter": {
+        "authors": [
+          "TANABE Yellow"
+        ],
+        "identifier": "shuumatsu_no_laughter",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shuumatsu no Laughter",
+        "url": "https://fanfox.net/manga/shuumatsu_no_laughter/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11506/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45773,
+        "aniId": 75773,
+        "createdAt": "2021-04-01T12:31:11.000Z",
+        "updatedAt": "2021-11-20T20:46:01.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

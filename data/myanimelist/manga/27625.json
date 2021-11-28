@@ -18,5 +18,28 @@
   "createdAt": "2020-12-16T23:24:42.000Z",
   "updatedAt": "2021-06-16T23:28:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "eien_wa_irenai": {
+        "authors": [
+          "Michelle Celmer"
+        ],
+        "identifier": "eien_wa_irenai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Eien wa Irenai",
+        "url": "https://fanfox.net/manga/eien_wa_irenai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9288/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27625,
+        "aniId": 57625,
+        "createdAt": "2020-12-16T23:24:42.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

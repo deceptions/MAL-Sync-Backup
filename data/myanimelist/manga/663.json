@@ -26,7 +26,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:24.000Z",
-  "updatedAt": "2021-10-01T23:31:02.000Z",
+  "updatedAt": "2021-11-22T04:43:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -70,6 +70,28 @@
         "aniId": 30663,
         "createdAt": "2020-12-21T23:56:15.000Z",
         "updatedAt": "2021-07-15T13:32:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xi953717": {
+        "authors": [
+          "Hanamizawa Q-Taro"
+        ],
+        "identifier": "manga-xi953717",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Rec",
+        "url": "https://manganato.com/manga-xi953717",
+        "image": "https://avt.mkklcdnv6temp.com/33/c/2-1583466975.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 663,
+        "aniId": 30663,
+        "createdAt": "2021-11-22T04:42:37.000Z",
+        "updatedAt": "2021-11-22T05:12:37.000Z",
         "deletedAt": null
       }
     }

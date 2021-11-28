@@ -44,6 +44,71 @@
         "updatedAt": "2021-06-04T21:40:40.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "seishun-buta-yarou-wa-bunny-girl": {
+        "authors": [
+          "KAMOSHIDA Hajime",
+          "NANAMIYA Tsugumi"
+        ],
+        "identifier": "seishun-buta-yarou-wa-bunny-girl",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai",
+        "url": "https://mangasee123.com/manga/Seishun-Buta-Yarou-Wa-Bunny-Girl",
+        "image": "https://cover.nep.li/cover/Seishun-Buta-Yarou-Wa-Bunny-Girl.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92182,
+        "aniId": 87471,
+        "createdAt": "2020-12-31T21:28:34.000Z",
+        "updatedAt": "2021-11-20T16:44:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "seishun_buta_yarou_wa_logical_witch_no_yume_wo_minai": {
+        "authors": [
+          "KAMOSHIDA Hajime"
+        ],
+        "identifier": "seishun_buta_yarou_wa_logical_witch_no_yume_wo_minai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Seishun Buta Yarou wa Logical Witch no Yume wo Minai",
+        "url": "https://fanfox.net/manga/seishun_buta_yarou_wa_logical_witch_no_yume_wo_minai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36154/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 92182,
+        "aniId": 87471,
+        "createdAt": "2021-02-27T13:44:13.000Z",
+        "updatedAt": "2021-11-20T19:16:16.000Z",
+        "deletedAt": null
+      },
+      "seishun_buta_yarou_wa_bunny_girl_senpai_no_yume_o_minai": {
+        "authors": [
+          "KAMOSHIDA Hajime"
+        ],
+        "identifier": "seishun_buta_yarou_wa_bunny_girl_senpai_no_yume_o_minai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai",
+        "url": "https://fanfox.net/manga/seishun_buta_yarou_wa_bunny_girl_senpai_no_yume_o_minai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21219/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92182,
+        "aniId": 87471,
+        "createdAt": "2021-03-21T00:06:03.000Z",
+        "updatedAt": "2021-11-20T19:45:18.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

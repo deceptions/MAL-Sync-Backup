@@ -16,5 +16,28 @@
   "createdAt": "2021-05-20T23:14:19.000Z",
   "updatedAt": "2021-11-20T23:47:28.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "mousou_catalogue": {
+        "authors": [
+          "KAYUMA Mimu"
+        ],
+        "identifier": "mousou_catalogue",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mousou Catalogue",
+        "url": "https://fanfox.net/manga/mousou_catalogue/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3539/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10952,
+        "aniId": null,
+        "createdAt": "2021-05-20T23:14:19.000Z",
+        "updatedAt": "2021-11-20T23:49:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -111,15 +111,35 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
-        "malId": 44347,
+        "actor": 2,
+        "malId": null,
         "aniId": 74347,
         "createdAt": "2020-12-14T16:49:01.000Z",
-        "updatedAt": "2021-09-04T20:46:43.000Z",
+        "updatedAt": "2021-11-21T15:26:09.000Z",
         "deletedAt": null
       }
     },
     "MangaFox": {
+      "onepunch_man": {
+        "authors": [
+          "ONE"
+        ],
+        "identifier": "onepunch_man",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Onepunch-Man",
+        "url": "https://fanfox.net/manga/onepunch_man/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11362/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44347,
+        "aniId": 74347,
+        "createdAt": "2020-12-14T17:49:30.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      },
       "onepunch_man_one": {
         "authors": [
           "ONE"
@@ -138,6 +158,46 @@
         "aniId": 74347,
         "createdAt": "2020-12-19T06:26:05.000Z",
         "updatedAt": "2021-10-01T18:02:06.000Z",
+        "deletedAt": null
+      },
+      "one_punch_man": {
+        "authors": [
+          "ONE"
+        ],
+        "identifier": "one_punch_man",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "One Punch-Man",
+        "url": "https://fanfox.net/manga/one_punch_man/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32578/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44347,
+        "aniId": 74347,
+        "createdAt": "2021-01-11T19:21:54.000Z",
+        "updatedAt": "2021-11-20T17:15:26.000Z",
+        "deletedAt": null
+      },
+      "one_punch_man_one": {
+        "authors": [
+          "ONE"
+        ],
+        "identifier": "one_punch_man_one",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "One Punch-Man (ONE)",
+        "url": "https://fanfox.net/manga/one_punch_man_one/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32504/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44347,
+        "aniId": 74347,
+        "createdAt": "2021-02-01T19:31:50.000Z",
+        "updatedAt": "2021-11-20T18:14:57.000Z",
         "deletedAt": null
       }
     },

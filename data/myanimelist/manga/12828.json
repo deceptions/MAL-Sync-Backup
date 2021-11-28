@@ -18,5 +18,28 @@
   "createdAt": "2020-10-12T15:41:48.000Z",
   "updatedAt": "2021-10-08T13:02:54.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "unmei-no-tori": {
+        "authors": [
+          "TAKAHASHI Rumiko"
+        ],
+        "identifier": "unmei-no-tori",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Unmei no Tori",
+        "url": "https://mangasee123.com/manga/Unmei-No-Tori",
+        "image": "https://cover.nep.li/cover/Unmei-No-Tori.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12828,
+        "aniId": 42828,
+        "createdAt": "2021-04-11T19:21:08.000Z",
+        "updatedAt": "2021-11-20T21:17:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

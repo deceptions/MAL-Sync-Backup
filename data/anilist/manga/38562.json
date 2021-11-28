@@ -45,6 +45,51 @@
         "updatedAt": "2021-06-02T23:10:43.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "chronicles-of-the-grim-peddler": {
+        "authors": [
+          "LEE Jeong-A",
+          "Maru"
+        ],
+        "identifier": "chronicles-of-the-grim-peddler",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Chronicles of the Grim Peddler",
+        "url": "https://mangasee123.com/manga/Chronicles-Of-The-Grim-Peddler",
+        "image": "https://cover.nep.li/cover/Chronicles-Of-The-Grim-Peddler.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8562,
+        "aniId": 38562,
+        "createdAt": "2021-05-01T11:33:32.000Z",
+        "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "chronicles_of_the_grim_peddler": {
+        "authors": [
+          "LEE Jeong-A"
+        ],
+        "identifier": "chronicles_of_the_grim_peddler",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Chronicles of the Grim Peddler",
+        "url": "https://fanfox.net/manga/chronicles_of_the_grim_peddler/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3277/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8562,
+        "aniId": 38562,
+        "createdAt": "2021-05-10T01:17:22.000Z",
+        "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

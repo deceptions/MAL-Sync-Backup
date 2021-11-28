@@ -44,6 +44,50 @@
         "updatedAt": "2021-06-03T11:27:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "kinou-nani-tabeta": {
+        "authors": [
+          "YOSHINAGA Fumi"
+        ],
+        "identifier": "kinou-nani-tabeta",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kinou Nani Tabeta?",
+        "url": "https://mangasee123.com/manga/Kinou-Nani-Tabeta",
+        "image": "https://cover.nep.li/cover/Kinou-Nani-Tabeta.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7989,
+        "aniId": 37989,
+        "createdAt": "2020-12-20T13:26:14.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kinou_nani_tabeta": {
+        "authors": [
+          "YOSHINAGA Fumi"
+        ],
+        "identifier": "kinou_nani_tabeta",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kinou Nani Tabeta?",
+        "url": "https://fanfox.net/manga/kinou_nani_tabeta/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2683/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7989,
+        "aniId": 37989,
+        "createdAt": "2021-05-20T23:15:58.000Z",
+        "updatedAt": "2021-11-20T23:49:31.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

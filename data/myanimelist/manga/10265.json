@@ -46,6 +46,29 @@
         "updatedAt": "2021-06-03T12:40:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "tales-of-vesperia": {
+        "authors": [
+          "Bandai Namco Games",
+          "MORITA Yuzuka"
+        ],
+        "identifier": "tales-of-vesperia",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tales of Vesperia",
+        "url": "https://mangasee123.com/manga/Tales-Of-Vesperia",
+        "image": "https://cover.nep.li/cover/Tales-Of-Vesperia.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10265,
+        "aniId": 40265,
+        "createdAt": "2021-02-25T07:55:42.000Z",
+        "updatedAt": "2021-11-20T19:16:15.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

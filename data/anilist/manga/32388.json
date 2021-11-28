@@ -43,6 +43,29 @@
         "updatedAt": "2021-06-05T12:43:00.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "digimon_zero_two": {
+        "authors": [
+          "HONGO Akiyoshi",
+          "YU Yuen Wong"
+        ],
+        "identifier": "digimon_zero_two",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Digimon Zero Two",
+        "url": "https://fanfox.net/manga/digimon_zero_two/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37677/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2388,
+        "aniId": 32388,
+        "createdAt": "2021-03-08T16:40:52.000Z",
+        "updatedAt": "2021-11-20T19:16:17.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

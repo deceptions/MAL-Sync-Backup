@@ -70,6 +70,51 @@
         "updatedAt": "2021-06-06T11:13:29.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "kimi-no-na-wa": {
+        "authors": [
+          "KOTONE Ranmaru",
+          "SHINKAI Makoto"
+        ],
+        "identifier": "kimi-no-na-wa",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kimi no Na wa.",
+        "url": "https://mangasee123.com/manga/Kimi-No-Na-Wa",
+        "image": "https://cover.nep.li/cover/Kimi-No-Na-Wa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99314,
+        "aniId": 97337,
+        "createdAt": "2020-12-18T03:26:14.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kimi_no_na_wa": {
+        "authors": [
+          "SHINKAI Makoto"
+        ],
+        "identifier": "kimi_no_na_wa",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi no Na wa.",
+        "url": "https://fanfox.net/manga/kimi_no_na_wa/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26553/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 99314,
+        "aniId": 97337,
+        "createdAt": "2020-12-21T10:57:39.000Z",
+        "updatedAt": "2021-11-20T16:14:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

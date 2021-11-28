@@ -45,6 +45,28 @@
         "updatedAt": "2021-06-02T18:08:03.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "dragon_eye": {
+        "authors": [
+          "FUJIYAMA Kairi"
+        ],
+        "identifier": "dragon_eye",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dragon Eye",
+        "url": "https://fanfox.net/manga/dragon_eye/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6449/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 343,
+        "aniId": 30343,
+        "createdAt": "2021-05-20T21:44:10.000Z",
+        "updatedAt": "2021-11-20T23:14:26.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

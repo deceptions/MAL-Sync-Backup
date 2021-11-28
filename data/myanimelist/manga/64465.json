@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://evening.moae.jp/lineup/339"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%AC%E3%82%84%E3%81%97%E3%81%8D"
+    }
+  ],
   "altTitle": [
     "Inuyashiki",
     "Last Hero Inuyashiki",
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:06.000Z",
-  "updatedAt": "2021-06-08T01:21:39.000Z",
+  "updatedAt": "2021-11-23T23:05:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +68,28 @@
         "aniId": 85226,
         "createdAt": "2020-10-12T16:17:14.000Z",
         "updatedAt": "2021-06-07T06:04:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "inu-yashiki": {
+        "authors": [
+          "OKU Hiroya"
+        ],
+        "identifier": "inu-yashiki",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Inu Yashiki",
+        "url": "https://mangasee123.com/manga/Inu-Yashiki",
+        "image": "https://cover.nep.li/cover/Inu-Yashiki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64465,
+        "aniId": 85226,
+        "createdAt": "2021-02-02T11:31:56.000Z",
+        "updatedAt": "2021-11-20T18:14:58.000Z",
         "deletedAt": null
       }
     },

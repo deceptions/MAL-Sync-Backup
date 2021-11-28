@@ -43,6 +43,51 @@
         "updatedAt": "2021-06-04T23:59:19.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "kobayashi-san-kanna-no-nichijou": {
+        "authors": [
+          "COOL Kyoushinsha",
+          "KIMURA Mitsuhiro"
+        ],
+        "identifier": "kobayashi-san-kanna-no-nichijou",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kobayashi-san Chi no Maid Dragon: Kanna no Nichijou",
+        "url": "https://mangasee123.com/manga/Kobayashi-san-Kanna-No-Nichijou",
+        "image": "https://cover.nep.li/cover/Kobayashi-san-Kanna-No-Nichijou.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102811,
+        "aniId": 100754,
+        "createdAt": "2020-12-26T02:56:16.000Z",
+        "updatedAt": "2021-11-20T16:14:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kobayashi_san_chi_no_maid_dragon_kanna_no_nichijou": {
+        "authors": [
+          "COOL Kyoushinsha"
+        ],
+        "identifier": "kobayashi_san_chi_no_maid_dragon_kanna_no_nichijou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kobayashi-san Chi no Maid Dragon: Kanna no Nichijou",
+        "url": "https://fanfox.net/manga/kobayashi_san_chi_no_maid_dragon_kanna_no_nichijou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26083/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 102811,
+        "aniId": 100754,
+        "createdAt": "2021-03-22T13:05:43.000Z",
+        "updatedAt": "2021-11-20T20:14:55.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

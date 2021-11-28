@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://shonenjumpplus.com/episode/13932016480029291902"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AD%E3%82%B9"
+    }
+  ],
   "altTitle": [
     "DariFura",
     "ダーリン・イン・ザ・フランキス"
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:22.000Z",
-  "updatedAt": "2021-05-31T13:33:06.000Z",
+  "updatedAt": "2021-11-23T17:07:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +69,53 @@
         "aniId": 100937,
         "createdAt": "2020-10-12T16:17:33.000Z",
         "updatedAt": "2021-06-07T08:34:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "darling-in-the-franxx": {
+        "authors": [
+          "YABUKI Kentaro"
+        ],
+        "identifier": "darling-in-the-franxx",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "DARLING in the FRANXX",
+        "url": "https://mangasee123.com/manga/Darling-In-The-Franxx",
+        "image": "https://cover.nep.li/cover/Darling-In-The-Franxx.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111512,
+        "aniId": 100937,
+        "createdAt": "2020-12-20T10:25:04.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "darling_in_the_franxx": {
+        "authors": [
+          "Code:000",
+          "[Add]",
+          "TRIGGER",
+          "YABUKI Kentaro"
+        ],
+        "identifier": "darling_in_the_franxx",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "DARLING in the FRANXX",
+        "url": "https://fanfox.net/manga/darling_in_the_franxx/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27105/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111512,
+        "aniId": 100937,
+        "createdAt": "2021-01-10T20:21:30.000Z",
+        "updatedAt": "2021-11-20T17:15:26.000Z",
         "deletedAt": null
       }
     },

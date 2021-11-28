@@ -84,6 +84,28 @@
         "updatedAt": "2021-06-07T21:54:07.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "museum": {
+        "authors": [
+          "TOMOE Ryousuke"
+        ],
+        "identifier": "museum",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Museum",
+        "url": "https://mangasee123.com/manga/Museum",
+        "image": "https://cover.nep.li/cover/Museum.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70405,
+        "aniId": 98023,
+        "createdAt": "2021-04-14T15:15:31.000Z",
+        "updatedAt": "2021-11-20T21:48:16.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -42,6 +42,50 @@
         "updatedAt": "2021-06-03T14:29:18.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hoozuki_no_reitetsu": {
+        "authors": [
+          "EGUCHI Natsumi"
+        ],
+        "identifier": "hoozuki_no_reitetsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hoozuki no Reitetsu",
+        "url": "https://fanfox.net/manga/hoozuki_no_reitetsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11488/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36113,
+        "aniId": 66113,
+        "createdAt": "2021-04-24T23:57:44.000Z",
+        "updatedAt": "2021-11-20T21:48:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hoozuki-no-reitetsu": {
+        "authors": [
+          "EGUCHI Natsumi"
+        ],
+        "identifier": "hoozuki-no-reitetsu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hozuki's Coolheadedness",
+        "url": "https://mangasee123.com/manga/Hoozuki-No-Reitetsu",
+        "image": "https://cover.nep.li/cover/Hoozuki-No-Reitetsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36113,
+        "aniId": 66113,
+        "createdAt": "2021-05-14T16:56:06.000Z",
+        "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

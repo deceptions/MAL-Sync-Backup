@@ -18,5 +18,28 @@
   "createdAt": "2020-10-12T15:41:07.000Z",
   "updatedAt": "2021-10-29T12:16:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-qt967928": {
+        "authors": [
+          "Hino Hideshi"
+        ],
+        "identifier": "manga-qt967928",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Skin And Bone",
+        "url": "https://manganato.com/manga-qt967928",
+        "image": "https://avt.mkklcdnv6temp.com/43/g/11-1583485566.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5786,
+        "aniId": 35786,
+        "createdAt": "2021-11-21T13:12:37.000Z",
+        "updatedAt": "2021-11-21T13:42:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

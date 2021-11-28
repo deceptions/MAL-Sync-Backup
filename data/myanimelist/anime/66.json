@@ -31,7 +31,7 @@
   "hentai": false,
   "anidbId": 106,
   "createdAt": "2020-10-12T15:37:59.000Z",
-  "updatedAt": "2021-09-30T10:09:44.000Z",
+  "updatedAt": "2021-11-26T21:05:34.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -105,6 +105,23 @@
         "aniId": 66,
         "createdAt": "2020-10-12T15:59:54.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      },
+      "azumanga-daioh-dub": {
+        "identifier": "azumanga-daioh-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Azumanga Daioh (Dub)",
+        "url": "https://gogoanime.cm/category/azumanga-daioh-dub",
+        "image": "https://gogocdn.net/cover/azumanga-daioh-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 66,
+        "aniId": 1593,
+        "createdAt": "2020-10-12T15:59:54.000Z",
+        "updatedAt": "2021-11-27T16:41:41.000Z",
         "deletedAt": null
       }
     },

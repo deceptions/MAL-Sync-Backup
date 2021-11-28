@@ -46,6 +46,28 @@
         "updatedAt": "2021-06-06T20:11:42.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "othello_yaoi": {
+        "authors": [
+          "HASUMI Toui"
+        ],
+        "identifier": "othello_yaoi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Othello (Yaoi)",
+        "url": "https://fanfox.net/manga/othello_yaoi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/290/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 288,
+        "aniId": 30288,
+        "createdAt": "2021-01-23T18:52:07.000Z",
+        "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

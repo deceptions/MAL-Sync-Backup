@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-06T21:34:00.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "shuumatsu_no_nosferatu": {
+        "authors": [
+          "Shinjirou"
+        ],
+        "identifier": "shuumatsu_no_nosferatu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shuumatsu no Nosferatu",
+        "url": "https://fanfox.net/manga/shuumatsu_no_nosferatu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37418/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111865,
+        "aniId": 102212,
+        "createdAt": "2021-02-19T07:34:29.000Z",
+        "updatedAt": "2021-11-20T18:44:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

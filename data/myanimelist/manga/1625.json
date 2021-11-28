@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%AF%E3%83%BC%E3%82%AF"
+    }
+  ],
   "altTitle": [
-    "WaqWaq, Waq Waq",
+    "WaqWaq",
+    "Waq Waq",
     "ワークワーク"
   ],
   "authors": [
@@ -15,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:35.000Z",
-  "updatedAt": "2021-05-23T14:13:30.000Z",
+  "updatedAt": "2021-11-23T14:35:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,28 +43,6 @@
         "aniId": 31625,
         "createdAt": "2020-10-12T16:04:53.000Z",
         "updatedAt": "2021-06-03T00:12:43.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "waqwaq": {
-        "authors": [
-          "FUJISAKI Ryu"
-        ],
-        "identifier": "waqwaq",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Waqwaq",
-        "url": "https://mangasee123.com/manga/Waqwaq",
-        "image": "https://cover.nep.li/cover/Waqwaq.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 1625,
-        "aniId": 31625,
-        "createdAt": "2021-05-23T14:13:32.000Z",
-        "updatedAt": "2021-05-23T14:42:57.000Z",
         "deletedAt": null
       }
     }

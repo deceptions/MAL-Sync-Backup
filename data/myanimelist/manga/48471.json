@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.shogakukan-cr.jp/savannagame/"
+    }
+  ],
   "altTitle": [
     "Savanna Game: The Ultimate",
     "サバンナゲーム The Comic"
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:31.000Z",
-  "updatedAt": "2021-06-21T07:39:28.000Z",
+  "updatedAt": "2021-11-21T20:43:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +45,29 @@
         "aniId": 78471,
         "createdAt": "2020-10-12T16:06:41.000Z",
         "updatedAt": "2021-06-03T21:27:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "savanna-game": {
+        "authors": [
+          "HARUNO Eri",
+          "KUROI Ransuke"
+        ],
+        "identifier": "savanna-game",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Savanna Game",
+        "url": "https://mangasee123.com/manga/Savanna-Game",
+        "image": "https://cover.nep.li/cover/Savanna-Game.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 48471,
+        "aniId": 78471,
+        "createdAt": "2021-04-07T20:51:48.000Z",
+        "updatedAt": "2021-11-22T08:42:37.000Z",
         "deletedAt": null
       }
     },

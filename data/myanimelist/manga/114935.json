@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://pocket.shonenmagazine.com/episode/13932016480029113187"
+    }
+  ],
   "altTitle": [
     "Torture Club Girls After School",
     "放課後の拷問少女"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:37.000Z",
-  "updatedAt": "2021-05-28T21:55:43.000Z",
+  "updatedAt": "2021-11-21T01:44:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,50 @@
         "aniId": 104263,
         "createdAt": "2020-10-12T16:13:36.000Z",
         "updatedAt": "2021-06-05T22:38:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "houkago-no-goumon-shoujo": {
+        "authors": [
+          "BOKU"
+        ],
+        "identifier": "houkago-no-goumon-shoujo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Houkago no Goumon Shoujo",
+        "url": "https://mangasee123.com/manga/Houkago-no-Goumon-Shoujo",
+        "image": "https://cover.nep.li/cover/Houkago-no-Goumon-Shoujo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114935,
+        "aniId": 104263,
+        "createdAt": "2021-01-11T13:52:02.000Z",
+        "updatedAt": "2021-11-20T17:15:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "houkago_no_goumon_shoujo": {
+        "authors": [
+          "Boku"
+        ],
+        "identifier": "houkago_no_goumon_shoujo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Houkago no Goumon Shoujo",
+        "url": "https://fanfox.net/manga/houkago_no_goumon_shoujo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28658/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114935,
+        "aniId": 104263,
+        "createdAt": "2021-01-29T08:19:39.000Z",
+        "updatedAt": "2021-11-20T18:14:57.000Z",
         "deletedAt": null
       }
     },

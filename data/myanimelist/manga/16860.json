@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:23.000Z",
-  "updatedAt": "2021-10-28T09:46:07.000Z",
+  "updatedAt": "2021-11-27T18:35:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -44,6 +44,50 @@
         "aniId": 46860,
         "createdAt": "2020-10-12T16:02:30.000Z",
         "updatedAt": "2021-06-02T07:14:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "haru-to-natsu": {
+        "authors": [
+          "TAKEDA Sun"
+        ],
+        "identifier": "haru-to-natsu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Haru to Natsu",
+        "url": "https://mangasee123.com/manga/Haru-To-Natsu",
+        "image": "https://cover.nep.li/cover/Haru-To-Natsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16860,
+        "aniId": 46860,
+        "createdAt": "2020-12-18T23:27:02.000Z",
+        "updatedAt": "2021-11-20T15:46:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "haru_to_natsu": {
+        "authors": [
+          "TAKEDA Sun"
+        ],
+        "identifier": "haru_to_natsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Haru to Natsu",
+        "url": "https://fanfox.net/manga/haru_to_natsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6818/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16860,
+        "aniId": 46860,
+        "createdAt": "2021-02-01T09:02:14.000Z",
+        "updatedAt": "2021-11-20T18:14:57.000Z",
         "deletedAt": null
       }
     },

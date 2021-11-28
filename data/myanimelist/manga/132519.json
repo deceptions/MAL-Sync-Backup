@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://shonenjumpplus.com/episode/13933686331779151708"
+    }
+  ],
   "altTitle": [
     "Don't Blush, Sekime-san!",
     "赤面しないで関目さん"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-05T14:27:12.000Z",
-  "updatedAt": "2021-07-27T12:51:48.000Z",
+  "updatedAt": "2021-11-23T12:06:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,50 @@
         "aniId": 127778,
         "createdAt": "2021-01-03T14:50:52.000Z",
         "updatedAt": "2021-06-08T09:31:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "dont-blush-sekime-san": {
+        "authors": [
+          "TOKITA Shigure"
+        ],
+        "identifier": "dont-blush-sekime-san",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Don't Blush, Sekime-san!",
+        "url": "https://mangasee123.com/manga/Dont-Blush-Sekime-san",
+        "image": "https://cover.nep.li/cover/Dont-Blush-Sekime-san.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 132519,
+        "aniId": 127778,
+        "createdAt": "2021-02-13T16:39:56.000Z",
+        "updatedAt": "2021-11-20T18:44:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sekimen_shinaide_sekime_san": {
+        "authors": [
+          "TOKITA Shigure"
+        ],
+        "identifier": "sekimen_shinaide_sekime_san",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sekimen Shinaide Sekime-san",
+        "url": "https://fanfox.net/manga/sekimen_shinaide_sekime_san/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35786/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132519,
+        "aniId": 127778,
+        "createdAt": "2021-03-30T13:01:14.000Z",
+        "updatedAt": "2021-11-20T20:46:00.000Z",
         "deletedAt": null
       }
     },

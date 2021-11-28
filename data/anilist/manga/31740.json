@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-03T19:01:39.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "you_re_so_cool": {
+        "authors": [
+          "Lee Young Hee"
+        ],
+        "identifier": "you_re_so_cool",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "You're So Cool",
+        "url": "https://fanfox.net/manga/you_re_so_cool/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1754/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1740,
+        "aniId": 31740,
+        "createdAt": "2021-05-20T23:15:28.000Z",
+        "updatedAt": "2021-11-20T23:49:30.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -66,6 +66,29 @@
         "updatedAt": "2021-05-28T23:23:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "denjin_n": {
+        "authors": [
+          "KURAISHI Yuu",
+          "TANAKA Kuu"
+        ],
+        "identifier": "denjin_n",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Denjin N",
+        "url": "https://fanfox.net/manga/denjin_n/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36132/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123028,
+        "aniId": 112510,
+        "createdAt": "2021-11-25T23:35:34.000Z",
+        "updatedAt": "2021-11-26T00:05:32.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

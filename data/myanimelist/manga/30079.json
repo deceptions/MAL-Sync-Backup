@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://comic.naver.com/webtoon/list.nhn?titleId=179704"
+    }
+  ],
   "altTitle": [
     "Annarasumanara",
     "안나라수마나라"
@@ -15,7 +20,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:41.000Z",
-  "updatedAt": "2021-05-31T09:34:02.000Z",
+  "updatedAt": "2021-11-24T21:07:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +42,50 @@
         "aniId": 60079,
         "createdAt": "2020-10-12T16:03:06.000Z",
         "updatedAt": "2021-06-02T11:47:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "annarasumanara": {
+        "authors": [
+          "HA Il-Kwon"
+        ],
+        "identifier": "annarasumanara",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Annarasumanara",
+        "url": "https://fanfox.net/manga/annarasumanara/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8458/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30079,
+        "aniId": 60079,
+        "createdAt": "2020-12-21T10:57:38.000Z",
+        "updatedAt": "2021-11-20T16:14:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "annarasumanara": {
+        "authors": [
+          "HA Il-Kwon"
+        ],
+        "identifier": "annarasumanara",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Annarasumanara",
+        "url": "https://mangasee123.com/manga/Annarasumanara",
+        "image": "https://cover.nep.li/cover/Annarasumanara.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30079,
+        "aniId": 60079,
+        "createdAt": "2021-01-09T10:20:41.000Z",
+        "updatedAt": "2021-11-20T17:15:26.000Z",
         "deletedAt": null
       }
     },

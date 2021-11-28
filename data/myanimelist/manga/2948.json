@@ -39,6 +39,28 @@
         "updatedAt": "2021-06-03T11:33:18.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "cynical_orange": {
+        "authors": [
+          "YOON Ji Un"
+        ],
+        "identifier": "cynical_orange",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cynical Orange",
+        "url": "https://fanfox.net/manga/cynical_orange/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/701/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2948,
+        "aniId": 32948,
+        "createdAt": "2021-05-20T22:13:57.000Z",
+        "updatedAt": "2021-11-20T23:14:26.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

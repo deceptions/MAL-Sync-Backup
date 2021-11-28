@@ -42,6 +42,28 @@
         "updatedAt": "2021-06-04T08:58:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "blackout": {
+        "authors": [
+          "KUROI Ransuke"
+        ],
+        "identifier": "blackout",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Blackout",
+        "url": "https://fanfox.net/manga/blackout/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14909/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80429,
+        "aniId": 93014,
+        "createdAt": "2020-12-28T17:32:28.000Z",
+        "updatedAt": "2021-11-20T16:14:07.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

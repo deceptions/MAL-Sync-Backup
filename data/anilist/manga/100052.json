@@ -64,6 +64,50 @@
         "updatedAt": "2021-06-07T22:04:10.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kimi_wa_natsu_no_naka": {
+        "authors": [
+          "FURUYA Nagisa"
+        ],
+        "identifier": "kimi_wa_natsu_no_naka",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi wa Natsu no Naka",
+        "url": "https://fanfox.net/manga/kimi_wa_natsu_no_naka/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26343/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109330,
+        "aniId": 100052,
+        "createdAt": "2021-04-01T12:31:42.000Z",
+        "updatedAt": "2021-11-20T20:46:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ai977543": {
+        "authors": [
+          "Furuya Nagisa"
+        ],
+        "identifier": "manga-ai977543",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kimi Wa Natsu No Naka",
+        "url": "https://manganato.com/manga-ai977543",
+        "image": "https://avt.mkklcdnv6temp.com/44/t/15-1583493269.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109330,
+        "aniId": 100052,
+        "createdAt": "2021-11-24T05:38:21.000Z",
+        "updatedAt": "2021-11-24T06:05:47.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

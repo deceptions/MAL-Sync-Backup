@@ -41,6 +41,28 @@
         "updatedAt": "2021-06-02T19:08:11.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "koori_no_mamono_no_monogatari": {
+        "authors": [
+          "SUGIURA Shiho"
+        ],
+        "identifier": "koori_no_mamono_no_monogatari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koori no Mamono no Monogatari",
+        "url": "https://fanfox.net/manga/koori_no_mamono_no_monogatari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7653/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1982,
+        "aniId": 31982,
+        "createdAt": "2021-04-01T12:33:02.000Z",
+        "updatedAt": "2021-11-20T20:46:01.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

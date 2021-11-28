@@ -44,6 +44,28 @@
         "updatedAt": "2021-06-02T10:50:12.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "q-and-a": {
+        "authors": [
+          "ADACHI Mitsuru"
+        ],
+        "identifier": "q-and-a",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Q and A",
+        "url": "https://mangasee123.com/manga/Q-And-A",
+        "image": "https://cover.nep.li/cover/Q-And-A.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14008,
+        "aniId": 44008,
+        "createdAt": "2021-05-15T16:55:56.000Z",
+        "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

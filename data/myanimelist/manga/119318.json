@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:55.000Z",
-  "updatedAt": "2021-10-09T03:02:52.000Z",
+  "updatedAt": "2021-11-23T18:06:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 110616,
         "createdAt": "2020-10-12T16:14:30.000Z",
         "updatedAt": "2021-06-06T05:38:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-do980423": {
+        "authors": [
+          "Kina Kobayashi"
+        ],
+        "identifier": "manga-do980423",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "About A Guy Who's Been Destroyed From His First Love Being A Pretty Girl",
+        "url": "https://manganato.com/manga-do980423",
+        "image": "https://avt.mkklcdnv6temp.com/28/d/17-1583496269.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119318,
+        "aniId": 110616,
+        "createdAt": "2021-11-23T18:06:07.000Z",
+        "updatedAt": "2021-11-23T18:35:47.000Z",
         "deletedAt": null
       }
     }

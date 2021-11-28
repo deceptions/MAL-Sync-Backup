@@ -12,13 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 142014,
   "createdAt": "2021-05-29T14:43:14.000Z",
-  "updatedAt": "2021-05-29T14:43:14.000Z",
+  "updatedAt": "2021-11-24T17:37:59.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Clairvoyant Doctor",
+      "透视仙医"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hei Cha Bo Jue",
+      "Da Xingdao  Dongman",
+      "Zi You Yi Yan",
+      "Mao Pi Shizi Mao"
+    ],
+    "id": 142014,
+    "malId": null,
+    "type": "manga",
+    "title": "Tou Shi Xian Yi",
+    "url": "https://anilist.co/manga/142014",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b142014-VbD5nlLDVUXo.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-23T17:35:48.000Z",
+    "updatedAt": "2021-11-23T17:35:48.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

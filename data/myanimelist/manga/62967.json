@@ -60,6 +60,28 @@
         "updatedAt": "2021-06-03T23:13:29.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "iron-knight": {
+        "authors": [
+          "YAGI Tomohiro"
+        ],
+        "identifier": "iron-knight",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Iron Knight",
+        "url": "https://mangasee123.com/manga/Iron-Knight",
+        "image": "https://cover.nep.li/cover/Iron-Knight.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 62967,
+        "aniId": 85222,
+        "createdAt": "2021-03-27T02:49:35.000Z",
+        "updatedAt": "2021-11-20T20:45:59.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

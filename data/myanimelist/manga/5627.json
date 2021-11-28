@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:06.000Z",
-  "updatedAt": "2021-10-21T06:42:43.000Z",
+  "updatedAt": "2021-11-24T17:38:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -44,6 +44,29 @@
         "aniId": 35627,
         "createdAt": "2020-10-12T16:02:40.000Z",
         "updatedAt": "2021-06-02T08:40:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "bloody-monday": {
+        "authors": [
+          "MEGUMI Kouji",
+          "RYUUMON Ryou"
+        ],
+        "identifier": "bloody-monday",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bloody Monday",
+        "url": "https://mangasee123.com/manga/Bloody-Monday",
+        "image": "https://cover.nep.li/cover/Bloody-Monday.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5627,
+        "aniId": 35627,
+        "createdAt": "2021-01-28T03:12:18.000Z",
+        "updatedAt": "2021-11-20T17:45:39.000Z",
         "deletedAt": null
       }
     }

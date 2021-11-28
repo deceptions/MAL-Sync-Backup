@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-02T23:03:53.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "boku_wa_hajikko_ga_suki": {
+        "authors": [
+          "WAKAI Ken"
+        ],
+        "identifier": "boku_wa_hajikko_ga_suki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Boku wa Hajikko ga Suki",
+        "url": "https://fanfox.net/manga/boku_wa_hajikko_ga_suki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10649/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32201,
+        "aniId": 62201,
+        "createdAt": "2021-01-27T09:10:27.000Z",
+        "updatedAt": "2021-11-20T17:45:39.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

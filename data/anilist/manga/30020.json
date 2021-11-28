@@ -56,6 +56,51 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "hikaru-no-go": {
+        "authors": [
+          "HOTTA Yumi",
+          "OBATA Takeshi"
+        ],
+        "identifier": "hikaru-no-go",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hikaru no Go",
+        "url": "https://mangasee123.com/manga/Hikaru-No-Go",
+        "image": "https://cover.nep.li/cover/Hikaru-No-Go.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20,
+        "aniId": 30020,
+        "createdAt": "2020-12-17T13:56:17.000Z",
+        "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hikaru_no_go": {
+        "authors": [
+          "HOTTA Yumi"
+        ],
+        "identifier": "hikaru_no_go",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hikaru no Go",
+        "url": "https://fanfox.net/manga/hikaru_no_go/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/224/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20,
+        "aniId": 30020,
+        "createdAt": "2021-04-01T12:30:52.000Z",
+        "updatedAt": "2021-11-20T20:46:01.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-jj957544": {
         "authors": [

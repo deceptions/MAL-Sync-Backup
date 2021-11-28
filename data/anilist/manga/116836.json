@@ -42,6 +42,51 @@
         "updatedAt": "2021-06-08T02:34:16.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "shaman-king-marcos": {
+        "authors": [
+          "JET kusamura",
+          "TAKEI Hiroyuki"
+        ],
+        "identifier": "shaman-king-marcos",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shaman King: Marcos",
+        "url": "https://mangasee123.com/manga/Shaman-King-Marcos",
+        "image": "https://cover.nep.li/cover/Shaman-King-Marcos.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125731,
+        "aniId": 116836,
+        "createdAt": "2021-03-30T16:31:20.000Z",
+        "updatedAt": "2021-11-20T20:46:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "shaman_king_marcos": {
+        "authors": [
+          "TAKEI Hiroyuki"
+        ],
+        "identifier": "shaman_king_marcos",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shaman King: Marcos",
+        "url": "https://fanfox.net/manga/shaman_king_marcos/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35680/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125731,
+        "aniId": 116836,
+        "createdAt": "2021-04-25T08:57:12.000Z",
+        "updatedAt": "2021-11-20T21:48:18.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

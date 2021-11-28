@@ -1,7 +1,7 @@
 {
   "authors": [
-    "KIM Mungyeong",
-    "GONG I"
+    "GONG I",
+    "Kim Mungyeong"
   ],
   "identifier": "35aa7c2d-dc2b-4680-a1e1-57a65d39fb15",
   "type": "manga",
@@ -12,54 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 11280,
-  "aniId": 41280,
+  "actor": 1,
+  "malId": null,
+  "aniId": 114666,
   "createdAt": "2020-10-12T16:18:14.000Z",
-  "updatedAt": "2021-06-07T14:57:10.000Z",
+  "updatedAt": "2021-11-25T15:33:12.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": null,
-    "altTitle": [
-      "Lost Universe",
-      "ロスト・ユニバース"
-    ],
-    "authors": [
-      "Kanzaka, Hajime",
-      "Yoshinaka, Shouko"
-    ],
-    "id": 11280,
-    "type": "manga",
-    "title": "Lost Universe",
-    "url": "https://myanimelist.net/manga/11280/Lost_Universe",
-    "image": "https://cdn.myanimelist.net/images/manga/2/37538.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:32.000Z",
-    "updatedAt": "2021-06-02T00:31:26.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "Lost Universe",
-      "ロスト・ユニバース"
+      "My Universe",
+      "나의 우주",
+      "My universe"
     ],
     "externalLinks": [],
     "authors": [
-      "Hajime Kanzaka",
-      "Shoko Yoshinaka"
+      "Mun Gyeong Kim",
+      "Yi Gong"
     ],
-    "id": 41280,
-    "malId": 11280,
+    "id": 114666,
+    "malId": null,
     "type": "manga",
-    "title": "Lost Universe",
-    "url": "https://anilist.co/manga/41280",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11280.jpg",
+    "title": "Naui Uju",
+    "url": "https://anilist.co/manga/114666",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b114666-sbEJkQYCi0Fm.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:41:16.000Z",
-    "updatedAt": "2021-06-17T13:48:38.000Z",
+    "createdAt": "2021-06-07T15:05:50.000Z",
+    "updatedAt": "2021-11-15T07:43:45.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/11280/Lost_Universe"
+  "malUrl": ""
 }
