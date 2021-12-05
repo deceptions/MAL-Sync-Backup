@@ -13,14 +13,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 96100,
   "aniId": null,
   "createdAt": "2020-10-12T16:08:26.000Z",
-  "updatedAt": "2021-06-04T12:51:41.000Z",
+  "updatedAt": "2021-12-04T13:20:07.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%AE%E3%82%BB%E3%83%A9%E3%83%95"
+      }
+    ],
     "altTitle": [
       "Serapetit! \"Seraph of the End\" four-frame manga",
       "Serapuchi",
@@ -37,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-04T10:21:20.000Z",
-    "updatedAt": "2021-06-04T10:21:20.000Z",
+    "updatedAt": "2021-12-04T10:51:08.000Z",
     "deletedAt": null
   },
   "Anilist": null,

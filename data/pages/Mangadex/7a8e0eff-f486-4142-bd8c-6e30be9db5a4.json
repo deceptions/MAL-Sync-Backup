@@ -15,10 +15,19 @@
   "malId": 6784,
   "aniId": 36784,
   "createdAt": "2020-10-12T16:05:26.000Z",
-  "updatedAt": "2021-06-03T12:37:08.000Z",
+  "updatedAt": "2021-12-03T12:48:48.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.techgian.jp/official/oppaidaisuki/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/魔乳秘剣帖"
+      }
+    ],
     "altTitle": [
       "魔乳秘剣帖"
     ],
@@ -33,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:11.000Z",
-    "updatedAt": "2021-05-29T09:12:14.000Z",
+    "updatedAt": "2021-11-29T09:35:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

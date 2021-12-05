@@ -15,10 +15,19 @@
   "malId": 5655,
   "aniId": 35655,
   "createdAt": "2020-10-12T16:03:30.000Z",
-  "updatedAt": "2021-06-02T14:24:52.000Z",
+  "updatedAt": "2021-12-02T14:48:48.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ikki-para.com/comix/kaijunokodomo.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%B5%B7%E7%8D%A3%E3%81%AE%E5%AD%90%E4%BE%9B"
+      }
+    ],
     "altTitle": [
       "Children of the Sea",
       "The Sea Monster's Children",
@@ -35,7 +44,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:07.000Z",
-    "updatedAt": "2021-07-04T18:00:03.000Z",
+    "updatedAt": "2021-12-01T11:36:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

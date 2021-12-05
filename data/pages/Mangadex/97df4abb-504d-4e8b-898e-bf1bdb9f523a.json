@@ -15,12 +15,22 @@
   "malId": 63169,
   "aniId": 85295,
   "createdAt": "2020-10-12T16:06:47.000Z",
-  "updatedAt": "2021-06-03T22:05:19.000Z",
+  "updatedAt": "2021-12-03T22:21:29.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.famitsu.com/comic_clear/se_kancolle/index.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E8%89%A6%E9%9A%8A%E3%81%93%E3%82%8C%E3%81%8F%E3%81%97%E3%82%87%E3%82%93_-%E8%89%A6%E3%81%93%E3%82%8C-"
+      }
+    ],
     "altTitle": [
-      "KanColle, Kankore",
+      "KanColle",
+      "Kankore",
       "艦隊これくしょん -艦これ- 4コマコミック 吹雪、がんばります!"
     ],
     "authors": [
@@ -34,7 +44,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:04.000Z",
-    "updatedAt": "2021-06-04T13:19:37.000Z",
+    "updatedAt": "2021-12-04T13:49:37.000Z",
     "deletedAt": null
   },
   "Anilist": {

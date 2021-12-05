@@ -15,10 +15,15 @@
   "malId": 4444,
   "aniId": 34444,
   "createdAt": "2021-05-28T15:24:49.000Z",
-  "updatedAt": "2021-05-28T15:53:46.000Z",
+  "updatedAt": "2021-11-28T16:05:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Rokudenashi_Blues"
+      }
+    ],
     "altTitle": [
       "Good-For-Nothing Blues",
       "ろくでなしBLUES"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:59.000Z",
-    "updatedAt": "2021-05-28T15:24:48.000Z",
+    "updatedAt": "2021-11-28T15:36:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

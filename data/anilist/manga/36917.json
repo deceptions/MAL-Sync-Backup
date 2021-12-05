@@ -37,7 +37,7 @@
         "malId": 6917,
         "aniId": 36917,
         "createdAt": "2020-10-12T16:04:56.000Z",
-        "updatedAt": "2021-06-03T00:33:13.000Z",
+        "updatedAt": "2021-12-03T00:49:17.000Z",
         "deletedAt": null
       }
     },
@@ -60,6 +60,28 @@
         "aniId": 36917,
         "createdAt": "2021-06-21T16:47:43.000Z",
         "updatedAt": "2021-06-21T17:14:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sinna_1905": {
+        "authors": [
+          "KITOH Mohiro"
+        ],
+        "identifier": "sinna_1905",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "SiNNa 1905",
+        "url": "https://fanfox.net/manga/sinna_1905/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4754/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6917,
+        "aniId": 36917,
+        "createdAt": "2021-12-01T02:06:08.000Z",
+        "updatedAt": "2021-12-01T02:35:34.000Z",
         "deletedAt": null
       }
     }

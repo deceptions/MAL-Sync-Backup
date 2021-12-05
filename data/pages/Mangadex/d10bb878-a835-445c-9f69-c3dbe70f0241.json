@@ -15,12 +15,17 @@
   "malId": 94110,
   "aniId": 86652,
   "createdAt": "2020-10-12T16:09:09.000Z",
-  "updatedAt": "2021-06-04T15:28:58.000Z",
+  "updatedAt": "2021-12-04T15:52:29.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%83%95%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2"
+      }
+    ],
     "altTitle": [
-      "My Hero Academia Smash!",
+      "My Hero Academia: Smash!!",
       "僕のヒーローアカデミアすまっしゅ!!"
     ],
     "authors": [
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:46:19.000Z",
-    "updatedAt": "2021-06-17T16:59:41.000Z",
+    "updatedAt": "2021-12-02T15:16:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

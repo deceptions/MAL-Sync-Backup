@@ -15,13 +15,21 @@
   "malId": 3048,
   "aniId": 33048,
   "createdAt": "2021-06-01T01:23:47.000Z",
-  "updatedAt": "2021-06-01T01:52:54.000Z",
+  "updatedAt": "2021-12-01T02:14:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kc.kodansha.co.jp/kiss_sis/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/Kiss%C3%97sis"
+      }
+    ],
     "altTitle": [
-      "Kissxsis",
-      "キス×シス"
+      "kiss×sis"
     ],
     "authors": [
       "Ditama, Bow"
@@ -34,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:47.000Z",
-    "updatedAt": "2021-06-01T01:23:47.000Z",
+    "updatedAt": "2021-12-01T01:35:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

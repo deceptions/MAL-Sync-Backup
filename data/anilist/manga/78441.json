@@ -26,8 +26,8 @@
     "Mangadex": {
       "67068fbd-0d07-48a5-a5e6-82e2b53d5c26": {
         "authors": [
-          "Suga Kyosuke",
-          "Spike Chunsoft"
+          "Spike Chunsoft",
+          "Suga Kyosuke"
         ],
         "identifier": "67068fbd-0d07-48a5-a5e6-82e2b53d5c26",
         "type": "manga",
@@ -42,27 +42,27 @@
         "malId": 48441,
         "aniId": 78441,
         "createdAt": "2020-10-12T16:06:00.000Z",
-        "updatedAt": "2021-06-03T16:27:59.000Z",
+        "updatedAt": "2021-12-03T16:50:28.000Z",
         "deletedAt": null
       },
       "2afa0331-8e5d-4847-b929-e19a7c15d274": {
         "authors": [
+          "Spike Chunsoft",
+          "Kani",
           "Lala",
-          "Watarizora Tsubamemaru",
           "Mago",
+          "Watarizora Tsubamemaru",
           "Neko Gin",
-          "Akizuki Shou",
           "Mochizuki Kozuomi",
           "Nimoyashi",
           "Aiko",
-          "Tonami Minato",
           "Tomo",
+          "Tonami Minato",
+          "Akizuki Shou",
           "Satoimo",
           "Secco",
-          "Kani",
           "Shirataki Nako",
           "Mizugaki Tama",
-          "Spike Chunsoft",
           "Takahara Yu",
           "Taira Kosaka"
         ],
@@ -79,7 +79,7 @@
         "malId": 48441,
         "aniId": 78441,
         "createdAt": "2020-10-12T16:09:59.000Z",
-        "updatedAt": "2021-06-04T21:31:49.000Z",
+        "updatedAt": "2021-12-04T21:52:33.000Z",
         "deletedAt": null
       },
       "478c5810-6998-4ebf-9756-52de64658be0": {
@@ -103,6 +103,29 @@
         "aniId": 78441,
         "createdAt": "2020-10-12T16:19:12.000Z",
         "updatedAt": "2021-06-07T21:29:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "danganronpa-2---ultimate-luck-and-hope-and-despair": {
+        "authors": [
+          "Spike Chunsoft",
+          "SUGA Kyosuke"
+        ],
+        "identifier": "danganronpa-2---ultimate-luck-and-hope-and-despair",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Danganronpa 2 - Ultimate Luck And Hope And Despair",
+        "url": "https://mangasee123.com/manga/Danganronpa-2---Ultimate-Luck-And-Hope-And-Despair",
+        "image": "https://cover.nep.li/cover/Danganronpa-2---Ultimate-Luck-And-Hope-And-Despair.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48441,
+        "aniId": 78441,
+        "createdAt": "2021-05-23T00:43:40.000Z",
+        "updatedAt": "2021-11-23T01:35:48.000Z",
         "deletedAt": null
       }
     },

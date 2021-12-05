@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%2BC_sword_and_cornett"
+    }
+  ],
   "altTitle": [
     "Plus-si: Sword and Cornett",
     "+C sword and cornett"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:49.000Z",
-  "updatedAt": "2021-06-29T10:06:54.000Z",
+  "updatedAt": "2021-12-03T03:16:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,7 +41,7 @@
         "malId": 12922,
         "aniId": 42922,
         "createdAt": "2020-10-12T16:03:44.000Z",
-        "updatedAt": "2021-06-02T16:10:31.000Z",
+        "updatedAt": "2021-12-02T16:17:37.000Z",
         "deletedAt": null
       },
       "0e3a2b27-be66-4af3-8cb6-d267fc920ea3": {
@@ -102,6 +107,28 @@
         "aniId": 42922,
         "createdAt": "2021-06-29T10:06:51.000Z",
         "updatedAt": "2021-06-29T10:19:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kc952385": {
+        "authors": [
+          "Yugyoji Tama"
+        ],
+        "identifier": "manga-kc952385",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "+C: Sword And Cornett",
+        "url": "https://manganato.com/manga-kc952385",
+        "image": "https://avt.mkklcdnv6temp.com/37/m/1-1583465170.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12922,
+        "aniId": 42922,
+        "createdAt": "2021-12-03T03:16:38.000Z",
+        "updatedAt": "2021-12-03T03:46:05.000Z",
         "deletedAt": null
       }
     }

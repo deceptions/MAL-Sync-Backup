@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%81%E3%83%B3%E3%83%97%E3%82%A4"
+    }
+  ],
   "altTitle": [
     "チンプイ"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-05T01:50:10.000Z",
-  "updatedAt": "2021-06-05T01:50:10.000Z",
+  "updatedAt": "2021-11-29T14:36:23.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +41,28 @@
         "aniId": 72177,
         "createdAt": "2020-10-12T16:10:32.000Z",
         "updatedAt": "2021-06-05T08:48:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nj965166": {
+        "authors": [
+          "Fujiko F. Fujio"
+        ],
+        "identifier": "manga-nj965166",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Chinpui",
+        "url": "https://manganato.com/manga-nj965166",
+        "image": "https://avt.mkklcdnv6temp.com/4/k/10-1583482335.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42177,
+        "aniId": 72177,
+        "createdAt": "2021-11-29T14:36:11.000Z",
+        "updatedAt": "2021-11-29T15:05:32.000Z",
         "deletedAt": null
       }
     }

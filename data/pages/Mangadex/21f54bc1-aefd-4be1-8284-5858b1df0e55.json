@@ -15,10 +15,15 @@
   "malId": 375,
   "aniId": 30375,
   "createdAt": "2020-10-12T16:03:56.000Z",
-  "updatedAt": "2021-06-02T17:35:32.000Z",
+  "updatedAt": "2021-12-02T17:50:49.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%A0%AD%E6%96%87%E5%AD%97D"
+      }
+    ],
     "altTitle": [
       "Initial D",
       "Kashiramoji D",
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:21.000Z",
-    "updatedAt": "2021-06-03T03:01:22.000Z",
+    "updatedAt": "2021-11-28T22:06:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

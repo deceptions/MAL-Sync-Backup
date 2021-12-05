@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Yamazaki Mari",
-    "Walter Isaacson"
+    "Walter Isaacson",
+    "Yamazaki Mari"
   ],
   "identifier": "e5672ba4-d39c-46b6-ac1d-0df9cdeca86a",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 49635,
   "aniId": 79635,
   "createdAt": "2020-10-12T16:08:33.000Z",
-  "updatedAt": "2021-06-04T12:52:13.000Z",
+  "updatedAt": "2021-12-04T13:20:38.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA_(%E6%9B%B8%E7%B1%8D)"
+      }
+    ],
     "altTitle": [
       "スティーブ・ジョブズ"
     ],
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-04T11:21:19.000Z",
-    "updatedAt": "2021-06-04T11:21:19.000Z",
+    "updatedAt": "2021-12-04T11:50:59.000Z",
     "deletedAt": null
   },
   "Anilist": {

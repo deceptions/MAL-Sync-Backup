@@ -36,7 +36,29 @@
         "malId": 55369,
         "aniId": 85586,
         "createdAt": "2020-10-12T16:06:35.000Z",
-        "updatedAt": "2021-06-03T20:39:49.000Z",
+        "updatedAt": "2021-12-03T20:48:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kare_kano_hajimemashita": {
+        "authors": [
+          "MOMOI Sumire"
+        ],
+        "identifier": "kare_kano_hajimemashita",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kare Kano Hajimemashita",
+        "url": "https://fanfox.net/manga/kare_kano_hajimemashita/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12783/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55369,
+        "aniId": 85586,
+        "createdAt": "2021-11-29T11:35:54.000Z",
+        "updatedAt": "2021-11-29T12:05:32.000Z",
         "deletedAt": null
       }
     }

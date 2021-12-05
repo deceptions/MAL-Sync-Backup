@@ -1,8 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A2%E3%83%B3%E3%82%BA%E3%83%97%E3%83%A9%E3%83%B3"
+    }
+  ],
   "altTitle": [
     "Demon's Plan",
-    "Nigashi-ya, Brain Breaker",
+    "Nigashi-ya",
+    "Brain Breaker",
     "デモンズプラン"
   ],
   "authors": [
@@ -16,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:46.000Z",
-  "updatedAt": "2021-06-04T23:49:09.000Z",
+  "updatedAt": "2021-11-29T00:06:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,7 +43,7 @@
         "malId": 102652,
         "aniId": 98083,
         "createdAt": "2020-10-12T16:10:16.000Z",
-        "updatedAt": "2021-06-04T23:49:19.000Z",
+        "updatedAt": "2021-12-05T00:20:00.000Z",
         "deletedAt": null
       }
     },
@@ -60,6 +66,28 @@
         "aniId": 98083,
         "createdAt": "2021-05-08T16:48:43.000Z",
         "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "demons-plan": {
+        "authors": [
+          "OKAMOTO Yoshimichi"
+        ],
+        "identifier": "demons-plan",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Demon's Plan",
+        "url": "https://mangasee123.com/manga/Demons-Plan",
+        "image": "https://cover.nep.li/cover/Demons-Plan.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102652,
+        "aniId": 98083,
+        "createdAt": "2021-11-29T00:05:50.000Z",
+        "updatedAt": "2021-11-29T00:35:32.000Z",
         "deletedAt": null
       }
     }

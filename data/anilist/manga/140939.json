@@ -7,7 +7,7 @@
     "Hinata Nakamura"
   ],
   "id": 140939,
-  "malId": null,
+  "malId": 141784,
   "type": "manga",
   "title": "Kokoro no Program",
   "url": "https://anilist.co/manga/140939",
@@ -15,7 +15,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-10-30T18:34:20.000Z",
-  "updatedAt": "2021-10-30T18:34:20.000Z",
+  "updatedAt": "2021-12-04T12:16:06.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "e76f1a4f-d21a-4f50-9472-45737f7f1480": {
+        "authors": [
+          "Nakamura Hinata"
+        ],
+        "identifier": "e76f1a4f-d21a-4f50-9472-45737f7f1480",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kokoro no Program",
+        "url": "https://mangadex.org/title/e76f1a4f-d21a-4f50-9472-45737f7f1480",
+        "image": "https://uploads.mangadex.org/covers/e76f1a4f-d21a-4f50-9472-45737f7f1480/e59c65fe-074f-4b23-86b7-ff5893e165be.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141784,
+        "aniId": 140939,
+        "createdAt": "2021-12-04T03:16:26.000Z",
+        "updatedAt": "2021-12-04T12:46:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

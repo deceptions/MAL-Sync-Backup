@@ -16,10 +16,19 @@
   "malId": 118508,
   "aniId": 103635,
   "createdAt": "2021-05-31T09:47:43.000Z",
-  "updatedAt": "2021-05-31T10:00:42.000Z",
+  "updatedAt": "2021-12-01T00:14:20.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://page.kakao.com/home?seriesId=48704250"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EA%B9%80%EB%B9%84%EC%84%9C%EA%B0%80_%EC%99%9C_%EA%B7%B8%EB%9F%B4%EA%B9%8C"
+      }
+    ],
     "altTitle": [
       "What's Wrong with Secretary Kim?",
       "Kim Biseoga Wae Geureolkka",
@@ -37,7 +46,7 @@
     "category": "Manhwa",
     "hentai": false,
     "createdAt": "2021-03-30T06:01:11.000Z",
-    "updatedAt": "2021-05-31T09:47:43.000Z",
+    "updatedAt": "2021-12-01T03:09:30.000Z",
     "deletedAt": null
   },
   "Anilist": {

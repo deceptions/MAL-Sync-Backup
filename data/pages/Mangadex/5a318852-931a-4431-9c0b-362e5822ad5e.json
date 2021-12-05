@@ -15,12 +15,19 @@
   "malId": 9798,
   "aniId": 39798,
   "createdAt": "2020-10-12T16:07:15.000Z",
-  "updatedAt": "2021-06-04T08:50:58.000Z",
+  "updatedAt": "2021-12-04T09:17:30.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.geocities.co.jp/Playtown/9318/"
+      }
+    ],
     "altTitle": [
-      "Kerokero Chime, Kero Kero Chaimu, ケロケロちゃいむ",
+      "Kerokero Chime",
+      "Kero Kero Chaimu",
+      "ケロケロちゃいむ",
       "ケロケロちゃいむ"
     ],
     "authors": [
@@ -34,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:25.000Z",
-    "updatedAt": "2021-06-04T01:50:10.000Z",
+    "updatedAt": "2021-12-04T02:17:26.000Z",
     "deletedAt": null
   },
   "Anilist": {

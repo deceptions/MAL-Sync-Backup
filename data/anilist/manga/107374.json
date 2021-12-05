@@ -17,5 +17,28 @@
   "createdAt": "2021-06-13T09:08:29.000Z",
   "updatedAt": "2021-06-18T05:27:53.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-dt981076": {
+        "authors": [
+          "Yuu Yoshinaga"
+        ],
+        "identifier": "manga-dt981076",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mirai No Danna-Sama",
+        "url": "https://manganato.com/manga-dt981076",
+        "image": "https://avt.mkklcdnv6temp.com/1/s/17-1583497139.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121741,
+        "aniId": 107374,
+        "createdAt": "2021-12-03T03:16:48.000Z",
+        "updatedAt": "2021-12-03T03:46:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

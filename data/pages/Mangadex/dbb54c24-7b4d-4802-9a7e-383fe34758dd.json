@@ -16,10 +16,19 @@
   "malId": 19478,
   "aniId": 49478,
   "createdAt": "2020-10-12T16:04:26.000Z",
-  "updatedAt": "2021-06-02T21:02:01.000Z",
+  "updatedAt": "2021-12-02T21:17:28.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.square-enix.co.jp/magazine/yg/introduction/eve/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B4%E3%81%AE%E6%99%82%E9%96%93"
+      }
+    ],
     "altTitle": [
       "Time of Eve",
       "イヴの時間"
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:42:44.000Z",
-    "updatedAt": "2021-06-03T12:19:17.000Z",
+    "updatedAt": "2021-12-03T12:46:56.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9F%9A%E5%AD%90%E3%83%9A%E3%83%91%E3%83%BC%E3%83%9F%E3%83%B3%E3%83%88"
+    }
+  ],
   "altTitle": [
     "Peppermint Yuzuko",
     "柚子ペパーミント"
@@ -16,14 +21,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:22.000Z",
-  "updatedAt": "2021-06-02T03:01:48.000Z",
+  "updatedAt": "2021-12-02T03:17:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "ac160d9a-f047-418a-8e27-ebed2b9e5097": {
         "authors": [
-          "Gotsubo Masaru",
-          "Sato Dai"
+          "Sato Dai",
+          "Gotsubo Masaru"
         ],
         "identifier": "ac160d9a-f047-418a-8e27-ebed2b9e5097",
         "type": "manga",
@@ -38,30 +43,7 @@
         "malId": 16499,
         "aniId": 46499,
         "createdAt": "2020-10-12T16:08:55.000Z",
-        "updatedAt": "2021-06-04T13:41:18.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "yuzuko-peppermint": {
-        "authors": [
-          "GOTSUBO Masaru",
-          "SATO Dai"
-        ],
-        "identifier": "yuzuko-peppermint",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Yuzuko Peppermint",
-        "url": "https://mangasee123.com/manga/Yuzuko-Peppermint",
-        "image": "https://cover.nep.li/cover/Yuzuko-Peppermint.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 16499,
-        "aniId": 46499,
-        "createdAt": "2021-06-02T03:01:49.000Z",
-        "updatedAt": "2021-06-02T03:31:16.000Z",
+        "updatedAt": "2021-12-04T13:54:10.000Z",
         "deletedAt": null
       }
     }

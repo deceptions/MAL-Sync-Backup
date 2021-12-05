@@ -7,14 +7,61 @@
   "image": "https://static.bunnycdn.ru/i/cache/images/9/96/9609ec0a79cddeb3ccc6cdb152cf554e.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 50462,
+  "aniId": 141950,
   "createdAt": "2021-11-24T17:36:28.000Z",
-  "updatedAt": "2021-11-24T17:36:28.000Z",
+  "updatedAt": "2021-12-03T00:46:05.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/video/BV1iK4y187Th"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16760"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://movie.douban.com/subject/35206440/"
+      }
+    ],
+    "altTitle": [
+      "False Memory",
+      "记忆管理局"
+    ],
+    "id": 50462,
+    "type": "anime",
+    "title": "Jiyi Guanli Ju",
+    "url": "https://myanimelist.net/anime/50462/Jiyi_Guanli_Ju",
+    "image": "https://cdn.myanimelist.net/images/anime/1297/119667.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "anidbId": 16760,
+    "createdAt": "2021-12-01T12:48:38.000Z",
+    "updatedAt": "2021-12-01T12:48:38.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "False Memory",
+      "记忆管理局"
+    ],
+    "externalLinks": [],
+    "id": 141950,
+    "malId": 50462,
+    "type": "anime",
+    "title": "Jiyi Guanli Ju",
+    "url": "https://anilist.co/anime/141950",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141950-aidSI0RogZCE.jpg",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-11-22T08:42:37.000Z",
+    "updatedAt": "2021-12-03T00:16:05.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/50462/Jiyi_Guanli_Ju"
 }

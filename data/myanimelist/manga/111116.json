@@ -25,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:21.000Z",
-  "updatedAt": "2021-10-08T05:03:32.000Z",
+  "updatedAt": "2021-11-28T11:06:24.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -89,6 +89,28 @@
         "aniId": 100554,
         "createdAt": "2021-10-08T05:02:40.000Z",
         "updatedAt": "2021-10-08T05:32:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "naze_da_naitou": {
+        "authors": [
+          "AKANO Kinoko"
+        ],
+        "identifier": "naze_da_naitou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Naze da Naitou",
+        "url": "https://fanfox.net/manga/naze_da_naitou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26729/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111116,
+        "aniId": 100554,
+        "createdAt": "2021-11-28T11:05:32.000Z",
+        "updatedAt": "2021-11-28T11:35:32.000Z",
         "deletedAt": null
       }
     }

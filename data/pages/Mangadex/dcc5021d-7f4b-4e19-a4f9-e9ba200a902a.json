@@ -11,13 +11,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 35119,
+  "aniId": 65119,
   "createdAt": "2020-10-12T16:04:03.000Z",
-  "updatedAt": "2021-06-02T18:20:03.000Z",
+  "updatedAt": "2021-12-03T20:16:05.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Albox: Eien wo Kaetara",
+      "Albox - Eien o Kaetara",
+      "ALBOX ～永遠【トワ】を買えたら～"
+    ],
+    "authors": [
+      "Fujiwara, Rika"
+    ],
+    "id": 35119,
+    "type": "manga",
+    "title": "Albox: Towa wo Kaetara",
+    "url": "https://myanimelist.net/manga/35119/Albox__Towa_wo_Kaetara",
+    "image": "https://cdn.myanimelist.net/images/manga/1/84353.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:43:57.000Z",
+    "updatedAt": "2021-11-05T14:35:50.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ALBOX ～永遠【トワ】を買えたら～",
+      "Albox: Eien wo Kaetara",
+      "Albox - Eien o Kaetara"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Rika Hanei"
+    ],
+    "id": 65119,
+    "malId": 35119,
+    "type": "manga",
+    "title": "Albox: Towa wo Kaetara",
+    "url": "https://anilist.co/manga/65119",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/35119.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-15T09:43:57.000Z",
+    "updatedAt": "2021-11-15T09:43:57.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/35119/Albox__Towa_wo_Kaetara"
 }

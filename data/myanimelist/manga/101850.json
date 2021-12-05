@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://j-nbooks.jp/comic/original.php?oKey=69"
+    }
+  ],
   "altTitle": [
     "人間に恋した鬼は咲〈わら〉う"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:43.000Z",
-  "updatedAt": "2021-06-01T18:31:19.000Z",
+  "updatedAt": "2021-12-01T18:47:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,28 +63,6 @@
         "aniId": 101717,
         "createdAt": "2021-04-30T11:51:13.000Z",
         "updatedAt": "2021-11-20T22:22:04.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-zn977270": {
-        "authors": [
-          "Yukimori Nene"
-        ],
-        "identifier": "manga-zn977270",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Ningen Ni Koi Shita Oni Wa Warau",
-        "url": "https://manganato.com/manga-zn977270",
-        "image": "https://avt.mkklcdnv6temp.com/39/l/15-1583492989.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 101850,
-        "aniId": 101717,
-        "createdAt": "2021-06-01T18:31:19.000Z",
-        "updatedAt": "2021-06-01T19:01:16.000Z",
         "deletedAt": null
       }
     }

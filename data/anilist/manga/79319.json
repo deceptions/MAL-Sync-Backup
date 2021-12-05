@@ -24,8 +24,8 @@
     "Mangadex": {
       "fb45bda2-a387-475a-b0d6-18eeed806391": {
         "authors": [
-          "Ogaki Rokurou",
-          "Shiina Takashi"
+          "Shiina Takashi",
+          "Ogaki Rokurou"
         ],
         "identifier": "fb45bda2-a387-475a-b0d6-18eeed806391",
         "type": "manga",
@@ -40,7 +40,7 @@
         "malId": 49319,
         "aniId": 79319,
         "createdAt": "2020-10-12T16:06:25.000Z",
-        "updatedAt": "2021-06-03T19:35:50.000Z",
+        "updatedAt": "2021-12-03T19:47:48.000Z",
         "deletedAt": null
       }
     },
@@ -87,6 +87,26 @@
         "aniId": 79319,
         "createdAt": "2021-11-24T19:06:35.000Z",
         "updatedAt": "2021-11-24T19:35:31.000Z",
+        "deletedAt": null
+      },
+      "manga-yz975908": {
+        "authors": [
+          "Shiina Takashi"
+        ],
+        "identifier": "manga-yz975908",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Zettai Karen Children: The Unlimited - Hyoubu Kyousuke",
+        "url": "https://readmanganato.com/manga-yz975908",
+        "image": "https://avt.mkklcdnv6temp.com/18/q/15-1583492134.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 49319,
+        "aniId": 79319,
+        "createdAt": "2021-11-29T07:05:33.000Z",
+        "updatedAt": "2021-11-29T11:05:32.000Z",
         "deletedAt": null
       }
     }

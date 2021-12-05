@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Ikeda Sakura",
-    "Fushimi Tsukasa"
+    "Fushimi Tsukasa",
+    "Ikeda Sakura"
   ],
   "identifier": "a4f8ace2-33cf-40e1-806d-4d6e26d7ac25",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 26085,
   "aniId": 56085,
   "createdAt": "2020-10-12T16:02:35.000Z",
-  "updatedAt": "2021-06-02T08:07:08.000Z",
+  "updatedAt": "2021-12-02T08:18:19.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E4%BF%BA%E3%81%AE%E5%A6%B9%E3%81%8C%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E5%8F%AF%E6%84%9B%E3%81%84%E3%82%8F%E3%81%91%E3%81%8C%E3%81%AA%E3%81%84"
+      }
+    ],
     "altTitle": [
       "Oreimo: Kuroneko",
       "My Underclassmen Can't Be This Cute",
@@ -38,7 +43,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:24.000Z",
-    "updatedAt": "2021-06-12T17:09:48.000Z",
+    "updatedAt": "2021-12-02T04:16:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:21.000Z",
-  "updatedAt": "2021-10-04T18:32:19.000Z",
+  "updatedAt": "2021-12-04T01:46:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,6 +64,28 @@
         "aniId": 108551,
         "createdAt": "2021-06-27T02:49:30.000Z",
         "updatedAt": "2021-06-27T03:19:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mystery_to_iunakare": {
+        "authors": [
+          "TAMURA Yumi"
+        ],
+        "identifier": "mystery_to_iunakare",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mystery to Iunakare",
+        "url": "https://fanfox.net/manga/mystery_to_iunakare/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31437/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111229,
+        "aniId": 108551,
+        "createdAt": "2021-12-04T01:46:27.000Z",
+        "updatedAt": "2021-12-04T02:16:05.000Z",
         "deletedAt": null
       }
     }

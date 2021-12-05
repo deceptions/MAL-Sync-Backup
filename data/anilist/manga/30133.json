@@ -64,6 +64,29 @@
         "updatedAt": "2021-08-31T05:36:36.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "tokyo_babylon": {
+        "authors": [
+          "OHKAWA Ageha",
+          "CLAMP"
+        ],
+        "identifier": "tokyo_babylon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tokyo Babylon",
+        "url": "https://fanfox.net/manga/tokyo_babylon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/227/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133,
+        "aniId": 30133,
+        "createdAt": "2021-12-04T17:18:28.000Z",
+        "updatedAt": "2021-12-04T17:46:05.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

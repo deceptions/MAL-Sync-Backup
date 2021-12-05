@@ -15,10 +15,15 @@
   "malId": 108032,
   "aniId": 108196,
   "createdAt": "2021-05-29T19:42:56.000Z",
-  "updatedAt": "2021-05-29T20:12:12.000Z",
+  "updatedAt": "2021-11-29T20:36:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://yanmaga.jp/contents/myhomehero/"
+      }
+    ],
     "altTitle": [
       "マイホームヒーロー"
     ],
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:08.000Z",
-    "updatedAt": "2021-05-29T19:42:55.000Z",
+    "updatedAt": "2021-11-29T20:06:05.000Z",
     "deletedAt": null
   },
   "Anilist": {

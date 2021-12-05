@@ -1,7 +1,7 @@
 {
   "authors": [
     "Lucy Gordon",
-    "TAKAYAMA Mayu"
+    "Takayama Mayu"
   ],
   "identifier": "20302b0f-3bcf-4846-b47f-4545af682e4f",
   "type": "manga",
@@ -12,14 +12,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 34607,
   "aniId": null,
   "createdAt": "2020-10-12T16:09:22.000Z",
-  "updatedAt": "2021-06-04T18:34:40.000Z",
+  "updatedAt": "2021-12-04T18:52:08.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.jmanga.com/daniel-and-daughter/1"
+      }
+    ],
     "altTitle": [
       "Daniel and Daughter",
       "五分で恋に落ちて"
@@ -36,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-04T17:20:08.000Z",
-    "updatedAt": "2021-06-04T17:20:08.000Z",
+    "updatedAt": "2021-12-04T17:53:43.000Z",
     "deletedAt": null
   },
   "Anilist": null,

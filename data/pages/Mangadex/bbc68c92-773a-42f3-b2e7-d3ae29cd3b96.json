@@ -1,6 +1,6 @@
 {
   "authors": [
-    "tenkla"
+    "Tenkla"
   ],
   "identifier": "bbc68c92-773a-42f3-b2e7-d3ae29cd3b96",
   "type": "manga",
@@ -8,19 +8,25 @@
   "title": "Yomeiro-Choice",
   "url": "https://mangadex.org/title/bbc68c92-773a-42f3-b2e7-d3ae29cd3b96",
   "image": "https://uploads.mangadex.org/covers/bbc68c92-773a-42f3-b2e7-d3ae29cd3b96/373168d4-4ce5-4c55-925d-5177d850256c.jpg",
-  "hentai": false,
+  "hentai": true,
   "sticky": false,
   "active": true,
   "actor": null,
   "malId": 12090,
   "aniId": 42090,
   "createdAt": "2020-10-12T16:02:58.000Z",
-  "updatedAt": "2021-06-02T10:44:11.000Z",
+  "updatedAt": "2021-12-02T10:48:19.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%A1%E3%82%A4%E3%83%AD%E3%81%A1%E3%82%87%E3%81%84%E3%81%99"
+      }
+    ],
     "altTitle": [
-      "Yome-iro Choice, Choose the Color of Your Wife",
+      "Yome-iro Choice",
+      "Choose the Color of Your Wife",
       "ヨメイロちょいす"
     ],
     "authors": [
@@ -34,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:43.000Z",
-    "updatedAt": "2021-06-02T15:31:12.000Z",
+    "updatedAt": "2021-12-02T15:47:30.000Z",
     "deletedAt": null
   },
   "Anilist": {

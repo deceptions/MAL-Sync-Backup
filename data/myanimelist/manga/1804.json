@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%98%E3%81%A3%E3%81%8F%E5%BF%AB%E6%96%97"
+    }
+  ],
   "altTitle": [
     "Kaito Kid",
     "まじっく快斗"
@@ -15,13 +20,13 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:37.000Z",
-  "updatedAt": "2021-09-17T08:10:44.000Z",
+  "updatedAt": "2021-12-03T21:46:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "247fe684-e74b-42f9-ae63-0c410a663408": {
         "authors": [
-          "Aoyama Gosho"
+          "Gosho Aoyama"
         ],
         "identifier": "247fe684-e74b-42f9-ae63-0c410a663408",
         "type": "manga",
@@ -36,7 +41,29 @@
         "malId": 1804,
         "aniId": 31804,
         "createdAt": "2020-10-12T16:04:07.000Z",
-        "updatedAt": "2021-06-02T18:53:02.000Z",
+        "updatedAt": "2021-12-02T19:18:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kv961530": {
+        "authors": [
+          "Aoyama Gosho"
+        ],
+        "identifier": "manga-kv961530",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Magic Kaitou",
+        "url": "https://readmanganato.com/manga-kv961530",
+        "image": "https://avt.mkklcdnv6temp.com/41/m/7-1583477844.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1804,
+        "aniId": 31804,
+        "createdAt": "2021-12-03T21:46:36.000Z",
+        "updatedAt": "2021-12-03T22:16:05.000Z",
         "deletedAt": null
       }
     }

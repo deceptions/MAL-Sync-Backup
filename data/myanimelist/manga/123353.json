@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.webnewtype.com/contents/imassc/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC_%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%BA"
+    }
+  ],
   "altTitle": [
     "アイドルマスター シャイニーカラーズ"
   ],
@@ -14,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-12-10T19:16:52.000Z",
-  "updatedAt": "2021-07-26T15:24:30.000Z",
+  "updatedAt": "2021-11-30T15:54:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +45,29 @@
         "aniId": 108415,
         "createdAt": "2020-12-10T19:16:52.000Z",
         "updatedAt": "2021-06-08T08:32:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ch979790": {
+        "authors": [
+          "Unknown",
+          "Bandai Namco"
+        ],
+        "identifier": "manga-ch979790",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Idolm@ster: Shiny Colors (4Koma)",
+        "url": "https://manganato.com/manga-ch979790",
+        "image": "https://avt.mkklcdnv6temp.com/4/u/17-1583495436.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 123353,
+        "aniId": 108415,
+        "createdAt": "2021-07-26T15:24:21.000Z",
+        "updatedAt": "2021-11-30T15:55:45.000Z",
         "deletedAt": null
       }
     }

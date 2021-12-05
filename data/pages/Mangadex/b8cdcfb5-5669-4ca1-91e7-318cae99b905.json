@@ -1,6 +1,6 @@
 {
   "authors": [
-    "UEDA Kiku"
+    "Ueda Kiku"
   ],
   "identifier": "b8cdcfb5-5669-4ca1-91e7-318cae99b905",
   "type": "manga",
@@ -15,10 +15,19 @@
   "malId": 48371,
   "aniId": 78371,
   "createdAt": "2020-10-12T16:05:59.000Z",
-  "updatedAt": "2021-06-03T16:22:08.000Z",
+  "updatedAt": "2021-12-03T16:50:09.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.fujimishobo.co.jp/sp/201011simekirisama/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%80%86%E5%88%87%E6%A7%98%E3%81%AB%E3%81%8A%E3%82%86%E3%82%8B%E3%81%97%E3%82%92"
+      }
+    ],
     "altTitle": [
       "Forgiveness from Deadline-sama",
       "Shimekiri-sama Deadline",
@@ -35,7 +44,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:44:31.000Z",
-    "updatedAt": "2021-07-30T05:23:18.000Z",
+    "updatedAt": "2021-11-30T19:36:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

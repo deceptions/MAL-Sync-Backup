@@ -15,10 +15,19 @@
   "malId": 113912,
   "aniId": 108069,
   "createdAt": "2021-05-29T02:45:14.000Z",
-  "updatedAt": "2021-05-29T18:12:12.000Z",
+  "updatedAt": "2021-11-29T18:37:13.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://ganma.jp/hinosannobaka"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%A3%9B%E9%87%8E%E3%81%95%E3%82%93%E3%81%AE%E3%83%90%E3%82%AB"
+      }
+    ],
     "altTitle": [
       "飛野さんのバカ"
     ],
@@ -33,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:34.000Z",
-    "updatedAt": "2021-05-29T02:45:14.000Z",
+    "updatedAt": "2021-11-29T03:06:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

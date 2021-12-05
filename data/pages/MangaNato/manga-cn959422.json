@@ -15,10 +15,15 @@
   "malId": 4592,
   "aniId": 34592,
   "createdAt": "2021-05-31T13:28:57.000Z",
-  "updatedAt": "2021-05-31T13:52:54.000Z",
+  "updatedAt": "2021-12-01T00:14:20.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/デビルマン"
+      }
+    ],
     "altTitle": [
       "Amon: The Darkside of Devilman",
       "AMONデビルマン黙示録"
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:00.000Z",
-    "updatedAt": "2021-05-31T13:28:56.000Z",
+    "updatedAt": "2021-12-01T00:38:56.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -51,13 +56,13 @@
     "id": 34592,
     "malId": 4592,
     "type": "manga",
-    "title": "Amon: The Darkside of Devilman",
+    "title": "AMON: Devilman Mokushiroku ",
     "url": "https://anilist.co/manga/34592",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx34592-riaPkaFdgz2f.png",
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:38:33.000Z",
-    "updatedAt": "2021-06-29T03:19:24.000Z",
+    "updatedAt": "2021-12-03T12:46:06.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/4592/Amon__Devilman_Mokushiroku"

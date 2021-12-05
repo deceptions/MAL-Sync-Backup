@@ -15,10 +15,15 @@
   "malId": 85,
   "aniId": 30085,
   "createdAt": "2020-10-12T16:02:24.000Z",
-  "updatedAt": "2021-06-02T06:38:34.000Z",
+  "updatedAt": "2021-12-02T06:47:18.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%82%E3%81%9A%E3%81%BE%E3%82%93%E3%81%8C%E5%A4%A7%E7%8E%8B"
+      }
+    ],
     "altTitle": [
       "Azumanga Daioh",
       "あずまんが大王"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2021-05-31T09:07:57.000Z",
+    "updatedAt": "2021-12-01T00:06:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

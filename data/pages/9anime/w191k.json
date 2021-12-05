@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 42658,
-  "aniId": null,
+  "aniId": 123778,
   "createdAt": "2021-06-29T07:05:46.000Z",
-  "updatedAt": "2021-06-29T07:05:51.000Z",
+  "updatedAt": "2021-12-03T09:16:05.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -42,6 +42,24 @@
     "updatedAt": "2021-10-04T09:00:54.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Ninjala 2D Cartoon Anime",
+      "ニンジャラ カートゥーンアニメ",
+      "にんじゃら"
+    ],
+    "externalLinks": [],
+    "id": 123778,
+    "malId": 42658,
+    "type": "anime",
+    "title": "Ninjala Cartoon Anime",
+    "url": "https://anilist.co/anime/123778",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123778-mZj3HUl4utfP.png",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-12-03T08:46:05.000Z",
+    "updatedAt": "2021-12-03T08:46:05.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/42658/Ninjala"
 }

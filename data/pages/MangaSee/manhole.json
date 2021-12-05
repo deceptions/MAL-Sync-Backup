@@ -15,10 +15,15 @@
   "malId": 1415,
   "aniId": 31415,
   "createdAt": "2021-05-31T09:40:33.000Z",
-  "updatedAt": "2021-05-31T10:00:42.000Z",
+  "updatedAt": "2021-12-01T00:14:20.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB_%28%E6%BC%AB%E7%94%BB%29"
+      }
+    ],
     "altTitle": [
       "マンホール"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:33.000Z",
-    "updatedAt": "2021-05-31T09:40:33.000Z",
+    "updatedAt": "2021-12-01T00:09:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

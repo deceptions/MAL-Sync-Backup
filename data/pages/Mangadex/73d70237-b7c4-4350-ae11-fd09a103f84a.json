@@ -15,13 +15,24 @@
   "malId": 57765,
   "aniId": 85151,
   "createdAt": "2020-10-12T16:06:42.000Z",
-  "updatedAt": "2021-06-03T21:34:00.000Z",
+  "updatedAt": "2021-12-03T21:51:40.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.shonenmagazine.com/bmaga/uqholder"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/UQ_HOLDER!"
+      }
+    ],
     "altTitle": [
       "UQ Holder!",
-      "Yuukyuu Holder, Eternal Holder, UQ Holder!: Mahou Sensei Negima! 2",
+      "Yuukyuu Holder",
+      "Eternal Holder",
+      "UQ Holder!: Mahou Sensei Negima! 2",
       "UQ HOLDER!"
     ],
     "authors": [
@@ -35,7 +46,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:44:52.000Z",
-    "updatedAt": "2021-06-02T06:31:05.000Z",
+    "updatedAt": "2021-12-02T06:46:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

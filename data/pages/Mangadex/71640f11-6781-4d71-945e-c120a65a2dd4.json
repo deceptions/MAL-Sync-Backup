@@ -1,27 +1,27 @@
 {
   "authors": [
-    "Ookuma Yuuko",
-    "Miki Maki",
-    "Ichinomiya Shihan",
-    "Naked Ape",
-    "Kajiyama Mika",
-    "Kobayashi Moriwo",
-    "Yukihiro Utako",
-    "Kurimi Ai",
     "Kumada Yuka",
+    "Yukimori Sakura",
+    "Kobayashi Moriwo",
+    "Ookuma Yuuko",
     "Abekawa Kineko",
-    "Suzuki Rika",
+    "Yuu Minamoto",
+    "Kurimi Ai",
+    "Sakurano Mika",
+    "Ichinomiya Shihan",
     "Sazanami Raika",
+    "Kosumi Fujiko",
+    "Kajiyama Mika",
+    "Mimori",
+    "Miki Maki",
+    "Sub",
+    "Yukihiro Utako",
+    "Suzuki Rika",
+    "Naked Ape",
     "Shinyo Mayu",
     "Sakura Sawa",
     "Kanno Aya",
-    "Minamoto Yuu",
-    "Mimori",
-    "Sakurano Mika",
-    "Yamaguchi Takayuki",
-    "Yukimori Sakura",
-    "Kosumi Fujiko",
-    "Sub"
+    "Yamaguchi Takayuki"
   ],
   "identifier": "71640f11-6781-4d71-945e-c120a65a2dd4",
   "type": "manga",
@@ -32,27 +32,50 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actor": null,
   "malId": 108027,
   "aniId": 103812,
   "createdAt": "2020-10-12T16:09:43.000Z",
-  "updatedAt": "2021-06-04T20:12:03.000Z",
+  "updatedAt": "2021-12-04T20:22:49.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
-    "altTitle": [
-      "Touken Ranbu Anthology - Shutsujin Junbichu! -"
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%88%80%E5%89%A3%E4%B9%B1%E8%88%9E"
+      }
     ],
-    "authors": [],
+    "altTitle": [
+      "Touken Ranbu Online Anthology: Preparations for Departure!",
+      "刀剣乱舞-ONLINE- アンソロジー 出陣準備中!"
+    ],
+    "authors": [
+      "Mimori",
+      "Ichinomiya, Shihan",
+      "Kajiyama, Mika",
+      "Minamoto, Yuu",
+      "mikimaki",
+      "Abekawa, Kineko",
+      "Sakurano, Mika",
+      "Yukimori, Sakura",
+      "Kosumi, Fujiko",
+      "Kobayashi, Moriwo",
+      "Okuma, Yuugo",
+      "Sazanami, Raika",
+      "Kumada, Yuka",
+      "Kurimi, Ai",
+      "Misato",
+      "Subaru, Kazusa"
+    ],
     "id": 108027,
     "type": "manga",
-    "title": "Touken Ranbu Anthology - Preparations for departure!",
-    "url": "https://myanimelist.net/manga/108027/Touken_Ranbu_Anthology_-_Preparations_for_departure",
-    "image": "https://cdn.myanimelist.net/images/manga/3/197840.jpg",
+    "title": "Touken Ranbu Online Anthology: Shutsujin Junbichuu!",
+    "url": "https://myanimelist.net/manga/108027/Touken_Ranbu_Online_Anthology__Shutsujin_Junbichuu",
+    "image": "https://cdn.myanimelist.net/images/manga/3/248022.jpg",
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-04T20:12:00.000Z",
-    "updatedAt": "2021-06-04T20:12:00.000Z",
+    "updatedAt": "2021-12-04T20:22:37.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -100,5 +123,5 @@
     "updatedAt": "2021-06-18T04:07:10.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/108027/Touken_Ranbu_Anthology_-_Preparations_for_departure"
+  "malUrl": "https://myanimelist.net/manga/108027/Touken_Ranbu_Online_Anthology__Shutsujin_Junbichuu"
 }

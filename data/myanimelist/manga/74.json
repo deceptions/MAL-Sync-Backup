@@ -1,8 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%AE%E3%82%A2"
+    }
+  ],
   "altTitle": [
     "Air Gear",
-    "AirGear, Air Gear Unlimited",
+    "AirGear",
+    "Air Gear Unlimited",
     "エア・ギア"
   ],
   "authors": [
@@ -16,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:17.000Z",
-  "updatedAt": "2021-05-29T09:42:33.000Z",
+  "updatedAt": "2021-11-29T10:05:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,7 +43,7 @@
         "malId": 74,
         "aniId": 30074,
         "createdAt": "2020-10-12T16:02:23.000Z",
-        "updatedAt": "2021-06-02T06:32:44.000Z",
+        "updatedAt": "2021-12-02T06:46:58.000Z",
         "deletedAt": null
       }
     },
@@ -82,28 +88,6 @@
         "aniId": 30074,
         "createdAt": "2021-03-23T16:46:45.000Z",
         "updatedAt": "2021-11-20T20:14:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-to955871": {
-        "authors": [
-          "Oh! Great"
-        ],
-        "identifier": "manga-to955871",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Air Gear",
-        "url": "https://readmanganato.com/manga-to955871",
-        "image": "https://avt.mkklcdnv6temp.com/44/i/3-1583469417.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 74,
-        "aniId": 30074,
-        "createdAt": "2021-06-02T19:31:23.000Z",
-        "updatedAt": "2021-06-02T20:00:50.000Z",
         "deletedAt": null
       }
     }

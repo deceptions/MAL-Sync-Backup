@@ -15,13 +15,19 @@
   "malId": 74,
   "aniId": 30074,
   "createdAt": "2020-10-12T16:02:23.000Z",
-  "updatedAt": "2021-06-02T06:32:44.000Z",
+  "updatedAt": "2021-12-02T06:46:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%BB%E3%82%AE%E3%82%A2"
+      }
+    ],
     "altTitle": [
       "Air Gear",
-      "AirGear, Air Gear Unlimited",
+      "AirGear",
+      "Air Gear Unlimited",
       "エア・ギア"
     ],
     "authors": [
@@ -35,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:17.000Z",
-    "updatedAt": "2021-05-29T09:42:33.000Z",
+    "updatedAt": "2021-11-29T10:05:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

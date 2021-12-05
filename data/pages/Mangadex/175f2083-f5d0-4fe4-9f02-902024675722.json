@@ -11,13 +11,32 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 133156,
   "createdAt": "2021-10-12T11:48:20.000Z",
-  "updatedAt": "2021-10-12T11:48:20.000Z",
+  "updatedAt": "2021-11-29T10:56:06.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "私刑囚～異常犯罪者の末路～"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hiroaki Hori"
+    ],
+    "id": 133156,
+    "malId": null,
+    "type": "manga",
+    "title": "Rinchi-shuu: Ijou Hanzaisha no Matsuro",
+    "url": "https://anilist.co/manga/133156",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx133156-SKTvQSptj4fe.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-14T02:08:19.000Z",
+    "updatedAt": "2021-11-27T20:05:33.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

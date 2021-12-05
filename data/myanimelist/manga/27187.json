@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://gakuenheaven.jp/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%AD%A6%E5%9C%92%E3%83%98%E3%83%B4%E3%83%B3_BOY%27S_LOVE_SCRAMBLE!"
+    }
+  ],
   "altTitle": [
     "学園ヘヴン レボリューション"
   ],
@@ -14,14 +23,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:27.000Z",
-  "updatedAt": "2021-06-02T21:00:52.000Z",
+  "updatedAt": "2021-12-02T21:16:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "0357c851-ef9b-4c8c-81a1-cd8a903dafee": {
         "authors": [
-          "Higuri You",
-          "Spray"
+          "Spray",
+          "Higuri You"
         ],
         "identifier": "0357c851-ef9b-4c8c-81a1-cd8a903dafee",
         "type": "manga",
@@ -32,11 +41,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
+        "actor": null,
         "malId": 27187,
         "aniId": 57187,
         "createdAt": "2020-10-12T16:04:22.000Z",
-        "updatedAt": "2021-06-02T21:30:50.000Z",
+        "updatedAt": "2021-12-02T21:48:58.000Z",
         "deletedAt": null
       }
     },

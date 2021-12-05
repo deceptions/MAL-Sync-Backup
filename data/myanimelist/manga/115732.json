@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://youngjump.jp/manga/tiempo/"
+    }
+  ],
   "altTitle": [
     "TIEMPO-ティエンポ-"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-29T10:12:15.000Z",
-  "updatedAt": "2021-06-07T13:36:00.000Z",
+  "updatedAt": "2021-12-02T07:16:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +63,28 @@
         "aniId": 110735,
         "createdAt": "2021-06-07T13:36:10.000Z",
         "updatedAt": "2021-06-07T14:05:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tiempo": {
+        "authors": [
+          "IINO Daisuke"
+        ],
+        "identifier": "tiempo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tiempo",
+        "url": "https://fanfox.net/manga/tiempo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36305/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115732,
+        "aniId": 110735,
+        "createdAt": "2021-12-02T07:16:29.000Z",
+        "updatedAt": "2021-12-02T07:46:05.000Z",
         "deletedAt": null
       }
     }

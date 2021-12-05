@@ -41,7 +41,7 @@
         "malId": 25854,
         "aniId": 55854,
         "createdAt": "2020-10-12T16:05:22.000Z",
-        "updatedAt": "2021-06-03T12:05:07.000Z",
+        "updatedAt": "2021-12-03T12:17:29.000Z",
         "deletedAt": null
       }
     },
@@ -65,6 +65,29 @@
         "aniId": 55854,
         "createdAt": "2021-07-04T03:39:05.000Z",
         "updatedAt": "2021-07-04T03:59:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ra960857": {
+        "authors": [
+          "Okouchi Ichiro",
+          "Taniguchi Goro"
+        ],
+        "identifier": "manga-ra960857",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Barcode Geass: Hanbai No Lelouch",
+        "url": "https://manganato.com/manga-ra960857",
+        "image": "https://avt.mkklcdnv6temp.com/17/k/7-1583476928.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25854,
+        "aniId": 55854,
+        "createdAt": "2021-12-04T12:17:08.000Z",
+        "updatedAt": "2021-12-04T12:46:05.000Z",
         "deletedAt": null
       }
     }

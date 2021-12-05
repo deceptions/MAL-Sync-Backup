@@ -14,7 +14,7 @@
   "category": "One-shot",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:59.000Z",
-  "updatedAt": "2021-10-28T22:46:07.000Z",
+  "updatedAt": "2021-11-29T16:36:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,7 +35,29 @@
         "malId": 4510,
         "aniId": 34510,
         "createdAt": "2020-10-12T16:05:44.000Z",
-        "updatedAt": "2021-06-03T14:38:38.000Z",
+        "updatedAt": "2021-12-03T14:48:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kiss_x_miss": {
+        "authors": [
+          "MAMURA Mio"
+        ],
+        "identifier": "kiss_x_miss",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kiss x Miss",
+        "url": "https://fanfox.net/manga/kiss_x_miss/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1271/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4510,
+        "aniId": 34510,
+        "createdAt": "2021-11-29T16:36:35.000Z",
+        "updatedAt": "2021-11-29T17:05:32.000Z",
         "deletedAt": null
       }
     }

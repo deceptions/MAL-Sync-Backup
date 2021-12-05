@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 106176,
   "aniId": null,
   "createdAt": "2020-10-12T16:07:48.000Z",
-  "updatedAt": "2021-06-04T08:56:21.000Z",
+  "updatedAt": "2021-12-04T09:19:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%83%84%E3%83%A9%E3%83%8E%E3%82%AB%E3%83%AF"
+      }
+    ],
     "altTitle": [
       "Angel's Makeover Plan",
       "天使のツラノカワ"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-04T05:50:28.000Z",
-    "updatedAt": "2021-06-04T05:50:28.000Z",
+    "updatedAt": "2021-12-04T06:21:09.000Z",
     "deletedAt": null
   },
   "Anilist": null,

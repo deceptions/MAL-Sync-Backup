@@ -47,12 +47,12 @@
         "malId": 3537,
         "aniId": 33537,
         "createdAt": "2020-10-12T16:02:45.000Z",
-        "updatedAt": "2021-06-02T09:13:22.000Z",
+        "updatedAt": "2021-12-02T09:18:08.000Z",
         "deletedAt": null
       },
       "d3835f7a-f43c-49ba-aea2-d397221bce9f": {
         "authors": [
-          "Mashima Hiro",
+          "Hiro Mashima",
           "Yoshikawa Miki"
         ],
         "identifier": "d3835f7a-f43c-49ba-aea2-d397221bce9f",
@@ -68,7 +68,7 @@
         "malId": 3537,
         "aniId": 33537,
         "createdAt": "2020-10-12T16:02:58.000Z",
-        "updatedAt": "2021-06-02T10:46:21.000Z",
+        "updatedAt": "2021-12-02T11:17:25.000Z",
         "deletedAt": null
       }
     },
@@ -91,6 +91,28 @@
         "aniId": 33537,
         "createdAt": "2021-01-18T10:33:03.000Z",
         "updatedAt": "2021-11-20T17:45:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yanki_kun_to_megane_chan": {
+        "authors": [
+          "YOSHIKAWA Miki"
+        ],
+        "identifier": "yanki_kun_to_megane_chan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yanki-kun to Megane-chan",
+        "url": "https://fanfox.net/manga/yanki_kun_to_megane_chan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1637/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3537,
+        "aniId": 33537,
+        "createdAt": "2021-05-25T23:38:30.000Z",
+        "updatedAt": "2021-11-26T00:35:31.000Z",
         "deletedAt": null
       }
     },

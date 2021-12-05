@@ -1,7 +1,7 @@
 {
   "authors": [
-    "SAITO Sakae",
-    "KAMACHI Kazuma"
+    "Kamachi Kazuma",
+    "Sakae Saito"
   ],
   "identifier": "5352afa4-0aa3-468f-b843-734a92b93cb6",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 80929,
   "aniId": 93085,
   "createdAt": "2020-10-12T16:07:20.000Z",
-  "updatedAt": "2021-06-04T02:04:28.000Z",
+  "updatedAt": "2021-12-04T02:21:38.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B4%E3%82%A3%E3%83%BC%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88"
+      }
+    ],
     "altTitle": [
       "ヘヴィーオブジェクトS"
     ],
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:35.000Z",
-    "updatedAt": "2021-06-08T05:20:36.000Z",
+    "updatedAt": "2021-11-28T08:35:53.000Z",
     "deletedAt": null
   },
   "Anilist": {

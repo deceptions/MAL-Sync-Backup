@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-24T13:08:19.000Z",
-  "updatedAt": "2021-08-07T21:19:10.000Z",
+  "updatedAt": "2021-11-29T02:05:36.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "20_twenty": {
+        "authors": [
+          "Mu Ba"
+        ],
+        "identifier": "20_twenty",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "20 twenty",
+        "url": "https://fanfox.net/manga/20_twenty/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/35909/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 114059,
+        "createdAt": "2021-11-29T02:05:35.000Z",
+        "updatedAt": "2021-11-29T02:05:36.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -15,10 +15,15 @@
   "malId": 12445,
   "aniId": 42445,
   "createdAt": "2021-05-28T05:58:46.000Z",
-  "updatedAt": "2021-05-28T06:28:42.000Z",
+  "updatedAt": "2021-11-28T06:35:32.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E8%81%96%E7%B5%90%E6%99%B6%E3%82%A2%E3%83%AB%E3%83%90%E3%83%88%E3%83%AD%E3%82%B9"
+      }
+    ],
     "altTitle": [
       "Holy Crystal Albatross",
       "聖結晶アルバトロス"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:46.000Z",
-    "updatedAt": "2021-05-28T05:58:45.000Z",
+    "updatedAt": "2021-11-28T06:05:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

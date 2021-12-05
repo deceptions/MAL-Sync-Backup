@@ -18,7 +18,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-26T07:08:18.000Z",
-  "updatedAt": "2021-06-21T17:53:11.000Z",
+  "updatedAt": "2021-12-03T12:46:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-la989009": {
+        "authors": [
+          "Jagyum",
+          "Saeng-Gang"
+        ],
+        "identifier": "manga-la989009",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Married For 120 Days",
+        "url": "https://manganato.com/manga-la989009",
+        "image": "https://avt.mkklcdnv6temp.com/12/h/24-1620619678.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 133657,
+        "createdAt": "2021-12-03T12:46:56.000Z",
+        "updatedAt": "2021-12-03T12:46:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

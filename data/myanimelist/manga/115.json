@@ -46,7 +46,7 @@
         "malId": 115,
         "aniId": 30115,
         "createdAt": "2020-10-12T16:02:26.000Z",
-        "updatedAt": "2021-06-02T06:52:45.000Z",
+        "updatedAt": "2021-12-02T07:16:37.000Z",
         "deletedAt": null
       }
     },
@@ -69,6 +69,28 @@
         "aniId": 30115,
         "createdAt": "2021-04-15T00:14:30.000Z",
         "updatedAt": "2021-11-20T21:48:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "elemental_gelade_aozora_no_senki": {
+        "authors": [
+          "AZUMA Mayumi"
+        ],
+        "identifier": "elemental_gelade_aozora_no_senki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Elemental Gelade- Aozora no Senki",
+        "url": "https://fanfox.net/manga/elemental_gelade_aozora_no_senki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5695/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 115,
+        "aniId": 30115,
+        "createdAt": "2021-05-22T01:13:31.000Z",
+        "updatedAt": "2021-11-22T14:42:58.000Z",
         "deletedAt": null
       }
     }

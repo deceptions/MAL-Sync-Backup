@@ -30,7 +30,7 @@
   "hentai": false,
   "anidbId": 8299,
   "createdAt": "2020-10-12T15:39:06.000Z",
-  "updatedAt": "2021-10-02T08:37:02.000Z",
+  "updatedAt": "2021-12-04T15:46:36.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -119,6 +119,23 @@
         "aniId": 10447,
         "createdAt": "2020-10-12T15:59:52.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      },
+      "aquarion-evol-dub": {
+        "identifier": "aquarion-evol-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Aquarion Evol (Dub)",
+        "url": "https://gogoanime.cm/category/aquarion-evol-dub",
+        "image": "https://gogocdn.net/cover/aquarion-evol-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10447,
+        "aniId": 10447,
+        "createdAt": "2021-12-04T15:46:16.000Z",
+        "updatedAt": "2021-12-04T16:16:05.000Z",
         "deletedAt": null
       }
     },

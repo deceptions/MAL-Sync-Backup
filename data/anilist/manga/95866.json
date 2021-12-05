@@ -28,10 +28,10 @@
     "Mangadex": {
       "bd40d291-b66e-4d4c-b02f-d47555d8bd6d": {
         "authors": [
+          "Masahiro Hikokubo",
+          "Takahashi Kazuki",
           "Miyoshi Naohito",
-          "TAKAHASHI Kazuki",
-          "HIKOKUBO Masahiro",
-          "YOSHIDA Shin"
+          "Yoshida Shin"
         ],
         "identifier": "bd40d291-b66e-4d4c-b02f-d47555d8bd6d",
         "type": "manga",
@@ -46,7 +46,7 @@
         "malId": 92499,
         "aniId": 95866,
         "createdAt": "2020-10-12T16:08:50.000Z",
-        "updatedAt": "2021-06-04T13:05:08.000Z",
+        "updatedAt": "2021-12-04T13:22:20.000Z",
         "deletedAt": null
       }
     },
@@ -69,6 +69,30 @@
         "aniId": 95866,
         "createdAt": "2021-05-01T15:31:51.000Z",
         "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yu_gi_oh_arc_v": {
+        "authors": [
+          "HIKOKUBO Masahiro",
+          "TAKAHASHI Kazuki",
+          "YOSHIDA Shin"
+        ],
+        "identifier": "yu_gi_oh_arc_v",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yu-Gi-Oh Arc-V",
+        "url": "https://fanfox.net/manga/yu_gi_oh_arc_v/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/29733/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92499,
+        "aniId": 95866,
+        "createdAt": "2021-05-24T01:38:51.000Z",
+        "updatedAt": "2021-11-24T02:35:59.000Z",
         "deletedAt": null
       }
     },

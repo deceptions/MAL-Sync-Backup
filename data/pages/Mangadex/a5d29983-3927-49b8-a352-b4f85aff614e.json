@@ -18,9 +18,13 @@
   "updatedAt": "2021-07-27T19:53:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E4%BF%BA%E3%81%AE%E7%A9%BA"
+      }
+    ],
     "altTitle": [
-      "The Sky is Mine",
       "俺の空"
     ],
     "authors": [
@@ -30,11 +34,11 @@
     "type": "manga",
     "title": "Ore no Sora",
     "url": "https://myanimelist.net/manga/107033/Ore_no_Sora",
-    "image": null,
+    "image": "https://cdn.myanimelist.net/images/manga/2/248766.jpg",
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-11-18T16:50:58.000Z",
-    "updatedAt": "2021-06-04T15:50:38.000Z",
+    "updatedAt": "2021-12-04T16:23:12.000Z",
     "deletedAt": null
   },
   "Anilist": {

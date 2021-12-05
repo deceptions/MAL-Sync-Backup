@@ -1,7 +1,7 @@
 {
   "authors": [
     "Project Mijia",
-    "FUJI Subaru"
+    "Fuji Subaru"
   ],
   "identifier": "628e31cb-4c73-489b-af2e-5daa767fe5d0",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 98549,
   "aniId": 87298,
   "createdAt": "2020-10-12T16:09:50.000Z",
-  "updatedAt": "2021-06-04T20:59:47.000Z",
+  "updatedAt": "2021-12-04T21:21:59.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%BF%B7%E5%AE%B6-%E3%83%9E%E3%83%A8%E3%82%A4%E3%82%AC-"
+      }
+    ],
     "altTitle": [
       "The Lost Village: Crime and Punishment",
       "迷家～ツミトバツ～"
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:46:30.000Z",
-    "updatedAt": "2021-06-04T20:49:39.000Z",
+    "updatedAt": "2021-12-04T21:19:38.000Z",
     "deletedAt": null
   },
   "Anilist": {

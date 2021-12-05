@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E7%B5%82%E6%9C%AB%E3%81%AE%E3%83%9E%E3%83%AA%E3%82%B9%E3%83%86%E3%83%A9"
+    }
+  ],
   "altTitle": [
     "Maris Stella of Doomsday",
     "Shuumatsu no Maristella",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:03.000Z",
-  "updatedAt": "2021-06-04T09:49:18.000Z",
+  "updatedAt": "2021-12-04T10:16:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,7 +42,7 @@
         "malId": 37679,
         "aniId": 67679,
         "createdAt": "2020-10-12T16:04:31.000Z",
-        "updatedAt": "2021-06-02T21:37:52.000Z",
+        "updatedAt": "2021-12-02T21:50:08.000Z",
         "deletedAt": null
       }
     },
@@ -82,28 +87,6 @@
         "aniId": 67679,
         "createdAt": "2021-05-04T03:34:01.000Z",
         "updatedAt": "2021-11-20T22:22:05.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-mu952603": {
-        "authors": [
-          "Takano Chiharu"
-        ],
-        "identifier": "manga-mu952603",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Shuumatsu No Maristella",
-        "url": "https://manganato.com/manga-mu952603",
-        "image": "https://avt.mkklcdnv6temp.com/45/h/1-1583465490.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 37679,
-        "aniId": 67679,
-        "createdAt": "2021-06-04T09:49:18.000Z",
-        "updatedAt": "2021-06-04T10:18:57.000Z",
         "deletedAt": null
       }
     }

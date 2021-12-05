@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Projekt Kagonish",
     "Shimada Fumikane",
+    "Projekt Kagonish",
     "Shinozuka Atsuto"
   ],
   "identifier": "1940203f-e1c6-4238-b087-e2d625123364",
@@ -13,14 +13,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 80671,
   "aniId": null,
   "createdAt": "2020-10-12T16:08:00.000Z",
-  "updatedAt": "2021-06-04T08:45:20.000Z",
+  "updatedAt": "2021-12-04T08:47:48.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%83%BC%E3%82%BA"
+      }
+    ],
     "altTitle": [
       "Strike Witches: Streghe Rosse - 504th Joint Fighter Wing - Ardor Witches",
       "ストライクウィッチーズ 紅の魔女たち"
@@ -37,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-04T07:19:07.000Z",
-    "updatedAt": "2021-06-04T07:19:07.000Z",
+    "updatedAt": "2021-12-04T07:48:30.000Z",
     "deletedAt": null
   },
   "Anilist": null,

@@ -15,10 +15,15 @@
   "malId": 68221,
   "aniId": 86001,
   "createdAt": "2020-10-12T16:07:56.000Z",
-  "updatedAt": "2021-06-04T06:23:58.000Z",
+  "updatedAt": "2021-12-04T06:47:59.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.younganimal.com/magazine/list/?id=tokyodted"
+      }
+    ],
     "altTitle": [
       "東京DTED"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:14.000Z",
-    "updatedAt": "2021-06-01T20:01:19.000Z",
+    "updatedAt": "2021-12-01T20:17:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

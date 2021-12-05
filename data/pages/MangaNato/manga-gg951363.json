@@ -15,10 +15,15 @@
   "malId": 13245,
   "aniId": 43245,
   "createdAt": "2021-05-31T13:26:56.000Z",
-  "updatedAt": "2021-05-31T13:52:54.000Z",
+  "updatedAt": "2021-12-01T00:14:20.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%A1%E3%81%AF%E3%82%84%E3%81%B5%E3%82%8B"
+      }
+    ],
     "altTitle": [
       "Chihayafuru",
       "ちはやふる"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:52.000Z",
-    "updatedAt": "2021-05-31T13:26:56.000Z",
+    "updatedAt": "2021-12-01T01:07:08.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,12 +15,20 @@
   "malId": 1365,
   "aniId": 31365,
   "createdAt": "2020-10-12T16:05:56.000Z",
-  "updatedAt": "2021-06-03T16:01:27.000Z",
+  "updatedAt": "2021-12-03T16:19:06.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E9%A2%A8%E3%81%A8%E6%9C%A8%E3%81%AE%E8%A9%A9"
+      }
+    ],
     "altTitle": [
-      "The Song of Wind and Trees, KazeKi, The Poem of the Wind and the Trees, The Song of the Wind and the Trees",
+      "The Song of Wind and Trees",
+      "KazeKi",
+      "The Poem of the Wind and the Trees",
+      "The Song of the Wind and the Trees",
       "風と木の詩"
     ],
     "authors": [
@@ -34,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:33.000Z",
-    "updatedAt": "2021-06-04T13:21:18.000Z",
+    "updatedAt": "2021-12-04T13:46:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

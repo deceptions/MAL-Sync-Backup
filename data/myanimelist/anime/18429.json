@@ -31,7 +31,7 @@
   "hentai": false,
   "anidbId": 9841,
   "createdAt": "2020-10-12T15:39:20.000Z",
-  "updatedAt": "2021-10-02T18:10:56.000Z",
+  "updatedAt": "2021-11-28T14:37:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {
@@ -107,6 +107,25 @@
         "aniId": 18429,
         "createdAt": "2020-12-17T10:56:53.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "800py": {
+        "identifier": "800py",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Lupin III vs. Detective Conan: The Movie (Dub)",
+        "url": "https://9anime.to/watch/lupin-the-3rd-vs-detective-conan-the-movie-dub.800py",
+        "image": "https://static.bunnycdn.ru/i/cache/images/d/db/dba6e44aea97045a8bfd773497babdac.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18429,
+        "aniId": 18429,
+        "createdAt": "2021-11-28T14:36:45.000Z",
+        "updatedAt": "2021-11-28T15:05:32.000Z",
         "deletedAt": null
       }
     }

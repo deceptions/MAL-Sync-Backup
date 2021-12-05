@@ -23,5 +23,29 @@
   "createdAt": "2021-05-26T15:08:37.000Z",
   "updatedAt": "2021-11-03T08:34:30.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "garden-club-detective-squad": {
+        "authors": [
+          "52chu",
+          "LICO"
+        ],
+        "identifier": "garden-club-detective-squad",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Garden Club Detective Squad",
+        "url": "https://mangasee123.com/manga/Garden-Club-Detective-Squad",
+        "image": "https://cover.nep.li/cover/Garden-Club-Detective-Squad.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 117680,
+        "createdAt": "2021-03-24T02:15:42.000Z",
+        "updatedAt": "2021-11-26T15:35:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

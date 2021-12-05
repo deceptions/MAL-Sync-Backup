@@ -16,10 +16,19 @@
   "malId": 119761,
   "aniId": 107786,
   "createdAt": "2021-06-01T02:53:38.000Z",
-  "updatedAt": "2021-06-01T03:22:54.000Z",
+  "updatedAt": "2021-12-01T03:42:05.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_MF00000034010000_68/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%95%B0%E4%B8%96%E7%95%8C%E9%A7%85%E8%88%8E%E3%81%AE%E5%96%AB%E8%8C%B6%E5%BA%97"
+      }
+    ],
     "altTitle": [
       "The Coffee Shop in a Different World Station",
       "異世界駅舎の喫茶店"
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:58.000Z",
-    "updatedAt": "2021-06-01T02:53:38.000Z",
+    "updatedAt": "2021-12-01T03:10:10.000Z",
     "deletedAt": null
   },
   "Anilist": {

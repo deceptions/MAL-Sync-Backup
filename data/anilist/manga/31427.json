@@ -38,7 +38,29 @@
         "malId": 1427,
         "aniId": 31427,
         "createdAt": "2020-10-12T16:05:10.000Z",
-        "updatedAt": "2021-06-03T10:49:27.000Z",
+        "updatedAt": "2021-12-03T11:16:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "vandemieru_no_tsubasa": {
+        "authors": [
+          "KITOH Mohiro"
+        ],
+        "identifier": "vandemieru_no_tsubasa",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Vandemieru no Tsubasa",
+        "url": "https://fanfox.net/manga/vandemieru_no_tsubasa/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1422/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1427,
+        "aniId": 31427,
+        "createdAt": "2021-12-01T02:07:50.000Z",
+        "updatedAt": "2021-12-01T02:35:34.000Z",
         "deletedAt": null
       }
     }

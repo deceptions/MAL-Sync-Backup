@@ -16,10 +16,15 @@
   "malId": 123634,
   "aniId": 113535,
   "createdAt": "2021-05-31T21:23:40.000Z",
-  "updatedAt": "2021-05-31T21:52:54.000Z",
+  "updatedAt": "2021-12-01T00:44:41.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-gardo.com/episode/10834108156661709966"
+      }
+    ],
     "altTitle": [
       "Boy Having Useless Skill Mapping",
       "Hazure Skill \"Chizu-ka\" wo Te ni Shita Shounen wa Saikyou Party to Dungeon ni Idomu",
@@ -37,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:48:11.000Z",
-    "updatedAt": "2021-05-31T21:23:40.000Z",
+    "updatedAt": "2021-12-01T03:14:00.000Z",
     "deletedAt": null
   },
   "Anilist": {

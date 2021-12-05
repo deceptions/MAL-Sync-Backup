@@ -1,6 +1,6 @@
 {
   "authors": [
-    "NARITA Minako"
+    "Narita Minako"
   ],
   "identifier": "2c4527e1-a95d-425e-a911-584f3276f4fd",
   "type": "manga",
@@ -15,12 +15,19 @@
   "malId": 9151,
   "aniId": 39151,
   "createdAt": "2020-10-12T16:07:59.000Z",
-  "updatedAt": "2021-06-04T08:39:22.000Z",
+  "updatedAt": "2021-12-04T08:47:47.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E9%80%9A%E3%82%8A"
+      }
+    ],
     "altTitle": [
-      "Alien-doori, Birthday March, Memorial Pot-pourri",
+      "Alien-doori",
+      "Birthday March",
+      "Memorial Pot-pourri",
       "エイリアン通り〈ストリート〉"
     ],
     "authors": [
@@ -34,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:22.000Z",
-    "updatedAt": "2021-06-04T06:49:18.000Z",
+    "updatedAt": "2021-12-04T07:17:38.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -16,10 +16,15 @@
   "malId": 3400,
   "aniId": 33400,
   "createdAt": "2020-10-12T16:05:33.000Z",
-  "updatedAt": "2021-06-03T13:23:29.000Z",
+  "updatedAt": "2021-12-03T13:49:39.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/First_Love_Sisters"
+      }
+    ],
     "altTitle": [
       "First Love Sisters",
       "Loving Sisters",
@@ -37,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:50.000Z",
-    "updatedAt": "2021-06-04T19:52:09.000Z",
+    "updatedAt": "2021-12-04T20:16:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.famitsu.com/comic_clear/se_shinonome/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%9D%B1%E9%9B%B2%E4%BE%91%E5%AD%90%E3%81%AF%E7%9F%AD%E7%B7%A8%E5%B0%8F%E8%AA%AC%E3%82%92%E3%81%82%E3%81%84%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B"
+    }
+  ],
   "altTitle": [
     "Shinonome Yuuko Loves Short Stories",
     "東雲侑子は短編小説をあいしている"
@@ -16,14 +25,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:42.000Z",
-  "updatedAt": "2021-06-02T21:01:22.000Z",
+  "updatedAt": "2021-12-02T21:16:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "356dfa2b-05e3-45c2-91d6-eb02da8907c6": {
         "authors": [
-          "Naruse Chisato",
-          "Morihashi Bingo"
+          "Morihashi Bingo",
+          "Naruse Chisato"
         ],
         "identifier": "356dfa2b-05e3-45c2-91d6-eb02da8907c6",
         "type": "manga",
@@ -38,7 +47,7 @@
         "malId": 51661,
         "aniId": 81661,
         "createdAt": "2020-10-12T16:06:23.000Z",
-        "updatedAt": "2021-06-03T19:22:59.000Z",
+        "updatedAt": "2021-12-03T19:46:58.000Z",
         "deletedAt": null
       }
     },
@@ -61,28 +70,6 @@
         "aniId": 81661,
         "createdAt": "2021-05-10T14:44:07.000Z",
         "updatedAt": "2021-11-20T22:49:06.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-mp963372": {
-        "authors": [
-          "Morihashi Bingo"
-        ],
-        "identifier": "manga-mp963372",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Shinonome Yuuko Wa Tanpen Shousetsu O Aishite Iru",
-        "url": "https://manganato.com/manga-mp963372",
-        "image": "https://avt.mkklcdnv6temp.com/47/f/8-1583479976.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 51661,
-        "aniId": 81661,
-        "createdAt": "2021-06-02T21:01:22.000Z",
-        "updatedAt": "2021-06-02T21:30:50.000Z",
         "deletedAt": null
       }
     }

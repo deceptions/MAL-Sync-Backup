@@ -1,12 +1,17 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E9%BA%97%E5%A4%A2"
+    }
+  ],
   "altTitle": [
     "Dream Hunter Remu Alternative",
     "ドリームハンター麗夢alternative"
   ],
   "authors": [
     "Okuda, Seiji",
-    "Hiura R"
+    "Hiura, R"
   ],
   "id": 68601,
   "type": "manga",
@@ -16,14 +21,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:14.000Z",
-  "updatedAt": "2021-06-04T16:23:48.000Z",
+  "updatedAt": "2021-12-04T16:53:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "872ad250-9f6f-4676-b45e-ee14471b5230": {
         "authors": [
-          "Hiura R",
-          "Okuda Seiji"
+          "Okuda Seiji",
+          "Hiura R"
         ],
         "identifier": "872ad250-9f6f-4676-b45e-ee14471b5230",
         "type": "manga",
@@ -38,29 +43,7 @@
         "malId": 68601,
         "aniId": 90863,
         "createdAt": "2020-10-12T16:07:14.000Z",
-        "updatedAt": "2021-06-04T01:21:38.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "dream_hunter_remu_alternative": {
-        "authors": [
-          "OKUDA Seiji"
-        ],
-        "identifier": "dream_hunter_remu_alternative",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Dream Hunter Remu Alternative",
-        "url": "https://fanfox.net/manga/dream_hunter_remu_alternative/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/14556/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 68601,
-        "aniId": 90863,
-        "createdAt": "2021-06-04T16:23:48.000Z",
-        "updatedAt": "2021-06-04T16:48:57.000Z",
+        "updatedAt": "2021-12-04T01:50:02.000Z",
         "deletedAt": null
       }
     }

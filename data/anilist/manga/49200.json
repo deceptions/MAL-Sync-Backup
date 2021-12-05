@@ -31,7 +31,7 @@
         "page": "Mangadex",
         "title": "Ookami Heika no Hanayome",
         "url": "https://mangadex.org/title/8d2e6257-a8c2-4a82-9982-244157181ba4",
-        "image": "https://uploads.mangadex.org/covers/8d2e6257-a8c2-4a82-9982-244157181ba4/ba0fc85e-a37e-4239-9a9f-8e0a10adb806.jpg",
+        "image": "https://uploads.mangadex.org/covers/8d2e6257-a8c2-4a82-9982-244157181ba4/15350f26-4626-4981-9f9a-6e851a134736.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
@@ -39,7 +39,7 @@
         "malId": 19200,
         "aniId": 49200,
         "createdAt": "2020-10-12T16:02:56.000Z",
-        "updatedAt": "2021-06-02T10:32:51.000Z",
+        "updatedAt": "2021-12-02T10:47:39.000Z",
         "deletedAt": null
       }
     },
@@ -84,6 +84,28 @@
         "aniId": 49200,
         "createdAt": "2021-07-18T13:02:20.000Z",
         "updatedAt": "2021-07-18T13:32:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ookami_heika_no_hanayome": {
+        "authors": [
+          "KAUTA Mato"
+        ],
+        "identifier": "ookami_heika_no_hanayome",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ookami-heika no Hanayome",
+        "url": "https://fanfox.net/manga/ookami_heika_no_hanayome/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8268/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19200,
+        "aniId": 49200,
+        "createdAt": "2021-11-28T03:35:34.000Z",
+        "updatedAt": "2021-11-28T04:05:32.000Z",
         "deletedAt": null
       }
     }

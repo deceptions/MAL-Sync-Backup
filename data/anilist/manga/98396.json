@@ -62,6 +62,28 @@
         "updatedAt": "2021-11-20T19:45:17.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "ayanashi": {
+        "authors": [
+          "KAJIMOTO Yukihiro"
+        ],
+        "identifier": "ayanashi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ayanashi",
+        "url": "https://fanfox.net/manga/ayanashi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/24095/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104186,
+        "aniId": 98396,
+        "createdAt": "2021-05-24T04:38:41.000Z",
+        "updatedAt": "2021-11-24T05:37:41.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

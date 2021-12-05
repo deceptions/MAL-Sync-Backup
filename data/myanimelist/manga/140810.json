@@ -21,5 +21,28 @@
   "createdAt": "2021-11-12T20:13:45.000Z",
   "updatedAt": "2021-11-12T20:13:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "056145c2-10b8-4f73-a4ee-212a3669d4d7": {
+        "authors": [
+          "Hara Tsumoi"
+        ],
+        "identifier": "056145c2-10b8-4f73-a4ee-212a3669d4d7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Takachiho Honoka-senpai ga SUKIde SUKIde Iroiro Gamandekinai.",
+        "url": "https://mangadex.org/title/056145c2-10b8-4f73-a4ee-212a3669d4d7",
+        "image": "https://uploads.mangadex.org/covers/056145c2-10b8-4f73-a4ee-212a3669d4d7/0ff9305d-8208-4da6-ae80-d8a4692b63b1.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140810,
+        "aniId": 141043,
+        "createdAt": "2021-11-29T19:35:33.000Z",
+        "updatedAt": "2021-11-29T19:35:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

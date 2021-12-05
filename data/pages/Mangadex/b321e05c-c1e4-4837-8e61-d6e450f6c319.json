@@ -1,11 +1,11 @@
 {
   "authors": [
-    "Yoshioka Ririko",
     "Sakurai Machiko",
-    "Anzai Hana",
-    "Shimotsuki Kayoko",
     "Mikimoto Rin",
+    "Anzai Hana",
+    "Yoshioka Ririko",
     "Mine Toriko",
+    "Shimotsuki Kayoko",
     "Higuchi Nichiho"
   ],
   "identifier": "b321e05c-c1e4-4837-8e61-d6e450f6c319",
@@ -17,16 +17,27 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actor": null,
   "malId": 36069,
   "aniId": null,
   "createdAt": "2020-10-12T16:06:03.000Z",
-  "updatedAt": "2021-06-03T17:03:53.000Z",
+  "updatedAt": "2021-12-03T17:18:48.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.bookclub.kodansha.co.jp/bc2_bc/search_view.jsp?b=3414841"
+      }
+    ],
     "altTitle": [
-      "Vanilla, 17-sai, Happy, Koi no Hibi, Katakoi Piano, Suppai Kiwi, Koharu Biyori",
+      "Vanilla",
+      "17-sai",
+      "Happy",
+      "Koi no Hibi",
+      "Katakoi Piano",
+      "Suppai Kiwi",
+      "Koharu Biyori",
       "この恋に涙する!"
     ],
     "authors": [
@@ -46,7 +57,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-03T16:50:11.000Z",
-    "updatedAt": "2021-06-03T16:50:11.000Z",
+    "updatedAt": "2021-12-03T17:17:16.000Z",
     "deletedAt": null
   },
   "Anilist": null,

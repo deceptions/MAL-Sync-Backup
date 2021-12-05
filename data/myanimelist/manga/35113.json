@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/修羅の門異伝_ふでかげ"
+    }
+  ],
   "altTitle": [
     "修羅の門異伝 ふでかげ"
   ],
@@ -15,14 +20,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:57.000Z",
-  "updatedAt": "2021-06-04T10:51:21.000Z",
+  "updatedAt": "2021-12-04T11:17:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "9b3d5ab6-6350-4e9f-9d6a-0f3d0719e7c5": {
         "authors": [
-          "TOBINAGA Hiroyuki",
-          "KAWAHARA Masatoshi"
+          "Kawahara Masatoshi",
+          "Tobinaga Hiroyuki"
         ],
         "identifier": "9b3d5ab6-6350-4e9f-9d6a-0f3d0719e7c5",
         "type": "manga",
@@ -33,11 +38,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 35113,
         "aniId": null,
         "createdAt": "2020-10-12T16:08:30.000Z",
-        "updatedAt": "2021-06-04T12:51:47.000Z",
+        "updatedAt": "2021-12-04T13:20:27.000Z",
         "deletedAt": null
       }
     }

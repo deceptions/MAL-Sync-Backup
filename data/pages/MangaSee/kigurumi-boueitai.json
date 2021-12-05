@@ -15,10 +15,15 @@
   "malId": 63281,
   "aniId": 85741,
   "createdAt": "2021-05-28T08:23:48.000Z",
-  "updatedAt": "2021-05-28T08:53:46.000Z",
+  "updatedAt": "2021-11-28T09:05:44.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://nakayosi.kodansha.co.jp/manga/14/"
+      }
+    ],
     "altTitle": [
       "Kigurumi Guardians",
       "Kigurumi Boueitai",
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:05.000Z",
-    "updatedAt": "2021-05-28T08:23:47.000Z",
+    "updatedAt": "2021-11-28T08:35:52.000Z",
     "deletedAt": null
   },
   "Anilist": {

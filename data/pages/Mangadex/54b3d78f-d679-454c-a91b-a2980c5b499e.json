@@ -1,7 +1,7 @@
 {
   "authors": [
-    "KONATA Hyuura",
-    "Circus"
+    "Circus",
+    "Hyuura Konata"
   ],
   "identifier": "54b3d78f-d679-454c-a91b-a2980c5b499e",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 7453,
   "aniId": 37453,
   "createdAt": "2020-10-12T16:04:31.000Z",
-  "updatedAt": "2021-06-02T22:03:34.000Z",
+  "updatedAt": "2021-12-02T22:17:46.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/AR_%E3%80%9C%E5%BF%98%E3%82%8C%E3%82%89%E3%82%8C%E3%81%9F%E5%A4%8F%E3%80%9C"
+      }
+    ],
     "altTitle": [
       "AR: Forgotten summer",
       "AR ～忘れられた夏～"
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:14.000Z",
-    "updatedAt": "2021-06-02T22:01:22.000Z",
+    "updatedAt": "2021-12-02T22:16:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

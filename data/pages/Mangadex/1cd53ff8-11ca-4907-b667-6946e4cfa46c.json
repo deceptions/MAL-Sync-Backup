@@ -15,10 +15,19 @@
   "malId": 94490,
   "aniId": 97711,
   "createdAt": "2020-10-12T16:04:07.000Z",
-  "updatedAt": "2021-06-02T18:48:12.000Z",
+  "updatedAt": "2021-12-02T19:17:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://comic.naver.com/webtoon/list.nhn?titleId=119874"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EB%8D%B4%EB%A7%88_(%EB%A7%8C%ED%99%94)"
+      }
+    ],
     "altTitle": [
       "Denma",
       "덴마"
@@ -34,7 +43,7 @@
     "category": "Manhwa",
     "hentai": false,
     "createdAt": "2020-10-12T15:46:20.000Z",
-    "updatedAt": "2021-07-01T18:50:45.000Z",
+    "updatedAt": "2021-12-04T00:47:48.000Z",
     "deletedAt": null
   },
   "Anilist": {

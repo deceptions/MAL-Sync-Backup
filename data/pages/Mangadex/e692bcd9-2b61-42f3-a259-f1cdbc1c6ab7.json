@@ -15,10 +15,19 @@
   "malId": 34377,
   "aniId": 64377,
   "createdAt": "2020-10-12T16:03:59.000Z",
-  "updatedAt": "2021-06-02T17:52:12.000Z",
+  "updatedAt": "2021-12-02T18:17:27.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://youngjump.jp/manga/brunhild/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%A5%B5%E9%BB%92%E3%81%AE%E3%83%96%E3%83%AA%E3%83%A5%E3%83%B3%E3%83%92%E3%83%AB%E3%83%87"
+      }
+    ],
     "altTitle": [
       "Brynhildr in the Darkness",
       "極黒のブリュンヒルデ"
@@ -34,7 +43,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:49.000Z",
-    "updatedAt": "2021-05-29T18:42:44.000Z",
+    "updatedAt": "2021-11-29T19:05:52.000Z",
     "deletedAt": null
   },
   "Anilist": {

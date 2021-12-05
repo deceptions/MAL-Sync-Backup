@@ -7,7 +7,7 @@
     "Teppei Fukushima"
   ],
   "id": 78451,
-  "malId": 48451,
+  "malId": null,
   "type": "manga",
   "title": "Hanseishite Kameda-kun",
   "url": "https://anilist.co/manga/78451",
@@ -15,7 +15,30 @@
   "category": "one_shot",
   "hentai": false,
   "createdAt": "2021-06-03T17:19:08.000Z",
-  "updatedAt": "2021-06-17T20:37:21.000Z",
+  "updatedAt": "2021-12-03T17:46:15.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "84d5742f-f5cd-408b-8f15-23e2c799f292": {
+        "authors": [
+          "Fukushima Teppei"
+        ],
+        "identifier": "84d5742f-f5cd-408b-8f15-23e2c799f292",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hanseishite Kameda-kun",
+        "url": "https://mangadex.org/title/84d5742f-f5cd-408b-8f15-23e2c799f292",
+        "image": "https://uploads.mangadex.org/covers/84d5742f-f5cd-408b-8f15-23e2c799f292/ec26eabc-bc40-4576-9842-f8e9b4f4a2cd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 20853,
+        "aniId": 78451,
+        "createdAt": "2020-10-12T16:06:04.000Z",
+        "updatedAt": "2021-12-03T20:03:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

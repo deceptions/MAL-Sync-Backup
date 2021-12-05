@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T09:50:12.000Z",
-  "updatedAt": "2021-06-21T15:17:42.000Z",
+  "updatedAt": "2021-12-01T17:16:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 116682,
         "createdAt": "2020-10-12T16:17:39.000Z",
         "updatedAt": "2021-06-09T08:07:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gn983570": {
+        "authors": [
+          "Aya Azuma"
+        ],
+        "identifier": "manga-gn983570",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Shinigami's Rowing Her Boat As Usual - Touhou",
+        "url": "https://manganato.com/manga-gn983570",
+        "image": "https://avt.mkklcdnv6temp.com/43/o/19-1583500764.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 116682,
+        "createdAt": "2021-08-08T08:09:48.000Z",
+        "updatedAt": "2021-12-01T17:16:57.000Z",
         "deletedAt": null
       }
     }

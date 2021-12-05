@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/LAST_EXILE"
+    }
+  ],
   "altTitle": [
     "Last Exile: Sunadokei no Ryojin",
     "Last Exile: Travelers From the Hourglass",
@@ -17,14 +22,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:41.000Z",
-  "updatedAt": "2021-09-26T15:46:44.000Z",
+  "updatedAt": "2021-12-04T10:46:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "8e482ba8-2c9e-405c-ace5-91246904456b": {
         "authors": [
-          "Murao Minoru",
-          "GONZO"
+          "Gonzo",
+          "Murao Minoru"
         ],
         "identifier": "8e482ba8-2c9e-405c-ace5-91246904456b",
         "type": "manga",
@@ -39,7 +44,7 @@
         "malId": 30207,
         "aniId": 60207,
         "createdAt": "2020-10-12T16:03:16.000Z",
-        "updatedAt": "2021-06-02T12:45:22.000Z",
+        "updatedAt": "2021-12-02T12:47:37.000Z",
         "deletedAt": null
       }
     },
@@ -63,6 +68,28 @@
         "aniId": 60207,
         "createdAt": "2021-03-26T15:19:07.000Z",
         "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nc964937": {
+        "authors": [
+          "Gonzo"
+        ],
+        "identifier": "manga-nc964937",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Last Exile - Sunadokei No Tabibito",
+        "url": "https://readmanganato.com/manga-nc964937",
+        "image": "https://avt.mkklcdnv6temp.com/45/w/9-1583482018.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30207,
+        "aniId": 60207,
+        "createdAt": "2021-12-04T10:46:07.000Z",
+        "updatedAt": "2021-12-04T11:16:05.000Z",
         "deletedAt": null
       }
     }

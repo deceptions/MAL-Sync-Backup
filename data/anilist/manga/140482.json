@@ -18,5 +18,29 @@
   "createdAt": "2021-10-20T19:29:28.000Z",
   "updatedAt": "2021-11-26T13:36:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "35b9f818-926b-4f4a-aa2b-0ac068986a73": {
+        "authors": [
+          "Sekka Iwata",
+          "Yuu Aoki"
+        ],
+        "identifier": "35b9f818-926b-4f4a-aa2b-0ac068986a73",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kabushiki Gaisha Magi Lumiere",
+        "url": "https://mangadex.org/title/35b9f818-926b-4f4a-aa2b-0ac068986a73",
+        "image": "https://uploads.mangadex.org/covers/35b9f818-926b-4f4a-aa2b-0ac068986a73/6384b2a9-fec1-4673-8ddf-59d18e730ce3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 140482,
+        "createdAt": "2021-11-29T23:35:46.000Z",
+        "updatedAt": "2021-11-29T23:36:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Arai Teruko",
-    "Sogabe Shuuji"
+    "Sogabe Shuuji",
+    "Arai Teruko"
   ],
   "identifier": "d8ab32f8-fd50-4802-b60f-02af8ea08574",
   "type": "manga",
@@ -12,14 +12,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actor": null,
   "malId": 95862,
   "aniId": 96714,
   "createdAt": "2020-10-12T16:09:05.000Z",
-  "updatedAt": "2021-06-04T15:48:57.000Z",
+  "updatedAt": "2021-12-04T16:23:32.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%89"
+      }
+    ],
     "altTitle": [
       "プリンス・オブ・ストライド GALAXY RUSH"
     ],
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:46:23.000Z",
-    "updatedAt": "2021-06-04T15:19:48.000Z",
+    "updatedAt": "2021-12-04T15:50:39.000Z",
     "deletedAt": null
   },
   "Anilist": {

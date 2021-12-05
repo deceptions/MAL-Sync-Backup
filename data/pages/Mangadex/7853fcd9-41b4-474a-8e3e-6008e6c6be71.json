@@ -1,6 +1,6 @@
 {
   "authors": [
-    "UCHIDA Kouhei"
+    "Uchida Kouhei"
   ],
   "identifier": "7853fcd9-41b4-474a-8e3e-6008e6c6be71",
   "type": "manga",
@@ -15,10 +15,15 @@
   "malId": 56897,
   "aniId": 85795,
   "createdAt": "2020-10-12T16:06:39.000Z",
-  "updatedAt": "2021-06-03T21:40:41.000Z",
+  "updatedAt": "2021-12-03T21:50:49.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kc.kodansha.co.jp/content/top.php/KB00000849"
+      }
+    ],
     "altTitle": [
       "タイヨウノヒトミ"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:44:49.000Z",
-    "updatedAt": "2021-06-03T21:20:58.000Z",
+    "updatedAt": "2021-12-03T21:49:08.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Miyajima Reiji",
-    "Motoazabu Factory"
+    "Motoazabu Factory",
+    "Miyajima Reiji"
   ],
   "identifier": "4807a7aa-efeb-447e-9a94-068054fd7b7d",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 23052,
   "aniId": 53052,
   "createdAt": "2020-10-12T16:02:42.000Z",
-  "updatedAt": "2021-06-02T08:49:55.000Z",
+  "updatedAt": "2021-12-02T09:16:49.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/AKB49%E3%80%9C%E6%81%8B%E6%84%9B%E7%A6%81%E6%AD%A2%E6%9D%A1%E4%BE%8B%E3%80%9C"
+      }
+    ],
     "altTitle": [
       "AKB49: The Rules Against Love",
       "AKB49〜恋愛禁止条例〜"
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:08.000Z",
-    "updatedAt": "2021-05-29T09:13:03.000Z",
+    "updatedAt": "2021-11-29T09:36:24.000Z",
     "deletedAt": null
   },
   "Anilist": {

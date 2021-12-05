@@ -15,10 +15,15 @@
   "malId": 11327,
   "aniId": 41327,
   "createdAt": "2020-10-12T16:02:32.000Z",
-  "updatedAt": "2021-06-02T07:39:56.000Z",
+  "updatedAt": "2021-12-02T07:47:18.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/ONE_OUTS"
+      }
+    ],
     "altTitle": [
       "ONE OUTS"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:33.000Z",
-    "updatedAt": "2021-07-17T05:04:01.000Z",
+    "updatedAt": "2021-11-29T01:06:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

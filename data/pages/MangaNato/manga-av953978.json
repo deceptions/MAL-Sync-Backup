@@ -15,13 +15,19 @@
   "malId": 3520,
   "aniId": 33520,
   "createdAt": "2021-05-31T09:04:48.000Z",
-  "updatedAt": "2021-05-31T09:30:42.000Z",
+  "updatedAt": "2021-12-01T00:14:19.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.netcomics.com/comic/totallycaptivated.htm"
+      }
+    ],
     "altTitle": [
       "Totally Captivated",
-      "Wanjeon Mukyeol-hage Saro Japhida, Totally Captivated by Mookyul",
+      "Wanjeon Mukyeol-hage Saro Japhida",
+      "Totally Captivated by Mookyul",
       "완전무결하게 사로잡히다"
     ],
     "authors": [
@@ -35,7 +41,7 @@
     "category": "Manhwa",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:51.000Z",
-    "updatedAt": "2021-05-31T09:04:48.000Z",
+    "updatedAt": "2021-12-01T00:36:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

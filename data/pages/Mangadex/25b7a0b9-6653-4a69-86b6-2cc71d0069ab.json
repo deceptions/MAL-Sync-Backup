@@ -15,13 +15,19 @@
   "malId": 39291,
   "aniId": 69291,
   "createdAt": "2020-10-12T16:05:12.000Z",
-  "updatedAt": "2021-06-03T10:56:37.000Z",
+  "updatedAt": "2021-12-03T11:17:19.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%99%B9%E8%89%B2%E3%83%87%E3%82%A4%E3%82%BA"
+      }
+    ],
     "altTitle": [
       "Rainbow Days",
-      "Aru Toshi to Sorekara no Watashitachi, Shinbun-bu no Yoriko-kun",
+      "Aru Toshi to Sorekara no Watashitachi",
+      "Shinbun-bu no Yoriko-kun",
       "虹色デイズ"
     ],
     "authors": [
@@ -35,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:44:05.000Z",
-    "updatedAt": "2021-05-31T09:34:22.000Z",
+    "updatedAt": "2021-12-01T01:40:07.000Z",
     "deletedAt": null
   },
   "Anilist": {

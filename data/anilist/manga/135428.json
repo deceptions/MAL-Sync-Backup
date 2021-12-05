@@ -17,5 +17,28 @@
   "createdAt": "2021-06-12T01:38:19.000Z",
   "updatedAt": "2021-11-23T00:35:48.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "6a5ba551-4cf0-4f84-9d6b-bbe03e7be239": {
+        "authors": [
+          "Nakagawa Yuri"
+        ],
+        "identifier": "6a5ba551-4cf0-4f84-9d6b-bbe03e7be239",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenshi Dattara, Yokatta",
+        "url": "https://mangadex.org/title/6a5ba551-4cf0-4f84-9d6b-bbe03e7be239",
+        "image": "https://uploads.mangadex.org/covers/6a5ba551-4cf0-4f84-9d6b-bbe03e7be239/3fa86d03-9e06-4450-823a-98954440e38e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140160,
+        "aniId": 135428,
+        "createdAt": "2021-11-30T21:36:53.000Z",
+        "updatedAt": "2021-11-30T22:05:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

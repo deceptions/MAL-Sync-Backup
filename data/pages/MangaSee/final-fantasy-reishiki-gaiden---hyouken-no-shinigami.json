@@ -16,13 +16,24 @@
   "malId": 61309,
   "aniId": 89217,
   "createdAt": "2021-05-28T23:25:15.000Z",
-  "updatedAt": "2021-05-28T23:42:12.000Z",
+  "updatedAt": "2021-11-29T00:06:36.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://gangan.square-enix.co.jp/introduction/ff_type_0_gaiden/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E9%9B%B6%E5%BC%8F"
+      }
+    ],
     "altTitle": [
       "Final Fantasy Type-0 Side Story, The Ice Reaper",
-      "Final Fantasy Type-0 Gaiden: Reaper of the Icy Blade, FF Type-0 Gaiden, Final Fantasy Reishiki Gaiden: Hitsurugi no Shinigami",
+      "Final Fantasy Type-0 Gaiden: Reaper of the Icy Blade",
+      "FF Type-0 Gaiden",
+      "Final Fantasy Reishiki Gaiden: Hitsurugi no Shinigami",
       "FINAL FANTASY零式外伝 氷剣の死神"
     ],
     "authors": [
@@ -37,7 +48,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:01.000Z",
-    "updatedAt": "2021-05-28T23:25:14.000Z",
+    "updatedAt": "2021-11-28T23:36:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

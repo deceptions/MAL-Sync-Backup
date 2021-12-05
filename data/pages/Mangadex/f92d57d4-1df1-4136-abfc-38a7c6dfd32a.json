@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Chihara Esu",
-    "Anne Marie Winston"
+    "Anne Marie Winston",
+    "Chihara Esu"
   ],
   "identifier": "f92d57d4-1df1-4136-abfc-38a7c6dfd32a",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 32313,
   "aniId": 62313,
   "createdAt": "2020-10-12T16:07:40.000Z",
-  "updatedAt": "2021-06-04T08:56:46.000Z",
+  "updatedAt": "2021-12-04T09:19:00.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.jmanga.com/billionaire-bachelors-stone/1"
+      }
+    ],
     "altTitle": [
       "Billionaire Bachelors: Stone",
       "Ai o Shiranai Okumanchouja",
@@ -37,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:45.000Z",
-    "updatedAt": "2021-06-04T04:50:37.000Z",
+    "updatedAt": "2021-12-04T05:18:31.000Z",
     "deletedAt": null
   },
   "Anilist": {

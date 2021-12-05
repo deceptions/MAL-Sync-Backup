@@ -1,8 +1,8 @@
 {
   "authors": [
-    "Taichi You",
     "Gatou Shouji",
-    "Ookuro Naoto"
+    "Ookuro Naoto",
+    "Taichi You"
   ],
   "identifier": "ce148ded-c378-4e10-9e7d-83059969b4c3",
   "type": "manga",
@@ -17,10 +17,15 @@
   "malId": 30741,
   "aniId": 60741,
   "createdAt": "2020-10-12T16:07:07.000Z",
-  "updatedAt": "2021-06-04T00:33:09.000Z",
+  "updatedAt": "2021-12-04T00:48:48.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AB%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%BB%E3%83%91%E3%83%8B%E3%83%83%E3%82%AF!%E3%82%A2%E3%83%8A%E3%82%B6%E3%83%BC"
+      }
+    ],
     "altTitle": [
       "フルメタル・パニック! アナザー"
     ],
@@ -37,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:42.000Z",
-    "updatedAt": "2021-06-01T15:37:31.000Z",
+    "updatedAt": "2021-12-01T15:49:57.000Z",
     "deletedAt": null
   },
   "Anilist": {

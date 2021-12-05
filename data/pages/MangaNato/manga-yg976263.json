@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 32475,
-  "aniId": null,
+  "aniId": 62475,
   "createdAt": "2021-07-04T06:29:55.000Z",
-  "updatedAt": "2021-07-04T06:30:03.000Z",
+  "updatedAt": "2021-11-30T16:05:34.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -37,6 +37,26 @@
     "updatedAt": "2021-07-04T06:30:03.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "青春花心中",
+      "Oitekebori no Machi to Boku to Kimi to."
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hideki Kawai"
+    ],
+    "id": 62475,
+    "malId": 32475,
+    "type": "manga",
+    "title": "Seishun Hanashinjuu",
+    "url": "https://anilist.co/manga/62475",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx62475-PwQlirrl3pMw.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-30T15:35:35.000Z",
+    "updatedAt": "2021-11-30T15:35:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/32475/Seishun_Hanashinjuu"
 }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%BC%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%82%B9"
+    }
+  ],
   "altTitle": [
     "東京クレイジーパラダイス"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:25.000Z",
-  "updatedAt": "2021-06-04T03:18:57.000Z",
+  "updatedAt": "2021-12-04T03:46:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,7 +40,7 @@
         "malId": 762,
         "aniId": 30762,
         "createdAt": "2020-10-12T16:03:21.000Z",
-        "updatedAt": "2021-06-02T13:21:42.000Z",
+        "updatedAt": "2021-12-02T13:46:46.000Z",
         "deletedAt": null
       }
     },
@@ -58,28 +63,6 @@
         "aniId": 30762,
         "createdAt": "2021-01-18T11:35:35.000Z",
         "updatedAt": "2021-11-20T17:45:37.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-ip957424": {
-        "authors": [
-          "Nakamura Yoshiki"
-        ],
-        "identifier": "manga-ip957424",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Tokyo Crazy Paradise",
-        "url": "https://manganato.com/manga-ip957424",
-        "image": "https://avt.mkklcdnv6temp.com/44/v/4-1583471572.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 762,
-        "aniId": 30762,
-        "createdAt": "2021-06-04T03:18:57.000Z",
-        "updatedAt": "2021-06-04T03:48:57.000Z",
         "deletedAt": null
       }
     }

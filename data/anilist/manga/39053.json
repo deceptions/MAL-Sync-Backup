@@ -21,8 +21,8 @@
     "Mangadex": {
       "23666ee3-fe24-4728-b52d-dc808dfe19b0": {
         "authors": [
-          "김윤경",
-          "이종규"
+          "이종규",
+          "김윤경"
         ],
         "identifier": "23666ee3-fe24-4728-b52d-dc808dfe19b0",
         "type": "manga",
@@ -37,7 +37,29 @@
         "malId": 9053,
         "aniId": 39053,
         "createdAt": "2020-10-12T16:02:32.000Z",
-        "updatedAt": "2021-06-02T07:44:36.000Z",
+        "updatedAt": "2021-12-02T07:47:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ping": {
+        "authors": [
+          "LEE Chong Kyu"
+        ],
+        "identifier": "ping",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ping",
+        "url": "https://mangasee123.com/manga/Ping",
+        "image": "https://cover.nep.li/cover/Ping.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9053,
+        "aniId": 39053,
+        "createdAt": "2021-05-26T12:08:24.000Z",
+        "updatedAt": "2021-11-26T13:05:31.000Z",
         "deletedAt": null
       }
     }

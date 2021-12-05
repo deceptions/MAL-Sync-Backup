@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AB%E3%83%A9%E3%82%AD%E3%83%AB"
+    }
+  ],
   "altTitle": [
     "KILL la KILL",
     "KLK",
@@ -17,16 +22,16 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:53.000Z",
-  "updatedAt": "2021-08-31T14:36:52.000Z",
+  "updatedAt": "2021-11-30T06:05:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "a8e8268b-28f5-4edc-8a1a-9c94da2a1370": {
         "authors": [
-          "Akizuki Ryou",
           "Trigger",
           "Nakashima Kazuki",
-          "Gainax"
+          "Gainax",
+          "Akizuki Ryou"
         ],
         "identifier": "a8e8268b-28f5-4edc-8a1a-9c94da2a1370",
         "type": "manga",
@@ -41,7 +46,7 @@
         "malId": 58391,
         "aniId": 88609,
         "createdAt": "2020-10-12T16:07:08.000Z",
-        "updatedAt": "2021-06-04T00:36:09.000Z",
+        "updatedAt": "2021-12-04T00:48:58.000Z",
         "deletedAt": null
       }
     },

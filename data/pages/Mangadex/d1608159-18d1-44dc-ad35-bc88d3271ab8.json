@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Kuroyurihime",
-    "Tanaka Nijusan"
+    "Tanaka Nijusan",
+    "Kuroyurihime"
   ],
   "identifier": "d1608159-18d1-44dc-ad35-bc88d3271ab8",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 75551,
   "aniId": 92205,
   "createdAt": "2020-10-12T16:09:03.000Z",
-  "updatedAt": "2021-06-04T14:44:41.000Z",
+  "updatedAt": "2021-12-04T14:56:20.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.alphapolis.co.jp/manga/viewOpening/836000068/"
+      }
+    ],
     "altTitle": [
       "物語の中の人"
     ],
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:23.000Z",
-    "updatedAt": "2021-06-04T02:21:18.000Z",
+    "updatedAt": "2021-12-04T02:50:40.000Z",
     "deletedAt": null
   },
   "Anilist": {

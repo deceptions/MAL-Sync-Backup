@@ -1,6 +1,6 @@
 {
   "authors": [
-    "HAZUKI Megumi"
+    "Hazuki Megumi"
   ],
   "identifier": "6566fd4c-c02e-4706-a863-65c8497d5c57",
   "type": "manga",
@@ -15,12 +15,18 @@
   "malId": 86707,
   "aniId": 94122,
   "createdAt": "2020-10-12T16:09:42.000Z",
-  "updatedAt": "2021-06-04T20:12:07.000Z",
+  "updatedAt": "2021-12-04T20:22:48.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.jp.square-enix.com/magazine/joker/series/vampire/"
+      }
+    ],
     "altTitle": [
-      "Sono Kyuuketsuki wa Tadashikunai Yume wo Miru, Sono Vampire wa Tadashikunai Yume wo Miru",
+      "Sono Kyuuketsuki wa Tadashikunai Yume wo Miru",
+      "Sono Vampire wa Tadashikunai Yume wo Miru",
       "その吸血鬼〈ヴァンピール〉は正しくない夢をみる"
     ],
     "authors": [
@@ -34,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:53.000Z",
-    "updatedAt": "2021-06-04T19:49:37.000Z",
+    "updatedAt": "2021-12-04T20:19:08.000Z",
     "deletedAt": null
   },
   "Anilist": {

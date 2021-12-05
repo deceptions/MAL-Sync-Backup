@@ -1,8 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/product/top.php/1234595650"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Daphne_in_the_Brilliant_Blue"
+    }
+  ],
   "altTitle": [
     "Daphne in the Brilliant Blue",
-    "Ai ~Hikari to Mizu no Daphne~, Ai - Hikari to Mizu no Daphne",
+    "Ai ~Hikari to Mizu no Daphne~",
+    "Ai - Hikari to Mizu no Daphne",
     "アイ〜光と水のダフネ〜"
   ],
   "authors": [
@@ -16,13 +26,13 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-03T01:00:51.000Z",
-  "updatedAt": "2021-06-03T01:00:51.000Z",
+  "updatedAt": "2021-12-03T01:16:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "b399c0bd-014f-4274-b728-838ca739cacb": {
         "authors": [
-          "Shiki Satoshi"
+          "Satoshi Shiki"
         ],
         "identifier": "b399c0bd-014f-4274-b728-838ca739cacb",
         "type": "manga",
@@ -37,7 +47,7 @@
         "malId": 274,
         "aniId": 30274,
         "createdAt": "2020-10-12T16:04:57.000Z",
-        "updatedAt": "2021-06-03T08:37:59.000Z",
+        "updatedAt": "2021-12-03T08:47:58.000Z",
         "deletedAt": null
       }
     }

@@ -18,12 +18,14 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-17T08:32:40.000Z",
-  "updatedAt": "2021-09-28T09:04:04.000Z",
+  "updatedAt": "2021-12-02T06:46:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "6fe65679-5279-4fae-8c9e-60f0c95b2142": {
-        "authors": [],
+        "authors": [
+          "Sanka Kumaru"
+        ],
         "identifier": "6fe65679-5279-4fae-8c9e-60f0c95b2142",
         "type": "manga",
         "page": "Mangadex",
@@ -37,7 +39,7 @@
         "malId": null,
         "aniId": 136674,
         "createdAt": "2021-07-08T00:13:31.000Z",
-        "updatedAt": "2021-08-17T11:39:04.000Z",
+        "updatedAt": "2021-12-02T11:48:19.000Z",
         "deletedAt": null
       }
     }

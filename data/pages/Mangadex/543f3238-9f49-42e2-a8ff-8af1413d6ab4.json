@@ -18,10 +18,20 @@
   "updatedAt": "2021-06-06T19:31:31.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.blumanga.com/series_detail.php?series=wildrock"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Wild_Rock"
+      }
+    ],
     "altTitle": [
       "Wild Rock",
-      "Child Rock, Innocent Lies",
+      "Child Rock",
+      "Innocent Lies",
       "ワイルド・ロック"
     ],
     "authors": [
@@ -35,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:34.000Z",
-    "updatedAt": "2021-05-31T09:48:33.000Z",
+    "updatedAt": "2021-12-01T00:09:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

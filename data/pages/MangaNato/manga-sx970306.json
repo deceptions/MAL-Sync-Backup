@@ -15,10 +15,19 @@
   "malId": 96528,
   "aniId": 96834,
   "createdAt": "2021-05-28T17:24:01.000Z",
-  "updatedAt": "2021-05-28T17:53:32.000Z",
+  "updatedAt": "2021-11-28T18:06:05.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://over-lap.co.jp/comic/series/0003.aspx"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%8A%E3%81%B5%E3%82%8C%E3%81%9F%E8%81%B7%E6%A5%AD%E3%81%A7%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7"
+      }
+    ],
     "altTitle": [
       "Arifureta: From Commonplace to World's Strongest",
       "From Common Job Class to the Strongest in the World",
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:46:25.000Z",
-    "updatedAt": "2021-05-28T17:24:01.000Z",
+    "updatedAt": "2021-11-28T12:37:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

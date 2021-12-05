@@ -15,10 +15,15 @@
   "malId": 24881,
   "aniId": 54881,
   "createdAt": "2020-10-12T16:09:05.000Z",
-  "updatedAt": "2021-06-04T15:26:42.000Z",
+  "updatedAt": "2021-12-04T15:51:40.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%94%B7%E5%9D%82"
+      }
+    ],
     "altTitle": [
       "Man's Hill",
       "男坂"
@@ -30,11 +35,11 @@
     "type": "manga",
     "title": "Otokozaka",
     "url": "https://myanimelist.net/manga/24881/Otokozaka",
-    "image": "https://cdn.myanimelist.net/images/manga/1/40025.jpg",
+    "image": "https://cdn.myanimelist.net/images/manga/5/252110.jpg",
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-04T15:20:17.000Z",
-    "updatedAt": "2021-06-04T15:20:17.000Z",
+    "updatedAt": "2021-12-04T15:47:18.000Z",
     "deletedAt": null
   },
   "Anilist": {

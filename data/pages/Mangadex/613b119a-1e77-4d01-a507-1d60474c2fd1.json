@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actor": null,
   "malId": 91776,
   "aniId": null,
   "createdAt": "2020-10-12T16:09:02.000Z",
-  "updatedAt": "2021-06-04T15:29:02.000Z",
+  "updatedAt": "2021-12-04T15:51:30.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://comic.mag-garden.co.jp/eden/3594.html"
+      }
+    ],
     "altTitle": [
       "オールアボード"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-04T14:51:07.000Z",
-    "updatedAt": "2021-06-04T14:51:07.000Z",
+    "updatedAt": "2021-12-04T15:18:38.000Z",
     "deletedAt": null
   },
   "Anilist": null,

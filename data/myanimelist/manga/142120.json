@@ -22,5 +22,70 @@
   "createdAt": "2021-11-26T11:36:33.000Z",
   "updatedAt": "2021-11-26T11:36:33.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mr990100": {
+        "authors": [
+          "Sensiya"
+        ],
+        "identifier": "manga-mr990100",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Aizen-San Can't Be Honest!",
+        "url": "https://manganato.com/manga-mr990100",
+        "image": "https://avt.mkklcdnv6temp.com/9/y/25-1638294320.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 142120,
+        "aniId": 110339,
+        "createdAt": "2021-11-30T19:36:46.000Z",
+        "updatedAt": "2021-11-30T20:05:34.000Z",
+        "deletedAt": null
+      },
+      "manga-mh990116": {
+        "authors": [
+          "Sensiya"
+        ],
+        "identifier": "manga-mh990116",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sunaoni Narenai Aizen-San",
+        "url": "https://manganato.com/manga-mh990116",
+        "image": "https://avt.mkklcdnv6temp.com/10/u/25-1638629982.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 142120,
+        "aniId": 110339,
+        "createdAt": "2021-12-04T17:16:56.000Z",
+        "updatedAt": "2021-12-04T17:46:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sunaoni_narenai_aizen_san": {
+        "authors": [
+          "Sensiya"
+        ],
+        "identifier": "sunaoni_narenai_aizen_san",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sunaoni Narenai Aizen-san",
+        "url": "https://fanfox.net/manga/sunaoni_narenai_aizen_san/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/40259/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 142120,
+        "aniId": 110339,
+        "createdAt": "2021-12-02T07:16:41.000Z",
+        "updatedAt": "2021-12-02T07:46:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

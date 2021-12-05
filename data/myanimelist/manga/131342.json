@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://magazine.jp.square-enix.com/mangaup/original/kizokutensei/"
+    }
+  ],
   "altTitle": [
     "Noble Reincarnation",
     "Noble Reincarnation: Blessed With the Strongest Power From Birth",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-21T11:53:04.000Z",
-  "updatedAt": "2021-06-17T14:28:46.000Z",
+  "updatedAt": "2021-12-04T07:46:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -62,6 +67,29 @@
         "aniId": 127165,
         "createdAt": "2021-02-03T00:32:15.000Z",
         "updatedAt": "2021-11-20T18:14:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru": {
+        "authors": [
+          "HANASHIMA Hisui",
+          "MIKI Nazuna"
+        ],
+        "identifier": "kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara o Eru",
+        "url": "https://mangasee123.com/manga/Kizoku-Tensei-Megumareta-Umare-kara-Saikyou-no-Chikara-wo-Eru",
+        "image": "https://cover.nep.li/cover/Kizoku-Tensei-Megumareta-Umare-kara-Saikyou-no-Chikara-wo-Eru.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131342,
+        "aniId": null,
+        "createdAt": "2021-12-05T00:47:36.000Z",
+        "updatedAt": "2021-12-05T00:47:36.000Z",
         "deletedAt": null
       }
     }

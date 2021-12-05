@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://gammaplus.takeshobo.co.jp/manga/august9/"
+    }
+  ],
   "altTitle": [
     "August 9: I Will Be Eaten by You",
     "8-gatsu Kokonoka: Boku wa Kimi ni Kuwareru.",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:24.000Z",
-  "updatedAt": "2021-06-02T02:01:28.000Z",
+  "updatedAt": "2021-12-02T02:16:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,28 +87,6 @@
         "aniId": 122604,
         "createdAt": "2021-01-02T21:20:20.000Z",
         "updatedAt": "2021-11-20T16:44:05.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-jm986521": {
-        "authors": [
-          "Tomomi"
-        ],
-        "identifier": "manga-jm986521",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Hachigatsu Kokonoka Boku Wa Kimi Ni Kuwareru.",
-        "url": "https://manganato.com/manga-jm986521",
-        "image": "https://avt.mkklcdnv6temp.com/10/g/22-1599497757.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 129187,
-        "aniId": 122604,
-        "createdAt": "2021-06-02T02:01:28.000Z",
-        "updatedAt": "2021-06-02T02:31:15.000Z",
         "deletedAt": null
       }
     }

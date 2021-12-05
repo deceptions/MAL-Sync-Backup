@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Yokota Takuma",
-    "Kagami Kyousuke"
+    "Kagami Kyousuke",
+    "Yokota Takuma"
   ],
   "identifier": "1ec8e64b-8e4f-4792-9adb-f54ee08f4145",
   "type": "manga",
@@ -9,19 +9,25 @@
   "title": "Sentou Hakai Gakuen Dangerous",
   "url": "https://mangadex.org/title/1ec8e64b-8e4f-4792-9adb-f54ee08f4145",
   "image": "https://uploads.mangadex.org/covers/1ec8e64b-8e4f-4792-9adb-f54ee08f4145/d96ee789-13ba-4b6d-bf4e-dfa93654e871.jpg",
-  "hentai": false,
+  "hentai": true,
   "sticky": false,
   "active": true,
   "actor": null,
   "malId": 66485,
   "aniId": 85436,
   "createdAt": "2020-10-12T16:07:15.000Z",
-  "updatedAt": "2021-06-04T01:28:48.000Z",
+  "updatedAt": "2021-12-04T01:50:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://bookclub.kodansha.co.jp/kodansha-box/topics/dangerous/"
+      }
+    ],
     "altTitle": [
-      "Battle Destruction School Dangerous, Sentou Hakai Gakuen Dangerosu",
+      "Battle Destruction School Dangerous",
+      "Sentou Hakai Gakuen Dangerosu",
       "戦闘破壊学園ダンゲロス"
     ],
     "authors": [
@@ -36,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:10.000Z",
-    "updatedAt": "2021-05-31T09:18:41.000Z",
+    "updatedAt": "2021-12-01T02:05:57.000Z",
     "deletedAt": null
   },
   "Anilist": {

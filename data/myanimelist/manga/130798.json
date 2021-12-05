@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://shonen-sirius.com/series/w_sirius/joouheika/"
+    }
+  ],
   "altTitle": [
-    "Joou Heika no Isekai Senryaku, Her Majesty's Swarm",
+    "Her Majesty's Swarm",
+    "Joou Heika no Isekai Senryaku",
     "女王陛下の異世界戦略〈ストラテジー〉"
   ],
   "authors": [
@@ -16,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-12-13T00:18:32.000Z",
-  "updatedAt": "2021-06-03T21:49:17.000Z",
+  "updatedAt": "2021-12-03T22:20:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,30 +70,6 @@
         "aniId": 123261,
         "createdAt": "2020-12-24T19:56:04.000Z",
         "updatedAt": "2021-11-20T16:14:06.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-ju986403": {
-        "authors": [
-          "Dai 616 Tokubetsu Jyouhou Daitai",
-          "Minamoto Akira",
-          "Warita Koma"
-        ],
-        "identifier": "manga-ju986403",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Her Majesty's Swarm",
-        "url": "https://manganato.com/manga-ju986403",
-        "image": "https://avt.mkklcdnv6temp.com/5/n/22-1598679147.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 130798,
-        "aniId": 123261,
-        "createdAt": "2021-06-03T21:49:17.000Z",
-        "updatedAt": "2021-06-03T22:18:57.000Z",
         "deletedAt": null
       }
     }

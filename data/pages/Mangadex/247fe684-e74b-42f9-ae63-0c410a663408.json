@@ -1,6 +1,6 @@
 {
   "authors": [
-    "Aoyama Gosho"
+    "Gosho Aoyama"
   ],
   "identifier": "247fe684-e74b-42f9-ae63-0c410a663408",
   "type": "manga",
@@ -15,10 +15,15 @@
   "malId": 1804,
   "aniId": 31804,
   "createdAt": "2020-10-12T16:04:07.000Z",
-  "updatedAt": "2021-06-02T18:53:02.000Z",
+  "updatedAt": "2021-12-02T19:18:18.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%98%E3%81%A3%E3%81%8F%E5%BF%AB%E6%96%97"
+      }
+    ],
     "altTitle": [
       "Kaito Kid",
       "まじっく快斗"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:37.000Z",
-    "updatedAt": "2021-09-17T08:10:44.000Z",
+    "updatedAt": "2021-12-03T21:46:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://jumpsq.shueisha.co.jp/rensai/myuandai/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%CE%9C%26i_%E3%81%BF%E3%82%85%E3%81%86%E3%81%82%E3%82%93%E3%81%A9%E3%81%82%E3%81%84"
+    }
+  ],
   "altTitle": [
     "Myuu and I",
     "μ&i -みゅうあんどあい-"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:30.000Z",
-  "updatedAt": "2021-09-24T12:15:35.000Z",
+  "updatedAt": "2021-12-03T02:17:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,7 +45,7 @@
         "malId": 77641,
         "aniId": 85638,
         "createdAt": "2020-10-12T16:07:39.000Z",
-        "updatedAt": "2021-06-04T04:24:49.000Z",
+        "updatedAt": "2021-12-04T04:51:10.000Z",
         "deletedAt": null
       }
     },
@@ -81,6 +90,28 @@
         "aniId": 85638,
         "createdAt": "2021-03-24T11:49:16.000Z",
         "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-we953561": {
+        "authors": [
+          "Kitada Ryouma"
+        ],
+        "identifier": "manga-we953561",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Myuu And I",
+        "url": "https://manganato.com/manga-we953561",
+        "image": "https://avt.mkklcdnv6temp.com/27/n/2-1583466764.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 77641,
+        "aniId": 85638,
+        "createdAt": "2021-12-03T02:17:08.000Z",
+        "updatedAt": "2021-12-03T02:46:05.000Z",
         "deletedAt": null
       }
     }

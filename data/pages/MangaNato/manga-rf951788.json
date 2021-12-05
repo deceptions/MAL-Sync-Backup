@@ -15,12 +15,22 @@
   "malId": 23463,
   "aniId": 53463,
   "createdAt": "2021-05-29T12:12:43.000Z",
-  "updatedAt": "2021-05-29T12:42:12.000Z",
+  "updatedAt": "2021-11-29T13:06:04.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://grandjump.shueisha.co.jp/original/index.html#otome"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%88%E3%83%A1%E3%81%AE%E5%B8%9D%E5%9B%BD"
+      }
+    ],
     "altTitle": [
-      "Virgins' Empire, Maidens' Empire",
+      "Virgins' Empire",
+      "Maidens' Empire",
       "オトメの帝国"
     ],
     "authors": [
@@ -34,7 +44,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:09.000Z",
-    "updatedAt": "2021-05-29T12:12:43.000Z",
+    "updatedAt": "2021-11-29T12:35:45.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -15,12 +15,19 @@
   "malId": 9982,
   "aniId": 39982,
   "createdAt": "2020-10-12T16:02:40.000Z",
-  "updatedAt": "2021-06-02T08:38:14.000Z",
+  "updatedAt": "2021-12-02T08:47:46.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%98%98%E5%96%B0%E3%81%84"
+      }
+    ],
     "altTitle": [
-      "The Lie Eater, Igyou Tobakusha Usokui, Yakou-san",
+      "The Lie Eater",
+      "Igyou Tobakusha Usokui",
+      "Yakou-san",
       "嘘喰い"
     ],
     "authors": [
@@ -34,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:25.000Z",
-    "updatedAt": "2021-06-03T13:19:57.000Z",
+    "updatedAt": "2021-12-03T13:46:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

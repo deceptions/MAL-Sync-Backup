@@ -1,7 +1,15 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%A2%A8%E3%81%A8%E6%9C%A8%E3%81%AE%E8%A9%A9"
+    }
+  ],
   "altTitle": [
-    "The Song of Wind and Trees, KazeKi, The Poem of the Wind and the Trees, The Song of the Wind and the Trees",
+    "The Song of Wind and Trees",
+    "KazeKi",
+    "The Poem of the Wind and the Trees",
+    "The Song of the Wind and the Trees",
     "風と木の詩"
   ],
   "authors": [
@@ -15,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:33.000Z",
-  "updatedAt": "2021-06-04T13:21:18.000Z",
+  "updatedAt": "2021-12-04T13:46:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,29 +44,7 @@
         "malId": 1365,
         "aniId": 31365,
         "createdAt": "2020-10-12T16:05:56.000Z",
-        "updatedAt": "2021-06-03T16:01:27.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "kaze_to_ki_no_uta": {
-        "authors": [
-          "TAKEMIYA Keiko"
-        ],
-        "identifier": "kaze_to_ki_no_uta",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Kaze To Ki No Uta",
-        "url": "https://fanfox.net/manga/kaze_to_ki_no_uta/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/2233/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 1365,
-        "aniId": 31365,
-        "createdAt": "2021-06-04T13:21:18.000Z",
-        "updatedAt": "2021-06-04T13:48:57.000Z",
+        "updatedAt": "2021-12-03T16:19:06.000Z",
         "deletedAt": null
       }
     }

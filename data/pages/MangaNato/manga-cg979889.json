@@ -15,10 +15,19 @@
   "malId": 110771,
   "aniId": 101131,
   "createdAt": "2021-05-31T09:41:43.000Z",
-  "updatedAt": "2021-05-31T10:00:42.000Z",
+  "updatedAt": "2021-12-01T00:14:20.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://afternoon.moae.jp/lineup/870"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%9C%95%E3%81%AE%E5%A4%A7%E9%AD%94%E8%A1%93%E5%B8%AB"
+      }
+    ],
     "altTitle": [
       "Magus of the Library",
       "圕の大魔術師"
@@ -34,7 +43,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:20.000Z",
-    "updatedAt": "2021-09-07T15:04:36.000Z",
+    "updatedAt": "2021-11-30T20:35:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

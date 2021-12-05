@@ -27,8 +27,8 @@
     "Mangadex": {
       "5a8f3835-c49d-4fc0-a2db-02e8ad50ed3a": {
         "authors": [
-          "Noguchi Takashi",
-          "Satou Kenichi"
+          "Satou Kenichi",
+          "Noguchi Takashi"
         ],
         "identifier": "5a8f3835-c49d-4fc0-a2db-02e8ad50ed3a",
         "type": "manga",
@@ -43,7 +43,7 @@
         "malId": 4053,
         "aniId": 34053,
         "createdAt": "2020-10-12T16:04:27.000Z",
-        "updatedAt": "2021-06-02T21:08:22.000Z",
+        "updatedAt": "2021-12-02T21:17:57.000Z",
         "deletedAt": null
       }
     },
@@ -67,6 +67,28 @@
         "aniId": 34053,
         "createdAt": "2021-04-15T22:14:58.000Z",
         "updatedAt": "2021-11-20T21:48:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mercenary_pierre": {
+        "authors": [
+          "SATOU Kenichi"
+        ],
+        "identifier": "mercenary_pierre",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mercenary Pierre",
+        "url": "https://fanfox.net/manga/mercenary_pierre/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1380/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4053,
+        "aniId": 34053,
+        "createdAt": "2021-11-28T22:35:38.000Z",
+        "updatedAt": "2021-11-28T23:05:32.000Z",
         "deletedAt": null
       }
     }

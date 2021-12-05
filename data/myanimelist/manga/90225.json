@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://tap.akitashoten.co.jp/comics/nonoyu"
+    }
+  ],
   "altTitle": [
     "のの湯"
   ],
@@ -15,14 +20,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-04T14:51:39.000Z",
-  "updatedAt": "2021-06-04T14:51:39.000Z",
+  "updatedAt": "2021-12-04T15:18:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "aef0cdc0-20b2-402c-8f2d-0c181af004fb": {
         "authors": [
-          "Tsurimaki Nodoka",
-          "Kusumi Masayuki"
+          "Kusumi Masayuki",
+          "Tsurimaki Nodoka"
         ],
         "identifier": "aef0cdc0-20b2-402c-8f2d-0c181af004fb",
         "type": "manga",
@@ -33,11 +38,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
+        "actor": null,
         "malId": 90225,
         "aniId": null,
         "createdAt": "2020-10-12T16:09:00.000Z",
-        "updatedAt": "2021-06-04T15:31:09.000Z",
+        "updatedAt": "2021-12-04T15:51:20.000Z",
         "deletedAt": null
       }
     }

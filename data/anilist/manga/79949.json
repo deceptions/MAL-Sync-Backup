@@ -22,7 +22,7 @@
     "Mangadex": {
       "05ba257a-e70a-4ba3-9784-2230ec7162b4": {
         "authors": [
-          "Miura Kentaro"
+          "Kentaro Miura"
         ],
         "identifier": "05ba257a-e70a-4ba3-9784-2230ec7162b4",
         "type": "manga",
@@ -37,7 +37,7 @@
         "malId": 49949,
         "aniId": 79949,
         "createdAt": "2020-10-12T16:06:14.000Z",
-        "updatedAt": "2021-06-03T18:10:09.000Z",
+        "updatedAt": "2021-12-03T18:19:39.000Z",
         "deletedAt": null
       },
       "cb5a7496-7620-4b0c-8029-8f75eb3bd284": {
@@ -80,6 +80,28 @@
         "aniId": 79949,
         "createdAt": "2020-10-12T16:17:41.000Z",
         "updatedAt": "2021-06-07T09:58:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "futatabi": {
+        "authors": [
+          "MIURA Kentaro"
+        ],
+        "identifier": "futatabi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Futatabi",
+        "url": "https://fanfox.net/manga/futatabi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12266/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49949,
+        "aniId": 79949,
+        "createdAt": "2021-05-21T11:14:00.000Z",
+        "updatedAt": "2021-11-21T12:14:29.000Z",
         "deletedAt": null
       }
     },

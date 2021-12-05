@@ -15,10 +15,15 @@
   "malId": 136,
   "aniId": 30136,
   "createdAt": "2020-10-12T16:04:04.000Z",
-  "updatedAt": "2021-06-02T18:25:33.000Z",
+  "updatedAt": "2021-12-02T18:47:37.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%83%88%E7%81%AB%E3%81%AE%E7%82%8E"
+      }
+    ],
     "altTitle": [
       "Flame of Recca",
       "烈火の炎"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2021-06-01T15:35:09.000Z",
+    "updatedAt": "2021-12-01T15:46:58.000Z",
     "deletedAt": null
   },
   "Anilist": {

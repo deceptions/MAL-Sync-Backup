@@ -1,7 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%AD%BB%E7%A5%9E%E6%A7%98%E3%81%AB%E6%9C%80%E6%9C%9F%E3%81%AE%E3%81%8A%E9%A1%98%E3%81%84%E3%82%92"
+    }
+  ],
   "altTitle": [
-    "Last Wish to the Shinigami, Shinigamisama ni Saigo no Onegai wo, The Final Wishes Granted by a Grim Reaper",
+    "Last Wish to the Shinigami",
+    "Shinigamisama ni Saigo no Onegai wo",
+    "The Final Wishes Granted by a Grim Reaper",
     "死神様に最期のお願いを"
   ],
   "authors": [
@@ -15,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:27.000Z",
-  "updatedAt": "2021-06-04T23:51:09.000Z",
+  "updatedAt": "2021-12-05T00:16:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,7 +43,7 @@
         "malId": 17529,
         "aniId": 47529,
         "createdAt": "2020-10-12T16:02:25.000Z",
-        "updatedAt": "2021-06-02T06:43:25.000Z",
+        "updatedAt": "2021-12-02T06:47:38.000Z",
         "deletedAt": null
       }
     },
@@ -101,28 +108,6 @@
         "aniId": 47529,
         "createdAt": "2021-03-22T23:35:53.000Z",
         "updatedAt": "2021-11-20T20:14:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-kv961378": {
-        "authors": [
-          "Yamaguchi Mikoto"
-        ],
-        "identifier": "manga-kv961378",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Shinigami-Sama Ni Saigo No Onegai O",
-        "url": "https://manganato.com/manga-kv961378",
-        "image": "https://avt.mkklcdnv6temp.com/35/t/7-1583477620.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 17529,
-        "aniId": 47529,
-        "createdAt": "2021-06-04T23:51:09.000Z",
-        "updatedAt": "2021-06-05T00:18:57.000Z",
         "deletedAt": null
       }
     }

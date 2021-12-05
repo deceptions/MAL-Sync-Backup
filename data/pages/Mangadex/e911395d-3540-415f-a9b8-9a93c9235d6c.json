@@ -12,11 +12,11 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": 11650,
-  "aniId": 41650,
+  "aniId": 51544,
   "createdAt": "2020-10-12T16:02:58.000Z",
-  "updatedAt": "2021-06-02T10:43:51.000Z",
+  "updatedAt": "2021-12-03T20:04:38.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -46,22 +46,23 @@
   },
   "Anilist": {
     "altTitle": [
-      "UK"
+      "シャングリ・ラ"
     ],
     "externalLinks": [],
     "authors": [
-      "Misaki Ishikawa"
+      "Eiichi Ikegami",
+      "Tasuku Karasuma"
     ],
-    "id": 41650,
-    "malId": 11650,
+    "id": 51544,
+    "malId": 21544,
     "type": "manga",
-    "title": "Unmoral Kids",
-    "url": "https://anilist.co/manga/41650",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/11650.jpg",
+    "title": "Shangri-La",
+    "url": "https://anilist.co/manga/51544",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx51544-qsqOGdRNWvdr.jpg",
     "category": "manga",
-    "hentai": true,
-    "createdAt": "2021-05-20T14:42:12.000Z",
-    "updatedAt": "2021-06-17T13:57:38.000Z",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:45:43.000Z",
+    "updatedAt": "2021-12-02T11:17:26.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/11650/UK"

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/許嫁協定"
+    }
+  ],
   "altTitle": [
     "A Fiancée Agreement",
     "許嫁協定"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:15.000Z",
-  "updatedAt": "2021-06-03T18:50:07.000Z",
+  "updatedAt": "2021-12-03T19:17:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,7 +42,7 @@
         "malId": 42263,
         "aniId": 72263,
         "createdAt": "2020-10-12T16:05:21.000Z",
-        "updatedAt": "2021-06-03T11:57:17.000Z",
+        "updatedAt": "2021-12-03T12:17:08.000Z",
         "deletedAt": null
       },
       "3b620d3c-77df-446f-840b-01be739b7adf": {
@@ -102,28 +107,6 @@
         "aniId": 72263,
         "createdAt": "2021-05-03T07:03:47.000Z",
         "updatedAt": "2021-11-20T22:22:05.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-nr952726": {
-        "authors": [
-          "Fukudahda"
-        ],
-        "identifier": "manga-nr952726",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Iinazuke Kyoutei",
-        "url": "https://manganato.com/manga-nr952726",
-        "image": "https://avt.mkklcdnv6temp.com/49/l/1-1583465656.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 42263,
-        "aniId": 72263,
-        "createdAt": "2021-06-03T18:50:07.000Z",
-        "updatedAt": "2021-06-03T19:18:57.000Z",
         "deletedAt": null
       }
     }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%A5_act-age"
+    }
+  ],
   "altTitle": [
     "Act-age",
     "アクタージュ act-age"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:24.000Z",
-  "updatedAt": "2021-06-01T15:36:50.000Z",
+  "updatedAt": "2021-12-01T15:54:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,29 +89,6 @@
         "aniId": 100991,
         "createdAt": "2021-01-02T18:50:24.000Z",
         "updatedAt": "2021-11-20T16:44:05.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-bi979117": {
-        "authors": [
-          "Matsuki Tatsuya",
-          "Usazaki Shiro"
-        ],
-        "identifier": "manga-bi979117",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Act-Age",
-        "url": "https://readmanganato.com/manga-bi979117",
-        "image": "https://avt.mkklcdnv6temp.com/29/m/16-1583494528.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 112115,
-        "aniId": 100991,
-        "createdAt": "2021-06-01T15:36:51.000Z",
-        "updatedAt": "2021-06-01T16:01:16.000Z",
         "deletedAt": null
       }
     }

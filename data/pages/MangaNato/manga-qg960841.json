@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 220,
-  "aniId": null,
+  "aniId": 30220,
   "createdAt": "2021-08-05T12:50:21.000Z",
-  "updatedAt": "2021-08-05T12:50:27.000Z",
+  "updatedAt": "2021-12-04T01:46:05.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -37,6 +37,28 @@
     "updatedAt": "2021-08-05T12:50:27.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Aventura",
+      "Aventura",
+      "アヴェンテューラ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shin Midorikawa",
+      "Elina Ishikawa"
+    ],
+    "id": 30220,
+    "malId": 220,
+    "type": "manga",
+    "title": "Aventura",
+    "url": "https://anilist.co/manga/30220",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30220-s2tZVwTto7m7.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-04T01:16:06.000Z",
+    "updatedAt": "2021-12-04T01:16:06.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/220/Aventura"
 }

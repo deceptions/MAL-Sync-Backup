@@ -15,12 +15,20 @@
   "malId": 130357,
   "aniId": 123314,
   "createdAt": "2021-05-31T09:10:37.000Z",
-  "updatedAt": "2021-05-31T09:30:42.000Z",
+  "updatedAt": "2021-12-01T00:14:19.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://manga-one.com/title/1349"
+      }
+    ],
     "altTitle": [
-      "Iken Senki Volundio, Iken Senki Verundio, Iken Senki Verndio, Verndio - Surreal Sword Saga",
+      "Iken Senki Volundio",
+      "Iken Senki Verundio",
+      "Iken Senki Verndio",
+      "Verndio - Surreal Sword Saga",
       "異剣戦記ヴェルンディオ"
     ],
     "authors": [
@@ -34,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-02-13T01:36:35.000Z",
-    "updatedAt": "2021-05-31T09:10:36.000Z",
+    "updatedAt": "2021-12-01T03:38:36.000Z",
     "deletedAt": null
   },
   "Anilist": {

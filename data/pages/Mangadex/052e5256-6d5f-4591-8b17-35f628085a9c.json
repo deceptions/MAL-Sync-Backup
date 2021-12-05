@@ -11,11 +11,11 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": 27923,
-  "aniId": 57923,
+  "aniId": 113711,
   "createdAt": "2020-10-12T16:06:16.000Z",
-  "updatedAt": "2021-06-03T18:28:08.000Z",
+  "updatedAt": "2021-12-03T20:09:52.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -38,22 +38,23 @@
   },
   "Anilist": {
     "altTitle": [
-      "スノウブラインド"
+      "スノウブラインド",
+      "スノウ ブラインド"
     ],
     "externalLinks": [],
     "authors": [
-      "Tsuyuki"
+      "Shinichi Sugimura"
     ],
-    "id": 57923,
-    "malId": 27923,
+    "id": 113711,
+    "malId": null,
     "type": "manga",
     "title": "Snow Blind",
-    "url": "https://anilist.co/manga/57923",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/27923.jpg",
+    "url": "https://anilist.co/manga/113711",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113711-B5SMcQLDgupE.jpg",
     "category": "one_shot",
-    "hentai": true,
-    "createdAt": "2021-05-20T14:47:29.000Z",
-    "updatedAt": "2021-06-17T18:27:05.000Z",
+    "hentai": false,
+    "createdAt": "2021-06-03T18:49:29.000Z",
+    "updatedAt": "2021-12-03T19:16:46.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/27923/Snow_Blind"

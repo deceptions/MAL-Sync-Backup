@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T02:49:50.000Z",
-  "updatedAt": "2021-06-21T15:00:26.000Z",
+  "updatedAt": "2021-12-01T20:17:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-fr982774": {
+        "authors": [
+          "Bless"
+        ],
+        "identifier": "manga-fr982774",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Want To Kiss You, In That Moment",
+        "url": "https://manganato.com/manga-fr982774",
+        "image": "https://avt.mkklcdnv6temp.com/14/a/19-1583499626.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 115987,
+        "createdAt": "2021-12-01T20:17:16.000Z",
+        "updatedAt": "2021-12-03T20:10:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

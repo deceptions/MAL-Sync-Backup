@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 142270,
   "createdAt": "2021-08-19T04:37:16.000Z",
-  "updatedAt": "2021-08-19T04:37:16.000Z",
+  "updatedAt": "2021-12-03T20:09:02.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Demon King's Rules x Witch's Covenant",
+      "魔王法則 女巫之絆"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Zhuozi Xiansheng",
+      "Yu Zong"
+    ],
+    "id": 142270,
+    "malId": null,
+    "type": "manga",
+    "title": "Mowang Fa Ze, Nüwu Zhi Ban",
+    "url": "https://anilist.co/manga/142270",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142270-pyDbWtLOzpdt.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-02T06:46:05.000Z",
+    "updatedAt": "2021-12-02T06:46:05.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

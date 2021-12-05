@@ -44,7 +44,7 @@
         "malId": 670,
         "aniId": 30670,
         "createdAt": "2020-10-12T16:03:37.000Z",
-        "updatedAt": "2021-06-02T15:15:33.000Z",
+        "updatedAt": "2021-12-02T15:19:07.000Z",
         "deletedAt": null
       }
     },
@@ -89,6 +89,28 @@
         "aniId": 30670,
         "createdAt": "2021-07-23T23:51:37.000Z",
         "updatedAt": "2021-07-24T00:21:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "bokurano": {
+        "authors": [
+          "KITOH Mohiro"
+        ],
+        "identifier": "bokurano",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bokurano",
+        "url": "https://fanfox.net/manga/bokurano/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/320/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 670,
+        "aniId": 30670,
+        "createdAt": "2021-12-01T02:07:06.000Z",
+        "updatedAt": "2021-12-01T02:35:34.000Z",
         "deletedAt": null
       }
     }

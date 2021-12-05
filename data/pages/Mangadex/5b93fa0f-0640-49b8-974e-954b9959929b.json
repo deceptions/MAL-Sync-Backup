@@ -15,10 +15,15 @@
   "malId": 72467,
   "aniId": 85412,
   "createdAt": "2020-10-12T16:07:29.000Z",
-  "updatedAt": "2021-06-04T03:07:58.000Z",
+  "updatedAt": "2021-12-04T03:21:39.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%B0%91%E5%A5%B3%E7%B5%82%E6%9C%AB%E6%97%85%E8%A1%8C"
+      }
+    ],
     "altTitle": [
       "Girls' Last Tour",
       "The End Girl Trip",
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:19.000Z",
-    "updatedAt": "2021-05-31T09:48:03.000Z",
+    "updatedAt": "2021-12-01T02:08:09.000Z",
     "deletedAt": null
   },
   "Anilist": {

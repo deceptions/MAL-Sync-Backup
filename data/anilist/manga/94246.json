@@ -22,8 +22,8 @@
     "Mangadex": {
       "5ba42218-7e4d-4cf8-a536-8963abb7667e": {
         "authors": [
-          "Minato Fumi",
-          "Itou Keikaku"
+          "Itou Keikaku",
+          "Minato Fumi"
         ],
         "identifier": "5ba42218-7e4d-4cf8-a536-8963abb7667e",
         "type": "manga",
@@ -38,7 +38,29 @@
         "malId": 87122,
         "aniId": 94246,
         "createdAt": "2020-10-12T16:09:40.000Z",
-        "updatedAt": "2021-06-04T19:09:18.000Z",
+        "updatedAt": "2021-12-04T19:23:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ta970935": {
+        "authors": [
+          "Itou Keikaku"
+        ],
+        "identifier": "manga-ta970935",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Harmony",
+        "url": "https://manganato.com/manga-ta970935",
+        "image": "https://avt.mkklcdnv6temp.com/36/b/13-1583489031.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87122,
+        "aniId": 94246,
+        "createdAt": "2021-11-29T19:35:33.000Z",
+        "updatedAt": "2021-11-29T20:05:34.000Z",
         "deletedAt": null
       }
     }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%95_%28%E6%BC%AB%E7%94%BB%29"
+    }
+  ],
   "altTitle": [
     "ライフ2 ギバーテイカー"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:30.000Z",
-  "updatedAt": "2021-06-02T19:00:51.000Z",
+  "updatedAt": "2021-12-02T19:17:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,28 +41,6 @@
         "aniId": 97218,
         "createdAt": "2020-10-12T16:14:01.000Z",
         "updatedAt": "2021-06-06T01:42:48.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-lm988721": {
-        "authors": [
-          "Keiko Suenobu"
-        ],
-        "identifier": "manga-lm988721",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Life 2: Giver Taker",
-        "url": "https://manganato.com/manga-lm988721",
-        "image": "https://avt.mkklcdnv6temp.com/50/s/23-1617462078.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 98457,
-        "aniId": 97218,
-        "createdAt": "2021-06-02T19:00:51.000Z",
-        "updatedAt": "2021-06-02T19:30:50.000Z",
         "deletedAt": null
       }
     }

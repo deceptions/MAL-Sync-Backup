@@ -2,7 +2,7 @@
   "authors": [
     "Level Five",
     "Gotou Ryu",
-    "Aoba Shigure"
+    "Shigure Aoba"
   ],
   "identifier": "7c679fd4-e8f1-45ea-84e6-0ddd6e30626e",
   "type": "manga",
@@ -13,14 +13,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 106939,
   "aniId": 125448,
   "createdAt": "2020-10-12T16:09:52.000Z",
-  "updatedAt": "2021-06-04T21:18:57.000Z",
+  "updatedAt": "2021-12-04T21:51:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%97%E3%82%8D"
+      }
+    ],
     "altTitle": [
       "Ushiro: The Somber God of Death",
       "うしろ ふきげんな死神。"
@@ -37,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:05.000Z",
-    "updatedAt": "2021-06-04T20:49:47.000Z",
+    "updatedAt": "2021-12-04T21:21:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

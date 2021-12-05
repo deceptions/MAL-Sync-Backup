@@ -1,8 +1,16 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.junemanga.com/books/90/"
+    }
+  ],
   "altTitle": [
     "Glass Sky",
-    "Chiisana Garasu no Sora, The Little Glass Sky, Wildman Blues, Never Cry",
+    "Chiisana Garasu no Sora",
+    "The Little Glass Sky",
+    "Wildman Blues",
+    "Never Cry",
     "小さなガラスの空"
   ],
   "authors": [
@@ -16,30 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:19.000Z",
-  "updatedAt": "2021-06-04T01:20:39.000Z",
+  "updatedAt": "2021-12-04T01:46:06.000Z",
   "deletedAt": null,
-  "Pages": {
-    "MangaFox": {
-      "chiisana_glass_no_sora": {
-        "authors": [
-          "YAMADA Yugi"
-        ],
-        "identifier": "chiisana_glass_no_sora",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Chiisana Glass no Sora",
-        "url": "https://fanfox.net/manga/chiisana_glass_no_sora/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/2692/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 225,
-        "aniId": 30225,
-        "createdAt": "2021-06-04T01:20:39.000Z",
-        "updatedAt": "2021-06-04T01:48:57.000Z",
-        "deletedAt": null
-      }
-    }
-  }
+  "Pages": {}
 }

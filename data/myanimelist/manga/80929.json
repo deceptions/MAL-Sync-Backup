@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B4%E3%82%A3%E3%83%BC%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88"
+    }
+  ],
   "altTitle": [
     "ヘヴィーオブジェクトS"
   ],
@@ -15,14 +20,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:35.000Z",
-  "updatedAt": "2021-06-08T05:20:36.000Z",
+  "updatedAt": "2021-11-28T08:35:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "5352afa4-0aa3-468f-b843-734a92b93cb6": {
         "authors": [
-          "SAITO Sakae",
-          "KAMACHI Kazuma"
+          "Kamachi Kazuma",
+          "Sakae Saito"
         ],
         "identifier": "5352afa4-0aa3-468f-b843-734a92b93cb6",
         "type": "manga",
@@ -37,7 +42,52 @@
         "malId": 80929,
         "aniId": 93085,
         "createdAt": "2020-10-12T16:07:20.000Z",
-        "updatedAt": "2021-06-04T02:04:28.000Z",
+        "updatedAt": "2021-12-04T02:21:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gn984222": {
+        "authors": [
+          "Kamachi Kazuma",
+          "Saito Sakae"
+        ],
+        "identifier": "manga-gn984222",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Heavy Object S",
+        "url": "https://manganato.com/manga-gn984222",
+        "image": "https://avt.mkklcdnv6temp.com/18/a/20-1583501722.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80929,
+        "aniId": 93085,
+        "createdAt": "2021-11-28T08:35:42.000Z",
+        "updatedAt": "2021-11-28T09:05:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "heavy_object_s": {
+        "authors": [
+          "KAMACHI Kazuma"
+        ],
+        "identifier": "heavy_object_s",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Heavy Object S",
+        "url": "https://fanfox.net/manga/heavy_object_s/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31962/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80929,
+        "aniId": 93085,
+        "createdAt": "2021-11-30T13:06:29.000Z",
+        "updatedAt": "2021-11-30T13:35:34.000Z",
         "deletedAt": null
       }
     }

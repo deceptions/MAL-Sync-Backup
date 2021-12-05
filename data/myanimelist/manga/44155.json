@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%AF%E6%B7%AB%E3%82%89%E3%81%AA%E5%83%95%E3%81%AE%E5%A5%B3%E7%8E%8B"
+    }
+  ],
   "altTitle": [
     "You Are Dirty, My Queen",
     "君は淫らな僕の女王"
@@ -16,14 +21,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:18.000Z",
-  "updatedAt": "2021-05-29T02:44:55.000Z",
+  "updatedAt": "2021-11-29T03:05:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "8f1e5480-b078-4fd2-80d8-d8e518b49c6b": {
         "authors": [
-          "Yokoyari Mengo",
-          "Okamoto Lynn"
+          "Okamoto Lynn",
+          "Yokoyari Mengo"
         ],
         "identifier": "8f1e5480-b078-4fd2-80d8-d8e518b49c6b",
         "type": "manga",
@@ -31,14 +36,14 @@
         "title": "Kimi wa Midara na Boku no Joou",
         "url": "https://mangadex.org/title/8f1e5480-b078-4fd2-80d8-d8e518b49c6b",
         "image": "https://uploads.mangadex.org/covers/8f1e5480-b078-4fd2-80d8-d8e518b49c6b/c87b5b20-2811-4110-9a00-4f306b556340.jpg",
-        "hentai": false,
+        "hentai": true,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 44155,
         "aniId": 74155,
         "createdAt": "2020-10-12T16:05:36.000Z",
-        "updatedAt": "2021-06-03T13:41:09.000Z",
+        "updatedAt": "2021-12-03T13:50:40.000Z",
         "deletedAt": null
       }
     },
@@ -106,7 +111,7 @@
         "malId": 44155,
         "aniId": 74155,
         "createdAt": "2021-05-29T02:44:56.000Z",
-        "updatedAt": "2021-05-29T03:12:12.000Z",
+        "updatedAt": "2021-11-29T03:36:45.000Z",
         "deletedAt": null
       }
     }

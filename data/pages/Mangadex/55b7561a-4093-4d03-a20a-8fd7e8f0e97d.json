@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Yaya Hinata",
-    "Kankitsu Yusura"
+    "Kankitsu Yusura",
+    "Yaya Hinata"
   ],
   "identifier": "55b7561a-4093-4d03-a20a-8fd7e8f0e97d",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 50515,
   "aniId": 80515,
   "createdAt": "2020-10-12T16:06:17.000Z",
-  "updatedAt": "2021-06-03T18:34:48.000Z",
+  "updatedAt": "2021-12-03T18:50:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://comicdangan.com/manga/ghoul/"
+      }
+    ],
     "altTitle": [
       "Maou na Ore to Fushihime no Yubiwa",
       "魔王なオレと不死姫〈グール〉の指輪"
@@ -36,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:44:35.000Z",
-    "updatedAt": "2021-06-04T13:51:50.000Z",
+    "updatedAt": "2021-12-04T14:18:08.000Z",
     "deletedAt": null
   },
   "Anilist": {

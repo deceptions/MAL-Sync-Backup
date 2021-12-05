@@ -15,7 +15,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-10-10T23:38:23.000Z",
-  "updatedAt": "2021-10-10T23:38:23.000Z",
+  "updatedAt": "2021-12-03T20:02:26.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a93959d7-4a4a-4f80-88f7-921af3ca9ade": {
+        "authors": [
+          "Sanri Yoko"
+        ],
+        "identifier": "a93959d7-4a4a-4f80-88f7-921af3ca9ade",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Onee-San Is Invading!?",
+        "url": "https://mangadex.org/title/a93959d7-4a4a-4f80-88f7-921af3ca9ade",
+        "image": "https://uploads.mangadex.org/covers/a93959d7-4a4a-4f80-88f7-921af3ca9ade/3f4c3d01-27b1-4364-95eb-8173329425f5.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 136282,
+        "aniId": 131462,
+        "createdAt": "2021-10-12T11:48:00.000Z",
+        "updatedAt": "2021-12-03T20:02:44.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

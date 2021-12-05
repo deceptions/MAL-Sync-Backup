@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.webnewtype.com/contents/korekore/"
+    }
+  ],
   "altTitle": [
     "うちの相方〈コレ〉が腐〈コレ〉なもんで。"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:22.000Z",
-  "updatedAt": "2021-06-01T22:01:41.000Z",
+  "updatedAt": "2021-12-01T22:16:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,28 +63,6 @@
         "aniId": 102183,
         "createdAt": "2021-05-18T13:31:34.000Z",
         "updatedAt": "2021-11-20T22:49:07.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-dk980567": {
-        "authors": [
-          "Yuuki Sumida"
-        ],
-        "identifier": "manga-dk980567",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Uchi No Kore Ga Kore Na Mon De.",
-        "url": "https://manganato.com/manga-dk980567",
-        "image": "https://avt.mkklcdnv6temp.com/33/o/17-1583496461.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 111450,
-        "aniId": 102183,
-        "createdAt": "2021-06-01T22:01:41.000Z",
-        "updatedAt": "2021-06-01T22:31:15.000Z",
         "deletedAt": null
       }
     }

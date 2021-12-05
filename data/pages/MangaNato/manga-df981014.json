@@ -15,11 +15,21 @@
   "malId": 96194,
   "aniId": 96775,
   "createdAt": "2021-05-29T15:13:54.000Z",
-  "updatedAt": "2021-05-29T15:42:12.000Z",
+  "updatedAt": "2021-11-29T16:06:05.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://seiga.nicovideo.jp/comic/18228"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%A5%BD%E3%81%8D%E3%81%AE%E4%B8%8B%E5%89%8B%E4%B8%8A"
+      }
+    ],
     "altTitle": [
+      "Ascendance of a Bookworm: I'll do Anything to Become a Librarian! Part 1 - If There Aren't Any Books, I'll Just Have to Make Some!",
       "Ascendance of a Bookworm: Stop at Nothing to be a Librarian",
       "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第一部「本がないなら作ればいい！」"
     ],
@@ -35,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:46:24.000Z",
-    "updatedAt": "2021-05-29T15:13:54.000Z",
+    "updatedAt": "2021-11-29T15:37:14.000Z",
     "deletedAt": null
   },
   "Anilist": {

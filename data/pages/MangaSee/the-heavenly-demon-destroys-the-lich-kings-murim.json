@@ -12,13 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 141011,
   "createdAt": "2021-09-14T17:07:07.000Z",
-  "updatedAt": "2021-09-14T17:07:08.000Z",
+  "updatedAt": "2021-12-03T20:04:44.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "천마, 리치왕의 무림을 부수다",
+      "The Heavenly Demon Destroys the Lich King's Murim  "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Do-Baem No",
+      "Jun-Ho Yu",
+      "Bungdeng",
+      "Mansun",
+      "Hyeong-Geun Jo"
+    ],
+    "id": 141011,
+    "malId": null,
+    "type": "manga",
+    "title": "Cheonma, Lich-iwangui Murimeul Busuda",
+    "url": "https://anilist.co/manga/141011",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141011-Q9CfADpDvAYj.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-01T11:34:20.000Z",
+    "updatedAt": "2021-12-02T21:46:21.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

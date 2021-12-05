@@ -49,7 +49,7 @@
         "malId": 35003,
         "aniId": 65003,
         "createdAt": "2020-10-12T16:04:04.000Z",
-        "updatedAt": "2021-06-02T18:23:43.000Z",
+        "updatedAt": "2021-12-02T18:47:27.000Z",
         "deletedAt": null
       },
       "cb7df734-d283-46e7-bdc8-499401cbd3ad": {
@@ -69,7 +69,7 @@
         "malId": 35003,
         "aniId": 65003,
         "createdAt": "2020-10-12T16:06:40.000Z",
-        "updatedAt": "2021-06-03T21:40:48.000Z",
+        "updatedAt": "2021-12-03T21:50:59.000Z",
         "deletedAt": null
       }
     },
@@ -92,6 +92,26 @@
         "aniId": 65003,
         "createdAt": "2020-12-16T16:54:32.000Z",
         "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      },
+      "maou_no_kyoushitsu": {
+        "authors": [
+          "YOSHIKAWA Miki"
+        ],
+        "identifier": "maou_no_kyoushitsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Maou no Kyoushitsu",
+        "url": "https://fanfox.net/manga/maou_no_kyoushitsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12976/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 35003,
+        "aniId": 65003,
+        "createdAt": "2021-11-29T08:36:47.000Z",
+        "updatedAt": "2021-11-29T09:05:32.000Z",
         "deletedAt": null
       }
     },
@@ -135,7 +155,7 @@
         "malId": 35003,
         "aniId": 65003,
         "createdAt": "2021-05-30T09:12:24.000Z",
-        "updatedAt": "2021-05-30T09:42:12.000Z",
+        "updatedAt": "2021-11-30T10:06:36.000Z",
         "deletedAt": null
       }
     }

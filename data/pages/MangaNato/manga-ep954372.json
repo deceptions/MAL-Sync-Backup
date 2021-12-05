@@ -15,10 +15,19 @@
   "malId": 14440,
   "aniId": 44440,
   "createdAt": "2021-05-31T09:17:01.000Z",
-  "updatedAt": "2021-05-31T09:30:42.000Z",
+  "updatedAt": "2021-12-01T00:14:19.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://spi-net.jp/weekly/comic002.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%A0%E3%82%A2%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC"
+      }
+    ],
     "altTitle": [
       "I Am a Hero",
       "アイアムアヒーロー"
@@ -34,7 +43,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:42:05.000Z",
-    "updatedAt": "2021-05-31T09:17:00.000Z",
+    "updatedAt": "2021-12-01T01:08:08.000Z",
     "deletedAt": null
   },
   "Anilist": {

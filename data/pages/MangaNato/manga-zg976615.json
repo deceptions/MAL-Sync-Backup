@@ -15,13 +15,19 @@
   "malId": 119521,
   "aniId": 97717,
   "createdAt": "2021-05-29T04:46:19.000Z",
-  "updatedAt": "2021-05-29T05:12:12.000Z",
+  "updatedAt": "2021-11-29T05:37:06.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list.nhn?titleId=654774"
+      }
+    ],
     "altTitle": [
       "Odd Girl Out",
-      "Sonyeo-ui Segye, Girl's World",
+      "Sonyeo-ui Segye",
+      "Girl's World",
       "소녀의 세계"
     ],
     "authors": [
@@ -35,7 +41,7 @@
     "category": "Manhwa",
     "hentai": false,
     "createdAt": "2021-01-12T08:22:15.000Z",
-    "updatedAt": "2021-05-29T04:46:19.000Z",
+    "updatedAt": "2021-11-29T05:07:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

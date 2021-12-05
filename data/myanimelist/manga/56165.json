@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.jp.square-enix.com/magazine/biggangan/introduction/akame/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%A1%E3%81%8C%E6%96%AC%E3%82%8B!"
+    }
+  ],
   "altTitle": [
     "Akame ga Kill! Zero",
     "Akame ga Kiru! Zero",
@@ -17,14 +26,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:48.000Z",
-  "updatedAt": "2021-06-01T15:45:52.000Z",
+  "updatedAt": "2021-12-01T15:51:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "334fcfdf-5c15-4fc6-b974-e86f5ca636f9": {
         "authors": [
-          "Toru Kei",
-          "Takahiro"
+          "Takahiro",
+          "Toru Kei"
         ],
         "identifier": "334fcfdf-5c15-4fc6-b974-e86f5ca636f9",
         "type": "manga",
@@ -39,7 +48,7 @@
         "malId": 56165,
         "aniId": 85400,
         "createdAt": "2020-10-12T16:06:42.000Z",
-        "updatedAt": "2021-06-03T21:33:30.000Z",
+        "updatedAt": "2021-12-03T21:51:39.000Z",
         "deletedAt": null
       }
     },
@@ -85,28 +94,6 @@
         "aniId": 85400,
         "createdAt": "2021-03-03T17:51:14.000Z",
         "updatedAt": "2021-11-20T19:16:16.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-yt953854": {
-        "authors": [
-          "Takahiro (タカヒロ)"
-        ],
-        "identifier": "manga-yt953854",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Akame Ga Kiru! Zero",
-        "url": "https://manganato.com/manga-yt953854",
-        "image": "https://avt.mkklcdnv6temp.com/37/w/2-1583467159.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 56165,
-        "aniId": 85400,
-        "createdAt": "2021-06-01T15:45:52.000Z",
-        "updatedAt": "2021-06-01T16:01:16.000Z",
         "deletedAt": null
       }
     }

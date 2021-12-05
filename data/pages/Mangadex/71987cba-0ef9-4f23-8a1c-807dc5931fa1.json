@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 105094,
   "aniId": null,
   "createdAt": "2020-10-12T16:08:58.000Z",
-  "updatedAt": "2021-06-04T14:34:04.000Z",
+  "updatedAt": "2021-12-04T14:54:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E3%83%9B%E3%82%B9%E3%83%88"
+      }
+    ],
     "altTitle": [
       "赤ちゃんのホスト"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-04T14:19:09.000Z",
-    "updatedAt": "2021-06-04T14:19:09.000Z",
+    "updatedAt": "2021-12-04T14:52:50.000Z",
     "deletedAt": null
   },
   "Anilist": null,

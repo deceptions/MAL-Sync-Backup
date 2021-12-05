@@ -15,12 +15,20 @@
   "malId": 891,
   "aniId": 30891,
   "createdAt": "2021-05-31T09:36:03.000Z",
-  "updatedAt": "2021-05-31T10:00:42.000Z",
+  "updatedAt": "2021-12-01T00:14:19.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Boys_Next_Door_%28manga%29"
+      }
+    ],
     "altTitle": [
-      "Devil Inside, When A Heart Beats, Boy's Next Door, Boys Next Door",
+      "Devil Inside",
+      "When A Heart Beats",
+      "Boy's Next Door",
+      "Boys Next Door",
       "少年残像"
     ],
     "authors": [
@@ -34,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2021-05-31T09:36:03.000Z",
+    "updatedAt": "2021-12-01T00:08:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

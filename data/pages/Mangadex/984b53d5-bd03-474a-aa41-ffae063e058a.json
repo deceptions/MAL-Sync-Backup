@@ -18,10 +18,18 @@
   "updatedAt": "2021-06-06T10:21:24.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7"
+      }
+    ],
     "altTitle": [
       "Gyo: The Death-Stench Creeps",
-      "The Sad Tale of the Principal Post, The Enigma of Amigara Fault, Daikokubashira Hiwa, Ashura no Dansou no Kai",
+      "The Sad Tale of the Principal Post",
+      "The Enigma of Amigara Fault",
+      "Daikokubashira Hiwa",
+      "Ashura no Dansou no Kai",
       "ギョ うごめく不気味"
     ],
     "authors": [
@@ -35,7 +43,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2021-06-03T10:49:18.000Z",
+    "updatedAt": "2021-12-03T11:16:07.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -52,7 +60,8 @@
       }
     ],
     "authors": [
-      "Junji Itou"
+      "Junji Itou",
+      "Arnaldo Oka"
     ],
     "id": 30909,
     "malId": 909,
@@ -63,7 +72,7 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:35:47.000Z",
-    "updatedAt": "2021-06-17T08:55:43.000Z",
+    "updatedAt": "2021-11-29T03:05:43.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/909/Gyo__Ugomeku_Bukimi"

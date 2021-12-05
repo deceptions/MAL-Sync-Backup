@@ -22,8 +22,8 @@
     "Mangadex": {
       "e0c22186-cc5b-42ca-a9f3-5c81257cc78d": {
         "authors": [
-          "Izumi Mio",
-          "Matsuda Yuuko"
+          "Matsuda Yuuko",
+          "Izumi Mio"
         ],
         "identifier": "e0c22186-cc5b-42ca-a9f3-5c81257cc78d",
         "type": "manga",
@@ -38,7 +38,29 @@
         "malId": 82151,
         "aniId": 85855,
         "createdAt": "2020-10-12T16:07:59.000Z",
-        "updatedAt": "2021-06-04T06:41:08.000Z",
+        "updatedAt": "2021-12-04T06:48:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "koko_kara_saki_wa_ng": {
+        "authors": [
+          "MATSUDA Yuuko"
+        ],
+        "identifier": "koko_kara_saki_wa_ng",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Koko Kara Saki wa NG!",
+        "url": "https://fanfox.net/manga/koko_kara_saki_wa_ng/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/14852/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 82151,
+        "aniId": 85855,
+        "createdAt": "2021-11-28T10:35:42.000Z",
+        "updatedAt": "2021-11-28T11:05:32.000Z",
         "deletedAt": null
       }
     }

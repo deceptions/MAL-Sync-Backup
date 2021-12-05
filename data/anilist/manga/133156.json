@@ -17,5 +17,28 @@
   "createdAt": "2021-06-14T02:08:19.000Z",
   "updatedAt": "2021-11-27T20:05:33.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "175f2083-f5d0-4fe4-9f02-902024675722": {
+        "authors": [
+          "Hori Hiroaki"
+        ],
+        "identifier": "175f2083-f5d0-4fe4-9f02-902024675722",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shikeishuu ~Ijou Hanzaisha no Matsuro~  ",
+        "url": "https://mangadex.org/title/175f2083-f5d0-4fe4-9f02-902024675722",
+        "image": "https://uploads.mangadex.org/covers/175f2083-f5d0-4fe4-9f02-902024675722/ae59279d-0293-4603-8c54-2d6a7ba2821d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 133156,
+        "createdAt": "2021-10-12T11:48:20.000Z",
+        "updatedAt": "2021-11-29T10:56:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

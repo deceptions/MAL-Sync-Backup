@@ -17,5 +17,28 @@
   "createdAt": "2021-06-05T10:48:57.000Z",
   "updatedAt": "2021-06-18T11:01:30.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mj990118": {
+        "authors": [
+          "Nagayama Yoshitaka"
+        ],
+        "identifier": "manga-mj990118",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Super Dragon Ball Heroes: Big Bang Mission!",
+        "url": "https://readmanganato.com/manga-mj990118",
+        "image": "https://avt.mkklcdnv6temp.com/10/w/25-1638630416.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133542,
+        "aniId": 126719,
+        "createdAt": "2021-12-04T15:46:15.000Z",
+        "updatedAt": "2021-12-04T16:16:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -22,7 +22,7 @@
     "Mangadex": {
       "c1add950-29b0-4a38-87d4-165905ae764c": {
         "authors": [
-          "MIYUKI Mitsubachi"
+          "Miyuki Mitsubachi"
         ],
         "identifier": "c1add950-29b0-4a38-87d4-165905ae764c",
         "type": "manga",
@@ -37,7 +37,29 @@
         "malId": 17374,
         "aniId": 47374,
         "createdAt": "2020-10-12T16:04:43.000Z",
-        "updatedAt": "2021-06-02T22:53:43.000Z",
+        "updatedAt": "2021-12-02T23:19:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "himegimi-to-sanbiki-no-kemono": {
+        "authors": [
+          "MIYUKI Mitsubachi"
+        ],
+        "identifier": "himegimi-to-sanbiki-no-kemono",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Himegimi to Sanbiki no Kemono",
+        "url": "https://mangasee123.com/manga/Himegimi-To-Sanbiki-No-Kemono",
+        "image": "https://cover.nep.li/cover/Himegimi-To-Sanbiki-No-Kemono.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17374,
+        "aniId": 47374,
+        "createdAt": "2021-05-26T21:58:55.000Z",
+        "updatedAt": "2021-11-26T22:35:55.000Z",
         "deletedAt": null
       }
     }

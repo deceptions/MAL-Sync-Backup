@@ -22,13 +22,13 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:12.000Z",
-  "updatedAt": "2021-10-11T10:10:36.000Z",
+  "updatedAt": "2021-12-03T07:47:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "6382e96a-2416-499c-8c05-48e123531afb": {
         "authors": [
-          "IKUEMI Ryou"
+          "Ikuemi Ryou"
         ],
         "identifier": "6382e96a-2416-499c-8c05-48e123531afb",
         "type": "manga",
@@ -43,7 +43,7 @@
         "malId": 24142,
         "aniId": 54142,
         "createdAt": "2020-10-12T16:03:22.000Z",
-        "updatedAt": "2021-06-02T13:31:13.000Z",
+        "updatedAt": "2021-12-02T13:47:06.000Z",
         "deletedAt": null
       }
     },
@@ -66,6 +66,28 @@
         "aniId": 54142,
         "createdAt": "2021-11-07T22:19:11.000Z",
         "updatedAt": "2021-11-07T22:43:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ku960255": {
+        "authors": [
+          "Ikuemi Ryou"
+        ],
+        "identifier": "manga-ku960255",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Barairo No Ashita",
+        "url": "https://manganato.com/manga-ku960255",
+        "image": "https://avt.mkklcdnv6temp.com/44/p/6-1583475998.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24142,
+        "aniId": 54142,
+        "createdAt": "2021-12-03T07:47:29.000Z",
+        "updatedAt": "2021-12-03T08:16:07.000Z",
         "deletedAt": null
       }
     }

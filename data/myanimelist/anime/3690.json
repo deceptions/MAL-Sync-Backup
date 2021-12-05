@@ -22,7 +22,7 @@
   "hentai": false,
   "anidbId": 4666,
   "createdAt": "2020-10-12T15:38:39.000Z",
-  "updatedAt": "2021-10-01T13:36:16.000Z",
+  "updatedAt": "2021-12-02T14:16:36.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -41,6 +41,25 @@
         "aniId": 3690,
         "createdAt": "2020-10-12T15:57:10.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chou-hatsumei-boy-kanipan": {
+        "identifier": "chou-hatsumei-boy-kanipan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chou Hatsumei Boy Kanipan",
+        "url": "https://gogoanime.cm/category/chou-hatsumei-boy-kanipan",
+        "image": "https://gogocdn.net/cover/chou-hatsumei-boy-kanipan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3690,
+        "aniId": 3690,
+        "createdAt": "2021-12-02T14:16:15.000Z",
+        "updatedAt": "2021-12-02T14:46:05.000Z",
         "deletedAt": null
       }
     }

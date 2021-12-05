@@ -29,7 +29,7 @@
   "hentai": false,
   "anidbId": 1059,
   "createdAt": "2020-10-12T15:38:36.000Z",
-  "updatedAt": "2021-10-01T11:35:52.000Z",
+  "updatedAt": "2021-12-03T20:16:37.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -65,6 +65,25 @@
         "aniId": 3266,
         "createdAt": "2020-10-12T15:55:18.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "ai-yori-aoshi-enishi-miyuki": {
+        "identifier": "ai-yori-aoshi-enishi-miyuki",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ai Yori Aoshi: Enishi - Miyuki",
+        "url": "https://gogoanime.cm/category/ai-yori-aoshi-enishi-miyuki",
+        "image": "https://gogocdn.net/cover/ai-yori-aoshi-enishi-miyuki.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3266,
+        "aniId": 3266,
+        "createdAt": "2021-12-03T20:16:27.000Z",
+        "updatedAt": "2021-12-03T20:46:05.000Z",
         "deletedAt": null
       }
     }

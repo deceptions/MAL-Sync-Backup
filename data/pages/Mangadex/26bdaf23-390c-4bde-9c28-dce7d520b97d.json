@@ -16,10 +16,15 @@
   "malId": 89131,
   "aniId": 94889,
   "createdAt": "2020-10-12T16:09:04.000Z",
-  "updatedAt": "2021-06-04T15:26:51.000Z",
+  "updatedAt": "2021-12-04T15:51:39.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://comic.pixiv.net/works/1564"
+      }
+    ],
     "altTitle": [
       "Underworld Capital Incident",
       "獄都事変"
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:59.000Z",
-    "updatedAt": "2021-06-04T15:20:27.000Z",
+    "updatedAt": "2021-12-04T15:49:08.000Z",
     "deletedAt": null
   },
   "Anilist": {

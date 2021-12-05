@@ -1,7 +1,7 @@
 {
   "authors": [
-    "TYPE-MOON",
-    "Takenashi Eri"
+    "Takenashi Eri",
+    "Type-Moon"
   ],
   "identifier": "c728b682-514e-4490-b099-a43eb9077b40",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 780,
   "aniId": 30780,
   "createdAt": "2020-10-12T16:03:53.000Z",
-  "updatedAt": "2021-06-02T17:13:12.000Z",
+  "updatedAt": "2021-12-02T17:20:09.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/TAKE_MOON"
+      }
+    ],
     "altTitle": [
       "TYPE-MOON作品集・TAKE MOON"
     ],
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:26.000Z",
-    "updatedAt": "2021-09-21T00:41:35.000Z",
+    "updatedAt": "2021-11-28T19:07:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

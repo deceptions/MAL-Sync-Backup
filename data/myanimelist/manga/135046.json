@@ -15,7 +15,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-10-12T18:58:55.000Z",
-  "updatedAt": "2021-10-12T18:58:55.000Z",
+  "updatedAt": "2021-11-28T16:06:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "bcffb5d4-05c6-4f2f-92c4-25ddda595805": {
+        "authors": [
+          "Yamazaki Kore"
+        ],
+        "identifier": "bcffb5d4-05c6-4f2f-92c4-25ddda595805",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ghost and Witch",
+        "url": "https://mangadex.org/title/bcffb5d4-05c6-4f2f-92c4-25ddda595805",
+        "image": "https://uploads.mangadex.org/covers/bcffb5d4-05c6-4f2f-92c4-25ddda595805/2b53abe9-c640-4c4b-9578-896b2061f7d2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135046,
+        "aniId": 139107,
+        "createdAt": "2021-11-28T16:06:05.000Z",
+        "updatedAt": "2021-11-28T16:06:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

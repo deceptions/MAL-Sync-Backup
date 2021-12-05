@@ -15,10 +15,15 @@
   "malId": 13001,
   "aniId": 43001,
   "createdAt": "2020-10-12T16:04:00.000Z",
-  "updatedAt": "2021-06-02T17:55:52.000Z",
+  "updatedAt": "2021-12-02T18:17:37.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%91%E3%81%84%E3%81%8A%E3%82%93!"
+      }
+    ],
     "altTitle": [
       "K-On!",
       "Keion",
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:49.000Z",
-    "updatedAt": "2021-08-15T18:07:52.000Z",
+    "updatedAt": "2021-11-29T05:06:25.000Z",
     "deletedAt": null
   },
   "Anilist": {

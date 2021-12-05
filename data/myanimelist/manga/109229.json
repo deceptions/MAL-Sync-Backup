@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://afternoon.moae.jp/lineup/849"
+    }
+  ],
   "altTitle": [
     "来世は他人がいい"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:12.000Z",
-  "updatedAt": "2021-06-04T04:19:18.000Z",
+  "updatedAt": "2021-12-04T04:50:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,28 +85,6 @@
         "aniId": 99897,
         "createdAt": "2021-02-02T20:31:45.000Z",
         "updatedAt": "2021-11-20T18:14:58.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-bg978963": {
-        "authors": [
-          "Konishi Asuka"
-        ],
-        "identifier": "manga-bg978963",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Raise Wa Tanin Ga Ii",
-        "url": "https://readmanganato.com/manga-bg978963",
-        "image": "https://avt.mkklcdnv6temp.com/23/p/16-1583494314.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 109229,
-        "aniId": 99897,
-        "createdAt": "2021-06-04T04:19:28.000Z",
-        "updatedAt": "2021-06-04T04:48:57.000Z",
         "deletedAt": null
       }
     }

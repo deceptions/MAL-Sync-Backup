@@ -40,6 +40,28 @@
         "updatedAt": "2021-06-05T05:35:10.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kunkou_schale": {
+        "authors": [
+          "TAINO Nikke"
+        ],
+        "identifier": "kunkou_schale",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kunkou Schale",
+        "url": "https://fanfox.net/manga/kunkou_schale/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26649/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102574,
+        "aniId": 99492,
+        "createdAt": "2021-05-24T03:38:28.000Z",
+        "updatedAt": "2021-11-24T04:37:39.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

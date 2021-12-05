@@ -27,7 +27,7 @@
   "hentai": false,
   "anidbId": 4657,
   "createdAt": "2020-10-12T15:39:00.000Z",
-  "updatedAt": "2021-10-02T04:31:32.000Z",
+  "updatedAt": "2021-12-01T13:16:07.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -46,6 +46,25 @@
         "aniId": 8765,
         "createdAt": "2020-10-12T15:52:20.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "futari-gurashi": {
+        "identifier": "futari-gurashi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Futari Gurashi",
+        "url": "https://gogoanime.cm/category/futari-gurashi",
+        "image": "https://gogocdn.net/cover/futari-gurashi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8765,
+        "aniId": 8765,
+        "createdAt": "2021-12-01T13:16:06.000Z",
+        "updatedAt": "2021-12-01T13:46:05.000Z",
         "deletedAt": null
       }
     }

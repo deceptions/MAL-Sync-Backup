@@ -28,7 +28,7 @@
     "Mangadex": {
       "5a9e30cf-b26b-44be-8095-7420eeeadaee": {
         "authors": [
-          "ONO Natsume"
+          "Ono Natsume"
         ],
         "identifier": "5a9e30cf-b26b-44be-8095-7420eeeadaee",
         "type": "manga",
@@ -43,7 +43,7 @@
         "malId": 12569,
         "aniId": 42569,
         "createdAt": "2020-10-12T16:07:32.000Z",
-        "updatedAt": "2021-06-04T03:36:28.000Z",
+        "updatedAt": "2021-12-04T03:51:00.000Z",
         "deletedAt": null
       }
     },
@@ -66,6 +66,28 @@
         "aniId": 42569,
         "createdAt": "2021-08-23T04:46:17.000Z",
         "updatedAt": "2021-08-23T05:16:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-di980443": {
+        "authors": [
+          "Natsume Ono"
+        ],
+        "identifier": "manga-di980443",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Not Simple",
+        "url": "https://readmanganato.com/manga-di980443",
+        "image": "https://avt.mkklcdnv6temp.com/28/w/17-1583496294.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12569,
+        "aniId": 42569,
+        "createdAt": "2021-11-28T23:35:42.000Z",
+        "updatedAt": "2021-11-29T00:05:32.000Z",
         "deletedAt": null
       }
     }

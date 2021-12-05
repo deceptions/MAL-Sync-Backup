@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Ochi Kazuhiro",
     "Nagai Go",
+    "Ochi Kazuhiro",
     "Dynamic Pro"
   ],
   "identifier": "6a1040cf-bae1-42ee-aea1-f82e6f9000c3",
@@ -13,14 +13,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 92833,
   "aniId": null,
   "createdAt": "2020-10-12T16:07:37.000Z",
-  "updatedAt": "2021-06-04T08:54:58.000Z",
+  "updatedAt": "2021-12-04T09:18:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA"
+      }
+    ],
     "altTitle": [
       "ダイナミックヒーローズ"
     ],
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-01-09T22:20:40.000Z",
-    "updatedAt": "2021-06-04T04:21:12.000Z",
+    "updatedAt": "2021-12-04T04:50:29.000Z",
     "deletedAt": null
   },
   "Anilist": null,

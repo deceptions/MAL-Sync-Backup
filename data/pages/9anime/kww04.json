@@ -8,25 +8,17 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 48761,
-  "aniId": 132473,
+  "actor": 1,
+  "malId": 50474,
+  "aniId": null,
   "createdAt": "2021-11-27T16:35:32.000Z",
-  "updatedAt": "2021-11-27T17:05:32.000Z",
+  "updatedAt": "2021-11-29T10:58:49.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
       {
-        "site": "officialsite",
-        "url": "https://farawaypaladin.com/"
-      },
-      {
         "site": "animedb",
         "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16261"
-      },
-      {
-        "site": "animenewsnetwork",
-        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24312"
       },
       {
         "site": "wikipedia",
@@ -34,50 +26,22 @@
       }
     ],
     "altTitle": [
-      "Paladin of the End",
-      "Ultimate Paladin",
-      "The Faraway Paladin",
-      "最果てのパラディン"
+      "Saihate no Paladin Recap",
+      "Saihate no Paladin Episode 7.5",
+      "最果てのパラディン「道行」"
     ],
-    "id": 48761,
+    "id": 50474,
     "type": "anime",
-    "title": "Saihate no Paladin",
-    "url": "https://myanimelist.net/anime/48761/Saihate_no_Paladin",
-    "image": "https://cdn.myanimelist.net/images/anime/1176/118382.jpg",
-    "category": "TV",
+    "title": "Saihate no Paladin: Michiyuki",
+    "url": "https://myanimelist.net/anime/50474/Saihate_no_Paladin__Michiyuki",
+    "image": "https://cdn.myanimelist.net/images/anime/1162/119719.jpg",
+    "category": "Special",
     "hentai": false,
     "anidbId": 16261,
-    "createdAt": "2021-09-27T08:36:14.000Z",
-    "updatedAt": "2021-11-07T19:19:08.000Z",
+    "createdAt": "2021-11-29T01:05:43.000Z",
+    "updatedAt": "2021-11-29T01:05:43.000Z",
     "deletedAt": null
   },
-  "Anilist": {
-    "altTitle": [
-      "The Faraway Paladin",
-      "最果てのパラディン",
-      "พาลาดิน ยอดอัศวินจากแดนไกล"
-    ],
-    "externalLinks": [
-      {
-        "site": "Vrv",
-        "url": "https://vrv.co/series/GEXH3W8G1"
-      },
-      {
-        "site": "Crunchyroll",
-        "url": "https://www.crunchyroll.com/series/GEXH3W8G1"
-      }
-    ],
-    "id": 132473,
-    "malId": 48761,
-    "type": "anime",
-    "title": "Saihate no Paladin",
-    "url": "https://anilist.co/anime/132473",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132473-55R2FZdHszWP.jpg",
-    "category": "tv",
-    "hentai": false,
-    "createdAt": "2021-05-21T03:12:57.000Z",
-    "updatedAt": "2021-11-09T00:13:35.000Z",
-    "deletedAt": null
-  },
-  "malUrl": "https://myanimelist.net/anime/48761/Saihate_no_Paladin"
+  "Anilist": null,
+  "malUrl": "https://myanimelist.net/anime/50474/Saihate_no_Paladin__Michiyuki"
 }

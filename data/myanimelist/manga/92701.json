@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://magazine-edge.jp/contents/ai.html"
+    }
+  ],
   "altTitle": [
     "I don't know the love",
     "アイ先生はわからない"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-05T18:50:05.000Z",
-  "updatedAt": "2021-06-01T16:02:57.000Z",
+  "updatedAt": "2021-12-01T16:18:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,28 +42,6 @@
         "aniId": 100697,
         "createdAt": "2021-02-05T19:20:27.000Z",
         "updatedAt": "2021-06-08T11:00:14.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-kj988092": {
-        "authors": [
-          "Kodama Jun"
-        ],
-        "identifier": "manga-kj988092",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Ai-Sensei Wa Wakaranai",
-        "url": "https://manganato.com/manga-kj988092",
-        "image": "https://avt.mkklcdnv6temp.com/24/n/23-1612886355.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 92701,
-        "aniId": 100697,
-        "createdAt": "2021-06-01T16:02:57.000Z",
-        "updatedAt": "2021-06-01T16:31:16.000Z",
         "deletedAt": null
       }
     }

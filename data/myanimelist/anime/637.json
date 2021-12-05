@@ -26,7 +26,7 @@
   "hentai": false,
   "anidbId": 36,
   "createdAt": "2020-10-12T15:38:06.000Z",
-  "updatedAt": "2021-09-30T15:38:55.000Z",
+  "updatedAt": "2021-12-01T13:16:37.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -64,6 +64,25 @@
         "aniId": 637,
         "createdAt": "2021-07-27T19:52:06.000Z",
         "updatedAt": "2021-07-27T20:21:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "iketeru-futari": {
+        "identifier": "iketeru-futari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Iketeru Futari",
+        "url": "https://gogoanime.cm/category/iketeru-futari",
+        "image": "https://gogocdn.net/cover/iketeru-futari.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 637,
+        "aniId": 637,
+        "createdAt": "2021-12-01T13:16:30.000Z",
+        "updatedAt": "2021-12-01T13:46:05.000Z",
         "deletedAt": null
       }
     }

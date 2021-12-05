@@ -16,10 +16,15 @@
   "malId": 107,
   "aniId": 30107,
   "createdAt": "2021-05-31T09:12:21.000Z",
-  "updatedAt": "2021-05-31T09:30:42.000Z",
+  "updatedAt": "2021-12-01T00:14:19.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%A1%E3%82%87%E3%81%B3%E3%81%A3%E3%83%84"
+      }
+    ],
     "altTitle": [
       "Chobits",
       "ちょびっツ"
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2021-05-31T09:12:21.000Z",
+    "updatedAt": "2021-12-01T00:06:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

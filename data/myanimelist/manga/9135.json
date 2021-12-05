@@ -21,7 +21,7 @@
     "Mangadex": {
       "c47c14fc-f690-4dc6-acf3-e73f9577bf9a": {
         "authors": [
-          "SAKURAI Machiko"
+          "Sakurai Machiko"
         ],
         "identifier": "c47c14fc-f690-4dc6-acf3-e73f9577bf9a",
         "type": "manga",
@@ -36,7 +36,29 @@
         "malId": 9135,
         "aniId": 39135,
         "createdAt": "2020-10-12T16:06:27.000Z",
-        "updatedAt": "2021-06-03T19:42:50.000Z",
+        "updatedAt": "2021-12-03T19:48:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "17_sakurai_machiko": {
+        "authors": [
+          "SAKURAI Machiko"
+        ],
+        "identifier": "17_sakurai_machiko",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "17 (SAKURAI Machiko)",
+        "url": "https://fanfox.net/manga/17_sakurai_machiko/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6221/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 9135,
+        "aniId": 39135,
+        "createdAt": "2021-05-20T21:44:50.000Z",
+        "updatedAt": "2021-11-21T07:43:38.000Z",
         "deletedAt": null
       }
     },

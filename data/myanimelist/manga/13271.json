@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://httpｓ://ja.wikipedia.org/wiki/%E3%81%95%E3%82%89%E3%81%84%E5%B1%8B_%E4%BA%94%E8%91%89"
+    }
+  ],
   "altTitle": [
     "House of Five Leaves",
     "さらい屋五葉"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:53.000Z",
-  "updatedAt": "2021-09-05T05:46:05.000Z",
+  "updatedAt": "2021-12-04T17:18:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +86,28 @@
         "aniId": 43271,
         "createdAt": "2021-09-30T18:02:04.000Z",
         "updatedAt": "2021-09-30T18:30:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "saraiya_goyou": {
+        "authors": [
+          "ONO Natsume"
+        ],
+        "identifier": "saraiya_goyou",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Saraiya Goyou",
+        "url": "https://fanfox.net/manga/saraiya_goyou/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34338/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13271,
+        "aniId": 43271,
+        "createdAt": "2021-12-04T17:18:11.000Z",
+        "updatedAt": "2021-12-04T17:46:05.000Z",
         "deletedAt": null
       }
     }

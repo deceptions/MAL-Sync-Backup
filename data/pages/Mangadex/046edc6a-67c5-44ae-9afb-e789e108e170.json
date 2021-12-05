@@ -15,13 +15,20 @@
   "malId": 4305,
   "aniId": 34305,
   "createdAt": "2020-10-12T16:05:49.000Z",
-  "updatedAt": "2021-06-03T15:26:47.000Z",
+  "updatedAt": "2021-12-03T15:49:19.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Poe_no_Ichizoku"
+      }
+    ],
     "altTitle": [
       "The Poe Family",
-      "Po no Ichizoku, The Family of Poe, The Poe Clan",
+      "Po no Ichizoku",
+      "The Family of Poe",
+      "The Poe Clan",
       "ポーの一族"
     ],
     "authors": [
@@ -35,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:58.000Z",
-    "updatedAt": "2021-06-03T15:19:57.000Z",
+    "updatedAt": "2021-12-03T15:46:39.000Z",
     "deletedAt": null
   },
   "Anilist": {

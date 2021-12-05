@@ -15,10 +15,19 @@
   "malId": 21419,
   "aniId": 51419,
   "createdAt": "2021-05-31T13:28:26.000Z",
-  "updatedAt": "2021-05-31T13:52:54.000Z",
+  "updatedAt": "2021-12-01T00:14:20.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.nozokiana.jp/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Nozoki_ana"
+      }
+    ],
     "altTitle": [
       "A Peephole",
       "ノ・ゾ・キ・ア・ナ"
@@ -34,7 +43,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:42:57.000Z",
-    "updatedAt": "2021-05-31T13:28:26.000Z",
+    "updatedAt": "2021-12-01T01:13:18.000Z",
     "deletedAt": null
   },
   "Anilist": {

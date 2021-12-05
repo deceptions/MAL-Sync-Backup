@@ -22,7 +22,7 @@
     "Mangadex": {
       "93fdaa7e-1686-454d-a701-ba02f2f1a7db": {
         "authors": [
-          "AIKAWA Yu"
+          "Aikawa Yu"
         ],
         "identifier": "93fdaa7e-1686-454d-a701-ba02f2f1a7db",
         "type": "manga",
@@ -37,7 +37,29 @@
         "malId": 19432,
         "aniId": 49432,
         "createdAt": "2020-10-12T16:02:55.000Z",
-        "updatedAt": "2021-06-02T10:20:24.000Z",
+        "updatedAt": "2021-12-02T10:47:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "chronos-d-e-e-p": {
+        "authors": [
+          "AIKAWA Yu"
+        ],
+        "identifier": "chronos-d-e-e-p",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Chronos - DEEP",
+        "url": "https://mangasee123.com/manga/Chronos-D-E-E-P",
+        "image": "https://cover.nep.li/cover/Chronos-D-E-E-P.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19432,
+        "aniId": 49432,
+        "createdAt": "2021-11-28T07:36:08.000Z",
+        "updatedAt": "2021-11-28T08:05:32.000Z",
         "deletedAt": null
       }
     }

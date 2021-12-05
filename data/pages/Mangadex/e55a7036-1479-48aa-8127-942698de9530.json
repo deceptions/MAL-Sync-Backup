@@ -1,6 +1,6 @@
 {
   "authors": [
-    "Ookawa Bukubu (bkub)"
+    "Ookawa Bukubu (Bkub)"
   ],
   "identifier": "e55a7036-1479-48aa-8127-942698de9530",
   "type": "manga",
@@ -15,10 +15,19 @@
   "malId": 95016,
   "aniId": 87005,
   "createdAt": "2020-10-12T16:09:20.000Z",
-  "updatedAt": "2021-06-04T16:50:58.000Z",
+  "updatedAt": "2021-12-04T17:26:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://mangalifewin.takeshobo.co.jp/rensai/popute2/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%97%E3%83%86%E3%83%94%E3%83%94%E3%83%83%E3%82%AF"
+      }
+    ],
     "altTitle": [
       "Pop Team Epic",
       "Poputepipikku Second Season",
@@ -35,7 +44,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:46:21.000Z",
-    "updatedAt": "2021-05-31T09:11:51.000Z",
+    "updatedAt": "2021-12-01T02:13:21.000Z",
     "deletedAt": null
   },
   "Anilist": {

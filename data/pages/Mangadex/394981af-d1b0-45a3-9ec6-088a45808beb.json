@@ -16,10 +16,15 @@
   "malId": 73835,
   "aniId": 91888,
   "createdAt": "2020-10-12T16:09:00.000Z",
-  "updatedAt": "2021-06-04T15:26:46.000Z",
+  "updatedAt": "2021-12-04T15:51:19.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%BC%E3%82%B9"
+      }
+    ],
     "altTitle": [
       "ギャングース"
     ],
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-04T14:50:18.000Z",
-    "updatedAt": "2021-06-04T14:50:18.000Z",
+    "updatedAt": "2021-12-04T15:17:38.000Z",
     "deletedAt": null
   },
   "Anilist": {

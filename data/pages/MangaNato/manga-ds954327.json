@@ -15,10 +15,15 @@
   "malId": 41629,
   "aniId": 71629,
   "createdAt": "2021-05-29T06:45:06.000Z",
-  "updatedAt": "2021-05-29T07:12:12.000Z",
+  "updatedAt": "2021-11-29T07:36:14.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%80%88%E5%8F%A4%E5%85%B8%E9%83%A8%E3%80%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+      }
+    ],
     "altTitle": [
       "Hyoka",
       "氷菓"
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:44:13.000Z",
-    "updatedAt": "2021-05-29T06:45:06.000Z",
+    "updatedAt": "2021-11-29T07:05:54.000Z",
     "deletedAt": null
   },
   "Anilist": {

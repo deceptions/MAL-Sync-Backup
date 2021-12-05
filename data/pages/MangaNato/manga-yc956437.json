@@ -15,12 +15,20 @@
   "malId": 8144,
   "aniId": 38144,
   "createdAt": "2021-05-31T13:53:25.000Z",
-  "updatedAt": "2021-05-31T14:22:54.000Z",
+  "updatedAt": "2021-12-01T00:44:41.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8%E3%81%97%E3%82%82%E3%81%AE"
+      }
+    ],
     "altTitle": [
-      "Lost Continent of the Sky, Misplaced by Heaven, Heaven's Lost Property, Lost Property of the Sky",
+      "Lost Continent of the Sky",
+      "Misplaced by Heaven",
+      "Heaven's Lost Property",
+      "Lost Property of the Sky",
       "そらのおとしもの"
     ],
     "authors": [
@@ -34,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:17.000Z",
-    "updatedAt": "2021-05-31T13:53:25.000Z",
+    "updatedAt": "2021-12-01T00:42:00.000Z",
     "deletedAt": null
   },
   "Anilist": {

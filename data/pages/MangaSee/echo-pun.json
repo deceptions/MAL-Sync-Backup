@@ -15,12 +15,18 @@
   "malId": 35389,
   "aniId": 65389,
   "createdAt": "2021-05-28T02:58:57.000Z",
-  "updatedAt": "2021-05-28T03:28:42.000Z",
+  "updatedAt": "2021-11-28T03:36:44.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/えこぱん"
+      }
+    ],
     "altTitle": [
-      "Ekopan, Echopan",
+      "Ekopan",
+      "Echopan",
       "えこぱん"
     ],
     "authors": [
@@ -34,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:58.000Z",
-    "updatedAt": "2021-05-28T02:58:56.000Z",
+    "updatedAt": "2021-11-28T03:05:43.000Z",
     "deletedAt": null
   },
   "Anilist": {

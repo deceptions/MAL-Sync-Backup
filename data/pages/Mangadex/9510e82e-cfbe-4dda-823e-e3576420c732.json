@@ -7,7 +7,7 @@
   "page": "Mangadex",
   "title": "Chang Ge Xing",
   "url": "https://mangadex.org/title/9510e82e-cfbe-4dda-823e-e3576420c732",
-  "image": "https://uploads.mangadex.org/covers/9510e82e-cfbe-4dda-823e-e3576420c732/6d53584c-e0d8-4aa8-aca1-cc20ce2e5d70.jpg",
+  "image": "https://uploads.mangadex.org/covers/9510e82e-cfbe-4dda-823e-e3576420c732/fec72742-e9d5-4ffd-938d-b77edf0e44f0.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
@@ -15,12 +15,18 @@
   "malId": 42001,
   "aniId": 72001,
   "createdAt": "2020-10-12T16:06:39.000Z",
-  "updatedAt": "2021-06-03T21:08:59.000Z",
+  "updatedAt": "2021-12-03T21:18:27.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://zh.wikipedia.org/wiki/%E9%95%B7%E6%AD%8C%E8%A1%8C_%28%E6%BC%AB%E7%95%AB%29"
+      }
+    ],
     "altTitle": [
-      "Choukakou, Chang Ge Xing",
+      "Choukakou",
+      "Chang Ge Xing",
       "長歌行"
     ],
     "authors": [
@@ -34,12 +40,11 @@
     "category": "Manhua",
     "hentai": false,
     "createdAt": "2020-10-12T15:44:14.000Z",
-    "updatedAt": "2021-06-01T18:31:48.000Z",
+    "updatedAt": "2021-12-01T18:47:28.000Z",
     "deletedAt": null
   },
   "Anilist": {
     "altTitle": [
-      "Song of the Long March",
       "長歌行",
       "Choukakou",
       "Chang Ge's Journey",
@@ -49,7 +54,8 @@
       "Trường Ca Hành",
       "Jang Ga Haeng",
       "Singing All Along",
-      "Путешествия Чангэ"
+      "Путешествия Чангэ",
+      "Song of the Long March"
     ],
     "externalLinks": [],
     "authors": [
@@ -64,7 +70,7 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:48:50.000Z",
-    "updatedAt": "2021-06-17T20:20:53.000Z",
+    "updatedAt": "2021-11-30T06:05:35.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/42001/Song_of_the_Long_March"

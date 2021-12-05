@@ -23,5 +23,29 @@
   "createdAt": "2021-05-24T16:08:38.000Z",
   "updatedAt": "2021-11-24T16:37:32.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "hop-step-sing": {
+        "authors": [
+          "ASUBE Yui",
+          "KODAMA Rei"
+        ],
+        "identifier": "hop-step-sing",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hop Step Sing!",
+        "url": "https://mangasee123.com/manga/Hop-Step-Sing",
+        "image": "https://cover.nep.li/cover/Hop-Step-Sing.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 129352,
+        "aniId": 120070,
+        "createdAt": "2021-05-24T16:08:40.000Z",
+        "updatedAt": "2021-11-26T19:35:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

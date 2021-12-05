@@ -21,11 +21,11 @@
   "type": "manga",
   "title": "Ayashimon",
   "url": "https://anilist.co/manga/141261",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141261-lC2F2UlfcUFc.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141261-VYHMpExyiT8m.jpg",
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-11-07T15:47:46.000Z",
-  "updatedAt": "2021-11-14T15:43:40.000Z",
+  "updatedAt": "2021-11-30T03:05:35.000Z",
   "deletedAt": null,
   "Pages": {
     "MangaSee": {
@@ -69,6 +69,50 @@
         "aniId": 141261,
         "createdAt": "2021-11-17T11:17:21.000Z",
         "updatedAt": "2021-11-17T11:17:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ayashimon": {
+        "authors": [
+          "KAKU Yuuji"
+        ],
+        "identifier": "ayashimon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ayashimon",
+        "url": "https://fanfox.net/manga/ayashimon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/40178/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141583,
+        "aniId": 141261,
+        "createdAt": "2021-11-30T13:05:36.000Z",
+        "updatedAt": "2021-11-30T13:35:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mh990090": {
+        "authors": [
+          "Kaku Yuuji"
+        ],
+        "identifier": "manga-mh990090",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ayashimon",
+        "url": "https://manganato.com/manga-mh990090",
+        "image": "https://avt.mkklcdnv6temp.com/9/o/25-1638286659.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141583,
+        "aniId": 141261,
+        "createdAt": "2021-11-30T23:35:48.000Z",
+        "updatedAt": "2021-12-01T00:05:34.000Z",
         "deletedAt": null
       }
     }

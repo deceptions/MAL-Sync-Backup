@@ -32,9 +32,9 @@
         "identifier": "e5ce88e2-8c46-482d-8acf-5c6d5a64a585",
         "type": "manga",
         "page": "Mangadex",
-        "title": "Noragami",
+        "title": "Noragami: Stray God",
         "url": "https://mangadex.org/title/e5ce88e2-8c46-482d-8acf-5c6d5a64a585",
-        "image": "https://uploads.mangadex.org/covers/e5ce88e2-8c46-482d-8acf-5c6d5a64a585/2441a0bf-c224-4e60-a3d5-9bb6113845a8.jpg",
+        "image": "https://uploads.mangadex.org/covers/e5ce88e2-8c46-482d-8acf-5c6d5a64a585/d203ec45-c160-4b49-ae39-56bf29d6eb64.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
@@ -42,7 +42,29 @@
         "malId": 24692,
         "aniId": 54692,
         "createdAt": "2020-10-12T16:04:38.000Z",
-        "updatedAt": "2021-06-02T22:18:14.000Z",
+        "updatedAt": "2021-12-02T22:46:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "noragami": {
+        "authors": [
+          "ADACHI Toka"
+        ],
+        "identifier": "noragami",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Noragami",
+        "url": "https://fanfox.net/manga/noragami/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8957/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 24692,
+        "aniId": 54692,
+        "createdAt": "2020-12-20T15:56:56.000Z",
+        "updatedAt": "2021-11-21T14:42:48.000Z",
         "deletedAt": null
       }
     },

@@ -18,5 +18,28 @@
   "createdAt": "2021-07-16T15:32:21.000Z",
   "updatedAt": "2021-11-24T08:35:48.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "d006f413-bad9-4f82-a0aa-901ef2d0ece6": {
+        "authors": [
+          "keyyang"
+        ],
+        "identifier": "d006f413-bad9-4f82-a0aa-901ef2d0ece6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Throw Away the Suit Together",
+        "url": "https://mangadex.org/title/d006f413-bad9-4f82-a0aa-901ef2d0ece6",
+        "image": "https://uploads.mangadex.org/covers/d006f413-bad9-4f82-a0aa-901ef2d0ece6/7e06fd02-fa40-4345-a785-ed7fc937fca6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 142042,
+        "aniId": 136774,
+        "createdAt": "2021-11-07T02:34:31.000Z",
+        "updatedAt": "2021-11-28T14:36:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }
