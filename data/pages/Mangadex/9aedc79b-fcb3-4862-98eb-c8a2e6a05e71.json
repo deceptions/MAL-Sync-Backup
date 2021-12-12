@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 135983,
   "createdAt": "2020-11-03T04:55:11.000Z",
-  "updatedAt": "2021-06-08T06:30:38.000Z",
+  "updatedAt": "2021-12-08T09:33:04.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "이토록 완벽한 짝사랑",
+      "Perfect Crush  "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "SSAK"
+    ],
+    "id": 135983,
+    "malId": null,
+    "type": "manga",
+    "title": "Itorong Wanbyeokan Jjaksarang",
+    "url": "https://anilist.co/manga/135983",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b135983-yKgmPvQEntrZ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-23T23:14:53.000Z",
+    "updatedAt": "2021-12-08T07:04:29.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

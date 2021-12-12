@@ -1,8 +1,8 @@
 {
   "authors": [
-    "KISHIBA Kiraku",
+    "Kishiba Kiraku",
     "tea",
-    "OGINO Ken"
+    "Ogino Ken"
   ],
   "identifier": "a2320293-f00e-43a0-8d08-1110cf26a894",
   "type": "manga",
@@ -17,10 +17,15 @@
   "malId": 123456,
   "aniId": 114048,
   "createdAt": "2021-01-02T22:20:20.000Z",
-  "updatedAt": "2021-06-08T09:30:11.000Z",
+  "updatedAt": "2021-12-08T09:39:32.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://firecross.jp/comic/series/331"
+      }
+    ],
     "altTitle": [
       "新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。"
     ],
@@ -36,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-01-02T22:20:19.000Z",
-    "updatedAt": "2021-08-15T10:37:16.000Z",
+    "updatedAt": "2021-12-07T20:04:30.000Z",
     "deletedAt": null
   },
   "Anilist": {

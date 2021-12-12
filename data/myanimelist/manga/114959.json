@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://bigcomicbros.net/comic/koumei/"
+    }
+  ],
   "altTitle": [
     "Cowardly Crybaby Shokatsu Koumei",
     "泣き虫弱虫諸葛孔明"
@@ -16,14 +21,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-07T08:20:00.000Z",
-  "updatedAt": "2021-06-07T08:20:00.000Z",
+  "updatedAt": "2021-12-07T08:46:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "4d064ded-b3ac-4d78-b4b2-12984bf4a97b": {
         "authors": [
-          "Iori Tabasa",
-          "Sakemi Kenichi"
+          "Sakemi Kenichi",
+          "Iori Tabasa"
         ],
         "identifier": "4d064ded-b3ac-4d78-b4b2-12984bf4a97b",
         "type": "manga",
@@ -34,11 +39,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 114959,
         "aniId": null,
         "createdAt": "2020-10-12T16:17:29.000Z",
-        "updatedAt": "2021-06-07T09:59:43.000Z",
+        "updatedAt": "2021-12-07T10:18:52.000Z",
         "deletedAt": null
       }
     }

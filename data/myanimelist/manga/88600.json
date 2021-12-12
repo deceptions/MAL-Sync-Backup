@@ -49,10 +49,10 @@
       },
       "db5f1570-6626-45b2-8743-36eff978efd2": {
         "authors": [
-          "猫村",
-          "Nekomura",
+          "Sleeper (circle)",
           "match",
-          "Sleeper (circle)"
+          "猫村",
+          "Nekomura"
         ],
         "identifier": "db5f1570-6626-45b2-8743-36eff978efd2",
         "type": "manga",
@@ -67,7 +67,7 @@
         "malId": 88600,
         "aniId": 86639,
         "createdAt": "2020-10-12T16:16:15.000Z",
-        "updatedAt": "2021-06-06T20:58:50.000Z",
+        "updatedAt": "2021-12-06T21:17:24.000Z",
         "deletedAt": null
       }
     },
@@ -132,6 +132,28 @@
         "aniId": 86639,
         "createdAt": "2021-06-29T08:33:46.000Z",
         "updatedAt": "2021-06-29T08:49:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-wz951582": {
+        "authors": [
+          "Mayuzuki Jun"
+        ],
+        "identifier": "manga-wz951582",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Koi Wa Amaagari No You Ni",
+        "url": "https://manganato.com/manga-wz951582",
+        "image": "https://avt.mkklcdnv6temp.com/9/t/1-1583464046.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 88600,
+        "aniId": 86639,
+        "createdAt": "2021-06-04T05:20:22.000Z",
+        "updatedAt": "2021-12-04T06:22:50.000Z",
         "deletedAt": null
       }
     }

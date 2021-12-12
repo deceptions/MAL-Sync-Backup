@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.ganganonline.com/comic/maou/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%81%86%E3%81%A1%E3%81%AE%E9%AD%94%E7%8E%8B%E3%81%8B%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%82%88"
+    }
+  ],
   "altTitle": [
     "Our Satan Doesn't Bite",
     "うちの魔王かみませんよ"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:35.000Z",
-  "updatedAt": "2021-08-03T23:50:08.000Z",
+  "updatedAt": "2021-12-07T20:12:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +46,28 @@
         "aniId": 85706,
         "createdAt": "2020-10-12T16:07:58.000Z",
         "updatedAt": "2021-12-04T06:48:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "uchi-no-maou-kamimasen-yo": {
+        "authors": [
+          "Otousan"
+        ],
+        "identifier": "uchi-no-maou-kamimasen-yo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Uchi no Maou Kamimasen yo",
+        "url": "https://mangasee123.com/manga/Uchi-No-Maou-Kamimasen-Yo",
+        "image": "https://cover.nep.li/cover/Uchi-No-Maou-Kamimasen-Yo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80711,
+        "aniId": 85706,
+        "createdAt": "2021-06-03T15:19:58.000Z",
+        "updatedAt": "2021-12-03T16:19:47.000Z",
         "deletedAt": null
       }
     },

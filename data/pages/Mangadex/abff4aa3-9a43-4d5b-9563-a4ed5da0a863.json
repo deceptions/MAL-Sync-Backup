@@ -11,13 +11,50 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 134586,
+  "aniId": 128722,
   "createdAt": "2020-11-11T04:12:39.000Z",
-  "updatedAt": "2021-06-08T07:01:03.000Z",
+  "updatedAt": "2021-12-08T09:32:07.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "ネイキッドカラー"
+    ],
+    "authors": [
+      "Amamiya"
+    ],
+    "id": 134586,
+    "type": "manga",
+    "title": "Naked Color",
+    "url": "https://myanimelist.net/manga/134586/Naked_Color",
+    "image": "https://cdn.myanimelist.net/images/manga/2/249652.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T09:32:02.000Z",
+    "updatedAt": "2021-12-08T09:32:02.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ネイキッドカラー"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Amamiya"
+    ],
+    "id": 128722,
+    "malId": 134586,
+    "type": "manga",
+    "title": "Naked Color",
+    "url": "https://anilist.co/manga/128722",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128722-0XYCnHCXbRpf.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T08:04:39.000Z",
+    "updatedAt": "2021-12-08T08:04:39.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/134586/Naked_Color"
 }

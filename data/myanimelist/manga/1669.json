@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/F.COMPO"
+    }
+  ],
   "altTitle": [
     "Family Compo",
     "ファミリー・コンポ"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:36.000Z",
-  "updatedAt": "2021-08-08T20:40:13.000Z",
+  "updatedAt": "2021-12-05T15:46:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +86,28 @@
         "aniId": 31669,
         "createdAt": "2021-08-08T20:39:22.000Z",
         "updatedAt": "2021-08-08T21:09:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "family_compo": {
+        "authors": [
+          "HOJO Tsukasa"
+        ],
+        "identifier": "family_compo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Family Compo",
+        "url": "https://fanfox.net/manga/family_compo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/546/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1669,
+        "aniId": 31669,
+        "createdAt": "2021-12-05T15:46:08.000Z",
+        "updatedAt": "2021-12-05T16:16:06.000Z",
         "deletedAt": null
       }
     }

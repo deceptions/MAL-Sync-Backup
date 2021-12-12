@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-12-24T01:56:03.000Z",
-  "updatedAt": "2021-10-24T06:59:16.000Z",
+  "updatedAt": "2021-12-07T20:09:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -45,28 +45,6 @@
         "deletedAt": null
       }
     },
-    "MangaSee": {
-      "rooster-fighter": {
-        "authors": [
-          "SAKURATANI Syu"
-        ],
-        "identifier": "rooster-fighter",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Rooster Fighter",
-        "url": "https://mangasee123.com/manga/Rooster-Fighter",
-        "image": "https://cover.nep.li/cover/Rooster-Fighter.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 132169,
-        "aniId": 127554,
-        "createdAt": "2021-01-12T04:51:36.000Z",
-        "updatedAt": "2021-06-07T21:50:16.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "niwatori_fighter": {
         "authors": [
@@ -86,6 +64,28 @@
         "aniId": 127554,
         "createdAt": "2021-05-26T07:08:28.000Z",
         "updatedAt": "2021-11-26T08:06:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kr987526": {
+        "authors": [
+          "Sakuratani Shū"
+        ],
+        "identifier": "manga-kr987526",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Rooster Fighter",
+        "url": "https://manganato.com/manga-kr987526",
+        "image": "https://avt.mkklcdnv6temp.com/1/i/22-1609735341.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132169,
+        "aniId": 127554,
+        "createdAt": "2021-06-02T21:31:12.000Z",
+        "updatedAt": "2021-12-02T22:19:26.000Z",
         "deletedAt": null
       }
     }

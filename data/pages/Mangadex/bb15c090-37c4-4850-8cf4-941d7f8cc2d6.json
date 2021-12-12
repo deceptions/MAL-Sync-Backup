@@ -1,8 +1,8 @@
 {
   "authors": [
-    "miushi",
     "sleeping farm (Circle)",
-    "fujimatsu mei"
+    "miushi",
+    "Fujimatsu Mei"
   ],
   "identifier": "bb15c090-37c4-4850-8cf4-941d7f8cc2d6",
   "type": "manga",
@@ -13,61 +13,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 3964,
-  "aniId": 33964,
+  "actor": 1,
+  "malId": null,
+  "aniId": 142249,
   "createdAt": "2020-10-12T16:18:22.000Z",
-  "updatedAt": "2021-06-07T16:25:29.000Z",
+  "updatedAt": "2021-12-10T09:53:54.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/%E7%A5%9E%E3%81%AE%E9%9B%AB"
-      }
-    ],
-    "altTitle": [
-      "The Drops of God",
-      "Les Gouttes de Dieu",
-      "神の雫"
-    ],
-    "authors": [
-      "Kibayashi, Shin",
-      "Okimoto, Shuu"
-    ],
-    "id": 3964,
-    "type": "manga",
-    "title": "Kami no Shizuku",
-    "url": "https://myanimelist.net/manga/3964/Kami_no_Shizuku",
-    "image": "https://cdn.myanimelist.net/images/manga/1/157426.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:55.000Z",
-    "updatedAt": "2021-10-23T08:00:36.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "The Drops of God",
-      "神の雫",
-      "Les Gouttes de Dieu"
+      "ゆうゆう、しずしず"
     ],
     "externalLinks": [],
     "authors": [
-      "Shin Kibayashi",
-      "Shuu Okimoto"
+      "Mei Fujimatsu"
     ],
-    "id": 33964,
-    "malId": 3964,
+    "id": 142249,
+    "malId": null,
     "type": "manga",
-    "title": "Kami no Shizuku",
-    "url": "https://anilist.co/manga/33964",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3964.jpg",
-    "category": "manga",
+    "title": "Yuuyuu, Shizushizu",
+    "url": "https://anilist.co/manga/142249",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142249-ghGg3MI4Ibwv.jpg",
+    "category": "none",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:22.000Z",
-    "updatedAt": "2021-06-17T11:03:54.000Z",
+    "createdAt": "2021-12-01T18:46:05.000Z",
+    "updatedAt": "2021-12-01T18:46:05.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/3964/Kami_no_Shizuku"
+  "malUrl": ""
 }

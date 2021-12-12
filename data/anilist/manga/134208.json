@@ -17,5 +17,28 @@
   "createdAt": "2021-12-03T13:16:37.000Z",
   "updatedAt": "2021-12-03T13:16:37.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "bc11ed93-dc32-4f19-a867-4316867a9dc1": {
+        "authors": [
+          "Mizushima Raika"
+        ],
+        "identifier": "bc11ed93-dc32-4f19-a867-4316867a9dc1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kotoko to Ojisan",
+        "url": "https://mangadex.org/title/bc11ed93-dc32-4f19-a867-4316867a9dc1",
+        "image": "https://uploads.mangadex.org/covers/bc11ed93-dc32-4f19-a867-4316867a9dc1/c0e63f3c-6414-4903-bdb2-0387a044d427.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 134208,
+        "createdAt": "2021-12-05T04:17:24.000Z",
+        "updatedAt": "2021-12-06T09:50:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

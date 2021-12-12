@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 132119,
   "aniId": null,
   "createdAt": "2021-02-14T03:06:28.000Z",
-  "updatedAt": "2021-06-08T12:05:45.000Z",
+  "updatedAt": "2021-12-08T12:35:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://websunday.net/rensai/itoyngtnk/"
+      }
+    ],
     "altTitle": [
       "いとやんごとなき"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-03-19T02:04:36.000Z",
-    "updatedAt": "2021-06-08T11:25:42.000Z",
+    "updatedAt": "2021-12-08T11:34:49.000Z",
     "deletedAt": null
   },
   "Anilist": null,

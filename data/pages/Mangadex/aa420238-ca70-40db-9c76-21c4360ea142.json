@@ -1,6 +1,6 @@
 {
   "authors": [
-    "AKIYAMA Kaori"
+    "Akiyama Kaori"
   ],
   "identifier": "aa420238-ca70-40db-9c76-21c4360ea142",
   "type": "manga",
@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 102157,
   "aniId": 112955,
   "createdAt": "2020-10-12T16:10:31.000Z",
-  "updatedAt": "2021-06-05T14:48:57.000Z",
+  "updatedAt": "2021-12-05T15:21:29.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%96%91%E3%81%AE%E5%BA%AD"
+      }
+    ],
     "altTitle": [
       "Nodoka's Garden",
       "長閑の庭"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-05T01:48:59.000Z",
-    "updatedAt": "2021-06-05T01:48:59.000Z",
+    "updatedAt": "2021-12-05T02:16:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

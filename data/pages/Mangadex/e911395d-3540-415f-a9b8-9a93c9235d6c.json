@@ -13,35 +13,34 @@
   "sticky": false,
   "active": true,
   "actor": 2,
-  "malId": 11650,
+  "malId": 21544,
   "aniId": 51544,
   "createdAt": "2020-10-12T16:02:58.000Z",
-  "updatedAt": "2021-12-03T20:04:38.000Z",
+  "updatedAt": "2021-12-07T19:27:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": [],
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%BB%E3%83%A9_(%E6%B1%A0%E4%B8%8A%E6%B0%B8%E4%B8%80%E3%81%AE%E5%B0%8F%E8%AA%AC)"
+      }
+    ],
     "altTitle": [
-      "Unmoral Kids",
-      "Girl A",
-      "See You Tomorrow",
-      "Cicada",
-      "Shangri-La",
-      "Drop-Out Succubus Koron-chan",
-      "Summer Trap!",
-      "UK UNMORAL KIDs"
+      "シャングリ・ラ"
     ],
     "authors": [
-      "Hidiri, Rei"
+      "Ikegami, Eiichi",
+      "Karasuma, Tasuku"
     ],
-    "id": 11650,
+    "id": 21544,
     "type": "manga",
-    "title": "UK",
-    "url": "https://myanimelist.net/manga/11650/UK",
-    "image": "https://cdn.myanimelist.net/images/manga/1/102611.jpg",
+    "title": "Shangri-La",
+    "url": "https://myanimelist.net/manga/21544/Shangri-La",
+    "image": "https://cdn.myanimelist.net/images/manga/2/173570.jpg",
     "category": "Manga",
-    "hentai": true,
-    "createdAt": "2020-10-12T15:41:34.000Z",
-    "updatedAt": "2021-10-31T06:36:10.000Z",
+    "hentai": false,
+    "createdAt": "2021-01-11T15:21:43.000Z",
+    "updatedAt": "2021-12-06T10:17:27.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -65,5 +64,5 @@
     "updatedAt": "2021-12-02T11:17:26.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/11650/UK"
+  "malUrl": "https://myanimelist.net/manga/21544/Shangri-La"
 }

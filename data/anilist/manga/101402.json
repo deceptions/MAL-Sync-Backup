@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-23T09:12:58.000Z",
-  "updatedAt": "2021-06-18T03:26:50.000Z",
+  "updatedAt": "2021-12-08T03:35:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "9ca1682f-a347-40a0-baa8-89a8bb8b5a6b": {
+        "authors": [
+          "Masaki Maki"
+        ],
+        "identifier": "9ca1682f-a347-40a0-baa8-89a8bb8b5a6b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kizudarake no Hakoniwa",
+        "url": "https://mangadex.org/title/9ca1682f-a347-40a0-baa8-89a8bb8b5a6b",
+        "image": "https://uploads.mangadex.org/covers/9ca1682f-a347-40a0-baa8-89a8bb8b5a6b/cc153e3a-98ee-40e6-9669-27cc46a7772b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 109364,
+        "aniId": 101402,
+        "createdAt": "2020-10-12T16:21:47.000Z",
+        "updatedAt": "2021-12-08T09:27:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

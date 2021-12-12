@@ -18,7 +18,30 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-05-24T06:08:17.000Z",
-  "updatedAt": "2021-06-21T14:52:28.000Z",
+  "updatedAt": "2021-12-09T18:33:38.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "7d80ee22-edfd-4c93-a4d9-d4048b255e0b": {
+        "authors": [
+          "Namita"
+        ],
+        "identifier": "7d80ee22-edfd-4c93-a4d9-d4048b255e0b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Committee Chairman, Didn't You Just Masturbate in the Bathroom? I Can See the Number of Times People Orgasm",
+        "url": "https://mangadex.org/title/7d80ee22-edfd-4c93-a4d9-d4048b255e0b",
+        "image": "https://uploads.mangadex.org/covers/7d80ee22-edfd-4c93-a4d9-d4048b255e0b/f11296f9-9542-4458-aeea-d8ee154f1ff0.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 116769,
+        "aniId": 113743,
+        "createdAt": "2020-10-12T16:14:33.000Z",
+        "updatedAt": "2021-12-10T09:20:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -15,10 +15,19 @@
   "malId": 111265,
   "aniId": 107366,
   "createdAt": "2020-10-12T16:17:57.000Z",
-  "updatedAt": "2021-06-07T12:29:00.000Z",
+  "updatedAt": "2021-12-07T12:48:44.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://cycomi.com/title.php?title_id=82"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/14%E6%AD%B3%E3%81%A8%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC"
+      }
+    ],
     "altTitle": [
       "A fourteen and an illustrator.",
       "14歳とイラストレーター"
@@ -35,7 +44,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:22.000Z",
-    "updatedAt": "2021-06-05T18:49:07.000Z",
+    "updatedAt": "2021-12-05T19:17:37.000Z",
     "deletedAt": null
   },
   "Anilist": {

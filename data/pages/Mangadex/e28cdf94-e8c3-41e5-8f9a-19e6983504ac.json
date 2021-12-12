@@ -12,12 +12,49 @@
   "sticky": false,
   "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 122537,
+  "aniId": 108045,
   "createdAt": "2020-10-12T16:15:15.000Z",
-  "updatedAt": "2021-06-06T12:01:18.000Z",
+  "updatedAt": "2021-12-07T19:29:26.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "FANTASIES"
+    ],
+    "authors": [
+      "Oosuga, Gen"
+    ],
+    "id": 122537,
+    "type": "manga",
+    "title": "Fantasies",
+    "url": "https://myanimelist.net/manga/122537/Fantasies",
+    "image": "https://cdn.myanimelist.net/images/manga/2/223423.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "createdAt": "2021-12-06T12:48:18.000Z",
+    "updatedAt": "2021-12-06T12:48:18.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ファンタシーズ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gen Oosuka"
+    ],
+    "id": 108045,
+    "malId": 122537,
+    "type": "manga",
+    "title": "FANTASIES",
+    "url": "https://anilist.co/manga/108045",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108045-DJsE6YPYB0MP.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-06-10T15:08:18.000Z",
+    "updatedAt": "2021-11-20T02:14:14.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/122537/Fantasies"
 }

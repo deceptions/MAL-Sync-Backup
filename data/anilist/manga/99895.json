@@ -23,8 +23,8 @@
     "Mangadex": {
       "10a8f059-fd50-4dfb-bc56-b58f9f3bb4e4": {
         "authors": [
-          "Takeda Atsushi",
-          "Atekichi"
+          "Atekichi",
+          "Takeda Atsushi"
         ],
         "identifier": "10a8f059-fd50-4dfb-bc56-b58f9f3bb4e4",
         "type": "manga",
@@ -39,7 +39,7 @@
         "malId": 109045,
         "aniId": 99895,
         "createdAt": "2020-10-12T16:10:55.000Z",
-        "updatedAt": "2021-06-05T04:25:58.000Z",
+        "updatedAt": "2021-12-05T04:47:30.000Z",
         "deletedAt": null
       }
     },
@@ -85,6 +85,28 @@
         "aniId": 99895,
         "createdAt": "2021-05-11T15:19:06.000Z",
         "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ai977417": {
+        "authors": [
+          "Atekichi"
+        ],
+        "identifier": "manga-ai977417",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Saikyou No Shokugyou Wa Yuusha Demo Kenja Demo Naku Kanteishi (Kari) Rashii Desu Yo?",
+        "url": "https://manganato.com/manga-ai977417",
+        "image": "https://avt.mkklcdnv6temp.com/42/i/15-1583493183.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109045,
+        "aniId": 99895,
+        "createdAt": "2021-06-03T21:20:08.000Z",
+        "updatedAt": "2021-12-03T22:21:59.000Z",
         "deletedAt": null
       }
     }

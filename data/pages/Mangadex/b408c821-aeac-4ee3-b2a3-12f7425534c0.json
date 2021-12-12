@@ -1,6 +1,6 @@
 {
   "authors": [
-    "NITTA Tatsuo"
+    "Nitta Tatsuo"
   ],
   "identifier": "b408c821-aeac-4ee3-b2a3-12f7425534c0",
   "type": "manga",
@@ -15,12 +15,19 @@
   "malId": 21308,
   "aniId": 51308,
   "createdAt": "2020-10-12T16:10:29.000Z",
-  "updatedAt": "2021-06-05T08:36:45.000Z",
+  "updatedAt": "2021-12-05T08:47:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E9%9D%99%E3%81%8B%E3%81%AA%E3%82%8B%E3%83%89%E3%83%B3"
+      }
+    ],
     "altTitle": [
-      "Shizuka naru Don, The Quiet Don, The Quietened Don",
+      "Shizuka naru Don",
+      "The Quiet Don",
+      "The Quietened Don",
       "静かなるドン Yakuza Side Story"
     ],
     "authors": [
@@ -34,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:42:56.000Z",
-    "updatedAt": "2021-06-05T01:19:09.000Z",
+    "updatedAt": "2021-12-05T01:47:46.000Z",
     "deletedAt": null
   },
   "Anilist": {

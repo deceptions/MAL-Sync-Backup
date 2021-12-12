@@ -1,6 +1,6 @@
 {
   "authors": [
-    "TAKAYAMA Shinobu"
+    "Takayama Shinobu"
   ],
   "identifier": "3d8e3b97-c875-4090-b52c-1b5a63f591a9",
   "type": "manga",
@@ -11,13 +11,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
-  "malId": null,
+  "actor": 2,
+  "malId": 138814,
   "aniId": 112929,
   "createdAt": "2021-02-26T18:26:10.000Z",
-  "updatedAt": "2021-06-08T13:40:29.000Z",
+  "updatedAt": "2021-12-08T16:23:46.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.ichijinsha.co.jp/stories/comic-zerosum/kasyoku/"
+      }
+    ],
+    "altTitle": [
+      "White of a Wedding Ceremony",
+      "花燭の白"
+    ],
+    "authors": [
+      "Takayama, Shinobu"
+    ],
+    "id": 138814,
+    "type": "manga",
+    "title": "Kashoku no Shiro",
+    "url": "https://myanimelist.net/manga/138814/Kashoku_no_Shiro",
+    "image": "https://cdn.myanimelist.net/images/manga/1/248203.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T14:33:58.000Z",
+    "updatedAt": "2021-12-08T14:33:58.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "花燭の白",
@@ -40,5 +64,5 @@
     "updatedAt": "2021-07-23T05:33:51.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/138814/Kashoku_no_Shiro"
 }

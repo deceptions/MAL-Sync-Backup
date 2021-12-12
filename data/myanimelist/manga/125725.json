@@ -21,13 +21,13 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:21.000Z",
-  "updatedAt": "2021-11-02T06:35:10.000Z",
+  "updatedAt": "2021-12-07T20:12:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "2ea8f5bc-31a7-472e-9c60-705d586f0c83": {
         "authors": [
-          "TOUKA Akiharu"
+          "Touka Akiharu"
         ],
         "identifier": "2ea8f5bc-31a7-472e-9c60-705d586f0c83",
         "type": "manga",
@@ -42,7 +42,29 @@
         "malId": 125725,
         "aniId": 117662,
         "createdAt": "2020-10-12T16:18:59.000Z",
-        "updatedAt": "2021-06-07T21:02:29.000Z",
+        "updatedAt": "2021-12-07T21:10:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hq985199": {
+        "authors": [
+          "Touka Akiharu"
+        ],
+        "identifier": "manga-hq985199",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Reincarnated Villainess' Dark History",
+        "url": "https://manganato.com/manga-hq985199",
+        "image": "https://avt.mkklcdnv6temp.com/6/b/21-1588260153.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125725,
+        "aniId": 117662,
+        "createdAt": "2021-06-01T15:45:42.000Z",
+        "updatedAt": "2021-12-01T16:24:17.000Z",
         "deletedAt": null
       }
     },

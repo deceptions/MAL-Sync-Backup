@@ -11,60 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 259,
-  "aniId": 30259,
+  "actor": 1,
+  "malId": null,
+  "aniId": 100823,
   "createdAt": "2020-10-12T16:15:10.000Z",
-  "updatedAt": "2021-06-06T11:13:19.000Z",
+  "updatedAt": "2021-12-10T11:49:59.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://en.wikipedia.org/wiki/Jazz_%28manga%29"
-      }
-    ],
-    "altTitle": [
-      "Jazz",
-      "JAZZ"
-    ],
-    "authors": [
-      "Takamure, Tamotsu",
-      "Maeda, Sakae"
-    ],
-    "id": 259,
-    "type": "manga",
-    "title": "Jazz",
-    "url": "https://myanimelist.net/manga/259/Jazz",
-    "image": "https://cdn.myanimelist.net/images/manga/2/142093.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2021-10-16T11:58:45.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "Jazz",
-      "JAZZ",
-      "ジャズ"
+      "Jazz for Two",
+      "재즈처럼"
     ],
     "externalLinks": [],
     "authors": [
-      "Tamotsu Takamure",
-      "Sakae Maeda"
+      "Clarju"
     ],
-    "id": 30259,
-    "malId": 259,
+    "id": 100823,
+    "malId": null,
     "type": "manga",
-    "title": "JAZZ",
-    "url": "https://anilist.co/manga/30259",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30259-lRfF6NdN8T8Z.jpg",
+    "title": "Jaejeucheoreom",
+    "url": "https://anilist.co/manga/100823",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100823-VdsTWTW4ET0r.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:27.000Z",
-    "updatedAt": "2021-06-17T08:22:05.000Z",
+    "createdAt": "2021-05-22T09:12:58.000Z",
+    "updatedAt": "2021-12-06T11:46:18.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/259/Jazz"
+  "malUrl": ""
 }

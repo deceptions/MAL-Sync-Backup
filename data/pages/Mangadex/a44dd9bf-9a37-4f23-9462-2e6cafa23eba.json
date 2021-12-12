@@ -11,50 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 11165,
-  "aniId": 41165,
+  "actor": 1,
+  "malId": null,
+  "aniId": 110778,
   "createdAt": "2020-10-12T16:16:26.000Z",
-  "updatedAt": "2021-06-06T22:37:19.000Z",
+  "updatedAt": "2021-12-10T11:48:02.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": [],
-    "altTitle": [
-      "EPITAPH -エピタフ-"
-    ],
-    "authors": [
-      "Shouoto, Aya"
-    ],
-    "id": 11165,
-    "type": "manga",
-    "title": "Epitaph",
-    "url": "https://myanimelist.net/manga/11165/Epitaph",
-    "image": "https://cdn.myanimelist.net/images/manga/5/40160.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:32.000Z",
-    "updatedAt": "2021-10-31T03:35:41.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
+      "Epitaph",
+      "에피타프",
       "Epitaph"
     ],
     "externalLinks": [],
     "authors": [
-      "Aya Shouoto"
+      "Hyangsu"
     ],
-    "id": 41165,
-    "malId": 11165,
+    "id": 110778,
+    "malId": null,
     "type": "manga",
     "title": "Epitaph",
-    "url": "https://anilist.co/manga/41165",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx41165-2yWuPoLkKWEw.png",
+    "url": "https://anilist.co/manga/110778",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b110778-Jj5FPa1hnvuX.jpg",
     "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:41:15.000Z",
-    "updatedAt": "2021-06-17T13:46:12.000Z",
+    "hentai": true,
+    "createdAt": "2021-06-06T22:49:18.000Z",
+    "updatedAt": "2021-12-06T23:17:04.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/11165/Epitaph"
+  "malUrl": ""
 }

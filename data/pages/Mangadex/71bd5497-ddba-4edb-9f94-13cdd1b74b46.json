@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 135779,
   "createdAt": "2020-11-11T10:14:11.000Z",
-  "updatedAt": "2021-06-08T07:01:34.000Z",
+  "updatedAt": "2021-12-08T09:32:10.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "친구는 오작교에서",
+      "My Friend from Ojakgyo Bridge  ",
+      "Rendez-Vous Sur le Pont des Amoureux"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sano",
+      "YUL"
+    ],
+    "id": 135779,
+    "malId": null,
+    "type": "manga",
+    "title": "Chinguneun Ojakgyoeseo",
+    "url": "https://anilist.co/manga/135779",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b135779-vFM3f1N9JNYZ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-17T14:27:59.000Z",
+    "updatedAt": "2021-12-08T08:04:39.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

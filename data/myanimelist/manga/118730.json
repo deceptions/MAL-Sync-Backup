@@ -57,8 +57,8 @@
       "1930d635-b170-417f-b8a8-f84b881bcc7d": {
         "authors": [
           "Butterfly Blue",
-          "D.LAN Cang Lan",
-          "Chang Pan Yongzhe"
+          "Chang Pan Yongzhe",
+          "D.LAN Cang Lan"
         ],
         "identifier": "1930d635-b170-417f-b8a8-f84b881bcc7d",
         "type": "manga",
@@ -69,11 +69,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 118730,
         "aniId": 124618,
         "createdAt": "2020-10-12T16:21:01.000Z",
-        "updatedAt": "2021-06-08T06:57:07.000Z",
+        "updatedAt": "2021-12-08T07:10:50.000Z",
         "deletedAt": null
       }
     },
@@ -122,6 +122,27 @@
         "updatedAt": "2021-11-20T21:48:17.000Z",
         "deletedAt": null
       },
+      "the_king_s_avatar": {
+        "authors": [
+          "Butterfly Blue",
+          "常盘勇者"
+        ],
+        "identifier": "the_king_s_avatar",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The King's Avatar",
+        "url": "https://fanfox.net/manga/the_king_s_avatar/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21253/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118730,
+        "aniId": 97662,
+        "createdAt": "2021-06-04T20:49:59.000Z",
+        "updatedAt": "2021-12-04T21:53:22.000Z",
+        "deletedAt": null
+      },
       "quanzhi_gaoshou": {
         "authors": [
           "Chang Pan Yongzhe",
@@ -165,6 +186,28 @@
         "aniId": 124618,
         "createdAt": "2021-05-29T00:43:53.000Z",
         "updatedAt": "2021-11-10T15:43:31.000Z",
+        "deletedAt": null
+      },
+      "manga-vo972423": {
+        "authors": [
+          "Butterfly Blue",
+          "Chang Pan Yong Zhe",
+          "D.lan苍岚"
+        ],
+        "identifier": "manga-vo972423",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Quan Zhi Gao Shou",
+        "url": "https://manganato.com/manga-vo972423",
+        "image": "https://avt.mkklcdnv6temp.com/13/s/14-1583490239.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118730,
+        "aniId": 97662,
+        "createdAt": "2021-06-01T17:01:19.000Z",
+        "updatedAt": "2021-12-01T17:46:26.000Z",
         "deletedAt": null
       }
     }

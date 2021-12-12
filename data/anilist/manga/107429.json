@@ -18,7 +18,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T23:13:00.000Z",
-  "updatedAt": "2021-06-21T14:00:16.000Z",
+  "updatedAt": "2021-12-06T00:16:58.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "312d36a1-6e41-4760-808d-074fec5d2a66": {
+        "authors": [
+          "S-Monkey"
+        ],
+        "identifier": "312d36a1-6e41-4760-808d-074fec5d2a66",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Thirty Years Old",
+        "url": "https://mangadex.org/title/312d36a1-6e41-4760-808d-074fec5d2a66",
+        "image": "https://uploads.mangadex.org/covers/312d36a1-6e41-4760-808d-074fec5d2a66/864cb408-298e-4fd4-ae1a-37c21c709277.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 107429,
+        "createdAt": "2020-10-12T16:13:42.000Z",
+        "updatedAt": "2021-12-07T19:28:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

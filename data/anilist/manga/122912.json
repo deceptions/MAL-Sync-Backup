@@ -17,9 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T16:43:06.000Z",
-  "updatedAt": "2021-06-21T16:17:51.000Z",
+  "updatedAt": "2021-12-09T10:03:49.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "f25bdee7-d902-4a38-919a-bd44cf4af253": {
+        "authors": [
+          "Updating"
+        ],
+        "identifier": "f25bdee7-d902-4a38-919a-bd44cf4af253",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Metropolitan Reverence",
+        "url": "https://mangadex.org/title/f25bdee7-d902-4a38-919a-bd44cf4af253",
+        "image": "https://uploads.mangadex.org/covers/f25bdee7-d902-4a38-919a-bd44cf4af253/6ba28169-e393-41d7-9ff9-091caf5a9117.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 122912,
+        "createdAt": "2020-10-12T16:17:49.000Z",
+        "updatedAt": "2021-12-09T16:18:29.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-gx983732": {
         "authors": [

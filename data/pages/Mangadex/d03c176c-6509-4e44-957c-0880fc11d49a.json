@@ -1,7 +1,7 @@
 {
   "authors": [
-    "고토",
-    "핵개미"
+    "핵개미",
+    "고토"
   ],
   "identifier": "d03c176c-6509-4e44-957c-0880fc11d49a",
   "type": "manga",
@@ -12,59 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 391,
-  "aniId": 30391,
+  "actor": 1,
+  "malId": null,
+  "aniId": 111114,
   "createdAt": "2020-10-12T16:16:47.000Z",
-  "updatedAt": "2021-06-07T01:58:29.000Z",
+  "updatedAt": "2021-12-10T11:47:57.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": null,
-    "altTitle": [
-      "Kill♥Me Kiss Me",
-      "K2♥-Kill me Kiss me-"
-    ],
-    "authors": [
-      "Lee, Young-You"
-    ],
-    "id": 391,
-    "type": "manga",
-    "title": "K2♥: Kill Me Kiss Me",
-    "url": "https://myanimelist.net/manga/391/K2♥__Kill_Me_Kiss_Me",
-    "image": "https://cdn.myanimelist.net/images/manga/2/152554.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:21.000Z",
-    "updatedAt": "2021-07-23T04:33:55.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "Kill Me, Kiss Me",
-      "K2-케이투",
-      "Kill Me Kiss Me",
-      "K2",
-      "케이투"
+      "앉아, 기다려, 키스해",
+      "Sit, Wait, Kiss Me",
+      "坐下，等等，kiss",
+      "Anja, Gidaryeo, Kiseuhae"
     ],
     "externalLinks": [],
     "authors": [
-      "Young-You Lee",
-      "Jihae Hong",
-      "Mirja Maletzki",
-      "William Suh",
-      "Eric Pineda"
+      "Go To"
     ],
-    "id": 30391,
-    "malId": 391,
+    "id": 111114,
+    "malId": null,
     "type": "manga",
-    "title": "Kei Tu",
-    "url": "https://anilist.co/manga/30391",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30391-zq61PGUPIaSg.png",
+    "title": "Anja, Gidaryeo, Kiss hae",
+    "url": "https://anilist.co/manga/111114",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111114-k4HLoogYytbi.png",
     "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:35:31.000Z",
-    "updatedAt": "2021-11-18T03:14:03.000Z",
+    "hentai": true,
+    "createdAt": "2021-05-28T05:28:43.000Z",
+    "updatedAt": "2021-12-07T02:48:16.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/391/K2♥__Kill_Me_Kiss_Me"
+  "malUrl": ""
 }

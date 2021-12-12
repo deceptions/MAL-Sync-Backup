@@ -15,12 +15,19 @@
   "malId": 32939,
   "aniId": 62939,
   "createdAt": "2021-06-05T11:49:08.000Z",
-  "updatedAt": "2021-06-05T12:18:57.000Z",
+  "updatedAt": "2021-12-05T12:51:30.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%B2%BE%E9%9C%8A%E4%BD%BF%E3%81%84%E3%81%AE%E5%89%A3%E8%88%9E"
+      }
+    ],
     "altTitle": [
-      "Seirei Tsukai no Kenbu, Dance Blade of the Spirit Master, Blade Dance of Elementalers",
+      "Seirei Tsukai no Kenbu",
+      "Dance Blade of the Spirit Master",
+      "Blade Dance of Elementalers",
       "精霊使いの剣舞〈ブレイドダンス〉"
     ],
     "authors": [
@@ -35,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:46.000Z",
-    "updatedAt": "2021-06-05T11:49:08.000Z",
+    "updatedAt": "2021-12-05T12:16:18.000Z",
     "deletedAt": null
   },
   "Anilist": {

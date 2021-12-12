@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-04T15:18:57.000Z",
-  "updatedAt": "2021-06-21T17:18:42.000Z",
+  "updatedAt": "2021-12-08T09:04:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,11 +35,31 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": null,
         "aniId": 129311,
         "createdAt": "2020-10-12T16:19:12.000Z",
-        "updatedAt": "2021-06-07T21:57:40.000Z",
+        "updatedAt": "2021-12-07T22:08:10.000Z",
+        "deletedAt": null
+      },
+      "14c1e5c4-dfd5-44e7-9525-78f3be95a54b": {
+        "authors": [
+          "Shimahara"
+        ],
+        "identifier": "14c1e5c4-dfd5-44e7-9525-78f3be95a54b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Cat Came to My House!",
+        "url": "https://mangadex.org/title/14c1e5c4-dfd5-44e7-9525-78f3be95a54b",
+        "image": "https://uploads.mangadex.org/covers/14c1e5c4-dfd5-44e7-9525-78f3be95a54b/4436ec3d-25b6-42bc-8948-bfd94f116282.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 129311,
+        "createdAt": "2020-12-02T06:22:47.000Z",
+        "updatedAt": "2021-12-08T09:33:34.000Z",
         "deletedAt": null
       }
     }

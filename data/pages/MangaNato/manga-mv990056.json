@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 142353,
   "createdAt": "2021-11-21T04:12:49.000Z",
-  "updatedAt": "2021-11-21T04:12:49.000Z",
+  "updatedAt": "2021-12-06T09:53:30.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "사장님의 특별지시",
+      "The President’s Special Instructions"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "JINA",
+      "Hanna Park"
+    ],
+    "id": 142353,
+    "malId": null,
+    "type": "manga",
+    "title": "Sajangnimui Teukbyeoljisi",
+    "url": "https://anilist.co/manga/142353",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142353-hUqA9ALlPvY5.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-05T15:46:07.000Z",
+    "updatedAt": "2021-12-05T15:46:07.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

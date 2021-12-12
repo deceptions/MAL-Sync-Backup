@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T20:37:51.000Z",
-  "updatedAt": "2021-06-21T15:20:03.000Z",
+  "updatedAt": "2021-12-07T21:03:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "97c4468c-1d2f-4433-9f11-50797864c243": {
+        "authors": [
+          "이힝"
+        ],
+        "identifier": "97c4468c-1d2f-4433-9f11-50797864c243",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Our Studio",
+        "url": "https://mangadex.org/title/97c4468c-1d2f-4433-9f11-50797864c243",
+        "image": "https://uploads.mangadex.org/covers/97c4468c-1d2f-4433-9f11-50797864c243/f0b3d7bc-5fae-4aff-a2ab-133e50dd6da9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 117148,
+        "createdAt": "2020-10-12T16:18:48.000Z",
+        "updatedAt": "2021-12-10T11:48:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

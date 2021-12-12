@@ -17,9 +17,32 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-31T09:14:11.000Z",
-  "updatedAt": "2021-09-06T03:16:56.000Z",
+  "updatedAt": "2021-12-05T12:16:17.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "75a1c932-9792-41e1-a4a2-f2dddf1030ee": {
+        "authors": [
+          "Semikawa Natsuya",
+          "Usui Tsukasa"
+        ],
+        "identifier": "75a1c932-9792-41e1-a4a2-f2dddf1030ee",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Isekai Izakaya \"Gen\"",
+        "url": "https://mangadex.org/title/75a1c932-9792-41e1-a4a2-f2dddf1030ee",
+        "image": "https://uploads.mangadex.org/covers/75a1c932-9792-41e1-a4a2-f2dddf1030ee/f070fb48-2b37-4624-b14b-56a18248b716.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 90190,
+        "aniId": 112257,
+        "createdAt": "2020-10-12T16:11:50.000Z",
+        "updatedAt": "2021-12-06T09:43:42.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-tt971228": {
         "authors": [

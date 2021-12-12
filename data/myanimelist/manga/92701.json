@@ -26,7 +26,7 @@
     "Mangadex": {
       "2a6ab931-d8d4-453b-92b9-a81bf5574b59": {
         "authors": [
-          "KODAMA Jun"
+          "Kodama Jun"
         ],
         "identifier": "2a6ab931-d8d4-453b-92b9-a81bf5574b59",
         "type": "manga",
@@ -41,7 +41,29 @@
         "malId": 92701,
         "aniId": 100697,
         "createdAt": "2021-02-05T19:20:27.000Z",
-        "updatedAt": "2021-06-08T11:00:14.000Z",
+        "updatedAt": "2021-12-08T11:11:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kj988092": {
+        "authors": [
+          "Kodama Jun"
+        ],
+        "identifier": "manga-kj988092",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ai-Sensei Wa Wakaranai",
+        "url": "https://manganato.com/manga-kj988092",
+        "image": "https://avt.mkklcdnv6temp.com/24/n/23-1612886355.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92701,
+        "aniId": 100697,
+        "createdAt": "2021-06-01T16:02:57.000Z",
+        "updatedAt": "2021-12-01T16:46:17.000Z",
         "deletedAt": null
       }
     }

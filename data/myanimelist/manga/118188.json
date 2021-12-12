@@ -65,6 +65,28 @@
         "updatedAt": "2021-12-04T17:16:05.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "umisaki_lilac": {
+        "authors": [
+          "KENMOTSU Chiyo"
+        ],
+        "identifier": "umisaki_lilac",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Umisaki Lilac",
+        "url": "https://fanfox.net/manga/umisaki_lilac/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/40307/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118188,
+        "aniId": 101143,
+        "createdAt": "2021-12-05T06:16:28.000Z",
+        "updatedAt": "2021-12-05T06:46:06.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

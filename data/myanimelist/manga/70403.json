@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%A1%82%E6%AD%A3%E5%92%8C%C3%97%E9%B3%A5%E5%B1%B1%E6%98%8E%E5%85%B1%E4%BD%9C%E7%9F%AD%E7%B7%A8%E9%9B%86_%E3%82%AB%E3%83%84%E3%83%A9%E3%82%A2%E3%82%AD%E3%83%A9"
+    }
+  ],
   "altTitle": [
     "Katsura & Akira Short Stories",
     "Katsura Masakazu x Toriyama Akira Kyousaku Tanpenshuu",
@@ -19,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:17.000Z",
-  "updatedAt": "2021-09-07T13:34:49.000Z",
+  "updatedAt": "2021-12-05T11:17:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +47,27 @@
         "aniId": 91172,
         "createdAt": "2020-10-12T16:03:46.000Z",
         "updatedAt": "2021-12-02T16:47:17.000Z",
+        "deletedAt": null
+      },
+      "0672840e-58b7-434e-9393-13dec3864913": {
+        "authors": [
+          "Toriyama Akira",
+          "Katsura Masakazu"
+        ],
+        "identifier": "0672840e-58b7-434e-9393-13dec3864913",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sachie-chan Guu!!",
+        "url": "https://mangadex.org/title/0672840e-58b7-434e-9393-13dec3864913",
+        "image": "https://uploads.mangadex.org/covers/0672840e-58b7-434e-9393-13dec3864913/8e2c7690-6983-43a2-9b3b-eca3a4bb3e8d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70403,
+        "aniId": 91172,
+        "createdAt": "2020-10-12T16:11:43.000Z",
+        "updatedAt": "2021-12-06T09:45:33.000Z",
         "deletedAt": null
       }
     },

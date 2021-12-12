@@ -11,13 +11,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 129621,
+  "aniId": 118371,
   "createdAt": "2021-01-30T23:01:52.000Z",
-  "updatedAt": "2021-07-30T23:22:54.000Z",
+  "updatedAt": "2021-12-08T14:33:38.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://afternoon.kodansha.co.jp/c/medalist/"
+      }
+    ],
+    "altTitle": [
+      "メダリスト"
+    ],
+    "authors": [
+      "Tsurumaikada"
+    ],
+    "id": 129621,
+    "type": "manga",
+    "title": "Medalist",
+    "url": "https://myanimelist.net/manga/129621/Medalist",
+    "image": "https://cdn.myanimelist.net/images/manga/3/235204.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T18:21:55.000Z",
+    "updatedAt": "2021-12-08T13:33:58.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Medalist",
+      "メダリスト"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ikada Tsuruma"
+    ],
+    "id": 118371,
+    "malId": 129621,
+    "type": "manga",
+    "title": "Medalist",
+    "url": "https://anilist.co/manga/118371",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118371-d5LTGr44wWSH.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:24.000Z",
+    "updatedAt": "2021-06-18T08:57:22.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/129621/Medalist"
 }

@@ -22,8 +22,8 @@
     "Mangadex": {
       "ee0df4ab-1e8d-49b9-9404-da9dcb11a32a": {
         "authors": [
-          "Asakawa Keiji",
-          "Hanabokuro"
+          "Hanabokuro",
+          "Asakawa Keiji"
         ],
         "identifier": "ee0df4ab-1e8d-49b9-9404-da9dcb11a32a",
         "type": "manga",
@@ -38,7 +38,7 @@
         "malId": 109299,
         "aniId": 99571,
         "createdAt": "2020-10-12T16:10:50.000Z",
-        "updatedAt": "2021-06-05T03:43:19.000Z",
+        "updatedAt": "2021-12-05T03:50:01.000Z",
         "deletedAt": null
       }
     },
@@ -84,6 +84,28 @@
         "aniId": 99571,
         "createdAt": "2021-02-09T03:40:32.000Z",
         "updatedAt": "2021-11-20T18:44:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zt977176": {
+        "authors": [
+          "Hanabokuro"
+        ],
+        "identifier": "manga-zt977176",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Exterminator",
+        "url": "https://readmanganato.com/manga-zt977176",
+        "image": "https://avt.mkklcdnv6temp.com/37/b/15-1583492906.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109299,
+        "aniId": 99571,
+        "createdAt": "2021-06-01T15:33:39.000Z",
+        "updatedAt": "2021-12-01T16:24:17.000Z",
         "deletedAt": null
       }
     }

@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-05-26T04:08:28.000Z",
-  "updatedAt": "2021-10-06T21:32:20.000Z",
+  "updatedAt": "2021-12-08T12:04:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a190b564-f56b-4bcf-8509-012ac6e032d7": {
+        "authors": [
+          "쇠니",
+          "도미"
+        ],
+        "identifier": "a190b564-f56b-4bcf-8509-012ac6e032d7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Campus Today",
+        "url": "https://mangadex.org/title/a190b564-f56b-4bcf-8509-012ac6e032d7",
+        "image": "https://uploads.mangadex.org/covers/a190b564-f56b-4bcf-8509-012ac6e032d7/f200cb48-68fd-4d12-a56a-6b81020973b2.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 130457,
+        "createdAt": "2021-02-11T18:40:39.000Z",
+        "updatedAt": "2021-12-08T14:32:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -39,6 +39,28 @@
         "updatedAt": "2021-12-04T14:21:49.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hyakunichikan": {
+        "authors": [
+          "NATA Kokone"
+        ],
+        "identifier": "hyakunichikan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hyakunichikan!!",
+        "url": "https://fanfox.net/manga/hyakunichikan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20799/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93562,
+        "aniId": 97599,
+        "createdAt": "2021-06-02T04:31:31.000Z",
+        "updatedAt": "2021-12-02T05:16:35.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

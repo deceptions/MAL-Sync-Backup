@@ -27,8 +27,8 @@
     "Mangadex": {
       "997d322b-22de-4875-a1a4-2a80dba21d4c": {
         "authors": [
-          "Mochiron-san",
-          "Necoco"
+          "Necoco",
+          "Mochiron-san"
         ],
         "identifier": "997d322b-22de-4875-a1a4-2a80dba21d4c",
         "type": "manga",
@@ -43,7 +43,52 @@
         "malId": 123777,
         "aniId": 112715,
         "createdAt": "2020-10-12T16:16:47.000Z",
-        "updatedAt": "2021-06-07T02:00:40.000Z",
+        "updatedAt": "2021-12-07T02:16:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "boushoku-hi-no-ken": {
+        "authors": [
+          "Mochiron-san",
+          "Nekoko"
+        ],
+        "identifier": "boushoku-hi-no-ken",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Boushoku-Hi no Ken",
+        "url": "https://mangasee123.com/manga/Boushoku-Hi-no-Ken",
+        "image": "https://cover.nep.li/cover/Boushoku-Hi-no-Ken.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123777,
+        "aniId": 112715,
+        "createdAt": "2020-12-21T03:56:06.000Z",
+        "updatedAt": "2021-12-04T20:24:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fk982519": {
+        "authors": [
+          "Necoco"
+        ],
+        "identifier": "manga-fk982519",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Boushoku-Hi No Ken",
+        "url": "https://manganato.com/manga-fk982519",
+        "image": "https://avt.mkklcdnv6temp.com/4/s/19-1583499254.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123777,
+        "aniId": 112715,
+        "createdAt": "2021-06-04T16:19:47.000Z",
+        "updatedAt": "2021-12-04T17:27:40.000Z",
         "deletedAt": null
       }
     }

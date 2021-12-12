@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 138789,
   "createdAt": "2021-01-14T19:01:51.000Z",
-  "updatedAt": "2021-06-08T10:00:47.000Z",
+  "updatedAt": "2021-12-08T14:33:37.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "リリースレッド",
+      "リリースレッド 怪異の起こる街",
+      "Lily's Thread kaii no Okoru Machi"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Daredemonai"
+    ],
+    "id": 138789,
+    "malId": null,
+    "type": "manga",
+    "title": "Lily's Thread",
+    "url": "https://anilist.co/manga/138789",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138789-4Chy3daeYY93.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-06T02:45:46.000Z",
+    "updatedAt": "2021-12-08T10:34:38.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -18,7 +18,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T18:44:32.000Z",
-  "updatedAt": "2021-08-27T16:07:22.000Z",
+  "updatedAt": "2021-12-07T21:34:28.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "cb217579-43e6-4510-b38d-e28f3e907b93": {
+        "authors": [
+          "Yang Flowers",
+          "Unknown"
+        ],
+        "identifier": "cb217579-43e6-4510-b38d-e28f3e907b93",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Trace of Doomsday",
+        "url": "https://mangadex.org/title/cb217579-43e6-4510-b38d-e28f3e907b93",
+        "image": "https://uploads.mangadex.org/covers/cb217579-43e6-4510-b38d-e28f3e907b93/84ba37f2-f6fa-487e-8042-a6120db7c7d2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 117672,
+        "createdAt": "2020-10-12T16:18:51.000Z",
+        "updatedAt": "2021-12-08T09:32:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

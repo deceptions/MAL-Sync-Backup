@@ -11,13 +11,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 137928,
   "createdAt": "2021-02-09T18:40:56.000Z",
-  "updatedAt": "2021-06-08T11:05:44.000Z",
+  "updatedAt": "2021-12-08T14:32:10.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "月の國"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Katsura Inazuma"
+    ],
+    "id": 137928,
+    "malId": null,
+    "type": "manga",
+    "title": "Tsuki no Kuni",
+    "url": "https://anilist.co/manga/137928",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137928-GLJpJT6lDXzy.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-08-15T21:37:03.000Z",
+    "updatedAt": "2021-11-20T03:44:15.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

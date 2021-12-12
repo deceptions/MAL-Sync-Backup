@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T07:20:24.000Z",
-  "updatedAt": "2021-06-21T14:46:56.000Z",
+  "updatedAt": "2021-12-07T07:47:11.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "2e915414-0b5f-4de9-84f4-2ddc0ec9283e": {
+        "authors": [
+          "Otousan"
+        ],
+        "identifier": "2e915414-0b5f-4de9-84f4-2ddc0ec9283e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Story About Armored King and Captive Princess",
+        "url": "https://mangadex.org/title/2e915414-0b5f-4de9-84f4-2ddc0ec9283e",
+        "image": "https://uploads.mangadex.org/covers/2e915414-0b5f-4de9-84f4-2ddc0ec9283e/af873743-b41e-4ade-8351-b99a674cd0f1.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 112351,
+        "createdAt": "2020-10-12T16:17:22.000Z",
+        "updatedAt": "2021-12-10T11:47:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -24,8 +24,8 @@
     "Mangadex": {
       "7bd5e7ef-a8e9-4c05-853e-62a93380fc1e": {
         "authors": [
-          "Hirokawa Tomo",
-          "KAWAHARA Reki"
+          "Kawahara Reki",
+          "Hirokawa Tomo"
         ],
         "identifier": "7bd5e7ef-a8e9-4c05-853e-62a93380fc1e",
         "type": "manga",
@@ -36,11 +36,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
+        "actor": null,
         "malId": 131396,
         "aniId": 118707,
         "createdAt": "2020-10-12T16:18:56.000Z",
-        "updatedAt": "2021-06-07T21:50:16.000Z",
+        "updatedAt": "2021-12-07T22:07:41.000Z",
         "deletedAt": null
       }
     },
@@ -86,6 +86,26 @@
         "aniId": 118707,
         "createdAt": "2021-08-19T17:37:26.000Z",
         "updatedAt": "2021-08-20T08:37:08.000Z",
+        "deletedAt": null
+      },
+      "manga-ve972687": {
+        "authors": [
+          "Kawahara Reki"
+        ],
+        "identifier": "manga-ve972687",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sword Art Online - Alicization",
+        "url": "https://readmanganato.com/manga-ve972687",
+        "image": "https://avt.mkklcdnv6temp.com/18/q/14-1583490416.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131396,
+        "aniId": 118707,
+        "createdAt": "2021-12-10T22:33:51.000Z",
+        "updatedAt": "2021-12-10T23:03:38.000Z",
         "deletedAt": null
       }
     }

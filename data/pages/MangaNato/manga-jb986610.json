@@ -13,9 +13,9 @@
   "active": true,
   "actor": 1,
   "malId": 114121,
-  "aniId": null,
+  "aniId": 120567,
   "createdAt": "2021-07-11T12:43:43.000Z",
-  "updatedAt": "2021-07-13T14:25:41.000Z",
+  "updatedAt": "2021-12-10T00:33:38.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -36,6 +36,28 @@
     "updatedAt": "2021-07-11T12:43:46.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "おじさんはカワイイものがお好き。",
+      "A coward is incapable of exhibiting love; it is the prerogative of the brave.",
+      "An old man that likes cute things ",
+      "This Uncle Likes Cute Things"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tsutomu"
+    ],
+    "id": 120567,
+    "malId": 114121,
+    "type": "manga",
+    "title": "Ojisan wa Kawaii Mono ga Osuki.",
+    "url": "https://anilist.co/manga/120567",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120567-uBvRzQal1TCb.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-10T00:03:39.000Z",
+    "updatedAt": "2021-12-10T00:03:39.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/114121/Ojisan_wa_Kawaii_Mono_ga_Osuki"
 }

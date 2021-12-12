@@ -15,10 +15,15 @@
   "malId": 110012,
   "aniId": 105330,
   "createdAt": "2020-10-12T16:13:23.000Z",
-  "updatedAt": "2021-06-05T22:32:52.000Z",
+  "updatedAt": "2021-12-05T22:48:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.mag-garden.co.jp/param/"
+      }
+    ],
     "altTitle": [
       "Higan Itan",
       "彼岸〈パーラム〉異譚"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-05T21:21:19.000Z",
-    "updatedAt": "2021-06-05T21:21:19.000Z",
+    "updatedAt": "2021-12-05T21:47:59.000Z",
     "deletedAt": null
   },
   "Anilist": {

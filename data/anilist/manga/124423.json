@@ -23,8 +23,8 @@
     "Mangadex": {
       "d11eeab6-9f5b-4e7f-ad78-51b352c4d06a": {
         "authors": [
-          "KANIE Tetsuji",
-          "Shimizu Akane"
+          "Shimizu Akane",
+          "Kanie Tetsuji"
         ],
         "identifier": "d11eeab6-9f5b-4e7f-ad78-51b352c4d06a",
         "type": "manga",
@@ -39,7 +39,29 @@
         "malId": 132916,
         "aniId": 124423,
         "createdAt": "2020-11-15T10:14:51.000Z",
-        "updatedAt": "2021-06-08T07:26:49.000Z",
+        "updatedAt": "2021-12-08T07:39:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "cells-at-work-white-brigade": {
+        "authors": [
+          "KANIE Tetsuji"
+        ],
+        "identifier": "cells-at-work-white-brigade",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Cells at Work! White Brigade",
+        "url": "https://mangasee123.com/manga/Cells-at-Work-White-Brigade",
+        "image": "https://cover.nep.li/cover/Cells-at-Work-White-Brigade.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132916,
+        "aniId": 124423,
+        "createdAt": "2021-12-06T17:48:18.000Z",
+        "updatedAt": "2021-12-06T18:16:10.000Z",
         "deletedAt": null
       }
     }

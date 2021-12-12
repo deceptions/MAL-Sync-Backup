@@ -18,5 +18,28 @@
   "createdAt": "2021-06-05T11:48:58.000Z",
   "updatedAt": "2021-10-22T23:58:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "c0b9672e-576b-4156-9a80-603d7427d225": {
+        "authors": [
+          "Kakeru"
+        ],
+        "identifier": "c0b9672e-576b-4156-9a80-603d7427d225",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fukafuka Danjon Koryakuki Ore no Isekai Tensei Bokentan",
+        "url": "https://mangadex.org/title/c0b9672e-576b-4156-9a80-603d7427d225",
+        "image": "https://uploads.mangadex.org/covers/c0b9672e-576b-4156-9a80-603d7427d225/3db3727d-9fd1-4dce-b6a1-c06c9a63a455.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 137039,
+        "aniId": 112095,
+        "createdAt": "2021-01-28T10:20:13.000Z",
+        "updatedAt": "2021-12-08T14:33:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

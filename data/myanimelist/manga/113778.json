@@ -21,8 +21,8 @@
     "Mangadex": {
       "e9cfa059-ad21-45a3-89a5-ce0e233a486d": {
         "authors": [
-          "Natsuki Shuri",
-          "Shinozaki Kaoru (篠崎芳)"
+          "Shinozaki Kaoru (篠崎芳)",
+          "Natsuki Shuri"
         ],
         "identifier": "e9cfa059-ad21-45a3-89a5-ce0e233a486d",
         "type": "manga",
@@ -37,7 +37,31 @@
         "malId": 113778,
         "aniId": 125243,
         "createdAt": "2020-10-12T16:11:49.000Z",
-        "updatedAt": "2021-06-05T11:22:18.000Z",
+        "updatedAt": "2021-12-05T11:47:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cp979672": {
+        "authors": [
+          "Kaoru Shinozaki",
+          "Shuri Natsuki",
+          "Kohada Shimesaba"
+        ],
+        "identifier": "manga-cp979672",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Seiju No Kuni No Kinju Tsukai",
+        "url": "https://manganato.com/manga-cp979672",
+        "image": "https://avt.mkklcdnv6temp.com/50/j/16-1583495278.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113778,
+        "aniId": 125243,
+        "createdAt": "2021-06-02T18:31:11.000Z",
+        "updatedAt": "2021-12-02T19:19:29.000Z",
         "deletedAt": null
       }
     },

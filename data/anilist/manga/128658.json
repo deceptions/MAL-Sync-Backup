@@ -20,5 +20,29 @@
   "createdAt": "2021-05-23T21:08:18.000Z",
   "updatedAt": "2021-06-18T11:30:54.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ku987429": {
+        "authors": [
+          "Toyama Monaka",
+          "Shimafuku Rou"
+        ],
+        "identifier": "manga-ku987429",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kyou Mo Korosezu Ni Ai Shiau Dake.",
+        "url": "https://manganato.com/manga-ku987429",
+        "image": "https://avt.mkklcdnv6temp.com/47/j/22-1608285050.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131546,
+        "aniId": 128658,
+        "createdAt": "2021-06-02T05:31:27.000Z",
+        "updatedAt": "2021-12-02T06:16:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,6 +1,6 @@
 {
   "authors": [
-    "bless"
+    "Bless"
   ],
   "identifier": "e2148c01-73f1-4726-abaa-500dabd228b3",
   "type": "manga",
@@ -11,55 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 13108,
-  "aniId": 43108,
+  "actor": 1,
+  "malId": null,
+  "aniId": 117311,
   "createdAt": "2020-10-12T16:18:55.000Z",
-  "updatedAt": "2021-06-07T20:57:24.000Z",
+  "updatedAt": "2021-12-10T11:48:09.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": [
-      {
-        "site": "wikipedia",
-        "url": "http://ja.wikipedia.org/wiki/Under_the_Rose"
-      }
-    ],
-    "altTitle": [
-      "Under the Rose"
-    ],
-    "authors": [
-      "Funato, Akari"
-    ],
-    "id": 13108,
-    "type": "manga",
-    "title": "Under the Rose",
-    "url": "https://myanimelist.net/manga/13108/Under_the_Rose",
-    "image": "https://cdn.myanimelist.net/images/manga/1/180786.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:50.000Z",
-    "updatedAt": "2021-11-08T02:13:45.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "アンダー・ザ・ローズ"
+      "In the Sunset",
+      "逆光之绊",
+      "Love Under the Sunset"
     ],
     "externalLinks": [],
     "authors": [
-      "Akari Funato"
+      "bless"
     ],
-    "id": 43108,
-    "malId": 13108,
+    "id": 117311,
+    "malId": null,
     "type": "manga",
-    "title": "Under the Rose",
-    "url": "https://anilist.co/manga/43108",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13108.jpg",
+    "title": "Niguang Zhi Ban",
+    "url": "https://anilist.co/manga/117311",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117311-8fWLqUwjs6WW.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:42:28.000Z",
-    "updatedAt": "2021-06-17T14:29:43.000Z",
+    "createdAt": "2021-06-01T15:34:20.000Z",
+    "updatedAt": "2021-12-07T21:34:38.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/13108/Under_the_Rose"
+  "malUrl": ""
 }

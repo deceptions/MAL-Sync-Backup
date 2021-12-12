@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 142345,
   "createdAt": "2021-11-23T21:35:58.000Z",
-  "updatedAt": "2021-11-23T21:35:58.000Z",
+  "updatedAt": "2021-12-06T09:51:18.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "울어주세요, 황태자님",
+      "Please Cry, Crown Prince"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Duckdam"
+    ],
+    "id": 142345,
+    "malId": null,
+    "type": "manga",
+    "title": "Ureojuseyo, Hwangtaejanim",
+    "url": "https://anilist.co/manga/142345",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142345-reqHP5hmm58D.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-05T13:46:07.000Z",
+    "updatedAt": "2021-12-05T13:46:07.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -26,15 +26,15 @@
     "Mangadex": {
       "e54c384f-5163-4fdb-9909-968b8d0bd86a": {
         "authors": [
-          "Hanashima Hisui",
-          "Miki Nazuna"
+          "Miki Nazuna",
+          "Hanashima Hisui"
         ],
         "identifier": "e54c384f-5163-4fdb-9909-968b8d0bd86a",
         "type": "manga",
         "page": "Mangadex",
         "title": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
         "url": "https://mangadex.org/title/e54c384f-5163-4fdb-9909-968b8d0bd86a",
-        "image": "https://uploads.mangadex.org/covers/e54c384f-5163-4fdb-9909-968b8d0bd86a/c51e85d7-3aec-423e-8bda-5b8de1afdf75.jpg",
+        "image": "https://uploads.mangadex.org/covers/e54c384f-5163-4fdb-9909-968b8d0bd86a/27ae248d-3aaa-4bdf-92db-0193eed2434c.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
@@ -42,7 +42,7 @@
         "malId": 131342,
         "aniId": 127165,
         "createdAt": "2020-10-12T16:21:51.000Z",
-        "updatedAt": "2021-06-08T03:22:50.000Z",
+        "updatedAt": "2021-12-08T03:36:51.000Z",
         "deletedAt": null
       }
     },
@@ -65,6 +65,29 @@
         "aniId": 127165,
         "createdAt": "2021-02-03T00:32:15.000Z",
         "updatedAt": "2021-11-20T18:14:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru": {
+        "authors": [
+          "HANASHIMA Hisui",
+          "MIKI Nazuna"
+        ],
+        "identifier": "kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara o Eru",
+        "url": "https://mangasee123.com/manga/Kizoku-Tensei-Megumareta-Umare-kara-Saikyou-no-Chikara-wo-Eru",
+        "image": "https://cover.nep.li/cover/Kizoku-Tensei-Megumareta-Umare-kara-Saikyou-no-Chikara-wo-Eru.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131342,
+        "aniId": 127165,
+        "createdAt": "2021-12-05T00:47:36.000Z",
+        "updatedAt": "2021-12-05T01:16:06.000Z",
         "deletedAt": null
       }
     }

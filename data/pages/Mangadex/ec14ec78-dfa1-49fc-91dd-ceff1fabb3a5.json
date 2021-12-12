@@ -11,13 +11,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 142120,
+  "aniId": 110339,
   "createdAt": "2020-10-12T16:20:09.000Z",
-  "updatedAt": "2021-11-11T03:43:47.000Z",
+  "updatedAt": "2021-12-06T10:16:06.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://sai-zen-sen.jp/comics/twi4/aizen/"
+      }
+    ],
+    "altTitle": [
+      "Aizen-san Can't Be Honest!",
+      "素直になれない愛染さん"
+    ],
+    "authors": [
+      "Sensiya"
+    ],
+    "id": 142120,
+    "type": "manga",
+    "title": "Sunao ni Narenai Aizen-san",
+    "url": "https://myanimelist.net/manga/142120/Sunao_ni_Narenai_Aizen-san",
+    "image": "https://cdn.myanimelist.net/images/manga/3/252801.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-11-26T11:36:33.000Z",
+    "updatedAt": "2021-11-26T11:36:33.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "素直になれない愛染さん"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Senshiya"
+    ],
+    "id": 110339,
+    "malId": 142120,
+    "type": "manga",
+    "title": "Sunao ni Narenai Aizen-san",
+    "url": "https://anilist.co/manga/110339",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx110339-cAXiZ3Ge3HhM.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-25T16:16:07.000Z",
+    "updatedAt": "2021-11-26T18:35:32.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/142120/Sunao_ni_Narenai_Aizen-san"
 }

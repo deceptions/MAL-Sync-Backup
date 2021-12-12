@@ -11,13 +11,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 19844,
+  "aniId": 49844,
   "createdAt": "2021-04-09T19:51:02.000Z",
-  "updatedAt": "2021-10-09T20:02:21.000Z",
+  "updatedAt": "2021-12-11T13:33:41.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E9%AD%8D%E9%AD%8E%E3%81%AE%E6%8F%BA%E3%82%8A%E3%81%8B%E3%81%94"
+      }
+    ],
+    "altTitle": [
+      "Cradle of Monsters",
+      "魍魎の揺りかご"
+    ],
+    "authors": [
+      "Sanbe, Kei"
+    ],
+    "id": 19844,
+    "type": "manga",
+    "title": "Mouryou no Yurikago",
+    "url": "https://myanimelist.net/manga/19844/Mouryou_no_Yurikago",
+    "image": "https://cdn.myanimelist.net/images/manga/2/179505.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:42:46.000Z",
+    "updatedAt": "2021-12-11T03:04:41.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "魍魎の揺りかご",
+      "Cradle of Monsters"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kei Sanbe"
+    ],
+    "id": 49844,
+    "malId": 19844,
+    "type": "manga",
+    "title": "Mouryou no Yurikago",
+    "url": "https://anilist.co/manga/49844",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx49844-nAusMrxD2eVq.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:45:25.000Z",
+    "updatedAt": "2021-06-17T16:33:07.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/19844/Mouryou_no_Yurikago"
 }

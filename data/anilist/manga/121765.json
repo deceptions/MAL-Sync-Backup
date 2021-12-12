@@ -17,5 +17,28 @@
   "createdAt": "2021-06-05T08:18:58.000Z",
   "updatedAt": "2021-06-18T09:55:25.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "f5191f98-4bc9-4a05-ac80-144644548544": {
+        "authors": [
+          "Miura Kaze"
+        ],
+        "identifier": "f5191f98-4bc9-4a05-ac80-144644548544",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Spotlight",
+        "url": "https://mangadex.org/title/f5191f98-4bc9-4a05-ac80-144644548544",
+        "image": "https://uploads.mangadex.org/covers/f5191f98-4bc9-4a05-ac80-144644548544/ec2889d3-e0c8-405d-9ee0-04689b31d5e8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 135627,
+        "aniId": 121765,
+        "createdAt": "2021-02-04T19:20:26.000Z",
+        "updatedAt": "2021-12-08T14:33:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

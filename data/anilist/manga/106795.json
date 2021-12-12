@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-19T13:41:52.000Z",
-  "updatedAt": "2021-09-19T13:41:52.000Z",
+  "updatedAt": "2021-12-06T08:16:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "8d1f7e2e-28fa-47f0-9f09-c4c2715defd3": {
+        "authors": [
+          "Igarashi Ran"
+        ],
+        "identifier": "8d1f7e2e-28fa-47f0-9f09-c4c2715defd3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hozuki-san Chi no Aneki + Imouto no Omake",
+        "url": "https://mangadex.org/title/8d1f7e2e-28fa-47f0-9f09-c4c2715defd3",
+        "image": "https://uploads.mangadex.org/covers/8d1f7e2e-28fa-47f0-9f09-c4c2715defd3/751a96cf-533c-4a87-aba8-bca877b6de69.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 106795,
+        "createdAt": "2020-10-12T16:14:42.000Z",
+        "updatedAt": "2021-12-06T09:52:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -26,8 +26,8 @@
     "Mangadex": {
       "f7901d23-e934-468e-88de-f407f478cd24": {
         "authors": [
-          "Katou Itsuwa",
-          "Kataoka Naotaro"
+          "Kataoka Naotaro",
+          "Katou Itsuwa"
         ],
         "identifier": "f7901d23-e934-468e-88de-f407f478cd24",
         "type": "manga",
@@ -42,7 +42,7 @@
         "malId": 126845,
         "aniId": 110974,
         "createdAt": "2020-10-12T16:16:18.000Z",
-        "updatedAt": "2021-06-06T21:13:41.000Z",
+        "updatedAt": "2021-12-06T21:18:13.000Z",
         "deletedAt": null
       }
     },
@@ -88,6 +88,29 @@
         "aniId": 110974,
         "createdAt": "2021-01-25T03:12:58.000Z",
         "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ey982033": {
+        "authors": [
+          "Itsuwa Katou",
+          "Naotaro Kataoka"
+        ],
+        "identifier": "manga-ey982033",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Reborn As A Barrier Master",
+        "url": "https://manganato.com/manga-ey982033",
+        "image": "https://avt.mkklcdnv6temp.com/36/r/18-1583498518.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126845,
+        "aniId": 110974,
+        "createdAt": "2021-06-02T09:31:46.000Z",
+        "updatedAt": "2021-12-02T10:19:07.000Z",
         "deletedAt": null
       }
     }

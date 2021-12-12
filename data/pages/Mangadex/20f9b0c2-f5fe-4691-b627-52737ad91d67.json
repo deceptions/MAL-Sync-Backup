@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 112363,
   "createdAt": "2020-11-13T15:53:14.000Z",
-  "updatedAt": "2021-06-08T07:04:11.000Z",
+  "updatedAt": "2021-12-08T09:33:29.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ノウゼンカズラの家",
+      "Nouzen Kazura no Ie",
+      "The House With Chinese Trumpet Vines"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yuko Fukunami"
+    ],
+    "id": 112363,
+    "malId": null,
+    "type": "manga",
+    "title": "Nouzenkazura no Ie",
+    "url": "https://anilist.co/manga/112363",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112363-Mv29awXxrCMV.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-11-06T18:34:20.000Z",
+    "updatedAt": "2021-12-08T08:04:39.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

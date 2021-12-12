@@ -17,5 +17,28 @@
   "createdAt": "2021-11-29T08:36:47.000Z",
   "updatedAt": "2021-11-29T08:36:47.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "df354105-de17-40aa-bbc2-2bcf390777da": {
+        "authors": [
+          "Hamayan"
+        ],
+        "identifier": "df354105-de17-40aa-bbc2-2bcf390777da",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Human",
+        "url": "https://mangadex.org/title/df354105-de17-40aa-bbc2-2bcf390777da",
+        "image": "https://uploads.mangadex.org/covers/df354105-de17-40aa-bbc2-2bcf390777da/b2d8b1d4-33c4-4e7a-a126-cd846fd19e57.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 128767,
+        "createdAt": "2021-12-06T09:46:17.000Z",
+        "updatedAt": "2021-12-06T09:46:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

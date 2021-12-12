@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:27.000Z",
-  "updatedAt": "2021-10-09T19:02:22.000Z",
+  "updatedAt": "2021-12-11T01:03:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,28 @@
         "aniId": 56973,
         "createdAt": "2020-10-12T16:05:22.000Z",
         "updatedAt": "2021-12-03T12:17:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ma963757": {
+        "authors": [
+          "Arawi Keiichi"
+        ],
+        "identifier": "manga-ma963757",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Helvetica Standard",
+        "url": "https://manganato.com/manga-ma963757",
+        "image": "https://avt.mkklcdnv6temp.com/8/w/9-1583480434.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 26973,
+        "aniId": 56973,
+        "createdAt": "2021-12-11T01:03:39.000Z",
+        "updatedAt": "2021-12-11T01:33:38.000Z",
         "deletedAt": null
       }
     }

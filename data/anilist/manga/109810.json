@@ -17,7 +17,30 @@
   "category": "one_shot",
   "hentai": false,
   "createdAt": "2021-06-06T20:20:09.000Z",
-  "updatedAt": "2021-06-21T14:22:32.000Z",
+  "updatedAt": "2021-12-06T20:46:30.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "59b71ed1-3699-45f5-9f16-de5d036068d1": {
+        "authors": [
+          "mato (Mozu Hayanie)"
+        ],
+        "identifier": "59b71ed1-3699-45f5-9f16-de5d036068d1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Earpicks",
+        "url": "https://mangadex.org/title/59b71ed1-3699-45f5-9f16-de5d036068d1",
+        "image": "https://uploads.mangadex.org/covers/59b71ed1-3699-45f5-9f16-de5d036068d1/294795f9-ba28-45d7-87b2-f94044b0b8ad.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 109810,
+        "createdAt": "2020-10-12T16:16:08.000Z",
+        "updatedAt": "2021-12-10T11:48:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

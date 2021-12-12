@@ -18,5 +18,28 @@
   "createdAt": "2021-12-01T05:05:35.000Z",
   "updatedAt": "2021-12-01T05:05:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "7a25e257-b4fd-451d-a5eb-b633847cabb8": {
+        "authors": [
+          "Aniya Yuiji"
+        ],
+        "identifier": "7a25e257-b4fd-451d-a5eb-b633847cabb8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ingasei no Beze",
+        "url": "https://mangadex.org/title/7a25e257-b4fd-451d-a5eb-b633847cabb8",
+        "image": "https://uploads.mangadex.org/covers/7a25e257-b4fd-451d-a5eb-b633847cabb8/52a9a280-645c-4610-8dc4-4de6d14749b9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 141809,
+        "aniId": 122005,
+        "createdAt": "2021-02-01T12:31:44.000Z",
+        "updatedAt": "2021-12-08T14:33:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

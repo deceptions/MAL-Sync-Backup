@@ -18,5 +18,28 @@
   "createdAt": "2021-07-30T06:51:46.000Z",
   "updatedAt": "2021-07-30T06:51:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "57e0dd82-503b-4ba1-81a3-f3323f8f6456": {
+        "authors": [
+          "Konno Ryuunosuke"
+        ],
+        "identifier": "57e0dd82-503b-4ba1-81a3-f3323f8f6456",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Urasaki-san wants to tell Omoteno-kun.",
+        "url": "https://mangadex.org/title/57e0dd82-503b-4ba1-81a3-f3323f8f6456",
+        "image": "https://uploads.mangadex.org/covers/57e0dd82-503b-4ba1-81a3-f3323f8f6456/46d41108-193a-444a-8655-321c1c6a38b8.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 133981,
+        "aniId": 135355,
+        "createdAt": "2021-02-18T06:20:58.000Z",
+        "updatedAt": "2021-12-08T14:33:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

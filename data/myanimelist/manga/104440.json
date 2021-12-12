@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%94%E3%83%BC%E3%82%AF"
+    }
+  ],
   "altTitle": [
     "モンキーピーク"
   ],
@@ -15,14 +20,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:57.000Z",
-  "updatedAt": "2021-06-07T20:37:00.000Z",
+  "updatedAt": "2021-12-07T21:05:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "1fc1355b-9c02-48e2-a457-094b592ecd9c": {
         "authors": [
-          "Kumeta Akihiro",
-          "Shinasaka Kouji"
+          "Shinasaka Kouji",
+          "Kumeta Akihiro"
         ],
         "identifier": "1fc1355b-9c02-48e2-a457-094b592ecd9c",
         "type": "manga",
@@ -37,13 +42,13 @@
         "malId": 104440,
         "aniId": 104781,
         "createdAt": "2020-10-12T16:15:41.000Z",
-        "updatedAt": "2021-06-06T15:58:08.000Z",
+        "updatedAt": "2021-12-06T16:19:33.000Z",
         "deletedAt": null
       },
       "eb02e6fa-2b2d-43b6-9805-928d533c34e9": {
         "authors": [
-          "Kumeta Akihiro",
-          "Shinasaka Kouji"
+          "Shinasaka Kouji",
+          "Kumeta Akihiro"
         ],
         "identifier": "eb02e6fa-2b2d-43b6-9805-928d533c34e9",
         "type": "manga",
@@ -58,7 +63,7 @@
         "malId": 104440,
         "aniId": 104781,
         "createdAt": "2021-01-31T06:02:24.000Z",
-        "updatedAt": "2021-06-08T10:39:14.000Z",
+        "updatedAt": "2021-12-08T11:09:39.000Z",
         "deletedAt": null
       }
     },
@@ -104,28 +109,6 @@
         "aniId": 104781,
         "createdAt": "2021-03-14T03:39:35.000Z",
         "updatedAt": "2021-11-20T19:45:16.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-eo981849": {
-        "authors": [
-          "Shinasaka Kouji"
-        ],
-        "identifier": "manga-eo981849",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Monkey Peak",
-        "url": "https://manganato.com/manga-eo981849",
-        "image": "https://avt.mkklcdnv6temp.com/30/a/18-1583498243.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 104440,
-        "aniId": 104781,
-        "createdAt": "2021-06-07T20:37:00.000Z",
-        "updatedAt": "2021-06-07T20:52:24.000Z",
         "deletedAt": null
       }
     }

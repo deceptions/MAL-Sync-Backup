@@ -17,5 +17,28 @@
   "createdAt": "2021-11-28T17:35:33.000Z",
   "updatedAt": "2021-11-28T17:35:33.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "abcad188-1350-4844-be42-d69633a5bf27": {
+        "authors": [
+          "Aoi Tatsuya"
+        ],
+        "identifier": "abcad188-1350-4844-be42-d69633a5bf27",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Potechi",
+        "url": "https://mangadex.org/title/abcad188-1350-4844-be42-d69633a5bf27",
+        "image": "https://uploads.mangadex.org/covers/abcad188-1350-4844-be42-d69633a5bf27/64030775-f4ed-4d13-b392-f361a38cfbfd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 142176,
+        "createdAt": "2020-10-12T16:10:02.000Z",
+        "updatedAt": "2021-12-06T09:38:33.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

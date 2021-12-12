@@ -17,9 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-21T01:43:18.000Z",
-  "updatedAt": "2021-11-02T18:34:39.000Z",
+  "updatedAt": "2021-12-07T22:03:38.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "db231da5-78e6-4422-b1b1-24e64e57159b": {
+        "authors": [
+          "AENGO"
+        ],
+        "identifier": "db231da5-78e6-4422-b1b1-24e64e57159b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Your Smile Is a Trap",
+        "url": "https://mangadex.org/title/db231da5-78e6-4422-b1b1-24e64e57159b",
+        "image": "https://uploads.mangadex.org/covers/db231da5-78e6-4422-b1b1-24e64e57159b/a9271b96-e99d-4126-84a2-8789125a621b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 117663,
+        "createdAt": "2020-10-12T16:19:04.000Z",
+        "updatedAt": "2021-12-10T11:51:00.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-ms989753": {
         "authors": [

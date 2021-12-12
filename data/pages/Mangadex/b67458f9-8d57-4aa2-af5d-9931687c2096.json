@@ -11,13 +11,51 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 133317,
+  "aniId": 135785,
   "createdAt": "2020-10-12T16:21:03.000Z",
-  "updatedAt": "2021-06-08T01:30:06.000Z",
+  "updatedAt": "2021-12-08T09:33:38.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Before You Turn the Page",
+      "ページをめくるその前に"
+    ],
+    "authors": [
+      "Fumikawa, Jimi"
+    ],
+    "id": 133317,
+    "type": "manga",
+    "title": "Page wo Mekuru Sono Mae ni",
+    "url": "https://myanimelist.net/manga/133317/Page_wo_Mekuru_Sono_Mae_ni",
+    "image": "https://cdn.myanimelist.net/images/manga/1/253112.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T02:05:32.000Z",
+    "updatedAt": "2021-12-08T02:05:32.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ページをめくるその前に"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Jimi Fumikawa"
+    ],
+    "id": 135785,
+    "malId": 133317,
+    "type": "manga",
+    "title": "Page wo Mekuru Sono Mae ni  ",
+    "url": "https://anilist.co/manga/135785",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135785-CP8UpXUp5ksY.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-20T19:33:48.000Z",
+    "updatedAt": "2021-07-20T19:33:48.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/133317/Page_wo_Mekuru_Sono_Mae_ni"
 }

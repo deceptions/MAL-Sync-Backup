@@ -24,8 +24,8 @@
     "Mangadex": {
       "8fa163c8-0faf-4c68-a2a5-4342b452d97f": {
         "authors": [
-          "Itami Sumihito",
-          "Sanui Yuu"
+          "Sanui Yuu",
+          "Itami Sumihito"
         ],
         "identifier": "8fa163c8-0faf-4c68-a2a5-4342b452d97f",
         "type": "manga",
@@ -40,7 +40,29 @@
         "malId": 101093,
         "aniId": 101465,
         "createdAt": "2020-10-12T16:11:20.000Z",
-        "updatedAt": "2021-06-05T07:33:38.000Z",
+        "updatedAt": "2021-12-05T07:48:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bv979256": {
+        "authors": [
+          "Sanui Yuu"
+        ],
+        "identifier": "manga-bv979256",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kyougaku Koukou No Genjitsu",
+        "url": "https://manganato.com/manga-bv979256",
+        "image": "https://avt.mkklcdnv6temp.com/34/q/16-1583494715.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 101093,
+        "aniId": 101465,
+        "createdAt": "2021-06-01T15:46:53.000Z",
+        "updatedAt": "2021-12-01T16:24:17.000Z",
         "deletedAt": null
       }
     }

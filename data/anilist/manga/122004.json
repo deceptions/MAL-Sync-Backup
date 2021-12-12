@@ -20,5 +20,28 @@
   "createdAt": "2021-05-21T21:42:57.000Z",
   "updatedAt": "2021-06-18T09:57:44.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "ero-ninja-scrolls": {
+        "authors": [
+          "Haruki"
+        ],
+        "identifier": "ero-ninja-scrolls",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ero Ninja Scrolls",
+        "url": "https://mangasee123.com/manga/Ero-Ninja-Scrolls",
+        "image": "https://cover.nep.li/cover/Ero-Ninja-Scrolls.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128480,
+        "aniId": 122004,
+        "createdAt": "2021-12-05T13:46:10.000Z",
+        "updatedAt": "2021-12-05T14:16:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

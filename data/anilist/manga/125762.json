@@ -33,11 +33,33 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 132422,
         "aniId": 125762,
         "createdAt": "2020-10-31T08:42:28.000Z",
-        "updatedAt": "2021-06-08T06:51:16.000Z",
+        "updatedAt": "2021-12-08T07:13:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jk987219": {
+        "authors": [
+          "Yoshimura"
+        ],
+        "identifier": "manga-jk987219",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "It's Been 10 Years Since You Asked To Break Off Our Engagement, If You Insist That Much, Let's Break It Off!",
+        "url": "https://manganato.com/manga-jk987219",
+        "image": "https://avt.mkklcdnv6temp.com/38/m/22-1605714457.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 132422,
+        "aniId": 125762,
+        "createdAt": "2021-06-01T16:32:49.000Z",
+        "updatedAt": "2021-12-01T19:16:46.000Z",
         "deletedAt": null
       }
     }

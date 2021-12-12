@@ -15,7 +15,30 @@
   "category": "one_shot",
   "hentai": false,
   "createdAt": "2021-06-06T11:19:17.000Z",
-  "updatedAt": "2021-06-21T14:00:53.000Z",
+  "updatedAt": "2021-12-06T11:46:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "d5a0893f-43df-4c29-ba9a-7e0de6f31dd5": {
+        "authors": [
+          "卍act"
+        ],
+        "identifier": "d5a0893f-43df-4c29-ba9a-7e0de6f31dd5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Behind",
+        "url": "https://mangadex.org/title/d5a0893f-43df-4c29-ba9a-7e0de6f31dd5",
+        "image": "https://uploads.mangadex.org/covers/d5a0893f-43df-4c29-ba9a-7e0de6f31dd5/62d2f1a4-86b4-4d18-ac2f-259f29cbf698.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 107707,
+        "createdAt": "2020-10-12T16:15:07.000Z",
+        "updatedAt": "2021-12-10T11:49:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

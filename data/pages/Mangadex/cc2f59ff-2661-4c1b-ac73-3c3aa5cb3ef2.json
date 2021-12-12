@@ -11,11 +11,11 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": 8017,
-  "aniId": null,
+  "aniId": 38017,
   "createdAt": "2020-10-12T16:09:21.000Z",
-  "updatedAt": "2021-12-04T22:16:57.000Z",
+  "updatedAt": "2021-12-06T09:53:17.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -37,6 +37,26 @@
     "updatedAt": "2021-12-04T17:48:51.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "あなたに追いつけない",
+      "Silver Ring"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yukari Kawachi"
+    ],
+    "id": 38017,
+    "malId": 8017,
+    "type": "manga",
+    "title": "Anata ni Oitsukenai",
+    "url": "https://anilist.co/manga/38017",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38017-zAo3WgjWHYHG.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-04T17:20:07.000Z",
+    "updatedAt": "2021-12-06T10:46:07.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/8017/Anata_Ni_Oitsukenai"
 }

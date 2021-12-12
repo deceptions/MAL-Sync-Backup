@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-05-24T18:38:18.000Z",
-  "updatedAt": "2021-06-21T18:14:54.000Z",
+  "updatedAt": "2021-12-08T10:34:19.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "eb36205d-bcc2-4690-bad8-e19990152cd7": {
+        "authors": [
+          "Rainy Season"
+        ],
+        "identifier": "eb36205d-bcc2-4690-bad8-e19990152cd7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Punk Dunk Funk",
+        "url": "https://mangadex.org/title/eb36205d-bcc2-4690-bad8-e19990152cd7",
+        "image": "https://uploads.mangadex.org/covers/eb36205d-bcc2-4690-bad8-e19990152cd7/afb0df91-fb5a-4d7a-bcaf-4819f6af73a2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 134538,
+        "createdAt": "2021-01-07T01:34:29.000Z",
+        "updatedAt": "2021-12-08T14:32:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

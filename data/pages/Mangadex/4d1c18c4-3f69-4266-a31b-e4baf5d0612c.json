@@ -15,10 +15,19 @@
   "malId": 5402,
   "aniId": 35402,
   "createdAt": "2020-10-12T16:13:07.000Z",
-  "updatedAt": "2021-06-05T18:56:51.000Z",
+  "updatedAt": "2021-12-05T19:18:19.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://en.tezuka.co.jp/manga/backlist/ha05/ha05_00201.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%B0%E3%82%8B%E3%81%BC%E3%82%89"
+      }
+    ],
     "altTitle": [
       "Barbara",
       "ばるぼら"
@@ -34,7 +43,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:05.000Z",
-    "updatedAt": "2021-06-30T10:51:02.000Z",
+    "updatedAt": "2021-12-11T10:07:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

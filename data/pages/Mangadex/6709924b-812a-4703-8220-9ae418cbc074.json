@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 130174,
   "createdAt": "2020-12-26T03:56:05.000Z",
-  "updatedAt": "2021-06-08T09:06:08.000Z",
+  "updatedAt": "2021-12-08T14:32:13.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "人生優勝物語",
+      "Tales of Life's Victories"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Riku Kageyama"
+    ],
+    "id": 130174,
+    "malId": null,
+    "type": "manga",
+    "title": "Jinsei Yuushou Monogatari",
+    "url": "https://anilist.co/manga/130174",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130174-1xmtRXSheDYA.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-10T09:39:36.000Z",
+    "updatedAt": "2021-12-08T10:03:39.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

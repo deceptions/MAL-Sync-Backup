@@ -17,5 +17,28 @@
   "createdAt": "2021-08-15T21:37:03.000Z",
   "updatedAt": "2021-11-20T03:44:15.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "65ecc88d-26ff-4d6f-8c9f-96a4000d3aa1": {
+        "authors": [
+          "Inazuma Katsura"
+        ],
+        "identifier": "65ecc88d-26ff-4d6f-8c9f-96a4000d3aa1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsuki no Kuni",
+        "url": "https://mangadex.org/title/65ecc88d-26ff-4d6f-8c9f-96a4000d3aa1",
+        "image": "https://uploads.mangadex.org/covers/65ecc88d-26ff-4d6f-8c9f-96a4000d3aa1/1b2027d3-a9e6-442b-968f-cac43d5185d7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 137928,
+        "createdAt": "2021-02-09T18:40:56.000Z",
+        "updatedAt": "2021-12-08T14:32:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

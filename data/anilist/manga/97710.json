@@ -18,7 +18,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-08T07:56:43.000Z",
-  "updatedAt": "2021-06-21T13:23:15.000Z",
+  "updatedAt": "2021-12-08T08:34:41.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "445b8cb5-f6e3-4b2c-8569-bc1b6737d9a3": {
+        "authors": [
+          "Fuyuri"
+        ],
+        "identifier": "445b8cb5-f6e3-4b2c-8569-bc1b6737d9a3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Senpai Ai.",
+        "url": "https://mangadex.org/title/445b8cb5-f6e3-4b2c-8569-bc1b6737d9a3",
+        "image": "https://uploads.mangadex.org/covers/445b8cb5-f6e3-4b2c-8569-bc1b6737d9a3/643709b2-8f32-4621-b411-904a98e32f8f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 97710,
+        "createdAt": "2020-11-20T07:51:17.000Z",
+        "updatedAt": "2021-12-08T09:30:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

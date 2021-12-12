@@ -25,15 +25,15 @@
     "Mangadex": {
       "c0f7098d-bea1-4ea9-908a-db9d6ac0dc9a": {
         "authors": [
-          "Matoba Ryou",
-          "Hishikage Dairi"
+          "Hishikage Dairi",
+          "Matoba Ryou"
         ],
         "identifier": "c0f7098d-bea1-4ea9-908a-db9d6ac0dc9a",
         "type": "manga",
         "page": "Mangadex",
         "title": "Kuro no Maou",
         "url": "https://mangadex.org/title/c0f7098d-bea1-4ea9-908a-db9d6ac0dc9a",
-        "image": "https://uploads.mangadex.org/covers/c0f7098d-bea1-4ea9-908a-db9d6ac0dc9a/97bbcc76-23f1-4a20-93fc-634eb0a65953.jpg",
+        "image": "https://uploads.mangadex.org/covers/c0f7098d-bea1-4ea9-908a-db9d6ac0dc9a/4f1ddd94-3bca-4013-a931-5057ab778128.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
@@ -41,7 +41,7 @@
         "malId": 115920,
         "aniId": 104608,
         "createdAt": "2020-10-12T16:14:00.000Z",
-        "updatedAt": "2021-06-06T01:36:58.000Z",
+        "updatedAt": "2021-12-06T01:48:31.000Z",
         "deletedAt": null
       }
     },
@@ -107,6 +107,29 @@
         "aniId": 104608,
         "createdAt": "2021-02-09T03:40:42.000Z",
         "updatedAt": "2021-11-20T18:44:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cx979880": {
+        "authors": [
+          "Dairi Hishikage",
+          "Ryou Matoba"
+        ],
+        "identifier": "manga-cx979880",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kuro No Maou",
+        "url": "https://manganato.com/manga-cx979880",
+        "image": "https://avt.mkklcdnv6temp.com/8/b/17-1583495556.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115920,
+        "aniId": 104608,
+        "createdAt": "2021-06-01T15:38:40.000Z",
+        "updatedAt": "2021-12-01T16:24:17.000Z",
         "deletedAt": null
       }
     }

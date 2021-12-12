@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://evening.kodansha.co.jp/c/dai2dai4kayoubinokoi/"
+    }
+  ],
   "altTitle": [
     "Love of the Second & Fourth Tuesday",
     "第二第四火曜日の恋"
@@ -15,9 +20,31 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-07-21T00:35:21.000Z",
-  "updatedAt": "2021-07-21T00:35:21.000Z",
+  "updatedAt": "2021-12-07T07:46:51.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "ec007aa9-4791-4015-a37f-ea98ea5d9720": {
+        "authors": [
+          "Takase Waka"
+        ],
+        "identifier": "ec007aa9-4791-4015-a37f-ea98ea5d9720",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love of the Second and Fourth Tuesday",
+        "url": "https://mangadex.org/title/ec007aa9-4791-4015-a37f-ea98ea5d9720",
+        "image": "https://uploads.mangadex.org/covers/ec007aa9-4791-4015-a37f-ea98ea5d9720/87035a38-96b7-40ab-830a-698fb6018dd8.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 135539,
+        "aniId": 119501,
+        "createdAt": "2020-10-12T16:16:37.000Z",
+        "updatedAt": "2021-12-07T19:30:38.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-jm986395": {
         "authors": [

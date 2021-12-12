@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 86343,
   "createdAt": "2020-10-12T16:13:07.000Z",
-  "updatedAt": "2021-06-05T18:59:13.000Z",
+  "updatedAt": "2021-12-06T09:42:03.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Red Book",
+      "빨간책",
+      "Ppalgan Chaek"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Rangddo"
+    ],
+    "id": 86343,
+    "malId": null,
+    "type": "manga",
+    "title": "Palgan Chaek",
+    "url": "https://anilist.co/manga/86343",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx86343-6d2PbYOVRfpc.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-03T13:33:58.000Z",
+    "updatedAt": "2021-12-05T19:46:07.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

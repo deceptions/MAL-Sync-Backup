@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Suzuki Uo",
-    "Tsukino Ayato"
+    "Tsukino Ayato",
+    "Suzuki Uo"
   ],
   "identifier": "acf2e3e3-e85e-476a-9462-e10ae54907d2",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 113612,
   "aniId": 105947,
   "createdAt": "2020-10-12T16:18:12.000Z",
-  "updatedAt": "2021-06-07T14:47:50.000Z",
+  "updatedAt": "2021-12-07T15:18:26.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://flowers.shogakukan.co.jp/rensai/aonohanautsuwanomori.html"
+      }
+    ],
     "altTitle": [
       "The Blue Flower and The Container Forest",
       "青の花 器の森"
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:33.000Z",
-    "updatedAt": "2021-06-08T06:40:46.000Z",
+    "updatedAt": "2021-12-08T07:06:00.000Z",
     "deletedAt": null
   },
   "Anilist": {

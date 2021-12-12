@@ -12,14 +12,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 131608,
   "aniId": 126596,
   "createdAt": "2020-11-21T09:21:31.000Z",
-  "updatedAt": "2021-06-08T08:47:51.000Z",
+  "updatedAt": "2021-12-08T09:06:22.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_AM19201416010000_68/"
+      }
+    ],
     "altTitle": [
       "エステルドバロニア"
     ],
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-12-25T23:57:05.000Z",
-    "updatedAt": "2021-06-08T08:47:49.000Z",
+    "updatedAt": "2021-12-08T09:05:31.000Z",
     "deletedAt": null
   },
   "Anilist": {

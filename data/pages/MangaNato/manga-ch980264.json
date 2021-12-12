@@ -15,10 +15,19 @@
   "malId": 113361,
   "aniId": 106481,
   "createdAt": "2021-05-29T19:12:53.000Z",
-  "updatedAt": "2021-06-05T21:18:57.000Z",
+  "updatedAt": "2021-12-05T21:50:09.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://youngjump.jp/manga/houshinengi/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%B0%81%E7%A5%9E%E6%BC%94%E7%BE%A9_(%E6%BC%AB%E7%94%BB)"
+      }
+    ],
     "altTitle": [
       "封神演義外伝"
     ],
@@ -33,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-05-22T14:13:39.000Z",
-    "updatedAt": "2021-06-05T20:50:48.000Z",
+    "updatedAt": "2021-12-05T21:19:02.000Z",
     "deletedAt": null
   },
   "Anilist": {

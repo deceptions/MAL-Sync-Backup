@@ -11,13 +11,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 142176,
   "createdAt": "2020-10-12T16:10:02.000Z",
-  "updatedAt": "2021-12-04T22:18:09.000Z",
+  "updatedAt": "2021-12-06T09:38:33.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ポテチ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tatsuya Aoi"
+    ],
+    "id": 142176,
+    "malId": null,
+    "type": "manga",
+    "title": "Potechi",
+    "url": "https://anilist.co/manga/142176",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142176-hIPwwwwNTM3D.png",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-11-28T17:35:33.000Z",
+    "updatedAt": "2021-11-28T17:35:33.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -75,7 +75,7 @@
         "malId": 100766,
         "aniId": 100798,
         "createdAt": "2020-10-12T16:19:22.000Z",
-        "updatedAt": "2021-06-07T21:54:59.000Z",
+        "updatedAt": "2021-12-07T22:10:14.000Z",
         "deletedAt": null
       },
       "bd7c4fd3-fd2d-45c1-ab9a-5869c26e06e0": {
@@ -95,7 +95,29 @@
         "malId": 100766,
         "aniId": 100798,
         "createdAt": "2020-10-12T16:19:57.000Z",
-        "updatedAt": "2021-06-07T23:01:18.000Z",
+        "updatedAt": "2021-12-07T23:08:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tb970736": {
+        "authors": [
+          "Itou Junji"
+        ],
+        "identifier": "manga-tb970736",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "She Is A Slow Walker",
+        "url": "https://manganato.com/manga-tb970736",
+        "image": "https://avt.mkklcdnv6temp.com/32/g/13-1583488894.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100766,
+        "aniId": 100798,
+        "createdAt": "2021-06-03T10:49:18.000Z",
+        "updatedAt": "2021-12-03T11:49:18.000Z",
         "deletedAt": null
       }
     }

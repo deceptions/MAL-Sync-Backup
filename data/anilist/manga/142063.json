@@ -18,5 +18,28 @@
   "createdAt": "2021-11-25T04:35:32.000Z",
   "updatedAt": "2021-11-25T04:35:32.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "f032f48b-a9d7-4190-8d88-f26c81b1a7d2": {
+        "authors": [
+          "剧象漫画"
+        ],
+        "identifier": "f032f48b-a9d7-4190-8d88-f26c81b1a7d2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "blood demon",
+        "url": "https://mangadex.org/title/f032f48b-a9d7-4190-8d88-f26c81b1a7d2",
+        "image": "https://uploads.mangadex.org/covers/f032f48b-a9d7-4190-8d88-f26c81b1a7d2/11ce9b3d-0409-4d52-9e33-961d70255162.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 142063,
+        "createdAt": "2020-12-05T08:41:23.000Z",
+        "updatedAt": "2021-12-08T09:34:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

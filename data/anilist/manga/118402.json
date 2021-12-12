@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T07:20:24.000Z",
-  "updatedAt": "2021-06-21T15:25:42.000Z",
+  "updatedAt": "2021-12-07T07:47:11.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "74368332-c0a9-484c-bf31-9bd1ddc7c58a": {
+        "authors": [
+          "火家贰柒"
+        ],
+        "identifier": "74368332-c0a9-484c-bf31-9bd1ddc7c58a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dream City",
+        "url": "https://mangadex.org/title/74368332-c0a9-484c-bf31-9bd1ddc7c58a",
+        "image": "https://uploads.mangadex.org/covers/74368332-c0a9-484c-bf31-9bd1ddc7c58a/ddd56103-f40d-4155-9339-a0eef0232474.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 118402,
+        "createdAt": "2020-10-12T16:17:22.000Z",
+        "updatedAt": "2021-12-10T11:50:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -15,10 +15,15 @@
   "malId": 7446,
   "aniId": 37446,
   "createdAt": "2021-01-30T21:02:07.000Z",
-  "updatedAt": "2021-06-08T10:38:47.000Z",
+  "updatedAt": "2021-12-08T11:09:30.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%B3%E3%83%9C%E3%83%B3%E5%9D%82%E9%AB%98%E6%A0%A1%E6%BC%94%E5%8A%87%E9%83%A8"
+      }
+    ],
     "altTitle": [
       "ボンボン坂高校演劇部"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-01-30T21:02:04.000Z",
-    "updatedAt": "2021-07-30T21:21:51.000Z",
+    "updatedAt": "2021-12-06T03:46:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

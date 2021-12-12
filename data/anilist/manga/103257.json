@@ -19,5 +19,29 @@
   "createdAt": "2021-05-20T14:55:55.000Z",
   "updatedAt": "2021-06-18T04:03:19.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "739dd80f-1fad-4980-b944-927b45331770": {
+        "authors": [
+          "Idea Factory",
+          "Fujimaru Mamenosuke"
+        ],
+        "identifier": "739dd80f-1fad-4980-b944-927b45331770",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shiro to Kuro no Alice",
+        "url": "https://mangadex.org/title/739dd80f-1fad-4980-b944-927b45331770",
+        "image": "https://uploads.mangadex.org/covers/739dd80f-1fad-4980-b944-927b45331770/2acbd200-0db2-4181-a820-12aa0792ea96.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 107828,
+        "aniId": 103257,
+        "createdAt": "2020-10-12T16:11:09.000Z",
+        "updatedAt": "2021-12-06T09:46:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -11,13 +11,30 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 86744,
   "createdAt": "2020-10-12T16:14:02.000Z",
-  "updatedAt": "2021-06-06T02:00:40.000Z",
+  "updatedAt": "2021-12-06T09:51:25.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [],
+    "externalLinks": [],
+    "authors": [
+      "Fumita Yanagida"
+    ],
+    "id": 86744,
+    "malId": null,
+    "type": "manga",
+    "title": "A Priest Journey in an RPG World",
+    "url": "https://anilist.co/manga/86744",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/56744-4uVZA6O7ma8l.png",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-12-06T02:46:38.000Z",
+    "updatedAt": "2021-12-06T02:46:38.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

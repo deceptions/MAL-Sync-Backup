@@ -18,5 +18,28 @@
   "createdAt": "2021-06-12T13:38:19.000Z",
   "updatedAt": "2021-06-20T10:50:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "acc3ff9c-3494-4bdc-b474-96b24d0c160c": {
+        "authors": [
+          "Inari Yuuko"
+        ],
+        "identifier": "acc3ff9c-3494-4bdc-b474-96b24d0c160c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ochite, Oborete",
+        "url": "https://mangadex.org/title/acc3ff9c-3494-4bdc-b474-96b24d0c160c",
+        "image": "https://uploads.mangadex.org/covers/acc3ff9c-3494-4bdc-b474-96b24d0c160c/6c7c6981-480e-4dbf-8c47-8a1409f5d942.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 137885,
+        "aniId": 129914,
+        "createdAt": "2021-01-22T18:02:55.000Z",
+        "updatedAt": "2021-12-08T14:33:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

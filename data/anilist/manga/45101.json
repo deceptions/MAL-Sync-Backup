@@ -41,6 +41,28 @@
         "updatedAt": "2021-12-03T08:47:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "konbini_s": {
+        "authors": [
+          "ASHIHARA Hinako"
+        ],
+        "identifier": "konbini_s",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Konbini S",
+        "url": "https://fanfox.net/manga/konbini_s/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6392/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15101,
+        "aniId": 45101,
+        "createdAt": "2021-05-20T21:15:09.000Z",
+        "updatedAt": "2021-12-03T01:16:59.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

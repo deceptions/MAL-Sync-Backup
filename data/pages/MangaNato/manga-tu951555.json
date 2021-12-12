@@ -11,13 +11,67 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 64055,
+  "aniId": 85417,
   "createdAt": "2021-08-02T06:47:54.000Z",
-  "updatedAt": "2021-08-02T06:48:30.000Z",
+  "updatedAt": "2021-12-09T16:33:38.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.shonenmagazine.com/bmaga/soredemo"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E5%83%95%E3%81%AF%E5%90%9B%E3%81%8C%E5%A5%BD%E3%81%8D"
+      }
+    ],
+    "altTitle": [
+      "Forget Me Not",
+      "Nevertheless, I Love You",
+      "それでも僕は君が好き"
+    ],
+    "authors": [
+      "Emoto, Nao",
+      "Xu, Yu Ting"
+    ],
+    "id": 64055,
+    "type": "manga",
+    "title": "Soredemo Boku wa Kimi ga Suki",
+    "url": "https://myanimelist.net/manga/64055/Soredemo_Boku_wa_Kimi_ga_Suki",
+    "image": "https://cdn.myanimelist.net/images/manga/1/151925.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:45:06.000Z",
+    "updatedAt": "2021-12-06T16:46:40.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Forget Me Not",
+      "それでも僕は君が好き",
+      "Nevertheless I Love You",
+      "Y Sin Embargo Te Quiero"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Nao Emoto",
+      "Yuting Xu",
+      "Ko Ransom"
+    ],
+    "id": 85417,
+    "malId": 64055,
+    "type": "manga",
+    "title": "Soredemo Boku wa Kimi ga Suki",
+    "url": "https://anilist.co/manga/85417",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx85417-NQ68vKb9oA74.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:50:49.000Z",
+    "updatedAt": "2021-06-17T21:33:49.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/64055/Soredemo_Boku_wa_Kimi_ga_Suki"
 }

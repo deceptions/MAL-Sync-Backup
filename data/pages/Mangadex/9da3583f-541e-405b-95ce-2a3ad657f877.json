@@ -15,10 +15,15 @@
   "malId": 111242,
   "aniId": 113759,
   "createdAt": "2020-10-12T16:20:10.000Z",
-  "updatedAt": "2021-06-08T00:36:05.000Z",
+  "updatedAt": "2021-12-08T01:10:43.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.urasunday.com/akiduki/"
+      }
+    ],
     "altTitle": [
       "Akizuki Never Grow Up",
       "秋月さんは大人になれない"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-07T23:52:54.000Z",
-    "updatedAt": "2021-06-07T23:52:54.000Z",
+    "updatedAt": "2021-12-08T00:04:31.000Z",
     "deletedAt": null
   },
   "Anilist": {

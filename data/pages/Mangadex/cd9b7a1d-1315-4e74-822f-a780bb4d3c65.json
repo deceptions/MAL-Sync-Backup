@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 123491,
   "aniId": 116638,
   "createdAt": "2020-10-12T16:17:26.000Z",
-  "updatedAt": "2021-06-07T08:11:06.000Z",
+  "updatedAt": "2021-12-07T08:18:03.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_CW01200980010000_68/"
+      }
+    ],
     "altTitle": [
       "Black Company's Employees Became Cats, Life Changed Story",
       "ブラック企業の社員が猫になって人生が変わった話"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-07T08:11:02.000Z",
-    "updatedAt": "2021-06-07T08:11:02.000Z",
+    "updatedAt": "2021-12-07T08:17:11.000Z",
     "deletedAt": null
   },
   "Anilist": {

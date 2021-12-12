@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:45.000Z",
-  "updatedAt": "2021-09-30T15:41:25.000Z",
+  "updatedAt": "2021-12-05T11:16:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,7 +42,7 @@
         "malId": 116354,
         "aniId": 103880,
         "createdAt": "2020-10-12T16:13:40.000Z",
-        "updatedAt": "2021-06-05T23:09:09.000Z",
+        "updatedAt": "2021-12-05T23:18:11.000Z",
         "deletedAt": null
       }
     },
@@ -65,6 +65,29 @@
         "aniId": 103880,
         "createdAt": "2021-03-30T15:01:13.000Z",
         "updatedAt": "2021-11-20T20:46:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cf979540": {
+        "authors": [
+          "Kurando Yukiaki",
+          "Minase Mayu"
+        ],
+        "identifier": "manga-cf979540",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Himedore: Hime To Dorei No Gakuen Seikatsu",
+        "url": "https://manganato.com/manga-cf979540",
+        "image": "https://avt.mkklcdnv6temp.com/45/i/16-1583495099.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 116354,
+        "aniId": 103880,
+        "createdAt": "2021-12-05T11:16:06.000Z",
+        "updatedAt": "2021-12-05T11:46:06.000Z",
         "deletedAt": null
       }
     }

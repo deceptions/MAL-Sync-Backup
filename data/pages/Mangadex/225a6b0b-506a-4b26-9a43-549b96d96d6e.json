@@ -1,7 +1,7 @@
 {
   "authors": [
-    "서사야",
-    "조니조"
+    "조니조",
+    "서사야"
   ],
   "identifier": "225a6b0b-506a-4b26-9a43-549b96d96d6e",
   "type": "manga",
@@ -12,50 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 96749,
-  "aniId": 96881,
+  "actor": 2,
+  "malId": null,
+  "aniId": 117836,
   "createdAt": "2020-10-12T16:13:35.000Z",
-  "updatedAt": "2021-06-05T22:34:49.000Z",
+  "updatedAt": "2021-12-07T19:36:18.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": null,
-    "altTitle": [
-      "Jumping ジャンピング"
-    ],
-    "authors": [
-      "Tsutsui, Asahi"
-    ],
-    "id": 96749,
-    "type": "manga",
-    "title": "Jumping",
-    "url": "https://myanimelist.net/manga/96749/Jumping",
-    "image": "https://cdn.myanimelist.net/images/manga/1/180901.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:25.000Z",
-    "updatedAt": "2021-08-22T02:16:18.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "Jumping -ジャンピング-"
+      "점핑오버"
     ],
     "externalLinks": [],
     "authors": [
-      "Asahi Tsutsui"
+      "Jonijo",
+      "Seosaya"
     ],
-    "id": 96881,
-    "malId": 96749,
+    "id": 117836,
+    "malId": null,
     "type": "manga",
-    "title": "Jumping",
-    "url": "https://anilist.co/manga/96881",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/96881-VFpkHUakJpEA.jpg",
+    "title": "Jumping Over",
+    "url": "https://anilist.co/manga/117836",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b117836-x5oWv3NlLya7.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:54:07.000Z",
-    "updatedAt": "2021-06-18T01:27:30.000Z",
+    "createdAt": "2021-06-05T22:49:18.000Z",
+    "updatedAt": "2021-12-05T23:16:17.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/96749/Jumping"
+  "malUrl": ""
 }

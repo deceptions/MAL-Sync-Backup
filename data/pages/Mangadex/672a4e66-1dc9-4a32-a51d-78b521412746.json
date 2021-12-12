@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 131045,
   "aniId": null,
   "createdAt": "2020-10-29T21:14:26.000Z",
-  "updatedAt": "2021-06-08T06:42:56.000Z",
+  "updatedAt": "2021-12-08T07:13:11.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://kuragebunch.com/episode/13933686331700629144"
+      }
+    ],
     "altTitle": [
       "Ghost Stories",
       "Kaidan Hayashi",
@@ -41,7 +46,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-08T06:22:27.000Z",
-    "updatedAt": "2021-06-08T06:22:27.000Z",
+    "updatedAt": "2021-12-08T06:37:01.000Z",
     "deletedAt": null
   },
   "Anilist": null,

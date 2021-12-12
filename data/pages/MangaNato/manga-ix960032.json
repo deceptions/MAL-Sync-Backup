@@ -15,10 +15,15 @@
   "malId": 1792,
   "aniId": 31792,
   "createdAt": "2021-06-05T15:20:02.000Z",
-  "updatedAt": "2021-06-05T15:48:57.000Z",
+  "updatedAt": "2021-12-05T16:20:18.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E7%BF%BC"
+      }
+    ],
     "altTitle": [
       "I am Misaki Taro",
       "キャプテン翼 GOLDEN－23"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:37.000Z",
-    "updatedAt": "2021-06-05T15:20:02.000Z",
+    "updatedAt": "2021-12-05T15:46:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

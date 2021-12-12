@@ -18,5 +18,28 @@
   "createdAt": "2021-06-04T06:49:28.000Z",
   "updatedAt": "2021-12-04T07:16:06.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "37f332a2-0413-494c-bc66-b2bad836fb05": {
+        "authors": [
+          "MK (한민기)"
+        ],
+        "identifier": "37f332a2-0413-494c-bc66-b2bad836fb05",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "By Chance, We... and...",
+        "url": "https://mangadex.org/title/37f332a2-0413-494c-bc66-b2bad836fb05",
+        "image": "https://uploads.mangadex.org/covers/37f332a2-0413-494c-bc66-b2bad836fb05/33d243b7-a0a4-45cf-b21f-e99d982266b0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 85147,
+        "createdAt": "2020-10-12T16:07:57.000Z",
+        "updatedAt": "2021-12-11T18:32:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

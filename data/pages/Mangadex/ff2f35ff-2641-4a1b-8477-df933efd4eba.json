@@ -1,24 +1,47 @@
 {
   "authors": [
-    "Jaemihalgi",
-    "AH In Jam"
+    "재미핥기",
+    "아인잠"
   ],
   "identifier": "ff2f35ff-2641-4a1b-8477-df933efd4eba",
   "type": "manga",
   "page": "Mangadex",
   "title": "Movies Are Real",
   "url": "https://mangadex.org/title/ff2f35ff-2641-4a1b-8477-df933efd4eba",
-  "image": "https://uploads.mangadex.org/covers/ff2f35ff-2641-4a1b-8477-df933efd4eba/e644f9af-2ecf-401c-b248-f5fbe48559e8.jpg",
+  "image": "https://uploads.mangadex.org/covers/ff2f35ff-2641-4a1b-8477-df933efd4eba/c0c7ab23-434e-4553-967e-795f72c6c790.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 130918,
   "createdAt": "2021-03-01T19:51:17.000Z",
-  "updatedAt": "2021-06-08T12:05:25.000Z",
+  "updatedAt": "2021-12-08T14:32:29.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "영화는 리얼이다",
+      "The Movies Are Real",
+      "Yeonghwaneun Rieorida",
+      "Yeonghwaneun Lieolida"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "In-Jam A",
+      "Jaemihalgi"
+    ],
+    "id": 130918,
+    "malId": null,
+    "type": "manga",
+    "title": "Yeonghwaneun Real-ida",
+    "url": "https://anilist.co/manga/130918",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130918-5pEnrIzij7Id.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-21T05:12:58.000Z",
+    "updatedAt": "2021-12-08T13:03:49.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actor": null,
   "malId": 128513,
   "aniId": null,
   "createdAt": "2020-10-12T16:18:23.000Z",
-  "updatedAt": "2021-06-07T16:34:59.000Z",
+  "updatedAt": "2021-12-07T16:49:23.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/mangaup/original/uchinodorei/"
+      }
+    ],
     "altTitle": [
       "My Slave is Way Too Cheerful",
       "うちの奴隷が明るすぎる"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-01-31T10:02:05.000Z",
-    "updatedAt": "2021-06-07T16:34:57.000Z",
+    "updatedAt": "2021-12-07T16:48:12.000Z",
     "deletedAt": null
   },
   "Anilist": null,

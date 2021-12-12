@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 122395,
   "aniId": null,
   "createdAt": "2020-10-12T16:17:30.000Z",
-  "updatedAt": "2021-06-07T10:04:51.000Z",
+  "updatedAt": "2021-12-07T10:18:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/gfantasy/story/scars"
+      }
+    ],
     "altTitle": [
       "SCARS"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-07T08:18:59.000Z",
-    "updatedAt": "2021-06-07T08:18:59.000Z",
+    "updatedAt": "2021-12-07T08:46:41.000Z",
     "deletedAt": null
   },
   "Anilist": null,

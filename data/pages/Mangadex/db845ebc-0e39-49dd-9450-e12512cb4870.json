@@ -1,7 +1,7 @@
 {
   "authors": [
-    "MIYABE Miyuki",
-    "ONO Youichiro"
+    "Miyabe Miyuki",
+    "Ono Youichiro"
   ],
   "identifier": "db845ebc-0e39-49dd-9450-e12512cb4870",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 159,
   "aniId": 30159,
   "createdAt": "2021-01-18T01:03:17.000Z",
-  "updatedAt": "2021-06-08T10:04:43.000Z",
+  "updatedAt": "2021-12-08T10:35:40.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Brave_Story"
+      }
+    ],
     "altTitle": [
       "ブレイブ・ストーリー～新説～"
     ],
@@ -31,11 +36,11 @@
     "type": "manga",
     "title": "Brave Story: Shinsetsu",
     "url": "https://myanimelist.net/manga/159/Brave_Story__Shinsetsu",
-    "image": "https://cdn.myanimelist.net/images/manga/2/5715.jpg",
+    "image": "https://cdn.myanimelist.net/images/manga/4/251324.jpg",
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:18.000Z",
-    "updatedAt": "2021-07-18T01:33:33.000Z",
+    "updatedAt": "2021-12-05T09:46:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

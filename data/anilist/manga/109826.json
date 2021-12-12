@@ -17,7 +17,32 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-05-29T07:12:13.000Z",
-  "updatedAt": "2021-06-21T14:22:45.000Z",
+  "updatedAt": "2021-12-07T00:46:22.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "311e45ea-b913-4748-98f2-4c4a9fbb8adb": {
+        "authors": [
+          "시리얼",
+          "얼",
+          "개살구"
+        ],
+        "identifier": "311e45ea-b913-4748-98f2-4c4a9fbb8adb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "May Belongs to Me",
+        "url": "https://mangadex.org/title/311e45ea-b913-4748-98f2-4c4a9fbb8adb",
+        "image": "https://uploads.mangadex.org/covers/311e45ea-b913-4748-98f2-4c4a9fbb8adb/cb4dba67-9f24-44ad-aa70-6a9d5747be98.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 109826,
+        "createdAt": "2020-10-12T16:16:35.000Z",
+        "updatedAt": "2021-12-10T11:48:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

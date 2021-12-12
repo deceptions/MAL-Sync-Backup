@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA_%E3%82%AA%E3%83%96_%E3%83%8F%E3%83%BC%E3%83%84"
+    }
+  ],
   "altTitle": [
     "テイルズ オブ ハーツ"
   ],
@@ -15,7 +20,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-06T11:49:07.000Z",
-  "updatedAt": "2021-06-06T11:49:07.000Z",
+  "updatedAt": "2021-12-06T12:16:37.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "194439a2-bedd-4577-ad48-da2b7ed607a5": {
+        "authors": [
+          "Kanno Wako"
+        ],
+        "identifier": "194439a2-bedd-4577-ad48-da2b7ed607a5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tales of Hearts",
+        "url": "https://mangadex.org/title/194439a2-bedd-4577-ad48-da2b7ed607a5",
+        "image": "https://uploads.mangadex.org/covers/194439a2-bedd-4577-ad48-da2b7ed607a5/4df595e1-b951-4c0c-a954-00cfa348462c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 96795,
+        "aniId": null,
+        "createdAt": "2020-10-12T16:15:12.000Z",
+        "updatedAt": "2021-12-07T19:20:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

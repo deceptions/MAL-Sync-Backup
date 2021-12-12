@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:54.000Z",
-  "updatedAt": "2021-10-17T12:59:07.000Z",
+  "updatedAt": "2021-12-06T06:17:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -88,6 +88,28 @@
         "aniId": 33872,
         "createdAt": "2021-10-17T12:58:56.000Z",
         "updatedAt": "2021-10-17T13:28:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "faster_than_a_kiss": {
+        "authors": [
+          "TANAKA Meca"
+        ],
+        "identifier": "faster_than_a_kiss",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Faster Than a Kiss",
+        "url": "https://fanfox.net/manga/faster_than_a_kiss/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/822/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3872,
+        "aniId": 33872,
+        "createdAt": "2021-12-06T06:17:31.000Z",
+        "updatedAt": "2021-12-06T06:46:06.000Z",
         "deletedAt": null
       }
     }

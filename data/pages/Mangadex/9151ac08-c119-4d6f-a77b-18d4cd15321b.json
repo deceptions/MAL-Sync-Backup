@@ -15,10 +15,15 @@
   "malId": 121850,
   "aniId": 111569,
   "createdAt": "2020-10-12T16:17:07.000Z",
-  "updatedAt": "2021-06-07T04:58:33.000Z",
+  "updatedAt": "2021-12-07T05:18:17.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.pixiv.net/works/2767"
+      }
+    ],
     "altTitle": [
       "An Orc & A Little Witch.",
       "The Unwilling Orc",
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:48:07.000Z",
-    "updatedAt": "2021-09-07T23:05:42.000Z",
+    "updatedAt": "2021-12-11T01:03:50.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -1,9 +1,9 @@
 {
   "authors": [
     "Nega",
-    "Hyper Kettle Yesterday (Circle)",
     "Kawauchi",
-    "Canno"
+    "Canno",
+    "Hyper Kettle Yesterday (Circle)"
   ],
   "identifier": "c3fad352-cc0d-4c4c-be6c-2180c3f26964",
   "type": "manga",
@@ -14,52 +14,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 87986,
-  "aniId": 111797,
+  "actor": 1,
+  "malId": null,
+  "aniId": 109899,
   "createdAt": "2020-10-12T16:15:55.000Z",
-  "updatedAt": "2021-06-06T18:02:12.000Z",
+  "updatedAt": "2021-12-10T11:48:07.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": [],
-    "altTitle": [
-      "I kissed you just now.",
-      "あたし、キスした。"
-    ],
-    "authors": [
-      "Mitsui, Haruka"
-    ],
-    "id": 87986,
-    "type": "manga",
-    "title": "Atashi, Kiss shita.",
-    "url": "https://myanimelist.net/manga/87986/Atashi_Kiss_shita",
-    "image": "https://cdn.myanimelist.net/images/manga/2/171402.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:45:56.000Z",
-    "updatedAt": "2021-10-15T17:30:19.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "あたし、キスした。",
-      "I kissed you just now."
+      "Just You and I",
+      "Baby Don't Cry",
+      "Girl Talk",
+      "The Meaning of Us"
     ],
     "externalLinks": [],
     "authors": [
-      "Haruka Mitsui"
+      "Canno",
+      "Nega",
+      "Kawauchi"
     ],
-    "id": 111797,
-    "malId": 87986,
+    "id": 109899,
+    "malId": null,
     "type": "manga",
-    "title": "Atashi, Kiss Shita.",
-    "url": "https://anilist.co/manga/111797",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111797-w1KTNwrASuAt.jpg",
+    "title": "Just You and I",
+    "url": "https://anilist.co/manga/109899",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109899-N7HzL0kLVrQj.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:52:52.000Z",
-    "updatedAt": "2021-06-18T07:00:14.000Z",
+    "createdAt": "2021-05-29T18:12:13.000Z",
+    "updatedAt": "2021-12-06T18:47:42.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/87986/Atashi_Kiss_shita"
+  "malUrl": ""
 }

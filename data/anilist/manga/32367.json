@@ -34,7 +34,29 @@
         "malId": 2367,
         "aniId": 32367,
         "createdAt": "2020-10-12T16:20:38.000Z",
-        "updatedAt": "2021-06-08T00:31:06.000Z",
+        "updatedAt": "2021-12-08T00:42:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "futeki_ni_romance": {
+        "authors": [
+          "SHIMADA Hisami"
+        ],
+        "identifier": "futeki_ni_romance",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Futeki ni Romance",
+        "url": "https://fanfox.net/manga/futeki_ni_romance/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5267/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2367,
+        "aniId": 32367,
+        "createdAt": "2021-06-04T01:20:19.000Z",
+        "updatedAt": "2021-12-04T02:22:08.000Z",
         "deletedAt": null
       }
     }

@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Hekaton",
-    "Harada Takehito"
+    "Harada Takehito",
+    "Hekaton"
   ],
   "identifier": "26cb7039-1e5f-4a81-844e-05a583c93e82",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 707,
   "aniId": 30707,
   "createdAt": "2020-10-12T16:11:44.000Z",
-  "updatedAt": "2021-06-05T12:45:30.000Z",
+  "updatedAt": "2021-12-05T12:49:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/MELTY_BLOOD"
+      }
+    ],
     "altTitle": [
       "MELTY BLOOD"
     ],
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2021-09-04T11:16:05.000Z",
+    "updatedAt": "2021-12-09T22:36:48.000Z",
     "deletedAt": null
   },
   "Anilist": {

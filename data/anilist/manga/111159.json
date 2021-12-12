@@ -24,15 +24,15 @@
     "Mangadex": {
       "12e28a8a-cbfe-4e12-bab8-b6fb0b9a59b4": {
         "authors": [
-          "Matsukaze Suiren",
-          "Ayamine Maito"
+          "Ayamine Maito",
+          "Matsukaze Suiren"
         ],
         "identifier": "12e28a8a-cbfe-4e12-bab8-b6fb0b9a59b4",
         "type": "manga",
         "page": "Mangadex",
         "title": "Shinigami ni Sodaterareta Shoujo wa Shikkoku no Tsurugi wo Mune ni Idaku",
         "url": "https://mangadex.org/title/12e28a8a-cbfe-4e12-bab8-b6fb0b9a59b4",
-        "image": "https://uploads.mangadex.org/covers/12e28a8a-cbfe-4e12-bab8-b6fb0b9a59b4/63ab401c-8268-42db-aa19-22b5a366ff86.jpg",
+        "image": "https://uploads.mangadex.org/covers/12e28a8a-cbfe-4e12-bab8-b6fb0b9a59b4/90e3e084-003f-40e2-8ce7-ef42646dbedf.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
@@ -40,7 +40,7 @@
         "malId": 121165,
         "aniId": 111159,
         "createdAt": "2020-10-12T16:17:00.000Z",
-        "updatedAt": "2021-06-07T03:55:20.000Z",
+        "updatedAt": "2021-12-07T04:16:32.000Z",
         "deletedAt": null
       }
     },
@@ -86,6 +86,29 @@
         "aniId": 111159,
         "createdAt": "2021-03-20T20:05:03.000Z",
         "updatedAt": "2021-11-20T19:45:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fq982951": {
+        "authors": [
+          "Suiren Matsukaze",
+          "Ayamine Maito"
+        ],
+        "identifier": "manga-fq982951",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Little Girl Raised By Death Hold The Sword Of Death Tight",
+        "url": "https://manganato.com/manga-fq982951",
+        "image": "https://avt.mkklcdnv6temp.com/20/m/19-1583499896.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121165,
+        "aniId": 111159,
+        "createdAt": "2021-06-02T17:02:22.000Z",
+        "updatedAt": "2021-12-02T17:51:29.000Z",
         "deletedAt": null
       }
     }

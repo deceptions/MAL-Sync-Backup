@@ -20,5 +20,28 @@
   "createdAt": "2021-05-22T09:12:58.000Z",
   "updatedAt": "2021-12-04T07:16:06.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "3192dc36-e317-4390-892f-dd31668d9736": {
+        "authors": [
+          "Itou Junji"
+        ],
+        "identifier": "3192dc36-e317-4390-892f-dd31668d9736",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Junji Ito's Dog Diary",
+        "url": "https://mangadex.org/title/3192dc36-e317-4390-892f-dd31668d9736",
+        "image": "https://uploads.mangadex.org/covers/3192dc36-e317-4390-892f-dd31668d9736/9a555c10-4d88-44a7-b4e1-091f01c1c2b4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 100796,
+        "createdAt": "2020-10-12T16:07:58.000Z",
+        "updatedAt": "2021-12-10T11:50:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

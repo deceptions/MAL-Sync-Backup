@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Komi Shinya",
-    "HiRock"
+    "HiRock",
+    "Komi Shinya"
   ],
   "identifier": "6ca30e11-a79d-40f4-994e-5b659de00016",
   "type": "manga",
@@ -12,13 +12,41 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
-  "malId": null,
+  "actor": 2,
+  "malId": 121599,
   "aniId": 110215,
   "createdAt": "2021-01-06T15:35:23.000Z",
-  "updatedAt": "2021-06-09T08:07:30.000Z",
+  "updatedAt": "2021-12-09T16:20:52.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://grandjump.shueisha.co.jp/manga/exarm.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/EX-ARM%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%A0"
+      }
+    ],
+    "altTitle": [
+      "EX-ARM EXA エクスアームエクサ"
+    ],
+    "authors": [
+      "Komi, Shinya",
+      "HiRock"
+    ],
+    "id": 121599,
+    "type": "manga",
+    "title": "Ex-Arm Exa",
+    "url": "https://myanimelist.net/manga/121599/Ex-Arm_Exa",
+    "image": "https://cdn.myanimelist.net/images/manga/3/246673.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-09T09:05:15.000Z",
+    "updatedAt": "2021-12-09T09:05:15.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "EX-ARM EXA",
@@ -41,5 +69,5 @@
     "updatedAt": "2021-06-21T14:24:42.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/121599/Ex-Arm_Exa"
 }

@@ -23,9 +23,9 @@
     "Mangadex": {
       "a2320293-f00e-43a0-8d08-1110cf26a894": {
         "authors": [
-          "KISHIBA Kiraku",
+          "Kishiba Kiraku",
           "tea",
-          "OGINO Ken"
+          "Ogino Ken"
         ],
         "identifier": "a2320293-f00e-43a0-8d08-1110cf26a894",
         "type": "manga",
@@ -40,7 +40,7 @@
         "malId": 123456,
         "aniId": 114048,
         "createdAt": "2021-01-02T22:20:20.000Z",
-        "updatedAt": "2021-06-08T09:30:11.000Z",
+        "updatedAt": "2021-12-08T09:39:32.000Z",
         "deletedAt": null
       }
     },
@@ -107,6 +107,30 @@
         "aniId": 114048,
         "createdAt": "2021-01-28T18:58:01.000Z",
         "updatedAt": "2021-11-20T18:14:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kh987642": {
+        "authors": [
+          "Ogino Ken",
+          "Tea",
+          "Kishiba Kiraku"
+        ],
+        "identifier": "manga-kh987642",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shinmai Ossan Bouken-Sha, Saikyou Paati Ni Shinu Hodo Kitae Rarete Muteki Ni Naru",
+        "url": "https://manganato.com/manga-kh987642",
+        "image": "https://avt.mkklcdnv6temp.com/6/d/23-1610508693.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123456,
+        "aniId": 114048,
+        "createdAt": "2021-06-02T14:31:51.000Z",
+        "updatedAt": "2021-12-02T15:19:08.000Z",
         "deletedAt": null
       }
     }

@@ -1,6 +1,6 @@
 {
   "authors": [
-    "MOTOJIN Yuuichi"
+    "Motojin Yuuichi"
   ],
   "identifier": "f9a4c39c-dfb7-4039-b43d-a4f123dbab5c",
   "type": "manga",
@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actor": null,
   "malId": 119869,
   "aniId": 119576,
   "createdAt": "2020-10-12T16:18:52.000Z",
-  "updatedAt": "2021-06-07T21:25:58.000Z",
+  "updatedAt": "2021-12-07T21:36:40.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-days.com/episode/10834108156630866418"
+      }
+    ],
     "altTitle": [
       "ヤオチノ乱"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-07T21:25:55.000Z",
-    "updatedAt": "2021-06-07T21:25:55.000Z",
+    "updatedAt": "2021-12-07T21:34:49.000Z",
     "deletedAt": null
   },
   "Anilist": {

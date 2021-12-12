@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 109834,
   "aniId": 101390,
   "createdAt": "2020-10-12T16:11:38.000Z",
-  "updatedAt": "2021-06-05T12:46:19.000Z",
+  "updatedAt": "2021-12-05T13:17:48.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://galetteweb.com/archives/2049"
+      }
+    ],
     "altTitle": [
       "冬馬くん"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-05T12:46:17.000Z",
-    "updatedAt": "2021-06-05T12:46:17.000Z",
+    "updatedAt": "2021-12-05T13:17:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

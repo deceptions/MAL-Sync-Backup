@@ -25,15 +25,15 @@
     "Mangadex": {
       "8a0e1c19-d214-4263-9172-435867d2a4ee": {
         "authors": [
-          "Asami You",
-          "Kagami Takaya"
+          "Kagami Takaya",
+          "Asami You"
         ],
         "identifier": "8a0e1c19-d214-4263-9172-435867d2a4ee",
         "type": "manga",
         "page": "Mangadex",
         "title": "Owari no Seraph: Ichinose Guren, 16-sai no Catastrophe",
         "url": "https://mangadex.org/title/8a0e1c19-d214-4263-9172-435867d2a4ee",
-        "image": "https://uploads.mangadex.org/covers/8a0e1c19-d214-4263-9172-435867d2a4ee/bf3d9902-3aba-4c70-bdde-721456d761a7.jpg",
+        "image": "https://uploads.mangadex.org/covers/8a0e1c19-d214-4263-9172-435867d2a4ee/4bcbed14-64ba-4b01-9110-42823d47279c.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
@@ -41,7 +41,7 @@
         "malId": 106846,
         "aniId": 103253,
         "createdAt": "2020-10-12T16:10:50.000Z",
-        "updatedAt": "2021-06-05T03:50:18.000Z",
+        "updatedAt": "2021-12-05T04:19:19.000Z",
         "deletedAt": null
       }
     },
@@ -68,24 +68,25 @@
       }
     },
     "MangaNato": {
-      "manga-dc980611": {
+      "manga-jo986571": {
         "authors": [
-          "Kagami Takaya"
+          "Kagami Takaya",
+          "You Asami"
         ],
-        "identifier": "manga-dc980611",
+        "identifier": "manga-jo986571",
         "type": "manga",
         "page": "MangaNato",
-        "title": "Owari No Seraph: Ichinose Guren, 16-Sai No Catastrophe",
-        "url": "https://readmanganato.com/manga-dc980611",
-        "image": "https://avt.mkklcdnv6temp.com/35/e/17-1583496524.jpg",
+        "title": "Owari No Seraph: Guren Ichinose's Catastrophe At 16",
+        "url": "https://readmanganato.com/manga-jo986571",
+        "image": "https://avt.mkklcdnv6temp.com/12/e/22-1599927438.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
+        "actor": 1,
         "malId": 106846,
         "aniId": 103253,
-        "createdAt": "2021-06-09T13:05:50.000Z",
-        "updatedAt": "2021-06-09T13:34:14.000Z",
+        "createdAt": "2021-06-04T17:23:18.000Z",
+        "updatedAt": "2021-12-04T22:49:31.000Z",
         "deletedAt": null
       }
     }

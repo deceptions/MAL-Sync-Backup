@@ -11,31 +11,62 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 87495,
-  "aniId": null,
+  "actor": 2,
+  "malId": 69027,
+  "aniId": 90930,
   "createdAt": "2020-10-12T16:08:25.000Z",
-  "updatedAt": "2021-12-04T14:54:10.000Z",
+  "updatedAt": "2021-12-07T19:46:11.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": [],
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://gekkansunday.net/rensai/kuchibiru/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%A1%E3%81%B3%E3%82%8B%E3%81%AB%E6%AD%8C%E3%82%92"
+      }
+    ],
     "altTitle": [
-      "くちびるに歌を～15年後の君へ～"
+      "A Song on Our Lips",
+      "くちびるに歌を"
     ],
     "authors": [
-      "Chiba, Kozue"
+      "Mori, Taishi",
+      "Nakata, Eiichi"
     ],
-    "id": 87495,
+    "id": 69027,
     "type": "manga",
-    "title": "Kuchibiru ni Uta wo: 15-nengo no Kimi e",
-    "url": "https://myanimelist.net/manga/87495/Kuchibiru_ni_Uta_wo__15-nengo_no_Kimi_e",
-    "image": "https://cdn.myanimelist.net/images/manga/2/152888.jpg",
-    "category": "One-shot",
+    "title": "Kuchibiru ni Uta wo",
+    "url": "https://myanimelist.net/manga/69027/Kuchibiru_ni_Uta_wo",
+    "image": "https://cdn.myanimelist.net/images/manga/1/137465.jpg",
+    "category": "Manga",
     "hentai": false,
-    "createdAt": "2021-06-04T10:21:49.000Z",
-    "updatedAt": "2021-12-04T10:50:17.000Z",
+    "createdAt": "2020-10-12T15:45:15.000Z",
+    "updatedAt": "2021-11-10T03:15:28.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
-  "malUrl": "https://myanimelist.net/manga/87495/Kuchibiru_ni_Uta_wo__15-nengo_no_Kimi_e"
+  "Anilist": {
+    "altTitle": [
+      "くちびるに歌を",
+      "A Song on Our Lips"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Taishi Mori"
+    ],
+    "id": 90930,
+    "malId": 69027,
+    "type": "manga",
+    "title": "Kuchibiru ni Uta wo",
+    "url": "https://anilist.co/manga/90930",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/90930-obVw5UCsYWEa.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:51:03.000Z",
+    "updatedAt": "2021-12-04T15:16:05.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/69027/Kuchibiru_ni_Uta_wo"
 }

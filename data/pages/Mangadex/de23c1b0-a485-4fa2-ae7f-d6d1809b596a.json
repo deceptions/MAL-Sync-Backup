@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Yu Yuen Wong",
-    "Hongo Akiyoshi"
+    "Hongo Akiyoshi",
+    "Yu Yuen Wong"
   ],
   "identifier": "de23c1b0-a485-4fa2-ae7f-d6d1809b596a",
   "type": "manga",
@@ -16,10 +16,19 @@
   "malId": 2388,
   "aniId": 32388,
   "createdAt": "2020-10-12T16:11:42.000Z",
-  "updatedAt": "2021-06-05T12:43:00.000Z",
+  "updatedAt": "2021-12-05T12:49:30.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.tokyopop.com/shop/1252/DigimonZeroTwo/1.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Digimon#Yuen_Wong_Yu_.28Chuang_Yi.2FTOKYOPOP.29_manhua"
+      }
+    ],
     "altTitle": [
       "Digimon Zero Two",
       "Digimon 02"
@@ -35,7 +44,7 @@
     "category": "Manhua",
     "hentai": false,
     "createdAt": "2021-03-08T16:40:50.000Z",
-    "updatedAt": "2021-06-05T10:49:27.000Z",
+    "updatedAt": "2021-12-05T11:16:37.000Z",
     "deletedAt": null
   },
   "Anilist": {

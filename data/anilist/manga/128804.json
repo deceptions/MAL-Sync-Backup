@@ -20,6 +20,28 @@
   "updatedAt": "2021-06-18T11:32:04.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "82142773-19a4-4d7a-a147-e4adb25cb2fc": {
+        "authors": [
+          "Haruna Ueno"
+        ],
+        "identifier": "82142773-19a4-4d7a-a147-e4adb25cb2fc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hana Wants This Flower to Bloom!",
+        "url": "https://mangadex.org/title/82142773-19a4-4d7a-a147-e4adb25cb2fc",
+        "image": "https://uploads.mangadex.org/covers/82142773-19a4-4d7a-a147-e4adb25cb2fc/0fc29282-a7d6-4e18-81af-67b4c05e5ce1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 134705,
+        "aniId": 128804,
+        "createdAt": "2020-12-31T06:49:36.000Z",
+        "updatedAt": "2021-12-08T14:33:38.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-kp987550": {
         "authors": [
@@ -38,7 +60,7 @@
         "malId": 134705,
         "aniId": 128804,
         "createdAt": "2021-06-02T17:02:43.000Z",
-        "updatedAt": "2021-06-05T11:48:57.000Z",
+        "updatedAt": "2021-12-05T12:18:50.000Z",
         "deletedAt": null
       }
     }

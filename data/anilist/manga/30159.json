@@ -45,8 +45,8 @@
       },
       "db845ebc-0e39-49dd-9450-e12512cb4870": {
         "authors": [
-          "MIYABE Miyuki",
-          "ONO Youichiro"
+          "Miyabe Miyuki",
+          "Ono Youichiro"
         ],
         "identifier": "db845ebc-0e39-49dd-9450-e12512cb4870",
         "type": "manga",
@@ -61,7 +61,29 @@
         "malId": 159,
         "aniId": 30159,
         "createdAt": "2021-01-18T01:03:17.000Z",
-        "updatedAt": "2021-06-08T10:04:43.000Z",
+        "updatedAt": "2021-12-08T10:35:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qb953010": {
+        "authors": [
+          "Miyabe Miyuki"
+        ],
+        "identifier": "manga-qb953010",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Brave Story - Shinsetsu",
+        "url": "https://manganato.com/manga-qb953010",
+        "image": "https://avt.mkklcdnv6temp.com/8/v/2-1583466034.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 159,
+        "aniId": 30159,
+        "createdAt": "2021-12-05T09:46:10.000Z",
+        "updatedAt": "2021-12-05T10:16:06.000Z",
         "deletedAt": null
       }
     }

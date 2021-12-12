@@ -26,8 +26,8 @@
     "Mangadex": {
       "a01b7dd2-57e8-4f43-9df2-2e9c7ff7d8d6": {
         "authors": [
-          "Dushu",
-          "Chae Yoohwa"
+          "Chae Yoohwa",
+          "Dushu"
         ],
         "identifier": "a01b7dd2-57e8-4f43-9df2-2e9c7ff7d8d6",
         "type": "manga",
@@ -38,11 +38,33 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": null,
         "aniId": 129716,
         "createdAt": "2021-02-08T17:40:30.000Z",
-        "updatedAt": "2021-06-08T12:05:10.000Z",
+        "updatedAt": "2021-12-08T12:35:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ke988113": {
+        "authors": [
+          "Chae Yoohwa"
+        ],
+        "identifier": "manga-ke988113",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I’Ll Become The Tyrant’S Tutor",
+        "url": "https://readmanganato.com/manga-ke988113",
+        "image": "https://avt.mkklcdnv6temp.com/25/j/23-1613264473.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 129716,
+        "createdAt": "2021-06-01T22:31:26.000Z",
+        "updatedAt": "2021-12-02T20:18:27.000Z",
         "deletedAt": null
       }
     },

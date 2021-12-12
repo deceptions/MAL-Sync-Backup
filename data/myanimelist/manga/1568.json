@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/The_Tale_of_Genji_%28manga%29"
+    }
+  ],
   "altTitle": [
-    "The Tale of Genji, Asakiyumemishi",
+    "The Tale of Genji",
+    "Asakiyumemishi",
     "あさきゆめみし 源氏物語"
   ],
   "authors": [
@@ -12,17 +18,17 @@
   "type": "manga",
   "title": "Asaki Yumemishi: Genji Monogatari",
   "url": "https://myanimelist.net/manga/1568/Asaki_Yumemishi__Genji_Monogatari",
-  "image": "https://cdn.myanimelist.net/images/manga/2/1532.jpg",
+  "image": "https://cdn.myanimelist.net/images/manga/2/242885.jpg",
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-05T09:18:58.000Z",
-  "updatedAt": "2021-06-05T09:18:58.000Z",
+  "updatedAt": "2021-12-05T09:46:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "d0ef501f-af2e-48c0-ba9c-aa2c6610c27e": {
         "authors": [
-          "YAMATO Waki"
+          "Yamato Waki"
         ],
         "identifier": "d0ef501f-af2e-48c0-ba9c-aa2c6610c27e",
         "type": "manga",
@@ -37,7 +43,7 @@
         "malId": 1568,
         "aniId": 31568,
         "createdAt": "2020-10-12T16:11:33.000Z",
-        "updatedAt": "2021-06-05T09:47:04.000Z",
+        "updatedAt": "2021-12-05T10:18:59.000Z",
         "deletedAt": null
       }
     }

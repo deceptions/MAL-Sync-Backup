@@ -24,8 +24,8 @@
     "Mangadex": {
       "0ad5ad90-166e-4d2a-a46b-f3cfe2dc01bd": {
         "authors": [
-          "Mani",
-          "Iruma Hitoma"
+          "Iruma Hitoma",
+          "Mani"
         ],
         "identifier": "0ad5ad90-166e-4d2a-a46b-f3cfe2dc01bd",
         "type": "manga",
@@ -40,7 +40,7 @@
         "malId": 98753,
         "aniId": 98797,
         "createdAt": "2020-10-12T16:10:53.000Z",
-        "updatedAt": "2021-06-05T04:06:48.000Z",
+        "updatedAt": "2021-12-05T04:20:10.000Z",
         "deletedAt": null
       }
     },
@@ -64,9 +64,50 @@
         "createdAt": "2020-12-24T21:26:18.000Z",
         "updatedAt": "2021-11-20T16:14:07.000Z",
         "deletedAt": null
+      },
+      "adachi_to_shimamura_yuzuhara_moke": {
+        "authors": [
+          "IRUMA Hitoma"
+        ],
+        "identifier": "adachi_to_shimamura_yuzuhara_moke",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Adachi to Shimamura (YUZUHARA Moke)",
+        "url": "https://fanfox.net/manga/adachi_to_shimamura_yuzuhara_moke/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31300/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98753,
+        "aniId": 98797,
+        "createdAt": "2021-06-03T21:48:57.000Z",
+        "updatedAt": "2021-12-03T22:50:48.000Z",
+        "deletedAt": null
       }
     },
     "MangaNato": {
+      "manga-dn981170": {
+        "authors": [
+          "Hitoma Iruma",
+          "Mani"
+        ],
+        "identifier": "manga-dn981170",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Adachi To Shimamura",
+        "url": "https://manganato.com/manga-dn981170",
+        "image": "https://avt.mkklcdnv6temp.com/5/g/18-1583497290.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98753,
+        "aniId": 98797,
+        "createdAt": "2021-06-03T14:49:38.000Z",
+        "updatedAt": "2021-12-03T15:50:50.000Z",
+        "deletedAt": null
+      },
       "manga-fo982449": {
         "authors": [
           "Hitoma Iruma",

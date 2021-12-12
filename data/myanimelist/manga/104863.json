@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%8C%E6%AD%BB%E3%81%AC%E5%A4%8F%E3%81%AB"
+    }
+  ],
   "altTitle": [
     "In the summer when you die",
     "君が死ぬ夏に"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:58.000Z",
-  "updatedAt": "2021-07-29T17:52:08.000Z",
+  "updatedAt": "2021-12-07T20:06:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +86,28 @@
         "aniId": 99033,
         "createdAt": "2021-02-22T16:03:37.000Z",
         "updatedAt": "2021-11-20T19:16:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zg976715": {
+        "authors": [
+          "Ooshiba Ken"
+        ],
+        "identifier": "manga-zg976715",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kimi Ga Shinu Natsu Ni",
+        "url": "https://manganato.com/manga-zg976715",
+        "image": "https://avt.mkklcdnv6temp.com/29/s/15-1583492559.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104863,
+        "aniId": 99033,
+        "createdAt": "2021-06-01T15:42:43.000Z",
+        "updatedAt": "2021-12-01T16:24:17.000Z",
         "deletedAt": null
       }
     }

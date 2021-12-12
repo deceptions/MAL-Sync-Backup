@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://gammaplus.takeshobo.co.jp/manga/hinoenmas/"
+    }
+  ],
   "altTitle": [
     "Hinoenma's Temptation",
     "Sanshimai ga Ore wo Yuuwaku shitekuru!!",
@@ -17,28 +22,28 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-04T13:55:56.000Z",
-  "updatedAt": "2021-08-12T07:37:42.000Z",
+  "updatedAt": "2021-12-07T20:09:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "96a1f260-69fc-479d-89b9-76bdd5677ae4": {
         "authors": [
-          "HASEYOSHI Eria"
+          "Haseyoshi Eria"
         ],
         "identifier": "96a1f260-69fc-479d-89b9-76bdd5677ae4",
         "type": "manga",
         "page": "Mangadex",
         "title": "The Three Sisters Are Trying To Seduce Me!!",
         "url": "https://mangadex.org/title/96a1f260-69fc-479d-89b9-76bdd5677ae4",
-        "image": "https://mangadex.org/images/manga/47683.jpg",
+        "image": "https://uploads.mangadex.org/covers/96a1f260-69fc-479d-89b9-76bdd5677ae4/f82f939d-75c8-47e7-a3db-9459fbbf128a.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
+        "actor": null,
         "malId": 131824,
         "aniId": 121615,
         "createdAt": "2020-10-12T16:19:17.000Z",
-        "updatedAt": "2021-06-07T21:20:16.000Z",
+        "updatedAt": "2021-12-07T21:41:50.000Z",
         "deletedAt": null
       }
     },
@@ -64,25 +69,25 @@
         "deletedAt": null
       }
     },
-    "MangaFox": {
-      "sanshimai_ga_ore_wo_yuuwaku_shite_kuru": {
+    "MangaNato": {
+      "manga-ks987375": {
         "authors": [
-          "HASEYOSHI Eria"
+          "Eria Haseyoshi"
         ],
-        "identifier": "sanshimai_ga_ore_wo_yuuwaku_shite_kuru",
+        "identifier": "manga-ks987375",
         "type": "manga",
-        "page": "MangaFox",
-        "title": "Sanshimai ga Ore wo Yuuwaku shite kuru!!",
-        "url": "https://fanfox.net/manga/sanshimai_ga_ore_wo_yuuwaku_shite_kuru/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/36129/cover.jpg",
+        "page": "MangaNato",
+        "title": "The Three Sisters Are Trying To Seduce Me!!",
+        "url": "https://manganato.com/manga-ks987375",
+        "image": "https://avt.mkklcdnv6temp.com/45/f/22-1607757433.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
+        "actor": 1,
         "malId": 131824,
         "aniId": 121615,
-        "createdAt": "2021-04-08T20:21:35.000Z",
-        "updatedAt": "2021-06-07T21:20:16.000Z",
+        "createdAt": "2021-05-29T08:13:26.000Z",
+        "updatedAt": "2021-12-03T09:48:27.000Z",
         "deletedAt": null
       }
     }

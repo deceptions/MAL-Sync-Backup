@@ -15,10 +15,19 @@
   "malId": 720,
   "aniId": 30720,
   "createdAt": "2021-06-05T02:20:07.000Z",
-  "updatedAt": "2021-06-05T02:48:57.000Z",
+  "updatedAt": "2021-12-05T03:19:11.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.square-enix.co.jp/magazine/yg/introduction/bamboo/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/BAMBOO_BLADE"
+      }
+    ],
     "altTitle": [
       "Bamboo Blade",
       "バンブーブレード"
@@ -35,7 +44,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2021-06-05T02:20:07.000Z",
+    "updatedAt": "2021-12-05T02:46:08.000Z",
     "deletedAt": null
   },
   "Anilist": {

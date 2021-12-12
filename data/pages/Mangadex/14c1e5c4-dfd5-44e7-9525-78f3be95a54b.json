@@ -1,6 +1,6 @@
 {
   "authors": [
-    "shimahara"
+    "Shimahara"
   ],
   "identifier": "14c1e5c4-dfd5-44e7-9525-78f3be95a54b",
   "type": "manga",
@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 129311,
   "createdAt": "2020-12-02T06:22:47.000Z",
-  "updatedAt": "2021-06-08T08:05:05.000Z",
+  "updatedAt": "2021-12-08T09:33:34.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "うちのねこが女の子でかわいい",
+      "Uchi ni Neko ga Yattekita!",
+      "うちに猫がやってきた！",
+      "My Cat Is A Kawaii Girl"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "40-hara"
+    ],
+    "id": 129311,
+    "malId": null,
+    "type": "manga",
+    "title": "Uchi no Neko ga Onnanoko de Kawaii",
+    "url": "https://anilist.co/manga/129311",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129311-MEqLz1ldg6vt.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-04T15:18:57.000Z",
+    "updatedAt": "2021-12-08T09:04:49.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -68,6 +68,52 @@
         "updatedAt": "2021-11-20T19:16:16.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "shamo": {
+        "authors": [
+          "HASHIMOTO Izou",
+          "TANAKA Akio"
+        ],
+        "identifier": "shamo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shamo",
+        "url": "https://fanfox.net/manga/shamo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/643/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 727,
+        "aniId": 30727,
+        "createdAt": "2021-06-02T07:17:18.000Z",
+        "updatedAt": "2021-12-02T08:18:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kj955044": {
+        "authors": [
+          "Hashimoto Izou",
+          "Tanaka Akio"
+        ],
+        "identifier": "manga-kj955044",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shamo",
+        "url": "https://readmanganato.com/manga-kj955044",
+        "image": "https://avt.mkklcdnv6temp.com/26/l/3-1583468717.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 727,
+        "aniId": 30727,
+        "createdAt": "2021-06-03T19:19:38.000Z",
+        "updatedAt": "2021-12-03T20:18:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

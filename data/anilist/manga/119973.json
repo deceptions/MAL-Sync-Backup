@@ -24,8 +24,8 @@
     "Mangadex": {
       "38a89cab-9a61-4adb-ad5f-f079064027a0": {
         "authors": [
-          "Koppamu",
-          "Mochi"
+          "Mochi",
+          "Koppamu"
         ],
         "identifier": "38a89cab-9a61-4adb-ad5f-f079064027a0",
         "type": "manga",
@@ -40,7 +40,7 @@
         "malId": 127449,
         "aniId": 119973,
         "createdAt": "2020-10-12T16:20:07.000Z",
-        "updatedAt": "2021-06-07T23:28:00.000Z",
+        "updatedAt": "2021-12-07T23:39:01.000Z",
         "deletedAt": null
       }
     },
@@ -106,6 +106,29 @@
         "aniId": 119973,
         "createdAt": "2021-03-24T07:15:55.000Z",
         "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jb986536": {
+        "authors": [
+          "Mochi",
+          "Koppamu"
+        ],
+        "identifier": "manga-jb986536",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Other World's Wizard Does Not Chant",
+        "url": "https://readmanganato.com/manga-jb986536",
+        "image": "https://avt.mkklcdnv6temp.com/10/v/22-1599539358.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127449,
+        "aniId": 119973,
+        "createdAt": "2021-06-04T07:48:57.000Z",
+        "updatedAt": "2021-12-04T08:49:27.000Z",
         "deletedAt": null
       }
     }

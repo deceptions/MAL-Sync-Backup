@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Ziho",
-    "Mina (미나)"
+    "Mina (미나)",
+    "Ziho"
   ],
   "identifier": "0b66e39b-0481-4ea1-bef2-61efc563ccd2",
   "type": "manga",
@@ -12,51 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 18709,
-  "aniId": 48709,
+  "actor": 1,
+  "malId": null,
+  "aniId": 111658,
   "createdAt": "2020-10-12T16:17:06.000Z",
-  "updatedAt": "2021-06-07T04:41:53.000Z",
+  "updatedAt": "2021-12-10T11:47:48.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": [],
-    "altTitle": [
-      "僕等Living"
-    ],
-    "authors": [
-      "Inami, Hajime"
-    ],
-    "id": 18709,
-    "type": "manga",
-    "title": "Bokura Living",
-    "url": "https://myanimelist.net/manga/18709/Bokura_Living",
-    "image": "https://cdn.myanimelist.net/images/manga/2/158210.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:39.000Z",
-    "updatedAt": "2021-12-04T01:16:46.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "We are Living",
-      "僕等Living"
+      "리빙 윌",
+      "Stand at Two Crossroads",
+      "Two at the Crossroads"
     ],
     "externalLinks": [],
     "authors": [
-      "Hajime Inami"
+      "Ji Ho",
+      "Mina"
     ],
-    "id": 48709,
-    "malId": 18709,
+    "id": 111658,
+    "malId": null,
     "type": "manga",
-    "title": "Bokura Living",
-    "url": "https://anilist.co/manga/48709",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/18709.jpg",
+    "title": "Living Will",
+    "url": "https://anilist.co/manga/111658",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111658-0Mprdmt9uJlk.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:45:12.000Z",
-    "updatedAt": "2021-06-17T16:13:30.000Z",
+    "createdAt": "2021-05-22T19:43:08.000Z",
+    "updatedAt": "2021-12-07T05:18:03.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/18709/Bokura_Living"
+  "malUrl": ""
 }

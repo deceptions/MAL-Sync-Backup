@@ -15,12 +15,19 @@
   "malId": 94293,
   "aniId": 86614,
   "createdAt": "2021-06-05T19:19:48.000Z",
-  "updatedAt": "2021-06-05T19:48:57.000Z",
+  "updatedAt": "2021-12-05T20:19:48.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E3%81%AE%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%AE%E4%B8%96%E7%95%8C%E9%8C%B2"
+      }
+    ],
     "altTitle": [
-      "Sekai no Owari no Sekairoku, World's End Encore, Encore of the World's End",
+      "Sekai no Owari no Sekairoku",
+      "World's End Encore",
+      "Encore of the World's End",
       "世界の終わりの世界録〈アンコール〉"
     ],
     "authors": [
@@ -35,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:46:20.000Z",
-    "updatedAt": "2021-06-05T19:19:38.000Z",
+    "updatedAt": "2021-12-05T19:47:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

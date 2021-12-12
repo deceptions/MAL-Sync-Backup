@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 137405,
   "createdAt": "2020-11-05T06:58:52.000Z",
-  "updatedAt": "2021-06-08T06:33:38.000Z",
+  "updatedAt": "2021-12-08T09:27:21.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "无敌剑域",
+      "Invincible Sword Domain"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Qian Hui Dongman"
+    ],
+    "id": 137405,
+    "malId": null,
+    "type": "manga",
+    "title": "Wudi Jian Yu",
+    "url": "https://anilist.co/manga/137405",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b137405-DXDWW8eIq82x.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-03T13:17:39.000Z",
+    "updatedAt": "2021-12-08T07:34:29.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

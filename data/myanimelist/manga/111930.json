@@ -18,5 +18,28 @@
   "createdAt": "2020-11-15T19:44:57.000Z",
   "updatedAt": "2021-11-18T20:15:03.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "24a633e1-23a4-43f3-9163-a4ca455b3f5b": {
+        "authors": [
+          "Tachibana Omina"
+        ],
+        "identifier": "24a633e1-23a4-43f3-9163-a4ca455b3f5b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Isekai Harem Monogatari",
+        "url": "https://mangadex.org/title/24a633e1-23a4-43f3-9163-a4ca455b3f5b",
+        "image": "https://uploads.mangadex.org/covers/24a633e1-23a4-43f3-9163-a4ca455b3f5b/4eb2e3c5-81af-44f1-8878-0f5200078524.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 111930,
+        "aniId": 111244,
+        "createdAt": "2020-10-12T16:12:47.000Z",
+        "updatedAt": "2021-12-06T09:53:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

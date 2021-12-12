@@ -16,7 +16,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-21T00:42:57.000Z",
-  "updatedAt": "2021-07-13T04:45:02.000Z",
+  "updatedAt": "2021-12-08T13:05:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "8a769c56-f105-47da-9e70-9f7bafe1fd3b": {
+        "authors": [
+          "Demunyan",
+          "Tansan Daisuki"
+        ],
+        "identifier": "8a769c56-f105-47da-9e70-9f7bafe1fd3b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "FX Fighter Kurumi-chan",
+        "url": "https://mangadex.org/title/8a769c56-f105-47da-9e70-9f7bafe1fd3b",
+        "image": "https://uploads.mangadex.org/covers/8a769c56-f105-47da-9e70-9f7bafe1fd3b/02e0b01c-aa05-4b1f-ad75-c552be567355.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 134679,
+        "aniId": 128364,
+        "createdAt": "2021-03-09T14:40:31.000Z",
+        "updatedAt": "2021-12-08T14:33:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

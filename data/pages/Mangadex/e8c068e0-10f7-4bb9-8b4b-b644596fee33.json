@@ -1,8 +1,8 @@
 {
   "authors": [
-    "Li Zongchen",
     "Zhao Na",
-    "noftB"
+    "Li Zongchen",
+    "Noftb"
   ],
   "identifier": "e8c068e0-10f7-4bb9-8b4b-b644596fee33",
   "type": "manga",
@@ -13,13 +13,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 130199,
   "createdAt": "2021-02-25T18:25:45.000Z",
-  "updatedAt": "2021-06-08T11:41:45.000Z",
+  "updatedAt": "2021-12-08T14:33:06.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "双镜",
+      "雙鏡",
+      " Couple of Mirrors"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Huanyu Entertainment",
+      "noftB"
+    ],
+    "id": 130199,
+    "malId": null,
+    "type": "manga",
+    "title": "Shuangjing",
+    "url": "https://anilist.co/manga/130199",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130199-ZQTc9AeB9Xhb.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-10T07:04:15.000Z",
+    "updatedAt": "2021-11-11T05:13:47.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -21,5 +21,29 @@
   "createdAt": "2021-11-16T14:27:02.000Z",
   "updatedAt": "2021-11-16T14:27:02.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "hellbound": {
+        "authors": [
+          "Choi Gyu-Seok",
+          "Yeon Sang-ho"
+        ],
+        "identifier": "hellbound",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hellbound",
+        "url": "https://mangasee123.com/manga/Hellbound",
+        "image": "https://cover.nep.li/cover/Hellbound.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 129523,
+        "createdAt": "2021-12-07T18:46:35.000Z",
+        "updatedAt": "2021-12-07T18:46:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

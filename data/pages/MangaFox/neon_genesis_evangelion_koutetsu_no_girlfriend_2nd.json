@@ -15,13 +15,19 @@
   "malId": 760,
   "aniId": 30760,
   "createdAt": "2021-06-05T19:50:08.000Z",
-  "updatedAt": "2021-06-05T20:48:57.000Z",
+  "updatedAt": "2021-12-05T21:20:28.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Neon_Genesis_Evangelion:_Angelic_Days"
+      }
+    ],
     "altTitle": [
       "Neon Genesis Evangelion: Angelic Days",
-      "Neon Genesis Evangelion: Girlfriend of Steel 2, The Iron Maiden 2nd",
+      "Neon Genesis Evangelion: Girlfriend of Steel 2",
+      "The Iron Maiden 2nd",
       "新世紀エヴァンゲリオン 鋼鉄のガールフレンド2nd"
     ],
     "authors": [
@@ -35,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:25.000Z",
-    "updatedAt": "2021-06-05T19:50:08.000Z",
+    "updatedAt": "2021-12-05T20:16:18.000Z",
     "deletedAt": null
   },
   "Anilist": {

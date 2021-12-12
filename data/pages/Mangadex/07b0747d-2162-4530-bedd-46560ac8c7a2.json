@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 112517,
   "aniId": 112632,
   "createdAt": "2020-10-12T16:11:01.000Z",
-  "updatedAt": "2021-06-05T18:48:57.000Z",
+  "updatedAt": "2021-12-05T19:17:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.betsucomi.shogakukan.co.jp/rensai/musunde/"
+      }
+    ],
     "altTitle": [
       "tie untie and kiss",
       "結んで、ほどいて、キス"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-05T05:20:49.000Z",
-    "updatedAt": "2021-06-05T05:20:49.000Z",
+    "updatedAt": "2021-12-05T05:48:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

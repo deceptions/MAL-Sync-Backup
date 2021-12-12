@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:53.000Z",
-  "updatedAt": "2021-10-22T13:28:47.000Z",
+  "updatedAt": "2021-12-07T20:08:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,6 +64,28 @@
         "aniId": 33731,
         "createdAt": "2021-01-05T05:27:18.000Z",
         "updatedAt": "2021-11-20T16:44:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nx964780": {
+        "authors": [
+          "Asano Inio"
+        ],
+        "identifier": "manga-nx964780",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Solanin",
+        "url": "https://readmanganato.com/manga-nx964780",
+        "image": "https://avt.mkklcdnv6temp.com/39/z/9-1583481732.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3731,
+        "aniId": 33731,
+        "createdAt": "2021-06-02T03:31:57.000Z",
+        "updatedAt": "2021-12-02T04:16:05.000Z",
         "deletedAt": null
       }
     },

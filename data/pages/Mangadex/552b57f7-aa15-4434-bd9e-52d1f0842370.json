@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 128723,
   "aniId": null,
   "createdAt": "2020-10-22T17:09:11.000Z",
-  "updatedAt": "2021-06-08T06:50:08.000Z",
+  "updatedAt": "2021-12-08T07:12:43.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://shonenjumpplus.com/episode/13933686331689286174"
+      }
+    ],
     "altTitle": [
       "好きになった同級生は終活生でした"
     ],
@@ -33,7 +38,7 @@
     "category": "One-shot",
     "hentai": false,
     "createdAt": "2021-06-08T05:52:30.000Z",
-    "updatedAt": "2021-06-08T05:52:30.000Z",
+    "updatedAt": "2021-12-08T06:05:50.000Z",
     "deletedAt": null
   },
   "Anilist": null,

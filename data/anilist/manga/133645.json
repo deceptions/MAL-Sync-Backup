@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-26T22:58:43.000Z",
-  "updatedAt": "2021-06-21T17:53:03.000Z",
+  "updatedAt": "2021-12-08T01:04:30.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-fl982468": {
+        "authors": [
+          "Miin"
+        ],
+        "identifier": "manga-fl982468",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Legend Of The Four Beasts",
+        "url": "https://manganato.com/manga-fl982468",
+        "image": "https://avt.mkklcdnv6temp.com/2/y/19-1583499183.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 133645,
+        "createdAt": "2021-12-08T01:04:30.000Z",
+        "updatedAt": "2021-12-08T01:04:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -47,7 +47,7 @@
       },
       "055ccb8d-670b-46fb-bdd4-31fa9b94d01b": {
         "authors": [
-          "TAKATOU Rui"
+          "Takatou Rui"
         ],
         "identifier": "055ccb8d-670b-46fb-bdd4-31fa9b94d01b",
         "type": "manga",
@@ -62,7 +62,7 @@
         "malId": 56805,
         "aniId": 85135,
         "createdAt": "2020-10-12T16:16:07.000Z",
-        "updatedAt": "2021-06-06T19:41:14.000Z",
+        "updatedAt": "2021-12-06T19:49:44.000Z",
         "deletedAt": null
       }
     },
@@ -127,6 +127,28 @@
         "aniId": 85135,
         "createdAt": "2021-04-17T16:14:48.000Z",
         "updatedAt": "2021-11-20T21:48:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-be978439": {
+        "authors": [
+          "Ooima Yoshitoki"
+        ],
+        "identifier": "manga-be978439",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Koe No Kitachi",
+        "url": "https://manganato.com/manga-be978439",
+        "image": "https://avt.mkklcdnv6temp.com/10/l/16-1583493851.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56805,
+        "aniId": 85135,
+        "createdAt": "2021-06-02T12:31:22.000Z",
+        "updatedAt": "2021-12-02T13:19:48.000Z",
         "deletedAt": null
       }
     }

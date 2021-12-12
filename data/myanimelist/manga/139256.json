@@ -26,6 +26,29 @@
   "updatedAt": "2021-11-22T13:45:59.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "d5cdc845-fd5d-4497-a993-131d65e00e97": {
+        "authors": [
+          "Dalseul",
+          "Via"
+        ],
+        "identifier": "d5cdc845-fd5d-4497-a993-131d65e00e97",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Flirting with The Villain's Dad",
+        "url": "https://mangadex.org/title/d5cdc845-fd5d-4497-a993-131d65e00e97",
+        "image": "https://uploads.mangadex.org/covers/d5cdc845-fd5d-4497-a993-131d65e00e97/cf41398d-f5db-4cfc-8b43-31cf2d8a068d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 139256,
+        "aniId": 117581,
+        "createdAt": "2020-10-12T16:18:59.000Z",
+        "updatedAt": "2021-12-08T09:33:28.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaFox": {
       "seduce_the_villain_s_father": {
         "authors": [
@@ -42,9 +65,9 @@
         "active": true,
         "actor": null,
         "malId": 139256,
-        "aniId": null,
+        "aniId": 117581,
         "createdAt": "2021-03-03T17:21:49.000Z",
-        "updatedAt": "2021-09-27T08:16:37.000Z",
+        "updatedAt": "2021-12-10T21:33:38.000Z",
         "deletedAt": null
       }
     }

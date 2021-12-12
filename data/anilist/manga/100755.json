@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-29T15:12:13.000Z",
-  "updatedAt": "2021-06-21T13:31:55.000Z",
+  "updatedAt": "2021-12-05T06:46:27.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "27d52e29-a245-4c09-af0e-7b148bc4e520": {
+        "authors": [
+          "Park Nodeok"
+        ],
+        "identifier": "27d52e29-a245-4c09-af0e-7b148bc4e520",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "For Your Love",
+        "url": "https://mangadex.org/title/27d52e29-a245-4c09-af0e-7b148bc4e520",
+        "image": "https://uploads.mangadex.org/covers/27d52e29-a245-4c09-af0e-7b148bc4e520/5ebdfc33-749d-4c46-910a-9e22a3851036.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 100755,
+        "createdAt": "2020-10-12T16:11:10.000Z",
+        "updatedAt": "2021-12-07T19:14:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-06-06T22:49:18.000Z",
-  "updatedAt": "2021-06-21T14:26:22.000Z",
+  "updatedAt": "2021-12-06T23:17:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a44dd9bf-9a37-4f23-9462-2e6cafa23eba": {
+        "authors": [
+          "Hyangsu"
+        ],
+        "identifier": "a44dd9bf-9a37-4f23-9462-2e6cafa23eba",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Epitaph",
+        "url": "https://mangadex.org/title/a44dd9bf-9a37-4f23-9462-2e6cafa23eba",
+        "image": "https://uploads.mangadex.org/covers/a44dd9bf-9a37-4f23-9462-2e6cafa23eba/5bef4d4e-9857-4478-a2c5-44928f064b5c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 110778,
+        "createdAt": "2020-10-12T16:16:26.000Z",
+        "updatedAt": "2021-12-10T11:48:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

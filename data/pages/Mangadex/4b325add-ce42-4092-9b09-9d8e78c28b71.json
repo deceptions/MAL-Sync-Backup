@@ -11,58 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 801,
-  "aniId": 30801,
+  "actor": 1,
+  "malId": null,
+  "aniId": 132767,
   "createdAt": "2020-10-12T16:19:16.000Z",
-  "updatedAt": "2021-06-07T21:33:41.000Z",
+  "updatedAt": "2021-12-10T09:54:00.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": [
-      {
-        "site": "officialsite",
-        "url": "http://www.junemanga.com/books/107/"
-      }
-    ],
-    "altTitle": [
-      "CUT",
-      "クット"
-    ],
-    "authors": [
-      "Kawai, Touko"
-    ],
-    "id": 801,
-    "type": "manga",
-    "title": "CUT",
-    "url": "https://myanimelist.net/manga/801/CUT",
-    "image": "https://cdn.myanimelist.net/images/manga/1/31098.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:26.000Z",
-    "updatedAt": "2021-11-05T21:35:00.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "CUT",
-      "CUT",
-      "クット"
+      "Cutting Off",
+      "잘라내기",
+      "Cut"
     ],
     "externalLinks": [],
     "authors": [
-      "Touko Kawai"
+      "Hogol"
     ],
-    "id": 30801,
-    "malId": 801,
+    "id": 132767,
+    "malId": null,
     "type": "manga",
-    "title": "Cut",
-    "url": "https://anilist.co/manga/30801",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30801-GdS5Adc7Kvlv.jpg",
+    "title": "Jarranaegi",
+    "url": "https://anilist.co/manga/132767",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b132767-d2YabF1lr8Oh.jpg",
     "category": "manga",
-    "hentai": true,
-    "createdAt": "2021-05-20T14:35:44.000Z",
-    "updatedAt": "2021-06-17T08:52:43.000Z",
+    "hentai": false,
+    "createdAt": "2021-09-23T00:10:50.000Z",
+    "updatedAt": "2021-12-07T22:33:48.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/801/CUT"
+  "malUrl": ""
 }

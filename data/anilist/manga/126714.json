@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-08T15:25:21.000Z",
-  "updatedAt": "2021-06-18T11:01:21.000Z",
+  "updatedAt": "2021-12-08T08:35:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "0a62c208-82ff-490d-bd2c-be01c66eeed8": {
+        "authors": [
+          "Kajiya Kiri"
+        ],
+        "identifier": "0a62c208-82ff-490d-bd2c-be01c66eeed8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Prickly Maid and Clumsy Mangaka",
+        "url": "https://mangadex.org/title/0a62c208-82ff-490d-bd2c-be01c66eeed8",
+        "image": "https://uploads.mangadex.org/covers/0a62c208-82ff-490d-bd2c-be01c66eeed8/90695241-acca-4ec6-b7e7-ff7c53bd0b71.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133278,
+        "aniId": 126714,
+        "createdAt": "2020-11-26T07:30:58.000Z",
+        "updatedAt": "2021-12-08T09:32:12.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

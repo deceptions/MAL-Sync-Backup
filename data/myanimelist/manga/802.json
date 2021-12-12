@@ -39,7 +39,29 @@
         "malId": 802,
         "aniId": 30802,
         "createdAt": "2020-11-23T08:25:59.000Z",
-        "updatedAt": "2021-06-08T07:35:42.000Z",
+        "updatedAt": "2021-12-08T08:05:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "honey_baby": {
+        "authors": [
+          "YAMAGATA Satomi"
+        ],
+        "identifier": "honey_baby",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Honey Baby",
+        "url": "https://fanfox.net/manga/honey_baby/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2570/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 802,
+        "aniId": 30802,
+        "createdAt": "2021-06-04T01:20:20.000Z",
+        "updatedAt": "2021-12-04T02:22:08.000Z",
         "deletedAt": null
       }
     }

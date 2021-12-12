@@ -48,6 +48,28 @@
         "updatedAt": "2021-12-02T13:18:47.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "fairy_cube": {
+        "authors": [
+          "YUKI Kaori"
+        ],
+        "identifier": "fairy_cube",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fairy Cube",
+        "url": "https://fanfox.net/manga/fairy_cube/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1205/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 689,
+        "aniId": 30689,
+        "createdAt": "2021-05-21T00:15:11.000Z",
+        "updatedAt": "2021-12-02T13:47:57.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -23,5 +23,29 @@
   "createdAt": "2021-09-26T21:45:29.000Z",
   "updatedAt": "2021-11-16T15:27:22.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "6fd5cf84-0974-4839-8968-3eb9729b74be": {
+        "authors": [
+          "Kasane Koame",
+          "Haruchika"
+        ],
+        "identifier": "6fd5cf84-0974-4839-8968-3eb9729b74be",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ano Hi Chikyuu ni Dungeon ga Shutsugen Shita",
+        "url": "https://mangadex.org/title/6fd5cf84-0974-4839-8968-3eb9729b74be",
+        "image": "https://uploads.mangadex.org/covers/6fd5cf84-0974-4839-8968-3eb9729b74be/9e848de0-50c6-4b9e-a23b-299b8fe9298d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 137623,
+        "aniId": null,
+        "createdAt": "2021-12-07T20:33:49.000Z",
+        "updatedAt": "2021-12-07T20:33:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -18,7 +18,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T09:12:58.000Z",
-  "updatedAt": "2021-06-21T13:32:25.000Z",
+  "updatedAt": "2021-12-07T00:46:22.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "19e8a06f-9866-4d17-b20c-766b22a83946": {
+        "authors": [
+          "Red Shoes",
+          "Racking"
+        ],
+        "identifier": "19e8a06f-9866-4d17-b20c-766b22a83946",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tied Up in Twins",
+        "url": "https://mangadex.org/title/19e8a06f-9866-4d17-b20c-766b22a83946",
+        "image": "https://uploads.mangadex.org/covers/19e8a06f-9866-4d17-b20c-766b22a83946/ce00cd8f-ab1a-4353-87ec-8e22e8277a96.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 100859,
+        "createdAt": "2020-10-12T16:16:35.000Z",
+        "updatedAt": "2021-12-10T11:49:50.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

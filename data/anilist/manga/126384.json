@@ -25,9 +25,9 @@
     "Mangadex": {
       "c88f84bc-cf96-49b0-a7df-8c62c2b5c1f8": {
         "authors": [
-          "Choi Joo Eun",
           "Wheedrian",
-          "Myeong Rang"
+          "Myeong Rang",
+          "Choi Joo Eun"
         ],
         "identifier": "c88f84bc-cf96-49b0-a7df-8c62c2b5c1f8",
         "type": "manga",
@@ -38,11 +38,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": null,
         "aniId": 126384,
         "createdAt": "2020-11-22T19:56:11.000Z",
-        "updatedAt": "2021-06-08T08:37:07.000Z",
+        "updatedAt": "2021-12-08T09:06:23.000Z",
         "deletedAt": null
       }
     },

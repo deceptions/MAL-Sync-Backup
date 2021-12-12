@@ -20,5 +20,30 @@
   "createdAt": "2021-06-10T07:04:15.000Z",
   "updatedAt": "2021-11-11T05:13:47.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "e8c068e0-10f7-4bb9-8b4b-b644596fee33": {
+        "authors": [
+          "Zhao Na",
+          "Li Zongchen",
+          "Noftb"
+        ],
+        "identifier": "e8c068e0-10f7-4bb9-8b4b-b644596fee33",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Couple of Mirrors",
+        "url": "https://mangadex.org/title/e8c068e0-10f7-4bb9-8b4b-b644596fee33",
+        "image": "https://uploads.mangadex.org/covers/e8c068e0-10f7-4bb9-8b4b-b644596fee33/1437edff-2d91-47cc-b3e7-266d9f37a2bc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 130199,
+        "createdAt": "2021-02-25T18:25:45.000Z",
+        "updatedAt": "2021-12-08T14:33:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

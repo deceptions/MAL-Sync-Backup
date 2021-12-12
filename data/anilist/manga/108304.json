@@ -18,5 +18,28 @@
   "createdAt": "2021-09-06T09:15:46.000Z",
   "updatedAt": "2021-11-21T12:42:58.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-az977934": {
+        "authors": [
+          "Khoo Fuk-Lung 邱福龙"
+        ],
+        "identifier": "manga-az977934",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shan Hai Ni Zhan",
+        "url": "https://manganato.com/manga-az977934",
+        "image": "https://avt.mkklcdnv6temp.com/4/i/16-1583493619.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 108304,
+        "createdAt": "2021-12-06T09:46:17.000Z",
+        "updatedAt": "2021-12-06T09:46:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

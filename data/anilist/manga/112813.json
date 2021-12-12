@@ -15,13 +15,13 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T15:38:10.000Z",
-  "updatedAt": "2021-06-21T14:48:27.000Z",
+  "updatedAt": "2021-12-09T09:03:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "65bf6645-89d1-4451-b87c-f307c30e0d7e": {
         "authors": [
-          "Teshima Chia"
+          "Chia Teshima"
         ],
         "identifier": "65bf6645-89d1-4451-b87c-f307c30e0d7e",
         "type": "manga",
@@ -32,11 +32,33 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
+        "actor": null,
         "malId": null,
         "aniId": 112813,
         "createdAt": "2020-10-12T16:18:16.000Z",
-        "updatedAt": "2021-06-07T16:34:29.000Z",
+        "updatedAt": "2021-12-07T16:48:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gr984326": {
+        "authors": [
+          "Teshima Chia"
+        ],
+        "identifier": "manga-gr984326",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Midori No Tomari Ki",
+        "url": "https://readmanganato.com/manga-gr984326",
+        "image": "https://avt.mkklcdnv6temp.com/22/a/20-1583501870.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 112813,
+        "createdAt": "2021-12-09T09:03:48.000Z",
+        "updatedAt": "2021-12-09T09:03:58.000Z",
         "deletedAt": null
       }
     }

@@ -11,13 +11,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 136643,
+  "aniId": 104496,
   "createdAt": "2020-11-08T14:46:49.000Z",
-  "updatedAt": "2021-12-04T23:16:07.000Z",
+  "updatedAt": "2021-12-06T09:46:06.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://daiohg.dengeki.com/lineup/6362/"
+      }
+    ],
+    "altTitle": [
+      "We Are Cheering for Our Teacher!",
+      "推させて！ Myティーチャー"
+    ],
+    "authors": [
+      "Higashi 385"
+    ],
+    "id": 136643,
+    "type": "manga",
+    "title": "Osasete! My Teacher",
+    "url": "https://myanimelist.net/manga/136643/Osasete_My_Teacher",
+    "image": "https://cdn.myanimelist.net/images/manga/3/244720.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-11-22T13:45:29.000Z",
+    "updatedAt": "2021-11-22T13:45:29.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "推させて！ Myティーチャー",
+      "老師! 做偶像吧!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Higashi 385"
+    ],
+    "id": 104496,
+    "malId": 136643,
+    "type": "manga",
+    "title": "Osasete! My Teacher",
+    "url": "https://anilist.co/manga/104496",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx104496-DwE8GtJ1KL9l.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-05T09:48:57.000Z",
+    "updatedAt": "2021-06-18T04:27:41.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/136643/Osasete_My_Teacher"
 }

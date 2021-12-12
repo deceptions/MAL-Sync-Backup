@@ -20,5 +20,28 @@
   "createdAt": "2021-06-30T20:50:02.000Z",
   "updatedAt": "2021-09-24T11:15:24.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "cc98a655-61b3-4815-8ac0-5b0fa715847d": {
+        "authors": [
+          "Yuno Ichika"
+        ],
+        "identifier": "cc98a655-61b3-4815-8ac0-5b0fa715847d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yoake no Uta",
+        "url": "https://mangadex.org/title/cc98a655-61b3-4815-8ac0-5b0fa715847d",
+        "image": "https://uploads.mangadex.org/covers/cc98a655-61b3-4815-8ac0-5b0fa715847d/de19e411-d0df-47cd-ab48-284181305a71.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 140409,
+        "aniId": 127217,
+        "createdAt": "2020-12-06T06:11:11.000Z",
+        "updatedAt": "2021-12-08T10:03:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

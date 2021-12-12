@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:41.000Z",
-  "updatedAt": "2021-10-30T18:34:39.000Z",
+  "updatedAt": "2021-12-09T10:03:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -44,6 +44,26 @@
         "aniId": 60223,
         "createdAt": "2020-10-12T16:05:29.000Z",
         "updatedAt": "2021-12-03T13:17:48.000Z",
+        "deletedAt": null
+      },
+      "cf2c3dad-c588-4b48-bdb5-6f85b2774b4e": {
+        "authors": [
+          "Matsumoto Mitohi"
+        ],
+        "identifier": "cf2c3dad-c588-4b48-bdb5-6f85b2774b4e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ato no Matsuri",
+        "url": "https://mangadex.org/title/cf2c3dad-c588-4b48-bdb5-6f85b2774b4e",
+        "image": "https://uploads.mangadex.org/covers/cf2c3dad-c588-4b48-bdb5-6f85b2774b4e/3a16eace-482c-4f2f-a487-d6c9197a648e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 30223,
+        "aniId": 60223,
+        "createdAt": "2020-10-12T16:06:05.000Z",
+        "updatedAt": "2021-12-09T16:18:25.000Z",
         "deletedAt": null
       }
     },

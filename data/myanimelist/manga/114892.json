@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://pocket.shonenmagazine.com/episode/10834108156632337482"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/FAIRY_TAIL"
+    }
+  ],
   "altTitle": [
     "FAIRY TAIL ハッピーの大冒険"
   ],
@@ -14,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-05T23:19:58.000Z",
-  "updatedAt": "2021-06-05T23:19:58.000Z",
+  "updatedAt": "2021-12-05T10:46:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -35,7 +44,29 @@
         "malId": 114892,
         "aniId": 109643,
         "createdAt": "2020-10-12T16:13:41.000Z",
-        "updatedAt": "2021-06-06T00:22:59.000Z",
+        "updatedAt": "2021-12-06T00:48:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-co979871": {
+        "authors": [
+          "Sakamoto Kenshirou"
+        ],
+        "identifier": "manga-co979871",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fairy Tail: Happy No Daiboken",
+        "url": "https://readmanganato.com/manga-co979871",
+        "image": "https://avt.mkklcdnv6temp.com/7/t/17-1583495539.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114892,
+        "aniId": 109643,
+        "createdAt": "2021-12-05T10:46:39.000Z",
+        "updatedAt": "2021-12-05T11:16:06.000Z",
         "deletedAt": null
       }
     }

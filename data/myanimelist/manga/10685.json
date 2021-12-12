@@ -16,7 +16,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:29.000Z",
-  "updatedAt": "2021-10-14T16:59:59.000Z",
+  "updatedAt": "2021-12-07T20:05:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -85,6 +85,49 @@
         "deletedAt": null
       }
     },
+    "MangaNato": {
+      "manga-ck951645": {
+        "authors": [
+          "Ryu Ki-Woon",
+          "Moon Jung-Hoo"
+        ],
+        "identifier": "manga-ck951645",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yongbi",
+        "url": "https://manganato.com/manga-ck951645",
+        "image": "https://avt.mkklcdnv6temp.com/11/w/1-1583464125.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 10685,
+        "aniId": 40685,
+        "createdAt": "2021-06-03T20:19:27.000Z",
+        "updatedAt": "2021-12-03T21:18:38.000Z",
+        "deletedAt": null
+      },
+      "manga-cq980099": {
+        "authors": [
+          "Moon Jung-Hoo"
+        ],
+        "identifier": "manga-cq980099",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yongbi The Invincible - A Side Story",
+        "url": "https://manganato.com/manga-cq980099",
+        "image": "https://avt.mkklcdnv6temp.com/16/a/17-1583495839.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 10685,
+        "aniId": 40685,
+        "createdAt": "2021-09-16T08:10:45.000Z",
+        "updatedAt": "2021-09-16T08:40:42.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaFox": {
       "yongbi": {
         "authors": [
@@ -104,28 +147,6 @@
         "aniId": 40685,
         "createdAt": "2021-08-20T16:46:11.000Z",
         "updatedAt": "2021-08-20T21:16:06.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-cq980099": {
-        "authors": [
-          "Moon Jung-Hoo"
-        ],
-        "identifier": "manga-cq980099",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Yongbi The Invincible - A Side Story",
-        "url": "https://manganato.com/manga-cq980099",
-        "image": "https://avt.mkklcdnv6temp.com/16/a/17-1583495839.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 10685,
-        "aniId": 40685,
-        "createdAt": "2021-09-16T08:10:45.000Z",
-        "updatedAt": "2021-09-16T08:40:42.000Z",
         "deletedAt": null
       }
     }

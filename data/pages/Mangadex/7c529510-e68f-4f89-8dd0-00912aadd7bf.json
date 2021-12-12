@@ -11,13 +11,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 140035,
+  "aniId": 135669,
   "createdAt": "2020-10-12T16:20:14.000Z",
-  "updatedAt": "2021-06-07T23:34:56.000Z",
+  "updatedAt": "2021-12-08T09:33:38.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Love and Terrarium",
+      "恋とテラリウム"
+    ],
+    "authors": [
+      "Shima, Asato"
+    ],
+    "id": 140035,
+    "type": "manga",
+    "title": "Koi to Terrarium",
+    "url": "https://myanimelist.net/manga/140035/Koi_to_Terrarium",
+    "image": "https://cdn.myanimelist.net/images/manga/1/249792.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "createdAt": "2021-12-08T00:33:49.000Z",
+    "updatedAt": "2021-12-08T00:33:49.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "恋とテラリウム",
+      "Love and Terrarium"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Asato Shima"
+    ],
+    "id": 135669,
+    "malId": 140035,
+    "type": "manga",
+    "title": "Koi to Terrarium",
+    "url": "https://anilist.co/manga/135669",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135669-SAHqJYoVLhxm.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-06-15T16:57:33.000Z",
+    "updatedAt": "2021-09-02T07:45:46.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/140035/Koi_to_Terrarium"
 }

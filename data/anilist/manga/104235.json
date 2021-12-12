@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T15:49:49.000Z",
-  "updatedAt": "2021-06-21T13:51:34.000Z",
+  "updatedAt": "2021-12-06T16:18:33.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "d3486650-8ce9-45ad-92ef-8cca838a30a8": {
+        "authors": [
+          "Young Dream"
+        ],
+        "identifier": "d3486650-8ce9-45ad-92ef-8cca838a30a8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Was XXX By My Idol",
+        "url": "https://mangadex.org/title/d3486650-8ce9-45ad-92ef-8cca838a30a8",
+        "image": "https://uploads.mangadex.org/covers/d3486650-8ce9-45ad-92ef-8cca838a30a8/2b89ee30-dba1-4104-ae4c-e13772895a8b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 104235,
+        "createdAt": "2020-10-12T16:15:40.000Z",
+        "updatedAt": "2021-12-10T11:49:40.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

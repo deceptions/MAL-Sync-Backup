@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-04T10:18:58.000Z",
-  "updatedAt": "2021-08-16T00:38:07.000Z",
+  "updatedAt": "2021-12-05T08:47:18.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "d5065166-27f0-47ce-b19f-71826da6608f": {
+        "authors": [
+          "Nieki Zui"
+        ],
+        "identifier": "d5065166-27f0-47ce-b19f-71826da6608f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Jun and Kaoru (Webcomic)",
+        "url": "https://mangadex.org/title/d5065166-27f0-47ce-b19f-71826da6608f",
+        "image": "https://uploads.mangadex.org/covers/d5065166-27f0-47ce-b19f-71826da6608f/ecc7b979-8d4d-430d-8d6b-c6101547cc67.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 101236,
+        "createdAt": "2020-10-12T16:11:24.000Z",
+        "updatedAt": "2021-12-07T19:18:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

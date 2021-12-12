@@ -15,7 +15,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-16T07:37:10.000Z",
-  "updatedAt": "2021-08-16T07:37:10.000Z",
+  "updatedAt": "2021-12-08T07:03:38.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "b49bb16c-bcc9-48d0-b7fd-c382c57a9c00": {
+        "authors": [
+          "Mi Fan",
+          "Tang"
+        ],
+        "identifier": "b49bb16c-bcc9-48d0-b7fd-c382c57a9c00",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sworn Enemy or Lover?",
+        "url": "https://mangadex.org/title/b49bb16c-bcc9-48d0-b7fd-c382c57a9c00",
+        "image": "https://uploads.mangadex.org/covers/b49bb16c-bcc9-48d0-b7fd-c382c57a9c00/021637d8-3238-4300-948d-627694f5fc5c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 137949,
+        "createdAt": "2020-10-29T21:40:36.000Z",
+        "updatedAt": "2021-12-08T09:27:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

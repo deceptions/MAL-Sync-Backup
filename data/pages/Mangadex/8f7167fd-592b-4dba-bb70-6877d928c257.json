@@ -1,7 +1,7 @@
 {
   "authors": [
     "Saeki San",
-    "takaoka yuu"
+    "Takaoka Yuu"
   ],
   "identifier": "8f7167fd-592b-4dba-bb70-6877d928c257",
   "type": "manga",
@@ -12,14 +12,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 127107,
   "aniId": null,
   "createdAt": "2020-10-12T16:17:07.000Z",
-  "updatedAt": "2021-06-07T07:26:17.000Z",
+  "updatedAt": "2021-12-07T07:53:15.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://bslogcomic.com/harapeko/index.html"
+      }
+    ],
     "altTitle": [
       "Harapeko na Joushi no I wo Tsukamu Houhou: Sasen-saki wa Kyuutei Madoushi no Senzoku Chef",
       "腹ぺこな上司の胃をつかむ方法 ～左遷先は宮廷魔導師〈まじゅつし〉の専属シェフ～"
@@ -36,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-07T05:20:26.000Z",
-    "updatedAt": "2021-06-07T05:20:26.000Z",
+    "updatedAt": "2021-12-07T05:47:22.000Z",
     "deletedAt": null
   },
   "Anilist": null,

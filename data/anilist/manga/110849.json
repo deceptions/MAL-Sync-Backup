@@ -26,7 +26,57 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-25T05:08:19.000Z",
-  "updatedAt": "2021-06-21T14:26:42.000Z",
+  "updatedAt": "2021-12-06T18:48:03.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "c9179617-e493-463d-9672-c162bfacccbc": {
+        "authors": [
+          "Lee Hyunmin",
+          "JQ",
+          "여강현"
+        ],
+        "identifier": "c9179617-e493-463d-9672-c162bfacccbc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Such a Cute Spy",
+        "url": "https://mangadex.org/title/c9179617-e493-463d-9672-c162bfacccbc",
+        "image": "https://uploads.mangadex.org/covers/c9179617-e493-463d-9672-c162bfacccbc/e4f9252f-96f7-4b15-bda0-80ef75823d71.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 110849,
+        "createdAt": "2020-10-12T16:15:57.000Z",
+        "updatedAt": "2021-12-10T11:48:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kk987419": {
+        "authors": [
+          "Lee Hyun-Min",
+          "Ganghyeon Yeo",
+          "Life Of Ruin",
+          "여강현"
+        ],
+        "identifier": "manga-kk987419",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Such A Cute Spy",
+        "url": "https://readmanganato.com/manga-kk987419",
+        "image": "https://avt.mkklcdnv6temp.com/46/y/22-1608266890.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 110849,
+        "createdAt": "2021-06-01T15:31:50.000Z",
+        "updatedAt": "2021-12-01T15:55:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

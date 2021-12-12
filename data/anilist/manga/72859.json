@@ -23,9 +23,9 @@
     "Mangadex": {
       "53400aad-a765-4bdf-b73d-dcadc38b2f05": {
         "authors": [
-          "Nishikawa Hideaki",
           "Nagai Go",
-          "Ishikawa Ken"
+          "Ishikawa Ken",
+          "Nishikawa Hideaki"
         ],
         "identifier": "53400aad-a765-4bdf-b73d-dcadc38b2f05",
         "type": "manga",
@@ -33,14 +33,14 @@
         "title": "Apocrypha Getter Robo Darkness",
         "url": "https://mangadex.org/title/53400aad-a765-4bdf-b73d-dcadc38b2f05",
         "image": "https://uploads.mangadex.org/covers/53400aad-a765-4bdf-b73d-dcadc38b2f05/c61761e3-062a-49b3-ac89-6fa2452fbdb6.jpg",
-        "hentai": false,
+        "hentai": true,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 42859,
         "aniId": 72859,
         "createdAt": "2020-10-12T16:10:26.000Z",
-        "updatedAt": "2021-06-05T00:51:08.000Z",
+        "updatedAt": "2021-12-05T01:20:10.000Z",
         "deletedAt": null
       }
     },

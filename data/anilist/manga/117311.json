@@ -17,7 +17,52 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-01T15:34:20.000Z",
-  "updatedAt": "2021-08-30T19:06:35.000Z",
+  "updatedAt": "2021-12-07T21:34:38.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "e2148c01-73f1-4726-abaa-500dabd228b3": {
+        "authors": [
+          "Bless"
+        ],
+        "identifier": "e2148c01-73f1-4726-abaa-500dabd228b3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Love Under the Sunset",
+        "url": "https://mangadex.org/title/e2148c01-73f1-4726-abaa-500dabd228b3",
+        "image": "https://uploads.mangadex.org/covers/e2148c01-73f1-4726-abaa-500dabd228b3/d2574626-8ed4-455e-970c-1a5cc44e832a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 117311,
+        "createdAt": "2020-10-12T16:18:55.000Z",
+        "updatedAt": "2021-12-10T11:48:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ik985593": {
+        "authors": [
+          "Bless"
+        ],
+        "identifier": "manga-ik985593",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Love Under The Sunset",
+        "url": "https://manganato.com/manga-ik985593",
+        "image": "https://avt.mkklcdnv6temp.com/22/o/21-1590952479.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 117311,
+        "createdAt": "2021-06-01T15:34:20.000Z",
+        "updatedAt": "2021-12-01T15:55:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

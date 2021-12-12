@@ -1,7 +1,7 @@
 {
   "authors": [
-    "WAGAHARA Satoshi",
-    "SADA Uoji"
+    "Wagahara Satoshi",
+    "Sada Uoji"
   ],
   "identifier": "39d67227-db08-4dc0-b50d-f8d3f3e2ce0a",
   "type": "manga",
@@ -11,14 +11,63 @@
   "image": "https://uploads.mangadex.org/covers/39d67227-db08-4dc0-b50d-f8d3f3e2ce0a/9d08792f-d012-4340-8dc0-36804a258039.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 133007,
+  "aniId": 111234,
   "createdAt": "2020-10-23T22:28:46.000Z",
-  "updatedAt": "2021-06-08T05:32:12.000Z",
+  "updatedAt": "2021-12-08T06:06:51.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_AM07201094010000_68/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%9F%E3%82%89%E3%81%8F%E9%AD%94%E7%8E%8B%E3%81%95%E3%81%BE!"
+      }
+    ],
+    "altTitle": [
+      "はたらく魔王さまのメシ！"
+    ],
+    "authors": [
+      "Wagahara, Satoshi",
+      "Sada, Uoji"
+    ],
+    "id": 133007,
+    "type": "manga",
+    "title": "Hataraku Maou-sama no Meshi!",
+    "url": "https://myanimelist.net/manga/133007/Hataraku_Maou-sama_no_Meshi",
+    "image": "https://cdn.myanimelist.net/images/manga/1/240134.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T06:06:51.000Z",
+    "updatedAt": "2021-12-08T06:06:51.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "はたらく魔王さまのメシ！"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Satoshi Wagahara",
+      "Uoji Sada",
+      "029"
+    ],
+    "id": 111234,
+    "malId": 133007,
+    "type": "manga",
+    "title": "Hataraku Maou-sama no Meshi!",
+    "url": "https://anilist.co/manga/111234",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111234-KTdA0s7DqmWe.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T06:06:33.000Z",
+    "updatedAt": "2021-12-08T06:06:33.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/133007/Hataraku_Maou-sama_no_Meshi"
 }

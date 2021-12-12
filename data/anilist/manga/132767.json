@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-23T00:10:50.000Z",
-  "updatedAt": "2021-09-23T00:10:50.000Z",
+  "updatedAt": "2021-12-07T22:33:48.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "4b325add-ce42-4092-9b09-9d8e78c28b71": {
+        "authors": [
+          "Hogeol"
+        ],
+        "identifier": "4b325add-ce42-4092-9b09-9d8e78c28b71",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cut",
+        "url": "https://mangadex.org/title/4b325add-ce42-4092-9b09-9d8e78c28b71",
+        "image": "https://uploads.mangadex.org/covers/4b325add-ce42-4092-9b09-9d8e78c28b71/4e569e2d-f737-48c0-a032-d21ee46cfec4.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 132767,
+        "createdAt": "2020-10-12T16:19:16.000Z",
+        "updatedAt": "2021-12-10T09:54:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

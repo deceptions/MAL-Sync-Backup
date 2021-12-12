@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Hirose Shuu",
-    "Fujimi Yasutaka"
+    "Fujimi Yasutaka",
+    "Shuu Hirose"
   ],
   "identifier": "7e538d58-7927-41fa-af10-9b13a743977b",
   "type": "manga",
@@ -9,17 +9,22 @@
   "title": "Dai Kyochuu Rettou",
   "url": "https://mangadex.org/title/7e538d58-7927-41fa-af10-9b13a743977b",
   "image": "https://uploads.mangadex.org/covers/7e538d58-7927-41fa-af10-9b13a743977b/a68cdcb8-f5ea-4a75-9056-50690d4cd68f.jpg",
-  "hentai": false,
+  "hentai": true,
   "sticky": false,
   "active": true,
   "actor": null,
   "malId": 121730,
   "aniId": 110063,
   "createdAt": "2020-10-12T16:15:46.000Z",
-  "updatedAt": "2021-06-06T16:40:07.000Z",
+  "updatedAt": "2021-12-06T16:48:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://mangacross.jp/comics/daikyochu/1"
+      }
+    ],
     "altTitle": [
       "Die! The Island of Giant Insects",
       "大巨蟲列島"
@@ -36,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:48:07.000Z",
-    "updatedAt": "2021-06-09T23:04:56.000Z",
+    "updatedAt": "2021-12-09T23:33:59.000Z",
     "deletedAt": null
   },
   "Anilist": {

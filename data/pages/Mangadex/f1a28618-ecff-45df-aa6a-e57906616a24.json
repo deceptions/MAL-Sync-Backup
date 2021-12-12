@@ -1,6 +1,6 @@
 {
   "authors": [
-    "YAMAMOTO Atsuji"
+    "Yamamoto Atsuji"
   ],
   "identifier": "f1a28618-ecff-45df-aa6a-e57906616a24",
   "type": "manga",
@@ -11,13 +11,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 116265,
   "createdAt": "2020-12-28T16:22:09.000Z",
-  "updatedAt": "2021-06-08T09:08:23.000Z",
+  "updatedAt": "2021-12-08T14:32:28.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "セイバーキャッツ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Atsuji Yamamoto"
+    ],
+    "id": 116265,
+    "malId": null,
+    "type": "manga",
+    "title": "Saber Cats",
+    "url": "https://anilist.co/manga/116265",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116265-GrikgcrYbLv3.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T10:03:39.000Z",
+    "updatedAt": "2021-12-08T10:03:39.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

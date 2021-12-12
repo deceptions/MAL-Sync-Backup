@@ -1,7 +1,7 @@
 {
   "authors": [
-    "도미",
-    "쇠니"
+    "쇠니",
+    "도미"
   ],
   "identifier": "a190b564-f56b-4bcf-8509-012ac6e032d7",
   "type": "manga",
@@ -12,13 +12,34 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 130457,
   "createdAt": "2021-02-11T18:40:39.000Z",
-  "updatedAt": "2021-06-08T11:08:35.000Z",
+  "updatedAt": "2021-12-08T14:32:17.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Campus Today",
+      "대학, 오늘"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Soe-Ni",
+      "Oneul"
+    ],
+    "id": 130457,
+    "malId": null,
+    "type": "manga",
+    "title": "Daehak, Oneul",
+    "url": "https://anilist.co/manga/130457",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b130457-gbfTA15sCfkT.png",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-05-26T04:08:28.000Z",
+    "updatedAt": "2021-12-08T12:04:39.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

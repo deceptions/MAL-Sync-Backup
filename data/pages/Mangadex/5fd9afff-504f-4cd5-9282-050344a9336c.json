@@ -1,7 +1,7 @@
 {
   "authors": [
-    "NAGASHII Kouhei",
-    "KIRITOMO Masaki"
+    "Kiritomo Masaki",
+    "Nagashii Kouhei"
   ],
   "identifier": "5fd9afff-504f-4cd5-9282-050344a9336c",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 130676,
   "aniId": 120249,
   "createdAt": "2020-10-12T16:17:18.000Z",
-  "updatedAt": "2021-06-07T07:29:33.000Z",
+  "updatedAt": "2021-12-07T07:53:46.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/biggangan/introduction/sayokazu/"
+      }
+    ],
     "altTitle": [
       "僕はまた、君にさよならの数を見る"
     ],
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-25T00:28:39.000Z",
-    "updatedAt": "2021-06-07T06:50:36.000Z",
+    "updatedAt": "2021-12-07T07:16:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -62,7 +62,7 @@
         "malId": 513,
         "aniId": 30513,
         "createdAt": "2020-10-12T16:16:22.000Z",
-        "updatedAt": "2021-06-06T22:00:38.000Z",
+        "updatedAt": "2021-12-06T22:16:51.000Z",
         "deletedAt": null
       },
       "538f4c0a-02fc-4847-9007-48e5122748d8": {
@@ -83,7 +83,29 @@
         "malId": 513,
         "aniId": 30513,
         "createdAt": "2020-10-12T16:16:51.000Z",
-        "updatedAt": "2021-06-07T02:35:09.000Z",
+        "updatedAt": "2021-12-07T02:48:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ag956563": {
+        "authors": [
+          "Kamijyo Akimine"
+        ],
+        "identifier": "manga-ag956563",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Samurai Deeper Kyo",
+        "url": "https://manganato.com/manga-ag956563",
+        "image": "https://avt.mkklcdnv6temp.com/19/o/4-1583470475.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 513,
+        "aniId": 30513,
+        "createdAt": "2021-06-04T17:50:37.000Z",
+        "updatedAt": "2021-12-04T18:53:58.000Z",
         "deletedAt": null
       }
     }

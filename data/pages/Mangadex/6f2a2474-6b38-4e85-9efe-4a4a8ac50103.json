@@ -1,6 +1,5 @@
 {
   "authors": [
-    "",
     "BAMBOOMATES"
   ],
   "identifier": "6f2a2474-6b38-4e85-9efe-4a4a8ac50103",
@@ -12,13 +11,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 142067,
   "createdAt": "2021-01-27T08:40:28.000Z",
-  "updatedAt": "2021-06-08T10:33:56.000Z",
+  "updatedAt": "2021-12-08T14:30:53.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "竹鼠和竹熊"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "BAMBOOMATES"
+    ],
+    "id": 142067,
+    "malId": null,
+    "type": "manga",
+    "title": "Zhushu He Zhuxiong",
+    "url": "https://anilist.co/manga/142067",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b142067-bF9ETrFGNfUi.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T11:33:48.000Z",
+    "updatedAt": "2021-12-08T11:33:48.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -24,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-10-12T11:45:58.000Z",
-  "updatedAt": "2021-10-12T11:45:58.000Z",
+  "updatedAt": "2021-12-11T18:04:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -46,6 +46,28 @@
         "aniId": 137166,
         "createdAt": "2021-10-12T11:45:07.000Z",
         "updatedAt": "2021-10-18T15:36:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "usogui-tokubetsu-hen": {
+        "authors": [
+          "SAKO Toshio"
+        ],
+        "identifier": "usogui-tokubetsu-hen",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Usogui Tokubetsu-hen",
+        "url": "https://mangasee123.com/manga/Usogui-Tokubetsu-hen",
+        "image": "https://cover.nep.li/cover/Usogui-Tokubetsu-hen.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 140835,
+        "aniId": 137166,
+        "createdAt": "2021-12-09T01:04:46.000Z",
+        "updatedAt": "2021-12-11T18:33:41.000Z",
         "deletedAt": null
       }
     }

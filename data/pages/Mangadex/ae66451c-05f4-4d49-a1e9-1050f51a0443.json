@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 134275,
   "aniId": 111246,
   "createdAt": "2020-10-12T16:16:59.000Z",
-  "updatedAt": "2021-06-07T07:19:40.000Z",
+  "updatedAt": "2021-12-07T07:52:47.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://maoh.dengeki.com/try/kaiyoubu/index.html"
+      }
+    ],
     "altTitle": [
       "海洋部へようこそ！"
     ],
@@ -33,7 +38,7 @@
     "category": "One-shot",
     "hentai": false,
     "createdAt": "2021-06-07T07:19:38.000Z",
-    "updatedAt": "2021-06-07T07:19:38.000Z",
+    "updatedAt": "2021-12-07T07:50:44.000Z",
     "deletedAt": null
   },
   "Anilist": {

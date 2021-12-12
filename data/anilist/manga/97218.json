@@ -21,14 +21,14 @@
     "Mangadex": {
       "bea0348c-32e3-40cc-81fe-beb34a6b21ec": {
         "authors": [
-          "SUENOBU Keiko"
+          "Suenobu Keiko"
         ],
         "identifier": "bea0348c-32e3-40cc-81fe-beb34a6b21ec",
         "type": "manga",
         "page": "Mangadex",
-        "title": "Life 2 Giver Taker",
+        "title": "Life 2: Giver Taker",
         "url": "https://mangadex.org/title/bea0348c-32e3-40cc-81fe-beb34a6b21ec",
-        "image": "https://uploads.mangadex.org/covers/bea0348c-32e3-40cc-81fe-beb34a6b21ec/04bee6e6-19b0-4ee1-9b87-af64d015c570.jpg",
+        "image": "https://uploads.mangadex.org/covers/bea0348c-32e3-40cc-81fe-beb34a6b21ec/e92f07ee-06c8-497e-9ddd-5011b5d50ffe.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
@@ -36,7 +36,29 @@
         "malId": 98457,
         "aniId": 97218,
         "createdAt": "2020-10-12T16:14:01.000Z",
-        "updatedAt": "2021-06-06T01:42:48.000Z",
+        "updatedAt": "2021-12-06T01:48:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lm988721": {
+        "authors": [
+          "Keiko Suenobu"
+        ],
+        "identifier": "manga-lm988721",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Life 2: Giver Taker",
+        "url": "https://manganato.com/manga-lm988721",
+        "image": "https://avt.mkklcdnv6temp.com/50/s/23-1617462078.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98457,
+        "aniId": 97218,
+        "createdAt": "2021-06-02T19:00:51.000Z",
+        "updatedAt": "2021-12-02T19:47:35.000Z",
         "deletedAt": null
       }
     }

@@ -25,8 +25,8 @@
     "Mangadex": {
       "8a031424-93f9-4d90-a111-5ec04e80088b": {
         "authors": [
-          "Mutsutake",
-          "Yuuji Yuuji"
+          "Yuuji Yuuji",
+          "Mutsutake"
         ],
         "identifier": "8a031424-93f9-4d90-a111-5ec04e80088b",
         "type": "manga",
@@ -41,7 +41,30 @@
         "malId": 104122,
         "aniId": 119307,
         "createdAt": "2020-10-12T16:18:32.000Z",
-        "updatedAt": "2021-06-07T17:50:58.000Z",
+        "updatedAt": "2021-12-07T18:16:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hf984988": {
+        "authors": [
+          "Yuuji Yuuji",
+          "Mutsutake"
+        ],
+        "identifier": "manga-hf984988",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shou5 Na Kanojo To Otona No Ai",
+        "url": "https://manganato.com/manga-hf984988",
+        "image": "https://avt.mkklcdnv6temp.com/47/d/20-1584938519.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 104122,
+        "aniId": 119307,
+        "createdAt": "2021-06-01T15:38:50.000Z",
+        "updatedAt": "2021-12-01T16:24:17.000Z",
         "deletedAt": null
       }
     },

@@ -15,10 +15,19 @@
   "malId": 119886,
   "aniId": 105129,
   "createdAt": "2020-10-12T16:19:42.000Z",
-  "updatedAt": "2021-06-08T00:49:17.000Z",
+  "updatedAt": "2021-12-08T01:09:44.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.mag-garden.co.jp/utakata/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%9B%87%E5%A4%A9%E3%81%AB%E7%AC%91%E3%81%86"
+      }
+    ],
     "altTitle": [
       "Ephemeral Laughter",
       "泡沫に笑う"
@@ -34,7 +43,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:59.000Z",
-    "updatedAt": "2021-06-07T22:52:56.000Z",
+    "updatedAt": "2021-12-07T23:03:50.000Z",
     "deletedAt": null
   },
   "Anilist": {

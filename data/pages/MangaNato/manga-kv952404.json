@@ -15,10 +15,15 @@
   "malId": 13801,
   "aniId": 43801,
   "createdAt": "2021-06-05T05:49:39.000Z",
-  "updatedAt": "2021-06-05T06:18:57.000Z",
+  "updatedAt": "2021-12-05T06:50:12.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%95%E3%82%BF%E3%83%BC%E3%82%BA_%28%E6%BC%AB%E7%94%BB%29"
+      }
+    ],
     "altTitle": [
       "Drifters",
       "ドリフターズ"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:42:00.000Z",
-    "updatedAt": "2021-06-05T05:49:38.000Z",
+    "updatedAt": "2021-12-05T06:16:16.000Z",
     "deletedAt": null
   },
   "Anilist": {

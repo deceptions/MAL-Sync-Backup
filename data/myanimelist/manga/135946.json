@@ -22,5 +22,28 @@
   "createdAt": "2021-11-24T05:38:01.000Z",
   "updatedAt": "2021-11-24T05:38:01.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a49db837-3ce9-4cba-9800-3b98f2d20760": {
+        "authors": [
+          "Matsuda Hikari"
+        ],
+        "identifier": "a49db837-3ce9-4cba-9800-3b98f2d20760",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koisuru Jibaku-chan",
+        "url": "https://mangadex.org/title/a49db837-3ce9-4cba-9800-3b98f2d20760",
+        "image": "https://uploads.mangadex.org/covers/a49db837-3ce9-4cba-9800-3b98f2d20760/4b6c3ed0-14a2-4177-96a3-4afad43275f6.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135946,
+        "aniId": 138014,
+        "createdAt": "2020-10-12T16:16:40.000Z",
+        "updatedAt": "2021-12-07T19:18:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

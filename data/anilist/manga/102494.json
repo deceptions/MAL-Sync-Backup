@@ -25,9 +25,9 @@
     "Mangadex": {
       "588e9c81-c514-4f42-97b8-473ca01f9163": {
         "authors": [
-          "Tam-U",
           "Neko Works",
-          "Sayori"
+          "Sayori",
+          "Tam-U"
         ],
         "identifier": "588e9c81-c514-4f42-97b8-473ca01f9163",
         "type": "manga",
@@ -38,11 +38,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 120820,
         "aniId": 102494,
         "createdAt": "2020-10-12T16:16:30.000Z",
-        "updatedAt": "2021-06-07T07:48:59.000Z",
+        "updatedAt": "2021-12-07T08:17:43.000Z",
         "deletedAt": null
       }
     }

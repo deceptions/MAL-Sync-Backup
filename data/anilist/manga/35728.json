@@ -18,5 +18,28 @@
   "createdAt": "2021-11-07T22:17:46.000Z",
   "updatedAt": "2021-11-07T22:17:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-qq968325": {
+        "authors": [
+          "Taniguchi Tomoko"
+        ],
+        "identifier": "manga-qq968325",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Popcorn Romance",
+        "url": "https://manganato.com/manga-qq968325",
+        "image": "https://avt.mkklcdnv6temp.com/7/t/12-1583486108.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5728,
+        "aniId": 35728,
+        "createdAt": "2021-12-07T08:46:10.000Z",
+        "updatedAt": "2021-12-07T09:16:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

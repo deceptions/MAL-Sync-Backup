@@ -26,7 +26,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:03.000Z",
-  "updatedAt": "2021-10-03T19:01:52.000Z",
+  "updatedAt": "2021-12-10T00:04:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -134,6 +134,26 @@
         "aniId": 68105,
         "createdAt": "2021-05-28T18:55:15.000Z",
         "updatedAt": "2021-11-28T19:36:04.000Z",
+        "deletedAt": null
+      },
+      "manga-zg976363": {
+        "authors": [
+          "Takashima Hiromi"
+        ],
+        "identifier": "manga-zg976363",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yamada To Kase-San",
+        "url": "https://manganato.com/manga-zg976363",
+        "image": "https://avt.mkklcdnv6temp.com/24/n/15-1583492336.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38105,
+        "aniId": 68105,
+        "createdAt": "2021-06-01T17:31:15.000Z",
+        "updatedAt": "2021-12-01T18:16:55.000Z",
         "deletedAt": null
       }
     }

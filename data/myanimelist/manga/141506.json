@@ -22,5 +22,29 @@
   "createdAt": "2021-11-22T23:06:17.000Z",
   "updatedAt": "2021-11-22T23:06:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "63ea21e4-5ea8-4f73-87e1-ddf10563650c": {
+        "authors": [
+          "Nora Usagi",
+          "Suya Maromi"
+        ],
+        "identifier": "63ea21e4-5ea8-4f73-87e1-ddf10563650c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nyanta to Pomeko ~Imasara Shinjiteiru to Iwarete mo Mouteokureda~",
+        "url": "https://mangadex.org/title/63ea21e4-5ea8-4f73-87e1-ddf10563650c",
+        "image": "https://uploads.mangadex.org/covers/63ea21e4-5ea8-4f73-87e1-ddf10563650c/0581a275-c611-46a9-b970-2c36e20fb454.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 141506,
+        "aniId": 139966,
+        "createdAt": "2021-10-18T03:58:45.000Z",
+        "updatedAt": "2021-12-09T16:17:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

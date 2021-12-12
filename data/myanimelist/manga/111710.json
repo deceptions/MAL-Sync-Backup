@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%83%B3%E3%82%AC%E3%83%BCZ"
+    }
+  ],
   "altTitle": [
     "マジンガーＺ アルターイグニッション"
   ],
@@ -15,14 +20,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-05T03:49:29.000Z",
-  "updatedAt": "2021-06-05T03:49:29.000Z",
+  "updatedAt": "2021-12-05T04:18:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "1c9e393b-8104-479b-ac1e-bce87d7383d3": {
         "authors": [
-          "Kinutani Yuu",
-          "Nagai Go"
+          "Nagai Go",
+          "Yuu Kinutani"
         ],
         "identifier": "1c9e393b-8104-479b-ac1e-bce87d7383d3",
         "type": "manga",
@@ -33,11 +38,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 111710,
         "aniId": null,
         "createdAt": "2020-10-12T16:10:50.000Z",
-        "updatedAt": "2021-06-05T08:48:21.000Z",
+        "updatedAt": "2021-12-05T09:22:21.000Z",
         "deletedAt": null
       }
     }

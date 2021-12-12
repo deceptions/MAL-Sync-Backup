@@ -22,5 +22,35 @@
   "createdAt": "2021-12-03T18:16:56.000Z",
   "updatedAt": "2021-12-03T18:16:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "7d852cb6-1879-43b5-a294-5d4cfc71cdb2": {
+        "authors": [
+          "Hinahara Emi",
+          "Bonryu",
+          "Yakiniku Teishoku",
+          "Kodama Naoko",
+          "Suto",
+          "Shiratama Moti",
+          "Kanroame",
+          "Aoto Hibiki"
+        ],
+        "identifier": "7d852cb6-1879-43b5-a294-5d4cfc71cdb2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Futago Yuri Ecchi Anthology",
+        "url": "https://mangadex.org/title/7d852cb6-1879-43b5-a294-5d4cfc71cdb2",
+        "image": "https://uploads.mangadex.org/covers/7d852cb6-1879-43b5-a294-5d4cfc71cdb2/7fd50184-cf18-44f4-8776-6f2d80c7e894.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 137035,
+        "aniId": 120741,
+        "createdAt": "2020-10-12T16:19:18.000Z",
+        "updatedAt": "2021-12-08T09:27:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

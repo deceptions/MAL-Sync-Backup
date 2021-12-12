@@ -11,13 +11,50 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 138475,
+  "aniId": 127750,
   "createdAt": "2021-02-09T06:40:32.000Z",
-  "updatedAt": "2021-06-08T11:04:52.000Z",
+  "updatedAt": "2021-12-08T14:33:38.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "ルリドラゴン"
+    ],
+    "authors": [
+      "Shindou, Masaoki"
+    ],
+    "id": 138475,
+    "type": "manga",
+    "title": "Ruri Dragon",
+    "url": "https://myanimelist.net/manga/138475/Ruri_Dragon",
+    "image": "https://cdn.myanimelist.net/images/manga/3/247766.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "createdAt": "2021-12-08T12:04:08.000Z",
+    "updatedAt": "2021-12-08T12:04:08.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ルリドラゴン"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shindou Masaoki"
+    ],
+    "id": 127750,
+    "malId": 138475,
+    "type": "manga",
+    "title": "Ruri Dragon",
+    "url": "https://anilist.co/manga/127750",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127750-Vm69JcA15G80.png",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-07-07T08:59:52.000Z",
+    "updatedAt": "2021-07-07T08:59:52.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/138475/Ruri_Dragon"
 }

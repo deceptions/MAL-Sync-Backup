@@ -6,9 +6,9 @@
   "identifier": "70a1a115-a0c9-46b8-9310-65873e5fbb55",
   "type": "manga",
   "page": "Mangadex",
-  "title": "COMIC Aku no Musume",
+  "title": "Comic Aku No Musume",
   "url": "https://mangadex.org/title/70a1a115-a0c9-46b8-9310-65873e5fbb55",
-  "image": "https://uploads.mangadex.org/covers/70a1a115-a0c9-46b8-9310-65873e5fbb55/e8b63594-c699-40a2-b09a-d2c296b1b105.jpg",
+  "image": "https://uploads.mangadex.org/covers/70a1a115-a0c9-46b8-9310-65873e5fbb55/a62b7027-0a24-43b0-97a4-b756e249e19c.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
@@ -16,10 +16,19 @@
   "malId": 89056,
   "aniId": 94874,
   "createdAt": "2020-10-12T16:11:13.000Z",
-  "updatedAt": "2021-06-05T08:38:44.000Z",
+  "updatedAt": "2021-12-05T08:48:59.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://akunomusume-comic.com/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+      }
+    ],
     "altTitle": [
       "Daughter of Evil",
       "COMIC悪ノ娘"
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-05T06:49:17.000Z",
-    "updatedAt": "2021-06-05T06:49:17.000Z",
+    "updatedAt": "2021-12-05T07:16:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

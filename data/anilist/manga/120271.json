@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-01T21:31:16.000Z",
-  "updatedAt": "2021-08-09T11:39:16.000Z",
+  "updatedAt": "2021-12-07T21:34:28.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "1d735f8d-cb91-4dd5-925f-e0eb97259e4a": {
+        "authors": [
+          "MEPI"
+        ],
+        "identifier": "1d735f8d-cb91-4dd5-925f-e0eb97259e4a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Duke's Private Tutor",
+        "url": "https://mangadex.org/title/1d735f8d-cb91-4dd5-925f-e0eb97259e4a",
+        "image": "https://uploads.mangadex.org/covers/1d735f8d-cb91-4dd5-925f-e0eb97259e4a/812720f0-85e9-4fcc-a0cd-1e111cf5fe9a.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120271,
+        "createdAt": "2020-10-12T16:18:52.000Z",
+        "updatedAt": "2021-12-10T09:53:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

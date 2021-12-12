@@ -30,7 +30,7 @@
   "hentai": false,
   "anidbId": 16054,
   "createdAt": "2021-02-15T17:36:04.000Z",
-  "updatedAt": "2021-11-04T21:34:49.000Z",
+  "updatedAt": "2021-12-05T04:47:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {
@@ -46,9 +46,28 @@
         "active": true,
         "actor": 1,
         "malId": 47778,
-        "aniId": 129874,
+        "aniId": 142329,
         "createdAt": "2021-02-14T13:06:06.000Z",
-        "updatedAt": "2021-05-20T15:25:21.000Z",
+        "updatedAt": "2021-12-11T17:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "vpml": {
+        "identifier": "vpml",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kimetsu no Yaiba 2",
+        "url": "https://9anime.to/watch/demon-slayer-kimetsu-no-yaiba-2.vpml",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/63/63a054a36083c675b53f03c73ea77f8d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 47778,
+        "aniId": 142329,
+        "createdAt": "2021-02-15T17:36:25.000Z",
+        "updatedAt": "2021-12-06T09:48:53.000Z",
         "deletedAt": null
       }
     },

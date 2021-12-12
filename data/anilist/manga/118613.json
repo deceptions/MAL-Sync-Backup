@@ -12,11 +12,34 @@
   "type": "manga",
   "title": "Yeonaesoseol Ingneun Gyosu",
   "url": "https://anilist.co/manga/118613",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118613-sTToIIgbr79P.png",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx118613-JI5tVCAVENiV.jpg",
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T03:20:21.000Z",
-  "updatedAt": "2021-06-21T15:26:53.000Z",
+  "updatedAt": "2021-12-06T18:46:10.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "d8ea47e9-0d6e-4fdd-b5b8-8198b24ec97f": {
+        "authors": [
+          "Angram"
+        ],
+        "identifier": "d8ea47e9-0d6e-4fdd-b5b8-8198b24ec97f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Professor Who Reads Love Stories",
+        "url": "https://mangadex.org/title/d8ea47e9-0d6e-4fdd-b5b8-8198b24ec97f",
+        "image": "https://uploads.mangadex.org/covers/d8ea47e9-0d6e-4fdd-b5b8-8198b24ec97f/947a674e-e711-42dc-afe5-383deb794e2f.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 118613,
+        "createdAt": "2020-10-12T16:16:54.000Z",
+        "updatedAt": "2021-12-10T09:53:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

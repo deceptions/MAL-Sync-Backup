@@ -19,7 +19,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-23T20:08:18.000Z",
-  "updatedAt": "2021-07-04T14:29:51.000Z",
+  "updatedAt": "2021-12-06T16:17:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-la988757": {
+        "authors": [
+          "Ming"
+        ],
+        "identifier": "manga-la988757",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Raising A Child And Falling In Love",
+        "url": "https://readmanganato.com/manga-la988757",
+        "image": "https://avt.mkklcdnv6temp.com/2/g/24-1617726739.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 125815,
+        "createdAt": "2021-12-06T16:17:41.000Z",
+        "updatedAt": "2021-12-06T16:17:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -15,7 +15,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-11-01T20:04:40.000Z",
-  "updatedAt": "2021-11-01T20:04:40.000Z",
+  "updatedAt": "2021-12-09T06:03:49.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "8bec9151-d186-4f67-8af7-8fea11c1b631": {
+        "authors": [
+          "Makoto Yoshida"
+        ],
+        "identifier": "8bec9151-d186-4f67-8af7-8fea11c1b631",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nurarihyon no Hanayome",
+        "url": "https://mangadex.org/title/8bec9151-d186-4f67-8af7-8fea11c1b631",
+        "image": "https://uploads.mangadex.org/covers/8bec9151-d186-4f67-8af7-8fea11c1b631/e41d80a0-ad75-4aa0-8b40-c17f9baad298.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 133462,
+        "createdAt": "2021-12-09T13:03:38.000Z",
+        "updatedAt": "2021-12-09T13:03:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

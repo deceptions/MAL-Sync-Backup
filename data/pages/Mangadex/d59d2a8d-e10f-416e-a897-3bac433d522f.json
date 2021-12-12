@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Coin (동전)",
-    "Siya (시야)"
+    "Siya (시야)",
+    "Coin (동전)"
   ],
   "identifier": "d59d2a8d-e10f-416e-a897-3bac433d522f",
   "type": "manga",
@@ -12,59 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 357,
-  "aniId": 30357,
+  "actor": 1,
+  "malId": null,
+  "aniId": 109257,
   "createdAt": "2020-10-12T16:15:27.000Z",
-  "updatedAt": "2021-06-06T13:57:09.000Z",
+  "updatedAt": "2021-12-10T11:48:38.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": null,
-    "altTitle": [
-      "Wolf's Rain",
-      "WOLF'S RAIN"
-    ],
-    "authors": [
-      "Nobumoto, Keiko",
-      "Iida, Toshitsugu"
-    ],
-    "id": 357,
-    "type": "manga",
-    "title": "Wolf's Rain",
-    "url": "https://myanimelist.net/manga/357/Wolfs_Rain",
-    "image": "https://cdn.myanimelist.net/images/manga/2/181408.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:40:21.000Z",
-    "updatedAt": "2021-07-18T09:03:23.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "Wolf's Rain",
-      "ウルフズ・レイン"
+      "Sica Wolf",
+      "시카 울프",
+      "Sika Ulpeu",
+      "シーカウルフ"
     ],
-    "externalLinks": [
-      {
-        "site": "VIZ",
-        "url": "https://www.viz.com/wolf-s-rain"
-      }
-    ],
+    "externalLinks": [],
     "authors": [
-      "Keiko Nobumoto",
-      "Toshitsugu Iida"
+      "Coin",
+      "Siya"
     ],
-    "id": 30357,
-    "malId": 357,
+    "id": 109257,
+    "malId": null,
     "type": "manga",
-    "title": "Wolf's Rain",
-    "url": "https://anilist.co/manga/30357",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b30357-qZe4tSHENTeE.jpg",
+    "title": "Sica Wolf",
+    "url": "https://anilist.co/manga/109257",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx109257-0jcaba0fhSuX.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:35:31.000Z",
-    "updatedAt": "2021-06-17T08:24:35.000Z",
+    "createdAt": "2021-05-22T01:12:58.000Z",
+    "updatedAt": "2021-12-06T14:47:30.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/357/Wolfs_Rain"
+  "malUrl": ""
 }

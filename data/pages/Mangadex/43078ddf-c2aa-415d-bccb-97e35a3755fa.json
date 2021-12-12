@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Itou Shouta",
-    "Inoryuu Hajime"
+    "Inoryuu Hajime",
+    "Itou Shouta"
   ],
   "identifier": "43078ddf-c2aa-415d-bccb-97e35a3755fa",
   "type": "manga",
@@ -16,10 +16,19 @@
   "malId": 115746,
   "aniId": 106867,
   "createdAt": "2020-10-12T16:14:44.000Z",
-  "updatedAt": "2021-06-06T07:36:52.000Z",
+  "updatedAt": "2021-12-06T07:48:27.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://yanmaga.jp/c/shinainarubokuhe/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E8%A6%AA%E6%84%9B%E3%81%AA%E3%82%8B%E5%83%95%E3%81%B8%E6%AE%BA%E6%84%8F%E3%82%92%E3%81%93%E3%82%81%E3%81%A6"
+      }
+    ],
     "altTitle": [
       "My Dearest Self With Malice Aforethought",
       "親愛なる僕へ殺意をこめて"
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:39.000Z",
-    "updatedAt": "2021-09-24T21:15:27.000Z",
+    "updatedAt": "2021-12-09T17:04:11.000Z",
     "deletedAt": null
   },
   "Anilist": {

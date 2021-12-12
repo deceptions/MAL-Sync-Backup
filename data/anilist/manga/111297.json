@@ -39,7 +39,7 @@
         "malId": 121919,
         "aniId": 111297,
         "createdAt": "2020-10-12T16:17:00.000Z",
-        "updatedAt": "2021-06-07T04:00:01.000Z",
+        "updatedAt": "2021-12-07T04:16:44.000Z",
         "deletedAt": null
       },
       "694a7bf9-6212-4edc-90bf-da0b60df4500": {
@@ -59,7 +59,7 @@
         "malId": 121919,
         "aniId": 111297,
         "createdAt": "2020-10-12T16:17:39.000Z",
-        "updatedAt": "2021-06-07T09:34:32.000Z",
+        "updatedAt": "2021-12-07T09:47:02.000Z",
         "deletedAt": null
       },
       "8ebc75c4-3c6a-4aa4-9302-6dc8ac54d4a4": {
@@ -79,7 +79,7 @@
         "malId": 121919,
         "aniId": 111297,
         "createdAt": "2020-10-12T16:17:40.000Z",
-        "updatedAt": "2021-06-07T09:37:12.000Z",
+        "updatedAt": "2021-12-07T09:47:11.000Z",
         "deletedAt": null
       }
     },
@@ -101,7 +101,7 @@
         "malId": 121919,
         "aniId": 111297,
         "createdAt": "2021-01-02T22:50:41.000Z",
-        "updatedAt": "2021-06-07T14:05:48.000Z",
+        "updatedAt": "2021-12-07T14:19:08.000Z",
         "deletedAt": null
       }
     },
@@ -128,6 +128,26 @@
       }
     },
     "MangaNato": {
+      "manga-gw983505": {
+        "authors": [
+          "Tawara Kyohei"
+        ],
+        "identifier": "manga-gw983505",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The City Of Imprisoned Love",
+        "url": "https://manganato.com/manga-gw983505",
+        "image": "https://avt.mkklcdnv6temp.com/41/e/19-1583500673.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121919,
+        "aniId": 111297,
+        "createdAt": "2021-06-04T16:53:50.000Z",
+        "updatedAt": "2021-12-04T17:55:44.000Z",
+        "deletedAt": null
+      },
       "manga-fj982892": {
         "authors": [
           "Kyohei Tawara"
@@ -145,7 +165,7 @@
         "malId": 121919,
         "aniId": 111297,
         "createdAt": "2021-06-06T19:20:51.000Z",
-        "updatedAt": "2021-06-06T19:48:57.000Z",
+        "updatedAt": "2021-12-06T20:18:32.000Z",
         "deletedAt": null
       }
     }

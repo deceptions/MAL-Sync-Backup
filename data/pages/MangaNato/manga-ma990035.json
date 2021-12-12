@@ -14,13 +14,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 142347,
   "createdAt": "2021-11-19T10:14:43.000Z",
-  "updatedAt": "2021-11-19T10:14:43.000Z",
+  "updatedAt": "2021-12-06T09:52:10.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "남주는 정중히 사양하겠습니다!",
+      "I Will Politely Decline the Male Lead!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Salaman",
+      "Ye-Hwon",
+      "Hong-Hye"
+    ],
+    "id": 142347,
+    "malId": null,
+    "type": "manga",
+    "title": "Namjuneun Jeongjunghi Sayanghagetseumnida!",
+    "url": "https://anilist.co/manga/142347",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142347-vanvR9UFNxWM.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-05T14:16:17.000Z",
+    "updatedAt": "2021-12-05T14:16:17.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

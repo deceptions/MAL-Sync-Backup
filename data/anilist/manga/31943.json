@@ -41,6 +41,28 @@
         "updatedAt": "2021-12-04T00:17:37.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "april_4th": {
+        "authors": [
+          "ITSUKI Kaname"
+        ],
+        "identifier": "april_4th",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "April 4th",
+        "url": "https://fanfox.net/manga/april_4th/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3533/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1943,
+        "aniId": 31943,
+        "createdAt": "2021-06-04T01:20:30.000Z",
+        "updatedAt": "2021-12-04T02:22:08.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

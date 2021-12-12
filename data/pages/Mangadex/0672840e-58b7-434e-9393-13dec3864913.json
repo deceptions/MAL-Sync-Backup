@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Katsura Masakazu",
-    "Toriyama Akira"
+    "Toriyama Akira",
+    "Katsura Masakazu"
   ],
   "identifier": "0672840e-58b7-434e-9393-13dec3864913",
   "type": "manga",
@@ -13,12 +13,64 @@
   "sticky": false,
   "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 70403,
+  "aniId": 91172,
   "createdAt": "2020-10-12T16:11:43.000Z",
-  "updatedAt": "2021-06-05T10:30:28.000Z",
+  "updatedAt": "2021-12-06T09:45:33.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%A1%82%E6%AD%A3%E5%92%8C%C3%97%E9%B3%A5%E5%B1%B1%E6%98%8E%E5%85%B1%E4%BD%9C%E7%9F%AD%E7%B7%A8%E9%9B%86_%E3%82%AB%E3%83%84%E3%83%A9%E3%82%A2%E3%82%AD%E3%83%A9"
+      }
+    ],
+    "altTitle": [
+      "Katsura & Akira Short Stories",
+      "Katsura Masakazu x Toriyama Akira Kyousaku Tanpenshuu",
+      "Sachie-chan Guu!!",
+      "JIYA",
+      "桂正和×鳥山明 共作短編集 カツラアキラ"
+    ],
+    "authors": [
+      "Toriyama, Akira",
+      "Katsura, Masakazu"
+    ],
+    "id": 70403,
+    "type": "manga",
+    "title": "Katsura Akira",
+    "url": "https://myanimelist.net/manga/70403/Katsura_Akira",
+    "image": "https://cdn.myanimelist.net/images/manga/1/120597.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:45:17.000Z",
+    "updatedAt": "2021-12-05T11:17:38.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "桂正和×鳥山明 共作短編集 カツラアキラ",
+      "Katsura & Akira Short Stories",
+      "Katsura Masakazu x Toriyama Akira Kyousaku Tanpenshuu",
+      "Sachie-chan Guu!!",
+      "JIYA"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Masakazu Katsura",
+      "Akira Toriyama"
+    ],
+    "id": 91172,
+    "malId": 70403,
+    "type": "manga",
+    "title": "Katsura Masakazu x Toriyama Akira Kyousaku Tanpenshuu: Katsura Akira",
+    "url": "https://anilist.co/manga/91172",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91172-a13GK9qipeG3.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:51:31.000Z",
+    "updatedAt": "2021-12-05T11:17:38.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/70403/Katsura_Akira"
 }

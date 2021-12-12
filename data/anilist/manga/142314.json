@@ -17,5 +17,28 @@
   "createdAt": "2021-12-04T00:16:16.000Z",
   "updatedAt": "2021-12-04T00:16:16.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "67daa0c6-84c3-4c37-bdd8-1ada578479c3": {
+        "authors": [
+          "Synecdoche"
+        ],
+        "identifier": "67daa0c6-84c3-4c37-bdd8-1ada578479c3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shin Elf-san wa Yaserarenai.",
+        "url": "https://mangadex.org/title/67daa0c6-84c3-4c37-bdd8-1ada578479c3",
+        "image": "https://uploads.mangadex.org/covers/67daa0c6-84c3-4c37-bdd8-1ada578479c3/b3d4539a-48be-42d2-9760-8e645eeeeac5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 142314,
+        "createdAt": "2021-11-28T00:36:14.000Z",
+        "updatedAt": "2021-12-10T09:53:52.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

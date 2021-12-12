@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-05-21T21:12:57.000Z",
-  "updatedAt": "2021-06-21T14:22:31.000Z",
+  "updatedAt": "2021-12-07T00:46:22.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "4835eacb-21fb-4a89-8d80-ea4c630734a4": {
+        "authors": [
+          "Day7",
+          "Evy"
+        ],
+        "identifier": "4835eacb-21fb-4a89-8d80-ea4c630734a4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Behind the Desks",
+        "url": "https://mangadex.org/title/4835eacb-21fb-4a89-8d80-ea4c630734a4",
+        "image": "https://uploads.mangadex.org/covers/4835eacb-21fb-4a89-8d80-ea4c630734a4/8b7d2f24-2edc-43b4-8f16-48526e48bc17.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 109778,
+        "createdAt": "2020-10-12T16:16:35.000Z",
+        "updatedAt": "2021-12-10T11:48:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

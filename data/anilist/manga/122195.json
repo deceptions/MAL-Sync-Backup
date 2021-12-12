@@ -18,5 +18,29 @@
   "createdAt": "2021-05-20T20:12:57.000Z",
   "updatedAt": "2021-11-29T15:05:33.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "97171bdf-dc27-44ca-a6f3-6bb455fe84c7": {
+        "authors": [
+          "Lee Kyung-Min",
+          "Song Joon-Hyuk"
+        ],
+        "identifier": "97171bdf-dc27-44ca-a6f3-6bb455fe84c7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Gangnam Dokkaebi",
+        "url": "https://mangadex.org/title/97171bdf-dc27-44ca-a6f3-6bb455fe84c7",
+        "image": "https://uploads.mangadex.org/covers/97171bdf-dc27-44ca-a6f3-6bb455fe84c7/c5333f6f-af1f-42b3-958b-1dabefbbad46.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 122195,
+        "createdAt": "2020-10-12T16:18:50.000Z",
+        "updatedAt": "2021-12-10T09:54:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

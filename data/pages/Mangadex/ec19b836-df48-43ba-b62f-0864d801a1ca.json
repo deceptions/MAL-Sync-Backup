@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Hiraishi Roku",
     "Hirukuma",
+    "Hiraishi Roku",
     "Tuesday"
   ],
   "identifier": "ec19b836-df48-43ba-b62f-0864d801a1ca",
@@ -13,13 +13,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 136058,
+  "aniId": 130934,
   "createdAt": "2021-02-17T03:50:17.000Z",
-  "updatedAt": "2021-06-08T11:30:27.000Z",
+  "updatedAt": "2021-12-08T14:33:38.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/mangaup/original/salary"
+      }
+    ],
+    "altTitle": [
+      "A Salaryman's Mystery Dungeon",
+      "サラリーマンの不死戯なダンジョン"
+    ],
+    "authors": [
+      "Hiru Kuma",
+      "Tuesday"
+    ],
+    "id": 136058,
+    "type": "manga",
+    "title": "Salaryman no Fushigi na Dungeon",
+    "url": "https://myanimelist.net/manga/136058/Salaryman_no_Fushigi_na_Dungeon",
+    "image": "https://cdn.myanimelist.net/images/manga/1/245790.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T12:05:40.000Z",
+    "updatedAt": "2021-12-08T12:05:40.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "サラリーマンの不死戯なダンジョン",
+      "A Salaryman's Mystery Dungeon",
+      "Sarariiman no Fushigina Dungeon"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tuesday",
+      "Kuma Hiru",
+      "Roku Hiraishi"
+    ],
+    "id": 130934,
+    "malId": 136058,
+    "type": "manga",
+    "title": "Salaryman no Fushigi na Dungeon",
+    "url": "https://anilist.co/manga/130934",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130934-PRS5BjkPl7we.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-01T04:22:55.000Z",
+    "updatedAt": "2021-06-18T12:01:00.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/136058/Salaryman_no_Fushigi_na_Dungeon"
 }

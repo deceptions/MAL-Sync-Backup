@@ -1,6 +1,5 @@
 {
   "authors": [
-    "",
     "Ignorance"
   ],
   "identifier": "9141da81-db39-42f4-9f5b-ce04a78f1264",
@@ -12,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 131411,
   "createdAt": "2021-03-09T15:40:30.000Z",
-  "updatedAt": "2021-06-08T12:28:52.000Z",
+  "updatedAt": "2021-12-08T14:33:30.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Liveta",
+      "리베타"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Muji"
+    ],
+    "id": 131411,
+    "malId": null,
+    "type": "manga",
+    "title": "Liveta",
+    "url": "https://anilist.co/manga/131411",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131411-rZDddowZr8ST.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-06-12T17:08:19.000Z",
+    "updatedAt": "2021-12-08T13:05:39.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

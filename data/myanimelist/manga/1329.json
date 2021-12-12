@@ -64,7 +64,29 @@
         "malId": 1329,
         "aniId": 31329,
         "createdAt": "2020-10-12T16:17:01.000Z",
-        "updatedAt": "2021-06-07T04:04:51.000Z",
+        "updatedAt": "2021-12-07T04:17:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "cactus-secret": {
+        "authors": [
+          "HARUTA Nana"
+        ],
+        "identifier": "cactus-secret",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Cactus's Secret",
+        "url": "https://mangasee123.com/manga/Cactus-Secret",
+        "image": "https://cover.nep.li/cover/Cactus-Secret.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1329,
+        "aniId": 31329,
+        "createdAt": "2021-06-02T06:01:31.000Z",
+        "updatedAt": "2021-12-02T06:47:48.000Z",
         "deletedAt": null
       }
     }

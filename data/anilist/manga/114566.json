@@ -25,8 +25,8 @@
     "Mangadex": {
       "cab847c6-2748-4259-b9f4-c62bffd51311": {
         "authors": [
-          "Akechi Shizuku",
-          "Fuse"
+          "Fuse",
+          "Akechi Shizuku"
         ],
         "identifier": "cab847c6-2748-4259-b9f4-c62bffd51311",
         "type": "manga",
@@ -41,7 +41,7 @@
         "malId": 115842,
         "aniId": 114566,
         "createdAt": "2020-10-12T16:15:54.000Z",
-        "updatedAt": "2021-06-06T17:43:03.000Z",
+        "updatedAt": "2021-12-06T17:48:52.000Z",
         "deletedAt": null
       }
     },
@@ -65,6 +65,29 @@
         "aniId": 114566,
         "createdAt": "2021-01-25T11:13:02.000Z",
         "updatedAt": "2021-11-22T09:12:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-et981776": {
+        "authors": [
+          "Fuse",
+          "Shizuku Akechi"
+        ],
+        "identifier": "manga-et981776",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tensei Shite Mo Shachiku Datta Ken",
+        "url": "https://manganato.com/manga-et981776",
+        "image": "https://avt.mkklcdnv6temp.com/27/l/18-1583498149.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115842,
+        "aniId": 114566,
+        "createdAt": "2021-06-04T23:19:30.000Z",
+        "updatedAt": "2021-12-05T00:21:11.000Z",
         "deletedAt": null
       }
     }

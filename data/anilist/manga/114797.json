@@ -19,5 +19,29 @@
   "createdAt": "2021-08-04T02:47:30.000Z",
   "updatedAt": "2021-10-24T06:58:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "b51058a1-08e2-4bf5-b655-a81b233b7203": {
+        "authors": [
+          "Tsubaki Yuzu",
+          "Kanzume Sawa"
+        ],
+        "identifier": "b51058a1-08e2-4bf5-b655-a81b233b7203",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Minato Shoji Koinrandori",
+        "url": "https://mangadex.org/title/b51058a1-08e2-4bf5-b655-a81b233b7203",
+        "image": "https://uploads.mangadex.org/covers/b51058a1-08e2-4bf5-b655-a81b233b7203/4128d3e7-c0e0-4fa2-91ca-6d77da01eb0b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 141211,
+        "aniId": 114797,
+        "createdAt": "2020-12-29T15:23:06.000Z",
+        "updatedAt": "2021-12-08T14:33:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

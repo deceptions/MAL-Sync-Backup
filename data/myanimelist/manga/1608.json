@@ -45,6 +45,28 @@
         "updatedAt": "2021-12-02T08:17:29.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "guyver": {
+        "authors": [
+          "TAKAYA Yoshiki"
+        ],
+        "identifier": "guyver",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Guyver",
+        "url": "https://fanfox.net/manga/guyver/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/259/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 1608,
+        "aniId": 31608,
+        "createdAt": "2021-06-03T01:01:02.000Z",
+        "updatedAt": "2021-12-03T09:16:08.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

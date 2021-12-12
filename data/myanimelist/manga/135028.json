@@ -40,11 +40,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 135028,
         "aniId": 127224,
         "createdAt": "2020-10-12T16:19:27.000Z",
-        "updatedAt": "2021-06-08T00:46:08.000Z",
+        "updatedAt": "2021-12-08T01:09:22.000Z",
         "deletedAt": null
       }
     },
@@ -90,6 +90,29 @@
         "aniId": 127224,
         "createdAt": "2021-01-07T07:04:29.000Z",
         "updatedAt": "2021-11-28T15:05:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jc987285": {
+        "authors": [
+          "Hozumi Mitaka",
+          "Kaidou Jeiichi"
+        ],
+        "identifier": "manga-jc987285",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Welcome To The Impregnable Demon King Castle ~The Black Mage Who Got Kicked Out Of The Hero Party Due To His Unnecessary Debuffs Gets Welcomed By The Top Brass Of The Demon King's Army~",
+        "url": "https://manganato.com/manga-jc987285",
+        "image": "https://avt.mkklcdnv6temp.com/41/l/22-1606536873.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 135028,
+        "aniId": 127224,
+        "createdAt": "2021-05-28T20:24:33.000Z",
+        "updatedAt": "2021-12-02T15:50:02.000Z",
         "deletedAt": null
       }
     }

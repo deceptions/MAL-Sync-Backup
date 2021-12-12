@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 91840,
   "createdAt": "2020-10-12T16:13:42.000Z",
-  "updatedAt": "2021-06-05T23:24:09.000Z",
+  "updatedAt": "2021-12-06T09:53:37.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Mango's Bone",
+      "망고의 뼈",
+      "Manggoui Ppyeo"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gold Kiwi",
+      "Tired Vagabond"
+    ],
+    "id": 91840,
+    "malId": null,
+    "type": "manga",
+    "title": "Mango-ui Ppyeo",
+    "url": "https://anilist.co/manga/91840",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx91840-3LAaOsKVX5Hc.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-05T23:49:07.000Z",
+    "updatedAt": "2021-11-21T01:37:25.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

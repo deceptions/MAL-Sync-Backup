@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-25T02:08:18.000Z",
-  "updatedAt": "2021-06-21T14:27:42.000Z",
+  "updatedAt": "2021-12-07T01:46:21.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "7fe9f906-1ba3-46f2-954d-6523efdcbf52": {
+        "authors": [
+          "meeraejoo"
+        ],
+        "identifier": "7fe9f906-1ba3-46f2-954d-6523efdcbf52",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "God Bless You",
+        "url": "https://mangadex.org/title/7fe9f906-1ba3-46f2-954d-6523efdcbf52",
+        "image": "https://uploads.mangadex.org/covers/7fe9f906-1ba3-46f2-954d-6523efdcbf52/ed82825b-8909-4c51-a4b6-64ced520ec56.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 111086,
+        "createdAt": "2020-10-12T16:16:41.000Z",
+        "updatedAt": "2021-12-10T11:47:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -27,9 +27,9 @@
     "Mangadex": {
       "d77d82aa-4d63-4d97-bd37-8578820024af": {
         "authors": [
-          "MSG",
           "Teava",
-          "Hwang DoTol"
+          "Hwang Dotol",
+          "MSG"
         ],
         "identifier": "d77d82aa-4d63-4d97-bd37-8578820024af",
         "type": "manga",
@@ -40,11 +40,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": null,
         "aniId": 121276,
         "createdAt": "2020-10-12T16:20:33.000Z",
-        "updatedAt": "2021-06-08T00:50:19.000Z",
+        "updatedAt": "2021-12-08T01:11:43.000Z",
         "deletedAt": null
       }
     },

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/content/top.php/1000004369"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/C%C3%98DE:BREAKER"
+    }
+  ],
   "altTitle": [
     "CØDE:BREAKER",
     "C0de:Breaker",
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:18.000Z",
-  "updatedAt": "2021-06-09T06:27:43.000Z",
+  "updatedAt": "2021-12-09T06:34:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,28 +69,6 @@
         "aniId": 38341,
         "createdAt": "2021-01-28T03:14:28.000Z",
         "updatedAt": "2021-11-20T18:14:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-vb956136": {
-        "authors": [
-          "Kamijyo Akimine"
-        ],
-        "identifier": "manga-vb956136",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Code: Breaker",
-        "url": "https://manganato.com/manga-vb956136",
-        "image": "https://avt.mkklcdnv6temp.com/4/b/4-1583469819.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 8341,
-        "aniId": 38341,
-        "createdAt": "2021-06-09T06:27:43.000Z",
-        "updatedAt": "2021-06-09T06:35:13.000Z",
         "deletedAt": null
       }
     }

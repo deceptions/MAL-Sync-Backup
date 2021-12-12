@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Makishima Gin",
-    "Cancellara"
+    "Cancellara",
+    "Makishima Gin"
   ],
   "identifier": "829d27e8-3d50-48bc-ab1d-9d1c3bfba615",
   "type": "manga",
@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 136852,
   "createdAt": "2020-10-12T16:18:25.000Z",
-  "updatedAt": "2021-06-07T16:50:59.000Z",
+  "updatedAt": "2021-12-07T19:27:18.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "異世界の貧乏農家に転生したので、レンガを作って城を建てることにしました",
+      "I Was Reincarnated As A Poor Farmer In A Different World, So I Decided To Make Bricks To Build A Castle"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gin Makishima",
+      "Riv",
+      "Cancellara"
+    ],
+    "id": 136852,
+    "malId": null,
+    "type": "manga",
+    "title": "Isekai no Binbou Nouka ni Tensei shita node, Renga wo Tsukutte Shiro wo Tateru Koto ni Shimashita",
+    "url": "https://anilist.co/manga/136852",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136852-P78ebYqukW8s.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-30T22:51:59.000Z",
+    "updatedAt": "2021-12-07T17:46:55.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

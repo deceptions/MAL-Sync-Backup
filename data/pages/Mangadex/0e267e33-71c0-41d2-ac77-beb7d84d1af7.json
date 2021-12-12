@@ -16,10 +16,15 @@
   "malId": 15539,
   "aniId": 45539,
   "createdAt": "2020-10-12T16:11:43.000Z",
-  "updatedAt": "2021-06-05T12:48:51.000Z",
+  "updatedAt": "2021-12-05T13:17:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%88%A6%E5%9B%BDBASARA"
+      }
+    ],
     "altTitle": [
       "TVアニメ戦国BASARA"
     ],
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-11-16T08:15:02.000Z",
-    "updatedAt": "2021-06-05T10:52:09.000Z",
+    "updatedAt": "2021-12-05T11:19:09.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -50,13 +55,13 @@
     "id": 45539,
     "malId": 15539,
     "type": "manga",
-    "title": "Sengoku Basara",
+    "title": "Sengoku BASARA",
     "url": "https://anilist.co/manga/45539",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b45539-NYKoRVl0GINr.jpg",
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-06-05T10:52:09.000Z",
-    "updatedAt": "2021-06-17T15:18:53.000Z",
+    "updatedAt": "2021-12-06T10:46:07.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/15539/Sengoku_Basara"

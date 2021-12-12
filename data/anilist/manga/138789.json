@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-06T02:45:46.000Z",
-  "updatedAt": "2021-09-06T02:45:46.000Z",
+  "updatedAt": "2021-12-08T10:34:38.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "1b83fb05-3ab2-4600-a423-3e8379e55f26": {
+        "authors": [
+          "DDN"
+        ],
+        "identifier": "1b83fb05-3ab2-4600-a423-3e8379e55f26",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Release RED",
+        "url": "https://mangadex.org/title/1b83fb05-3ab2-4600-a423-3e8379e55f26",
+        "image": "https://uploads.mangadex.org/covers/1b83fb05-3ab2-4600-a423-3e8379e55f26/aa37a059-7aa8-41d0-99a4-0800aab94d5b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 138789,
+        "createdAt": "2021-01-14T19:01:51.000Z",
+        "updatedAt": "2021-12-08T14:33:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

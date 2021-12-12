@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-18T22:40:42.000Z",
-  "updatedAt": "2021-09-18T22:40:42.000Z",
+  "updatedAt": "2021-12-08T12:34:49.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "8178a77b-d390-4d37-b346-d3c47a5034c9": {
+        "authors": [
+          "Ironon"
+        ],
+        "identifier": "8178a77b-d390-4d37-b346-d3c47a5034c9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "4P short stories",
+        "url": "https://mangadex.org/title/8178a77b-d390-4d37-b346-d3c47a5034c9",
+        "image": "https://uploads.mangadex.org/covers/8178a77b-d390-4d37-b346-d3c47a5034c9/4e02943f-14fb-42a8-9f93-139a9ae5b06f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 139404,
+        "createdAt": "2021-02-27T14:13:52.000Z",
+        "updatedAt": "2021-12-08T14:33:18.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

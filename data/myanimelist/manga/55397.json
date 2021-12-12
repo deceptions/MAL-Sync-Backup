@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:47.000Z",
-  "updatedAt": "2021-11-08T11:43:45.000Z",
+  "updatedAt": "2021-12-09T21:03:54.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 85387,
         "createdAt": "2020-10-12T16:08:33.000Z",
         "updatedAt": "2021-12-04T11:21:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "bokura-wa-bara-no-ko": {
+        "authors": [
+          "MINAMORI Koyomi"
+        ],
+        "identifier": "bokura-wa-bara-no-ko",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bokura wa Bara no Ko",
+        "url": "https://mangasee123.com/manga/Bokura-Wa-Bara-No-Ko",
+        "image": "https://cover.nep.li/cover/Bokura-Wa-Bara-No-Ko.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 55397,
+        "aniId": 85387,
+        "createdAt": "2021-12-09T21:03:54.000Z",
+        "updatedAt": "2021-12-09T21:33:38.000Z",
         "deletedAt": null
       }
     }

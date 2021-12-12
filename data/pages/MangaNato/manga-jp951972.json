@@ -15,12 +15,19 @@
   "malId": 58209,
   "aniId": 85606,
   "createdAt": "2021-06-05T11:49:18.000Z",
-  "updatedAt": "2021-06-05T12:18:57.000Z",
+  "updatedAt": "2021-12-05T12:51:30.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%9C%80%E5%BC%B7%E4%BC%9D%E8%AA%AC_%E9%BB%92%E6%B2%A2"
+      }
+    ],
     "altTitle": [
-      "New Legend of the Strongest Man Kurosawa, The New Legend of a Strongest Man, The New Kurosawa",
+      "New Legend of the Strongest Man Kurosawa",
+      "The New Legend of a Strongest Man",
+      "The New Kurosawa",
       "新・黒沢 最強伝説"
     ],
     "authors": [
@@ -34,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:44:53.000Z",
-    "updatedAt": "2021-06-05T11:49:17.000Z",
+    "updatedAt": "2021-12-05T12:16:29.000Z",
     "deletedAt": null
   },
   "Anilist": {

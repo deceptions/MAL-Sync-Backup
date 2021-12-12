@@ -24,8 +24,8 @@
     "Mangadex": {
       "5f8b39b3-ae0e-4906-b016-6b35a3e5eb4f": {
         "authors": [
-          "NATANO Hisanori",
-          "Shiryu"
+          "Shiryu",
+          "Natano Hisanori"
         ],
         "identifier": "5f8b39b3-ae0e-4906-b016-6b35a3e5eb4f",
         "type": "manga",
@@ -40,7 +40,7 @@
         "malId": 131484,
         "aniId": 118302,
         "createdAt": "2020-10-12T16:21:43.000Z",
-        "updatedAt": "2021-06-08T02:59:01.000Z",
+        "updatedAt": "2021-12-08T03:09:02.000Z",
         "deletedAt": null
       }
     },
@@ -87,6 +87,29 @@
         "aniId": 118302,
         "createdAt": "2021-03-29T11:20:02.000Z",
         "updatedAt": "2021-11-20T20:46:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-je986913": {
+        "authors": [
+          "Shiryu",
+          "Natano Hisanori"
+        ],
+        "identifier": "manga-je986913",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Reborn As A Phoenix: A Normal Bird Can't Beat A Dragon, Right?",
+        "url": "https://manganato.com/manga-je986913",
+        "image": "https://avt.mkklcdnv6temp.com/26/d/22-1602060951.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131484,
+        "aniId": 118302,
+        "createdAt": "2021-06-04T00:50:13.000Z",
+        "updatedAt": "2021-12-04T01:51:03.000Z",
         "deletedAt": null
       }
     }

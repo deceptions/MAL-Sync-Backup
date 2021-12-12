@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://gaugau.futabanet.jp/list/work/5dd4f2f4776561703f030000"
+    }
+  ],
   "altTitle": [
     "DHM",
     "ダンジョン＋ハーレム＋マスター"
@@ -16,14 +21,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-02-14T16:35:43.000Z",
-  "updatedAt": "2021-06-07T18:06:59.000Z",
+  "updatedAt": "2021-12-07T18:16:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "352104c7-cac2-49fe-a94f-1049df40cadf": {
         "authors": [
-          "Chojiro",
-          "Mishima Chihiro"
+          "Chihiro Mishima",
+          "Chojiro"
         ],
         "identifier": "352104c7-cac2-49fe-a94f-1049df40cadf",
         "type": "manga",
@@ -38,7 +43,7 @@
         "malId": 130663,
         "aniId": 128271,
         "createdAt": "2020-10-12T16:18:31.000Z",
-        "updatedAt": "2021-06-07T19:19:47.000Z",
+        "updatedAt": "2021-12-07T19:50:18.000Z",
         "deletedAt": null
       }
     },
@@ -61,29 +66,6 @@
         "aniId": 128271,
         "createdAt": "2021-02-14T16:35:47.000Z",
         "updatedAt": "2021-11-20T18:44:26.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-jm987069": {
-        "authors": [
-          "Chihiro Mishima",
-          "Chojiro"
-        ],
-        "identifier": "manga-jm987069",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Dhm - Dungeon + Harem + Master",
-        "url": "https://readmanganato.com/manga-jm987069",
-        "image": "https://avt.mkklcdnv6temp.com/32/n/22-1603767924.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 130663,
-        "aniId": 128271,
-        "createdAt": "2021-06-08T07:56:46.000Z",
-        "updatedAt": "2021-06-08T08:25:21.000Z",
         "deletedAt": null
       }
     }

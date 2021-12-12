@@ -48,6 +48,28 @@
         "updatedAt": "2021-12-01T11:07:20.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hellbound": {
+        "authors": [
+          "Yeon Sang-ho"
+        ],
+        "identifier": "hellbound",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hellbound",
+        "url": "https://fanfox.net/manga/hellbound/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/40234/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140567,
+        "aniId": null,
+        "createdAt": "2021-12-05T13:46:10.000Z",
+        "updatedAt": "2021-12-05T13:46:10.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

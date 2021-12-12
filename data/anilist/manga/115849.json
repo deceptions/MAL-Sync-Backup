@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T23:19:30.000Z",
-  "updatedAt": "2021-06-21T14:59:36.000Z",
+  "updatedAt": "2021-12-06T23:46:23.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "356398d7-ace8-4b14-b707-f733ec6b9c37": {
+        "authors": [
+          "Sohee Bom",
+          "Sunhee Kim"
+        ],
+        "identifier": "356398d7-ace8-4b14-b707-f733ec6b9c37",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Haunted Electronics Shop",
+        "url": "https://mangadex.org/title/356398d7-ace8-4b14-b707-f733ec6b9c37",
+        "image": "https://uploads.mangadex.org/covers/356398d7-ace8-4b14-b707-f733ec6b9c37/61cf64d4-a653-42a6-816b-7dade2ef960a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 115849,
+        "createdAt": "2020-10-12T16:16:29.000Z",
+        "updatedAt": "2021-12-10T11:49:05.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

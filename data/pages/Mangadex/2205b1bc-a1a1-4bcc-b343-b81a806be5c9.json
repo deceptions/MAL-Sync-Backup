@@ -11,13 +11,34 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 116963,
   "createdAt": "2020-10-12T16:15:20.000Z",
-  "updatedAt": "2021-06-06T12:44:22.000Z",
+  "updatedAt": "2021-12-07T19:39:58.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "My Ideal Life in Another World",
+      "ボクの理想の異世界生活",
+      "My Ideal Life In A Different World"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ichiri"
+    ],
+    "id": 116963,
+    "malId": null,
+    "type": "manga",
+    "title": "Boku no Risou no Isekai Seikatsu",
+    "url": "https://anilist.co/manga/116963",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116963-CZnVrpILvCUq.png",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-12-06T13:16:59.000Z",
+    "updatedAt": "2021-12-06T13:16:59.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -13,13 +13,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 137969,
   "createdAt": "2021-08-19T08:07:25.000Z",
-  "updatedAt": "2021-12-02T02:16:50.000Z",
+  "updatedAt": "2021-12-07T19:40:03.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "랭커의 귀환",
+      " Ranker’s Return (Remake)",
+      "Ranker's Return (2021)"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Bi-Ram Young",
+      "Jun-Ho Park",
+      "San-Chaek Lee"
+    ],
+    "id": 137969,
+    "malId": null,
+    "type": "manga",
+    "title": "Ranker-ui Gwihwan",
+    "url": "https://anilist.co/manga/137969",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137969-3lgIaXzGgz65.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-16T12:07:10.000Z",
+    "updatedAt": "2021-11-23T19:37:01.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

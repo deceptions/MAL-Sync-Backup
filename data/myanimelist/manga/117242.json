@@ -30,15 +30,15 @@
     "Mangadex": {
       "d14354de-6af5-4b92-825d-47686d3fa145": {
         "authors": [
-          "Ohmori Aoi",
-          "Type-Moon"
+          "Type-Moon",
+          "Ohmori Aoi"
         ],
         "identifier": "d14354de-6af5-4b92-825d-47686d3fa145",
         "type": "manga",
         "page": "Mangadex",
-        "title": "Fate/Grand Order: Epic of Remnant: Pseudo-Singularity IV: The Forbidden Advent Garden, Salem - Heretical Salem",
+        "title": "Fate/Grand Order Epic of Remnant - Ashu Tokuiten IV - Kinki Kourin Teien Salem - Itan naru Salem",
         "url": "https://mangadex.org/title/d14354de-6af5-4b92-825d-47686d3fa145",
-        "image": "https://uploads.mangadex.org/covers/d14354de-6af5-4b92-825d-47686d3fa145/951c1783-4eeb-4ea7-b6b9-bb0fd9c00670.jpg",
+        "image": "https://uploads.mangadex.org/covers/d14354de-6af5-4b92-825d-47686d3fa145/15d157a3-5de4-42bc-956c-917e0fa2acc0.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
@@ -46,7 +46,30 @@
         "malId": 117242,
         "aniId": 107556,
         "createdAt": "2020-10-12T16:16:29.000Z",
-        "updatedAt": "2021-06-06T23:04:48.000Z",
+        "updatedAt": "2021-12-06T23:17:23.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gb983910": {
+        "authors": [
+          "Type-Moon",
+          "Ohmori Aoi"
+        ],
+        "identifier": "manga-gb983910",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fate/grand Order: Epic Of Remnant - Subspecies Singularity Iv: Taboo Advent Salem: Salem Of Heresy",
+        "url": "https://readmanganato.com/manga-gb983910",
+        "image": "https://avt.mkklcdnv6temp.com/6/j/20-1583501249.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 117242,
+        "aniId": 107556,
+        "createdAt": "2021-06-03T05:30:52.000Z",
+        "updatedAt": "2021-12-03T09:16:08.000Z",
         "deletedAt": null
       }
     }

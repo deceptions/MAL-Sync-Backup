@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 123513,
-  "aniId": null,
+  "aniId": 112367,
   "createdAt": "2021-07-30T06:52:58.000Z",
-  "updatedAt": "2021-07-30T06:53:08.000Z",
+  "updatedAt": "2021-12-10T21:33:38.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": null,
@@ -39,6 +39,31 @@
     "updatedAt": "2021-07-30T06:53:08.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Emperor's Lady-in-Waiting Is Wanted as a Bride",
+      "皇帝つき女官は花嫁として望まれ中",
+      "He hopes for the Court Lady of the Emperor as his bride",
+      "The Court Lady of the Emperor Is Hoped for as His Bride",
+      "The Emperor Hopes for the Court Lady as His Bride"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Akari Chikusa",
+      "Satsuki Kanata",
+      "Ichige Yoru"
+    ],
+    "id": 112367,
+    "malId": 123513,
+    "type": "manga",
+    "title": "Kotei-tsuki Jokan wa Hanayome to Shite Nozomare Naka",
+    "url": "https://anilist.co/manga/112367",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx112367-DOoeRgHaVXl8.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-06T22:19:08.000Z",
+    "updatedAt": "2021-12-10T21:03:49.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/123513/Koutei-tsuki_Nyokan_wa_Hanayome_toshite_Nozomarechuu"
 }

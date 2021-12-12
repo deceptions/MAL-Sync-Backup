@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%83%E3%83%80_(%E6%BC%AB%E7%94%BB)"
+    }
+  ],
   "altTitle": [
     "Buddha",
     "ブッダ"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:30.000Z",
-  "updatedAt": "2021-06-08T06:20:56.000Z",
+  "updatedAt": "2021-12-08T06:33:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,28 +64,6 @@
         "aniId": 31111,
         "createdAt": "2021-04-12T10:51:35.000Z",
         "updatedAt": "2021-11-20T21:17:18.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-jp960072": {
-        "authors": [
-          "Tezuka Osamu"
-        ],
-        "identifier": "manga-jp960072",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Buddha",
-        "url": "https://manganato.com/manga-jp960072",
-        "image": "https://avt.mkklcdnv6temp.com/37/p/6-1583475667.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 1111,
-        "aniId": 31111,
-        "createdAt": "2021-06-08T06:20:56.000Z",
-        "updatedAt": "2021-06-08T06:50:16.000Z",
         "deletedAt": null
       }
     }

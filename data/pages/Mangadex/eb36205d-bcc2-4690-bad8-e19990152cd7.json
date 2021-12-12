@@ -1,7 +1,6 @@
 {
   "authors": [
-    "",
-    "rainy season"
+    "Rainy Season"
   ],
   "identifier": "eb36205d-bcc2-4690-bad8-e19990152cd7",
   "type": "manga",
@@ -12,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 134538,
   "createdAt": "2021-01-07T01:34:29.000Z",
-  "updatedAt": "2021-06-08T09:35:16.000Z",
+  "updatedAt": "2021-12-08T14:32:41.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Kiss on the Piano",
+      "펑크 덩크 펑크",
+      "PUNK DUNK FUNK：パンク・ダンク・ファンク"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "JANGMA"
+    ],
+    "id": 134538,
+    "malId": null,
+    "type": "manga",
+    "title": "Punk Dunk Punk",
+    "url": "https://anilist.co/manga/134538",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134538-5wY72sU0xkHB.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-05-24T18:38:18.000Z",
+    "updatedAt": "2021-12-08T10:34:19.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

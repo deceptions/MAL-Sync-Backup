@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/テイルズ_オブ_エクシリア"
+    }
+  ],
   "altTitle": [
-    "テイルズ オブ エクシリア SIDE;JUDE"
+    "テイルズ オブ エクシリア SIDE",
+    "JUDE"
   ],
   "authors": [
     "Bandai-Namco",
@@ -15,13 +21,13 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-05T14:09:32.000Z",
-  "updatedAt": "2021-06-05T14:09:32.000Z",
+  "updatedAt": "2021-12-05T14:17:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "f9888579-8596-4f82-bda7-056d98dfd29a": {
         "authors": [
-          "SATOU Yuuko"
+          "Satou Yuuko"
         ],
         "identifier": "f9888579-8596-4f82-bda7-056d98dfd29a",
         "type": "manga",
@@ -32,11 +38,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
+        "actor": null,
         "malId": 36869,
         "aniId": 66869,
         "createdAt": "2020-10-12T16:12:02.000Z",
-        "updatedAt": "2021-06-05T14:09:35.000Z",
+        "updatedAt": "2021-12-05T14:18:40.000Z",
         "deletedAt": null
       }
     }

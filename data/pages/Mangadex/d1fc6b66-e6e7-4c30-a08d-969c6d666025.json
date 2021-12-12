@@ -1,24 +1,44 @@
 {
   "authors": [
-    "",
     "White Eared"
   ],
   "identifier": "d1fc6b66-e6e7-4c30-a08d-969c6d666025",
   "type": "manga",
   "page": "Mangadex",
-  "title": "From points of three",
+  "title": "From Points of Three",
   "url": "https://mangadex.org/title/d1fc6b66-e6e7-4c30-a08d-969c6d666025",
   "image": "https://uploads.mangadex.org/covers/d1fc6b66-e6e7-4c30-a08d-969c6d666025/4f0954d4-71d5-415c-a14c-139a34573e29.jpg",
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 100434,
   "createdAt": "2020-12-04T05:53:13.000Z",
-  "updatedAt": "2021-06-08T08:07:06.000Z",
+  "updatedAt": "2021-12-08T09:33:56.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "From Points of Three",
+      "세 개의 점",
+      "Se Gae-ui Jeom"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Huin Gwi"
+    ],
+    "id": 100434,
+    "malId": null,
+    "type": "manga",
+    "title": "Se Gaeui Jeom",
+    "url": "https://anilist.co/manga/100434",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/100434-SKSqvcKA607B.png",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-05-29T20:12:13.000Z",
+    "updatedAt": "2021-12-08T09:04:49.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

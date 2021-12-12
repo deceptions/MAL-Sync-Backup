@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-15T21:10:42.000Z",
-  "updatedAt": "2021-11-03T07:35:41.000Z",
+  "updatedAt": "2021-12-08T19:35:10.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "80024c98-4498-4fa6-8328-61ceed882267": {
+        "authors": [
+          "Gwaaen",
+          "Kim Peul"
+        ],
+        "identifier": "80024c98-4498-4fa6-8328-61ceed882267",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Cinderella Wasn’t Me",
+        "url": "https://mangadex.org/title/80024c98-4498-4fa6-8328-61ceed882267",
+        "image": "https://uploads.mangadex.org/covers/80024c98-4498-4fa6-8328-61ceed882267/2c81df28-f35f-46db-ba5c-75ab02567300.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 139293,
+        "createdAt": "2021-10-12T11:46:54.000Z",
+        "updatedAt": "2021-12-09T16:20:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

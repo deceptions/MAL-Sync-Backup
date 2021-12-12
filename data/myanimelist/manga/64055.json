@@ -26,7 +26,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:06.000Z",
-  "updatedAt": "2021-10-27T05:02:08.000Z",
+  "updatedAt": "2021-12-06T16:46:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -70,15 +70,15 @@
         "malId": 64055,
         "aniId": 85417,
         "createdAt": "2020-10-12T16:14:40.000Z",
-        "updatedAt": "2021-06-06T07:04:18.000Z",
+        "updatedAt": "2021-12-06T07:17:37.000Z",
         "deletedAt": null
       },
       "e5355f95-e134-40d4-ac09-d0a9718a6df0": {
         "authors": [
           "Thanos Kyratzis",
-          "Stelios Pliatsikas",
           "Christina Hatzokou(French)",
-          "Viktoria Tsiokou(Spanish)"
+          "Viktoria Tsiokou(Spanish)",
+          "Stelios Pliatsikas"
         ],
         "identifier": "e5355f95-e134-40d4-ac09-d0a9718a6df0",
         "type": "manga",
@@ -93,7 +93,7 @@
         "malId": 64055,
         "aniId": 85417,
         "createdAt": "2020-10-12T16:17:26.000Z",
-        "updatedAt": "2021-06-07T07:34:22.000Z",
+        "updatedAt": "2021-12-07T07:54:25.000Z",
         "deletedAt": null
       }
     },
@@ -117,6 +117,28 @@
         "aniId": 85417,
         "createdAt": "2021-03-10T17:41:10.000Z",
         "updatedAt": "2021-11-20T19:45:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tu951555": {
+        "authors": [
+          "Suu Itin"
+        ],
+        "identifier": "manga-tu951555",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Soredemo Boku Wa Kimi Ga Suki",
+        "url": "https://manganato.com/manga-tu951555",
+        "image": "https://avt.mkklcdnv6temp.com/8/w/1-1583464015.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 64055,
+        "aniId": 85417,
+        "createdAt": "2021-08-02T06:47:54.000Z",
+        "updatedAt": "2021-12-09T16:33:38.000Z",
         "deletedAt": null
       }
     }

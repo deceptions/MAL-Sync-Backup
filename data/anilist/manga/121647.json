@@ -21,7 +21,7 @@
     "Mangadex": {
       "37e8bcef-918f-4220-ac81-53f3a5919304": {
         "authors": [
-          "MIYUKI Mitsubachi"
+          "Miyuki Mitsubachi"
         ],
         "identifier": "37e8bcef-918f-4220-ac81-53f3a5919304",
         "type": "manga",
@@ -36,7 +36,29 @@
         "malId": 131501,
         "aniId": 121647,
         "createdAt": "2020-11-12T15:13:57.000Z",
-        "updatedAt": "2021-06-08T07:03:12.000Z",
+        "updatedAt": "2021-12-08T07:38:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lu988403": {
+        "authors": [
+          "Miyuki Mitsubachi"
+        ],
+        "identifier": "manga-lu988403",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Noraneko To Ookami",
+        "url": "https://manganato.com/manga-lu988403",
+        "image": "https://avt.mkklcdnv6temp.com/37/j/23-1614877073.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131501,
+        "aniId": 121647,
+        "createdAt": "2021-06-04T09:50:00.000Z",
+        "updatedAt": "2021-12-04T10:52:59.000Z",
         "deletedAt": null
       }
     },

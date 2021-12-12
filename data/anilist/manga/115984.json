@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T11:19:38.000Z",
-  "updatedAt": "2021-06-21T15:00:26.000Z",
+  "updatedAt": "2021-12-06T11:46:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "ad813b4c-2110-4523-a81d-9f4af43edf8b": {
+        "authors": [
+          "Liang Teng"
+        ],
+        "identifier": "ad813b4c-2110-4523-a81d-9f4af43edf8b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Mermaid Wears a Dress",
+        "url": "https://mangadex.org/title/ad813b4c-2110-4523-a81d-9f4af43edf8b",
+        "image": "https://uploads.mangadex.org/covers/ad813b4c-2110-4523-a81d-9f4af43edf8b/76ffaab9-2102-4473-87ce-d5dd64810328.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 115984,
+        "createdAt": "2020-10-12T16:15:10.000Z",
+        "updatedAt": "2021-12-10T11:48:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

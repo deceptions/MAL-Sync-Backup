@@ -17,9 +17,33 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-21T17:12:57.000Z",
-  "updatedAt": "2021-06-17T14:27:59.000Z",
+  "updatedAt": "2021-12-07T21:35:10.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "514a0758-37c9-405f-9776-97e29e18ce77": {
+        "authors": [
+          "Donabe",
+          "Horiizumi Inco",
+          "Yoshitaro Hataro"
+        ],
+        "identifier": "514a0758-37c9-405f-9776-97e29e18ce77",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tenshoku no Shinden o Hirakimashita",
+        "url": "https://mangadex.org/title/514a0758-37c9-405f-9776-97e29e18ce77",
+        "image": "https://uploads.mangadex.org/covers/514a0758-37c9-405f-9776-97e29e18ce77/ec251cd8-210e-4d4f-a1b3-8ad3beda9281.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136761,
+        "aniId": 125101,
+        "createdAt": "2020-10-12T16:18:57.000Z",
+        "updatedAt": "2021-12-08T09:34:34.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaSee": {
       "tenshoku-no-shinden-o-hirakimashita": {
         "authors": [

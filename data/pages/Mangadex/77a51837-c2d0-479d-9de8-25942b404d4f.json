@@ -1,24 +1,70 @@
 {
   "authors": [
-    "Meguri",
-    "Keiso"
+    "Keiso",
+    "Meguri"
   ],
   "identifier": "77a51837-c2d0-479d-9de8-25942b404d4f",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Ishura - The New Demon King War",
+  "title": "Ishura - Shin Maou Sensou",
   "url": "https://mangadex.org/title/77a51837-c2d0-479d-9de8-25942b404d4f",
-  "image": "https://uploads.mangadex.org/covers/77a51837-c2d0-479d-9de8-25942b404d4f/01c932b6-b45a-44ac-bd22-dbea6e005404.jpg",
+  "image": "https://uploads.mangadex.org/covers/77a51837-c2d0-479d-9de8-25942b404d4f/d049a173-3e06-4bb0-8e28-6578e960f278.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 137799,
+  "aniId": 130769,
   "createdAt": "2021-03-08T21:40:30.000Z",
-  "updatedAt": "2021-06-08T12:13:44.000Z",
+  "updatedAt": "2021-12-08T14:33:38.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.gmaga.co/comics/isyura"
+      }
+    ],
+    "altTitle": [
+      "Ishura: The New Demon King War",
+      "異修羅－新魔王戦争－"
+    ],
+    "authors": [
+      "Meguri",
+      "Keiso"
+    ],
+    "id": 137799,
+    "type": "manga",
+    "title": "Ishura: Shin Maou Sensou",
+    "url": "https://myanimelist.net/manga/137799/Ishura__Shin_Maou_Sensou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/247865.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T13:05:28.000Z",
+    "updatedAt": "2021-12-08T13:05:28.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "異修羅－新魔王戦争－"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kureta",
+      "Keiso",
+      "Meguri"
+    ],
+    "id": 130769,
+    "malId": 137799,
+    "type": "manga",
+    "title": "Ishura: Shin Maou Sensou",
+    "url": "https://anilist.co/manga/130769",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130769-lp4Xs7nP0lQj.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-17T09:58:02.000Z",
+    "updatedAt": "2021-07-07T03:59:52.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/137799/Ishura__Shin_Maou_Sensou"
 }

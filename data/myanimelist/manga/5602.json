@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://websunday.net/rensai/set_wild.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Wild_Life_(manga)"
+    }
+  ],
   "altTitle": [
     "ワイルドライフ"
   ],
@@ -14,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:06.000Z",
-  "updatedAt": "2021-06-08T05:20:44.000Z",
+  "updatedAt": "2021-12-08T05:33:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,28 +67,6 @@
         "aniId": 35602,
         "createdAt": "2021-01-27T09:39:05.000Z",
         "updatedAt": "2021-11-20T17:45:39.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "wild-life": {
-        "authors": [
-          "FUJISAKI Masato"
-        ],
-        "identifier": "wild-life",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Wild Life",
-        "url": "https://mangasee123.com/manga/Wild-Life",
-        "image": "https://cover.nep.li/cover/Wild-Life.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 5602,
-        "aniId": 35602,
-        "createdAt": "2021-06-08T05:20:46.000Z",
-        "updatedAt": "2021-06-08T05:50:16.000Z",
         "deletedAt": null
       }
     }

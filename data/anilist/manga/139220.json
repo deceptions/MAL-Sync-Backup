@@ -18,5 +18,28 @@
   "createdAt": "2021-09-14T17:34:44.000Z",
   "updatedAt": "2021-11-11T02:43:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "8970a164-83be-4572-bf29-d2d88ee346e2": {
+        "authors": [
+          "Sensiya"
+        ],
+        "identifier": "8970a164-83be-4572-bf29-d2d88ee346e2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Close Sister",
+        "url": "https://mangadex.org/title/8970a164-83be-4572-bf29-d2d88ee346e2",
+        "image": "https://uploads.mangadex.org/covers/8970a164-83be-4572-bf29-d2d88ee346e2/44aebe49-17b2-4f65-9536-bace17c6e5c2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 139220,
+        "createdAt": "2020-10-12T16:17:15.000Z",
+        "updatedAt": "2021-12-07T19:21:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

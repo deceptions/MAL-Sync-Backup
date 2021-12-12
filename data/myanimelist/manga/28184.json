@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%BB%E3%82%A4%E3%82%BA%E3%83%BB%E3%83%9E%E3%83%8D%E3%83%BC"
+    }
+  ],
   "altTitle": [
     "Ijime",
     "ライフ・イズ・マネー"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:29.000Z",
-  "updatedAt": "2021-06-10T11:10:09.000Z",
+  "updatedAt": "2021-12-10T11:34:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -62,28 +67,6 @@
         "aniId": 58184,
         "createdAt": "2021-03-12T20:39:16.000Z",
         "updatedAt": "2021-11-20T19:45:16.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-ki961417": {
-        "authors": [
-          "Asaniji Teru"
-        ],
-        "identifier": "manga-ki961417",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Life Is Money",
-        "url": "https://manganato.com/manga-ki961417",
-        "image": "https://avt.mkklcdnv6temp.com/37/f/7-1583477674.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 28184,
-        "aniId": 58184,
-        "createdAt": "2021-06-10T11:09:09.000Z",
-        "updatedAt": "2021-06-10T11:38:18.000Z",
         "deletedAt": null
       }
     }

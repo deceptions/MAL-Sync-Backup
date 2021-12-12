@@ -12,12 +12,56 @@
   "sticky": false,
   "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 137576,
+  "aniId": 132287,
   "createdAt": "2020-11-28T16:31:24.000Z",
-  "updatedAt": "2021-06-08T08:00:05.000Z",
+  "updatedAt": "2021-12-08T09:33:31.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-polaris.jp/moshimo"
+      }
+    ],
+    "altTitle": [
+      "If I Could Take My Collar Off",
+      "If I Could Take This Collar Off!",
+      "もしも首輪がはずせたならば"
+    ],
+    "authors": [
+      "Tonami, Shou"
+    ],
+    "id": 137576,
+    "type": "manga",
+    "title": "Moshimo Kubiwa ga Hazuseta Nareba",
+    "url": "https://myanimelist.net/manga/137576/Moshimo_Kubiwa_ga_Hazuseta_Nareba",
+    "image": "https://cdn.myanimelist.net/images/manga/1/251096.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T08:35:21.000Z",
+    "updatedAt": "2021-12-08T08:35:21.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "もしも首輪がはずせたならば"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tonamishou"
+    ],
+    "id": 132287,
+    "malId": 137576,
+    "type": "manga",
+    "title": "Moshimo Kubiwa ga Hazuseta Naraba",
+    "url": "https://anilist.co/manga/132287",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132287-uykxgKQlBFVj.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-26T12:38:17.000Z",
+    "updatedAt": "2021-12-08T08:35:21.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/137576/Moshimo_Kubiwa_ga_Hazuseta_Nareba"
 }

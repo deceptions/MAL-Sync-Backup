@@ -11,13 +11,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 138516,
+  "aniId": 129725,
   "createdAt": "2021-06-05T21:20:17.000Z",
-  "updatedAt": "2021-12-04T14:16:16.000Z",
+  "updatedAt": "2021-12-06T10:16:06.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://owl-comic.jp/titles/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%AB/"
+      }
+    ],
+    "altTitle": [
+      "New Normal",
+      "ニューノーマル"
+    ],
+    "authors": [
+      "Aihara, Akito"
+    ],
+    "id": 138516,
+    "type": "manga",
+    "title": "New Normal",
+    "url": "https://myanimelist.net/manga/138516/New_Normal",
+    "image": "https://cdn.myanimelist.net/images/manga/2/247848.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-08-12T04:39:50.000Z",
+    "updatedAt": "2021-12-04T14:16:36.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "New Normal",
+      "ニューノーマル"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Akito Aihara"
+    ],
+    "id": 129725,
+    "malId": 138516,
+    "type": "manga",
+    "title": "New Normal",
+    "url": "https://anilist.co/manga/129725",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx129725-v5b48zANomsn.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T20:44:29.000Z",
+    "updatedAt": "2021-09-04T16:15:46.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/138516/New_Normal"
 }

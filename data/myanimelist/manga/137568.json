@@ -22,6 +22,28 @@
   "updatedAt": "2021-11-26T15:05:52.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "26e1e87e-cf0a-4ba8-ba63-60404a6efbaa": {
+        "authors": [
+          "Natsumi Ruyu"
+        ],
+        "identifier": "26e1e87e-cf0a-4ba8-ba63-60404a6efbaa",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsukihana Otome ha Mouken ga Suki",
+        "url": "https://mangadex.org/title/26e1e87e-cf0a-4ba8-ba63-60404a6efbaa",
+        "image": "https://uploads.mangadex.org/covers/26e1e87e-cf0a-4ba8-ba63-60404a6efbaa/d4fbac02-0f31-4712-8825-26f337d5688c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 137568,
+        "aniId": 127373,
+        "createdAt": "2020-11-23T10:54:17.000Z",
+        "updatedAt": "2021-12-08T09:30:39.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-ko987471": {
         "authors": [
@@ -38,9 +60,9 @@
         "active": true,
         "actor": null,
         "malId": 137568,
-        "aniId": null,
+        "aniId": 127373,
         "createdAt": "2021-07-18T07:33:31.000Z",
-        "updatedAt": "2021-11-26T15:05:43.000Z",
+        "updatedAt": "2021-12-08T09:03:38.000Z",
         "deletedAt": null
       }
     }

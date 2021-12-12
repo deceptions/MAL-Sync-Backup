@@ -11,13 +11,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 134022,
   "createdAt": "2020-10-12T16:21:51.000Z",
-  "updatedAt": "2021-06-08T03:07:50.000Z",
+  "updatedAt": "2021-12-08T09:22:18.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "頼りにされたい市村くん"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yuu"
+    ],
+    "id": 134022,
+    "malId": null,
+    "type": "manga",
+    "title": "Tayori ni Saretai Ichimura-kun",
+    "url": "https://anilist.co/manga/134022",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134022-vgvpRgYvayoH.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-30T04:06:20.000Z",
+    "updatedAt": "2021-12-08T04:03:38.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -17,10 +17,15 @@
   "malId": 58007,
   "aniId": 85199,
   "createdAt": "2021-06-07T16:41:06.000Z",
-  "updatedAt": "2021-06-07T17:03:57.000Z",
+  "updatedAt": "2021-12-07T17:18:02.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA"
+      }
+    ],
     "altTitle": [
       "Attack on Titan: No Regrets",
       "Attack on Titan Side Story: A Choice with No Regrets",
@@ -41,7 +46,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:44:52.000Z",
-    "updatedAt": "2021-09-23T15:11:23.000Z",
+    "updatedAt": "2021-12-07T04:16:31.000Z",
     "deletedAt": null
   },
   "Anilist": {

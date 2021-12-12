@@ -11,13 +11,33 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 137328,
   "createdAt": "2021-02-21T07:33:30.000Z",
-  "updatedAt": "2021-06-08T11:35:22.000Z",
+  "updatedAt": "2021-12-08T14:32:16.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "약속을 지켜줘",
+      "Keep Your Promise  "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sijeo"
+    ],
+    "id": 137328,
+    "malId": null,
+    "type": "manga",
+    "title": "Yaksogeul Jikyeojwo",
+    "url": "https://anilist.co/manga/137328",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137328-VeJuvUEJjZXO.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-08-01T20:47:39.000Z",
+    "updatedAt": "2021-12-08T12:34:18.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

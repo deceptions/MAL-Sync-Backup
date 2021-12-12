@@ -24,8 +24,8 @@
     "Mangadex": {
       "e9ed5277-b224-498e-8938-7808ced82bfb": {
         "authors": [
-          "KODAMA Yuuki",
-          "Maijo Ohtaro"
+          "Maijo Ohtaro",
+          "Kodama Yuuki"
         ],
         "identifier": "e9ed5277-b224-498e-8938-7808ced82bfb",
         "type": "manga",
@@ -40,7 +40,7 @@
         "malId": 125359,
         "aniId": 111355,
         "createdAt": "2020-10-12T16:17:12.000Z",
-        "updatedAt": "2021-06-07T05:43:01.000Z",
+        "updatedAt": "2021-12-07T05:48:24.000Z",
         "deletedAt": null
       }
     },
@@ -64,6 +64,28 @@
         "aniId": 111355,
         "createdAt": "2021-02-06T14:50:11.000Z",
         "updatedAt": "2021-11-20T18:14:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "id_invaded_brake_broken": {
+        "authors": [
+          "MAIJOU Outarou"
+        ],
+        "identifier": "id_invaded_brake_broken",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "ID: INVADED #BRAKE BROKEN",
+        "url": "https://fanfox.net/manga/id_invaded_brake_broken/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32852/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125359,
+        "aniId": 111355,
+        "createdAt": "2021-06-02T00:01:47.000Z",
+        "updatedAt": "2021-12-02T00:47:17.000Z",
         "deletedAt": null
       }
     },

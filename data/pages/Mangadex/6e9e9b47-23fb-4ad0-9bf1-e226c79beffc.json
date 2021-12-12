@@ -15,10 +15,15 @@
   "malId": 110993,
   "aniId": 101040,
   "createdAt": "2020-10-12T16:11:10.000Z",
-  "updatedAt": "2021-06-05T09:05:31.000Z",
+  "updatedAt": "2021-12-05T09:23:10.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.mf-fleur.jp/cb048/"
+      }
+    ],
     "altTitle": [
       "The Signboard Cat of Mikazuki Antique Shop",
       "三日月骨董品店の看板猫"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-05T06:20:39.000Z",
-    "updatedAt": "2021-06-05T06:20:39.000Z",
+    "updatedAt": "2021-12-05T06:48:30.000Z",
     "deletedAt": null
   },
   "Anilist": {

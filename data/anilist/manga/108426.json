@@ -23,7 +23,7 @@
     "Mangadex": {
       "020baff7-1f49-4734-b199-c3451bc9d891": {
         "authors": [
-          "TAMAKI NAO"
+          "Tamaki Nao"
         ],
         "identifier": "020baff7-1f49-4734-b199-c3451bc9d891",
         "type": "manga",
@@ -38,7 +38,7 @@
         "malId": 118422,
         "aniId": 108426,
         "createdAt": "2020-10-12T16:15:22.000Z",
-        "updatedAt": "2021-06-06T13:06:13.000Z",
+        "updatedAt": "2021-12-06T13:18:00.000Z",
         "deletedAt": null
       }
     },
@@ -61,6 +61,28 @@
         "aniId": 108426,
         "createdAt": "2021-03-26T13:50:36.000Z",
         "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hi984917": {
+        "authors": [
+          "Nao Tamaki"
+        ],
+        "identifier": "manga-hi984917",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Jimi Joshi X Osekkai Danshi",
+        "url": "https://manganato.com/manga-hi984917",
+        "image": "https://avt.mkklcdnv6temp.com/44/j/20-1584159597.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 118422,
+        "aniId": 108426,
+        "createdAt": "2021-06-04T16:20:38.000Z",
+        "updatedAt": "2021-12-04T19:24:17.000Z",
         "deletedAt": null
       }
     }

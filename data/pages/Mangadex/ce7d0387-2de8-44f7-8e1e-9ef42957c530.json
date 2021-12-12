@@ -1,6 +1,6 @@
 {
   "authors": [
-    "HATSU Akiko"
+    "Hatsu Akiko"
   ],
   "identifier": "ce7d0387-2de8-44f7-8e1e-9ef42957c530",
   "type": "manga",
@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 128725,
   "aniId": 116018,
   "createdAt": "2020-10-12T16:19:52.000Z",
-  "updatedAt": "2021-06-08T00:37:14.000Z",
+  "updatedAt": "2021-12-08T01:10:03.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%A5%B3%E7%A5%9E%E3%81%95%E3%81%BE%E3%81%A8%E7%A7%81"
+      }
+    ],
     "altTitle": [
       "女神さまと私"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-08T00:37:12.000Z",
-    "updatedAt": "2021-06-08T00:37:12.000Z",
+    "updatedAt": "2021-12-08T01:06:32.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -11,13 +11,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 124150,
+  "aniId": 139946,
   "createdAt": "2020-10-12T16:19:00.000Z",
-  "updatedAt": "2021-06-07T21:03:54.000Z",
+  "updatedAt": "2021-12-08T09:33:38.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.pixiv.net/works/4656"
+      }
+    ],
+    "altTitle": [
+      "Kesaran Nanigashi ja Keitto Shop",
+      "Kesaran Something and the Soup Shop",
+      "ケサランなにがしとスープ屋さん"
+    ],
+    "authors": [
+      "Horii, Yuu"
+    ],
+    "id": 124150,
+    "type": "manga",
+    "title": "Kesaran Nanigashi to Soupya-san",
+    "url": "https://myanimelist.net/manga/124150/Kesaran_Nanigashi_to_Soupya-san",
+    "image": "https://cdn.myanimelist.net/images/manga/3/248858.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-11-18T12:14:26.000Z",
+    "updatedAt": "2021-11-18T12:14:26.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ケサランなにがしとスープ屋さん",
+      "Kesaran Nanigashi ja Keitto Shop",
+      "Kesaran Something and the Soup Shop",
+      "Soupinou"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yuu Horii"
+    ],
+    "id": 139946,
+    "malId": 124150,
+    "type": "manga",
+    "title": "Kesaran Nanigashi to Soupya-san",
+    "url": "https://anilist.co/manga/139946",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139946-yjQW7IGBkhvb.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-03T19:01:03.000Z",
+    "updatedAt": "2021-11-17T03:57:12.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/124150/Kesaran_Nanigashi_to_Soupya-san"
 }

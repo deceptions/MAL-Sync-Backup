@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B0%E3%83%9E%E3%83%AA%E3%82%AA"
+    }
+  ],
   "altTitle": [
     "Pygmalion",
     "ピグマリオ"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:14.000Z",
-  "updatedAt": "2021-07-23T11:22:26.000Z",
+  "updatedAt": "2021-12-07T22:04:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +64,28 @@
         "aniId": 37448,
         "createdAt": "2021-07-23T11:22:19.000Z",
         "updatedAt": "2021-07-23T11:51:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qe953039": {
+        "authors": [
+          "Wada Shinji"
+        ],
+        "identifier": "manga-qe953039",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Pygmalio",
+        "url": "https://manganato.com/manga-qe953039",
+        "image": "https://avt.mkklcdnv6temp.com/9/w/2-1583466083.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7448,
+        "aniId": 37448,
+        "createdAt": "2021-12-07T22:03:49.000Z",
+        "updatedAt": "2021-12-07T22:33:38.000Z",
         "deletedAt": null
       }
     }

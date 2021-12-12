@@ -25,8 +25,8 @@
     "Mangadex": {
       "4ad4b480-aacc-4835-b413-0dbb1cdf436e": {
         "authors": [
-          "Mizuki Sora",
-          "Yuzuhara Teiru"
+          "Yuzuhara Teiru",
+          "Mizuki Sora"
         ],
         "identifier": "4ad4b480-aacc-4835-b413-0dbb1cdf436e",
         "type": "manga",
@@ -41,7 +41,7 @@
         "malId": 120521,
         "aniId": 109103,
         "createdAt": "2020-10-12T16:15:40.000Z",
-        "updatedAt": "2021-06-06T15:55:18.000Z",
+        "updatedAt": "2021-12-06T16:19:24.000Z",
         "deletedAt": null
       }
     },
@@ -65,6 +65,29 @@
         "aniId": 109103,
         "createdAt": "2021-03-12T06:09:13.000Z",
         "updatedAt": "2021-11-20T19:45:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ef981588": {
+        "authors": [
+          "Sora Mizuki",
+          "Teiru Yuzuhara"
+        ],
+        "identifier": "manga-ef981588",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Reborn Witch Foretells Destruction",
+        "url": "https://manganato.com/manga-ef981588",
+        "image": "https://avt.mkklcdnv6temp.com/20/l/18-1583497899.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120521,
+        "aniId": 109103,
+        "createdAt": "2021-06-03T10:19:53.000Z",
+        "updatedAt": "2021-12-03T11:18:28.000Z",
         "deletedAt": null
       }
     },

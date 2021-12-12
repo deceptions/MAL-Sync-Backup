@@ -1,7 +1,7 @@
 {
   "authors": [
     "Masahiro Imamura",
-    "MIYOKAWA Masaru"
+    "Miyokawa Masaru"
   ],
   "identifier": "0ee63521-6eea-45cf-9da0-f72c33e4bf91",
   "type": "manga",
@@ -16,10 +16,19 @@
   "malId": 124446,
   "aniId": 108442,
   "createdAt": "2020-10-12T16:16:05.000Z",
-  "updatedAt": "2021-06-07T07:25:29.000Z",
+  "updatedAt": "2021-12-07T07:50:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://shonenjumpplus.com/episode/10834108156657159045"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E5%B1%8D%E4%BA%BA%E8%8D%98%E3%81%AE%E6%AE%BA%E4%BA%BA"
+      }
+    ],
     "altTitle": [
       "Murders at the House of Death",
       "屍人荘の殺人"
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-06T19:49:28.000Z",
-    "updatedAt": "2021-06-06T19:49:28.000Z",
+    "updatedAt": "2021-12-06T20:17:31.000Z",
     "deletedAt": null
   },
   "Anilist": {

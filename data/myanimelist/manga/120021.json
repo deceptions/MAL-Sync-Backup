@@ -20,7 +20,7 @@
     "Mangadex": {
       "f21ffdcf-53b7-417e-9913-ef5d4cc0b476": {
         "authors": [
-          "ROKUSHOU Kokuu"
+          "Rokushou Kokuu"
         ],
         "identifier": "f21ffdcf-53b7-417e-9913-ef5d4cc0b476",
         "type": "manga",
@@ -35,7 +35,29 @@
         "malId": 120021,
         "aniId": 107115,
         "createdAt": "2020-10-12T16:18:45.000Z",
-        "updatedAt": "2021-06-07T19:51:00.000Z",
+        "updatedAt": "2021-12-07T20:05:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jb986710": {
+        "authors": [
+          "Rokushou Kokuu"
+        ],
+        "identifier": "manga-jb986710",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Isekai Shuppan No Henshuu-San",
+        "url": "https://manganato.com/manga-jb986710",
+        "image": "https://avt.mkklcdnv6temp.com/17/n/22-1600506828.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120021,
+        "aniId": 107115,
+        "createdAt": "2021-06-01T15:46:22.000Z",
+        "updatedAt": "2021-12-01T16:24:17.000Z",
         "deletedAt": null
       }
     }

@@ -31,8 +31,8 @@
     "Mangadex": {
       "601f23b5-1078-4bf2-8cb9-17bec9589e67": {
         "authors": [
-          "KAEDE NOGIWA",
-          "Rifujin na Magonote"
+          "Rifujin na Magonote",
+          "Kaede Nogiwa"
         ],
         "identifier": "601f23b5-1078-4bf2-8cb9-17bec9589e67",
         "type": "manga",
@@ -47,7 +47,7 @@
         "malId": 125735,
         "aniId": 104856,
         "createdAt": "2020-10-12T16:17:22.000Z",
-        "updatedAt": "2021-06-07T07:05:19.000Z",
+        "updatedAt": "2021-12-07T07:17:24.000Z",
         "deletedAt": null
       }
     },
@@ -70,6 +70,49 @@
         "aniId": 104856,
         "createdAt": "2021-01-26T13:12:09.000Z",
         "updatedAt": "2021-11-20T17:45:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gr983574": {
+        "authors": [
+          "Rifujin Na Magonote",
+          "Kaede Nogiwa"
+        ],
+        "identifier": "manga-gr983574",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mushoku Tensei: Even If It's A 4-Koma, I'll Get Serious",
+        "url": "https://readmanganato.com/manga-gr983574",
+        "image": "https://avt.mkklcdnv6temp.com/43/s/19-1583500769.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125735,
+        "aniId": 104856,
+        "createdAt": "2021-06-01T15:33:20.000Z",
+        "updatedAt": "2021-12-01T16:24:17.000Z",
+        "deletedAt": null
+      },
+      "manga-ke987761": {
+        "authors": [
+          "Rifujin Na Magonote"
+        ],
+        "identifier": "manga-ke987761",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mushoku Tensei ~Even If It's A 4-Koma, I'll Get Serious~",
+        "url": "https://readmanganato.com/manga-ke987761",
+        "image": "https://avt.mkklcdnv6temp.com/10/z/23-1611720687.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 125735,
+        "aniId": 104856,
+        "createdAt": "2021-06-01T17:31:19.000Z",
+        "updatedAt": "2021-12-01T19:16:46.000Z",
         "deletedAt": null
       }
     }

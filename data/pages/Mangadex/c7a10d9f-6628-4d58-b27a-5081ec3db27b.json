@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Yugyoji Tama",
-    "Maji Manji"
+    "Maji Manji",
+    "Yugyoji Tama"
   ],
   "identifier": "c7a10d9f-6628-4d58-b27a-5081ec3db27b",
   "type": "manga",
@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 135249,
   "createdAt": "2021-02-02T17:31:46.000Z",
-  "updatedAt": "2021-06-08T10:43:24.000Z",
+  "updatedAt": "2021-12-08T14:32:40.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "貧乏令嬢の勘違い聖女伝　～お金のために努力してたら、王族ハーレムが出来ていました!?～"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tama Yugyouji",
+      "Manzi Mazo",
+      "Kumako Hisama"
+    ],
+    "id": 135249,
+    "malId": null,
+    "type": "manga",
+    "title": "Binbou Reijou no Kanchigai Seijo-den: Okane no Tame ni Doryoku Shitetara, Ouzoku Harem ga Dekite imashita!?",
+    "url": "https://anilist.co/manga/135249",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135249-upMxGJbpjBrj.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-08T12:55:21.000Z",
+    "updatedAt": "2021-12-08T11:35:40.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

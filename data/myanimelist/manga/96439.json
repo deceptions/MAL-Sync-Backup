@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8A%87%E5%A0%B4%E7%89%88MAJOR_%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC_%E5%8F%8B%E6%83%85%E3%81%AE%E4%B8%80%E7%90%83"
+    }
+  ],
   "altTitle": [
-    "Gekijouban Major: Yuujou no Ikkyuu, Major Movie: The Ball of Friendship",
+    "Gekijouban Major: Yuujou no Ikkyuu",
+    "Major Movie: The Ball of Friendship",
     "劇場版MAJOR 友情の一球（ウイニングショット）"
   ],
   "authors": [
@@ -15,13 +21,13 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-05T06:20:39.000Z",
-  "updatedAt": "2021-06-05T06:20:39.000Z",
+  "updatedAt": "2021-12-05T06:48:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "eeef92e9-dda5-4a20-a010-483a3637c0f0": {
         "authors": [
-          "MITSUDA Takuya"
+          "Mitsuda Takuya"
         ],
         "identifier": "eeef92e9-dda5-4a20-a010-483a3637c0f0",
         "type": "manga",
@@ -32,11 +38,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 96439,
         "aniId": null,
         "createdAt": "2020-10-12T16:11:10.000Z",
-        "updatedAt": "2021-06-05T08:59:50.000Z",
+        "updatedAt": "2021-12-05T09:23:10.000Z",
         "deletedAt": null
       }
     }

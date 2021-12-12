@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Nagihashi Coko",
-    "Gacha Sora"
+    "Gacha Sora",
+    "Nagihashi Coko"
   ],
   "identifier": "2b872949-6c7c-4994-87aa-47fbdd60c789",
   "type": "manga",
@@ -12,14 +12,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 134857,
   "aniId": null,
   "createdAt": "2020-10-25T12:17:33.000Z",
-  "updatedAt": "2021-06-08T07:02:22.000Z",
+  "updatedAt": "2021-12-08T07:13:00.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://manga-bang.com/free/waiting_free/danbato202003#/"
+      }
+    ],
     "altTitle": [
       "ダンジョンバトルロワイヤル〜魔王になったので世界統一を目指します〜"
     ],
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-08T06:25:17.000Z",
-    "updatedAt": "2021-06-08T06:25:17.000Z",
+    "updatedAt": "2021-12-08T06:37:41.000Z",
     "deletedAt": null
   },
   "Anilist": null,

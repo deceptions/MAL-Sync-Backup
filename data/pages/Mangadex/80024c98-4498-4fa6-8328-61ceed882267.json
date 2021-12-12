@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 139293,
   "createdAt": "2021-10-12T11:46:54.000Z",
-  "updatedAt": "2021-10-12T11:46:54.000Z",
+  "updatedAt": "2021-12-09T16:20:54.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "신데렐라는 내가 아니었다",
+      "Cinderella Wasn't Me"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "G-ANNE",
+      "Do-Ba"
+    ],
+    "id": 139293,
+    "malId": null,
+    "type": "manga",
+    "title": "Cinderella-neun Naega Anieotda",
+    "url": "https://anilist.co/manga/139293",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139293-Lms0tOyU5Z3l.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-15T21:10:42.000Z",
+    "updatedAt": "2021-12-08T19:35:10.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

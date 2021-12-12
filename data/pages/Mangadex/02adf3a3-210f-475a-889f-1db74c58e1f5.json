@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Amano Kohitsuji",
-    "Fukakutei Waon"
+    "Fukakutei Waon",
+    "Amano Kohitsuji"
   ],
   "identifier": "02adf3a3-210f-475a-889f-1db74c58e1f5",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 114924,
   "aniId": 103798,
   "createdAt": "2020-10-12T16:13:41.000Z",
-  "updatedAt": "2021-06-05T23:23:28.000Z",
+  "updatedAt": "2021-12-05T23:49:08.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-boost.com/series/113"
+      }
+    ],
     "altTitle": [
       "On the way home I got a bride and daughter of twins, but it was a dragon.",
       "帰宅途中で嫁と娘ができたんだけど、ドラゴンだった。"
@@ -36,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:37.000Z",
-    "updatedAt": "2021-06-06T21:19:08.000Z",
+    "updatedAt": "2021-12-06T21:46:20.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -24,8 +24,8 @@
     "Mangadex": {
       "cb29c575-1639-4161-baef-66eb591121a6": {
         "authors": [
-          "Panda",
-          "Ai Lan"
+          "Ai Lan",
+          "Panda"
         ],
         "identifier": "cb29c575-1639-4161-baef-66eb591121a6",
         "type": "manga",
@@ -36,11 +36,33 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": null,
         "aniId": 122925,
         "createdAt": "2020-10-12T16:18:04.000Z",
-        "updatedAt": "2021-06-07T13:40:47.000Z",
+        "updatedAt": "2021-12-07T13:48:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-im985895": {
+        "authors": [
+          "Iciyuan"
+        ],
+        "identifier": "manga-im985895",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Adorable Princess",
+        "url": "https://readmanganato.com/manga-im985895",
+        "image": "https://avt.mkklcdnv6temp.com/35/i/21-1595519204.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 122925,
+        "createdAt": "2021-06-03T02:30:53.000Z",
+        "updatedAt": "2021-12-03T02:46:15.000Z",
         "deletedAt": null
       }
     }

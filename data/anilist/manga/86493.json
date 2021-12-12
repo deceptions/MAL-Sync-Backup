@@ -19,5 +19,29 @@
   "createdAt": "2021-06-02T06:01:36.000Z",
   "updatedAt": "2021-06-21T13:20:26.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "mrs-angel": {
+        "authors": [
+          "Acho",
+          "Park Se-Jun"
+        ],
+        "identifier": "mrs-angel",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Mrs Angel",
+        "url": "https://mangasee123.com/manga/Mrs-Angel",
+        "image": "https://cover.nep.li/cover/Mrs-Angel.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 86493,
+        "createdAt": "2021-06-02T06:01:36.000Z",
+        "updatedAt": "2021-12-02T06:16:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

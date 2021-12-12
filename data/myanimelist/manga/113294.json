@@ -40,7 +40,29 @@
         "malId": 113294,
         "aniId": 100334,
         "createdAt": "2020-10-12T16:10:57.000Z",
-        "updatedAt": "2021-06-05T04:36:08.000Z",
+        "updatedAt": "2021-12-05T04:48:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "blue_blue_blue": {
+        "authors": [
+          "Amamiya"
+        ],
+        "identifier": "blue_blue_blue",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Blue! Blue! Blue!",
+        "url": "https://fanfox.net/manga/blue_blue_blue/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26341/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113294,
+        "aniId": 100334,
+        "createdAt": "2021-12-10T02:34:00.000Z",
+        "updatedAt": "2021-12-10T03:03:38.000Z",
         "deletedAt": null
       }
     }

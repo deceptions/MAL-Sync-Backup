@@ -18,9 +18,32 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T19:43:08.000Z",
-  "updatedAt": "2021-08-23T11:40:08.000Z",
+  "updatedAt": "2021-12-07T05:18:03.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "0b66e39b-0481-4ea1-bef2-61efc563ccd2": {
+        "authors": [
+          "Mina (미나)",
+          "Ziho"
+        ],
+        "identifier": "0b66e39b-0481-4ea1-bef2-61efc563ccd2",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Living Will",
+        "url": "https://mangadex.org/title/0b66e39b-0481-4ea1-bef2-61efc563ccd2",
+        "image": "https://uploads.mangadex.org/covers/0b66e39b-0481-4ea1-bef2-61efc563ccd2/e77b6005-d1c7-4a54-8a87-f7fc4a8092e0.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 111658,
+        "createdAt": "2020-10-12T16:17:06.000Z",
+        "updatedAt": "2021-12-10T11:47:48.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaFox": {
       "living_will": {
         "authors": [

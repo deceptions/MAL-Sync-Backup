@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 110138,
   "aniId": 99855,
   "createdAt": "2020-10-12T16:10:59.000Z",
-  "updatedAt": "2021-06-05T08:48:57.000Z",
+  "updatedAt": "2021-12-05T09:22:42.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://flowers.shogakukan.co.jp/rensai/marronnierkingdom.html"
+      }
+    ],
     "altTitle": [
       "The Seven Knights of the Marronnier Kingdom",
       "マロニエ王国の七人の騎士"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-05T05:18:58.000Z",
-    "updatedAt": "2021-06-05T05:18:58.000Z",
+    "updatedAt": "2021-12-05T05:47:47.000Z",
     "deletedAt": null
   },
   "Anilist": {

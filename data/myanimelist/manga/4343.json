@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%AF"
+    }
+  ],
   "altTitle": [
     "ネオアンジェリーク"
   ],
@@ -14,14 +19,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-05T09:50:30.000Z",
-  "updatedAt": "2021-06-05T09:50:30.000Z",
+  "updatedAt": "2021-12-05T10:16:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "d1ba7942-e344-476f-b5da-714edb317fcd": {
         "authors": [
-          "KAJIYAMA Mika",
-          "Ruby Party"
+          "Ruby Party",
+          "Kajiyama Mika"
         ],
         "identifier": "d1ba7942-e344-476f-b5da-714edb317fcd",
         "type": "manga",
@@ -36,7 +41,7 @@
         "malId": 4343,
         "aniId": 34343,
         "createdAt": "2020-10-12T16:11:34.000Z",
-        "updatedAt": "2021-06-05T12:46:25.000Z",
+        "updatedAt": "2021-12-05T13:17:47.000Z",
         "deletedAt": null
       }
     }

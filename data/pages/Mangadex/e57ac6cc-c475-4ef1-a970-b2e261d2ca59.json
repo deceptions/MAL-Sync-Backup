@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Nagatsuki Misoka",
-    "MIkami Yasuaki"
+    "Mikami Yasuaki",
+    "Nagatsuki Misoka"
   ],
   "identifier": "e57ac6cc-c475-4ef1-a970-b2e261d2ca59",
   "type": "manga",
@@ -12,14 +12,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 131658,
   "aniId": 124427,
   "createdAt": "2021-01-05T14:27:10.000Z",
-  "updatedAt": "2021-06-08T10:45:18.000Z",
+  "updatedAt": "2021-12-08T11:07:31.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://dengekidaioh.jp/product/ovelimit"
+      }
+    ],
     "altTitle": [
       "Genkaigoe no Tenpu wa, Tenseisha ni shika Atsukaenai: Over Limit Skill Holder",
       "限界超えの天賦〈スキル〉は、転生者にしか扱えない　―オーバーリミット・スキルホルダー―"
@@ -32,11 +37,11 @@
     "type": "manga",
     "title": "Genkaigoe no Skill wa, Tenseisha ni shika Atsukaenai: Over Limit Skill Holder",
     "url": "https://myanimelist.net/manga/131658/Genkaigoe_no_Skill_wa_Tenseisha_ni_shika_Atsukaenai__Over_Limit_Skill_Holder",
-    "image": "https://cdn.myanimelist.net/images/manga/1/237914.jpg",
+    "image": "https://cdn.myanimelist.net/images/manga/2/247203.jpg",
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-01-05T14:27:08.000Z",
-    "updatedAt": "2021-06-08T06:24:56.000Z",
+    "updatedAt": "2021-12-08T06:37:21.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-05-29T20:12:13.000Z",
-  "updatedAt": "2021-07-27T11:21:36.000Z",
+  "updatedAt": "2021-12-08T09:04:49.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "d1fc6b66-e6e7-4c30-a08d-969c6d666025": {
+        "authors": [
+          "White Eared"
+        ],
+        "identifier": "d1fc6b66-e6e7-4c30-a08d-969c6d666025",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "From Points of Three",
+        "url": "https://mangadex.org/title/d1fc6b66-e6e7-4c30-a08d-969c6d666025",
+        "image": "https://uploads.mangadex.org/covers/d1fc6b66-e6e7-4c30-a08d-969c6d666025/4f0954d4-71d5-415c-a14c-139a34573e29.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 100434,
+        "createdAt": "2020-12-04T05:53:13.000Z",
+        "updatedAt": "2021-12-08T09:33:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

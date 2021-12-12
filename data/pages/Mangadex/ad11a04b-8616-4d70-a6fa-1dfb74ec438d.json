@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 119185,
   "aniId": null,
   "createdAt": "2020-10-12T16:11:10.000Z",
-  "updatedAt": "2021-06-05T08:56:31.000Z",
+  "updatedAt": "2021-12-05T09:23:10.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.kuaikanmanhua.com/web/topic/1538/"
+      }
+    ],
     "altTitle": [
       "Fragments",
       "拾遗录"
@@ -34,7 +39,7 @@
     "category": "Manhua",
     "hentai": false,
     "createdAt": "2021-06-05T06:19:51.000Z",
-    "updatedAt": "2021-06-05T06:19:51.000Z",
+    "updatedAt": "2021-12-05T06:49:10.000Z",
     "deletedAt": null
   },
   "Anilist": null,

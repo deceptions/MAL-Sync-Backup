@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Tashiro Yumiya",
-    "Ｃapcom"
+    "Ｃapcom",
+    "Tashiro Yumiya"
   ],
   "identifier": "0016f819-f9a0-482a-8df2-d735a1773b51",
   "type": "manga",
@@ -12,14 +12,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 103623,
   "aniId": null,
   "createdAt": "2020-10-12T16:14:15.000Z",
-  "updatedAt": "2021-06-06T10:20:00.000Z",
+  "updatedAt": "2021-12-06T10:49:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/Dragon%27s_Dogma"
+      }
+    ],
     "altTitle": [
       "ドラゴンズドグマ リヴァイブス"
     ],
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-06T03:50:31.000Z",
-    "updatedAt": "2021-06-06T03:50:31.000Z",
+    "updatedAt": "2021-12-06T04:16:38.000Z",
     "deletedAt": null
   },
   "Anilist": null,

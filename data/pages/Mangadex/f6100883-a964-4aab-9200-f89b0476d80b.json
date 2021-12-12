@@ -12,33 +12,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 98796,
-  "aniId": null,
+  "actor": 2,
+  "malId": null,
+  "aniId": 100141,
   "createdAt": "2020-10-12T16:10:59.000Z",
-  "updatedAt": "2021-06-05T04:51:00.000Z",
+  "updatedAt": "2021-12-07T19:14:18.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": [],
+  "Mal": null,
+  "Anilist": {
     "altTitle": [
-      "Prohibition of brave act in another world.",
-      "異世界勇者の攻略術"
+      "異世界勇者の殺人遊戯"
     ],
+    "externalLinks": [],
     "authors": [
-      "Fruit Punch",
-      "Shiki, Kensuke"
+      "Sayaka Arima"
     ],
-    "id": 98796,
+    "id": 100141,
+    "malId": null,
     "type": "manga",
-    "title": "Isekai Yuusha no Kouryakujutsu",
-    "url": "https://myanimelist.net/manga/98796/Isekai_Yuusha_no_Kouryakujutsu",
-    "image": "https://cdn.myanimelist.net/images/manga/1/177981.jpg",
-    "category": "Light Novel",
+    "title": "Isekai Yuusha no Satsujin Yuugi",
+    "url": "https://anilist.co/manga/100141",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx100141-G54iyMPVQGLl.jpg",
+    "category": "manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:31.000Z",
-    "updatedAt": "2021-11-16T12:28:02.000Z",
+    "createdAt": "2021-06-05T05:20:40.000Z",
+    "updatedAt": "2021-12-05T05:46:25.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
-  "malUrl": "https://myanimelist.net/manga/98796/Isekai_Yuusha_no_Kouryakujutsu"
+  "malUrl": ""
 }

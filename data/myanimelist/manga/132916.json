@@ -1,8 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://shonen-sirius.com/series/sirius/saibou_white/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%9F%E3%82%89%E3%81%8F%E7%B4%B0%E8%83%9E"
+    }
+  ],
   "altTitle": [
-    "White Blood Cells at Work",
+    "Cells at Work! White Brigade",
     "Cells at Work! White",
+    "White Blood Cells at Work",
     "はたらく細胞WHITE"
   ],
   "authors": [
@@ -12,18 +22,18 @@
   "type": "manga",
   "title": "Hataraku Saibou White",
   "url": "https://myanimelist.net/manga/132916/Hataraku_Saibou_White",
-  "image": "https://cdn.myanimelist.net/images/manga/3/240299.jpg",
+  "image": "https://cdn.myanimelist.net/images/manga/3/251732.jpg",
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-08T07:26:23.000Z",
-  "updatedAt": "2021-06-08T07:26:23.000Z",
+  "updatedAt": "2021-12-06T17:48:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "d11eeab6-9f5b-4e7f-ad78-51b352c4d06a": {
         "authors": [
-          "KANIE Tetsuji",
-          "Shimizu Akane"
+          "Shimizu Akane",
+          "Kanie Tetsuji"
         ],
         "identifier": "d11eeab6-9f5b-4e7f-ad78-51b352c4d06a",
         "type": "manga",
@@ -38,7 +48,29 @@
         "malId": 132916,
         "aniId": 124423,
         "createdAt": "2020-11-15T10:14:51.000Z",
-        "updatedAt": "2021-06-08T07:26:49.000Z",
+        "updatedAt": "2021-12-08T07:39:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "cells-at-work-white-brigade": {
+        "authors": [
+          "KANIE Tetsuji"
+        ],
+        "identifier": "cells-at-work-white-brigade",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Cells at Work! White Brigade",
+        "url": "https://mangasee123.com/manga/Cells-at-Work-White-Brigade",
+        "image": "https://cover.nep.li/cover/Cells-at-Work-White-Brigade.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132916,
+        "aniId": 124423,
+        "createdAt": "2021-12-06T17:48:18.000Z",
+        "updatedAt": "2021-12-06T18:16:10.000Z",
         "deletedAt": null
       }
     }

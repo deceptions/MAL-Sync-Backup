@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 134560,
   "createdAt": "2020-12-15T16:19:07.000Z",
-  "updatedAt": "2021-06-08T08:37:44.000Z",
+  "updatedAt": "2021-12-08T09:34:34.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "愛は人を弱くするらしい",
+      "Love Seems to Make People Weak",
+      "Ai wa Hito wo Yowaku sururashii"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shinoa"
+    ],
+    "id": 134560,
+    "malId": null,
+    "type": "manga",
+    "title": "Ai wa Hito o Yowaku sururashii",
+    "url": "https://anilist.co/manga/134560",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134560-Jbz8dsIheuCm.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-03T15:48:57.000Z",
+    "updatedAt": "2021-11-21T09:44:30.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

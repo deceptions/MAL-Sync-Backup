@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-06-08T12:25:21.000Z",
-  "updatedAt": "2021-06-21T14:50:26.000Z",
+  "updatedAt": "2021-12-08T13:03:49.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "5a540fb6-05ee-4299-9f42-626a82f4f79e": {
+        "authors": [
+          "Cheese Milk",
+          "SeungMon"
+        ],
+        "identifier": "5a540fb6-05ee-4299-9f42-626a82f4f79e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "tie me up",
+        "url": "https://mangadex.org/title/5a540fb6-05ee-4299-9f42-626a82f4f79e",
+        "image": "https://uploads.mangadex.org/covers/5a540fb6-05ee-4299-9f42-626a82f4f79e/846d84a3-9278-495a-aa50-8bbb5b377c63.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 113342,
+        "createdAt": "2021-02-26T17:55:45.000Z",
+        "updatedAt": "2021-12-08T14:32:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

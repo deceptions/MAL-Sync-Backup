@@ -20,5 +20,28 @@
   "createdAt": "2021-07-20T19:33:48.000Z",
   "updatedAt": "2021-07-20T19:33:48.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "the-fox-little-tanuki": {
+        "authors": [
+          "TAGAWA Mi"
+        ],
+        "identifier": "the-fox-little-tanuki",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Fox & Little Tanuki",
+        "url": "https://mangasee123.com/manga/The-Fox-Little-Tanuki",
+        "image": "https://cover.nep.li/cover/The-Fox-Little-Tanuki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125546,
+        "aniId": 105184,
+        "createdAt": "2021-12-06T15:46:53.000Z",
+        "updatedAt": "2021-12-06T16:16:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

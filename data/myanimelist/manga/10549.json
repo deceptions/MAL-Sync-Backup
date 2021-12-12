@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:28.000Z",
-  "updatedAt": "2021-10-09T22:32:33.000Z",
+  "updatedAt": "2021-12-08T16:05:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 40549,
         "createdAt": "2021-10-09T22:32:31.000Z",
         "updatedAt": "2021-10-09T23:02:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "atsumare-gakuen-tengoku": {
+        "authors": [
+          "TSUDA Mikiyo"
+        ],
+        "identifier": "atsumare-gakuen-tengoku",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Atsumare! Gakuen Tengoku",
+        "url": "https://mangasee123.com/manga/Atsumare-Gakuen-Tengoku",
+        "image": "https://cover.nep.li/cover/Atsumare-Gakuen-Tengoku.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10549,
+        "aniId": 40549,
+        "createdAt": "2021-12-08T16:05:02.000Z",
+        "updatedAt": "2021-12-08T16:33:38.000Z",
         "deletedAt": null
       }
     }

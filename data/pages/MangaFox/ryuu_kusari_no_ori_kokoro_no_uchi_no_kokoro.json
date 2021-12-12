@@ -11,13 +11,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 138728,
+  "aniId": 131318,
   "createdAt": "2021-05-07T08:17:23.000Z",
-  "updatedAt": "2021-11-07T08:18:56.000Z",
+  "updatedAt": "2021-12-07T19:16:11.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.pixiv.net/works/7227"
+      }
+    ],
+    "altTitle": [
+      "Ori of the Dragon Chain: \"Heart\" in the Mind",
+      "龍鎖のオリ-心の中の\"こころ\"-"
+    ],
+    "authors": [
+      "cadet",
+      "Antique"
+    ],
+    "id": 138728,
+    "type": "manga",
+    "title": "Ryuusa no Ori: Kokoro no Naka no \"Kokoro\"",
+    "url": "https://myanimelist.net/manga/138728/Ryuusa_no_Ori__Kokoro_no_Naka_no_Kokoro",
+    "image": "https://cdn.myanimelist.net/images/manga/2/249668.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-09-18T17:11:43.000Z",
+    "updatedAt": "2021-11-11T03:15:18.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "龍鎖のオリ ー心の中の“こころ”ー",
+      "Ori of the Dragon Chain - \"Heart\" in the mind"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "cadet",
+      "Antique",
+      "Sime"
+    ],
+    "id": 131318,
+    "malId": 138728,
+    "type": "manga",
+    "title": "Ryuusa no Ori: Kokoro no Naka no \"Kokoro\"",
+    "url": "https://anilist.co/manga/131318",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131318-L88uVwCvvlhq.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-25T22:38:58.000Z",
+    "updatedAt": "2021-08-29T07:06:35.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/138728/Ryuusa_no_Ori__Kokoro_no_Naka_no_Kokoro"
 }

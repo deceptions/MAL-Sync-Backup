@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Hao Yue",
     "Jiao Ran",
+    "Hao Yue",
     "Zhuang Ning"
   ],
   "identifier": "1e8cb8d6-428a-4de7-9a46-4866c952b0a2",
@@ -13,52 +13,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 5990,
-  "aniId": 35990,
+  "actor": 1,
+  "malId": null,
+  "aniId": 101656,
   "createdAt": "2020-10-12T16:11:34.000Z",
-  "updatedAt": "2021-06-05T09:24:28.000Z",
+  "updatedAt": "2021-12-10T11:49:43.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": [],
-    "altTitle": [
-      "Don't Touch Me!"
-    ],
-    "authors": [
-      "Hyun, Ju-Suh",
-      "Seo, Hyun-Joo"
-    ],
-    "id": 5990,
-    "type": "manga",
-    "title": "Don't Touch Me!",
-    "url": "https://myanimelist.net/manga/5990/Dont_Touch_Me",
-    "image": "https://cdn.myanimelist.net/images/manga/2/7682.jpg",
-    "category": "Manhwa",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:09.000Z",
-    "updatedAt": "2021-10-09T16:33:35.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "건드리지 마!",
-      "Don't Touch Me!"
+      "Don't Touch Me!",
+      "别碰我!",
+      "Don't Touch Me!",
+      "만지지 마!",
+      "Manjiji Ma!"
     ],
     "externalLinks": [],
     "authors": [
-      "Hyeon-Ju Seo"
+      "Yue Hao",
+      "Zhuang Ning"
     ],
-    "id": 35990,
-    "malId": 5990,
+    "id": 101656,
+    "malId": null,
     "type": "manga",
-    "title": "Geondeuriji Ma!",
-    "url": "https://anilist.co/manga/35990",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35990-gfTF9Lpbai6l.jpg",
+    "title": "Bie Peng Wo!",
+    "url": "https://anilist.co/manga/101656",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101656-rB3DUVpiYazw.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:39:36.000Z",
-    "updatedAt": "2021-06-17T12:04:17.000Z",
+    "createdAt": "2021-06-05T09:50:30.000Z",
+    "updatedAt": "2021-12-05T10:16:45.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/5990/Dont_Touch_Me"
+  "malUrl": ""
 }

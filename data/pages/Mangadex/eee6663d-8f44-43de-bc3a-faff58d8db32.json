@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 142060,
   "createdAt": "2020-10-12T16:21:04.000Z",
-  "updatedAt": "2021-06-08T01:31:16.000Z",
+  "updatedAt": "2021-12-08T09:33:24.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "◯日後にめちゃくちゃ濃厚接触するソーシャルディスタンスラブコメ",
+      "A Social Distance Rom-Com With Intense Intimate Contact After X Days"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shiro Inaba"
+    ],
+    "id": 142060,
+    "malId": null,
+    "type": "manga",
+    "title": "◯-nichi Go ni Mechakucha Noukou Sesshoku suru Social Distance Love Come",
+    "url": "https://anilist.co/manga/142060",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142060-BtEAjGjfjPJb.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-25T03:35:32.000Z",
+    "updatedAt": "2021-11-25T03:35:32.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

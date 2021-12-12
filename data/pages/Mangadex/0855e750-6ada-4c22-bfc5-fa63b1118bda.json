@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Hirabuki Masahiro",
-    "Shi Garetto"
+    "Shi Garetto",
+    "Hirabuki Masahiro"
   ],
   "identifier": "0855e750-6ada-4c22-bfc5-fa63b1118bda",
   "type": "manga",
@@ -16,12 +16,18 @@
   "malId": 111491,
   "aniId": 101841,
   "createdAt": "2020-10-12T16:11:13.000Z",
-  "updatedAt": "2021-06-05T06:37:48.000Z",
+  "updatedAt": "2021-12-05T06:50:01.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.alphapolis.co.jp/manga/official/887000196"
+      }
+    ],
     "altTitle": [
-      "An Ossan in counterworld!, Where is Ossan going in another world?",
+      "An Ossan in counterworld!",
+      "Where is Ossan going in another world?",
       "異世界に飛ばされたおっさんは何処へ行く？"
     ],
     "authors": [
@@ -36,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:22.000Z",
-    "updatedAt": "2021-06-06T21:19:28.000Z",
+    "updatedAt": "2021-12-06T21:46:10.000Z",
     "deletedAt": null
   },
   "Anilist": {

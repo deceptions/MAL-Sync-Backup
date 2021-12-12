@@ -30,7 +30,7 @@
   "hentai": false,
   "anidbId": 14426,
   "createdAt": "2020-12-31T11:21:08.000Z",
-  "updatedAt": "2021-11-06T17:36:18.000Z",
+  "updatedAt": "2021-12-09T10:34:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {
@@ -104,6 +104,23 @@
         "aniId": 105119,
         "createdAt": "2021-10-10T03:32:43.000Z",
         "updatedAt": "2021-10-10T04:02:20.000Z",
+        "deletedAt": null
+      },
+      "shikizakura-dub": {
+        "identifier": "shikizakura-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Shikizakura (Dub)",
+        "url": "https://gogoanime.cm/category/shikizakura-dub",
+        "image": "https://gogocdn.net/cover/shikizakura-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38440,
+        "aniId": 105119,
+        "createdAt": "2021-12-05T12:16:18.000Z",
+        "updatedAt": "2021-12-05T12:46:06.000Z",
         "deletedAt": null
       }
     }

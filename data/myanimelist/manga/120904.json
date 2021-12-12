@@ -27,15 +27,15 @@
     "Mangadex": {
       "8502718b-7f22-4ad2-bda5-fe3377f69fb1": {
         "authors": [
-          "Kogomori Nue",
-          "Niiyama Saho"
+          "Niiyama Saho",
+          "Kogomori Nue"
         ],
         "identifier": "8502718b-7f22-4ad2-bda5-fe3377f69fb1",
         "type": "manga",
         "page": "Mangadex",
         "title": "Since I Became a Saint, I'll Do Whatever I Want with My Second Life",
         "url": "https://mangadex.org/title/8502718b-7f22-4ad2-bda5-fe3377f69fb1",
-        "image": "https://uploads.mangadex.org/covers/8502718b-7f22-4ad2-bda5-fe3377f69fb1/1bb9f2e9-f208-4a05-8db1-17f42c666708.jpg",
+        "image": "https://uploads.mangadex.org/covers/8502718b-7f22-4ad2-bda5-fe3377f69fb1/5c986a20-18a3-4eeb-a10f-1e708020ee27.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
@@ -43,7 +43,7 @@
         "malId": 120904,
         "aniId": 106070,
         "createdAt": "2020-10-12T16:15:20.000Z",
-        "updatedAt": "2021-06-06T12:44:32.000Z",
+        "updatedAt": "2021-12-06T12:49:39.000Z",
         "deletedAt": null
       }
     },
@@ -90,6 +90,30 @@
         "aniId": 106070,
         "createdAt": "2021-05-04T05:01:59.000Z",
         "updatedAt": "2021-11-20T22:22:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fc982385": {
+        "authors": [
+          "Haneko",
+          "Saho Niiyama",
+          "Nue Kogomori"
+        ],
+        "identifier": "manga-fc982385",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Since I Became A Saint, I'll Do Whatever I Want With My Second Life ~The Prince Was My Lover Who Threw Me Away In My Previous Life~",
+        "url": "https://manganato.com/manga-fc982385",
+        "image": "https://avt.mkklcdnv6temp.com/49/v/18-1583499047.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120904,
+        "aniId": 106070,
+        "createdAt": "2021-06-02T23:30:53.000Z",
+        "updatedAt": "2021-12-03T00:17:49.000Z",
         "deletedAt": null
       }
     }

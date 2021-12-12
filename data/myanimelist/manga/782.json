@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:26.000Z",
-  "updatedAt": "2021-10-26T12:01:05.000Z",
+  "updatedAt": "2021-12-08T16:03:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -44,6 +44,28 @@
         "aniId": 30782,
         "createdAt": "2020-10-12T16:04:59.000Z",
         "updatedAt": "2021-12-03T09:47:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "blood-plus-a": {
+        "authors": [
+          "SUEKANE Kumiko"
+        ],
+        "identifier": "blood-plus-a",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Blood+ A",
+        "url": "https://mangasee123.com/manga/Blood-Plus-A",
+        "image": "https://cover.nep.li/cover/Blood-Plus-A.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 782,
+        "aniId": 30782,
+        "createdAt": "2021-12-08T16:03:46.000Z",
+        "updatedAt": "2021-12-08T16:33:38.000Z",
         "deletedAt": null
       }
     }

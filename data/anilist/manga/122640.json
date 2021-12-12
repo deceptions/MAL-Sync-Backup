@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-01T10:15:46.000Z",
-  "updatedAt": "2021-09-01T10:15:46.000Z",
+  "updatedAt": "2021-12-07T18:47:22.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "9d751491-a72d-41ae-8d95-3cb420a9d582": {
+        "authors": [
+          "Takizawa Hiroyuki"
+        ],
+        "identifier": "9d751491-a72d-41ae-8d95-3cb420a9d582",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dragon Quest e no Michi",
+        "url": "https://mangadex.org/title/9d751491-a72d-41ae-8d95-3cb420a9d582",
+        "image": "https://uploads.mangadex.org/covers/9d751491-a72d-41ae-8d95-3cb420a9d582/154b5878-02c2-44b2-8d02-3fb4eb7cb860.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 127596,
+        "aniId": 122640,
+        "createdAt": "2020-10-12T16:18:33.000Z",
+        "updatedAt": "2021-12-07T19:35:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

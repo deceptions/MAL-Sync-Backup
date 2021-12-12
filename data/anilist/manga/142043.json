@@ -21,5 +21,30 @@
   "createdAt": "2021-11-27T17:05:43.000Z",
   "updatedAt": "2021-12-01T08:05:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "6d3b3182-94e0-483a-ac0a-0fb7aaa2e44f": {
+        "authors": [
+          "Summerzoo",
+          "Dong Chen",
+          "bamboo and raft entertainment"
+        ],
+        "identifier": "6d3b3182-94e0-483a-ac0a-0fb7aaa2e44f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Material and Spiritual World",
+        "url": "https://mangadex.org/title/6d3b3182-94e0-483a-ac0a-0fb7aaa2e44f",
+        "image": "https://uploads.mangadex.org/covers/6d3b3182-94e0-483a-ac0a-0fb7aaa2e44f/48020049-274f-4248-9230-3f2245812345.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 142043,
+        "createdAt": "2020-10-12T16:20:45.000Z",
+        "updatedAt": "2021-12-08T09:22:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

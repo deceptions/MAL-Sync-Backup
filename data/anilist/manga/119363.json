@@ -17,14 +17,14 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-31T09:07:37.000Z",
-  "updatedAt": "2021-09-07T15:35:09.000Z",
+  "updatedAt": "2021-12-07T20:33:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "6994b74a-2ecd-4a54-8d23-d2adff5e0b0c": {
         "authors": [
-          "Hyeon-Jun Oh",
-          "Jong-Seok Park"
+          "Jong-Seok Park",
+          "Hyeon-Jun Oh"
         ],
         "identifier": "6994b74a-2ecd-4a54-8d23-d2adff5e0b0c",
         "type": "manga",
@@ -35,11 +35,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": null,
         "aniId": 119363,
         "createdAt": "2020-10-12T16:19:40.000Z",
-        "updatedAt": "2021-06-08T00:40:02.000Z",
+        "updatedAt": "2021-12-08T01:09:43.000Z",
         "deletedAt": null
       }
     }

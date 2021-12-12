@@ -18,7 +18,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-27T05:28:43.000Z",
-  "updatedAt": "2021-08-17T12:07:00.000Z",
+  "updatedAt": "2021-12-06T03:16:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "61d867a6-5505-4263-a7a8-1b8eaeac4bed": {
+        "authors": [
+          "Soonbo"
+        ],
+        "identifier": "61d867a6-5505-4263-a7a8-1b8eaeac4bed",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Vampire Heart",
+        "url": "https://mangadex.org/title/61d867a6-5505-4263-a7a8-1b8eaeac4bed",
+        "image": "https://uploads.mangadex.org/covers/61d867a6-5505-4263-a7a8-1b8eaeac4bed/aef1f505-c4e4-4228-bc04-679623cb1b93.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 103198,
+        "createdAt": "2020-10-12T16:14:04.000Z",
+        "updatedAt": "2021-12-07T19:18:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

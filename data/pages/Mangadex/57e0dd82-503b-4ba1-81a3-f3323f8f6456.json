@@ -11,13 +11,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 133981,
+  "aniId": 135355,
   "createdAt": "2021-02-18T06:20:58.000Z",
-  "updatedAt": "2021-06-08T11:31:53.000Z",
+  "updatedAt": "2021-12-08T14:33:38.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Urasaki-san wants to tell Omoteno-kun.",
+      "裏崎さんは表野くんに伝えたい。"
+    ],
+    "authors": [
+      "Konno, Ryuunosuke"
+    ],
+    "id": 133981,
+    "type": "manga",
+    "title": "Urasaki-san wa Omoteno-kun ni Tsutaetai.",
+    "url": "https://myanimelist.net/manga/133981/Urasaki-san_wa_Omoteno-kun_ni_Tsutaetai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/248646.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T12:05:59.000Z",
+    "updatedAt": "2021-12-08T12:05:59.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "裏崎さんは表野くんに伝えたい。",
+      "Urasaki-san Wants to Tell Omoteno-kun"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ryuunosuke Konno"
+    ],
+    "id": 135355,
+    "malId": 133981,
+    "type": "manga",
+    "title": "Urasaki-san wa Omoteno-kun ni Tsutaetai.  ",
+    "url": "https://anilist.co/manga/135355",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135355-m2s7lM0npDWa.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-30T06:51:46.000Z",
+    "updatedAt": "2021-07-30T06:51:46.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/133981/Urasaki-san_wa_Omoteno-kun_ni_Tsutaetai"
 }

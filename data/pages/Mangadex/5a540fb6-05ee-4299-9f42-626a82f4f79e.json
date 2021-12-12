@@ -12,13 +12,34 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 113342,
   "createdAt": "2021-02-26T17:55:45.000Z",
-  "updatedAt": "2021-06-08T12:25:21.000Z",
+  "updatedAt": "2021-12-08T14:32:14.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Tie Me Up",
+      "조여주세요"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Seung-Mon",
+      "Chijeuuyu"
+    ],
+    "id": 113342,
+    "malId": null,
+    "type": "manga",
+    "title": "Joyeojuseyo",
+    "url": "https://anilist.co/manga/113342",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b113342-NoRTrS8DocYF.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-06-08T12:25:21.000Z",
+    "updatedAt": "2021-12-08T13:03:49.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

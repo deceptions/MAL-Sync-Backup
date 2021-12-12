@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Jyura",
-    "JACK-POT"
+    "JACK-POT",
+    "Jyura"
   ],
   "identifier": "87334eb9-7045-4aae-b4ce-7521f08895ae",
   "type": "manga",
@@ -13,12 +13,51 @@
   "sticky": false,
   "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 137679,
+  "aniId": 141028,
   "createdAt": "2020-10-12T16:20:31.000Z",
-  "updatedAt": "2021-06-08T00:23:36.000Z",
+  "updatedAt": "2021-12-08T09:27:50.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Rain: It Was My Sister Who Confessed to Me",
+      "RAIN -告白してきたのは妹だった-"
+    ],
+    "authors": [
+      "Jyura"
+    ],
+    "id": 137679,
+    "type": "manga",
+    "title": "Rain: Kokuhaku shitekita no wa Imouto datta",
+    "url": "https://myanimelist.net/manga/137679/Rain__Kokuhaku_shitekita_no_wa_Imouto_datta",
+    "image": "https://cdn.myanimelist.net/images/manga/1/246504.jpg",
+    "category": "Doujinshi",
+    "hentai": true,
+    "createdAt": "2021-12-08T01:04:49.000Z",
+    "updatedAt": "2021-12-08T01:04:49.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "RAIN -告白してきたのは妹だった-きたのは妹だった-",
+      "RAIN -It Was My Sister Who Confessed to Me- "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Jyura"
+    ],
+    "id": 141028,
+    "malId": 137679,
+    "type": "manga",
+    "title": "RAIN: Kokuhaku shite Kita no wa Imouto datta",
+    "url": "https://anilist.co/manga/141028",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141028-Zo3sDXk9K09K.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-11-02T07:34:20.000Z",
+    "updatedAt": "2021-12-08T01:04:51.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/137679/Rain__Kokuhaku_shitekita_no_wa_Imouto_datta"
 }

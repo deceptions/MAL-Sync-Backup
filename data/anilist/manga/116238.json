@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T21:24:25.000Z",
-  "updatedAt": "2021-06-21T15:01:46.000Z",
+  "updatedAt": "2021-12-07T21:34:28.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "92a422b6-c5cc-4527-92ff-ad4d663c4c02": {
+        "authors": [
+          "Kanou Rie"
+        ],
+        "identifier": "92a422b6-c5cc-4527-92ff-ad4d663c4c02",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oboreru Ningyo Tachi",
+        "url": "https://mangadex.org/title/92a422b6-c5cc-4527-92ff-ad4d663c4c02",
+        "image": "https://uploads.mangadex.org/covers/92a422b6-c5cc-4527-92ff-ad4d663c4c02/cf04081c-6497-444e-9d6d-4c3648649ef2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 116238,
+        "createdAt": "2020-10-12T16:18:53.000Z",
+        "updatedAt": "2021-12-10T11:48:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

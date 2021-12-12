@@ -19,5 +19,28 @@
   "createdAt": "2021-09-25T16:16:17.000Z",
   "updatedAt": "2021-12-04T04:46:06.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "50a4dbd0-c159-4b65-a28d-c47b0ef77709": {
+        "authors": [
+          "Bosshi"
+        ],
+        "identifier": "50a4dbd0-c159-4b65-a28d-c47b0ef77709",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Swimsuit World",
+        "url": "https://mangadex.org/title/50a4dbd0-c159-4b65-a28d-c47b0ef77709",
+        "image": "https://uploads.mangadex.org/covers/50a4dbd0-c159-4b65-a28d-c47b0ef77709/64506254-a253-440b-955a-537445552802.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 86178,
+        "createdAt": "2020-10-12T16:07:34.000Z",
+        "updatedAt": "2021-12-06T09:40:47.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

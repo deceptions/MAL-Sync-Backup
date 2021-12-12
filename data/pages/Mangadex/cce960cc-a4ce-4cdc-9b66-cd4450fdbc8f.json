@@ -15,10 +15,15 @@
   "malId": 108592,
   "aniId": 100577,
   "createdAt": "2020-10-12T16:12:20.000Z",
-  "updatedAt": "2021-06-05T15:29:42.000Z",
+  "updatedAt": "2021-12-05T15:51:00.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://comic.mf-fleur.jp/sp/cb006/"
+      }
+    ],
     "altTitle": [
       "Love of One-365th",
       "1/365の恋人"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:09.000Z",
-    "updatedAt": "2021-06-05T14:20:29.000Z",
+    "updatedAt": "2021-12-05T14:50:13.000Z",
     "deletedAt": null
   },
   "Anilist": {

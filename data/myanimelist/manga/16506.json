@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:22.000Z",
-  "updatedAt": "2021-11-02T07:35:41.000Z",
+  "updatedAt": "2021-12-09T22:33:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,28 @@
         "aniId": 46506,
         "createdAt": "2020-10-12T16:06:17.000Z",
         "updatedAt": "2021-12-03T18:50:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "colorful-pallet": {
+        "authors": [
+          "AIZAWA Haruka"
+        ],
+        "identifier": "colorful-pallet",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Colorful Pallet",
+        "url": "https://mangasee123.com/manga/Colorful-Pallet",
+        "image": "https://cover.nep.li/cover/Colorful-Pallet.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16506,
+        "aniId": 46506,
+        "createdAt": "2021-12-09T22:33:57.000Z",
+        "updatedAt": "2021-12-09T23:03:38.000Z",
         "deletedAt": null
       }
     }

@@ -12,13 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 142537,
   "createdAt": "2021-09-20T15:11:04.000Z",
-  "updatedAt": "2021-09-20T15:11:15.000Z",
+  "updatedAt": "2021-12-10T09:20:23.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "나의 자리",
+      "My Place"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Si-Nae Han",
+      "5Hu",
+      "Cain",
+      "65"
+    ],
+    "id": 142537,
+    "malId": null,
+    "type": "manga",
+    "title": "Naui Jari",
+    "url": "https://anilist.co/manga/142537",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142537-5Vb5VGzCL5at.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-09T08:33:38.000Z",
+    "updatedAt": "2021-12-09T08:33:38.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

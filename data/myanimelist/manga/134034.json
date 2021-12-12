@@ -27,8 +27,8 @@
     "Mangadex": {
       "ae9dbea9-e179-4898-91f3-b19f768f8c1f": {
         "authors": [
-          "MURO Kouichi",
-          "Sakaki Ichirou"
+          "Sakaki Ichirou",
+          "Muro Kouichi"
         ],
         "identifier": "ae9dbea9-e179-4898-91f3-b19f768f8c1f",
         "type": "manga",
@@ -39,11 +39,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 134034,
         "aniId": 131887,
         "createdAt": "2020-10-12T16:19:51.000Z",
-        "updatedAt": "2021-06-08T00:50:16.000Z",
+        "updatedAt": "2021-12-08T01:10:02.000Z",
         "deletedAt": null
       }
     },
@@ -67,6 +67,28 @@
         "aniId": 131887,
         "createdAt": "2021-03-05T19:21:39.000Z",
         "updatedAt": "2021-11-20T19:16:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-iu985529": {
+        "authors": [
+          "Sakaki Ichirou"
+        ],
+        "identifier": "manga-iu985529",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Itsuka Kamen Wo Nugu Tame Ni  ~Warau Kishin To Yumemiru Dorei~",
+        "url": "https://readmanganato.com/manga-iu985529",
+        "image": "https://avt.mkklcdnv6temp.com/19/y/21-1590641567.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 134034,
+        "aniId": 131887,
+        "createdAt": "2021-06-04T23:49:10.000Z",
+        "updatedAt": "2021-12-05T00:54:11.000Z",
         "deletedAt": null
       }
     }

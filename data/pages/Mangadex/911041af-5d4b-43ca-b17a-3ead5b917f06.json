@@ -11,13 +11,38 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 134722,
   "createdAt": "2020-10-12T16:20:07.000Z",
-  "updatedAt": "2021-06-07T23:28:06.000Z",
+  "updatedAt": "2021-12-08T09:33:41.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Meow Rangers",
+      "집사레인저",
+      "집사 레인저",
+      "Zipsa Rangers  ",
+      "Jipsa Reinjeo",
+      "Cat Servant Rangers",
+      "Butler Rangers"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hyeon-Sil Juh-Yeong An"
+    ],
+    "id": 134722,
+    "malId": null,
+    "type": "manga",
+    "title": "Jipsareinjeo",
+    "url": "https://anilist.co/manga/134722",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx134722-BNPFruixt9nq.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-27T15:28:43.000Z",
+    "updatedAt": "2021-12-08T00:05:23.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

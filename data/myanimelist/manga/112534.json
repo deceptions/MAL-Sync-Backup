@@ -27,8 +27,8 @@
     "Mangadex": {
       "5897b512-7097-435f-bcf1-2eb8337f14e1": {
         "authors": [
-          "Horishiro Shishamo",
-          "Asahina Nagomu"
+          "Asahina Nagomu",
+          "Horishiro Shishamo"
         ],
         "identifier": "5897b512-7097-435f-bcf1-2eb8337f14e1",
         "type": "manga",
@@ -43,7 +43,7 @@
         "malId": 112534,
         "aniId": 101870,
         "createdAt": "2020-10-12T16:12:06.000Z",
-        "updatedAt": "2021-06-05T13:25:28.000Z",
+        "updatedAt": "2021-12-05T13:48:40.000Z",
         "deletedAt": null
       },
       "eac579e0-82ec-4f7c-b7e0-3735b3867baa": {
@@ -87,6 +87,52 @@
         "aniId": 101870,
         "createdAt": "2021-02-16T04:06:29.000Z",
         "updatedAt": "2021-11-20T18:44:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bq978851": {
+        "authors": [
+          "Asahina Nagomu",
+          "Horishiro Shishamo"
+        ],
+        "identifier": "manga-bq978851",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tensei Ouji Wa Daraketai",
+        "url": "https://manganato.com/manga-bq978851",
+        "image": "https://avt.mkklcdnv6temp.com/19/j/16-1583494169.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112534,
+        "aniId": 101870,
+        "createdAt": "2021-06-04T02:21:17.000Z",
+        "updatedAt": "2021-12-04T03:22:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tensei-ouji-wa-daraketai": {
+        "authors": [
+          "ASAHINA Nagomu",
+          "HORISHIRO Shishamo"
+        ],
+        "identifier": "tensei-ouji-wa-daraketai",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tensei Ouji wa Daraketai",
+        "url": "https://mangasee123.com/manga/Tensei-Ouji-Wa-Daraketai",
+        "image": "https://cover.nep.li/cover/Tensei-Ouji-Wa-Daraketai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112534,
+        "aniId": 101870,
+        "createdAt": "2021-06-04T07:19:59.000Z",
+        "updatedAt": "2021-12-04T08:19:38.000Z",
         "deletedAt": null
       }
     }

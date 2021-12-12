@@ -18,7 +18,33 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T05:42:58.000Z",
-  "updatedAt": "2021-06-21T16:01:44.000Z",
+  "updatedAt": "2021-12-07T20:05:51.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "f1517c9d-2191-4533-898a-e92618e88d2e": {
+        "authors": [
+          "킹스날",
+          "Kingsnal",
+          "쥐주",
+          "Jui-Joo"
+        ],
+        "identifier": "f1517c9d-2191-4533-898a-e92618e88d2e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Game of Doppelgänger",
+        "url": "https://mangadex.org/title/f1517c9d-2191-4533-898a-e92618e88d2e",
+        "image": "https://uploads.mangadex.org/covers/f1517c9d-2191-4533-898a-e92618e88d2e/2b63756a-2f32-41b9-8da7-66f63b0a4751.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 122398,
+        "createdAt": "2020-10-12T16:18:44.000Z",
+        "updatedAt": "2021-12-10T09:54:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

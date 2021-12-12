@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:38.000Z",
-  "updatedAt": "2021-10-23T16:29:16.000Z",
+  "updatedAt": "2021-12-10T00:34:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,29 @@
         "aniId": 31848,
         "createdAt": "2020-10-12T16:03:21.000Z",
         "updatedAt": "2021-12-02T13:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "deep-love-host": {
+        "authors": [
+          "YOSHI",
+          "YOSHII Yuu"
+        ],
+        "identifier": "deep-love-host",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Deep Love - Host",
+        "url": "https://mangasee123.com/manga/Deep-Love-Host",
+        "image": "https://cover.nep.li/cover/Deep-Love-Host.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1848,
+        "aniId": 31848,
+        "createdAt": "2021-12-10T00:34:18.000Z",
+        "updatedAt": "2021-12-10T01:03:38.000Z",
         "deletedAt": null
       }
     }

@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Studio Enus",
-    "Bamui"
+    "Bamui",
+    "스튜디오 이너스"
   ],
   "identifier": "9a3fbd77-6e6f-4386-8e29-32c3d6577b53",
   "type": "manga",
@@ -12,13 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 130716,
   "createdAt": "2021-02-23T15:56:18.000Z",
-  "updatedAt": "2021-06-08T11:39:23.000Z",
+  "updatedAt": "2021-12-08T14:32:57.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Tyrant's Secret Secretary",
+      "패왕에게 비서가 필요한 이유",
+      "The Reason Why the King Needs a Secretary",
+      "Why the King Needs a Secretary  ",
+      "Paewangege Biseoga Pil-yohan Iyu"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Bamui",
+      "Studio Enus"
+    ],
+    "id": 130716,
+    "malId": null,
+    "type": "manga",
+    "title": "Paewangege Biseoga Piryohan Iyu",
+    "url": "https://anilist.co/manga/130716",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130716-BH7mcGQ6Plzf.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-31T05:12:14.000Z",
+    "updatedAt": "2021-12-08T12:34:19.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

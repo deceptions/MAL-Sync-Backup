@@ -5,7 +5,7 @@
     "Kita Konno"
   ],
   "id": 38551,
-  "malId": 8551,
+  "malId": null,
   "type": "manga",
   "title": "Nowhere to Go",
   "url": "https://anilist.co/manga/38551",
@@ -13,7 +13,30 @@
   "category": "one_shot",
   "hentai": false,
   "createdAt": "2021-06-03T10:19:53.000Z",
-  "updatedAt": "2021-06-17T12:51:36.000Z",
+  "updatedAt": "2021-12-09T10:03:38.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "f9f7f34f-88b3-46f1-b04a-255fd0ed80e8": {
+        "authors": [
+          "Konno Kita"
+        ],
+        "identifier": "f9f7f34f-88b3-46f1-b04a-255fd0ed80e8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nowhere to Go",
+        "url": "https://mangadex.org/title/f9f7f34f-88b3-46f1-b04a-255fd0ed80e8",
+        "image": "https://uploads.mangadex.org/covers/f9f7f34f-88b3-46f1-b04a-255fd0ed80e8/68a69384-b885-476b-ac54-6f57b7bb8549.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 38551,
+        "createdAt": "2020-10-12T16:05:03.000Z",
+        "updatedAt": "2021-12-09T16:18:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -21,5 +21,30 @@
   "createdAt": "2021-06-01T04:22:55.000Z",
   "updatedAt": "2021-06-18T12:01:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "ec19b836-df48-43ba-b62f-0864d801a1ca": {
+        "authors": [
+          "Hirukuma",
+          "Hiraishi Roku",
+          "Tuesday"
+        ],
+        "identifier": "ec19b836-df48-43ba-b62f-0864d801a1ca",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sarariiman no fushigina Dungeon",
+        "url": "https://mangadex.org/title/ec19b836-df48-43ba-b62f-0864d801a1ca",
+        "image": "https://uploads.mangadex.org/covers/ec19b836-df48-43ba-b62f-0864d801a1ca/c6e707f8-fe35-42a7-ab09-3fec2d6bd014.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 136058,
+        "aniId": 130934,
+        "createdAt": "2021-02-17T03:50:17.000Z",
+        "updatedAt": "2021-12-08T14:33:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

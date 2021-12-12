@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Sakamoto Shinichi",
-    "Bram Stoker"
+    "Bram Stoker",
+    "Sakamoto Shinichi"
   ],
   "identifier": "89ad8e16-ceff-47c4-adce-cc00baa65392",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 132912,
   "aniId": 126543,
   "createdAt": "2020-12-05T16:11:29.000Z",
-  "updatedAt": "2021-06-08T08:47:46.000Z",
+  "updatedAt": "2021-12-08T09:07:01.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://grandjump.shueisha.co.jp/manga/drcl.html"
+      }
+    ],
     "altTitle": [
       "#DRCL midnight children"
     ],
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-08T08:27:22.000Z",
-    "updatedAt": "2021-06-08T08:27:22.000Z",
+    "updatedAt": "2021-12-08T08:35:09.000Z",
     "deletedAt": null
   },
   "Anilist": {

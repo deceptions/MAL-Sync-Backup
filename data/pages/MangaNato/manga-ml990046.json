@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 142560,
   "createdAt": "2021-11-20T03:44:58.000Z",
-  "updatedAt": "2021-11-20T03:44:58.000Z",
+  "updatedAt": "2021-12-11T13:16:59.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "某天成为祭品公主",
+      "Sacrifice Princess"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Da Xingdao  Dongman",
+      "Hei Cha Bo Jue",
+      "DAONO7"
+    ],
+    "id": 142560,
+    "malId": null,
+    "type": "manga",
+    "title": "Mou Tian Chengwei Jipin Gongzhu",
+    "url": "https://anilist.co/manga/142560",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142560-YSOUzpfiF6Oq.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-10T07:03:39.000Z",
+    "updatedAt": "2021-12-10T07:03:39.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

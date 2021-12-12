@@ -15,13 +15,24 @@
   "malId": 93398,
   "aniId": 86693,
   "createdAt": "2021-06-07T11:05:59.000Z",
-  "updatedAt": "2021-06-07T11:35:48.000Z",
+  "updatedAt": "2021-12-07T11:48:02.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.comico.jp/articleList.nhn?titleNo=49"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%B3%E3%83%90%E3%82%AB"
+      }
+    ],
     "altTitle": [
       "Nanbaka",
-      "Nambaka, The Numbers, Numbaka",
+      "Nambaka",
+      "The Numbers",
+      "Numbaka",
       "ナンバカ"
     ],
     "authors": [
@@ -35,7 +46,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:46:13.000Z",
-    "updatedAt": "2021-06-07T11:05:49.000Z",
+    "updatedAt": "2021-12-07T11:18:12.000Z",
     "deletedAt": null
   },
   "Anilist": {

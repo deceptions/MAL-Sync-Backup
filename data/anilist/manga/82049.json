@@ -7,7 +7,7 @@
     "Yukimo Hoshimori"
   ],
   "id": 82049,
-  "malId": 52049,
+  "malId": null,
   "type": "manga",
   "title": "Yumeiro Button",
   "url": "https://anilist.co/manga/82049",
@@ -15,7 +15,30 @@
   "category": "one_shot",
   "hentai": false,
   "createdAt": "2021-06-03T19:49:30.000Z",
-  "updatedAt": "2021-06-17T21:04:41.000Z",
+  "updatedAt": "2021-12-06T05:46:58.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "2e571be3-c634-48ab-a813-4834d08f2806": {
+        "authors": [
+          "Hoshimori Yukimo"
+        ],
+        "identifier": "2e571be3-c634-48ab-a813-4834d08f2806",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yumeiro Button",
+        "url": "https://mangadex.org/title/2e571be3-c634-48ab-a813-4834d08f2806",
+        "image": "https://uploads.mangadex.org/covers/2e571be3-c634-48ab-a813-4834d08f2806/b43e576a-11fb-4696-a595-5ba102966781.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 97673,
+        "aniId": 82049,
+        "createdAt": "2020-10-12T16:06:26.000Z",
+        "updatedAt": "2021-12-06T09:53:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

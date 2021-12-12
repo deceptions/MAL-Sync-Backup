@@ -39,6 +39,28 @@
         "updatedAt": "2021-12-04T17:26:40.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "teppen": {
+        "authors": [
+          "TSUKIMIYA An"
+        ],
+        "identifier": "teppen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Teppen!",
+        "url": "https://fanfox.net/manga/teppen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5158/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10776,
+        "aniId": 40776,
+        "createdAt": "2021-05-20T21:13:47.000Z",
+        "updatedAt": "2021-12-04T17:55:44.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

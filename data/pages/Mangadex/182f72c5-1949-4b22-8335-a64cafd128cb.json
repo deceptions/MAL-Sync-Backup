@@ -11,30 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 121902,
-  "aniId": 111429,
+  "actor": 1,
+  "malId": 140912,
+  "aniId": 137042,
   "createdAt": "2020-10-12T16:17:15.000Z",
-  "updatedAt": "2021-06-07T06:06:21.000Z",
+  "updatedAt": "2021-12-07T20:12:13.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": [],
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pocket.shonenmagazine.com/episode/3269754496534079888"
+      }
+    ],
     "altTitle": [
       "Every Day in a Vampire Family",
+      "Vampire Family Days",
       "柊さんちの吸血事情"
     ],
     "authors": [
       "Yoshikawa, Miki"
     ],
-    "id": 121902,
+    "id": 140912,
     "type": "manga",
     "title": "Hiiragi-san Chi no Kyuuketsu Jijou",
-    "url": "https://myanimelist.net/manga/121902/Hiiragi-san_Chi_no_Kyuuketsu_Jijou",
-    "image": "https://cdn.myanimelist.net/images/manga/2/222122.jpg",
-    "category": "One-shot",
+    "url": "https://myanimelist.net/manga/140912/Hiiragi-san_Chi_no_Kyuuketsu_Jijou",
+    "image": "https://cdn.myanimelist.net/images/manga/2/250922.jpg",
+    "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:48:08.000Z",
-    "updatedAt": "2021-11-24T16:06:19.000Z",
+    "createdAt": "2021-10-15T05:29:46.000Z",
+    "updatedAt": "2021-12-07T19:48:34.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -45,17 +51,17 @@
     "authors": [
       "Miki Yoshikawa"
     ],
-    "id": 111429,
-    "malId": 121902,
+    "id": 137042,
+    "malId": 140912,
     "type": "manga",
     "title": "Hiiragi-san Chi no Kyuuketsu Jijou",
-    "url": "https://anilist.co/manga/111429",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111429-1PvuiDbKrbQp.jpg",
-    "category": "one_shot",
+    "url": "https://anilist.co/manga/137042",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137042-scOh3cKoGFOM.png",
+    "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:58:26.000Z",
-    "updatedAt": "2021-06-18T06:55:44.000Z",
+    "createdAt": "2021-07-27T05:21:36.000Z",
+    "updatedAt": "2021-12-06T14:48:31.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/121902/Hiiragi-san_Chi_no_Kyuuketsu_Jijou"
+  "malUrl": "https://myanimelist.net/manga/140912/Hiiragi-san_Chi_no_Kyuuketsu_Jijou"
 }

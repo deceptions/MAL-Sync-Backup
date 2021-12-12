@@ -27,8 +27,8 @@
     "Mangadex": {
       "e10c02da-e7a3-40e2-8b3d-c6f769d4618c": {
         "authors": [
-          "Nogi Yasuhito",
-          "Kamachi Kazuma"
+          "Kamachi Kazuma",
+          "Nogi Yasuhito"
         ],
         "identifier": "e10c02da-e7a3-40e2-8b3d-c6f769d4618c",
         "type": "manga",
@@ -43,7 +43,7 @@
         "malId": 105912,
         "aniId": 98817,
         "createdAt": "2020-10-12T16:10:40.000Z",
-        "updatedAt": "2021-06-05T02:26:39.000Z",
+        "updatedAt": "2021-12-05T02:50:52.000Z",
         "deletedAt": null
       }
     },
@@ -89,6 +89,30 @@
         "aniId": 98817,
         "createdAt": "2021-02-01T21:01:55.000Z",
         "updatedAt": "2021-11-20T18:14:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yq976099": {
+        "authors": [
+          "Kamachi Kazuma",
+          "Fuyukawa Motoi",
+          "Nogi Yasuhito"
+        ],
+        "identifier": "manga-yq976099",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Toaru Kagaku No Railgun Gaiden: Astral Buddy",
+        "url": "https://readmanganato.com/manga-yq976099",
+        "image": "https://avt.mkklcdnv6temp.com/20/v/15-1583492209.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105912,
+        "aniId": 98817,
+        "createdAt": "2021-06-04T23:50:48.000Z",
+        "updatedAt": "2021-12-05T00:54:11.000Z",
         "deletedAt": null
       }
     }

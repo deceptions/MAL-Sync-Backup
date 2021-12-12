@@ -15,12 +15,19 @@
   "malId": 2906,
   "aniId": 32906,
   "createdAt": "2021-06-05T08:48:58.000Z",
-  "updatedAt": "2021-06-05T09:18:57.000Z",
+  "updatedAt": "2021-12-05T09:50:03.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/W%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A8%E3%83%83%E3%83%88"
+      }
+    ],
     "altTitle": [
-      "W Juliet 2, W Juliet II, W-Juliet 2",
+      "W Juliet 2",
+      "W Juliet II",
+      "W-Juliet 2",
       "WジュリエットII"
     ],
     "authors": [
@@ -34,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:46.000Z",
-    "updatedAt": "2021-06-05T08:48:57.000Z",
+    "updatedAt": "2021-12-05T09:16:59.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -12,14 +12,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actor": null,
   "malId": 125512,
   "aniId": 117851,
   "createdAt": "2020-10-12T16:18:58.000Z",
-  "updatedAt": "2021-06-07T21:27:44.000Z",
+  "updatedAt": "2021-12-07T21:37:00.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.sunday-webry.com/detail.php?title_id=1021"
+      }
+    ],
     "altTitle": [
       "異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～"
     ],
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-11-29T05:53:04.000Z",
-    "updatedAt": "2021-06-07T21:27:42.000Z",
+    "updatedAt": "2021-12-07T21:35:19.000Z",
     "deletedAt": null
   },
   "Anilist": {

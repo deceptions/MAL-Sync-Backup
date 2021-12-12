@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%9C%E4%BA%95%E8%8A%BD%E8%A1%A3%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9"
+    }
+  ],
   "altTitle": [
     "How to make Sakurai Mei.",
     "The Method to make Sakurai Mei",
@@ -16,13 +21,13 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-05T04:48:59.000Z",
-  "updatedAt": "2021-06-05T04:48:59.000Z",
+  "updatedAt": "2021-12-05T05:18:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "4bd5a39a-924e-4daa-bac7-8abd0afb7c7f": {
         "authors": [
-          "FUKUSHIMA Haruka"
+          "Fukushima Haruka"
         ],
         "identifier": "4bd5a39a-924e-4daa-bac7-8abd0afb7c7f",
         "type": "manga",
@@ -33,11 +38,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 109225,
         "aniId": null,
         "createdAt": "2020-10-12T16:10:56.000Z",
-        "updatedAt": "2021-06-05T08:38:51.000Z",
+        "updatedAt": "2021-12-05T08:48:38.000Z",
         "deletedAt": null
       }
     }

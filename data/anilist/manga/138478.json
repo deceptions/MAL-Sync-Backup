@@ -17,5 +17,28 @@
   "createdAt": "2021-10-31T00:04:20.000Z",
   "updatedAt": "2021-10-31T00:04:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a1f8f17a-6c51-4a35-9205-bc70bb5fa826": {
+        "authors": [
+          "tomomi"
+        ],
+        "identifier": "a1f8f17a-6c51-4a35-9205-bc70bb5fa826",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsurenai Hodo Aokute Azatoi Kurai ni Akai",
+        "url": "https://mangadex.org/title/a1f8f17a-6c51-4a35-9205-bc70bb5fa826",
+        "image": "https://uploads.mangadex.org/covers/a1f8f17a-6c51-4a35-9205-bc70bb5fa826/cb8c59f0-f87f-4a55-851c-5570aea7159e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139937,
+        "aniId": 138478,
+        "createdAt": "2021-12-05T02:46:17.000Z",
+        "updatedAt": "2021-12-05T03:16:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

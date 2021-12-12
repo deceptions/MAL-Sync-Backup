@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://gammaplus.takeshobo.co.jp/manga/yukino_niiduma/"
+    }
+  ],
   "altTitle": [
     "雪の新妻は僕と溶け合いたい"
   ],
@@ -14,13 +19,13 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-08T00:20:57.000Z",
-  "updatedAt": "2021-06-08T00:20:57.000Z",
+  "updatedAt": "2021-12-08T00:36:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "6bdf5d4e-f8d7-48d8-8789-97103d6c74b6": {
         "authors": [
-          "MIHOSHI Megane"
+          "Mihoshi Megane"
         ],
         "identifier": "6bdf5d4e-f8d7-48d8-8789-97103d6c74b6",
         "type": "manga",
@@ -31,33 +36,11 @@
         "hentai": true,
         "sticky": false,
         "active": true,
-        "actor": 1,
-        "malId": 128824,
-        "aniId": 124025,
-        "createdAt": "2020-10-22T09:09:04.000Z",
-        "updatedAt": "2021-06-08T06:43:32.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-ja987257": {
-        "authors": [
-          "Mihoshi Megane"
-        ],
-        "identifier": "manga-ja987257",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Yuki No Niiduma Wa Boku To Tokeaitai",
-        "url": "https://manganato.com/manga-ja987257",
-        "image": "https://avt.mkklcdnv6temp.com/40/e/22-1606102843.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
         "actor": null,
         "malId": 128824,
         "aniId": 124025,
-        "createdAt": "2021-06-08T00:20:57.000Z",
-        "updatedAt": "2021-06-08T06:20:16.000Z",
+        "createdAt": "2020-10-22T09:09:04.000Z",
+        "updatedAt": "2021-12-08T07:12:42.000Z",
         "deletedAt": null
       }
     }

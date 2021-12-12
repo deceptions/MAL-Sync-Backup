@@ -13,12 +13,51 @@
   "sticky": false,
   "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 127656,
+  "aniId": 128040,
   "createdAt": "2021-02-12T08:10:43.000Z",
-  "updatedAt": "2021-06-08T11:09:25.000Z",
+  "updatedAt": "2021-12-08T14:32:32.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Mako-chan's Development Diary",
+      "まこちゃん開発日記"
+    ],
+    "authors": [
+      "Mucha"
+    ],
+    "id": 127656,
+    "type": "manga",
+    "title": "Mako-chan Kaihatsu Nikki",
+    "url": "https://myanimelist.net/manga/127656/Mako-chan_Kaihatsu_Nikki",
+    "image": "https://cdn.myanimelist.net/images/manga/1/241066.jpg",
+    "category": "Doujinshi",
+    "hentai": true,
+    "createdAt": "2021-12-08T12:05:20.000Z",
+    "updatedAt": "2021-12-08T12:05:20.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Mako-Chan Development Diary",
+      "まこちゃん開発日記"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mucha"
+    ],
+    "id": 128040,
+    "malId": 127656,
+    "type": "manga",
+    "title": "Mako-chan Kaihatsu Nikki",
+    "url": "https://anilist.co/manga/128040",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128040-siIHL9uuzGnO.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-07-09T04:43:18.000Z",
+    "updatedAt": "2021-12-08T12:05:20.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/127656/Mako-chan_Kaihatsu_Nikki"
 }

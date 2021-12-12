@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 130959,
   "createdAt": "2021-03-09T00:10:44.000Z",
-  "updatedAt": "2021-06-08T12:27:42.000Z",
+  "updatedAt": "2021-12-08T14:33:25.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "甘い魔ものデートクラブ",
+      "Sweet Devil Date Club"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Chihiro Kuroo"
+    ],
+    "id": 130959,
+    "malId": null,
+    "type": "manga",
+    "title": "Amai Mamono Date Club",
+    "url": "https://anilist.co/manga/130959",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130959-UZGSM4ofyRVJ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T13:05:39.000Z",
+    "updatedAt": "2021-12-08T13:05:39.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

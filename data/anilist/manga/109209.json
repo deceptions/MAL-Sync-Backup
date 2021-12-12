@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T10:49:07.000Z",
-  "updatedAt": "2021-06-21T14:19:32.000Z",
+  "updatedAt": "2021-12-06T11:16:10.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "4011345d-17cf-4387-9661-8dc3fc07db64": {
+        "authors": [
+          "Maodan Dangong Chang"
+        ],
+        "identifier": "4011345d-17cf-4387-9661-8dc3fc07db64",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Coddled Princess's Second Life",
+        "url": "https://mangadex.org/title/4011345d-17cf-4387-9661-8dc3fc07db64",
+        "image": "https://uploads.mangadex.org/covers/4011345d-17cf-4387-9661-8dc3fc07db64/7ab2f20d-0b5b-45ee-a8b3-8595b1f48f5b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 109209,
+        "createdAt": "2020-10-12T16:15:05.000Z",
+        "updatedAt": "2021-12-10T11:48:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

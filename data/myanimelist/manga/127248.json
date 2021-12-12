@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://nakayosi.kodansha.co.jp/manga/196/"
+    }
+  ],
   "altTitle": [
     "Stellar Witch LIP☆S",
     "魔女怪盗LIP☆S"
@@ -16,14 +21,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-07T09:50:42.000Z",
-  "updatedAt": "2021-06-07T09:50:42.000Z",
+  "updatedAt": "2021-12-07T10:18:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "1e66ae0c-e6fd-4ce3-86e9-4f2916fe0788": {
         "authors": [
-          "Ichiko Toko",
-          "Kagami Hana"
+          "Kagami Hana",
+          "Ichiko Toko"
         ],
         "identifier": "1e66ae0c-e6fd-4ce3-86e9-4f2916fe0788",
         "type": "manga",
@@ -34,11 +39,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 127248,
         "aniId": 112427,
         "createdAt": "2020-10-12T16:17:38.000Z",
-        "updatedAt": "2021-06-07T10:18:59.000Z",
+        "updatedAt": "2021-12-07T10:49:03.000Z",
         "deletedAt": null
       }
     },

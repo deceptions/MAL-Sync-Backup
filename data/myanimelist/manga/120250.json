@@ -24,13 +24,13 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:03.000Z",
-  "updatedAt": "2021-10-11T00:08:46.000Z",
+  "updatedAt": "2021-12-07T20:14:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "b84a9c69-624b-4c4f-ac57-8d9a162883f1": {
         "authors": [
-          "Yatera Keita"
+          "Keita Yatera"
         ],
         "identifier": "b84a9c69-624b-4c4f-ac57-8d9a162883f1",
         "type": "manga",
@@ -45,7 +45,7 @@
         "malId": 120250,
         "aniId": 110159,
         "createdAt": "2020-10-12T16:15:41.000Z",
-        "updatedAt": "2021-06-06T15:57:48.000Z",
+        "updatedAt": "2021-12-06T16:19:33.000Z",
         "deletedAt": null
       }
     },
@@ -68,6 +68,28 @@
         "aniId": 110159,
         "createdAt": "2021-02-20T00:07:11.000Z",
         "updatedAt": "2021-11-20T18:44:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ea981583": {
+        "authors": [
+          "Keita Yatera"
+        ],
+        "identifier": "manga-ea981583",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Useless Ponko",
+        "url": "https://manganato.com/manga-ea981583",
+        "image": "https://avt.mkklcdnv6temp.com/20/g/18-1583497893.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120250,
+        "aniId": 110159,
+        "createdAt": "2021-06-03T06:30:51.000Z",
+        "updatedAt": "2021-12-03T07:16:16.000Z",
         "deletedAt": null
       }
     },

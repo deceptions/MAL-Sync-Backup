@@ -15,7 +15,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T10:48:58.000Z",
-  "updatedAt": "2021-06-21T15:21:23.000Z",
+  "updatedAt": "2021-12-06T11:16:10.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "98977b7c-b02a-4e79-8b7f-9de41013d8f3": {
+        "authors": [
+          "Nanjou Akimasa"
+        ],
+        "identifier": "98977b7c-b02a-4e79-8b7f-9de41013d8f3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hoshi no Kirby - KiraKira★Pupupu World",
+        "url": "https://mangadex.org/title/98977b7c-b02a-4e79-8b7f-9de41013d8f3",
+        "image": "https://uploads.mangadex.org/covers/98977b7c-b02a-4e79-8b7f-9de41013d8f3/4438d60b-08cc-4f59-b0d1-9ee7f23ac9f3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 51917,
+        "aniId": 117524,
+        "createdAt": "2020-10-12T16:15:05.000Z",
+        "updatedAt": "2021-12-07T19:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

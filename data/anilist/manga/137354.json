@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-02T17:47:39.000Z",
-  "updatedAt": "2021-08-02T17:47:39.000Z",
+  "updatedAt": "2021-12-08T09:04:49.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "81176294-c75d-4695-b289-b396acc68ab9": {
+        "authors": [
+          "REMU"
+        ],
+        "identifier": "81176294-c75d-4695-b289-b396acc68ab9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Favorite Glasses Holder",
+        "url": "https://mangadex.org/title/81176294-c75d-4695-b289-b396acc68ab9",
+        "image": "https://uploads.mangadex.org/covers/81176294-c75d-4695-b289-b396acc68ab9/15500667-bb5b-4cf6-ac06-c20fa2684220.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 137354,
+        "createdAt": "2020-12-05T15:11:34.000Z",
+        "updatedAt": "2021-12-08T09:34:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

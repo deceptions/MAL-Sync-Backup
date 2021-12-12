@@ -24,8 +24,8 @@
     "Mangadex": {
       "4933c657-3abc-4ffa-9496-189d5b388de1": {
         "authors": [
-          "Kazahana Chiruwo",
-          "Momokado Isshin"
+          "Momokado Isshin",
+          "Kazahana Chiruwo"
         ],
         "identifier": "4933c657-3abc-4ffa-9496-189d5b388de1",
         "type": "manga",
@@ -40,7 +40,7 @@
         "malId": 112667,
         "aniId": 112516,
         "createdAt": "2020-10-12T16:13:33.000Z",
-        "updatedAt": "2021-06-05T22:22:48.000Z",
+        "updatedAt": "2021-12-05T22:48:59.000Z",
         "deletedAt": null
       }
     },
@@ -86,6 +86,29 @@
         "aniId": 112516,
         "createdAt": "2021-03-25T23:49:40.000Z",
         "updatedAt": "2021-11-20T20:14:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cl979368": {
+        "authors": [
+          "Kazahana Chiruwo",
+          "Isshin Momokado"
+        ],
+        "identifier": "manga-cl979368",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Saikyou No Kurokishi, Sentou Maid Ni Tenshoku Shimashita",
+        "url": "https://manganato.com/manga-cl979368",
+        "image": "https://avt.mkklcdnv6temp.com/38/v/16-1583494860.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112667,
+        "aniId": 112516,
+        "createdAt": "2021-06-01T15:35:30.000Z",
+        "updatedAt": "2021-12-01T16:24:17.000Z",
         "deletedAt": null
       }
     }

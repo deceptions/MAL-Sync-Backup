@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://youngjump.jp/manga/bokugirl/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%AF%E3%82%AC%E3%83%BC%E3%83%AB"
+    }
+  ],
   "altTitle": [
     "ボクガール"
   ],
@@ -14,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:05.000Z",
-  "updatedAt": "2021-06-11T14:38:35.000Z",
+  "updatedAt": "2021-12-07T08:48:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,28 +89,6 @@
         "aniId": 85213,
         "createdAt": "2021-01-13T22:39:56.000Z",
         "updatedAt": "2021-11-20T17:15:27.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-su951803": {
-        "authors": [
-          "Sugito Akira"
-        ],
-        "identifier": "manga-su951803",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Boku Girl",
-        "url": "https://manganato.com/manga-su951803",
-        "image": "https://avt.mkklcdnv6temp.com/17/f/1-1583464365.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 63781,
-        "aniId": 85213,
-        "createdAt": "2021-06-11T14:38:32.000Z",
-        "updatedAt": "2021-06-11T15:08:18.000Z",
         "deletedAt": null
       }
     }

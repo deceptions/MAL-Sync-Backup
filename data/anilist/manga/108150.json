@@ -18,7 +18,33 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-28T17:23:47.000Z",
-  "updatedAt": "2021-06-21T14:15:51.000Z",
+  "updatedAt": "2021-12-06T13:16:47.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "dd4c96d3-d69c-4fca-8296-60dcbca27cb5": {
+        "authors": [
+          "Erewhon",
+          "Lin Lang",
+          "Yu Ci",
+          "Yuci"
+        ],
+        "identifier": "dd4c96d3-d69c-4fca-8296-60dcbca27cb5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hyacinth",
+        "url": "https://mangadex.org/title/dd4c96d3-d69c-4fca-8296-60dcbca27cb5",
+        "image": "https://uploads.mangadex.org/covers/dd4c96d3-d69c-4fca-8296-60dcbca27cb5/e100228d-295c-42d5-a7fa-c8df2a6e1b3b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 108150,
+        "createdAt": "2020-10-12T16:15:18.000Z",
+        "updatedAt": "2021-12-10T11:49:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

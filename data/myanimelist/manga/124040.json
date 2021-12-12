@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.naver.com/webtoon/list.nhn?titleId=689705"
+    }
+  ],
   "altTitle": [
     "완벽한 허니문"
   ],
@@ -15,14 +20,14 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2021-01-15T11:32:40.000Z",
-  "updatedAt": "2021-06-05T02:21:07.000Z",
+  "updatedAt": "2021-12-05T02:50:31.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "dbaef90b-7bf6-45aa-a0f3-a83a848b486c": {
         "authors": [
-          "Yaet Saram",
-          "Hua-Ryu Dongpung"
+          "Hua-Ryu Dongpung",
+          "Yaet Saram"
         ],
         "identifier": "dbaef90b-7bf6-45aa-a0f3-a83a848b486c",
         "type": "manga",
@@ -33,11 +38,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 124040,
         "aniId": 98682,
         "createdAt": "2020-10-12T16:10:35.000Z",
-        "updatedAt": "2021-06-05T09:18:57.000Z",
+        "updatedAt": "2021-12-05T09:48:42.000Z",
         "deletedAt": null
       }
     }

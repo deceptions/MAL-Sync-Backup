@@ -1,8 +1,8 @@
 {
   "authors": [
+    "시리얼",
     "얼",
-    "개살구",
-    "시리얼"
+    "개살구"
   ],
   "identifier": "311e45ea-b913-4748-98f2-4c4a9fbb8adb",
   "type": "manga",
@@ -13,54 +13,34 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 93977,
-  "aniId": 96280,
+  "actor": 1,
+  "malId": null,
+  "aniId": 109826,
   "createdAt": "2020-10-12T16:16:35.000Z",
-  "updatedAt": "2021-06-07T00:02:13.000Z",
+  "updatedAt": "2021-12-10T11:48:13.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": null,
-    "altTitle": [
-      "The Boy Who belongs to Group \"B\" Cross",
-      "Bグループの少年X〈クロス〉"
-    ],
-    "authors": [
-      "Sakurai, Haruki",
-      "Bonkara"
-    ],
-    "id": 93977,
-    "type": "manga",
-    "title": "B Group no Shounen X",
-    "url": "https://myanimelist.net/manga/93977/B_Group_no_Shounen_X",
-    "image": "https://cdn.myanimelist.net/images/manga/1/186474.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:46:19.000Z",
-    "updatedAt": "2021-09-29T16:36:30.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "Bグループの少年X〈クロス〉",
-      "The Boy Who belongs to Group \"B\" Cross"
+      "May Belongs to Me",
+      "오월의 주인"
     ],
     "externalLinks": [],
     "authors": [
-      "Haruki Sakurai",
-      "Bonkara"
+      "Gaesalgu",
+      "cereal"
     ],
-    "id": 96280,
-    "malId": 93977,
+    "id": 109826,
+    "malId": null,
     "type": "manga",
-    "title": "B Group no Shounen X",
-    "url": "https://anilist.co/manga/96280",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96280-FMZOpFP1jTFO.jpg",
+    "title": "Owolui Juin",
+    "url": "https://anilist.co/manga/109826",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b109826-I78XRBk1cTUM.png",
     "category": "manga",
-    "hentai": false,
-    "createdAt": "2021-05-20T14:53:50.000Z",
-    "updatedAt": "2021-06-18T01:06:50.000Z",
+    "hentai": true,
+    "createdAt": "2021-05-29T07:12:13.000Z",
+    "updatedAt": "2021-12-07T00:46:22.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/93977/B_Group_no_Shounen_X"
+  "malUrl": ""
 }

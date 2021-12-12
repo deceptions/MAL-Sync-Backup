@@ -42,13 +42,13 @@
         "malId": 119793,
         "aniId": 110745,
         "createdAt": "2020-10-12T16:14:16.000Z",
-        "updatedAt": "2021-06-06T03:43:31.000Z",
+        "updatedAt": "2021-12-06T03:48:32.000Z",
         "deletedAt": null
       },
       "8d616f29-6d51-401c-b783-dc6d7c168b94": {
         "authors": [
-          "ROHGUN",
-          "Akatsuki Touwa"
+          "Akatsuki Touwa",
+          "Rohgun"
         ],
         "identifier": "8d616f29-6d51-401c-b783-dc6d7c168b94",
         "type": "manga",
@@ -63,7 +63,7 @@
         "malId": 119793,
         "aniId": 110745,
         "createdAt": "2020-10-12T16:15:50.000Z",
-        "updatedAt": "2021-06-06T17:11:23.000Z",
+        "updatedAt": "2021-12-06T17:19:36.000Z",
         "deletedAt": null
       }
     },
@@ -109,6 +109,29 @@
         "aniId": 110745,
         "createdAt": "2021-01-27T04:40:20.000Z",
         "updatedAt": "2021-11-20T17:45:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ec981711": {
+        "authors": [
+          "Touwa Akatsuki",
+          "Rohgun"
+        ],
+        "identifier": "manga-ec981711",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "He Didn't Want To Be The Center Of Attention, Hence, After Defeating The Demon Lord, He Became A Guild Master",
+        "url": "https://manganato.com/manga-ec981711",
+        "image": "https://avt.mkklcdnv6temp.com/25/b/18-1583498066.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 119793,
+        "aniId": 110745,
+        "createdAt": "2021-06-01T15:45:42.000Z",
+        "updatedAt": "2021-12-01T16:24:17.000Z",
         "deletedAt": null
       }
     }

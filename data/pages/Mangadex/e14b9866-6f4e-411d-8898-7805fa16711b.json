@@ -1,6 +1,5 @@
 {
   "authors": [
-    "",
     "pxc"
   ],
   "identifier": "e14b9866-6f4e-411d-8898-7805fa16711b",
@@ -12,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 130144,
   "createdAt": "2021-01-17T19:33:01.000Z",
-  "updatedAt": "2021-06-08T10:04:13.000Z",
+  "updatedAt": "2021-12-08T14:32:58.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "你再动我一下试试！",
+      "Try Me Again If You Dare!"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "pxc"
+    ],
+    "id": 130144,
+    "malId": null,
+    "type": "manga",
+    "title": "Ni Zai Dong Wo Yixia Shishi!",
+    "url": "https://anilist.co/manga/130144",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130144-LvGyyRliG5Sa.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-13T13:15:02.000Z",
+    "updatedAt": "2021-12-08T11:03:49.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

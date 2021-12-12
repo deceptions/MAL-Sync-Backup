@@ -17,9 +17,32 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-08T12:55:21.000Z",
-  "updatedAt": "2021-09-06T18:05:10.000Z",
+  "updatedAt": "2021-12-08T11:35:40.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "c7a10d9f-6628-4d58-b27a-5081ec3db27b": {
+        "authors": [
+          "Maji Manji",
+          "Yugyoji Tama"
+        ],
+        "identifier": "c7a10d9f-6628-4d58-b27a-5081ec3db27b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Binbou Reijou no Kanchigai Seijo Den",
+        "url": "https://mangadex.org/title/c7a10d9f-6628-4d58-b27a-5081ec3db27b",
+        "image": "https://uploads.mangadex.org/covers/c7a10d9f-6628-4d58-b27a-5081ec3db27b/480e463e-101a-4925-81ea-74870df9689e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 135249,
+        "createdAt": "2021-02-02T17:31:46.000Z",
+        "updatedAt": "2021-12-08T14:32:40.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-kr987952": {
         "authors": [

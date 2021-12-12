@@ -55,8 +55,8 @@
       },
       "e342c2d8-daf1-4d93-ba62-b9175fbcd958": {
         "authors": [
-          "reku kuukan",
-          "reku"
+          "Reku Kuukan",
+          "Reku"
         ],
         "identifier": "e342c2d8-daf1-4d93-ba62-b9175fbcd958",
         "type": "manga",
@@ -71,7 +71,7 @@
         "malId": 3378,
         "aniId": 33378,
         "createdAt": "2020-10-12T16:19:42.000Z",
-        "updatedAt": "2021-06-07T22:30:46.000Z",
+        "updatedAt": "2021-12-07T22:38:11.000Z",
         "deletedAt": null
       }
     },
@@ -116,6 +116,28 @@
         "aniId": 33378,
         "createdAt": "2021-01-06T17:35:20.000Z",
         "updatedAt": "2021-11-20T16:44:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-oe952787": {
+        "authors": [
+          "Shiina Karuho"
+        ],
+        "identifier": "manga-oe952787",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kimi Ni Todoke",
+        "url": "https://readmanganato.com/manga-oe952787",
+        "image": "https://avt.mkklcdnv6temp.com/1/m/1-1583465747.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3378,
+        "aniId": 33378,
+        "createdAt": "2021-06-01T15:36:50.000Z",
+        "updatedAt": "2021-12-01T16:24:17.000Z",
         "deletedAt": null
       }
     }

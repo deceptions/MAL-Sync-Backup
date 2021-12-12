@@ -1,9 +1,9 @@
 {
   "authors": [
-    "Kubo Tite",
     "Suzuki Takaaki",
+    "Kubo Tite",
     "Ishii Jirou",
-    "NOGUCHI Koyuri"
+    "Noguchi Koyuri"
   ],
   "identifier": "6e3acae4-2705-4fe9-8e14-43d6b566fc28",
   "type": "manga",
@@ -14,14 +14,23 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 122859,
   "aniId": null,
   "createdAt": "2020-10-12T16:19:44.000Z",
-  "updatedAt": "2021-06-08T07:05:57.000Z",
+  "updatedAt": "2021-12-08T07:36:22.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://youngjump.jp/manga/sakura_taisen/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E3%82%B5%E3%82%AF%E3%83%A9%E5%A4%A7%E6%88%A6#%E6%BC%AB%E7%94%BB"
+      }
+    ],
     "altTitle": [
       "New Sakura Wars the Comic",
       "新サクラ大戦 the Comic"
@@ -38,7 +47,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-07T22:51:27.000Z",
-    "updatedAt": "2021-06-07T22:51:27.000Z",
+    "updatedAt": "2021-12-07T23:03:59.000Z",
     "deletedAt": null
   },
   "Anilist": null,

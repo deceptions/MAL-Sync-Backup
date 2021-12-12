@@ -12,13 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 142364,
   "createdAt": "2021-11-19T10:14:24.000Z",
-  "updatedAt": "2021-11-19T10:14:43.000Z",
+  "updatedAt": "2021-12-06T09:50:24.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "마성의 공작님은 잠 못 이루고",
+      "The Devilish Duke Can't Sleep",
+      "The Demonic Duke Can't Sleep",
+      "The Monster Duke Can't Sleep"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Lemon Gaeguri",
+      "Goyogom",
+      "Hwa-Gi So"
+    ],
+    "id": 142364,
+    "malId": null,
+    "type": "manga",
+    "title": "Maseongui Gongjangnimeun Jam Mot Irugo",
+    "url": "https://anilist.co/manga/142364",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142364-xOvrSlvnO3jb.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-05T17:16:07.000Z",
+    "updatedAt": "2021-12-06T23:16:11.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -1,6 +1,6 @@
 {
   "authors": [
-    "KAITANI Shinobu"
+    "Kaitani Shinobu"
   ],
   "identifier": "aaf765ea-8305-4394-96ab-ca91fad83306",
   "type": "manga",
@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 132162,
   "aniId": 113660,
   "createdAt": "2020-12-04T09:52:58.000Z",
-  "updatedAt": "2021-06-08T08:46:42.000Z",
+  "updatedAt": "2021-12-08T09:06:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%BF%A0%E5%B1%B1%E3%83%9D%E3%83%AA%E3%82%B9%E3%82%AE%E3%83%A3%E3%83%B3%E3%82%B0"
+      }
+    ],
     "altTitle": [
       "Suizan Police Gang",
       "翠山ポリスギャング"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-12-31T13:19:12.000Z",
-    "updatedAt": "2021-06-08T08:26:02.000Z",
+    "updatedAt": "2021-12-08T08:34:50.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -8,53 +8,88 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
-  "malId": null,
-  "aniId": 129874,
+  "actor": null,
+  "malId": 47778,
+  "aniId": 142329,
   "createdAt": "2021-02-15T17:36:25.000Z",
-  "updatedAt": "2021-11-29T10:58:21.000Z",
+  "updatedAt": "2021-12-06T09:48:53.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://kimetsu.com/anime/yukakuhen/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16054"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24043"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba#Anime"
+      }
+    ],
+    "altTitle": [
+      "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+      "鬼滅の刃 遊郭編"
+    ],
+    "id": 47778,
+    "type": "anime",
+    "title": "Kimetsu no Yaiba: Yuukaku-hen",
+    "url": "https://myanimelist.net/anime/47778/Kimetsu_no_Yaiba__Yuukaku-hen",
+    "image": "https://cdn.myanimelist.net/images/anime/1804/117641.jpg",
+    "category": "TV",
+    "hentai": false,
+    "anidbId": 16054,
+    "createdAt": "2021-02-15T17:36:04.000Z",
+    "updatedAt": "2021-12-05T04:47:07.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
-      "Demon Slayer: Mugen Train Arc (TV)",
-      "鬼滅の刃 無限列車編 (TV)",
+      "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+      "鬼滅の刃 遊郭編",
       "KnY 2",
-      "ดาบพิฆาตอสูร : ศึกรถไฟสู่นิรันดร์"
+      "Demon Slayer: Kimetsu no Yaiba - Le quartier des plaisirs",
+      "ดาบพิฆาตอสูร ภาค 2 บทย่านเริงรมย์"
     ],
     "externalLinks": [
       {
-        "site": "Funimation",
-        "url": "https://www.funimation.com/shows/demon-slayer-kimetsu-no-yaiba"
-      },
-      {
-        "site": "Crunchyroll",
-        "url": "https://crunchyroll.com/series/GY5P48XEY/Demon-Slayer-Kimetsu-no-Yaiba"
+        "site": "Hulu",
+        "url": "https://www.hulu.com/series/2c3e4b00-30d9-434d-bccc-cf346e40e868"
       },
       {
         "site": "Vrv",
         "url": "https://vrv.co/series/GY5P48XEY/Demon-Slayer-Kimetsu-no-Yaiba"
       },
       {
-        "site": "Netflix",
-        "url": "https://www.netflix.com/us/title/81091393"
+        "site": "Crunchyroll",
+        "url": "https://crunchyroll.com/series/GY5P48XEY/Demon-Slayer-Kimetsu-no-Yaiba"
       },
       {
-        "site": "Hulu",
-        "url": "https://www.hulu.com/series/2c3e4b00-30d9-434d-bccc-cf346e40e868"
+        "site": "Funimation",
+        "url": "https://www.funimation.com/shows/demon-slayer-kimetsu-no-yaiba"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/us/title/81091393"
       }
     ],
-    "id": 129874,
-    "malId": 49926,
+    "id": 142329,
+    "malId": 47778,
     "type": "anime",
-    "title": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
-    "url": "https://anilist.co/anime/129874",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129874-DMJGM3jrzQ2H.jpg",
+    "title": "Kimetsu no Yaiba: Yuukaku-hen",
+    "url": "https://anilist.co/anime/142329",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142329-Oa6NT07c5KOn.jpg",
     "category": "tv",
     "hentai": false,
-    "createdAt": "2021-05-20T14:46:16.000Z",
-    "updatedAt": "2021-12-04T15:46:05.000Z",
+    "createdAt": "2021-12-04T17:16:05.000Z",
+    "updatedAt": "2021-12-07T00:16:11.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/anime/47778/Kimetsu_no_Yaiba__Yuukaku-hen"
 }

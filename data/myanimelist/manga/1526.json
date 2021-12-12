@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:34.000Z",
-  "updatedAt": "2021-10-07T04:02:44.000Z",
+  "updatedAt": "2021-12-09T22:36:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -65,6 +65,28 @@
         "aniId": 31526,
         "createdAt": "2021-10-07T04:02:42.000Z",
         "updatedAt": "2021-10-07T04:32:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "daa-daa-daa": {
+        "authors": [
+          "KAWAMURA Mika"
+        ],
+        "identifier": "daa-daa-daa",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Daa! Daa! Daa!",
+        "url": "https://mangasee123.com/manga/Daa-Daa-Daa",
+        "image": "https://cover.nep.li/cover/Daa-Daa-Daa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1526,
+        "aniId": 31526,
+        "createdAt": "2021-12-09T22:36:11.000Z",
+        "updatedAt": "2021-12-09T23:03:38.000Z",
         "deletedAt": null
       }
     }

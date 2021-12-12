@@ -11,13 +11,56 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 80311,
+  "aniId": 99972,
   "createdAt": "2020-11-06T05:28:41.000Z",
-  "updatedAt": "2021-06-08T06:35:27.000Z",
+  "updatedAt": "2021-12-08T09:27:47.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Mesu-nized Festival",
+      "Do You Like Girls?",
+      "Poison Transmission",
+      "Let's Always Be Friends Who Can't Hold Out Forever",
+      "Cum in My Mouth",
+      "Otokonoko ga Osuki? Bangai-hen",
+      "メス化ふぇす"
+    ],
+    "authors": [
+      "Hinemosu, Notari"
+    ],
+    "id": 80311,
+    "type": "manga",
+    "title": "Mesu-ka Fes",
+    "url": "https://myanimelist.net/manga/80311/Mesu-ka_Fes",
+    "image": "https://cdn.myanimelist.net/images/manga/1/138845.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "createdAt": "2021-03-02T10:21:06.000Z",
+    "updatedAt": "2021-12-08T09:27:42.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "メス化ふぇす"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Notari Hinemosu"
+    ],
+    "id": 99972,
+    "malId": 80311,
+    "type": "manga",
+    "title": "Mesu-ka Fes",
+    "url": "https://anilist.co/manga/99972",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx99972-3Z95F33iJi3m.png",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-05-20T14:51:59.000Z",
+    "updatedAt": "2021-12-08T07:34:40.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/80311/Mesu-ka_Fes"
 }

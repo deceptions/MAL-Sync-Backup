@@ -33,15 +33,15 @@
         "page": "Mangadex",
         "title": "Peter Grill to Kenja no Jikan",
         "url": "https://mangadex.org/title/19a107f1-7e6e-487e-8ab0-19c2618d9cd2",
-        "image": "https://uploads.mangadex.org/covers/19a107f1-7e6e-487e-8ab0-19c2618d9cd2/821bb4b4-3d2f-4deb-a1d4-60ca2858c165.jpg",
-        "hentai": false,
+        "image": "https://uploads.mangadex.org/covers/19a107f1-7e6e-487e-8ab0-19c2618d9cd2/319f2041-8a8e-44b0-9f8b-2609f977a150.jpg",
+        "hentai": true,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 109840,
         "aniId": 100143,
         "createdAt": "2020-10-12T16:11:00.000Z",
-        "updatedAt": "2021-06-05T05:01:22.000Z",
+        "updatedAt": "2021-12-05T05:20:13.000Z",
         "deletedAt": null
       }
     },
@@ -86,6 +86,28 @@
         "aniId": 100143,
         "createdAt": "2021-05-31T09:35:12.000Z",
         "updatedAt": "2021-12-01T00:14:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "peter_grill_to_kenja_no_jikan": {
+        "authors": [
+          "Hiyama Daisuke"
+        ],
+        "identifier": "peter_grill_to_kenja_no_jikan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Peter Grill to Kenja no Jikan",
+        "url": "https://fanfox.net/manga/peter_grill_to_kenja_no_jikan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/26505/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109840,
+        "aniId": 100143,
+        "createdAt": "2021-06-04T01:19:29.000Z",
+        "updatedAt": "2021-12-04T02:22:08.000Z",
         "deletedAt": null
       }
     }

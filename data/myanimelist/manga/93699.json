@@ -19,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:16.000Z",
-  "updatedAt": "2021-11-05T11:34:54.000Z",
+  "updatedAt": "2021-12-11T13:05:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -63,6 +63,28 @@
         "aniId": 87217,
         "createdAt": "2021-01-21T11:34:27.000Z",
         "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "innocent_rouge": {
+        "authors": [
+          "SAKAMOTO Shinichi"
+        ],
+        "identifier": "innocent_rouge",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Innocent Rouge",
+        "url": "https://fanfox.net/manga/innocent_rouge/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20521/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93699,
+        "aniId": 87217,
+        "createdAt": "2021-06-04T12:51:28.000Z",
+        "updatedAt": "2021-12-04T13:54:20.000Z",
         "deletedAt": null
       }
     },

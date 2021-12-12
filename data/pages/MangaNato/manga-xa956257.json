@@ -15,12 +15,24 @@
   "malId": 20242,
   "aniId": 50242,
   "createdAt": "2021-06-07T11:37:20.000Z",
-  "updatedAt": "2021-06-07T12:05:48.000Z",
+  "updatedAt": "2021-12-07T12:17:35.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://jumpsq.shueisha.co.jp/rensai/binbou/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E8%B2%A7%E4%B9%8F%E7%A5%9E%E3%81%8C!"
+      }
+    ],
     "altTitle": [
-      "Binboukami ga!, Binbou Kami ga!, The God of Poverty Is!, Kaette Kudasai.",
+      "Binboukami ga!",
+      "Binbou Kami ga!",
+      "The God of Poverty Is!",
+      "Kaette Kudasai.",
       "貧乏神が！"
     ],
     "authors": [
@@ -30,11 +42,11 @@
     "type": "manga",
     "title": "Binbougami ga!",
     "url": "https://myanimelist.net/manga/20242/Binbougami_ga",
-    "image": "https://cdn.myanimelist.net/images/manga/5/81306.jpg",
+    "image": "https://cdn.myanimelist.net/images/manga/2/253086.jpg",
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:42:49.000Z",
-    "updatedAt": "2021-06-07T11:37:20.000Z",
+    "updatedAt": "2021-12-07T11:46:11.000Z",
     "deletedAt": null
   },
   "Anilist": {

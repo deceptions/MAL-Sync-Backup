@@ -1,7 +1,7 @@
 {
   "authors": [
     "Gosai",
-    "MATSUMOTO Ayaka"
+    "Matsumoto Ayaka"
   ],
   "identifier": "0a3b6867-1d06-4baa-a520-315283c26b8e",
   "type": "manga",
@@ -12,14 +12,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 133094,
   "aniId": 121815,
   "createdAt": "2020-10-12T16:20:42.000Z",
-  "updatedAt": "2021-06-08T00:53:46.000Z",
+  "updatedAt": "2021-12-08T01:12:53.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.pixiv.net/works/3313"
+      }
+    ],
     "altTitle": [
       "My Wife's Wild Love",
       "ぼくの嫁の乱暴な愛情"
@@ -36,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-04-09T15:51:39.000Z",
-    "updatedAt": "2021-06-08T00:53:39.000Z",
+    "updatedAt": "2021-12-08T01:08:32.000Z",
     "deletedAt": null
   },
   "Anilist": {

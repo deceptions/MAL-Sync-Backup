@@ -1,6 +1,6 @@
 {
   "authors": [
-    "SETO Mikumo"
+    "Seto Mikumo"
   ],
   "identifier": "cf59ba39-c4c2-49ab-9615-5449c55afc66",
   "type": "manga",
@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 2,
+  "malId": 138939,
   "aniId": null,
   "createdAt": "2020-10-12T16:15:22.000Z",
-  "updatedAt": "2021-06-06T13:08:53.000Z",
+  "updatedAt": "2021-12-07T19:41:17.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://gekkansunday.net/work/419"
+      }
+    ],
+    "altTitle": [
+      "ボンバボーイ"
+    ],
+    "authors": [
+      "Seto, Mikumo"
+    ],
+    "id": 138939,
+    "type": "manga",
+    "title": "Bomber Boy",
+    "url": "https://myanimelist.net/manga/138939/Bomber_Boy",
+    "image": "https://cdn.myanimelist.net/images/manga/2/248441.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-06T13:47:06.000Z",
+    "updatedAt": "2021-12-06T13:47:06.000Z",
+    "deletedAt": null
+  },
   "Anilist": null,
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/138939/Bomber_Boy"
 }

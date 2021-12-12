@@ -28,16 +28,16 @@
     "Mangadex": {
       "84a16155-afda-47d5-9aec-606e46307231": {
         "authors": [
-          "YUZUMA Shiro",
           "Miki Nazuna",
-          "Gochou"
+          "Gochou",
+          "Yuzuma Shiro"
         ],
         "identifier": "84a16155-afda-47d5-9aec-606e46307231",
         "type": "manga",
         "page": "Mangadex",
-        "title": "Your SSS-rank Afterlife is Confirmed, Virtuous Old Man",
+        "title": "Your SSS-Rank Afterlife Is Confirmed, Virtuous Old Man",
         "url": "https://mangadex.org/title/84a16155-afda-47d5-9aec-606e46307231",
-        "image": "https://uploads.mangadex.org/covers/84a16155-afda-47d5-9aec-606e46307231/123ec5c5-0774-469c-99ca-41008fdeca93.jpg",
+        "image": "https://uploads.mangadex.org/covers/84a16155-afda-47d5-9aec-606e46307231/7eb59d40-cb83-4d20-b071-a4b95a581acb.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
@@ -45,7 +45,7 @@
         "malId": 125787,
         "aniId": 117733,
         "createdAt": "2020-10-12T16:17:05.000Z",
-        "updatedAt": "2021-06-07T04:40:11.000Z",
+        "updatedAt": "2021-12-07T04:47:44.000Z",
         "deletedAt": null
       }
     },
@@ -93,6 +93,30 @@
         "aniId": 117733,
         "createdAt": "2021-02-08T06:20:03.000Z",
         "updatedAt": "2021-11-20T18:44:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gr983952": {
+        "authors": [
+          "Nazuna Miki",
+          "Shiro Yuzuma",
+          "Gochou"
+        ],
+        "identifier": "manga-gr983952",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "As A Virtuous Middle-Aged Man, My New Life Was Confirmed To Be Sss Rank",
+        "url": "https://readmanganato.com/manga-gr983952",
+        "image": "https://avt.mkklcdnv6temp.com/7/z/20-1583501330.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 125787,
+        "aniId": 117733,
+        "createdAt": "2021-06-02T10:01:43.000Z",
+        "updatedAt": "2021-12-02T10:48:29.000Z",
         "deletedAt": null
       }
     }

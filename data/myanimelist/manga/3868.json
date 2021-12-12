@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B0%E3%83%AB%E3%82%A4"
+    }
+  ],
   "altTitle": [
     "Death Frenzy",
     "Crazy for Death",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:54.000Z",
-  "updatedAt": "2021-09-29T19:06:44.000Z",
+  "updatedAt": "2021-12-07T20:09:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -63,6 +68,29 @@
         "aniId": 33868,
         "createdAt": "2021-03-24T19:50:53.000Z",
         "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kw961379": {
+        "authors": [
+          "Yamaguchi Takayuki",
+          "Nanjou Norio"
+        ],
+        "identifier": "manga-kw961379",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shigurui",
+        "url": "https://manganato.com/manga-kw961379",
+        "image": "https://avt.mkklcdnv6temp.com/35/u/7-1583477622.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3868,
+        "aniId": 33868,
+        "createdAt": "2021-06-03T17:49:29.000Z",
+        "updatedAt": "2021-12-03T18:51:21.000Z",
         "deletedAt": null
       }
     },

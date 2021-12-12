@@ -1,6 +1,6 @@
 {
   "authors": [
-    "Yoshimura Yoshi"
+    "Yoshi Yoshimura"
   ],
   "identifier": "468bfe80-5869-4661-a1ee-d288c5491fc3",
   "type": "manga",
@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 136060,
   "aniId": 128954,
   "createdAt": "2021-01-13T23:10:16.000Z",
-  "updatedAt": "2021-06-08T10:43:18.000Z",
+  "updatedAt": "2021-12-08T11:07:40.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comiccune.jp/series/harebarebiyori/"
+      }
+    ],
     "altTitle": [
       "A Fine and Bright Day",
       "晴れ晴れ日和"
@@ -30,11 +35,11 @@
     "type": "manga",
     "title": "Harebare Hiyori",
     "url": "https://myanimelist.net/manga/136060/Harebare_Hiyori",
-    "image": "https://cdn.myanimelist.net/images/manga/2/243907.jpg",
+    "image": "https://cdn.myanimelist.net/images/manga/3/247753.jpg",
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-08T10:43:16.000Z",
-    "updatedAt": "2021-06-08T10:43:16.000Z",
+    "updatedAt": "2021-12-08T11:06:39.000Z",
     "deletedAt": null
   },
   "Anilist": {

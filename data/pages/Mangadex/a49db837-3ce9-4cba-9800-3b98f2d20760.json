@@ -12,12 +12,56 @@
   "sticky": false,
   "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 135946,
+  "aniId": 138014,
   "createdAt": "2020-10-12T16:16:40.000Z",
-  "updatedAt": "2021-06-07T00:39:49.000Z",
+  "updatedAt": "2021-12-07T19:18:56.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_MF01201493010000_68/"
+      }
+    ],
+    "altTitle": [
+      "Self-destruct Girl in Love",
+      "恋する自爆ちゃん"
+    ],
+    "authors": [
+      "Matsuda, Hikari"
+    ],
+    "id": 135946,
+    "type": "manga",
+    "title": "Koisuru Jibaku-chan",
+    "url": "https://myanimelist.net/manga/135946/Koisuru_Jibaku-chan",
+    "image": "https://cdn.myanimelist.net/images/manga/1/243780.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-11-24T05:38:01.000Z",
+    "updatedAt": "2021-11-24T05:38:01.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "恋する自爆ちゃん",
+      "Self-destruct Girl in Love"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hikari Matsuda"
+    ],
+    "id": 138014,
+    "malId": 135946,
+    "type": "manga",
+    "title": "Koisuru Jibaku-chan",
+    "url": "https://anilist.co/manga/138014",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b138014-etfX8ZXuy8lP.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-17T04:07:00.000Z",
+    "updatedAt": "2021-12-07T01:17:13.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/135946/Koisuru_Jibaku-chan"
 }

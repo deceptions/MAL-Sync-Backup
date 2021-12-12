@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://morningmanga.com/lineup/2"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Cooking_Papa"
+    }
+  ],
   "altTitle": [
     "クッキングパパ"
   ],
@@ -14,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:15.000Z",
-  "updatedAt": "2021-06-11T06:09:13.000Z",
+  "updatedAt": "2021-12-11T06:33:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,28 +67,6 @@
         "aniId": 54841,
         "createdAt": "2021-05-11T17:55:10.000Z",
         "updatedAt": "2021-11-20T22:49:06.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-hp959872": {
-        "authors": [
-          "Ueyama Tochi"
-        ],
-        "identifier": "manga-hp959872",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Cooking Papa",
-        "url": "https://manganato.com/manga-hp959872",
-        "image": "https://avt.mkklcdnv6temp.com/30/a/6-1583475340.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 24841,
-        "aniId": 54841,
-        "createdAt": "2021-06-11T06:08:22.000Z",
-        "updatedAt": "2021-06-11T06:38:18.000Z",
         "deletedAt": null
       }
     }

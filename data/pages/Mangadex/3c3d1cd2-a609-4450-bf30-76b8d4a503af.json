@@ -1,8 +1,8 @@
 {
   "authors": [
-    "Daichi Marui",
     "Ryouta Furusawa",
-    "Hiro Kaburagi"
+    "Hiro Kaburagi",
+    "Daichi Marui"
   ],
   "identifier": "3c3d1cd2-a609-4450-bf30-76b8d4a503af",
   "type": "manga",
@@ -17,10 +17,15 @@
   "malId": 127039,
   "aniId": 118960,
   "createdAt": "2020-10-12T16:20:21.000Z",
-  "updatedAt": "2021-06-07T23:57:20.000Z",
+  "updatedAt": "2021-12-08T00:08:45.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/GREAT_PRETENDER"
+      }
+    ],
     "altTitle": [
       "GREAT PRETENDER",
       "GREAT PRETENDER"
@@ -38,7 +43,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-27T18:10:52.000Z",
-    "updatedAt": "2021-08-31T19:46:16.000Z",
+    "updatedAt": "2021-12-06T01:16:48.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T02:49:29.000Z",
-  "updatedAt": "2021-06-21T14:59:46.000Z",
+  "updatedAt": "2021-12-07T03:16:11.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "8f43d0a2-8f21-4b78-8f31-206e1b905e89": {
+        "authors": [
+          "Kawai Rou"
+        ],
+        "identifier": "8f43d0a2-8f21-4b78-8f31-206e1b905e89",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Her True Wish",
+        "url": "https://mangadex.org/title/8f43d0a2-8f21-4b78-8f31-206e1b905e89",
+        "image": "https://uploads.mangadex.org/covers/8f43d0a2-8f21-4b78-8f31-206e1b905e89/6013e303-14a2-4f4d-b70f-6c42aa045ca2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 115857,
+        "createdAt": "2020-10-12T16:16:52.000Z",
+        "updatedAt": "2021-12-10T11:49:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

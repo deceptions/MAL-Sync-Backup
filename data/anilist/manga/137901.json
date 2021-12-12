@@ -17,9 +17,32 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-15T06:37:00.000Z",
-  "updatedAt": "2021-10-10T01:32:41.000Z",
+  "updatedAt": "2021-12-06T00:16:57.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "96fe1639-b55c-4b0c-8bec-fd941260728e": {
+        "authors": [
+          "Shiraishi Arata",
+          "Ayatsuki Tsuna"
+        ],
+        "identifier": "96fe1639-b55c-4b0c-8bec-fd941260728e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Yuru Fuwa Noka No Moji Bake Skill",
+        "url": "https://mangadex.org/title/96fe1639-b55c-4b0c-8bec-fd941260728e",
+        "image": "https://uploads.mangadex.org/covers/96fe1639-b55c-4b0c-8bec-fd941260728e/d35aeecf-321e-48f1-ada7-d42e9634a712.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 138924,
+        "aniId": 137901,
+        "createdAt": "2020-10-12T16:17:53.000Z",
+        "updatedAt": "2021-12-07T19:29:09.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaFox": {
       "yuru_fuwa_noka_no_moji_bake_skill": {
         "authors": [

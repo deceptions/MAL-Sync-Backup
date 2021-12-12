@@ -25,8 +25,8 @@
     "Mangadex": {
       "f23d78c0-a829-44d7-8bb9-70b5827630a1": {
         "authors": [
-          "Galjigui",
-          "Carumok"
+          "Carumok",
+          "Galjigui"
         ],
         "identifier": "f23d78c0-a829-44d7-8bb9-70b5827630a1",
         "type": "manga",
@@ -37,11 +37,34 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": null,
         "aniId": 121813,
         "createdAt": "2020-10-12T16:20:17.000Z",
-        "updatedAt": "2021-06-08T00:37:53.000Z",
+        "updatedAt": "2021-12-08T01:11:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ill-marry-him": {
+        "authors": [
+          "Carumok",
+          "Galjigui"
+        ],
+        "identifier": "ill-marry-him",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "I'll Marry Him!",
+        "url": "https://mangasee123.com/manga/Ill-Marry-Him",
+        "image": "https://cover.nep.li/cover/Ill-Marry-Him.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 121813,
+        "createdAt": "2021-04-29T15:48:31.000Z",
+        "updatedAt": "2021-12-02T02:16:48.000Z",
         "deletedAt": null
       }
     }

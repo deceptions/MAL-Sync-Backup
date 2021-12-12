@@ -15,7 +15,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-23T21:38:17.000Z",
-  "updatedAt": "2021-06-21T18:00:22.000Z",
+  "updatedAt": "2021-12-07T14:17:13.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "cea7bcce-3c29-461a-a443-720162d250dc": {
+        "authors": [
+          "Murasakino"
+        ],
+        "identifier": "cea7bcce-3c29-461a-a443-720162d250dc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "30 MINUTES.",
+        "url": "https://mangadex.org/title/cea7bcce-3c29-461a-a443-720162d250dc",
+        "image": "https://uploads.mangadex.org/covers/cea7bcce-3c29-461a-a443-720162d250dc/8a2cd50b-4bab-4917-9e78-17dae90eb3a4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 134491,
+        "createdAt": "2020-10-12T16:18:05.000Z",
+        "updatedAt": "2021-12-10T09:53:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

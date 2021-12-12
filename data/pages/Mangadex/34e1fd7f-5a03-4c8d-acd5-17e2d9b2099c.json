@@ -15,10 +15,15 @@
   "malId": 1794,
   "aniId": 31794,
   "createdAt": "2020-10-12T16:13:03.000Z",
-  "updatedAt": "2021-06-05T18:27:29.000Z",
+  "updatedAt": "2021-12-05T18:50:10.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/090%E3%81%88%E3%81%93%E3%81%A8%E3%81%84%E3%81%A3%E3%81%97%E3%82%87%E3%80%82"
+      }
+    ],
     "altTitle": [
       "090えこといっしょ。"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:37.000Z",
-    "updatedAt": "2021-06-09T14:04:57.000Z",
+    "updatedAt": "2021-12-09T14:34:29.000Z",
     "deletedAt": null
   },
   "Anilist": {

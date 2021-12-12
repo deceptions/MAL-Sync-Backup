@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actor": null,
   "malId": 125165,
   "aniId": 116268,
   "createdAt": "2020-10-12T16:18:43.000Z",
-  "updatedAt": "2021-06-07T19:47:11.000Z",
+  "updatedAt": "2021-12-07T20:04:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.mf-fleur.jp/lineup_magazine/cb005/"
+      }
+    ],
     "altTitle": [
       "Does the Cat with the Bell Say Meow?",
       "鈴付きネコはにゃおと鳴く?"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-07T19:46:43.000Z",
-    "updatedAt": "2021-06-07T19:46:43.000Z",
+    "updatedAt": "2021-12-07T20:04:29.000Z",
     "deletedAt": null
   },
   "Anilist": {

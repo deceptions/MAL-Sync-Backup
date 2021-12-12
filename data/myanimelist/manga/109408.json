@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://seiga.nicovideo.jp/comic/22885"
+    }
+  ],
   "altTitle": [
     "Interspecies Reviewers",
     "異種族レビュアーズ"
@@ -16,29 +21,29 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:14.000Z",
-  "updatedAt": "2021-07-11T12:43:48.000Z",
+  "updatedAt": "2021-12-10T22:04:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "1b2fddf9-1385-4f3c-b37a-cf86a9428b1a": {
         "authors": [
-          "Masha",
-          "Amahara"
+          "Amahara",
+          "Masha"
         ],
         "identifier": "1b2fddf9-1385-4f3c-b37a-cf86a9428b1a",
         "type": "manga",
         "page": "Mangadex",
         "title": "Ishuzoku Reviewers",
         "url": "https://mangadex.org/title/1b2fddf9-1385-4f3c-b37a-cf86a9428b1a",
-        "image": "https://uploads.mangadex.org/covers/1b2fddf9-1385-4f3c-b37a-cf86a9428b1a/2c028ab3-e8ca-488d-a9bc-b8ffdee2cff4.jpg",
-        "hentai": false,
+        "image": "https://uploads.mangadex.org/covers/1b2fddf9-1385-4f3c-b37a-cf86a9428b1a/60c9d0e7-5f09-435c-a8c4-20a8bcf13265.jpg",
+        "hentai": true,
         "sticky": false,
         "active": true,
         "actor": null,
         "malId": 109408,
         "aniId": 101175,
         "createdAt": "2020-10-12T16:10:29.000Z",
-        "updatedAt": "2021-06-05T01:05:09.000Z",
+        "updatedAt": "2021-12-05T01:20:51.000Z",
         "deletedAt": null
       }
     },

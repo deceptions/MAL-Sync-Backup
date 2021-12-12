@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 136406,
   "aniId": 127572,
   "createdAt": "2020-10-29T04:42:18.000Z",
-  "updatedAt": "2021-06-08T06:40:13.000Z",
+  "updatedAt": "2021-12-08T07:13:10.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://seiga.nicovideo.jp/comic/46234"
+      }
+    ],
     "altTitle": [
       "Don't Touch Kando-chan!",
       "かんどちゃんには触っちゃダメ！"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-08T06:40:10.000Z",
-    "updatedAt": "2021-06-08T06:40:10.000Z",
+    "updatedAt": "2021-12-08T07:10:10.000Z",
     "deletedAt": null
   },
   "Anilist": {

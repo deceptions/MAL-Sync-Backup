@@ -11,14 +11,14 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 117627,
-  "aniId": null,
+  "aniId": 111488,
   "createdAt": "2020-10-12T16:17:04.000Z",
-  "updatedAt": "2021-06-07T07:39:21.000Z",
+  "updatedAt": "2021-12-11T12:33:41.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [],
     "altTitle": [
       "神落しの鬼"
     ],
@@ -33,9 +33,28 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-07T04:49:55.000Z",
-    "updatedAt": "2021-06-07T04:49:55.000Z",
+    "updatedAt": "2021-12-07T05:17:43.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "神落しの鬼"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kenji Sugawara"
+    ],
+    "id": 111488,
+    "malId": 117627,
+    "type": "manga",
+    "title": "Kamiotoshi no Oni",
+    "url": "https://anilist.co/manga/111488",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111488-4hGaUIV5kLZJ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-11T12:03:52.000Z",
+    "updatedAt": "2021-12-11T12:03:52.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/117627/Kamiotoshi_no_Oni"
 }

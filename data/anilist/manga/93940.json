@@ -37,7 +37,7 @@
         "malId": 86330,
         "aniId": 93940,
         "createdAt": "2020-10-12T16:10:59.000Z",
-        "updatedAt": "2021-06-05T04:55:01.000Z",
+        "updatedAt": "2021-12-05T05:19:54.000Z",
         "deletedAt": null
       }
     },
@@ -82,6 +82,48 @@
         "aniId": 93940,
         "createdAt": "2020-12-30T03:55:18.000Z",
         "updatedAt": "2021-11-20T16:14:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-av977656": {
+        "authors": [
+          "Nakayama Miyuki"
+        ],
+        "identifier": "manga-av977656",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Blend S",
+        "url": "https://readmanganato.com/manga-av977656",
+        "image": "https://avt.mkklcdnv6temp.com/47/d/15-1583493363.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 86330,
+        "aniId": 93940,
+        "createdAt": "2021-06-01T15:42:32.000Z",
+        "updatedAt": "2021-12-01T16:24:17.000Z",
+        "deletedAt": null
+      },
+      "manga-lp988398": {
+        "authors": [
+          "Nakayama Miyuki"
+        ],
+        "identifier": "manga-lp988398",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Blend-S",
+        "url": "https://readmanganato.com/manga-lp988398",
+        "image": "https://avt.mkklcdnv6temp.com/37/f/23-1614876375.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 86330,
+        "aniId": 93940,
+        "createdAt": "2021-06-01T15:42:43.000Z",
+        "updatedAt": "2021-12-01T16:24:17.000Z",
         "deletedAt": null
       }
     }

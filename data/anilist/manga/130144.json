@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-13T13:15:02.000Z",
-  "updatedAt": "2021-09-08T01:34:33.000Z",
+  "updatedAt": "2021-12-08T11:03:49.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "e14b9866-6f4e-411d-8898-7805fa16711b": {
+        "authors": [
+          "pxc"
+        ],
+        "identifier": "e14b9866-6f4e-411d-8898-7805fa16711b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Try Me Again If You Dare!",
+        "url": "https://mangadex.org/title/e14b9866-6f4e-411d-8898-7805fa16711b",
+        "image": "https://uploads.mangadex.org/covers/e14b9866-6f4e-411d-8898-7805fa16711b/6c53d8f6-142a-433a-bf31-28e97860194a.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 130144,
+        "createdAt": "2021-01-17T19:33:01.000Z",
+        "updatedAt": "2021-12-08T14:32:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

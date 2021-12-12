@@ -61,12 +61,12 @@
         "malId": 11734,
         "aniId": 41734,
         "createdAt": "2020-10-12T16:16:55.000Z",
-        "updatedAt": "2021-06-07T03:05:52.000Z",
+        "updatedAt": "2021-12-07T03:16:54.000Z",
         "deletedAt": null
       },
       "43285c7d-bb09-417c-9d46-7fdb216ff77d": {
         "authors": [
-          "NANAO Mio"
+          "Nanao Mio"
         ],
         "identifier": "43285c7d-bb09-417c-9d46-7fdb216ff77d",
         "type": "manga",
@@ -81,7 +81,7 @@
         "malId": 11734,
         "aniId": 41734,
         "createdAt": "2020-10-12T16:18:30.000Z",
-        "updatedAt": "2021-06-07T17:26:19.000Z",
+        "updatedAt": "2021-12-07T17:48:58.000Z",
         "deletedAt": null
       }
     },
@@ -105,6 +105,29 @@
         "aniId": 41734,
         "createdAt": "2021-01-18T21:04:49.000Z",
         "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yk959045": {
+        "authors": [
+          "Gong Ji-Young",
+          "Sahara Mizu"
+        ],
+        "identifier": "manga-yk959045",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Watashitachi No Shiawase Na Jikan",
+        "url": "https://manganato.com/manga-yk959045",
+        "image": "https://avt.mkklcdnv6temp.com/49/i/5-1583473818.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 11734,
+        "aniId": 41734,
+        "createdAt": "2021-06-19T09:50:49.000Z",
+        "updatedAt": "2021-12-09T16:33:38.000Z",
         "deletedAt": null
       }
     }

@@ -25,8 +25,8 @@
     "Mangadex": {
       "0ecebfbe-ba61-4528-adbb-1ec95d08169e": {
         "authors": [
-          "Jimmy (지미)",
-          "Baek Hana"
+          "Baek Hana",
+          "Jimmy (지미)"
         ],
         "identifier": "0ecebfbe-ba61-4528-adbb-1ec95d08169e",
         "type": "manga",
@@ -37,11 +37,33 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": null,
         "aniId": 115942,
         "createdAt": "2020-10-12T16:17:26.000Z",
-        "updatedAt": "2021-06-07T08:11:25.000Z",
+        "updatedAt": "2021-12-07T08:18:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gd983460": {
+        "authors": [
+          "Baek Hana"
+        ],
+        "identifier": "manga-gd983460",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Restrain",
+        "url": "https://manganato.com/manga-gd983460",
+        "image": "https://avt.mkklcdnv6temp.com/39/l/19-1583500616.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 115942,
+        "createdAt": "2021-06-01T16:02:47.000Z",
+        "updatedAt": "2021-12-01T16:24:18.000Z",
         "deletedAt": null
       }
     }

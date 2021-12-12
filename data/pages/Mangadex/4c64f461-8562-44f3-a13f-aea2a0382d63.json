@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 134391,
   "aniId": 128908,
   "createdAt": "2021-01-29T20:55:23.000Z",
-  "updatedAt": "2021-06-08T11:09:18.000Z",
+  "updatedAt": "2021-12-08T11:37:20.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%AC%E3%82%8B%E3%82%81%E3%81%9F"
+      }
+    ],
     "altTitle": [
       "ぬるめた"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-08T11:09:15.000Z",
-    "updatedAt": "2021-06-08T11:09:15.000Z",
+    "updatedAt": "2021-12-08T11:35:49.000Z",
     "deletedAt": null
   },
   "Anilist": {

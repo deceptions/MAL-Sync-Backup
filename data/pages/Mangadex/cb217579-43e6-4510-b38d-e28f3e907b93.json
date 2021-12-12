@@ -1,7 +1,7 @@
 {
   "authors": [
-    "unknown",
-    "Yang Flowers"
+    "Yang Flowers",
+    "Unknown"
   ],
   "identifier": "cb217579-43e6-4510-b38d-e28f3e907b93",
   "type": "manga",
@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 117672,
   "createdAt": "2020-10-12T16:18:51.000Z",
-  "updatedAt": "2021-06-07T20:49:10.000Z",
+  "updatedAt": "2021-12-08T09:32:57.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "There Goes the World",
+      "厄世轨迹",
+      "The Ethiopian Pilgrimage"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yang",
+      "Xiaohua Yang"
+    ],
+    "id": 117672,
+    "malId": null,
+    "type": "manga",
+    "title": "Ershi Locus",
+    "url": "https://anilist.co/manga/117672",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117672-t80LKMw1aZQo.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T18:44:32.000Z",
+    "updatedAt": "2021-12-07T21:34:28.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

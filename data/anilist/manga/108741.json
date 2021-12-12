@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-06-06T00:48:59.000Z",
-  "updatedAt": "2021-06-21T14:17:32.000Z",
+  "updatedAt": "2021-12-06T01:16:31.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "55c242b2-c07c-4665-b809-156b7575d44e": {
+        "authors": [
+          "Gyeol"
+        ],
+        "identifier": "55c242b2-c07c-4665-b809-156b7575d44e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Antinomy",
+        "url": "https://mangadex.org/title/55c242b2-c07c-4665-b809-156b7575d44e",
+        "image": "https://uploads.mangadex.org/covers/55c242b2-c07c-4665-b809-156b7575d44e/8674e189-be1e-4545-b4df-4a968544de6a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 108741,
+        "createdAt": "2020-10-12T16:13:53.000Z",
+        "updatedAt": "2021-12-07T19:30:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,24 +1,64 @@
 {
   "authors": [
-    "Tansan Daisuki",
-    "Demunyan"
+    "Demunyan",
+    "Tansan Daisuki"
   ],
   "identifier": "8a769c56-f105-47da-9e70-9f7bafe1fd3b",
   "type": "manga",
   "page": "Mangadex",
   "title": "FX Fighter Kurumi-chan",
   "url": "https://mangadex.org/title/8a769c56-f105-47da-9e70-9f7bafe1fd3b",
-  "image": "https://uploads.mangadex.org/covers/8a769c56-f105-47da-9e70-9f7bafe1fd3b/e09b3ab4-b547-4140-8813-3f82073aaded.jpg",
+  "image": "https://uploads.mangadex.org/covers/8a769c56-f105-47da-9e70-9f7bafe1fd3b/02e0b01c-aa05-4b1f-ad75-c552be567355.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 134679,
+  "aniId": 128364,
   "createdAt": "2021-03-09T14:40:31.000Z",
-  "updatedAt": "2021-06-08T12:28:42.000Z",
+  "updatedAt": "2021-12-08T14:33:29.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "FX Fighter Kurumi-chan",
+      "FX戦士くるみちゃん"
+    ],
+    "authors": [
+      "Demunyan",
+      "Tansan, Daisuki"
+    ],
+    "id": 134679,
+    "type": "manga",
+    "title": "FX Senshi Kurumi-chan",
+    "url": "https://myanimelist.net/manga/134679/FX_Senshi_Kurumi-chan",
+    "image": "https://cdn.myanimelist.net/images/manga/3/248442.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-11-22T08:43:10.000Z",
+    "updatedAt": "2021-11-22T08:43:10.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "FX戦士くるみちゃん"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Daisuki Tansan",
+      "Demunyan"
+    ],
+    "id": 128364,
+    "malId": 134679,
+    "type": "manga",
+    "title": "FX Senshi Kurumi-chan",
+    "url": "https://anilist.co/manga/128364",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128364-PdeViMUAOSLF.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-21T00:42:57.000Z",
+    "updatedAt": "2021-12-08T13:05:39.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/134679/FX_Senshi_Kurumi-chan"
 }

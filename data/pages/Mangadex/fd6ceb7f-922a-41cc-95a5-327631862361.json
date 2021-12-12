@@ -1,6 +1,6 @@
 {
   "authors": [
-    "ARIMURA Shinobu"
+    "Arimura Shinobu"
   ],
   "identifier": "fd6ceb7f-922a-41cc-95a5-327631862361",
   "type": "manga",
@@ -15,10 +15,15 @@
   "malId": 86112,
   "aniId": 93859,
   "createdAt": "2020-10-12T16:12:59.000Z",
-  "updatedAt": "2021-06-05T18:26:22.000Z",
+  "updatedAt": "2021-12-05T18:49:44.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/SPRITE"
+      }
+    ],
     "altTitle": [
       "SPRITE"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-05T18:21:19.000Z",
-    "updatedAt": "2021-06-05T18:21:19.000Z",
+    "updatedAt": "2021-12-05T18:48:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

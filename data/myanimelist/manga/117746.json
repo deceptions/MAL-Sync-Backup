@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.mf-fleur.jp/lineup_magazine/cb055/"
+    }
+  ],
   "altTitle": [
     "ボーイズ・バッド・ロマンス!"
   ],
@@ -14,13 +19,13 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-07T07:37:29.000Z",
-  "updatedAt": "2021-06-07T07:37:29.000Z",
+  "updatedAt": "2021-12-07T07:48:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "7652a048-624d-4d8d-8858-e854470f8154": {
         "authors": [
-          "Hashimoto Mitsu"
+          "Mitsu Hashimoto"
         ],
         "identifier": "7652a048-624d-4d8d-8858-e854470f8154",
         "type": "manga",
@@ -31,11 +36,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 117746,
         "aniId": 118275,
         "createdAt": "2020-10-12T16:16:12.000Z",
-        "updatedAt": "2021-06-07T07:37:31.000Z",
+        "updatedAt": "2021-12-07T07:51:15.000Z",
         "deletedAt": null
       }
     }

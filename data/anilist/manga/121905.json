@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-05T00:51:40.000Z",
-  "updatedAt": "2021-06-21T15:58:23.000Z",
+  "updatedAt": "2021-12-05T01:16:27.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "0333d7cb-ca68-459c-b1a5-fe1de4672357": {
+        "authors": [
+          "Ookawa Bukubu (Bkub)"
+        ],
+        "identifier": "0333d7cb-ca68-459c-b1a5-fe1de4672357",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "IP Police Tsuduki-chan",
+        "url": "https://mangadex.org/title/0333d7cb-ca68-459c-b1a5-fe1de4672357",
+        "image": "https://uploads.mangadex.org/covers/0333d7cb-ca68-459c-b1a5-fe1de4672357/72b6a32d-6fbf-4deb-ba8a-2526ea64f1d9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 121905,
+        "createdAt": "2020-10-12T16:10:25.000Z",
+        "updatedAt": "2021-12-07T19:37:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

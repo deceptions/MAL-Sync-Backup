@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:22.000Z",
-  "updatedAt": "2021-11-07T05:04:45.000Z",
+  "updatedAt": "2021-12-08T21:33:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 76006,
         "createdAt": "2020-10-12T16:05:44.000Z",
         "updatedAt": "2021-12-03T14:48:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qn951522": {
+        "authors": [
+          "Imamura Yoko"
+        ],
+        "identifier": "manga-qn951522",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Honto No Kanojo",
+        "url": "https://manganato.com/manga-qn951522",
+        "image": "https://avt.mkklcdnv6temp.com/7/s/1-1583463968.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46006,
+        "aniId": 76006,
+        "createdAt": "2021-12-08T21:33:38.000Z",
+        "updatedAt": "2021-12-08T22:03:38.000Z",
         "deletedAt": null
       }
     }

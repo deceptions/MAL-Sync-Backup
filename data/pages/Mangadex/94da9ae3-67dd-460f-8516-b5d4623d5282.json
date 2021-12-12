@@ -12,13 +12,34 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 140243,
   "createdAt": "2021-02-11T03:10:43.000Z",
-  "updatedAt": "2021-11-04T07:04:20.000Z",
+  "updatedAt": "2021-12-06T09:42:36.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "外道転移者のハーレムダンジョン製作記"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sanom",
+      "Takenoko",
+      "Chiri"
+    ],
+    "id": 140243,
+    "malId": null,
+    "type": "manga",
+    "title": "Gedou Tenisha no Harem Dungeon Seisakuki",
+    "url": "https://anilist.co/manga/140243",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140243-0kBGjJ0wT28D.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-10-12T02:08:04.000Z",
+    "updatedAt": "2021-11-13T06:15:43.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

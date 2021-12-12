@@ -39,7 +39,29 @@
         "malId": 123582,
         "aniId": 116467,
         "createdAt": "2020-10-12T16:18:06.000Z",
-        "updatedAt": "2021-06-07T13:52:32.000Z",
+        "updatedAt": "2021-12-07T14:18:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "yukashi_yuusha_no_fukushuutan": {
+        "authors": [
+          "NonB"
+        ],
+        "identifier": "yukashi_yuusha_no_fukushuutan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yukashi Yuusha no Fukushuutan",
+        "url": "https://fanfox.net/manga/yukashi_yuusha_no_fukushuutan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36320/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 123582,
+        "aniId": 116467,
+        "createdAt": "2021-02-19T08:03:31.000Z",
+        "updatedAt": "2021-12-09T16:33:38.000Z",
         "deletedAt": null
       }
     },
@@ -85,7 +107,7 @@
         "malId": 123582,
         "aniId": 116467,
         "createdAt": "2021-06-06T04:49:28.000Z",
-        "updatedAt": "2021-06-06T05:18:57.000Z",
+        "updatedAt": "2021-12-06T05:48:09.000Z",
         "deletedAt": null
       }
     }

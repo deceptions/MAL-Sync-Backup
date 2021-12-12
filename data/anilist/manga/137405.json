@@ -16,9 +16,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-03T13:17:39.000Z",
-  "updatedAt": "2021-10-02T12:00:53.000Z",
+  "updatedAt": "2021-12-08T07:34:29.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "4b4856cd-fb23-4665-84d3-a0c7bc3dddd7": {
+        "authors": [
+          "Two Dimensional Animation"
+        ],
+        "identifier": "4b4856cd-fb23-4665-84d3-a0c7bc3dddd7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Invincible Sword Domain",
+        "url": "https://mangadex.org/title/4b4856cd-fb23-4665-84d3-a0c7bc3dddd7",
+        "image": "https://uploads.mangadex.org/covers/4b4856cd-fb23-4665-84d3-a0c7bc3dddd7/eccc4f44-4c03-460a-b03b-72ef1a42cdc1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 137405,
+        "createdAt": "2020-11-05T06:58:52.000Z",
+        "updatedAt": "2021-12-08T09:27:21.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-jp987150": {
         "authors": [

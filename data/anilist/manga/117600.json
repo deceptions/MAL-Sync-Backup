@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T20:54:55.000Z",
-  "updatedAt": "2021-06-21T15:21:33.000Z",
+  "updatedAt": "2021-12-07T21:34:28.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "31e4ebb4-6f6b-41aa-b582-8e0f89c4d49e": {
+        "authors": [
+          "Muhan"
+        ],
+        "identifier": "31e4ebb4-6f6b-41aa-b582-8e0f89c4d49e",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Give My Heart to You",
+        "url": "https://mangadex.org/title/31e4ebb4-6f6b-41aa-b582-8e0f89c4d49e",
+        "image": "https://uploads.mangadex.org/covers/31e4ebb4-6f6b-41aa-b582-8e0f89c4d49e/a6fb7a79-e545-45e5-b179-c8779ef9aebd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 117600,
+        "createdAt": "2020-10-12T16:18:50.000Z",
+        "updatedAt": "2021-12-10T11:51:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

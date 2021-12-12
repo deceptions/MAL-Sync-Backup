@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-12-16T01:25:01.000Z",
-  "updatedAt": "2021-11-06T20:05:22.000Z",
+  "updatedAt": "2021-12-11T17:34:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,7 +36,7 @@
         "page": "Mangadex",
         "title": "Jinrui o Metsubou Sasete wa Ikemasen",
         "url": "https://mangadex.org/title/f8c3f18c-d75b-4750-86f3-bbbc75fd2ea2",
-        "image": "https://uploads.mangadex.org/covers/f8c3f18c-d75b-4750-86f3-bbbc75fd2ea2/ae398492-34ff-4f14-ae28-086c2fee4cce.jpg",
+        "image": "https://uploads.mangadex.org/covers/f8c3f18c-d75b-4750-86f3-bbbc75fd2ea2/79cdcf1c-298f-422f-aa6c-0d2a0d4fe667.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
@@ -44,7 +44,30 @@
         "malId": 131703,
         "aniId": 127079,
         "createdAt": "2020-12-07T02:39:54.000Z",
-        "updatedAt": "2021-06-08T08:28:21.000Z",
+        "updatedAt": "2021-12-08T08:37:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kr987426": {
+        "authors": [
+          "Takahata Kyu",
+          "Kaba Yuuji"
+        ],
+        "identifier": "manga-kr987426",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Jinrui O Metsubou Sasete Wa Ikemasen",
+        "url": "https://manganato.com/manga-kr987426",
+        "image": "https://avt.mkklcdnv6temp.com/47/f/22-1608282588.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131703,
+        "aniId": 127079,
+        "createdAt": "2021-06-03T14:19:37.000Z",
+        "updatedAt": "2021-12-03T15:22:51.000Z",
         "deletedAt": null
       }
     },
@@ -67,6 +90,29 @@
         "aniId": 127079,
         "createdAt": "2021-07-10T10:43:19.000Z",
         "updatedAt": "2021-07-10T11:13:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "jinrui-o-metsubou-sasete-wa-ikemasen": {
+        "authors": [
+          "Kaba Yuuji",
+          "TAKAHATA Kyu"
+        ],
+        "identifier": "jinrui-o-metsubou-sasete-wa-ikemasen",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Jinrui o Metsubou Sasete wa Ikemasen",
+        "url": "https://mangasee123.com/manga/Jinrui-o-Metsubou-Sasete-wa-Ikemasen",
+        "image": "https://cover.nep.li/cover/Jinrui-o-Metsubou-Sasete-wa-Ikemasen.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131703,
+        "aniId": 127079,
+        "createdAt": "2021-12-11T17:34:45.000Z",
+        "updatedAt": "2021-12-11T18:03:41.000Z",
         "deletedAt": null
       }
     }

@@ -20,9 +20,34 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-29T18:12:13.000Z",
-  "updatedAt": "2021-06-21T14:23:12.000Z",
+  "updatedAt": "2021-12-06T18:47:42.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "c3fad352-cc0d-4c4c-be6c-2180c3f26964": {
+        "authors": [
+          "Nega",
+          "Kawauchi",
+          "Canno",
+          "Hyper Kettle Yesterday (Circle)"
+        ],
+        "identifier": "c3fad352-cc0d-4c4c-be6c-2180c3f26964",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Just You And I",
+        "url": "https://mangadex.org/title/c3fad352-cc0d-4c4c-be6c-2180c3f26964",
+        "image": "https://uploads.mangadex.org/covers/c3fad352-cc0d-4c4c-be6c-2180c3f26964/19090536-918b-40e0-8cd9-2b25b9d7ec73.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 109899,
+        "createdAt": "2020-10-12T16:15:55.000Z",
+        "updatedAt": "2021-12-10T11:48:07.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-ea981957": {
         "authors": [

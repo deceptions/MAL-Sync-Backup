@@ -21,7 +21,7 @@
     "Mangadex": {
       "1e2b7aa2-c726-43f2-a661-a5aae7057856": {
         "authors": [
-          "NONOHARA Nazuna"
+          "Nonohara Nazuna"
         ],
         "identifier": "1e2b7aa2-c726-43f2-a661-a5aae7057856",
         "type": "manga",
@@ -36,7 +36,29 @@
         "malId": 127513,
         "aniId": 119566,
         "createdAt": "2020-10-12T16:20:05.000Z",
-        "updatedAt": "2021-06-08T00:40:59.000Z",
+        "updatedAt": "2021-12-08T01:10:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ig985663": {
+        "authors": [
+          "Nonohara Nazuna"
+        ],
+        "identifier": "manga-ig985663",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dansei Kyoufushou Datta Watashi Ga Av Jouyu Ni Naru Made No Hanashi",
+        "url": "https://manganato.com/manga-ig985663",
+        "image": "https://avt.mkklcdnv6temp.com/25/r/21-1591675145.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 127513,
+        "aniId": 119566,
+        "createdAt": "2021-06-02T10:01:34.000Z",
+        "updatedAt": "2021-12-02T10:48:29.000Z",
         "deletedAt": null
       }
     }

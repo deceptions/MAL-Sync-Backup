@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Harugano Kaoru",
-    "Momokado Isshin"
+    "Momokado Isshin",
+    "Harugano Kaoru"
   ],
   "identifier": "0b7853de-88c0-4854-aede-b3978addb650",
   "type": "manga",
@@ -12,14 +12,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actor": null,
   "malId": 132399,
   "aniId": 115880,
   "createdAt": "2020-10-12T16:18:34.000Z",
-  "updatedAt": "2021-06-07T19:03:57.000Z",
+  "updatedAt": "2021-12-07T19:19:49.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://online.ichijinsha.co.jp/zerosum/comic/zyujin"
+      }
+    ],
     "altTitle": [
       "The Case of the Beastkin Captain's Temporary Engagement",
       "獣人隊長の(仮)婚約事情"
@@ -36,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-07T18:34:37.000Z",
-    "updatedAt": "2021-06-07T18:34:37.000Z",
+    "updatedAt": "2021-12-07T18:47:12.000Z",
     "deletedAt": null
   },
   "Anilist": {

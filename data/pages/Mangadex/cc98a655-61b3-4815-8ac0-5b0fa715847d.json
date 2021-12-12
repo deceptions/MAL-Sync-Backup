@@ -11,13 +11,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 140409,
+  "aniId": 127217,
   "createdAt": "2020-12-06T06:11:11.000Z",
-  "updatedAt": "2021-06-08T08:27:27.000Z",
+  "updatedAt": "2021-12-08T10:03:38.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Lullaby of a Dawn",
+      "Daybreak Song",
+      "The Song of Dawn",
+      "夜明けの唄"
+    ],
+    "authors": [
+      "Yuno, Ichika"
+    ],
+    "id": 140409,
+    "type": "manga",
+    "title": "Yoake no Uta",
+    "url": "https://myanimelist.net/manga/140409/Yoake_no_Uta",
+    "image": "https://cdn.myanimelist.net/images/manga/3/250332.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T09:05:01.000Z",
+    "updatedAt": "2021-12-08T09:05:01.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "夜明けの唄",
+      "Daybreak Song",
+      "Lullaby of a Dawn",
+      "The Song of Dawn"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ichika Yuno"
+    ],
+    "id": 127217,
+    "malId": 140409,
+    "type": "manga",
+    "title": "Yoake no Uta",
+    "url": "https://anilist.co/manga/127217",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127217-ffOAIQkMNmvD.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-30T20:50:02.000Z",
+    "updatedAt": "2021-09-24T11:15:24.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/140409/Yoake_no_Uta"
 }

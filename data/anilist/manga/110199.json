@@ -25,8 +25,8 @@
     "Mangadex": {
       "5f56da4a-339f-4a28-83f2-f47d5081e001": {
         "authors": [
-          "Azuma Midori",
-          "Kazuki Wataru"
+          "Kazuki Wataru",
+          "Azuma Midori"
         ],
         "identifier": "5f56da4a-339f-4a28-83f2-f47d5081e001",
         "type": "manga",
@@ -41,7 +41,7 @@
         "malId": 120898,
         "aniId": 110199,
         "createdAt": "2020-10-12T16:16:25.000Z",
-        "updatedAt": "2021-06-06T22:28:38.000Z",
+        "updatedAt": "2021-12-06T22:47:13.000Z",
         "deletedAt": null
       }
     },
@@ -87,6 +87,28 @@
         "aniId": 110199,
         "createdAt": "2021-06-13T07:08:33.000Z",
         "updatedAt": "2021-06-13T07:38:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "niwaka_reijou_wa_outaishi_denka_no_yatoware_konyakusha": {
+        "authors": [
+          "Kazuki Wataru"
+        ],
+        "identifier": "niwaka_reijou_wa_outaishi_denka_no_yatoware_konyakusha",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Niwaka Reijou wa Outaishi Denka no Yatoware Konyakusha",
+        "url": "https://fanfox.net/manga/niwaka_reijou_wa_outaishi_denka_no_yatoware_konyakusha/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30770/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120898,
+        "aniId": 110199,
+        "createdAt": "2021-12-06T12:16:58.000Z",
+        "updatedAt": "2021-12-06T12:46:06.000Z",
         "deletedAt": null
       }
     }

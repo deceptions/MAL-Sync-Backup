@@ -16,10 +16,19 @@
   "malId": 1733,
   "aniId": 31733,
   "createdAt": "2021-06-07T16:06:43.000Z",
-  "updatedAt": "2021-06-07T16:33:57.000Z",
+  "updatedAt": "2021-12-07T16:49:43.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://gangan.square-enix.co.jp/spiral/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Spiral:_The_Bonds_of_Reasoning#Spiral:_Alive"
+      }
+    ],
     "altTitle": [
       "Spiral Alive",
       "スパイラル・アライヴ"
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:37.000Z",
-    "updatedAt": "2021-06-07T16:06:39.000Z",
+    "updatedAt": "2021-12-07T16:16:11.000Z",
     "deletedAt": null
   },
   "Anilist": {

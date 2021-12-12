@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Kujo Karuna",
-    "Tanaka Hikaru"
+    "Tanaka Hikaru",
+    "Kujo Karuna"
   ],
   "identifier": "aa2f8183-926a-42e1-b47d-a901e1e4b55b",
   "type": "manga",
@@ -12,14 +12,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 117140,
   "aniId": null,
   "createdAt": "2020-10-12T16:16:55.000Z",
-  "updatedAt": "2021-06-07T07:39:19.000Z",
+  "updatedAt": "2021-12-07T07:52:36.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.ganganonline.com/contents/aphorism/"
+      }
+    ],
     "altTitle": [
       "堕アホリズム"
     ],
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-07T03:19:39.000Z",
-    "updatedAt": "2021-06-07T03:19:39.000Z",
+    "updatedAt": "2021-12-07T03:46:42.000Z",
     "deletedAt": null
   },
   "Anilist": null,

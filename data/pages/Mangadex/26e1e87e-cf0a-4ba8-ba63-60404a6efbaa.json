@@ -11,13 +11,56 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 137568,
+  "aniId": 127373,
   "createdAt": "2020-11-23T10:54:17.000Z",
-  "updatedAt": "2021-06-08T07:35:44.000Z",
+  "updatedAt": "2021-12-08T09:30:39.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://gammaplus.takeshobo.co.jp/manga/tsukihanaotome/"
+      }
+    ],
+    "altTitle": [
+      "月花乙女は猛犬が好き"
+    ],
+    "authors": [
+      "Natsumi, Ruyu"
+    ],
+    "id": 137568,
+    "type": "manga",
+    "title": "Tsukihana Otome wa Mouken ga Suki",
+    "url": "https://myanimelist.net/manga/137568/Tsukihana_Otome_wa_Mouken_ga_Suki",
+    "image": "https://cdn.myanimelist.net/images/manga/3/246281.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-07-18T07:33:32.000Z",
+    "updatedAt": "2021-11-26T15:05:52.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "月花乙女は猛犬が好き",
+      "Tsukihana Otome ha Mouken ga Suki"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ruyu Natsumi"
+    ],
+    "id": 127373,
+    "malId": 137568,
+    "type": "manga",
+    "title": "Tsukihana Otome wa Mouken ga Suki",
+    "url": "https://anilist.co/manga/127373",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127373-Edb9cJ63NWKF.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T08:34:41.000Z",
+    "updatedAt": "2021-12-08T08:34:41.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/137568/Tsukihana_Otome_wa_Mouken_ga_Suki"
 }

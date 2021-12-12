@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Nagao Uka",
-    "Yunaka"
+    "Yunaka",
+    "Nagao Uka"
   ],
   "identifier": "896a437a-6f12-4728-a6c7-2961b1e300c6",
   "type": "manga",
@@ -16,10 +16,15 @@
   "malId": 129243,
   "aniId": 122969,
   "createdAt": "2020-10-12T16:19:14.000Z",
-  "updatedAt": "2021-06-07T21:32:10.000Z",
+  "updatedAt": "2021-12-07T21:41:21.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_MF00000450010000_68/"
+      }
+    ],
     "altTitle": [
       "As a Result of Breaking an Otome Game, the Villainess Young Lady Becomes a Cheat!",
       "お酒のために乙女ゲー設定をぶち壊した結果、悪役令嬢がチート令嬢になりました"
@@ -36,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-11-17T20:51:08.000Z",
-    "updatedAt": "2021-08-02T05:19:30.000Z",
+    "updatedAt": "2021-12-07T23:04:20.000Z",
     "deletedAt": null
   },
   "Anilist": {

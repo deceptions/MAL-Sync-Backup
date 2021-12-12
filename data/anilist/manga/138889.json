@@ -15,7 +15,30 @@
   "category": "one_shot",
   "hentai": false,
   "createdAt": "2021-09-08T11:04:30.000Z",
-  "updatedAt": "2021-09-08T11:34:30.000Z",
+  "updatedAt": "2021-12-05T21:16:18.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "be1b8107-ac37-41f3-9cd9-02fe85ac3de7": {
+        "authors": [
+          "Yabuno Tenya"
+        ],
+        "identifier": "be1b8107-ac37-41f3-9cd9-02fe85ac3de7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Inazuma Eleven Reloaded",
+        "url": "https://mangadex.org/title/be1b8107-ac37-41f3-9cd9-02fe85ac3de7",
+        "image": "https://uploads.mangadex.org/covers/be1b8107-ac37-41f3-9cd9-02fe85ac3de7/8adc4ae9-1cc6-4f3a-9332-cf1a1786b933.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 113275,
+        "aniId": 138889,
+        "createdAt": "2020-10-12T16:13:19.000Z",
+        "updatedAt": "2021-12-06T09:51:09.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

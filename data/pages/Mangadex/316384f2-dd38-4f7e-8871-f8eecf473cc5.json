@@ -15,10 +15,15 @@
   "malId": 3886,
   "aniId": 33886,
   "createdAt": "2020-12-07T18:10:49.000Z",
-  "updatedAt": "2021-06-08T08:29:04.000Z",
+  "updatedAt": "2021-12-08T08:37:20.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Mizuiro_Jidai"
+      }
+    ],
     "altTitle": [
       "Aqua Age",
       "Aqua Age",
@@ -36,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-12-07T18:10:48.000Z",
-    "updatedAt": "2021-06-07T18:35:27.000Z",
+    "updatedAt": "2021-12-07T18:46:31.000Z",
     "deletedAt": null
   },
   "Anilist": {

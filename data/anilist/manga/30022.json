@@ -99,7 +99,7 @@
         "malId": 22,
         "aniId": 30022,
         "createdAt": "2020-11-15T06:14:51.000Z",
-        "updatedAt": "2021-06-08T07:22:51.000Z",
+        "updatedAt": "2021-12-08T07:39:02.000Z",
         "deletedAt": null
       }
     },
@@ -142,6 +142,28 @@
         "aniId": 30022,
         "createdAt": "2021-06-29T17:50:11.000Z",
         "updatedAt": "2021-06-30T07:50:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kx962306": {
+        "authors": [
+          "Watsuki Nobuhiro"
+        ],
+        "identifier": "manga-kx962306",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Rurouni Kenshin",
+        "url": "https://readmanganato.com/manga-kx962306",
+        "image": "https://avt.mkklcdnv6temp.com/14/y/8-1583478745.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 22,
+        "aniId": 30022,
+        "createdAt": "2021-06-01T08:53:05.000Z",
+        "updatedAt": "2021-12-02T06:47:48.000Z",
         "deletedAt": null
       }
     }

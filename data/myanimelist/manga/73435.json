@@ -14,7 +14,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:21.000Z",
-  "updatedAt": "2021-10-16T06:59:36.000Z",
+  "updatedAt": "2021-12-10T13:04:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +80,28 @@
         "aniId": 85614,
         "createdAt": "2021-10-16T06:58:45.000Z",
         "updatedAt": "2021-10-16T07:28:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "cherry_boy_that_girl": {
+        "authors": [
+          "South Ant"
+        ],
+        "identifier": "cherry_boy_that_girl",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cherry Boy, That Girl",
+        "url": "https://fanfox.net/manga/cherry_boy_that_girl/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13207/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73435,
+        "aniId": 85614,
+        "createdAt": "2021-12-10T13:04:03.000Z",
+        "updatedAt": "2021-12-10T13:33:38.000Z",
         "deletedAt": null
       }
     }

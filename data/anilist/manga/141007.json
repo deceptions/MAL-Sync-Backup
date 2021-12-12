@@ -19,5 +19,29 @@
   "createdAt": "2021-11-01T17:04:21.000Z",
   "updatedAt": "2021-12-01T22:16:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "regressor-instruction-manual": {
+        "authors": [
+          "Heulgsujeo",
+          "MIDNIGHT STUDIO"
+        ],
+        "identifier": "regressor-instruction-manual",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Regressor Instruction Manual",
+        "url": "https://mangasee123.com/manga/Regressor-Instruction-Manual",
+        "image": "https://cover.nep.li/cover/Regressor-Instruction-Manual.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 141007,
+        "createdAt": "2021-12-09T16:04:01.000Z",
+        "updatedAt": "2021-12-09T16:04:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -11,13 +11,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 139868,
   "createdAt": "2020-10-12T16:21:04.000Z",
-  "updatedAt": "2021-06-08T01:30:41.000Z",
+  "updatedAt": "2021-12-08T09:33:09.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "暴躁盟主俏魔头"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shiti Touding Juzi Miao"
+    ],
+    "id": 139868,
+    "malId": null,
+    "type": "manga",
+    "title": "Baozao Meng Zhu Qiao Motou",
+    "url": "https://anilist.co/manga/139868",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b139868-7Y0n6xaWtUTN.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-10-02T10:30:52.000Z",
+    "updatedAt": "2021-11-24T06:35:48.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

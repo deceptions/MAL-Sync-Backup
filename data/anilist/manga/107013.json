@@ -34,11 +34,33 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 117988,
         "aniId": 107013,
         "createdAt": "2020-10-12T16:21:04.000Z",
-        "updatedAt": "2021-06-08T06:40:35.000Z",
+        "updatedAt": "2021-12-08T07:11:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jt986502": {
+        "authors": [
+          "Tnsk"
+        ],
+        "identifier": "manga-jt986502",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "My Master Has No Tail",
+        "url": "https://manganato.com/manga-jt986502",
+        "image": "https://avt.mkklcdnv6temp.com/9/m/22-1599329317.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117988,
+        "aniId": 107013,
+        "createdAt": "2021-06-02T01:01:58.000Z",
+        "updatedAt": "2021-12-02T02:46:05.000Z",
         "deletedAt": null
       }
     },

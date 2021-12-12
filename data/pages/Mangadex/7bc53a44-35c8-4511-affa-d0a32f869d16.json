@@ -1,8 +1,8 @@
 {
   "authors": [
     "Sulag / Surak",
-    "Son Gaepi",
-    "Hyun Eunmi"
+    "Hyun Eunmi",
+    "Son Gaepi"
   ],
   "identifier": "7bc53a44-35c8-4511-affa-d0a32f869d16",
   "type": "manga",
@@ -13,52 +13,39 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 16625,
-  "aniId": 46625,
+  "actor": 1,
+  "malId": null,
+  "aniId": 110564,
   "createdAt": "2020-10-12T16:15:13.000Z",
-  "updatedAt": "2021-06-06T11:41:41.000Z",
+  "updatedAt": "2021-12-10T11:48:04.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": null,
-    "altTitle": [
-      "Rule of Passion",
-      "溺愛ルール"
-    ],
-    "authors": [
-      "Natsukawa, Shiori"
-    ],
-    "id": 16625,
-    "type": "manga",
-    "title": "Dekiai Rule",
-    "url": "https://myanimelist.net/manga/16625/Dekiai_Rule",
-    "image": "https://cdn.myanimelist.net/images/manga/3/24565.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:42:22.000Z",
-    "updatedAt": "2021-06-25T00:44:54.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "溺愛ルール",
-      "Rule of Passion"
+      "Reign of Desire",
+      "치정",
+      "Chijeong",
+      "Tragic Romance",
+      "치정",
+      "Blind Passion"
     ],
     "externalLinks": [],
     "authors": [
-      "Shiori Natsukawa"
+      "Son Gaepi",
+      "Soorak",
+      "Eun-Mi Hyeon"
     ],
-    "id": 46625,
-    "malId": 16625,
+    "id": 110564,
+    "malId": null,
     "type": "manga",
-    "title": "Dekiai Rule",
-    "url": "https://anilist.co/manga/46625",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx46625-QdCr4PcNHX8G.jpg",
+    "title": "Chijeong",
+    "url": "https://anilist.co/manga/110564",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b110564-UDrQhKJZY5Mu.jpg",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:43:56.000Z",
-    "updatedAt": "2021-06-17T15:36:17.000Z",
+    "createdAt": "2021-06-06T11:49:17.000Z",
+    "updatedAt": "2021-12-06T12:16:37.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/16625/Dekiai_Rule"
+  "malUrl": ""
 }

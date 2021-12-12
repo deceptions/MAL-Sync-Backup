@@ -17,7 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T01:19:32.000Z",
-  "updatedAt": "2021-06-21T13:59:34.000Z",
+  "updatedAt": "2021-12-06T01:46:37.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "0973bc7d-0701-4fa6-bd17-86381c4ce742": {
+        "authors": [
+          "Jang Jo Rim",
+          "Mo Tyu"
+        ],
+        "identifier": "0973bc7d-0701-4fa6-bd17-86381c4ce742",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Love is a Gangster?!",
+        "url": "https://mangadex.org/title/0973bc7d-0701-4fa6-bd17-86381c4ce742",
+        "image": "https://uploads.mangadex.org/covers/0973bc7d-0701-4fa6-bd17-86381c4ce742/afc0ea09-daa9-4d87-b055-3d13fe41b6ac.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 107290,
+        "createdAt": "2020-10-12T16:13:57.000Z",
+        "updatedAt": "2021-12-07T19:26:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

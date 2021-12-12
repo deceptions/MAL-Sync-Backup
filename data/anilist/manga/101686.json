@@ -25,7 +25,7 @@
       "8fe5cbe9-c968-4e89-bc5b-b16a4420c70c": {
         "authors": [
           "FUNA",
-          "KOKONOE Hibiki"
+          "Kokonoe Hibiki"
         ],
         "identifier": "8fe5cbe9-c968-4e89-bc5b-b16a4420c70c",
         "type": "manga",
@@ -40,7 +40,7 @@
         "malId": 110623,
         "aniId": 101686,
         "createdAt": "2020-10-12T16:11:26.000Z",
-        "updatedAt": "2021-06-05T08:23:19.000Z",
+        "updatedAt": "2021-12-05T08:49:28.000Z",
         "deletedAt": null
       }
     },
@@ -86,6 +86,29 @@
         "aniId": 101686,
         "createdAt": "2021-05-17T06:55:20.000Z",
         "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bh978742": {
+        "authors": [
+          "Funa",
+          "Kokonoe Hibiki"
+        ],
+        "identifier": "manga-bh978742",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Potion-Danomi De Ikinobimasu!",
+        "url": "https://manganato.com/manga-bh978742",
+        "image": "https://avt.mkklcdnv6temp.com/15/j/16-1583494025.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110623,
+        "aniId": 101686,
+        "createdAt": "2021-06-03T19:19:17.000Z",
+        "updatedAt": "2021-12-03T20:18:57.000Z",
         "deletedAt": null
       }
     }

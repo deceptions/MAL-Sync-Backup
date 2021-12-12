@@ -13,12 +13,55 @@
   "sticky": false,
   "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 130777,
+  "aniId": 124526,
   "createdAt": "2020-10-12T16:21:18.000Z",
-  "updatedAt": "2021-06-08T02:01:32.000Z",
+  "updatedAt": "2021-12-08T09:22:12.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Queen of Hearts in Wonderland",
+      "不思議の国のハートの女王"
+    ],
+    "authors": [
+      "Yohachi",
+      "Nagatsuki, Haruka"
+    ],
+    "id": 130777,
+    "type": "manga",
+    "title": "Fushigi no Kuni no Heart no Joou",
+    "url": "https://myanimelist.net/manga/130777/Fushigi_no_Kuni_no_Heart_no_Joou",
+    "image": "https://cdn.myanimelist.net/images/manga/3/237714.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-09-01T10:46:31.000Z",
+    "updatedAt": "2021-12-08T02:33:48.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "不思議の国のハートの女王",
+      "Queen Of Hearts In Wonderland",
+      "不思議國的紅桃女王"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yohachi",
+      "Yuki Narumi",
+      "Haruka Nagatsuki"
+    ],
+    "id": 124526,
+    "malId": 130777,
+    "type": "manga",
+    "title": "Fushiginokuni no Heart no Joou",
+    "url": "https://anilist.co/manga/124526",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124526-1mJPT4ZB4CTW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-28T20:23:33.000Z",
+    "updatedAt": "2021-12-08T02:33:48.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/130777/Fushigi_no_Kuni_no_Heart_no_Joou"
 }

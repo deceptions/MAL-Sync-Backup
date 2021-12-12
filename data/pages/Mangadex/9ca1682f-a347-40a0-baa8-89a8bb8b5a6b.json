@@ -1,6 +1,6 @@
 {
   "authors": [
-    "MASAKI Maki"
+    "Masaki Maki"
   ],
   "identifier": "9ca1682f-a347-40a0-baa8-89a8bb8b5a6b",
   "type": "manga",
@@ -11,13 +11,52 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 109364,
+  "aniId": 101402,
   "createdAt": "2020-10-12T16:21:47.000Z",
-  "updatedAt": "2021-06-08T03:02:34.000Z",
+  "updatedAt": "2021-12-08T09:27:23.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Ore no Naka ni Tsumemasu.",
+      "傷だらけの箱庭"
+    ],
+    "authors": [
+      "Masaki, Maki"
+    ],
+    "id": 109364,
+    "type": "manga",
+    "title": "Kizudarake no Hakoniwa",
+    "url": "https://myanimelist.net/manga/109364/Kizudarake_no_Hakoniwa",
+    "image": "https://cdn.myanimelist.net/images/manga/1/206387.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T09:27:22.000Z",
+    "updatedAt": "2021-12-08T09:27:22.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "傷だらけの箱庭",
+      "Ore no Naka ni Tsumemasu."
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Maki Masaki"
+    ],
+    "id": 101402,
+    "malId": 109364,
+    "type": "manga",
+    "title": "Kizudarake no Hakoniwa",
+    "url": "https://anilist.co/manga/101402",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101402-wycvm6HxeEvi.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-23T09:12:58.000Z",
+    "updatedAt": "2021-12-08T03:35:20.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/109364/Kizudarake_no_Hakoniwa"
 }

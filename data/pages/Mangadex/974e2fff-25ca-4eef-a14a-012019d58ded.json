@@ -1,6 +1,6 @@
 {
   "authors": [
-    "SHIN Ji-Sang",
+    "Shin Ji-Sang",
     "Ga Yan"
   ],
   "identifier": "974e2fff-25ca-4eef-a14a-012019d58ded",
@@ -12,52 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 8664,
-  "aniId": 38664,
+  "actor": 1,
+  "malId": null,
+  "aniId": 99999,
   "createdAt": "2020-10-12T16:16:22.000Z",
-  "updatedAt": "2021-06-06T21:59:28.000Z",
+  "updatedAt": "2021-12-10T11:50:03.000Z",
   "deletedAt": null,
-  "Mal": {
-    "externalLinks": null,
-    "altTitle": [
-      "Roman"
-    ],
-    "authors": [
-      "Katsura, Yukimaru"
-    ],
-    "id": 8664,
-    "type": "manga",
-    "title": "Roman",
-    "url": "https://myanimelist.net/manga/8664/Roman",
-    "image": "https://cdn.myanimelist.net/images/manga/2/171207.jpg",
-    "category": "Manga",
-    "hentai": false,
-    "createdAt": "2020-10-12T15:41:20.000Z",
-    "updatedAt": "2021-08-27T02:37:08.000Z",
-    "deletedAt": null
-  },
+  "Mal": null,
   "Anilist": {
     "altTitle": [
-      "ロマン",
-      "Novel"
+      "루마니아 체조인 육성클럽"
     ],
     "externalLinks": [],
     "authors": [
-      "Yukimaru Katsura",
-      "Sound Horizon"
+      "Ji-Sang Shin",
+      "Ga Yan"
     ],
-    "id": 38664,
-    "malId": 8664,
+    "id": 99999,
+    "malId": null,
     "type": "manga",
-    "title": "Roman",
-    "url": "https://anilist.co/manga/38664",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38664-NTtLyv0XxChb.png",
+    "title": "Romanian Gymnastic Society",
+    "url": "https://anilist.co/manga/99999",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/99999-hpVez3SV6jyj.png",
     "category": "manga",
     "hentai": false,
-    "createdAt": "2021-05-20T14:40:49.000Z",
-    "updatedAt": "2021-06-17T12:56:30.000Z",
+    "createdAt": "2021-06-06T22:19:17.000Z",
+    "updatedAt": "2021-12-06T22:46:10.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/8664/Roman"
+  "malUrl": ""
 }

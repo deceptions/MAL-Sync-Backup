@@ -1,6 +1,6 @@
 {
   "authors": [
-    "SAKAI Eri"
+    "Sakai Eri"
   ],
   "identifier": "7f18b80e-af01-4617-b08e-d4d862f40f11",
   "type": "manga",
@@ -12,12 +12,56 @@
   "sticky": false,
   "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 135492,
+  "aniId": 141492,
   "createdAt": "2020-10-12T16:18:57.000Z",
-  "updatedAt": "2021-06-07T20:59:54.000Z",
+  "updatedAt": "2021-12-08T09:34:20.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A4%E3%83%9E%E3%82%B1%E3%83%B3%E3%82%BF%E3%83%AD%E3%82%A6%E3%81%AE%E5%A6%8A%E5%A8%A0"
+      }
+    ],
+    "altTitle": [
+      "Kentaro Hiyama's First Pregnancy",
+      "ヒヤマケンタロウの妊娠"
+    ],
+    "authors": [
+      "Sakai, Eri"
+    ],
+    "id": 135492,
+    "type": "manga",
+    "title": "Hiyama Kentarou no Ninshin",
+    "url": "https://myanimelist.net/manga/135492/Hiyama_Kentarou_no_Ninshin",
+    "image": "https://cdn.myanimelist.net/images/manga/1/246273.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-07T21:34:49.000Z",
+    "updatedAt": "2021-12-07T21:34:49.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ヒヤマケンタロウの妊娠",
+      "Kentaro Hiyama's First Pregnancy"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Eri Sakai"
+    ],
+    "id": 141492,
+    "malId": 135492,
+    "type": "manga",
+    "title": "Hiyama Kentarou no Ninshin",
+    "url": "https://anilist.co/manga/141492",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141492-vJrMbehVSOQW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-12T18:43:36.000Z",
+    "updatedAt": "2021-11-13T07:43:38.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/135492/Hiyama_Kentarou_no_Ninshin"
 }

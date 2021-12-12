@@ -36,7 +36,29 @@
         "malId": 7446,
         "aniId": 37446,
         "createdAt": "2021-01-30T21:02:07.000Z",
-        "updatedAt": "2021-06-08T10:38:47.000Z",
+        "updatedAt": "2021-12-08T11:09:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "bonbonzaka_koukou_engekibu": {
+        "authors": [
+          "TAKAHASHI Yutaka"
+        ],
+        "identifier": "bonbonzaka_koukou_engekibu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bonbonzaka Koukou Engekibu",
+        "url": "https://fanfox.net/manga/bonbonzaka_koukou_engekibu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/495/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7446,
+        "aniId": 37446,
+        "createdAt": "2021-12-06T03:46:06.000Z",
+        "updatedAt": "2021-12-06T04:16:06.000Z",
         "deletedAt": null
       }
     }

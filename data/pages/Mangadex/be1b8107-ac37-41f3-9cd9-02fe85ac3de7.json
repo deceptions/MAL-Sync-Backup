@@ -1,6 +1,6 @@
 {
   "authors": [
-    "YABUNO Tenya"
+    "Yabuno Tenya"
   ],
   "identifier": "be1b8107-ac37-41f3-9cd9-02fe85ac3de7",
   "type": "manga",
@@ -11,13 +11,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 113275,
+  "aniId": 138889,
   "createdAt": "2020-10-12T16:13:19.000Z",
-  "updatedAt": "2021-06-05T20:31:40.000Z",
+  "updatedAt": "2021-12-06T09:51:09.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8A%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3"
+      }
+    ],
+    "altTitle": [
+      "イナズマイレブン リローデッド"
+    ],
+    "authors": [
+      "Yabuno, Tenya"
+    ],
+    "id": 113275,
+    "type": "manga",
+    "title": "Inazuma Eleven: Reloaded",
+    "url": "https://myanimelist.net/manga/113275/Inazuma_Eleven__Reloaded",
+    "image": "https://cdn.myanimelist.net/images/manga/3/231230.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:32.000Z",
+    "updatedAt": "2021-11-21T17:43:58.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "イナズマイレブン リローデッド"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tenya Yabuno"
+    ],
+    "id": 138889,
+    "malId": 113275,
+    "type": "manga",
+    "title": "Inazuma Eleven: Reloaded\t",
+    "url": "https://anilist.co/manga/138889",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138889-a3s35p5FOCHU.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-09-08T11:04:30.000Z",
+    "updatedAt": "2021-12-05T21:16:18.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/113275/Inazuma_Eleven__Reloaded"
 }

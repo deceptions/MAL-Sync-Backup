@@ -6,20 +6,29 @@
   "identifier": "4a6b625c-0c5e-4a2d-829f-d897832deec3",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Nier Automata: YoRHa Shinjuwan Kouka Sakusen Kiroku",
+  "title": "NieR: Automata: YoRHa Shinjuwan Kouka Sakusen Kiroku",
   "url": "https://mangadex.org/title/4a6b625c-0c5e-4a2d-829f-d897832deec3",
   "image": "https://uploads.mangadex.org/covers/4a6b625c-0c5e-4a2d-829f-d897832deec3/52d2c3f0-afc0-46d7-88fa-08219e817510.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 133622,
   "aniId": 127809,
   "createdAt": "2020-12-26T02:56:27.000Z",
-  "updatedAt": "2021-06-08T11:10:33.000Z",
+  "updatedAt": "2021-12-08T11:36:59.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/mangaup/original/yoruha/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%BC%E3%82%A2_%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%82%BF#%E3%83%A8%E3%83%AB%E3%83%8F_%E7%9C%9F%E7%8F%A0%E6%B9%BE%E9%99%8D%E4%B8%8B%E4%BD%9C%E6%88%A6%E8%A8%98%E9%8C%B2"
+      }
+    ],
     "altTitle": [
       "YoRHa Pearl Harbor Descent Record",
       "ヨルハ 真珠湾降下作戦記録"
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-06T19:20:10.000Z",
-    "updatedAt": "2021-06-06T19:20:10.000Z",
+    "updatedAt": "2021-12-06T19:48:42.000Z",
     "deletedAt": null
   },
   "Anilist": {

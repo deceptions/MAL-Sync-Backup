@@ -24,8 +24,8 @@
     "Mangadex": {
       "125a4bc0-500b-4aaf-9299-e3aa44d0fd38": {
         "authors": [
-          "Tokita Monta",
-          "Buncololi"
+          "Buncololi",
+          "Tokita Monta"
         ],
         "identifier": "125a4bc0-500b-4aaf-9299-e3aa44d0fd38",
         "type": "manga",
@@ -40,7 +40,7 @@
         "malId": 103439,
         "aniId": 100234,
         "createdAt": "2020-10-12T16:10:36.000Z",
-        "updatedAt": "2021-06-05T01:58:18.000Z",
+        "updatedAt": "2021-12-05T02:18:39.000Z",
         "deletedAt": null
       }
     },
@@ -64,6 +64,30 @@
         "aniId": 100234,
         "createdAt": "2021-01-25T19:12:12.000Z",
         "updatedAt": "2021-11-20T17:45:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-yq975751": {
+        "authors": [
+          "Buncololi",
+          "Tokita",
+          "Monta"
+        ],
+        "identifier": "manga-yq975751",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tanaka The Wizard",
+        "url": "https://manganato.com/manga-yq975751",
+        "image": "https://avt.mkklcdnv6temp.com/16/q/15-1583492060.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103439,
+        "aniId": 100234,
+        "createdAt": "2021-06-02T21:31:31.000Z",
+        "updatedAt": "2021-12-02T22:19:26.000Z",
         "deletedAt": null
       }
     },

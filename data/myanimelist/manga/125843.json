@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://web-ace.jp/youngace/contents/444/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E6%99%B4%E7%88%9B%E6%BC%AB!"
+    }
+  ],
   "altTitle": [
     "天晴爛漫!"
   ],
@@ -14,14 +23,14 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-08T07:01:39.000Z",
-  "updatedAt": "2021-06-08T07:01:39.000Z",
+  "updatedAt": "2021-12-08T07:06:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
       "0e1c97b2-ec25-47d7-ac17-ced2a2688550": {
         "authors": [
-          "Ahndongshik",
-          "APPERACING"
+          "APPERACING",
+          "Ahndongshik"
         ],
         "identifier": "0e1c97b2-ec25-47d7-ac17-ced2a2688550",
         "type": "manga",
@@ -32,11 +41,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 125843,
         "aniId": 117551,
         "createdAt": "2020-10-12T16:21:15.000Z",
-        "updatedAt": "2021-06-08T07:01:42.000Z",
+        "updatedAt": "2021-12-08T07:11:21.000Z",
         "deletedAt": null
       }
     }

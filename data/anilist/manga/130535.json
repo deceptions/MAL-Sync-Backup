@@ -19,7 +19,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-24T20:08:18.000Z",
-  "updatedAt": "2021-07-29T17:52:24.000Z",
+  "updatedAt": "2021-12-08T10:34:18.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "f2c1369a-43ae-4b25-9903-37b58d65e0c5": {
+        "authors": [
+          "nyangbba",
+          "Joo Eun"
+        ],
+        "identifier": "f2c1369a-43ae-4b25-9903-37b58d65e0c5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Perfect Family",
+        "url": "https://mangadex.org/title/f2c1369a-43ae-4b25-9903-37b58d65e0c5",
+        "image": "https://uploads.mangadex.org/covers/f2c1369a-43ae-4b25-9903-37b58d65e0c5/cf6e9c34-5769-4a40-b21e-902654356adc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 130535,
+        "createdAt": "2021-01-01T07:25:15.000Z",
+        "updatedAt": "2021-12-08T14:32:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

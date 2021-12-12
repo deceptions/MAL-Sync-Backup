@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 112767,
   "aniId": null,
   "createdAt": "2020-10-12T16:14:06.000Z",
-  "updatedAt": "2021-06-06T10:11:13.000Z",
+  "updatedAt": "2021-12-06T10:18:39.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pocket.shonenmagazine.com/episode/13932016480029828549"
+      }
+    ],
     "altTitle": [
       "ゲームの中にいる！"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-06T02:48:58.000Z",
-    "updatedAt": "2021-06-06T02:48:58.000Z",
+    "updatedAt": "2021-12-06T03:16:40.000Z",
     "deletedAt": null
   },
   "Anilist": null,

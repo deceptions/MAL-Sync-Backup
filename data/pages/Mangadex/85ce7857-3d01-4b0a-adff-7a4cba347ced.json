@@ -16,10 +16,19 @@
   "malId": 134812,
   "aniId": 127249,
   "createdAt": "2021-01-02T13:50:21.000Z",
-  "updatedAt": "2021-06-08T10:36:40.000Z",
+  "updatedAt": "2021-12-08T11:07:29.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://seiga.nicovideo.jp/comic/51070"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%A5%BD%E3%81%8D%E3%81%AE%E4%B8%8B%E5%89%8B%E4%B8%8A"
+      }
+    ],
     "altTitle": [
       "Honzuki no Gekokujou Part 4",
       "Ascendance of a Bookworm Part 4",
@@ -37,7 +46,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-03-14T15:39:27.000Z",
-    "updatedAt": "2021-06-08T09:55:31.000Z",
+    "updatedAt": "2021-12-08T10:05:49.000Z",
     "deletedAt": null
   },
   "Anilist": {

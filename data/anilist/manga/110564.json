@@ -22,7 +22,32 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T11:49:17.000Z",
-  "updatedAt": "2021-06-21T14:25:41.000Z",
+  "updatedAt": "2021-12-06T12:16:37.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "7bc53a44-35c8-4511-affa-d0a32f869d16": {
+        "authors": [
+          "Sulag / Surak",
+          "Hyun Eunmi",
+          "Son Gaepi"
+        ],
+        "identifier": "7bc53a44-35c8-4511-affa-d0a32f869d16",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Blind Passion",
+        "url": "https://mangadex.org/title/7bc53a44-35c8-4511-affa-d0a32f869d16",
+        "image": "https://uploads.mangadex.org/covers/7bc53a44-35c8-4511-affa-d0a32f869d16/0b4a7c14-7bbd-4656-a48b-c8006e8746bf.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 110564,
+        "createdAt": "2020-10-12T16:15:13.000Z",
+        "updatedAt": "2021-12-10T11:48:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

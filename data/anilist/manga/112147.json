@@ -25,15 +25,15 @@
     "Mangadex": {
       "c9bed72c-d680-4409-a954-5fdadde27b74": {
         "authors": [
-          "Oota Yokan",
-          "Shiryu"
+          "Shiryu",
+          "Oota Yokan"
         ],
         "identifier": "c9bed72c-d680-4409-a954-5fdadde27b74",
         "type": "manga",
         "page": "Mangadex",
         "title": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou he to Itaru",
         "url": "https://mangadex.org/title/c9bed72c-d680-4409-a954-5fdadde27b74",
-        "image": "https://uploads.mangadex.org/covers/c9bed72c-d680-4409-a954-5fdadde27b74/391f012f-07bb-4b28-8492-5a34f50e955e.jpg",
+        "image": "https://uploads.mangadex.org/covers/c9bed72c-d680-4409-a954-5fdadde27b74/c880934e-6de3-4ca5-a3e8-90b325ae3b3b.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
@@ -41,7 +41,30 @@
         "malId": 121989,
         "aniId": 112147,
         "createdAt": "2020-10-12T16:17:17.000Z",
-        "updatedAt": "2021-06-07T06:30:15.000Z",
+        "updatedAt": "2021-12-07T06:47:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "shi-ni-modori-subete-wo-sukuu-tame-ni-saikyou-he-to-itaru": {
+        "authors": [
+          "Oota Yokan",
+          "Shiryu"
+        ],
+        "identifier": "shi-ni-modori-subete-wo-sukuu-tame-ni-saikyou-he-to-itaru",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Shi ni Modori, Subete wo Sukuu Tame ni Saikyou He to Itaru",
+        "url": "https://mangasee123.com/manga/Shi-ni-Modori-Subete-wo-Sukuu-Tame-ni-Saikyou-He-to-Itaru",
+        "image": "https://cover.nep.li/cover/Shi-ni-Modori-Subete-wo-Sukuu-Tame-ni-Saikyou-He-to-Itaru.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121989,
+        "aniId": 112147,
+        "createdAt": "2021-01-04T20:56:50.000Z",
+        "updatedAt": "2021-12-03T22:21:59.000Z",
         "deletedAt": null
       }
     },

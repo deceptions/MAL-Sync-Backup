@@ -1,7 +1,7 @@
 {
   "authors": [
-    "Tsuchino Eiichi",
-    "KAI"
+    "Kai",
+    "Tsuchino Eiichi"
   ],
   "identifier": "7c9cedde-e9bc-4ae2-98a8-418d65c07bf7",
   "type": "manga",
@@ -12,14 +12,19 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 134643,
   "aniId": null,
   "createdAt": "2021-02-15T00:06:04.000Z",
-  "updatedAt": "2021-06-08T12:07:44.000Z",
+  "updatedAt": "2021-12-08T12:35:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://online.ichijinsha.co.jp/zerosum/comic/mobuoshi"
+      }
+    ],
     "altTitle": [
       "I May Be a Mob but Because My Favorite Is Here, Everyday Is Fun",
       "モブだけど推しが生きてるから毎日が楽しい"
@@ -32,11 +37,11 @@
     "type": "manga",
     "title": "Mob dakedo Oshi ga Ikiteru kara Mainichi ga Tanoshii",
     "url": "https://myanimelist.net/manga/134643/Mob_dakedo_Oshi_ga_Ikiteru_kara_Mainichi_ga_Tanoshii",
-    "image": "https://cdn.myanimelist.net/images/manga/3/242250.jpg",
+    "image": "https://cdn.myanimelist.net/images/manga/3/249758.jpg",
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-08T11:58:04.000Z",
-    "updatedAt": "2021-06-08T11:58:04.000Z",
+    "updatedAt": "2021-12-08T12:06:50.000Z",
     "deletedAt": null
   },
   "Anilist": null,

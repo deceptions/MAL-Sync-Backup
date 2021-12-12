@@ -3,7 +3,11 @@
     "魔力チートな魔女になりました ～創造魔法で気ままな異世界生活～"
   ],
   "externalLinks": [],
-  "authors": [],
+  "authors": [
+    "Shin Haruhara",
+    "Aloha Zachou",
+    "Tetsubuta"
+  ],
   "id": 136864,
   "malId": null,
   "type": "manga",
@@ -13,7 +17,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-19T22:18:32.000Z",
-  "updatedAt": "2021-07-19T22:18:32.000Z",
+  "updatedAt": "2021-12-08T13:33:59.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "2f90e7e5-16b4-41f5-b717-137cf9783b5b": {
+        "authors": [
+          "Aloha Zachou",
+          "Haraharu Shin"
+        ],
+        "identifier": "2f90e7e5-16b4-41f5-b717-137cf9783b5b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Became a Magical Cheat Witch: Creative Magical Life in Another World",
+        "url": "https://mangadex.org/title/2f90e7e5-16b4-41f5-b717-137cf9783b5b",
+        "image": "https://uploads.mangadex.org/covers/2f90e7e5-16b4-41f5-b717-137cf9783b5b/c58e997d-9e34-42d4-847b-5725ff4b0266.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 136864,
+        "createdAt": "2021-03-13T13:39:11.000Z",
+        "updatedAt": "2021-12-08T14:33:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

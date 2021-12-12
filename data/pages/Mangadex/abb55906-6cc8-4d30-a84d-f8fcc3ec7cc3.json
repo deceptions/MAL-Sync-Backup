@@ -11,14 +11,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 102102,
   "aniId": null,
   "createdAt": "2020-12-14T03:49:02.000Z",
-  "updatedAt": "2021-06-08T10:44:30.000Z",
+  "updatedAt": "2021-12-08T11:07:10.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://seiga.nicovideo.jp/comic/12976"
+      }
+    ],
     "altTitle": [
       "The Universal Great Love",
       "宇宙大恋愛"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:46:44.000Z",
-    "updatedAt": "2021-06-08T08:56:52.000Z",
+    "updatedAt": "2021-12-08T09:04:39.000Z",
     "deletedAt": null
   },
   "Anilist": null,

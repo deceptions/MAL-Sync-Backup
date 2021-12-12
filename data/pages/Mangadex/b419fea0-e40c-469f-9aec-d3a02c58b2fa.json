@@ -15,10 +15,15 @@
   "malId": 108493,
   "aniId": 100809,
   "createdAt": "2020-10-12T16:10:26.000Z",
-  "updatedAt": "2021-06-05T09:08:02.000Z",
+  "updatedAt": "2021-12-05T09:21:20.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.pixiv.net/works/2438"
+      }
+    ],
     "altTitle": [
       "Akairo Crossroads",
       "あかいろ交差点"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:09.000Z",
-    "updatedAt": "2021-06-05T01:21:18.000Z",
+    "updatedAt": "2021-12-05T01:50:52.000Z",
     "deletedAt": null
   },
   "Anilist": {

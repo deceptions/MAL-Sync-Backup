@@ -11,14 +11,23 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 124748,
   "aniId": 116837,
   "createdAt": "2020-10-12T16:18:39.000Z",
-  "updatedAt": "2021-06-07T19:18:04.000Z",
+  "updatedAt": "2021-12-07T19:50:36.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-action.com/episode/13933686331624274221"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E4%B9%99%E5%A5%B3%E6%88%A6%E4%BA%89_%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B4%E3%83%81%E3%83%BC%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%AB%E3%82%AB"
+      }
+    ],
     "altTitle": [
       "Otome Sensou Gaiden I: Akai Hitomi no Viktorka",
       "Divci Valka Gaiden I: Akai Hitomi no Viktorka",
@@ -35,7 +44,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-07T19:10:09.000Z",
-    "updatedAt": "2021-06-07T19:10:09.000Z",
+    "updatedAt": "2021-12-07T19:17:57.000Z",
     "deletedAt": null
   },
   "Anilist": {

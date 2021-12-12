@@ -23,8 +23,8 @@
     "Mangadex": {
       "e57ac6cc-c475-4ef1-a970-b2e261d2ca59": {
         "authors": [
-          "Nagatsuki Misoka",
-          "MIkami Yasuaki"
+          "Mikami Yasuaki",
+          "Nagatsuki Misoka"
         ],
         "identifier": "e57ac6cc-c475-4ef1-a970-b2e261d2ca59",
         "type": "manga",
@@ -35,58 +35,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 1,
+        "actor": null,
         "malId": 131658,
         "aniId": 124427,
         "createdAt": "2021-01-05T14:27:10.000Z",
-        "updatedAt": "2021-06-08T10:45:18.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "genkaigoe_no_skill_wa_tenseisha_ni_shika_atsukaenai_over_limit_skill_holder": {
-        "authors": [
-          "MIKAMI Yasuaki",
-          "NAGATSUKI Misoka"
-        ],
-        "identifier": "genkaigoe_no_skill_wa_tenseisha_ni_shika_atsukaenai_over_limit_skill_holder",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Genkaigoe no Skill wa, Tenseisha ni shika Atsukaenai: Over Limit Skill Holder",
-        "url": "https://fanfox.net/manga/genkaigoe_no_skill_wa_tenseisha_ni_shika_atsukaenai_over_limit_skill_holder/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/37254/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 131658,
-        "aniId": 124427,
-        "createdAt": "2021-01-13T15:39:10.000Z",
-        "updatedAt": "2021-06-09T11:04:14.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-kl987646": {
-        "authors": [
-          "Nagatsuki Misoka",
-          "Yasuaki Mikami",
-          "Ashito Oyari"
-        ],
-        "identifier": "manga-kl987646",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Genkai Koe No Tenpu Wa, Tensei-Sha Ni Shika Atsukaenai - Overlimit Skill Holders -",
-        "url": "https://manganato.com/manga-kl987646",
-        "image": "https://avt.mkklcdnv6temp.com/6/h/23-1610510596.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 131658,
-        "aniId": 124427,
-        "createdAt": "2021-06-08T06:24:56.000Z",
-        "updatedAt": "2021-06-09T11:04:14.000Z",
+        "updatedAt": "2021-12-08T11:07:31.000Z",
         "deletedAt": null
       }
     }

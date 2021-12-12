@@ -20,9 +20,31 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-10-09T06:02:29.000Z",
-  "updatedAt": "2021-10-09T06:02:29.000Z",
+  "updatedAt": "2021-12-08T12:04:28.000Z",
   "deletedAt": null,
   "Pages": {
+    "Mangadex": {
+      "e190c652-ead2-4390-bdb6-c629e2e84f50": {
+        "authors": [
+          "Meiji Mero"
+        ],
+        "identifier": "e190c652-ead2-4390-bdb6-c629e2e84f50",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Panagia's Territory",
+        "url": "https://mangadex.org/title/e190c652-ead2-4390-bdb6-c629e2e84f50",
+        "image": "https://uploads.mangadex.org/covers/e190c652-ead2-4390-bdb6-c629e2e84f50/910f1a9e-2d15-4d34-be07-aa106111f376.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 140055,
+        "aniId": 120473,
+        "createdAt": "2021-02-09T13:10:33.000Z",
+        "updatedAt": "2021-12-08T14:33:38.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-ma989735": {
         "authors": [

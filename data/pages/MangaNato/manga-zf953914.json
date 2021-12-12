@@ -15,12 +15,20 @@
   "malId": 30315,
   "aniId": 60315,
   "createdAt": "2021-06-05T07:19:09.000Z",
-  "updatedAt": "2021-06-05T07:48:57.000Z",
+  "updatedAt": "2021-12-05T08:18:31.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B9%E3%83%88%E3%82%B2%E3%83%BC%E3%83%A0_%28%E6%BC%AB%E7%94%BB%29"
+      }
+    ],
     "altTitle": [
-      "Kimi to, Shiawase., Hidamari no Niwa, Wasureyuki, Ninkoi",
+      "Kimi to, Shiawase.",
+      "Hidamari no Niwa",
+      "Wasureyuki",
+      "Ninkoi",
       "ラストゲーム"
     ],
     "authors": [
@@ -34,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:41.000Z",
-    "updatedAt": "2021-06-05T07:19:09.000Z",
+    "updatedAt": "2021-12-05T07:46:17.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -18,7 +18,30 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-05-30T17:42:13.000Z",
-  "updatedAt": "2021-06-21T18:23:12.000Z",
+  "updatedAt": "2021-12-06T17:16:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "270d669d-dc26-4caa-b4a3-978d940ea2cb": {
+        "authors": [
+          "Skaky"
+        ],
+        "identifier": "270d669d-dc26-4caa-b4a3-978d940ea2cb",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Got Married With a Goblin",
+        "url": "https://mangadex.org/title/270d669d-dc26-4caa-b4a3-978d940ea2cb",
+        "image": "https://uploads.mangadex.org/covers/270d669d-dc26-4caa-b4a3-978d940ea2cb/6bc81ca1-8949-41e0-b2db-fa7ec6f29ad7.png",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 134860,
+        "createdAt": "2020-10-12T16:15:47.000Z",
+        "updatedAt": "2021-12-07T19:21:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }
