@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:52:36.000Z",
-  "updatedAt": "2021-06-18T00:29:23.000Z",
+  "updatedAt": "2021-12-18T00:55:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,28 @@
         "aniId": 93660,
         "createdAt": "2021-03-25T18:19:28.000Z",
         "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cl980020": {
+        "authors": [
+          "Imai Tetsuya"
+        ],
+        "identifier": "manga-cl980020",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Alice & Zoroku",
+        "url": "https://manganato.com/manga-cl980020",
+        "image": "https://avt.mkklcdnv6temp.com/13/a/17-1583495734.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84911,
+        "aniId": 93660,
+        "createdAt": "2021-06-09T06:30:46.000Z",
+        "updatedAt": "2021-12-09T07:05:51.000Z",
         "deletedAt": null
       }
     }

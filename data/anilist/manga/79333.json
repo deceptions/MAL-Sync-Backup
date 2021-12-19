@@ -20,7 +20,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:49:42.000Z",
-  "updatedAt": "2021-06-17T20:54:12.000Z",
+  "updatedAt": "2021-12-17T21:21:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -88,6 +88,28 @@
         "aniId": 79333,
         "createdAt": "2021-03-17T15:02:51.000Z",
         "updatedAt": "2021-11-20T19:45:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tw970479": {
+        "authors": [
+          "Tatsunoko Tarou"
+        ],
+        "identifier": "manga-tw970479",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mondaijitachi Ga Isekai Kara Kuru Sou Desu Yo?",
+        "url": "https://readmanganato.com/manga-tw970479",
+        "image": "https://avt.mkklcdnv6temp.com/28/q/13-1583488766.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49333,
+        "aniId": 79333,
+        "createdAt": "2021-06-09T15:35:18.000Z",
+        "updatedAt": "2021-12-09T16:33:50.000Z",
         "deletedAt": null
       }
     }

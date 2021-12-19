@@ -31,7 +31,7 @@
   "hentai": false,
   "anidbId": 10161,
   "createdAt": "2020-10-12T15:39:24.000Z",
-  "updatedAt": "2021-10-02T21:05:36.000Z",
+  "updatedAt": "2021-12-13T09:57:50.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -105,6 +105,23 @@
         "aniId": 20553,
         "createdAt": "2020-10-12T16:00:56.000Z",
         "updatedAt": "2021-05-20T15:21:54.000Z",
+        "deletedAt": null
+      },
+      "kantai-collection-kancolle-dub": {
+        "identifier": "kantai-collection-kancolle-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kantai Collection: KanColle (Dub)",
+        "url": "https://gogoanime.cm/category/kantai-collection-kancolle-dub",
+        "image": "https://gogocdn.net/cover/kantai-collection-kancolle-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21511,
+        "aniId": 20553,
+        "createdAt": "2021-12-13T09:57:49.000Z",
+        "updatedAt": "2021-12-13T10:18:24.000Z",
         "deletedAt": null
       }
     },

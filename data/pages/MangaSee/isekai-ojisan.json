@@ -11,14 +11,23 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 120177,
   "aniId": 104617,
   "createdAt": "2021-01-17T04:33:08.000Z",
-  "updatedAt": "2021-06-16T06:57:33.000Z",
+  "updatedAt": "2021-12-16T00:18:56.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_MF00000079010000_68/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/異世界おじさん"
+      }
+    ],
     "altTitle": [
       "Uncle from Another World",
       "Isekai Uncle",
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:48:03.000Z",
-    "updatedAt": "2021-09-01T18:46:18.000Z",
+    "updatedAt": "2021-12-15T10:49:27.000Z",
     "deletedAt": null
   },
   "Anilist": {

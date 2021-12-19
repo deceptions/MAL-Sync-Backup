@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+    }
+  ],
   "altTitle": [
     "ディスコミュニケーション"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:07.000Z",
-  "updatedAt": "2021-06-18T07:51:50.000Z",
+  "updatedAt": "2021-12-18T08:18:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,28 +83,6 @@
         "aniId": 35680,
         "createdAt": "2021-02-28T22:46:36.000Z",
         "updatedAt": "2021-11-20T19:16:16.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "discommunication": {
-        "authors": [
-          "UESHIBA Riichi"
-        ],
-        "identifier": "discommunication",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Discommunication",
-        "url": "https://fanfox.net/manga/discommunication/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/10424/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 5680,
-        "aniId": 35680,
-        "createdAt": "2021-06-18T07:51:33.000Z",
-        "updatedAt": "2021-06-18T08:20:50.000Z",
         "deletedAt": null
       }
     }

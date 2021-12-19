@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:39:33.000Z",
-  "updatedAt": "2021-06-17T11:58:44.000Z",
+  "updatedAt": "2021-12-17T12:39:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 35821,
         "createdAt": "2020-12-21T21:56:04.000Z",
         "updatedAt": "2021-11-20T16:14:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qe952039": {
+        "authors": [
+          "Shiina Takashi"
+        ],
+        "identifier": "manga-qe952039",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Zettai Karen Children",
+        "url": "https://readmanganato.com/manga-qe952039",
+        "image": "https://avt.mkklcdnv6temp.com/25/q/1-1583464703.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5821,
+        "aniId": 35821,
+        "createdAt": "2021-06-09T15:35:16.000Z",
+        "updatedAt": "2021-12-09T16:33:50.000Z",
         "deletedAt": null
       }
     }

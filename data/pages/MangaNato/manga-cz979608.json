@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 134746,
-  "aniId": null,
+  "aniId": 108774,
   "createdAt": "2021-06-14T13:57:43.000Z",
-  "updatedAt": "2021-06-14T13:57:43.000Z",
+  "updatedAt": "2021-12-14T12:18:24.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -43,6 +43,28 @@
     "updatedAt": "2021-11-06T08:34:23.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "어쩌다 발견한 7월",
+      "July Found by Chance",
+      "How I Found It in July",
+      "Extraordinary You"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Muryu"
+    ],
+    "id": 108774,
+    "malId": 134746,
+    "type": "manga",
+    "title": "Eojjeoda Balgyeonhan 7wol",
+    "url": "https://anilist.co/manga/108774",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx108774-WGT3YmouBZJ4.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T17:42:58.000Z",
+    "updatedAt": "2021-12-14T11:48:24.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/134746/July_Found_by_Chance"
 }

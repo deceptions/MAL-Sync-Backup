@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:59:33.000Z",
-  "updatedAt": "2021-06-18T07:20:51.000Z",
+  "updatedAt": "2021-12-18T07:57:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,6 +64,49 @@
         "aniId": 127584,
         "createdAt": "2020-12-17T13:56:13.000Z",
         "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jf986840": {
+        "authors": [
+          "Mizuchi Shiki",
+          "Karasuma Saki"
+        ],
+        "identifier": "manga-jf986840",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Level 0 Evil King Become The Adventurer In The New World",
+        "url": "https://manganato.com/manga-jf986840",
+        "image": "https://avt.mkklcdnv6temp.com/23/b/22-1601486104.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131015,
+        "aniId": 127584,
+        "createdAt": "2021-06-10T05:05:03.000Z",
+        "updatedAt": "2021-12-10T06:03:39.000Z",
+        "deletedAt": null
+      },
+      "manga-kj987792": {
+        "authors": [
+          "Mizuchi Shiki"
+        ],
+        "identifier": "manga-kj987792",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Level 0 No Maou-Sama, Isekai De Boukensha Wo Hajimemasu",
+        "url": "https://manganato.com/manga-kj987792",
+        "image": "https://avt.mkklcdnv6temp.com/12/i/23-1611977064.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131015,
+        "aniId": 127584,
+        "createdAt": "2021-06-10T05:34:36.000Z",
+        "updatedAt": "2021-12-10T06:34:30.000Z",
         "deletedAt": null
       }
     }

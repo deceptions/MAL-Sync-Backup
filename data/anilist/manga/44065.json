@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:42:43.000Z",
-  "updatedAt": "2021-06-17T14:48:52.000Z",
+  "updatedAt": "2021-12-17T15:31:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,28 @@
         "aniId": 44065,
         "createdAt": "2021-04-22T06:29:10.000Z",
         "updatedAt": "2021-11-20T21:48:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ns951753": {
+        "authors": [
+          "Ushiki Yoshitaka"
+        ],
+        "identifier": "manga-ns951753",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yumekui Merry",
+        "url": "https://readmanganato.com/manga-ns951753",
+        "image": "https://avt.mkklcdnv6temp.com/15/p/1-1583464284.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14065,
+        "aniId": 44065,
+        "createdAt": "2021-06-09T06:32:36.000Z",
+        "updatedAt": "2021-12-09T07:05:51.000Z",
         "deletedAt": null
       }
     }

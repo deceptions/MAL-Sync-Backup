@@ -16,5 +16,42 @@
   "createdAt": "2021-07-22T05:33:48.000Z",
   "updatedAt": "2021-07-22T05:33:48.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "tezuka-osamu-no-kyuuyaku-seisho-monogatari-in-the-beginning": {
+        "identifier": "tezuka-osamu-no-kyuuyaku-seisho-monogatari-in-the-beginning",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning",
+        "url": "https://gogoanime.cm/category/tezuka-osamu-no-kyuuyaku-seisho-monogatari-in-the-beginning",
+        "image": "https://gogocdn.net/cover/tezuka-osamu-no-kyuuyaku-seisho-monogatari-in-the-beginning.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2282,
+        "aniId": 2282,
+        "createdAt": "2021-12-15T03:18:25.000Z",
+        "updatedAt": "2021-12-15T03:48:24.000Z",
+        "deletedAt": null
+      },
+      "tezuka-osamu-no-kyuuyaku-seisho-monogatari-in-the-beginning-dub": {
+        "identifier": "tezuka-osamu-no-kyuuyaku-seisho-monogatari-in-the-beginning-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning (Dub)",
+        "url": "https://gogoanime.cm/category/tezuka-osamu-no-kyuuyaku-seisho-monogatari-in-the-beginning-dub",
+        "image": "https://gogocdn.net/cover/tezuka-osamu-no-kyuuyaku-seisho-monogatari-in-the-beginning-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2282,
+        "aniId": 2282,
+        "createdAt": "2021-12-15T03:18:34.000Z",
+        "updatedAt": "2021-12-15T03:48:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

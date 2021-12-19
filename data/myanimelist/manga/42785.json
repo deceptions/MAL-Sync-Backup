@@ -39,6 +39,28 @@
         "updatedAt": "2021-12-03T15:48:59.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "black-lion": {
+        "authors": [
+          "NAGAI Go"
+        ],
+        "identifier": "black-lion",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Black Lion",
+        "url": "https://mangasee123.com/manga/Black-Lion",
+        "image": "https://cover.nep.li/cover/Black-Lion.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42785,
+        "aniId": 72785,
+        "createdAt": "2021-06-08T05:21:15.000Z",
+        "updatedAt": "2021-12-08T06:10:13.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

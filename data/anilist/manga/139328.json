@@ -17,5 +17,28 @@
   "createdAt": "2021-09-16T21:10:42.000Z",
   "updatedAt": "2021-09-16T21:10:42.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "2a9acae2-48f7-42ce-a58d-3a20c8e72ecf": {
+        "authors": [
+          "Yoshitomi Akihito"
+        ],
+        "identifier": "2a9acae2-48f7-42ce-a58d-3a20c8e72ecf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Lily System",
+        "url": "https://mangadex.org/title/2a9acae2-48f7-42ce-a58d-3a20c8e72ecf",
+        "image": "https://uploads.mangadex.org/covers/2a9acae2-48f7-42ce-a58d-3a20c8e72ecf/364f2d22-dc3b-4c4e-92bc-56e89e21005d.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118838,
+        "aniId": 139328,
+        "createdAt": "2021-12-17T20:48:34.000Z",
+        "updatedAt": "2021-12-17T21:18:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

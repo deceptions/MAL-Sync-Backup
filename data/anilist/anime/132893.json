@@ -14,5 +14,44 @@
   "createdAt": "2021-05-20T23:12:57.000Z",
   "updatedAt": "2021-12-05T00:16:06.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "800q3": {
+        "identifier": "800q3",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Battle Spirits: Mirage",
+        "url": "https://9anime.to/watch/battle-spirits-mirage.800q3",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/bb/bb9aa3532a6545fde9372b998d8a0cfb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48810,
+        "aniId": 132893,
+        "createdAt": "2021-12-18T04:19:17.000Z",
+        "updatedAt": "2021-12-18T04:48:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "battle-spirits-mirage": {
+        "identifier": "battle-spirits-mirage",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Battle Spirits: Mirage",
+        "url": "https://gogoanime.cm/category/battle-spirits-mirage",
+        "image": "https://gogocdn.net/cover/battle-spirits-mirage.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48810,
+        "aniId": 132893,
+        "createdAt": "2021-12-18T06:19:17.000Z",
+        "updatedAt": "2021-12-18T06:48:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

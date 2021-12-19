@@ -44,6 +44,28 @@
         "updatedAt": "2021-12-07T21:07:21.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "ohisama_birdie": {
+        "authors": [
+          "YUI Daisuke"
+        ],
+        "identifier": "ohisama_birdie",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ohisama Birdie",
+        "url": "https://fanfox.net/manga/ohisama_birdie/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33198/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130061,
+        "aniId": 114824,
+        "createdAt": "2021-06-05T16:21:30.000Z",
+        "updatedAt": "2021-12-07T21:10:20.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

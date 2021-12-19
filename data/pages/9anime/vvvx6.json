@@ -7,14 +7,76 @@
   "image": "https://static.bunnycdn.ru/i/cache/images/6/6e/6e71f8be11069c2568cd01199d83eda7.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "active": true,
+  "actor": 2,
+  "malId": 48569,
+  "aniId": 131586,
   "createdAt": "2021-12-12T00:34:14.000Z",
-  "updatedAt": "2021-12-12T00:34:14.000Z",
+  "updatedAt": "2021-12-12T16:33:41.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://anime-86.com/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16172"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24481"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/86_(novel_series)#Anime"
+      }
+    ],
+    "altTitle": [
+      "86 Eighty-Six",
+      "86―エイティシックス―"
+    ],
+    "id": 48569,
+    "type": "anime",
+    "title": "86 Part 2",
+    "url": "https://myanimelist.net/anime/48569/86_Part_2",
+    "image": "https://cdn.myanimelist.net/images/anime/1321/117508.jpg",
+    "category": "TV",
+    "hentai": false,
+    "anidbId": 16172,
+    "createdAt": "2021-04-11T19:21:09.000Z",
+    "updatedAt": "2021-12-03T12:16:35.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "86 EIGHTY-SIX Season 2",
+      "86－エイティシックス－ 第2クール",
+      "86－エイティシックス－ 2クール",
+      "86 -เอทตี้ซิกซ์- พาร์ท 2"
+    ],
+    "externalLinks": [
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/GVDHX8DM5/86-EIGHTY-SIX"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/86-eighty-six"
+      }
+    ],
+    "id": 131586,
+    "malId": 48569,
+    "type": "anime",
+    "title": "86: Eighty Six Part 2",
+    "url": "https://anilist.co/anime/131586",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131586-k0X2kVpUOkqX.jpg",
+    "category": "tv",
+    "hentai": false,
+    "createdAt": "2021-05-20T19:12:57.000Z",
+    "updatedAt": "2021-11-07T11:47:45.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/48569/86_Part_2"
 }

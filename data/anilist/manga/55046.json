@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:46:48.000Z",
-  "updatedAt": "2021-06-17T17:57:09.000Z",
+  "updatedAt": "2021-12-17T18:32:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 55046,
         "createdAt": "2020-10-12T16:02:28.000Z",
         "updatedAt": "2021-12-02T07:17:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kore-wa-koi-no-hanashi": {
+        "authors": [
+          "Chika"
+        ],
+        "identifier": "kore-wa-koi-no-hanashi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kore wa Koi no Hanashi",
+        "url": "https://mangasee123.com/manga/Kore-Wa-Koi-No-Hanashi",
+        "image": "https://cover.nep.li/cover/Kore-Wa-Koi-No-Hanashi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25046,
+        "aniId": 55046,
+        "createdAt": "2021-12-15T22:19:57.000Z",
+        "updatedAt": "2021-12-15T22:48:24.000Z",
         "deletedAt": null
       }
     }

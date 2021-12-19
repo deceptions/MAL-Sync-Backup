@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 142300,
   "createdAt": "2021-12-08T20:34:19.000Z",
-  "updatedAt": "2021-12-08T20:34:19.000Z",
+  "updatedAt": "2021-12-13T09:59:17.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "我有无数神剑"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yuewen Manhua",
+      "Ren Wo Xiao"
+    ],
+    "id": 142300,
+    "malId": null,
+    "type": "manga",
+    "title": "Wo You Wushu Shenjian",
+    "url": "https://anilist.co/manga/142300",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142300-TrLumQi3xx0q.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-13T09:56:48.000Z",
+    "updatedAt": "2021-12-13T09:56:48.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

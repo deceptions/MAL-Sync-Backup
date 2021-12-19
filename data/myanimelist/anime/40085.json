@@ -30,7 +30,7 @@
   "hentai": false,
   "anidbId": 14996,
   "createdAt": "2020-10-12T15:40:11.000Z",
-  "updatedAt": "2021-10-04T04:30:54.000Z",
+  "updatedAt": "2021-12-15T16:19:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Aniwatch": {
@@ -69,6 +69,23 @@
         "createdAt": "2020-10-21T02:39:07.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
         "deletedAt": null
+      },
+      "ojj5y": {
+        "identifier": "ojj5y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Maesetsu! (Dub)",
+        "url": "https://9anime.to/watch/maesetsu-opening-act-dub.ojj5y",
+        "image": "https://static.bunnycdn.ru/i/cache/images/1/1c/1c3ab23b8f46f483ee3440f8d5c0dcec.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40085,
+        "aniId": 110632,
+        "createdAt": "2021-12-15T16:18:24.000Z",
+        "updatedAt": "2021-12-15T16:48:24.000Z",
+        "deletedAt": null
       }
     },
     "Twistmoe": {
@@ -106,6 +123,23 @@
         "aniId": 110632,
         "createdAt": "2020-10-25T19:21:46.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      },
+      "maesetsu-dub": {
+        "identifier": "maesetsu-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Maesetsu! (Dub)",
+        "url": "https://gogoanime.cm/category/maesetsu-dub",
+        "image": "https://gogocdn.net/cover/maesetsu-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40085,
+        "aniId": 110632,
+        "createdAt": "2021-12-17T10:18:25.000Z",
+        "updatedAt": "2021-12-17T10:48:24.000Z",
         "deletedAt": null
       }
     },

@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:55:14.000Z",
-  "updatedAt": "2021-06-18T02:22:40.000Z",
+  "updatedAt": "2021-12-18T02:49:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,51 @@
         "aniId": 99021,
         "createdAt": "2020-10-12T16:11:38.000Z",
         "updatedAt": "2021-12-05T10:19:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ye975361": {
+        "authors": [
+          "Kitta Izumi",
+          "Momono Moto"
+        ],
+        "identifier": "manga-ye975361",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Liberty",
+        "url": "https://manganato.com/manga-ye975361",
+        "image": "https://avt.mkklcdnv6temp.com/8/t/15-1583491778.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105161,
+        "aniId": 99021,
+        "createdAt": "2021-06-09T12:04:38.000Z",
+        "updatedAt": "2021-12-09T13:04:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "liberty": {
+        "authors": [
+          "MOMONO Moto"
+        ],
+        "identifier": "liberty",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Liberty",
+        "url": "https://fanfox.net/manga/liberty/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/24419/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105161,
+        "aniId": 99021,
+        "createdAt": "2021-06-09T12:34:15.000Z",
+        "updatedAt": "2021-12-09T13:33:40.000Z",
         "deletedAt": null
       }
     }

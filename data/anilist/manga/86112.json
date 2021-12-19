@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:54:02.000Z",
-  "updatedAt": "2021-06-17T22:05:00.000Z",
+  "updatedAt": "2021-12-17T22:30:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 86112,
         "createdAt": "2021-08-04T16:50:08.000Z",
         "updatedAt": "2021-08-04T17:17:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "studio_salty": {
+        "authors": [
+          "Omyo"
+        ],
+        "identifier": "studio_salty",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Studio Salty",
+        "url": "https://fanfox.net/manga/studio_salty/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13492/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96113,
+        "aniId": 86112,
+        "createdAt": "2021-12-12T07:03:50.000Z",
+        "updatedAt": "2021-12-12T07:33:41.000Z",
         "deletedAt": null
       }
     }

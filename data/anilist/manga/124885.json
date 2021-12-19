@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-31T08:33:53.000Z",
-  "updatedAt": "2021-06-18T10:33:50.000Z",
+  "updatedAt": "2021-12-18T10:54:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 124885,
         "createdAt": "2021-06-05T00:50:19.000Z",
         "updatedAt": "2021-12-05T01:52:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ookami_no_kawa_o_kabutta_hitsujihime": {
+        "authors": [
+          "Mito (ミト)"
+        ],
+        "identifier": "ookami_no_kawa_o_kabutta_hitsujihime",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ookami no Kawa o Kabutta Hitsujihime",
+        "url": "https://fanfox.net/manga/ookami_no_kawa_o_kabutta_hitsujihime/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36506/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132727,
+        "aniId": 124885,
+        "createdAt": "2021-06-11T12:10:20.000Z",
+        "updatedAt": "2021-12-11T13:03:42.000Z",
         "deletedAt": null
       }
     }

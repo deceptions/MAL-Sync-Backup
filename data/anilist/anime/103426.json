@@ -15,7 +15,27 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-28T23:23:33.000Z",
-  "updatedAt": "2021-06-17T16:22:49.000Z",
+  "updatedAt": "2021-12-17T16:51:10.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "chao-zhi-neng-zu-qiu-dub": {
+        "identifier": "chao-zhi-neng-zu-qiu-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chao Zhi Neng Zu Qiu (Dub)",
+        "url": "https://gogoanime.cm/category/chao-zhi-neng-zu-qiu-dub",
+        "image": "https://gogocdn.net/cover/chao-zhi-neng-zu-qiu-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 36993,
+        "aniId": 103426,
+        "createdAt": "2021-12-16T08:18:44.000Z",
+        "updatedAt": "2021-12-16T08:48:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

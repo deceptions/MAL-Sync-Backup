@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:59:32.000Z",
-  "updatedAt": "2021-06-18T11:27:03.000Z",
+  "updatedAt": "2021-12-18T11:50:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -62,6 +62,29 @@
         "aniId": 128271,
         "createdAt": "2021-02-14T16:35:47.000Z",
         "updatedAt": "2021-11-20T18:44:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jm987069": {
+        "authors": [
+          "Chihiro Mishima",
+          "Chojiro"
+        ],
+        "identifier": "manga-jm987069",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Dhm - Dungeon + Harem + Master",
+        "url": "https://readmanganato.com/manga-jm987069",
+        "image": "https://avt.mkklcdnv6temp.com/32/n/22-1603767924.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130663,
+        "aniId": 128271,
+        "createdAt": "2021-06-08T07:56:46.000Z",
+        "updatedAt": "2021-12-08T08:38:41.000Z",
         "deletedAt": null
       }
     }

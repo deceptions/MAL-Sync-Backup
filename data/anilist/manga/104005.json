@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:57:03.000Z",
-  "updatedAt": "2021-06-18T04:22:30.000Z",
+  "updatedAt": "2021-12-18T04:49:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 104005,
         "createdAt": "2020-10-12T16:13:45.000Z",
         "updatedAt": "2021-12-05T23:50:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cm979595": {
+        "authors": [
+          "Akira Takasaka"
+        ],
+        "identifier": "manga-cm979595",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Libercinis Of The Witch Hunting",
+        "url": "https://manganato.com/manga-cm979595",
+        "image": "https://avt.mkklcdnv6temp.com/47/k/16-1583495171.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113628,
+        "aniId": 104005,
+        "createdAt": "2021-06-10T21:38:28.000Z",
+        "updatedAt": "2021-12-10T22:33:39.000Z",
         "deletedAt": null
       }
     }

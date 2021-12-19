@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:53:59.000Z",
-  "updatedAt": "2021-06-18T01:24:10.000Z",
+  "updatedAt": "2021-12-18T01:51:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 96638,
         "createdAt": "2021-02-13T19:05:56.000Z",
         "updatedAt": "2021-11-20T18:44:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cj980018": {
+        "authors": [
+          "Konkichi"
+        ],
+        "identifier": "manga-cj980018",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mononobe Koshoten Kaikitan",
+        "url": "https://manganato.com/manga-cj980018",
+        "image": "https://avt.mkklcdnv6temp.com/12/y/17-1583495732.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95376,
+        "aniId": 96638,
+        "createdAt": "2021-06-07T21:22:15.000Z",
+        "updatedAt": "2021-12-07T22:12:31.000Z",
         "deletedAt": null
       }
     }

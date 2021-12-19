@@ -20,7 +20,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:54:39.000Z",
-  "updatedAt": "2021-06-18T02:01:43.000Z",
+  "updatedAt": "2021-12-18T02:26:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -88,6 +88,29 @@
         "aniId": 98386,
         "createdAt": "2021-03-22T11:35:43.000Z",
         "updatedAt": "2021-11-20T20:14:55.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xk975119": {
+        "authors": [
+          "Nagai Yoshio",
+          "Matsumoto Jiro"
+        ],
+        "identifier": "manga-xk975119",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ichigeki (Matsumoto Jiro)",
+        "url": "https://manganato.com/manga-xk975119",
+        "image": "https://avt.mkklcdnv6temp.com/4/u/15-1583491640.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 98569,
+        "aniId": 98386,
+        "createdAt": "2021-06-11T16:39:27.000Z",
+        "updatedAt": "2021-12-11T17:34:13.000Z",
         "deletedAt": null
       }
     }

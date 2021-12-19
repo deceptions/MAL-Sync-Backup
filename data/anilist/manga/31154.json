@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:35:54.000Z",
-  "updatedAt": "2021-06-17T09:05:10.000Z",
+  "updatedAt": "2021-12-17T09:42:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -86,6 +86,28 @@
         "aniId": 31154,
         "createdAt": "2021-02-20T04:03:46.000Z",
         "updatedAt": "2021-11-20T18:44:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nf964688": {
+        "authors": [
+          "Yamaguchi Noboru"
+        ],
+        "identifier": "manga-nf964688",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Zero No Tsukaima",
+        "url": "https://readmanganato.com/manga-nf964688",
+        "image": "https://avt.mkklcdnv6temp.com/36/o/9-1583481589.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1154,
+        "aniId": 31154,
+        "createdAt": "2021-06-09T12:04:35.000Z",
+        "updatedAt": "2021-12-09T13:04:30.000Z",
         "deletedAt": null
       }
     }

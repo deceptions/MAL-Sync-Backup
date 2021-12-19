@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://comic.pixiv.net/works/4617"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%BE%E3%83%BC%E3%83%B3_(%E6%BC%AB%E7%94%BB)"
+    }
+  ],
   "altTitle": [
     "School Zone Girls",
     "スクールゾーン"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:03.000Z",
-  "updatedAt": "2021-07-07T16:00:25.000Z",
+  "updatedAt": "2021-12-13T10:02:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +68,28 @@
         "aniId": 120537,
         "createdAt": "2021-05-28T20:24:13.000Z",
         "updatedAt": "2021-11-28T21:08:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "school-zone-girls": {
+        "authors": [
+          "Ningiyau"
+        ],
+        "identifier": "school-zone-girls",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "School Zone Girls",
+        "url": "https://mangasee123.com/manga/School-Zone-Girls",
+        "image": "https://cover.nep.li/cover/School-Zone-Girls.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 120403,
+        "aniId": 120537,
+        "createdAt": "2021-06-08T15:56:37.000Z",
+        "updatedAt": "2021-12-08T20:03:49.000Z",
         "deletedAt": null
       }
     }

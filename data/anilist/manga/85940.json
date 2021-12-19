@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:51:59.000Z",
-  "updatedAt": "2021-06-17T22:00:40.000Z",
+  "updatedAt": "2021-12-17T22:26:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -86,6 +86,29 @@
         "aniId": 85940,
         "createdAt": "2021-05-20T00:01:55.000Z",
         "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fw951931": {
+        "authors": [
+          "Shirasawa Inui",
+          "Fuji Mayu"
+        ],
+        "identifier": "manga-fw951931",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shiro No Koukoku Monogatari",
+        "url": "https://readmanganato.com/manga-fw951931",
+        "image": "https://avt.mkklcdnv6temp.com/21/q/1-1583464548.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 80487,
+        "aniId": 85940,
+        "createdAt": "2021-06-11T13:08:43.000Z",
+        "updatedAt": "2021-12-11T14:03:42.000Z",
         "deletedAt": null
       }
     }

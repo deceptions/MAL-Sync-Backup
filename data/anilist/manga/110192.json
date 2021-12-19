@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T23:21:19.000Z",
-  "updatedAt": "2021-06-18T06:26:30.000Z",
+  "updatedAt": "2021-12-18T06:51:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 110192,
         "createdAt": "2020-10-12T16:19:57.000Z",
         "updatedAt": "2021-12-08T00:38:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-iy985781": {
+        "authors": [
+          "Hey 塀"
+        ],
+        "identifier": "manga-iy985781",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kamiina Botan, Yoeru Sugata Wa Yuri No Hana.",
+        "url": "https://readmanganato.com/manga-iy985781",
+        "image": "https://avt.mkklcdnv6temp.com/30/q/21-1592846056.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 133291,
+        "aniId": 110192,
+        "createdAt": "2021-06-04T18:20:07.000Z",
+        "updatedAt": "2021-12-08T00:10:25.000Z",
         "deletedAt": null
       }
     },

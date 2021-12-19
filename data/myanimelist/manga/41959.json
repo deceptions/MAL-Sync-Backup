@@ -38,6 +38,28 @@
         "updatedAt": "2021-12-03T11:48:18.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mizu_no_haru": {
+        "authors": [
+          "KUROSAWA Kaname"
+        ],
+        "identifier": "mizu_no_haru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mizu no Haru",
+        "url": "https://fanfox.net/manga/mizu_no_haru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11165/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41959,
+        "aniId": 71959,
+        "createdAt": "2021-06-08T06:23:26.000Z",
+        "updatedAt": "2021-12-08T08:08:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

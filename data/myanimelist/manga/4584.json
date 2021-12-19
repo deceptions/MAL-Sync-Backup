@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%95%E3%82%81%E3%81%8D%E3%81%93%E3%81%A8"
+    }
+  ],
   "altTitle": [
     "Whispered Words",
     "Kamisama to Dance",
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:00.000Z",
-  "updatedAt": "2021-06-18T18:52:31.000Z",
+  "updatedAt": "2021-12-18T19:19:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -102,28 +107,6 @@
         "aniId": 34584,
         "createdAt": "2021-04-08T17:21:29.000Z",
         "updatedAt": "2021-11-20T21:17:17.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-mc957837": {
-        "authors": [
-          "Ikeda Takashi"
-        ],
-        "identifier": "manga-mc957837",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Sasameki Koto",
-        "url": "https://manganato.com/manga-mc957837",
-        "image": "https://avt.mkklcdnv6temp.com/6/m/5-1583472107.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 4584,
-        "aniId": 34584,
-        "createdAt": "2021-06-18T18:52:11.000Z",
-        "updatedAt": "2021-06-18T19:20:50.000Z",
         "deletedAt": null
       }
     }

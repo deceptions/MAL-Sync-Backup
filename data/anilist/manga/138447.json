@@ -20,5 +20,29 @@
   "createdAt": "2021-11-02T00:04:20.000Z",
   "updatedAt": "2021-11-02T00:04:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "9950720b-21e8-4fac-9e34-bd5bf02fed77": {
+        "authors": [
+          "Mikoshiba Nana",
+          "Mizu Seijuurou"
+        ],
+        "identifier": "9950720b-21e8-4fac-9e34-bd5bf02fed77",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsuihou sareta Ochikobore, Henkyou de Ikinuite S-Rank Taimashi ni Nariagaru",
+        "url": "https://mangadex.org/title/9950720b-21e8-4fac-9e34-bd5bf02fed77",
+        "image": "https://uploads.mangadex.org/covers/9950720b-21e8-4fac-9e34-bd5bf02fed77/933b3162-3ddb-498e-9d96-e1fdad61f19c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 137775,
+        "aniId": 138447,
+        "createdAt": "2021-12-17T21:18:24.000Z",
+        "updatedAt": "2021-12-17T21:18:25.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

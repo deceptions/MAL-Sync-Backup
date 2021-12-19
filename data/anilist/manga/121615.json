@@ -15,7 +15,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-25T11:08:18.000Z",
-  "updatedAt": "2021-06-18T09:54:05.000Z",
+  "updatedAt": "2021-12-18T10:19:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 121615,
         "createdAt": "2021-01-04T13:55:57.000Z",
         "updatedAt": "2021-08-12T07:37:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sanshimai_ga_ore_wo_yuuwaku_shite_kuru": {
+        "authors": [
+          "HASEYOSHI Eria"
+        ],
+        "identifier": "sanshimai_ga_ore_wo_yuuwaku_shite_kuru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sanshimai ga Ore wo Yuuwaku shite kuru!!",
+        "url": "https://fanfox.net/manga/sanshimai_ga_ore_wo_yuuwaku_shite_kuru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36129/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131824,
+        "aniId": 121615,
+        "createdAt": "2021-04-08T20:21:35.000Z",
+        "updatedAt": "2021-12-07T21:41:50.000Z",
         "deletedAt": null
       }
     },

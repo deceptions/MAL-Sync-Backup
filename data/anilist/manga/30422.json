@@ -27,7 +27,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:35:33.000Z",
-  "updatedAt": "2021-06-17T08:26:26.000Z",
+  "updatedAt": "2021-12-17T09:10:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -49,6 +49,28 @@
         "aniId": 30422,
         "createdAt": "2020-10-12T16:03:09.000Z",
         "updatedAt": "2021-12-02T12:18:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "perfect-girl-evolution": {
+        "authors": [
+          "HAYAKAWA Tomoko"
+        ],
+        "identifier": "perfect-girl-evolution",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Perfect Girl Evolution",
+        "url": "https://mangasee123.com/manga/Perfect-Girl-Evolution",
+        "image": "https://cover.nep.li/cover/Perfect-Girl-Evolution.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 422,
+        "aniId": 30422,
+        "createdAt": "2021-06-10T22:08:24.000Z",
+        "updatedAt": "2021-12-10T23:03:40.000Z",
         "deletedAt": null
       }
     },

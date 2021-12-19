@@ -28,5 +28,29 @@
   "createdAt": "2021-06-08T15:56:32.000Z",
   "updatedAt": "2021-12-08T16:03:49.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "sex-ed-120": {
+        "authors": [
+          "Hotomura",
+          "TATAKI Kikiki"
+        ],
+        "identifier": "sex-ed-120",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Sex Ed 120%",
+        "url": "https://mangasee123.com/manga/Sex-Ed-120",
+        "image": "https://cover.nep.li/cover/Sex-Ed-120.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136996,
+        "aniId": 114658,
+        "createdAt": "2021-06-08T15:56:35.000Z",
+        "updatedAt": "2021-12-08T16:35:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

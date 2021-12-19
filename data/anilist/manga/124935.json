@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-08T11:25:31.000Z",
-  "updatedAt": "2021-06-18T10:34:00.000Z",
+  "updatedAt": "2021-12-18T10:54:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 124935,
         "createdAt": "2021-02-13T00:05:54.000Z",
         "updatedAt": "2021-12-08T11:39:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "spill_it_cocktail_nights": {
+        "authors": [
+          "TAKAYAMA Toshinori"
+        ],
+        "identifier": "spill_it_cocktail_nights",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Spill It, Cocktail Nights!",
+        "url": "https://fanfox.net/manga/spill_it_cocktail_nights/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/37903/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 133798,
+        "aniId": 124935,
+        "createdAt": "2021-03-10T04:42:45.000Z",
+        "updatedAt": "2021-12-08T12:10:42.000Z",
         "deletedAt": null
       }
     },

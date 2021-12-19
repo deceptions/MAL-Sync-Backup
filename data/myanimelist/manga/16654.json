@@ -19,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:22.000Z",
-  "updatedAt": "2021-11-02T08:06:21.000Z",
+  "updatedAt": "2021-12-13T19:18:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,28 @@
         "aniId": 46654,
         "createdAt": "2020-10-12T16:03:53.000Z",
         "updatedAt": "2021-12-02T17:19:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-oa965657": {
+        "authors": [
+          "Shibano Yuka"
+        ],
+        "identifier": "manga-oa965657",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Taiyou Ga Yonde Iru!",
+        "url": "https://manganato.com/manga-oa965657",
+        "image": "https://avt.mkklcdnv6temp.com/15/b/10-1583482714.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16654,
+        "aniId": 46654,
+        "createdAt": "2021-12-13T19:18:36.000Z",
+        "updatedAt": "2021-12-13T19:48:24.000Z",
         "deletedAt": null
       }
     }

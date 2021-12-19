@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:45.000Z",
-  "updatedAt": "2021-06-17T12:45:02.000Z",
+  "updatedAt": "2021-12-17T13:18:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,28 @@
         "aniId": 38218,
         "createdAt": "2021-05-25T21:09:00.000Z",
         "updatedAt": "2021-11-25T22:05:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ph952916": {
+        "authors": [
+          "Ragawa Marimo"
+        ],
+        "identifier": "manga-ph952916",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shanimuni Go",
+        "url": "https://manganato.com/manga-ph952916",
+        "image": "https://avt.mkklcdnv6temp.com/5/l/2-1583465901.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8218,
+        "aniId": 38218,
+        "createdAt": "2021-06-11T17:08:34.000Z",
+        "updatedAt": "2021-12-11T18:03:53.000Z",
         "deletedAt": null
       }
     }

@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:53:47.000Z",
-  "updatedAt": "2021-06-18T05:35:23.000Z",
+  "updatedAt": "2021-12-18T05:57:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 108007,
         "createdAt": "2020-10-12T16:15:14.000Z",
         "updatedAt": "2021-12-06T12:18:10.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dn980996": {
+        "authors": [
+          "Tooyama Ema"
+        ],
+        "identifier": "manga-dn980996",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kitsune To Pancake",
+        "url": "https://manganato.com/manga-dn980996",
+        "image": "https://avt.mkklcdnv6temp.com/48/x/17-1583497029.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93642,
+        "aniId": 108007,
+        "createdAt": "2021-06-09T06:30:08.000Z",
+        "updatedAt": "2021-12-09T07:05:51.000Z",
         "deletedAt": null
       }
     }

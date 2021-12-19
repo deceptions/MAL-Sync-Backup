@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:59:32.000Z",
-  "updatedAt": "2021-06-18T10:20:50.000Z",
+  "updatedAt": "2021-12-18T10:52:11.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -82,6 +82,28 @@
         "aniId": 123625,
         "createdAt": "2021-02-01T09:31:43.000Z",
         "updatedAt": "2021-11-20T18:14:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jh986590": {
+        "authors": [
+          "Riko Amaebi"
+        ],
+        "identifier": "manga-jh986590",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Paperbag-Kun Is In Love",
+        "url": "https://readmanganato.com/manga-jh986590",
+        "image": "https://avt.mkklcdnv6temp.com/12/x/22-1600145691.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130740,
+        "aniId": 123625,
+        "createdAt": "2021-06-09T21:34:40.000Z",
+        "updatedAt": "2021-12-09T22:33:39.000Z",
         "deletedAt": null
       }
     }

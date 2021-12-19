@@ -21,7 +21,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:56:48.000Z",
-  "updatedAt": "2021-06-18T03:04:20.000Z",
+  "updatedAt": "2021-12-18T03:28:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -114,6 +114,26 @@
         "aniId": 100835,
         "createdAt": "2021-06-01T15:41:43.000Z",
         "updatedAt": "2021-12-01T16:24:17.000Z",
+        "deletedAt": null
+      },
+      "manga-lz988382": {
+        "authors": [
+          "Nenjuu Mugichatarou"
+        ],
+        "identifier": "manga-lz988382",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kenshi Wo Mezashite Nyuugaku Shita No Ni Mahou Tekisei 9999 Nan Desu Kedo!?",
+        "url": "https://manganato.com/manga-lz988382",
+        "image": "https://avt.mkklcdnv6temp.com/36/p/23-1614870657.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111625,
+        "aniId": 100835,
+        "createdAt": "2021-06-10T02:04:15.000Z",
+        "updatedAt": "2021-12-10T03:04:32.000Z",
         "deletedAt": null
       }
     }

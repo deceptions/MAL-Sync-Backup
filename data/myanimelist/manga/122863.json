@@ -87,6 +87,28 @@
         "updatedAt": "2021-12-01T00:44:41.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kowloon_generic_romance": {
+        "authors": [
+          "MAYUZUKI Jun"
+        ],
+        "identifier": "kowloon_generic_romance",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kowloon Generic Romance",
+        "url": "https://fanfox.net/manga/kowloon_generic_romance/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32003/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122863,
+        "aniId": 112544,
+        "createdAt": "2021-06-09T17:34:39.000Z",
+        "updatedAt": "2021-12-09T18:34:50.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

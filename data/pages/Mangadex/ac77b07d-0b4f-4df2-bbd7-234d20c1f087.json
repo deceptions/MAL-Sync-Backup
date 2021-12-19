@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 133591,
-  "aniId": null,
+  "aniId": 141859,
   "createdAt": "2020-10-12T16:21:03.000Z",
-  "updatedAt": "2021-12-08T07:10:51.000Z",
+  "updatedAt": "2021-12-15T02:48:24.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -37,6 +37,26 @@
     "updatedAt": "2021-12-08T02:06:24.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "夜の名前を呼んで",
+      "Call the Name of the Night"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tama Mitsuboshi"
+    ],
+    "id": 141859,
+    "malId": 133591,
+    "type": "manga",
+    "title": "Yoru no Namae wo Yonde",
+    "url": "https://anilist.co/manga/141859",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141859-4WYkzzAB7ldI.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-21T00:14:14.000Z",
+    "updatedAt": "2021-12-15T02:18:25.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/133591/Yoru_no_Namae_wo_Yonde"
 }

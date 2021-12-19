@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 113500,
-  "aniId": null,
+  "aniId": 107898,
   "createdAt": "2021-02-16T09:37:58.000Z",
-  "updatedAt": "2021-08-16T10:07:22.000Z",
+  "updatedAt": "2021-12-18T01:18:24.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -38,6 +38,26 @@
     "updatedAt": "2021-10-26T04:31:34.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Beauty and the Beast Girl",
+      "ぼっち怪物と盲目少女"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Neji"
+    ],
+    "id": 107898,
+    "malId": 113500,
+    "type": "manga",
+    "title": "Bocchi Kaibutsu to Moumoku Shoujo",
+    "url": "https://anilist.co/manga/107898",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx107898-vfgjXWMKmNi9.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:57:01.000Z",
+    "updatedAt": "2021-12-18T05:56:45.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/113500/Bocchi_Kaibutsu_to_Moumoku_Shoujo"
 }

@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-05-20T14:59:08.000Z",
-  "updatedAt": "2021-06-18T02:04:15.000Z",
+  "updatedAt": "2021-12-18T02:28:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +81,28 @@
         "aniId": 98591,
         "createdAt": "2021-06-01T15:45:13.000Z",
         "updatedAt": "2021-12-01T16:24:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "an_innocent_sin": {
+        "authors": [
+          "Oh Gye"
+        ],
+        "identifier": "an_innocent_sin",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "An Innocent Sin",
+        "url": "https://fanfox.net/manga/an_innocent_sin/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/23587/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 124997,
+        "aniId": 98591,
+        "createdAt": "2021-06-07T22:21:08.000Z",
+        "updatedAt": "2021-12-07T23:09:32.000Z",
         "deletedAt": null
       }
     }

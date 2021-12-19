@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:59:10.000Z",
-  "updatedAt": "2021-06-18T06:59:43.000Z",
+  "updatedAt": "2021-12-18T07:23:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,51 @@
         "aniId": 111750,
         "createdAt": "2020-10-12T16:17:21.000Z",
         "updatedAt": "2021-12-07T07:17:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mp990224": {
+        "authors": [
+          "Kenji Saitou",
+          "Bcoca"
+        ],
+        "identifier": "manga-mp990224",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Trinity Seven: Anastasia Holy Story",
+        "url": "https://manganato.com/manga-mp990224",
+        "image": "https://avt.mkklcdnv6temp.com/15/k/25-1639362067.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125236,
+        "aniId": 111750,
+        "createdAt": "2021-12-13T04:33:52.000Z",
+        "updatedAt": "2021-12-13T05:03:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "trinity_seven_anastasia_seiden": {
+        "authors": [
+          "SAITOU Kenji"
+        ],
+        "identifier": "trinity_seven_anastasia_seiden",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Trinity Seven: Anastasia Seiden",
+        "url": "https://fanfox.net/manga/trinity_seven_anastasia_seiden/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31598/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125236,
+        "aniId": 111750,
+        "createdAt": "2021-12-13T05:03:45.000Z",
+        "updatedAt": "2021-12-13T05:33:41.000Z",
         "deletedAt": null
       }
     }

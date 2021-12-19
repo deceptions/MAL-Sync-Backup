@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:53:08.000Z",
-  "updatedAt": "2021-06-18T09:33:42.000Z",
+  "updatedAt": "2021-12-18T09:53:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,28 @@
         "deletedAt": null
       }
     },
+    "MangaNato": {
+      "manga-iy985633": {
+        "authors": [
+          "Takeuchi Sakura"
+        ],
+        "identifier": "manga-iy985633",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Minpou Kaisei - Nihon Wa Ipputasaisei Ni Natta",
+        "url": "https://manganato.com/manga-iy985633",
+        "image": "https://avt.mkklcdnv6temp.com/24/k/21-1591330324.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 91157,
+        "aniId": 120876,
+        "createdAt": "2021-06-08T16:55:21.000Z",
+        "updatedAt": "2021-12-08T17:34:09.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaFox": {
       "minpou_kaisei_nihon_wa_ipputasaisei_ni_natta": {
         "authors": [
@@ -60,7 +82,7 @@
         "malId": 91157,
         "aniId": 120876,
         "createdAt": "2021-06-13T05:08:18.000Z",
-        "updatedAt": "2021-06-13T05:38:18.000Z",
+        "updatedAt": "2021-12-13T06:03:42.000Z",
         "deletedAt": null
       }
     }

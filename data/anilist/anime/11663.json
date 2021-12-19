@@ -14,7 +14,27 @@
   "category": "ova",
   "hentai": false,
   "createdAt": "2021-06-07T18:33:57.000Z",
-  "updatedAt": "2021-06-17T12:54:20.000Z",
+  "updatedAt": "2021-12-17T13:24:01.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "hakuouki-ova": {
+        "identifier": "hakuouki-ova",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hakuouki OVA",
+        "url": "https://gogoanime.cm/category/hakuouki-ova",
+        "image": "https://gogocdn.net/cover/hakuouki-ova.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11663,
+        "aniId": 11663,
+        "createdAt": "2021-12-18T09:19:49.000Z",
+        "updatedAt": "2021-12-18T09:48:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:43.000Z",
-  "updatedAt": "2021-06-17T15:09:59.000Z",
+  "updatedAt": "2021-12-17T15:42:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 45088,
         "createdAt": "2020-10-12T16:06:49.000Z",
         "updatedAt": "2021-12-03T22:49:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-sq955851": {
+        "authors": [
+          "Momose Takeaki"
+        ],
+        "identifier": "manga-sq955851",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Miami Guns",
+        "url": "https://manganato.com/manga-sq955851",
+        "image": "https://avt.mkklcdnv6temp.com/43/p/3-1583469387.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15088,
+        "aniId": 45088,
+        "createdAt": "2021-06-08T06:54:33.000Z",
+        "updatedAt": "2021-12-08T08:08:00.000Z",
         "deletedAt": null
       }
     }

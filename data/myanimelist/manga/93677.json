@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/GANTZ:G"
+    }
+  ],
   "altTitle": [
     "Gantz G",
     "GANTZ：G"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:15.000Z",
-  "updatedAt": "2021-06-17T21:22:13.000Z",
+  "updatedAt": "2021-12-17T21:49:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,29 +89,6 @@
         "aniId": 86637,
         "createdAt": "2021-02-22T12:03:49.000Z",
         "updatedAt": "2021-11-20T19:16:15.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-cs951901": {
-        "authors": [
-          "Oku Hiroya",
-          "Iijika Keita"
-        ],
-        "identifier": "manga-cs951901",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Gantz:g",
-        "url": "https://readmanganato.com/manga-cs951901",
-        "image": "https://avt.mkklcdnv6temp.com/20/o/1-1583464505.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 93677,
-        "aniId": 86637,
-        "createdAt": "2021-06-17T21:22:11.000Z",
-        "updatedAt": "2021-06-17T21:50:50.000Z",
         "deletedAt": null
       }
     }

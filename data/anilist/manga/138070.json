@@ -10,15 +10,39 @@
     "Tasuku Karasuma"
   ],
   "id": 138070,
-  "malId": null,
+  "malId": 142551,
   "type": "manga",
   "title": "JoJo no Kimyou na Bouken: Crazy Diamond no Akuryouteki Shitsuren",
   "url": "https://anilist.co/manga/138070",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138070-EPlv2lDFLM1Y.png",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138070-jb0DpqDLnfRE.png",
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-19T00:07:07.000Z",
-  "updatedAt": "2021-11-18T20:44:03.000Z",
+  "updatedAt": "2021-12-18T11:48:29.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "0d89de3b-454b-422e-9eed-c17402cf1604": {
+        "authors": [
+          "Kadono Kouhei",
+          "Karasuma Tasuku"
+        ],
+        "identifier": "0d89de3b-454b-422e-9eed-c17402cf1604",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "JoJo's Bizarre Adventure: Crazy Diamond's Demonic Heartbreak",
+        "url": "https://mangadex.org/title/0d89de3b-454b-422e-9eed-c17402cf1604",
+        "image": "https://uploads.mangadex.org/covers/0d89de3b-454b-422e-9eed-c17402cf1604/927aaaba-2e06-46f2-8a2f-6ee07e5ab1df.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 142551,
+        "aniId": 138070,
+        "createdAt": "2021-12-18T01:48:27.000Z",
+        "updatedAt": "2021-12-18T12:18:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

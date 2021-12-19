@@ -8,7 +8,7 @@
     "Shou Aimoto"
   ],
   "id": 141803,
-  "malId": null,
+  "malId": 142552,
   "type": "manga",
   "title": "Fujiko no Kimyou na Shoseijutsu: Whitesnake no Gosan",
   "url": "https://anilist.co/manga/141803",
@@ -16,7 +16,30 @@
   "category": "one_shot",
   "hentai": false,
   "createdAt": "2021-11-18T15:44:03.000Z",
-  "updatedAt": "2021-11-18T15:44:03.000Z",
+  "updatedAt": "2021-12-18T12:48:30.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "abc2f9a6-b78a-4041-9fbc-7f2218bc734d": {
+        "authors": [
+          "Aimoto Shou"
+        ],
+        "identifier": "abc2f9a6-b78a-4041-9fbc-7f2218bc734d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fujiko's Bizarre Worldly Wisdom -Whitesnake's Miscalculation-",
+        "url": "https://mangadex.org/title/abc2f9a6-b78a-4041-9fbc-7f2218bc734d",
+        "image": "https://uploads.mangadex.org/covers/abc2f9a6-b78a-4041-9fbc-7f2218bc734d/8200cfb2-555b-433a-82f1-964b6fc77809.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 142552,
+        "aniId": 141803,
+        "createdAt": "2021-12-18T15:18:31.000Z",
+        "updatedAt": "2021-12-18T15:18:31.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

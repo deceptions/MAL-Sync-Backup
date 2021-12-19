@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 135574,
   "createdAt": "2021-11-08T19:14:16.000Z",
-  "updatedAt": "2021-12-10T08:03:39.000Z",
+  "updatedAt": "2021-12-13T09:59:34.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "적기사는 눈먼 돈을 좇지 않는다",
+      "Red Knights Don't Chase Blind Money",
+      "A Red Knight Does Not Blindly Follow Money"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Si-Won Ro",
+      "Jae-Min Song"
+    ],
+    "id": 135574,
+    "malId": null,
+    "type": "manga",
+    "title": "Jeokgisaneun Nunmeon Doneul Jotji Anneunda",
+    "url": "https://anilist.co/manga/135574",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx135574-KRD5Xn2MSmVi.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-14T18:27:33.000Z",
+    "updatedAt": "2021-12-13T09:56:25.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

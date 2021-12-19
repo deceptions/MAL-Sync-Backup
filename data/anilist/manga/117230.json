@@ -15,7 +15,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:59:12.000Z",
-  "updatedAt": "2021-06-18T08:32:12.000Z",
+  "updatedAt": "2021-12-18T08:53:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 117230,
         "createdAt": "2021-03-31T12:00:53.000Z",
         "updatedAt": "2021-11-20T20:46:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-iz986008": {
+        "authors": [
+          "Nakayama Atsushi"
+        ],
+        "identifier": "manga-iz986008",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Suicide Girl",
+        "url": "https://readmanganato.com/manga-iz986008",
+        "image": "https://avt.mkklcdnv6temp.com/39/s/21-1595897516.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126099,
+        "aniId": 117230,
+        "createdAt": "2021-06-11T16:08:24.000Z",
+        "updatedAt": "2021-12-11T17:03:53.000Z",
         "deletedAt": null
       }
     }

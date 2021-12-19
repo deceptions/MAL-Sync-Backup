@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:58:18.000Z",
-  "updatedAt": "2021-06-18T06:04:34.000Z",
+  "updatedAt": "2021-12-18T06:26:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 109398,
         "createdAt": "2021-04-30T06:19:24.000Z",
         "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dh981042": {
+        "authors": [
+          "Hyeon A Cho"
+        ],
+        "identifier": "manga-dh981042",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yeon's Letters",
+        "url": "https://manganato.com/manga-dh981042",
+        "image": "https://avt.mkklcdnv6temp.com/50/p/17-1583497095.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 120875,
+        "aniId": 109398,
+        "createdAt": "2021-06-09T08:34:14.000Z",
+        "updatedAt": "2021-12-09T09:34:09.000Z",
         "deletedAt": null
       }
     }

@@ -84,6 +84,28 @@
         "updatedAt": "2021-09-11T15:34:33.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "shiori_no_nikki": {
+        "authors": [
+          "Tsuyatsuya"
+        ],
+        "identifier": "shiori_no_nikki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shiori no Nikki",
+        "url": "https://fanfox.net/manga/shiori_no_nikki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/38709/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125940,
+        "aniId": 108028,
+        "createdAt": "2021-12-15T18:18:24.000Z",
+        "updatedAt": "2021-12-15T18:48:24.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

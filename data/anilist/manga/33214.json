@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:38:05.000Z",
-  "updatedAt": "2021-06-17T10:34:09.000Z",
+  "updatedAt": "2021-12-17T11:11:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,28 @@
         "aniId": 33214,
         "createdAt": "2021-04-06T19:08:25.000Z",
         "updatedAt": "2021-11-20T21:17:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xx956306": {
+        "authors": [
+          "Minamoto Yuu"
+        ],
+        "identifier": "manga-xx956306",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Asu No Yoichi!",
+        "url": "https://readmanganato.com/manga-xx956306",
+        "image": "https://avt.mkklcdnv6temp.com/10/n/4-1583470097.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3214,
+        "aniId": 33214,
+        "createdAt": "2021-06-08T13:55:53.000Z",
+        "updatedAt": "2021-12-08T14:33:39.000Z",
         "deletedAt": null
       }
     }

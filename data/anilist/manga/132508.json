@@ -9,15 +9,39 @@
     "Nekosuke Ookuma"
   ],
   "id": 132508,
-  "malId": 129403,
+  "malId": 129402,
   "type": "manga",
   "title": "Ane ga Kensei de Imouto ga Kenja de",
   "url": "https://anilist.co/manga/132508",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b132508-fITODbmvCPgT.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132508-GiMqR88wJQGK.jpg",
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:59:24.000Z",
-  "updatedAt": "2021-06-18T12:22:23.000Z",
+  "updatedAt": "2021-12-18T12:51:31.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "72b28da7-eb5d-4dee-a5ca-2f18197deb02": {
+        "authors": [
+          "Senki Anten",
+          "Soramochi"
+        ],
+        "identifier": "72b28da7-eb5d-4dee-a5ca-2f18197deb02",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ane ga Kensei de Imouto ga Kenja de",
+        "url": "https://mangadex.org/title/72b28da7-eb5d-4dee-a5ca-2f18197deb02",
+        "image": "https://uploads.mangadex.org/covers/72b28da7-eb5d-4dee-a5ca-2f18197deb02/e206b658-e943-46d2-8673-e897555e1ac2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 129402,
+        "aniId": 132508,
+        "createdAt": "2020-10-12T16:21:14.000Z",
+        "updatedAt": "2021-12-18T13:18:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

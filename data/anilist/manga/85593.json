@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:50:29.000Z",
-  "updatedAt": "2021-06-17T21:52:10.000Z",
+  "updatedAt": "2021-12-17T22:19:24.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 85593,
         "createdAt": "2020-10-12T16:06:37.000Z",
         "updatedAt": "2021-12-03T21:50:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-po960723": {
+        "authors": [
+          "Hoshimori Yukimo"
+        ],
+        "identifier": "manga-po960723",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "'hajimete' Ageru!",
+        "url": "https://manganato.com/manga-po960723",
+        "image": "https://avt.mkklcdnv6temp.com/12/i/7-1583476749.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 56565,
+        "aniId": 85593,
+        "createdAt": "2021-06-09T14:04:47.000Z",
+        "updatedAt": "2021-12-09T16:04:41.000Z",
         "deletedAt": null
       }
     }

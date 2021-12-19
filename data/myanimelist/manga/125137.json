@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://magazine-edge.jp/contents/edomaeelf.html"
+    }
+  ],
   "altTitle": [
     "Otaku Elf",
     "A Sloven Elf Who Have Been from the Edo Period",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:17.000Z",
-  "updatedAt": "2021-08-06T16:51:19.000Z",
+  "updatedAt": "2021-12-15T10:18:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +88,28 @@
         "aniId": 110049,
         "createdAt": "2021-08-06T16:51:17.000Z",
         "updatedAt": "2021-08-06T17:17:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ii986017": {
+        "authors": [
+          "Higuchi Akihiko"
+        ],
+        "identifier": "manga-ii986017",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Edomae Elf",
+        "url": "https://manganato.com/manga-ii986017",
+        "image": "https://avt.mkklcdnv6temp.com/40/b/21-1595993872.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 125137,
+        "aniId": 110049,
+        "createdAt": "2021-12-15T10:18:24.000Z",
+        "updatedAt": "2021-12-15T10:48:24.000Z",
         "deletedAt": null
       }
     }

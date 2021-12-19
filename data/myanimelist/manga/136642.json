@@ -22,5 +22,28 @@
   "createdAt": "2021-07-14T16:22:22.000Z",
   "updatedAt": "2021-12-04T04:17:47.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "b868ca98-440e-4ffb-a6d9-05d2f79b4ed1": {
+        "authors": [
+          "Tatsuya Shihira"
+        ],
+        "identifier": "b868ca98-440e-4ffb-a6d9-05d2f79b4ed1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Eisen no Lovelock",
+        "url": "https://mangadex.org/title/b868ca98-440e-4ffb-a6d9-05d2f79b4ed1",
+        "image": "https://uploads.mangadex.org/covers/b868ca98-440e-4ffb-a6d9-05d2f79b4ed1/6e86b0c3-c01c-4f46-b35b-db7e375269ee.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136642,
+        "aniId": 132353,
+        "createdAt": "2021-12-12T18:33:43.000Z",
+        "updatedAt": "2021-12-12T19:03:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -19,7 +19,12 @@
   "updatedAt": "2021-12-07T01:48:13.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/The_Rapeman"
+      }
+    ],
     "altTitle": [
       "THE レイプマン"
     ],
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:19.000Z",
-    "updatedAt": "2021-06-15T00:28:07.000Z",
+    "updatedAt": "2021-12-15T00:48:34.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -57,7 +62,7 @@
     "category": "manga",
     "hentai": true,
     "createdAt": "2021-05-20T14:40:47.000Z",
-    "updatedAt": "2021-06-17T12:49:42.000Z",
+    "updatedAt": "2021-12-17T13:34:33.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/8506/The_Rapeman"

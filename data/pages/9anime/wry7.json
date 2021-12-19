@@ -8,13 +8,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": 44567,
-  "aniId": null,
+  "aniId": 130759,
   "createdAt": "2021-03-10T10:13:16.000Z",
-  "updatedAt": "2021-03-10T10:16:21.000Z",
+  "updatedAt": "2021-12-15T18:25:03.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "超神学院 第二季",
+      "啦啦啦德玛西亚第5季",
+      "LaLaLa Demacia 5",
+      "超神学院 第二季 巨峡号"
+    ],
+    "externalLinks": [],
+    "id": 130759,
+    "malId": null,
+    "type": "anime",
+    "title": "Chao Shen Xueyuan 2",
+    "url": "https://anilist.co/anime/130759",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130759-5KLrRN6pQfeP.jpg",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-12-15T15:19:07.000Z",
+    "updatedAt": "2021-12-15T15:19:07.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -65,6 +65,28 @@
         "updatedAt": "2021-11-15T08:43:45.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "gimai_seikatsu": {
+        "authors": [
+          "MIKAWA Ghost"
+        ],
+        "identifier": "gimai_seikatsu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Gimai Seikatsu",
+        "url": "https://fanfox.net/manga/gimai_seikatsu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39392/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136856,
+        "aniId": 130837,
+        "createdAt": "2021-12-18T03:49:40.000Z",
+        "updatedAt": "2021-12-18T04:18:25.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

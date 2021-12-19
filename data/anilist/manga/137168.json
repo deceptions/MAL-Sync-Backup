@@ -21,5 +21,30 @@
   "createdAt": "2021-07-27T21:51:35.000Z",
   "updatedAt": "2021-12-02T09:17:49.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "899b5de6-9ad8-40bd-bc32-0fac4f7af86c": {
+        "authors": [
+          "doip",
+          "소울풍",
+          "2631"
+        ],
+        "identifier": "899b5de6-9ad8-40bd-bc32-0fac4f7af86c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Story of a Low-Rank Soldier Becoming a Monarch",
+        "url": "https://mangadex.org/title/899b5de6-9ad8-40bd-bc32-0fac4f7af86c",
+        "image": "https://uploads.mangadex.org/covers/899b5de6-9ad8-40bd-bc32-0fac4f7af86c/cd3a0c61-ebb8-47b2-869a-0ef7f3f0c641.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 137168,
+        "createdAt": "2021-07-25T00:21:34.000Z",
+        "updatedAt": "2021-12-17T15:53:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

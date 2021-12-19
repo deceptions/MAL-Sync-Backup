@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:40:50.000Z",
-  "updatedAt": "2021-06-17T12:57:01.000Z",
+  "updatedAt": "2021-12-17T13:37:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 38722,
         "createdAt": "2020-10-12T16:05:40.000Z",
         "updatedAt": "2021-12-03T14:20:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-om966195": {
+        "authors": [
+          "Miyawaki Yukino"
+        ],
+        "identifier": "manga-om966195",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ng Boy X Paradise",
+        "url": "https://manganato.com/manga-om966195",
+        "image": "https://avt.mkklcdnv6temp.com/33/t/10-1583483391.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8722,
+        "aniId": 38722,
+        "createdAt": "2021-12-16T01:48:55.000Z",
+        "updatedAt": "2021-12-16T02:18:24.000Z",
         "deletedAt": null
       }
     }

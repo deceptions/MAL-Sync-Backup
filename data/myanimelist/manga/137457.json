@@ -14,7 +14,30 @@
   "category": "One-shot",
   "hentai": false,
   "createdAt": "2021-10-26T02:01:35.000Z",
-  "updatedAt": "2021-10-26T02:01:35.000Z",
+  "updatedAt": "2021-12-15T16:19:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "657a115f-d129-4f93-978a-9785f4b10045": {
+        "authors": [
+          "Asano Inio"
+        ],
+        "identifier": "657a115f-d129-4f93-978a-9785f4b10045",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Rabuka",
+        "url": "https://mangadex.org/title/657a115f-d129-4f93-978a-9785f4b10045",
+        "image": "https://uploads.mangadex.org/covers/657a115f-d129-4f93-978a-9785f4b10045/200709ce-7581-4ce5-ad28-75dd843fc359.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 137457,
+        "aniId": 135591,
+        "createdAt": "2021-12-15T17:48:24.000Z",
+        "updatedAt": "2021-12-15T17:48:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

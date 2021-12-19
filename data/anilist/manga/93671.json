@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-05-20T14:52:36.000Z",
-  "updatedAt": "2021-06-18T00:29:32.000Z",
+  "updatedAt": "2021-12-18T00:55:24.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 93671,
         "createdAt": "2020-10-12T16:08:13.000Z",
         "updatedAt": "2021-12-04T08:48:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-az953982": {
+        "authors": [
+          "Kimura Hidesato"
+        ],
+        "identifier": "manga-az953982",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Maria Boy",
+        "url": "https://manganato.com/manga-az953982",
+        "image": "https://avt.mkklcdnv6temp.com/42/n/2-1583467333.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 84977,
+        "aniId": 93671,
+        "createdAt": "2021-06-11T11:08:21.000Z",
+        "updatedAt": "2021-12-11T12:03:41.000Z",
         "deletedAt": null
       }
     }

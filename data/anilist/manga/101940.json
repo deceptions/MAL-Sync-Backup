@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:55:48.000Z",
-  "updatedAt": "2021-06-18T03:36:20.000Z",
+  "updatedAt": "2021-12-18T03:59:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,6 +60,28 @@
         "aniId": 101940,
         "createdAt": "2021-05-14T21:25:34.000Z",
         "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cb979410": {
+        "authors": [
+          "Hashimoto Kurara"
+        ],
+        "identifier": "manga-cb979410",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Urami-San Wa Kyou Mo Ayaui",
+        "url": "https://manganato.com/manga-cb979410",
+        "image": "https://avt.mkklcdnv6temp.com/40/l/16-1583494917.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106936,
+        "aniId": 101940,
+        "createdAt": "2021-12-18T00:48:34.000Z",
+        "updatedAt": "2021-12-18T01:18:24.000Z",
         "deletedAt": null
       }
     }

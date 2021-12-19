@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 142833,
   "createdAt": "2021-12-07T11:17:11.000Z",
-  "updatedAt": "2021-12-07T11:18:03.000Z",
+  "updatedAt": "2021-12-17T22:31:54.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "디어 마이 프렌드"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Muso",
+      "Jongmin Na",
+      "Hana Kwon"
+    ],
+    "id": 142833,
+    "malId": null,
+    "type": "manga",
+    "title": "Dear My Friend",
+    "url": "https://anilist.co/manga/142833",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142833-cC8pz5FH3r89.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-17T19:48:25.000Z",
+    "updatedAt": "2021-12-17T19:48:25.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

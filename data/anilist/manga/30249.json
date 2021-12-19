@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:35:27.000Z",
-  "updatedAt": "2021-06-17T08:21:47.000Z",
+  "updatedAt": "2021-12-17T09:06:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 30249,
         "createdAt": "2020-10-12T16:03:23.000Z",
         "updatedAt": "2021-12-02T13:47:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kakumei_no_hi": {
+        "authors": [
+          "TSUDA Mikiyo"
+        ],
+        "identifier": "kakumei_no_hi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kakumei no Hi",
+        "url": "https://fanfox.net/manga/kakumei_no_hi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/985/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 249,
+        "aniId": 30249,
+        "createdAt": "2021-06-08T10:57:50.000Z",
+        "updatedAt": "2021-12-08T11:41:50.000Z",
         "deletedAt": null
       }
     },

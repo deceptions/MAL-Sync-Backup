@@ -16,10 +16,19 @@
   "malId": 33699,
   "aniId": 63699,
   "createdAt": "2021-06-12T19:09:51.000Z",
-  "updatedAt": "2021-06-12T19:38:18.000Z",
+  "updatedAt": "2021-12-12T20:03:46.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.square-enix.co.jp/magazine/gfantasy/story/mahouka/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E7%A7%91%E9%AB%98%E6%A0%A1%E3%81%AE%E5%8A%A3%E7%AD%89%E7%94%9F"
+      }
+    ],
     "altTitle": [
       "The Irregular at Magic High School: Enrollment Arc",
       "魔法科高校の劣等生 入学編"
@@ -37,7 +46,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:47.000Z",
-    "updatedAt": "2021-06-12T19:30:44.000Z",
+    "updatedAt": "2021-12-12T19:33:53.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -62,7 +71,7 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:47:56.000Z",
-    "updatedAt": "2021-06-17T19:07:46.000Z",
+    "updatedAt": "2021-12-17T19:29:59.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/33699/Mahouka_Koukou_no_Rettousei__Nyuugaku-hen"

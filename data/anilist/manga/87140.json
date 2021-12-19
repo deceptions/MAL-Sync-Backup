@@ -19,7 +19,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-02T00:01:16.000Z",
-  "updatedAt": "2021-10-14T01:29:39.000Z",
+  "updatedAt": "2021-12-13T09:57:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -65,6 +65,29 @@
         "aniId": 87140,
         "createdAt": "2021-01-06T04:56:46.000Z",
         "updatedAt": "2021-06-22T20:15:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ua951557": {
+        "authors": [
+          "Zero League",
+          "Moon Cake"
+        ],
+        "identifier": "manga-ua951557",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yin Zhi Shoumuren",
+        "url": "https://manganato.com/manga-ua951557",
+        "image": "https://avt.mkklcdnv6temp.com/8/y/1-1583464018.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 87140,
+        "createdAt": "2021-06-10T12:38:28.000Z",
+        "updatedAt": "2021-12-10T13:03:38.000Z",
         "deletedAt": null
       }
     }

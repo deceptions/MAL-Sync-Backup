@@ -19,7 +19,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:57:13.000Z",
-  "updatedAt": "2021-06-18T03:22:09.000Z",
+  "updatedAt": "2021-12-18T03:49:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,6 +64,29 @@
         "aniId": 101076,
         "createdAt": "2021-05-26T23:28:46.000Z",
         "updatedAt": "2021-11-27T00:05:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bb979158": {
+        "authors": [
+          "Miaki Sugaru",
+          "Loundraw"
+        ],
+        "identifier": "manga-bb979158",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Azure And Claude",
+        "url": "https://manganato.com/manga-bb979158",
+        "image": "https://avt.mkklcdnv6temp.com/30/z/16-1583494583.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 114945,
+        "aniId": 101076,
+        "createdAt": "2021-06-09T00:26:22.000Z",
+        "updatedAt": "2021-12-09T06:36:50.000Z",
         "deletedAt": null
       }
     }

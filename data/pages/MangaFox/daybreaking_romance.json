@@ -10,14 +10,37 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/34041/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 120862,
   "createdAt": "2021-12-10T13:03:41.000Z",
-  "updatedAt": "2021-12-10T13:03:41.000Z",
+  "updatedAt": "2021-12-13T09:56:48.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "동트는 로맨스",
+      "Break of Dawn Romance",
+      "Dawning Romance",
+      "동트는 로맨스",
+      "Daybreaking Romance"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yoowol "
+    ],
+    "id": 120862,
+    "malId": null,
+    "type": "manga",
+    "title": "Dongteuneun Romance",
+    "url": "https://anilist.co/manga/120862",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120862-NWKE3HsIM3nD.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-24T00:38:17.000Z",
+    "updatedAt": "2021-12-13T09:56:48.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

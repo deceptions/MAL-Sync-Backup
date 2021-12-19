@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:47:27.000Z",
-  "updatedAt": "2021-06-17T18:25:45.000Z",
+  "updatedAt": "2021-12-17T18:55:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 57563,
         "createdAt": "2021-10-16T02:29:48.000Z",
         "updatedAt": "2021-10-16T02:58:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "momoyama-kyoudai": {
+        "authors": [
+          "FUJITSUKA Yuki"
+        ],
+        "identifier": "momoyama-kyoudai",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Momoyama Kyoudai",
+        "url": "https://mangasee123.com/manga/Momoyama-Kyoudai",
+        "image": "https://cover.nep.li/cover/Momoyama-Kyoudai.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27563,
+        "aniId": 57563,
+        "createdAt": "2021-12-15T22:19:53.000Z",
+        "updatedAt": "2021-12-15T22:48:24.000Z",
         "deletedAt": null
       }
     }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9"
+    }
+  ],
   "altTitle": [
     "デリバリーシンデレラ"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:07.000Z",
-  "updatedAt": "2021-07-06T14:03:06.000Z",
+  "updatedAt": "2021-12-13T23:18:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +85,28 @@
         "aniId": 52854,
         "createdAt": "2021-07-06T14:02:56.000Z",
         "updatedAt": "2021-07-06T14:29:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "delivery_cinderella": {
+        "authors": [
+          "NON"
+        ],
+        "identifier": "delivery_cinderella",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Delivery Cinderella",
+        "url": "https://fanfox.net/manga/delivery_cinderella/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10648/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22854,
+        "aniId": 52854,
+        "createdAt": "2021-12-13T23:18:58.000Z",
+        "updatedAt": "2021-12-13T23:48:24.000Z",
         "deletedAt": null
       }
     }

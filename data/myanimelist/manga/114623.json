@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/けいおん!"
+    }
+  ],
   "altTitle": [
     "けいおん！Shuffle"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:35.000Z",
-  "updatedAt": "2021-06-18T12:55:38.000Z",
+  "updatedAt": "2021-12-18T13:21:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,28 +63,6 @@
         "aniId": 102317,
         "createdAt": "2021-05-11T01:42:33.000Z",
         "updatedAt": "2021-11-20T22:49:06.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-cx979732": {
-        "authors": [
-          "Kakifly"
-        ],
-        "identifier": "manga-cx979732",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "K-On! Shuffle",
-        "url": "https://manganato.com/manga-cx979732",
-        "image": "https://avt.mkklcdnv6temp.com/2/p/17-1583495354.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 114623,
-        "aniId": 102317,
-        "createdAt": "2021-06-18T12:55:28.000Z",
-        "updatedAt": "2021-06-18T13:20:51.000Z",
         "deletedAt": null
       }
     }

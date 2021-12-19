@@ -38,6 +38,28 @@
         "updatedAt": "2021-12-04T10:20:18.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "number_call": {
+        "authors": [
+          "FURUYA Nagisa"
+        ],
+        "identifier": "number_call",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Number Call",
+        "url": "https://fanfox.net/manga/number_call/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15357/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87469,
+        "aniId": 87431,
+        "createdAt": "2021-06-08T06:24:17.000Z",
+        "updatedAt": "2021-12-08T08:08:00.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

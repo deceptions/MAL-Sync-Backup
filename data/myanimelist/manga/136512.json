@@ -21,5 +21,28 @@
   "createdAt": "2021-10-31T08:05:11.000Z",
   "updatedAt": "2021-12-07T19:17:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "cbf083b0-1d1c-4fea-8337-fe18850511be": {
+        "authors": [
+          "Tanabe Kyousuke"
+        ],
+        "identifier": "cbf083b0-1d1c-4fea-8337-fe18850511be",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bilocators",
+        "url": "https://mangadex.org/title/cbf083b0-1d1c-4fea-8337-fe18850511be",
+        "image": "https://uploads.mangadex.org/covers/cbf083b0-1d1c-4fea-8337-fe18850511be/ecffaf1e-0e86-45f2-ba3e-b66fbff9de38.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136512,
+        "aniId": 132712,
+        "createdAt": "2021-12-17T06:19:46.000Z",
+        "updatedAt": "2021-12-17T06:19:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

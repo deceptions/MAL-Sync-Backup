@@ -44,6 +44,51 @@
         "updatedAt": "2021-12-05T08:49:08.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "shanliang_de_sishen": {
+        "authors": [
+          "Tang Jia San Shao"
+        ],
+        "identifier": "shanliang_de_sishen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shanliang de Sishen",
+        "url": "https://fanfox.net/manga/shanliang_de_sishen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/17411/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118843,
+        "aniId": 86666,
+        "createdAt": "2021-03-20T18:34:42.000Z",
+        "updatedAt": "2021-12-07T21:10:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xg952115": {
+        "authors": [
+          "Tang Jia San Shao",
+          "Han Chao"
+        ],
+        "identifier": "manga-xg952115",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shanliang De Sishen",
+        "url": "https://manganato.com/manga-xg952115",
+        "image": "https://avt.mkklcdnv6temp.com/28/h/1-1583464802.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118843,
+        "aniId": 86666,
+        "createdAt": "2021-06-01T04:23:19.000Z",
+        "updatedAt": "2021-12-07T21:10:20.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

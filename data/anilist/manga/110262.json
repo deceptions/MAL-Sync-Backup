@@ -22,7 +22,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:58:16.000Z",
-  "updatedAt": "2021-06-18T06:27:11.000Z",
+  "updatedAt": "2021-12-18T06:51:55.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -66,6 +66,28 @@
         "aniId": 110262,
         "createdAt": "2021-02-22T03:33:32.000Z",
         "updatedAt": "2021-11-20T19:16:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fo982423": {
+        "authors": [
+          "Gaku Kajikawa"
+        ],
+        "identifier": "manga-fo982423",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hina Change",
+        "url": "https://manganato.com/manga-fo982423",
+        "image": "https://avt.mkklcdnv6temp.com/1/g/18-1583499109.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120499,
+        "aniId": 110262,
+        "createdAt": "2021-06-10T05:34:28.000Z",
+        "updatedAt": "2021-12-10T06:34:30.000Z",
         "deletedAt": null
       }
     }

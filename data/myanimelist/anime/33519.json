@@ -30,7 +30,7 @@
   "hentai": false,
   "anidbId": 12246,
   "createdAt": "2020-10-12T15:39:46.000Z",
-  "updatedAt": "2021-10-03T12:06:43.000Z",
+  "updatedAt": "2021-12-13T09:58:37.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -87,6 +87,25 @@
         "aniId": 98662,
         "createdAt": "2021-02-11T12:41:04.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "koutetsujou-no-kabaneri-movie-1-tsudou-hikari": {
+        "identifier": "koutetsujou-no-kabaneri-movie-1-tsudou-hikari",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Koutetsujou no Kabaneri Movie 1: Tsudou Hikari",
+        "url": "https://gogoanime.cm/category/koutetsujou-no-kabaneri-movie-1-tsudou-hikari",
+        "image": "https://gogocdn.net/cover/koutetsujou-no-kabaneri-movie-1-tsudou-hikari.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33519,
+        "aniId": 98662,
+        "createdAt": "2021-12-13T09:58:28.000Z",
+        "updatedAt": "2021-12-13T10:18:24.000Z",
         "deletedAt": null
       }
     }

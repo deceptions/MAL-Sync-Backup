@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:42:25.000Z",
-  "updatedAt": "2021-06-17T14:21:44.000Z",
+  "updatedAt": "2021-12-17T15:03:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 42745,
         "createdAt": "2020-10-12T16:11:29.000Z",
         "updatedAt": "2021-12-05T08:50:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mo960397": {
+        "authors": [
+          "Himuro Serika"
+        ],
+        "identifier": "manga-mo960397",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Aoi No Yuuwaku",
+        "url": "https://manganato.com/manga-mo960397",
+        "image": "https://avt.mkklcdnv6temp.com/49/z/6-1583476270.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12745,
+        "aniId": 42745,
+        "createdAt": "2021-06-10T16:08:31.000Z",
+        "updatedAt": "2021-12-10T17:04:19.000Z",
         "deletedAt": null
       }
     }

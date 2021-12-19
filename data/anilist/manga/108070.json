@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:57:59.000Z",
-  "updatedAt": "2021-06-18T05:36:03.000Z",
+  "updatedAt": "2021-12-18T05:58:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,6 +83,26 @@
         "aniId": 108070,
         "createdAt": "2021-05-30T05:12:13.000Z",
         "updatedAt": "2021-11-30T06:05:34.000Z",
+        "deletedAt": null
+      },
+      "manga-lj988518": {
+        "authors": [
+          "Mikanuji"
+        ],
+        "identifier": "manga-lj988518",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fuzoroi No Renri",
+        "url": "https://manganato.com/manga-lj988518",
+        "image": "https://avt.mkklcdnv6temp.com/42/c/23-1615866077.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118102,
+        "aniId": 108070,
+        "createdAt": "2021-06-10T12:09:01.000Z",
+        "updatedAt": "2021-12-10T13:03:38.000Z",
         "deletedAt": null
       }
     }

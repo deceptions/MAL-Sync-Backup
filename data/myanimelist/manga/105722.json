@@ -24,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:00.000Z",
-  "updatedAt": "2021-11-10T22:13:56.000Z",
+  "updatedAt": "2021-12-17T03:48:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -72,6 +72,28 @@
         "aniId": 104320,
         "createdAt": "2021-11-10T22:13:45.000Z",
         "updatedAt": "2021-11-10T22:43:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "chaos_child_children_s_collapse": {
+        "authors": [
+          "UMEHARA Eiji"
+        ],
+        "identifier": "chaos_child_children_s_collapse",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Chaos;Child - Children's Collapse",
+        "url": "https://fanfox.net/manga/chaos_child_children_s_collapse/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/40493/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105722,
+        "aniId": 104320,
+        "createdAt": "2021-12-17T03:48:24.000Z",
+        "updatedAt": "2021-12-17T04:18:24.000Z",
         "deletedAt": null
       }
     }

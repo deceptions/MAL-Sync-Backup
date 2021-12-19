@@ -15,7 +15,7 @@
   "category": "ova",
   "hentai": false,
   "createdAt": "2021-05-27T06:28:42.000Z",
-  "updatedAt": "2021-06-17T18:22:52.000Z",
+  "updatedAt": "2021-12-17T18:50:48.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -34,6 +34,25 @@
         "aniId": 134710,
         "createdAt": "2021-12-10T18:33:59.000Z",
         "updatedAt": "2021-12-10T19:03:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "given-uragawa-no-sonzai": {
+        "identifier": "given-uragawa-no-sonzai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Given: Uragawa no Sonzai",
+        "url": "https://gogoanime.cm/category/given-uragawa-no-sonzai",
+        "image": "https://gogocdn.net/cover/given-uragawa-no-sonzai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49053,
+        "aniId": 134710,
+        "createdAt": "2021-12-13T09:56:38.000Z",
+        "updatedAt": "2021-12-13T10:18:24.000Z",
         "deletedAt": null
       }
     }

@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:46:45.000Z",
-  "updatedAt": "2021-06-17T17:48:52.000Z",
+  "updatedAt": "2021-12-17T18:29:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 54633,
         "createdAt": "2020-10-12T16:09:06.000Z",
         "updatedAt": "2021-12-04T15:21:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "furou_kyoudai": {
+        "authors": [
+          "SHIWASU Yuki"
+        ],
+        "identifier": "furou_kyoudai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Furou Kyoudai",
+        "url": "https://fanfox.net/manga/furou_kyoudai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12019/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24633,
+        "aniId": 54633,
+        "createdAt": "2021-06-08T23:25:32.000Z",
+        "updatedAt": "2021-12-09T00:03:38.000Z",
         "deletedAt": null
       }
     },

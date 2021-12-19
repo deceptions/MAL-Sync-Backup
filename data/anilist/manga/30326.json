@@ -22,7 +22,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:35:31.000Z",
-  "updatedAt": "2021-06-17T08:23:45.000Z",
+  "updatedAt": "2021-12-17T09:08:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -47,6 +47,28 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "the-law-of-ueki": {
+        "authors": [
+          "FUKUCHI Tsubasa"
+        ],
+        "identifier": "the-law-of-ueki",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Law of Ueki",
+        "url": "https://mangasee123.com/manga/The-Law-of-Ueki",
+        "image": "https://cover.nep.li/cover/The-Law-of-Ueki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 326,
+        "aniId": 30326,
+        "createdAt": "2021-06-09T06:30:38.000Z",
+        "updatedAt": "2021-12-09T07:05:51.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-vt958754": {
         "authors": [
@@ -66,6 +88,26 @@
         "aniId": 30326,
         "createdAt": "2021-11-12T02:44:46.000Z",
         "updatedAt": "2021-11-12T03:13:35.000Z",
+        "deletedAt": null
+      },
+      "manga-kl957620": {
+        "authors": [
+          "Fukuchi Tsubasa"
+        ],
+        "identifier": "manga-kl957620",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ueki No Housoko",
+        "url": "https://manganato.com/manga-kl957620",
+        "image": "https://avt.mkklcdnv6temp.com/2/b/4-1583471903.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 326,
+        "aniId": 30326,
+        "createdAt": "2021-12-15T07:18:34.000Z",
+        "updatedAt": "2021-12-15T07:48:24.000Z",
         "deletedAt": null
       }
     }

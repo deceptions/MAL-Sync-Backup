@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:39:32.000Z",
-  "updatedAt": "2021-06-17T11:57:16.000Z",
+  "updatedAt": "2021-12-17T12:38:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,28 @@
         "aniId": 35723,
         "createdAt": "2020-10-12T16:04:32.000Z",
         "updatedAt": "2021-12-02T21:50:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kiken-junai-d-n-a": {
+        "authors": [
+          "KURUMATANI Haruko"
+        ],
+        "identifier": "kiken-junai-d-n-a",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kiken Junai D.N.A",
+        "url": "https://mangasee123.com/manga/Kiken-Junai-D-N-A",
+        "image": "https://cover.nep.li/cover/Kiken-Junai-D-N-A.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5723,
+        "aniId": 35723,
+        "createdAt": "2021-06-08T05:20:39.000Z",
+        "updatedAt": "2021-12-08T06:10:13.000Z",
         "deletedAt": null
       }
     }

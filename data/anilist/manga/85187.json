@@ -20,7 +20,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:50:29.000Z",
-  "updatedAt": "2021-06-17T21:27:30.000Z",
+  "updatedAt": "2021-12-17T21:55:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -88,6 +88,26 @@
         "aniId": 85187,
         "createdAt": "2021-06-01T15:37:30.000Z",
         "updatedAt": "2021-12-01T16:24:17.000Z",
+        "deletedAt": null
+      },
+      "manga-xq975099": {
+        "authors": [
+          "Takei Touka"
+        ],
+        "identifier": "manga-xq975099",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Seeking For Death",
+        "url": "https://manganato.com/manga-xq975099",
+        "image": "https://avt.mkklcdnv6temp.com/4/k/15-1583491626.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56515,
+        "aniId": 85187,
+        "createdAt": "2021-12-13T15:19:34.000Z",
+        "updatedAt": "2021-12-13T15:48:24.000Z",
         "deletedAt": null
       }
     }

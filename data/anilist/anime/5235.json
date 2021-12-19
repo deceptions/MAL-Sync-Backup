@@ -12,7 +12,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:37:44.000Z",
-  "updatedAt": "2021-06-17T11:15:53.000Z",
+  "updatedAt": "2021-12-17T11:31:47.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -31,6 +31,25 @@
         "aniId": 5235,
         "createdAt": "2020-10-12T15:53:53.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "live-on-cardliver-kakeru": {
+        "identifier": "live-on-cardliver-kakeru",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Live On Cardliver Kakeru",
+        "url": "https://gogoanime.cm/category/live-on-cardliver-kakeru",
+        "image": "https://gogocdn.net/cover/live-on-cardliver-kakeru.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5235,
+        "aniId": 5235,
+        "createdAt": "2021-12-13T10:01:28.000Z",
+        "updatedAt": "2021-12-13T10:18:24.000Z",
         "deletedAt": null
       }
     }

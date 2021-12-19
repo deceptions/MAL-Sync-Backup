@@ -22,7 +22,7 @@
   "hentai": false,
   "anidbId": 6233,
   "createdAt": "2020-10-12T15:39:02.000Z",
-  "updatedAt": "2021-10-02T06:06:24.000Z",
+  "updatedAt": "2021-12-17T20:48:45.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -41,6 +41,25 @@
         "aniId": 9531,
         "createdAt": "2020-10-12T15:55:14.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tezuka-osamu-monogatari-boku-wa-son-gokuu": {
+        "identifier": "tezuka-osamu-monogatari-boku-wa-son-gokuu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tezuka Osamu Monogatari: Boku wa Son Gokuu",
+        "url": "https://gogoanime.cm/category/tezuka-osamu-monogatari-boku-wa-son-gokuu",
+        "image": "https://gogocdn.net/cover/tezuka-osamu-monogatari-boku-wa-son-gokuu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9531,
+        "aniId": 9531,
+        "createdAt": "2021-12-17T20:48:38.000Z",
+        "updatedAt": "2021-12-17T21:18:24.000Z",
         "deletedAt": null
       }
     }

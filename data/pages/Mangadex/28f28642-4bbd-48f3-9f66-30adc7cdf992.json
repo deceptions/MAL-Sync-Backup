@@ -19,7 +19,12 @@
   "updatedAt": "2021-12-02T07:17:08.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Id_%28comic%29"
+      }
+    ],
     "altTitle": [
       "Id - The Greatest Fusion Fantasy",
       "이드"
@@ -35,7 +40,7 @@
     "category": "Manhwa",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:23.000Z",
-    "updatedAt": "2021-06-18T21:52:01.000Z",
+    "updatedAt": "2021-12-18T22:18:40.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -57,7 +62,7 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:35:37.000Z",
-    "updatedAt": "2021-06-17T08:32:41.000Z",
+    "updatedAt": "2021-12-17T09:13:40.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/595/Id"

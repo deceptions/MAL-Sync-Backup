@@ -18,7 +18,7 @@
   "category": "tv_short",
   "hentai": false,
   "createdAt": "2021-05-20T14:39:02.000Z",
-  "updatedAt": "2021-06-17T12:16:26.000Z",
+  "updatedAt": "2021-12-17T12:33:25.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -37,6 +37,25 @@
         "aniId": 8961,
         "createdAt": "2020-10-12T15:55:35.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "tono-to-issho-ippunkan-gekijou": {
+        "identifier": "tono-to-issho-ippunkan-gekijou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tono to Issho: Ippunkan Gekijou",
+        "url": "https://gogoanime.cm/category/tono-to-issho-ippunkan-gekijou",
+        "image": "https://gogocdn.net/cover/tono-to-issho-ippunkan-gekijou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8961,
+        "aniId": 8961,
+        "createdAt": "2021-12-13T09:56:50.000Z",
+        "updatedAt": "2021-12-13T10:18:24.000Z",
         "deletedAt": null
       }
     }

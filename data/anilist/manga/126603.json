@@ -15,7 +15,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T15:00:10.000Z",
-  "updatedAt": "2021-06-17T21:20:50.000Z",
+  "updatedAt": "2021-12-17T22:03:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +59,28 @@
         "aniId": 126603,
         "createdAt": "2021-02-22T14:03:39.000Z",
         "updatedAt": "2021-11-20T19:16:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ks987753": {
+        "authors": [
+          "Saotome Yagi"
+        ],
+        "identifier": "manga-ks987753",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Bokutachi Wa Hanshoku Wo Yameta",
+        "url": "https://manganato.com/manga-ks987753",
+        "image": "https://avt.mkklcdnv6temp.com/10/r/23-1611633270.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132870,
+        "aniId": 126603,
+        "createdAt": "2021-06-11T17:38:29.000Z",
+        "updatedAt": "2021-12-11T18:34:35.000Z",
         "deletedAt": null
       }
     },

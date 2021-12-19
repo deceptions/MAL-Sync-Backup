@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-08T05:52:21.000Z",
-  "updatedAt": "2021-06-18T10:28:20.000Z",
+  "updatedAt": "2021-12-18T10:53:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 124025,
         "createdAt": "2020-10-22T09:09:04.000Z",
         "updatedAt": "2021-12-08T07:12:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ja987257": {
+        "authors": [
+          "Mihoshi Megane"
+        ],
+        "identifier": "manga-ja987257",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Yuki No Niiduma Wa Boku To Tokeaitai",
+        "url": "https://manganato.com/manga-ja987257",
+        "image": "https://avt.mkklcdnv6temp.com/40/e/22-1606102843.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128824,
+        "aniId": 124025,
+        "createdAt": "2021-06-08T00:20:57.000Z",
+        "updatedAt": "2021-12-08T06:41:42.000Z",
         "deletedAt": null
       }
     }

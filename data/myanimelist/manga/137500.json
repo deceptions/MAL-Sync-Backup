@@ -22,5 +22,28 @@
   "createdAt": "2021-11-20T02:44:14.000Z",
   "updatedAt": "2021-11-20T02:44:14.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "205af4ae-fac1-4fa0-abbe-16e885e79606": {
+        "authors": [
+          "Tali"
+        ],
+        "identifier": "205af4ae-fac1-4fa0-abbe-16e885e79606",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "At That Time, the Battle Began",
+        "url": "https://mangadex.org/title/205af4ae-fac1-4fa0-abbe-16e885e79606",
+        "image": "https://uploads.mangadex.org/covers/205af4ae-fac1-4fa0-abbe-16e885e79606/a0d3e947-097a-428e-94ec-386146f1e28d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 137500,
+        "aniId": 133681,
+        "createdAt": "2021-10-12T11:46:34.000Z",
+        "updatedAt": "2021-12-13T09:54:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

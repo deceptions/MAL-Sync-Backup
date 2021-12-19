@@ -11,13 +11,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 89660,
+  "aniId": 104573,
   "createdAt": "2021-06-01T15:43:02.000Z",
-  "updatedAt": "2021-12-01T15:55:08.000Z",
+  "updatedAt": "2021-12-14T11:08:19.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Genderbender Yankee School: They're Trying to Take My First Time",
+      "女体化ヤンキー学園☆ ～オレのハジメテ、狙われてます。～"
+    ],
+    "authors": [
+      "Takao, Yori"
+    ],
+    "id": 89660,
+    "type": "manga",
+    "title": "Nyotai-ka Yankee Gakuen☆: Ore no Hajimete, Nerawaretemasu.",
+    "url": "https://myanimelist.net/manga/89660/Nyotai-ka_Yankee_Gakuen☆__Ore_no_Hajimete_Nerawaretemasu",
+    "image": "https://cdn.myanimelist.net/images/manga/2/175252.jpg",
+    "category": "Manga",
+    "hentai": true,
+    "createdAt": "2020-10-12T15:46:00.000Z",
+    "updatedAt": "2021-12-01T15:52:48.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Gender-Swap at the Delinquent Academy -He's Trying to Get My First Time!-",
+      "女体化ヤンキー学園☆オレのハジメテ、狙われてます。",
+      "Nyotaika Yanki Gakuen ☆ Ore no Hajimete, Nerawaretemasu.",
+      "女體化的不良學園☆本大爺的初體驗被他給盯上了。"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yori Takao"
+    ],
+    "id": 104573,
+    "malId": 89660,
+    "type": "manga",
+    "title": "Nyotaika Yankee Gakuen☆: Ore no Hajimete, Nerawaretemasu.",
+    "url": "https://anilist.co/manga/104573",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx104573-avnpF8Vq5raW.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-05-20T14:52:58.000Z",
+    "updatedAt": "2021-12-14T00:48:24.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/89660/Nyotai-ka_Yankee_Gakuen☆__Ore_no_Hajimete_Nerawaretemasu"
 }

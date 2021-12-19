@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-15T07:57:33.000Z",
-  "updatedAt": "2021-10-27T08:04:27.000Z",
+  "updatedAt": "2021-12-14T21:18:55.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-me990161": {
+        "authors": [
+          "St"
+        ],
+        "identifier": "manga-me990161",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Her Mannequin",
+        "url": "https://manganato.com/manga-me990161",
+        "image": "https://avt.mkklcdnv6temp.com/12/t/25-1638802569.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 135638,
+        "createdAt": "2021-12-14T21:18:55.000Z",
+        "updatedAt": "2021-12-14T21:18:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -1,8 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%A5%E3%81%AE%E5%91%AA%E3%81%84"
+    }
+  ],
   "altTitle": [
-    "Curse of Spring",
     "Haru's Curse",
+    "Curse of Spring",
     "春の呪い"
   ],
   "authors": [
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:44.000Z",
-  "updatedAt": "2021-06-17T12:29:38.000Z",
+  "updatedAt": "2021-12-17T12:51:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,28 +65,6 @@
         "aniId": 98204,
         "createdAt": "2021-03-30T16:01:12.000Z",
         "updatedAt": "2021-11-20T20:46:00.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-wr974174": {
-        "authors": [
-          "Asuka Konishi"
-        ],
-        "identifier": "manga-wr974174",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Haru No Noroi",
-        "url": "https://manganato.com/manga-wr974174",
-        "image": "https://avt.mkklcdnv6temp.com/40/t/14-1583491163.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 102060,
-        "aniId": 98204,
-        "createdAt": "2021-06-17T12:29:28.000Z",
-        "updatedAt": "2021-06-17T12:57:45.000Z",
         "deletedAt": null
       }
     }

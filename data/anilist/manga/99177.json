@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:55:47.000Z",
-  "updatedAt": "2021-06-18T01:20:50.000Z",
+  "updatedAt": "2021-12-18T02:02:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 99177,
         "createdAt": "2020-10-12T16:10:43.000Z",
         "updatedAt": "2021-12-05T03:18:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-zv976956": {
+        "authors": [
+          "Ueshiba Riichi"
+        ],
+        "identifier": "manga-zv976956",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ookumo-Chan Flashback",
+        "url": "https://manganato.com/manga-zv976956",
+        "image": "https://avt.mkklcdnv6temp.com/32/q/15-1583492751.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106682,
+        "aniId": 99177,
+        "createdAt": "2021-06-11T06:09:24.000Z",
+        "updatedAt": "2021-12-11T07:03:43.000Z",
         "deletedAt": null
       }
     },

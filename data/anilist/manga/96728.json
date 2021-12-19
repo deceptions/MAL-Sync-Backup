@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:54:00.000Z",
-  "updatedAt": "2021-06-18T01:25:30.000Z",
+  "updatedAt": "2021-12-18T01:52:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 96728,
         "createdAt": "2020-10-12T16:09:31.000Z",
         "updatedAt": "2021-12-04T18:26:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-cp979898": {
+        "authors": [
+          "Kosumi Fujiko"
+        ],
+        "identifier": "manga-cp979898",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mahou Tsukai To Hoshi Furu Niwa",
+        "url": "https://manganato.com/manga-cp979898",
+        "image": "https://avt.mkklcdnv6temp.com/8/s/17-1583495578.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95918,
+        "aniId": 96728,
+        "createdAt": "2021-12-12T16:03:59.000Z",
+        "updatedAt": "2021-12-12T16:33:41.000Z",
         "deletedAt": null
       }
     }

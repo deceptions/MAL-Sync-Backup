@@ -20,7 +20,12 @@
   "updatedAt": "2021-12-02T11:18:07.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/DARKER_THAN_BLACK_-%E9%BB%92%E3%81%AE%E5%A5%91%E7%B4%84%E8%80%85-"
+      }
+    ],
     "altTitle": [
       "Darker than Black",
       "DARKER THAN BLACK -黒の契約者-"
@@ -37,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:29.000Z",
-    "updatedAt": "2021-06-12T04:39:19.000Z",
+    "updatedAt": "2021-12-12T05:03:43.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -49,18 +54,19 @@
     "externalLinks": [],
     "authors": [
       "Tensai Okamura",
-      "Nokiya"
+      "Nokiya",
+      "Hasumi Saika"
     ],
     "id": 31016,
     "malId": 1016,
     "type": "manga",
-    "title": "Darker than Black",
+    "title": "DARKER THAN BLACK: Kuro no Keiyakusha",
     "url": "https://anilist.co/manga/31016",
     "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx31016-ifJ4ZS8RWd1o.jpg",
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:35:51.000Z",
-    "updatedAt": "2021-06-17T08:59:06.000Z",
+    "updatedAt": "2021-12-17T09:39:29.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/1016/Darker_than_Black__Kuro_no_Keiyakusha"

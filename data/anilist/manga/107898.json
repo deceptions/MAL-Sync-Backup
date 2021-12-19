@@ -16,7 +16,74 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:57:01.000Z",
-  "updatedAt": "2021-06-18T05:33:52.000Z",
+  "updatedAt": "2021-12-18T05:56:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "ece511da-3461-421a-8275-7af48a642aa5": {
+        "authors": [
+          "Neji"
+        ],
+        "identifier": "ece511da-3461-421a-8275-7af48a642aa5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Bocchi Kaibutsu to Moumoku Shoujo",
+        "url": "https://mangadex.org/title/ece511da-3461-421a-8275-7af48a642aa5",
+        "image": "https://uploads.mangadex.org/covers/ece511da-3461-421a-8275-7af48a642aa5/ffad2e9e-f474-4365-af15-265684fd7e7c.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113500,
+        "aniId": 107898,
+        "createdAt": "2020-10-12T16:11:30.000Z",
+        "updatedAt": "2021-12-18T16:48:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "bocchi-kaibutsu-to-moumoku-shoujo": {
+        "authors": [
+          "Neji"
+        ],
+        "identifier": "bocchi-kaibutsu-to-moumoku-shoujo",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bocchi Kaibutsu to Moumoku Shoujo",
+        "url": "https://mangasee123.com/manga/Bocchi-Kaibutsu-To-Moumoku-Shoujo",
+        "image": "https://cover.nep.li/cover/Bocchi-Kaibutsu-To-Moumoku-Shoujo.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113500,
+        "aniId": 107898,
+        "createdAt": "2021-01-28T03:13:28.000Z",
+        "updatedAt": "2021-12-18T01:18:24.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "bocchi_kaibutsu_to_moumoku_shoujo": {
+        "authors": [
+          "Neji"
+        ],
+        "identifier": "bocchi_kaibutsu_to_moumoku_shoujo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Bocchi Kaibutsu to Moumoku Shoujo",
+        "url": "https://fanfox.net/manga/bocchi_kaibutsu_to_moumoku_shoujo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28071/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113500,
+        "aniId": 107898,
+        "createdAt": "2021-02-16T09:37:58.000Z",
+        "updatedAt": "2021-12-18T01:18:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

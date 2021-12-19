@@ -12,13 +12,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 1,
+  "malId": 142429,
   "aniId": null,
   "createdAt": "2021-12-09T08:04:31.000Z",
-  "updatedAt": "2021-12-09T08:04:31.000Z",
+  "updatedAt": "2021-12-13T09:45:47.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://pocket.shonenmagazine.com/episode/3269754496630238097"
+      }
+    ],
+    "altTitle": [
+      "Gate of Nightmares"
+    ],
+    "authors": [
+      "Matsuoka, Yoshinori"
+    ],
+    "id": 142429,
+    "type": "manga",
+    "title": "Gate of Nightmares",
+    "url": "https://myanimelist.net/manga/142429/Gate_of_Nightmares",
+    "image": "https://cdn.myanimelist.net/images/manga/1/253284.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-12T21:34:02.000Z",
+    "updatedAt": "2021-12-12T21:34:02.000Z",
+    "deletedAt": null
+  },
   "Anilist": null,
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/142429/Gate_of_Nightmares"
 }

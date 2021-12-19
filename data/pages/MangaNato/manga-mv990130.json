@@ -13,13 +13,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 142817,
   "createdAt": "2021-12-04T23:16:27.000Z",
-  "updatedAt": "2021-12-04T23:16:27.000Z",
+  "updatedAt": "2021-12-17T17:08:39.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "내 딸은 음악천재",
+      "My Daughter is a Musician"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Han-Seong Lee",
+      "Ging-Sak"
+    ],
+    "id": 142817,
+    "malId": null,
+    "type": "manga",
+    "title": "Nae Ttareun Eumakcheonjae",
+    "url": "https://anilist.co/manga/142817",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142817-aYnE2AvV5Qc8.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-17T01:18:25.000Z",
+    "updatedAt": "2021-12-17T01:18:25.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

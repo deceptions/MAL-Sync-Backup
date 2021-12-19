@@ -11,13 +11,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 119392,
+  "aniId": 114027,
   "createdAt": "2021-11-11T16:44:29.000Z",
-  "updatedAt": "2021-12-11T22:34:06.000Z",
+  "updatedAt": "2021-12-12T16:33:41.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Boy Meets Maria",
+      "ボーイミーツマリア"
+    ],
+    "authors": [
+      "Eguchi, Kousei"
+    ],
+    "id": 119392,
+    "type": "manga",
+    "title": "Boy Meets Maria",
+    "url": "https://myanimelist.net/manga/119392/Boy_Meets_Maria",
+    "image": "https://cdn.myanimelist.net/images/manga/1/225981.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:56.000Z",
+    "updatedAt": "2021-12-11T22:34:58.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Boy Meets Maria",
+      "ボーイミーツマリア"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kousei Eguchi",
+      "Judit Moreno",
+      "Amber Tamosaitis"
+    ],
+    "id": 114027,
+    "malId": 119392,
+    "type": "manga",
+    "title": "Boy meets Maria",
+    "url": "https://anilist.co/manga/114027",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx114027-U3kLU6FcRpQ9.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:58:08.000Z",
+    "updatedAt": "2021-11-21T09:12:38.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/119392/Boy_Meets_Maria"
 }

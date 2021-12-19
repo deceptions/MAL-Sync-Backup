@@ -17,7 +17,7 @@
   "category": "one_shot",
   "hentai": false,
   "createdAt": "2021-05-20T14:54:45.000Z",
-  "updatedAt": "2021-06-18T01:34:40.000Z",
+  "updatedAt": "2021-12-18T02:00:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 97490,
         "createdAt": "2020-10-12T16:10:00.000Z",
         "updatedAt": "2021-12-04T21:52:43.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "batsu_gyaru": {
+        "authors": [
+          "SORA Egumi"
+        ],
+        "identifier": "batsu_gyaru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Batsu-Gyaru",
+        "url": "https://fanfox.net/manga/batsu_gyaru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/21171/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100027,
+        "aniId": 97490,
+        "createdAt": "2021-06-11T09:38:55.000Z",
+        "updatedAt": "2021-12-11T10:33:43.000Z",
         "deletedAt": null
       }
     },

@@ -11,13 +11,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 141434,
+  "aniId": 128331,
   "createdAt": "2020-10-12T16:21:05.000Z",
-  "updatedAt": "2021-12-08T01:40:30.000Z",
+  "updatedAt": "2021-12-14T11:48:24.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.pixiv.net/works/7466"
+      }
+    ],
+    "altTitle": [
+      "Would You like to Be a Tanuki?",
+      "お前、タヌキにならねーか？"
+    ],
+    "authors": [
+      "Nagawa, Tomo"
+    ],
+    "id": 141434,
+    "type": "manga",
+    "title": "Omae, Tanuki ni Naranee ka?",
+    "url": "https://myanimelist.net/manga/141434/Omae_Tanuki_ni_Naranee_ka",
+    "image": "https://cdn.myanimelist.net/images/manga/2/252123.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-09T11:03:49.000Z",
+    "updatedAt": "2021-12-09T11:03:49.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "お前、タヌキにならねーか?",
+      "タヌキ",
+      "Tanuki"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tomo Nagawa"
+    ],
+    "id": 128331,
+    "malId": 141434,
+    "type": "manga",
+    "title": "Omae, Tanuki ni Naranee ka?",
+    "url": "https://anilist.co/manga/128331",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128331-e56wvoK91DBC.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-20T23:20:50.000Z",
+    "updatedAt": "2021-12-14T11:18:45.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/141434/Omae_Tanuki_ni_Naranee_ka"
 }

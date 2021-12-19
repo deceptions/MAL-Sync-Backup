@@ -23,7 +23,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:35:53.000Z",
-  "updatedAt": "2021-06-17T09:00:52.000Z",
+  "updatedAt": "2021-12-17T09:40:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -67,6 +67,28 @@
         "aniId": 31051,
         "createdAt": "2021-04-22T11:28:18.000Z",
         "updatedAt": "2021-11-20T21:48:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "la-corda-d-oro": {
+        "authors": [
+          "KURE Yuki"
+        ],
+        "identifier": "la-corda-d-oro",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "La Corda d'Oro",
+        "url": "https://mangasee123.com/manga/La-Corda-D-Oro",
+        "image": "https://cover.nep.li/cover/La-Corda-D-Oro.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1051,
+        "aniId": 31051,
+        "createdAt": "2021-06-11T12:09:18.000Z",
+        "updatedAt": "2021-12-11T13:03:42.000Z",
         "deletedAt": null
       }
     }

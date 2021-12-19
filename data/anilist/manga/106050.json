@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T05:48:57.000Z",
-  "updatedAt": "2021-06-18T05:00:30.000Z",
+  "updatedAt": "2021-12-18T05:25:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 106050,
         "createdAt": "2020-10-12T16:14:29.000Z",
         "updatedAt": "2021-12-06T10:19:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-dj980418": {
+        "authors": [
+          "Chiyoko Origami"
+        ],
+        "identifier": "manga-dj980418",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Section Manager Kawahara And His Gal Subordinate",
+        "url": "https://manganato.com/manga-dj980418",
+        "image": "https://avt.mkklcdnv6temp.com/27/y/17-1583496261.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121350,
+        "aniId": 106050,
+        "createdAt": "2021-06-01T16:01:16.000Z",
+        "updatedAt": "2021-12-07T21:10:20.000Z",
         "deletedAt": null
       }
     }

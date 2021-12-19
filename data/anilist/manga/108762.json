@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:56:48.000Z",
-  "updatedAt": "2021-06-18T05:56:54.000Z",
+  "updatedAt": "2021-12-18T06:21:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,28 @@
         "aniId": 108762,
         "createdAt": "2020-10-12T16:15:28.000Z",
         "updatedAt": "2021-12-06T14:18:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "dungeon-toilet": {
+        "authors": [
+          "Roots"
+        ],
+        "identifier": "dungeon-toilet",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Dungeon Toilet",
+        "url": "https://mangasee123.com/manga/Dungeon-Toilet",
+        "image": "https://cover.nep.li/cover/Dungeon-Toilet.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 111602,
+        "aniId": 108762,
+        "createdAt": "2021-06-07T17:05:09.000Z",
+        "updatedAt": "2021-12-09T13:33:40.000Z",
         "deletedAt": null
       }
     }

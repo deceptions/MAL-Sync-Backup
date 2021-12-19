@@ -1,8 +1,14 @@
 {
   "altTitle": [
+    "Hakuoki ~Demon of the Fleeting Blossom~ (2021)",
     "薄桜鬼"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/hakuoki-demon-of-the-fleeting-blossom"
+    }
+  ],
   "id": 139386,
   "malId": 49338,
   "type": "anime",
@@ -12,7 +18,27 @@
   "category": "ova",
   "hentai": false,
   "createdAt": "2021-09-18T11:40:42.000Z",
-  "updatedAt": "2021-11-06T05:04:20.000Z",
+  "updatedAt": "2021-12-14T04:48:24.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "hakuouki-ova-2021": {
+        "identifier": "hakuouki-ova-2021",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hakuouki OVA (2021)",
+        "url": "https://gogoanime.cm/category/hakuouki-ova-2021",
+        "image": "https://gogocdn.net/cover/hakuouki-ova-2021.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49338,
+        "aniId": 139386,
+        "createdAt": "2021-12-18T09:48:29.000Z",
+        "updatedAt": "2021-12-18T10:18:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -19,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:20.000Z",
-  "updatedAt": "2021-11-15T07:14:06.000Z",
+  "updatedAt": "2021-12-16T04:49:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,28 @@
         "aniId": 100724,
         "createdAt": "2020-10-12T16:12:57.000Z",
         "updatedAt": "2021-12-05T17:53:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ki987591": {
+        "authors": [
+          "Horio Seita"
+        ],
+        "identifier": "manga-ki987591",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Golden Gold",
+        "url": "https://readmanganato.com/manga-ki987591",
+        "image": "https://avt.mkklcdnv6temp.com/4/c/23-1610249983.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94523,
+        "aniId": 100724,
+        "createdAt": "2021-12-18T07:18:35.000Z",
+        "updatedAt": "2021-12-18T07:48:25.000Z",
         "deletedAt": null
       }
     }

@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:59:15.000Z",
-  "updatedAt": "2021-06-18T08:53:51.000Z",
+  "updatedAt": "2021-12-18T09:20:33.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -32,15 +32,38 @@
         "page": "Mangadex",
         "title": "Saisoku Musou no B-kyuu Mahou Tsukai: Ippatsu Utareru Mae ni Senpatsu Uchikaesu!",
         "url": "https://mangadex.org/title/00b4e5ae-2502-4f24-954f-f8412f4d22ec",
-        "image": "https://uploads.mangadex.org/covers/00b4e5ae-2502-4f24-954f-f8412f4d22ec/8f41bd85-c2f0-4d9e-96d9-7ef570d30c78.jpg",
+        "image": "https://uploads.mangadex.org/covers/00b4e5ae-2502-4f24-954f-f8412f4d22ec/90731a6d-85ad-491a-a88a-47e51eee704b.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
+        "actor": null,
         "malId": 126872,
         "aniId": 117962,
         "createdAt": "2020-10-12T16:19:09.000Z",
-        "updatedAt": "2021-06-18T15:20:50.000Z",
+        "updatedAt": "2021-12-18T15:48:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jn986922": {
+        "authors": [
+          "Ck",
+          "Urayama Ayumi"
+        ],
+        "identifier": "manga-jn986922",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Saisoku Musou No B-Kyuu Mahou Tsukai: Ippatsu Utareru Mae Ni Senpatsu Uchikaesu!",
+        "url": "https://manganato.com/manga-jn986922",
+        "image": "https://avt.mkklcdnv6temp.com/26/m/22-1602064594.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126872,
+        "aniId": 117962,
+        "createdAt": "2021-06-08T01:21:06.000Z",
+        "updatedAt": "2021-12-08T02:11:15.000Z",
         "deletedAt": null
       }
     }

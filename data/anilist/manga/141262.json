@@ -50,6 +50,72 @@
         "updatedAt": "2021-12-04T07:16:05.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-mo990223": {
+        "authors": [
+          "Gen Osuka"
+        ],
+        "identifier": "manga-mo990223",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Doron Dororon",
+        "url": "https://manganato.com/manga-mo990223",
+        "image": "https://avt.mkklcdnv6temp.com/15/j/25-1639288246.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 142180,
+        "aniId": 141262,
+        "createdAt": "2021-12-12T07:03:47.000Z",
+        "updatedAt": "2021-12-12T07:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dorondororon": {
+        "authors": [
+          "OSUKA Gen"
+        ],
+        "identifier": "dorondororon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dorondororon",
+        "url": "https://fanfox.net/manga/dorondororon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/40291/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 142180,
+        "aniId": 141262,
+        "createdAt": "2021-12-13T09:33:44.000Z",
+        "updatedAt": "2021-12-13T09:54:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "1c5863f0-d91c-4fc8-81ee-0056af135288": {
+        "authors": [
+          "Oosuga Gen"
+        ],
+        "identifier": "1c5863f0-d91c-4fc8-81ee-0056af135288",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dorondororon",
+        "url": "https://mangadex.org/title/1c5863f0-d91c-4fc8-81ee-0056af135288",
+        "image": "https://uploads.mangadex.org/covers/1c5863f0-d91c-4fc8-81ee-0056af135288/31a62b45-e8a7-4774-bc4d-7376503c2640.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 142180,
+        "aniId": 141262,
+        "createdAt": "2021-12-15T16:48:54.000Z",
+        "updatedAt": "2021-12-15T16:48:54.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

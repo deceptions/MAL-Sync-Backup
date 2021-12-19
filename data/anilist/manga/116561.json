@@ -20,5 +20,29 @@
   "createdAt": "2021-06-07T20:39:42.000Z",
   "updatedAt": "2021-06-21T15:16:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a9ce9e30-cbdf-4136-b582-4db900b3a78f": {
+        "authors": [
+          "Nyunyu",
+          "nono"
+        ],
+        "identifier": "a9ce9e30-cbdf-4136-b582-4db900b3a78f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tu romance",
+        "url": "https://mangadex.org/title/a9ce9e30-cbdf-4136-b582-4db900b3a78f",
+        "image": "https://uploads.mangadex.org/covers/a9ce9e30-cbdf-4136-b582-4db900b3a78f/b0d63a0b-dd95-468c-b3e1-098e1414f6e9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 116561,
+        "createdAt": "2021-06-07T20:40:28.000Z",
+        "updatedAt": "2021-12-07T21:10:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

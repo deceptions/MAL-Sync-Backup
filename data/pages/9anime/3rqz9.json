@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 38702,
-  "aniId": null,
+  "aniId": 110491,
   "createdAt": "2021-08-19T00:37:36.000Z",
-  "updatedAt": "2021-08-19T00:37:42.000Z",
+  "updatedAt": "2021-12-14T09:48:24.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -38,6 +38,22 @@
     "updatedAt": "2021-10-04T01:08:55.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Yanaka Nezu Sengagi"
+    ],
+    "externalLinks": [],
+    "id": 110491,
+    "malId": 38702,
+    "type": "anime",
+    "title": "Ya-Ne-Sen a Go Go",
+    "url": "https://anilist.co/anime/110491",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110491-fX0BWVRvVtIX.jpg",
+    "category": "music",
+    "hentai": false,
+    "createdAt": "2021-12-14T09:18:24.000Z",
+    "updatedAt": "2021-12-14T09:18:24.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/38702/Ya-Ne-Sen_a_Go_Go"
 }

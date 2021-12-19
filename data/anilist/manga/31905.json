@@ -15,7 +15,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:36:56.000Z",
-  "updatedAt": "2021-06-17T09:41:30.000Z",
+  "updatedAt": "2021-12-17T10:16:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 31905,
         "createdAt": "2020-10-12T16:02:58.000Z",
         "updatedAt": "2021-12-02T11:17:25.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "metal-heart": {
+        "authors": [
+          "YOON Jae-Ho"
+        ],
+        "identifier": "metal-heart",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Metal Heart",
+        "url": "https://mangasee123.com/manga/Metal-Heart",
+        "image": "https://cover.nep.li/cover/Metal-Heart.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1905,
+        "aniId": 31905,
+        "createdAt": "2021-06-10T05:05:08.000Z",
+        "updatedAt": "2021-12-10T06:03:39.000Z",
         "deletedAt": null
       }
     }

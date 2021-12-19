@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%9B%BB%E8%BB%8A%E7%94%B7"
+    }
+  ],
   "altTitle": [
     "Train_Man: Densha Otoko",
     "Train Man",
@@ -18,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:30.000Z",
-  "updatedAt": "2021-09-10T20:04:49.000Z",
+  "updatedAt": "2021-12-14T00:18:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -104,6 +109,48 @@
         "aniId": 31158,
         "createdAt": "2021-06-02T21:30:51.000Z",
         "updatedAt": "2021-12-02T22:19:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "densha_otoko_gambare_doku_otoko": {
+        "authors": [
+          "NAKANO Hitori"
+        ],
+        "identifier": "densha_otoko_gambare_doku_otoko",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Densha Otoko: Gambare Doku Otoko",
+        "url": "https://fanfox.net/manga/densha_otoko_gambare_doku_otoko/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2540/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 1158,
+        "aniId": 31158,
+        "createdAt": "2021-12-14T00:18:25.000Z",
+        "updatedAt": "2021-12-14T11:18:24.000Z",
+        "deletedAt": null
+      },
+      "densha_otoko_net_hatsu_kakueki_teisha_no_love_story": {
+        "authors": [
+          "NAKANO Hitori"
+        ],
+        "identifier": "densha_otoko_net_hatsu_kakueki_teisha_no_love_story",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Densha Otoko - Net Hatsu, Kakueki Teisha no Love Story",
+        "url": "https://fanfox.net/manga/densha_otoko_net_hatsu_kakueki_teisha_no_love_story/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2539/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1158,
+        "aniId": 31158,
+        "createdAt": "2021-12-14T00:18:45.000Z",
+        "updatedAt": "2021-12-14T00:48:24.000Z",
         "deletedAt": null
       }
     }

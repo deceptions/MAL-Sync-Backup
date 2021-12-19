@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://libre-inc.co.jp/special/otonari/"
+    }
+  ],
   "altTitle": [
     "おとなりコンプレックス"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:38.000Z",
-  "updatedAt": "2021-06-14T03:09:36.000Z",
+  "updatedAt": "2021-12-14T03:18:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,28 +85,6 @@
         "aniId": 97816,
         "createdAt": "2021-05-11T15:19:46.000Z",
         "updatedAt": "2021-11-20T22:49:06.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-wa973483": {
-        "authors": [
-          "Nonomura Saku"
-        ],
-        "identifier": "manga-wa973483",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Otonari Complex",
-        "url": "https://readmanganato.com/manga-wa973483",
-        "image": "https://avt.mkklcdnv6temp.com/33/d/14-1583490904.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 100090,
-        "aniId": 97816,
-        "createdAt": "2021-06-14T03:09:31.000Z",
-        "updatedAt": "2021-06-14T03:38:19.000Z",
         "deletedAt": null
       }
     }

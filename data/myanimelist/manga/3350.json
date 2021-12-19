@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://kc.kodansha.co.jp/content/top.php/1000002562"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5!"
+    }
+  ],
   "altTitle": [
     "スマッシュ!"
   ],
@@ -14,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:50.000Z",
-  "updatedAt": "2021-06-15T01:57:49.000Z",
+  "updatedAt": "2021-12-15T02:18:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,28 +45,6 @@
         "aniId": 33350,
         "createdAt": "2020-10-12T16:02:27.000Z",
         "updatedAt": "2021-12-02T07:16:47.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "smash": {
-        "authors": [
-          "SAKI Kaori"
-        ],
-        "identifier": "smash",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Smash!",
-        "url": "https://mangasee123.com/manga/Smash",
-        "image": "https://cover.nep.li/cover/Smash.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 3350,
-        "aniId": 33350,
-        "createdAt": "2021-06-15T01:57:48.000Z",
-        "updatedAt": "2021-06-15T02:27:33.000Z",
         "deletedAt": null
       }
     },

@@ -19,7 +19,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:53:50.000Z",
-  "updatedAt": "2021-06-17T22:29:11.000Z",
+  "updatedAt": "2021-12-17T22:55:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -63,6 +63,28 @@
         "aniId": 86616,
         "createdAt": "2021-05-18T06:55:35.000Z",
         "updatedAt": "2021-11-20T22:49:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-fm957095": {
+        "authors": [
+          "Sugi Shippo"
+        ],
+        "identifier": "manga-fm957095",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Nekomimi Wa Yamerarenai",
+        "url": "https://manganato.com/manga-fm957095",
+        "image": "https://avt.mkklcdnv6temp.com/35/b/4-1583471125.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 94249,
+        "aniId": 86616,
+        "createdAt": "2021-06-09T06:30:25.000Z",
+        "updatedAt": "2021-12-09T07:05:51.000Z",
         "deletedAt": null
       }
     }

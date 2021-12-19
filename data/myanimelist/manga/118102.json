@@ -38,26 +38,6 @@
         "createdAt": "2020-10-12T16:14:02.000Z",
         "updatedAt": "2021-12-06T02:18:30.000Z",
         "deletedAt": null
-      },
-      "153779b6-0d55-4681-99ba-f42ca58de385": {
-        "authors": [
-          "Mikanuji"
-        ],
-        "identifier": "153779b6-0d55-4681-99ba-f42ca58de385",
-        "type": "manga",
-        "page": "Mangadex",
-        "title": "Fuzoroi no Renri",
-        "url": "https://mangadex.org/title/153779b6-0d55-4681-99ba-f42ca58de385",
-        "image": "https://uploads.mangadex.org/covers/153779b6-0d55-4681-99ba-f42ca58de385/7355c533-0e1f-407f-b100-5639eeef21f9.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 118102,
-        "aniId": 130872,
-        "createdAt": "2021-03-07T11:02:57.000Z",
-        "updatedAt": "2021-12-11T17:03:42.000Z",
-        "deletedAt": null
       }
     },
     "MangaFox": {
@@ -101,6 +81,26 @@
         "aniId": 108070,
         "createdAt": "2021-05-30T05:12:13.000Z",
         "updatedAt": "2021-11-30T06:05:34.000Z",
+        "deletedAt": null
+      },
+      "manga-lj988518": {
+        "authors": [
+          "Mikanuji"
+        ],
+        "identifier": "manga-lj988518",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Fuzoroi No Renri",
+        "url": "https://manganato.com/manga-lj988518",
+        "image": "https://avt.mkklcdnv6temp.com/42/c/23-1615866077.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118102,
+        "aniId": 108070,
+        "createdAt": "2021-06-10T12:09:01.000Z",
+        "updatedAt": "2021-12-10T13:03:38.000Z",
         "deletedAt": null
       }
     }

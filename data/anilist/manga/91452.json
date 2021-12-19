@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:51:34.000Z",
-  "updatedAt": "2021-06-17T23:56:30.000Z",
+  "updatedAt": "2021-12-18T00:23:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 91452,
         "createdAt": "2020-10-12T16:07:26.000Z",
         "updatedAt": "2021-12-04T03:20:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kj962118": {
+        "authors": [
+          "Miyashita Akira"
+        ],
+        "identifier": "manga-kj962118",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sora Yori Takaku (Miyashita Akira)",
+        "url": "https://manganato.com/manga-kj962118",
+        "image": "https://avt.mkklcdnv6temp.com/9/o/8-1583478542.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71659,
+        "aniId": 91452,
+        "createdAt": "2021-06-08T14:55:21.000Z",
+        "updatedAt": "2021-12-08T15:35:00.000Z",
         "deletedAt": null
       }
     }

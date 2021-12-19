@@ -15,7 +15,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:53:40.000Z",
-  "updatedAt": "2021-06-17T22:30:11.000Z",
+  "updatedAt": "2021-12-17T22:55:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +81,28 @@
         "aniId": 86665,
         "createdAt": "2021-05-31T09:02:47.000Z",
         "updatedAt": "2021-12-01T00:14:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ga951683": {
+        "authors": [
+          "Ooi Masakazu"
+        ],
+        "identifier": "manga-ga951683",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ashitaba-San Chi No Muko Kurashi",
+        "url": "https://manganato.com/manga-ga951683",
+        "image": "https://avt.mkklcdnv6temp.com/13/g/1-1583464191.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92618,
+        "aniId": 86665,
+        "createdAt": "2021-06-08T16:25:37.000Z",
+        "updatedAt": "2021-12-08T17:03:39.000Z",
         "deletedAt": null
       }
     }

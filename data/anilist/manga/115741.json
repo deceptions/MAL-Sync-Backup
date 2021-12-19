@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T09:50:32.000Z",
-  "updatedAt": "2021-06-21T14:58:57.000Z",
+  "updatedAt": "2021-12-13T09:56:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 115741,
         "createdAt": "2020-10-12T16:17:40.000Z",
         "updatedAt": "2021-12-09T10:33:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-go983823": {
+        "authors": [
+          "Yuan Xiao Siao"
+        ],
+        "identifier": "manga-go983823",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Peach Blossoms",
+        "url": "https://manganato.com/manga-go983823",
+        "image": "https://avt.mkklcdnv6temp.com/3/c/20-1583501111.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 115741,
+        "createdAt": "2021-12-12T18:03:42.000Z",
+        "updatedAt": "2021-12-13T09:56:18.000Z",
         "deletedAt": null
       }
     }

@@ -30,7 +30,7 @@
   "hentai": false,
   "anidbId": 139,
   "createdAt": "2020-10-12T15:38:23.000Z",
-  "updatedAt": "2021-10-01T02:38:16.000Z",
+  "updatedAt": "2021-12-14T20:49:16.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -66,6 +66,25 @@
         "aniId": 1944,
         "createdAt": "2020-10-12T15:53:54.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "photon-the-idiot-adventures": {
+        "identifier": "photon-the-idiot-adventures",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Photon: The Idiot Adventures",
+        "url": "https://gogoanime.cm/category/photon-the-idiot-adventures",
+        "image": "https://gogocdn.net/images/anime/P/photon-the-idiot-adventures.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1944,
+        "aniId": 1944,
+        "createdAt": "2021-12-14T20:48:26.000Z",
+        "updatedAt": "2021-12-14T21:18:24.000Z",
         "deletedAt": null
       }
     }

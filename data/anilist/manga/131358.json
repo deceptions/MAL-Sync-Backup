@@ -18,5 +18,28 @@
   "createdAt": "2021-07-21T00:03:48.000Z",
   "updatedAt": "2021-07-22T07:33:49.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "8e48608b-729b-46f6-aa8b-d5753ce44299": {
+        "authors": [
+          "Endo Jun"
+        ],
+        "identifier": "8e48608b-729b-46f6-aa8b-d5753ce44299",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "More Puzzling Than A Riddle",
+        "url": "https://mangadex.org/title/8e48608b-729b-46f6-aa8b-d5753ce44299",
+        "image": "https://uploads.mangadex.org/covers/8e48608b-729b-46f6-aa8b-d5753ce44299/eb8bde40-4ca5-4039-8291-1cd33e1575db.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135667,
+        "aniId": 131358,
+        "createdAt": "2021-12-15T02:18:56.000Z",
+        "updatedAt": "2021-12-15T02:18:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

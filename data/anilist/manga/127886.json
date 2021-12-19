@@ -22,5 +22,28 @@
   "createdAt": "2021-05-20T15:00:06.000Z",
   "updatedAt": "2021-11-21T23:12:38.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-kp987850": {
+        "authors": [
+          "Yatsuki Wakatsu"
+        ],
+        "identifier": "manga-kp987850",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Affairs Of The Other World Depend On The Corporate Slave",
+        "url": "https://manganato.com/manga-kp987850",
+        "image": "https://avt.mkklcdnv6temp.com/14/q/23-1612080681.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132378,
+        "aniId": 127886,
+        "createdAt": "2021-06-09T09:34:14.000Z",
+        "updatedAt": "2021-12-09T10:33:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

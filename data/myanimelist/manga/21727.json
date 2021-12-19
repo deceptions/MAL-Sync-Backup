@@ -14,7 +14,30 @@
   "category": "Manga",
   "hentai": true,
   "createdAt": "2020-12-09T10:39:50.000Z",
-  "updatedAt": "2021-10-04T20:33:18.000Z",
+  "updatedAt": "2021-12-14T19:18:34.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "e30f836e-927e-404a-b870-14fe9d8eb471": {
+        "authors": [
+          "Haruki"
+        ],
+        "identifier": "e30f836e-927e-404a-b870-14fe9d8eb471",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sports High!",
+        "url": "https://mangadex.org/title/e30f836e-927e-404a-b870-14fe9d8eb471",
+        "image": "https://uploads.mangadex.org/covers/e30f836e-927e-404a-b870-14fe9d8eb471/879c9476-ed81-4e2e-9984-d5afd2451fcf.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21727,
+        "aniId": 51727,
+        "createdAt": "2021-12-15T02:18:24.000Z",
+        "updatedAt": "2021-12-17T03:48:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -13,7 +13,7 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:37:41.000Z",
-  "updatedAt": "2021-06-17T11:09:56.000Z",
+  "updatedAt": "2021-12-17T11:28:57.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -49,6 +49,25 @@
         "aniId": 4929,
         "createdAt": "2021-05-07T07:19:35.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "next-senki-ehrgeiz": {
+        "identifier": "next-senki-ehrgeiz",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Next Senki Ehrgeiz",
+        "url": "https://gogoanime.cm/category/next-senki-ehrgeiz",
+        "image": "https://gogocdn.net/cover/next-senki-ehrgeiz.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4929,
+        "aniId": 4929,
+        "createdAt": "2021-12-13T09:58:59.000Z",
+        "updatedAt": "2021-12-13T10:18:24.000Z",
         "deletedAt": null
       }
     }

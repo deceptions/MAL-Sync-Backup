@@ -18,7 +18,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-14T18:27:33.000Z",
-  "updatedAt": "2021-11-08T16:44:16.000Z",
+  "updatedAt": "2021-12-13T09:56:25.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "6c76aaff-e99d-4fd2-b22e-62c103d22e88": {
+        "authors": [
+          "Rosiwon",
+          "Song Jaemin"
+        ],
+        "identifier": "6c76aaff-e99d-4fd2-b22e-62c103d22e88",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "A Red Knight Does Not Blindly Follow Money",
+        "url": "https://mangadex.org/title/6c76aaff-e99d-4fd2-b22e-62c103d22e88",
+        "image": "https://uploads.mangadex.org/covers/6c76aaff-e99d-4fd2-b22e-62c103d22e88/ddcd70b6-ebc4-4611-bb4a-1656150c444f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 135574,
+        "createdAt": "2021-11-08T19:14:16.000Z",
+        "updatedAt": "2021-12-13T09:59:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

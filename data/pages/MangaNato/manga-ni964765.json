@@ -11,13 +11,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 23571,
+  "aniId": 53571,
   "createdAt": "2021-09-19T10:40:59.000Z",
-  "updatedAt": "2021-09-19T10:41:44.000Z",
+  "updatedAt": "2021-12-13T15:03:03.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://web.archive.org/web/20150325063725/www.ikki-para.com/comix/sunny.html"
+      }
+    ],
+    "altTitle": [
+      "Sunny",
+      "Sunny"
+    ],
+    "authors": [
+      "Matsumoto, Taiyou"
+    ],
+    "id": 23571,
+    "type": "manga",
+    "title": "Sunny",
+    "url": "https://myanimelist.net/manga/23571/Sunny",
+    "image": "https://cdn.myanimelist.net/images/manga/1/151417.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:43:10.000Z",
+    "updatedAt": "2021-12-13T15:03:00.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Sunny",
+      "Sunny"
+    ],
+    "externalLinks": [
+      {
+        "site": "VIZ",
+        "url": "https://www.viz.com/sunny"
+      }
+    ],
+    "authors": [
+      "Taiyou Matsumoto",
+      "Thibaud Desbief",
+      "Michael Arias",
+      "Arnaldo Oka"
+    ],
+    "id": 53571,
+    "malId": 23571,
+    "type": "manga",
+    "title": "Sunny",
+    "url": "https://anilist.co/manga/53571",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx53571-c3hqIJ4GdaLW.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:46:38.000Z",
+    "updatedAt": "2021-12-13T12:18:34.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/23571/Sunny"
 }

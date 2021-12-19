@@ -14,9 +14,9 @@
   "active": true,
   "actor": 2,
   "malId": 129402,
-  "aniId": null,
+  "aniId": 132508,
   "createdAt": "2020-10-12T16:21:14.000Z",
-  "updatedAt": "2021-07-08T15:49:49.000Z",
+  "updatedAt": "2021-12-18T13:18:29.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -43,6 +43,27 @@
     "updatedAt": "2021-12-01T12:54:01.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "姉が剣聖で妹が賢者で"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sora Mochi",
+      "Anten Senki",
+      "Nekosuke Ookuma"
+    ],
+    "id": 132508,
+    "malId": 129402,
+    "type": "manga",
+    "title": "Ane ga Kensei de Imouto ga Kenja de",
+    "url": "https://anilist.co/manga/132508",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx132508-GiMqR88wJQGK.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:24.000Z",
+    "updatedAt": "2021-12-18T12:51:31.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/129402/Ane_ga_Kensei_de_Imouto_ga_Kenja_de"
 }

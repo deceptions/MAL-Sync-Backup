@@ -19,7 +19,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-24T00:38:17.000Z",
-  "updatedAt": "2021-10-31T14:34:19.000Z",
+  "updatedAt": "2021-12-13T09:56:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -63,6 +63,28 @@
         "aniId": 120862,
         "createdAt": "2021-07-10T16:43:16.000Z",
         "updatedAt": "2021-07-10T16:43:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "daybreaking_romance": {
+        "authors": [
+          "Yoowol"
+        ],
+        "identifier": "daybreaking_romance",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Daybreaking Romance",
+        "url": "https://fanfox.net/manga/daybreaking_romance/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34041/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 120862,
+        "createdAt": "2021-12-10T13:03:41.000Z",
+        "updatedAt": "2021-12-13T09:56:48.000Z",
         "deletedAt": null
       }
     }

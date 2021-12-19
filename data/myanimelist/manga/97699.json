@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:28.000Z",
-  "updatedAt": "2021-10-15T00:59:26.000Z",
+  "updatedAt": "2021-12-16T18:48:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 87142,
         "createdAt": "2020-10-12T16:09:41.000Z",
         "updatedAt": "2021-12-04T19:49:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-vq972451": {
+        "authors": [
+          "Yamamoto Souichirou"
+        ],
+        "identifier": "manga-vq972451",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ashita Wa Doyoubi",
+        "url": "https://manganato.com/manga-vq972451",
+        "image": "https://avt.mkklcdnv6temp.com/14/f/14-1583490257.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97699,
+        "aniId": 87142,
+        "createdAt": "2021-06-10T00:34:25.000Z",
+        "updatedAt": "2021-12-10T01:34:41.000Z",
         "deletedAt": null
       }
     },

@@ -71,29 +71,27 @@
         "deletedAt": null
       }
     },
-    "MangaFox": {
-      "isekai_izakaya_nobu": {
+    "MangaNato": {
+      "manga-tt971228": {
         "authors": [
-          "SEMIKAWA Natsuya"
+          "Semikawa Natsuya"
         ],
-        "identifier": "isekai_izakaya_nobu",
+        "identifier": "manga-tt971228",
         "type": "manga",
-        "page": "MangaFox",
-        "title": "Isekai Izakaya",
-        "url": "https://fanfox.net/manga/isekai_izakaya_nobu/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/19899/cover.jpg",
+        "page": "MangaNato",
+        "title": "Isekai Izakaya ",
+        "url": "https://readmanganato.com/manga-tt971228",
+        "image": "https://avt.mkklcdnv6temp.com/41/p/13-1583489292.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
+        "actor": 1,
         "malId": 90190,
         "aniId": 95229,
-        "createdAt": "2021-06-01T20:01:47.000Z",
-        "updatedAt": "2021-12-01T20:46:06.000Z",
+        "createdAt": "2021-05-31T09:14:11.000Z",
+        "updatedAt": "2021-12-14T11:48:24.000Z",
         "deletedAt": null
-      }
-    },
-    "MangaNato": {
+      },
       "manga-ia986235": {
         "authors": [
           "Semikawa Natsuya",
@@ -113,6 +111,28 @@
         "aniId": 95229,
         "createdAt": "2021-07-07T23:44:09.000Z",
         "updatedAt": "2021-07-08T00:13:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "isekai_izakaya_nobu": {
+        "authors": [
+          "SEMIKAWA Natsuya"
+        ],
+        "identifier": "isekai_izakaya_nobu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Isekai Izakaya",
+        "url": "https://fanfox.net/manga/isekai_izakaya_nobu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/19899/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90190,
+        "aniId": 95229,
+        "createdAt": "2021-06-01T20:01:47.000Z",
+        "updatedAt": "2021-12-01T20:46:06.000Z",
         "deletedAt": null
       }
     }

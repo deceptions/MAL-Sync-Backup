@@ -2,7 +2,7 @@
   "externalLinks": [
     {
       "site": "officialsite",
-      "url": "http://www.ai-tenchi.jp/"
+      "url": "https://www.vap.co.jp/ai-tenchi/"
     },
     {
       "site": "animedb",
@@ -30,7 +30,7 @@
   "hentai": false,
   "anidbId": 10727,
   "createdAt": "2020-10-12T15:39:28.000Z",
-  "updatedAt": "2021-10-03T00:04:44.000Z",
+  "updatedAt": "2021-12-13T09:56:27.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -85,6 +85,23 @@
         "aniId": 20726,
         "createdAt": "2020-10-12T15:59:47.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      },
+      "ai-tenchi-muyou-dub": {
+        "identifier": "ai-tenchi-muyou-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Ai Tenchi Muyou! (Dub)",
+        "url": "https://gogoanime.cm/category/ai-tenchi-muyou-dub",
+        "image": "https://gogocdn.net/cover/ai-tenchi-muyou-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24699,
+        "aniId": 20726,
+        "createdAt": "2021-12-13T09:56:26.000Z",
+        "updatedAt": "2021-12-13T10:18:24.000Z",
         "deletedAt": null
       }
     }

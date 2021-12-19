@@ -18,7 +18,12 @@
   "updatedAt": "2021-11-20T18:44:26.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%AF%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%89"
+      }
+    ],
     "altTitle": [
       "Chrno Crusade",
       "Chrno Crusade: Mary Magdalene",
@@ -36,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:20.000Z",
-    "updatedAt": "2021-06-29T08:42:18.000Z",
+    "updatedAt": "2021-12-16T11:48:25.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -48,7 +53,9 @@
     ],
     "externalLinks": [],
     "authors": [
-      "Daisuke Moriyama"
+      "Daisuke Moriyama",
+      "Drik Sada",
+      "Gabriela Yuki"
     ],
     "id": 30338,
     "malId": 338,
@@ -59,7 +66,7 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:35:31.000Z",
-    "updatedAt": "2021-06-17T08:24:05.000Z",
+    "updatedAt": "2021-12-17T09:08:19.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/338/Chrno_Crusade"

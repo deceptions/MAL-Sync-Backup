@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:55.000Z",
-  "updatedAt": "2021-10-23T08:00:36.000Z",
+  "updatedAt": "2021-12-17T08:18:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -68,6 +68,29 @@
         "aniId": 33964,
         "createdAt": "2021-01-20T14:33:45.000Z",
         "updatedAt": "2021-11-20T17:45:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nn964996": {
+        "authors": [
+          "Agi Tadashi",
+          "Aoki Yuuya"
+        ],
+        "identifier": "manga-nn964996",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kami No Shizuku",
+        "url": "https://manganato.com/manga-nn964996",
+        "image": "https://avt.mkklcdnv6temp.com/48/d/9-1583482113.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 3964,
+        "aniId": 33964,
+        "createdAt": "2021-06-12T06:38:59.000Z",
+        "updatedAt": "2021-12-17T15:18:24.000Z",
         "deletedAt": null
       }
     }

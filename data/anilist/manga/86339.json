@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:50:50.000Z",
-  "updatedAt": "2021-06-17T11:27:50.000Z",
+  "updatedAt": "2021-12-17T12:20:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 86339,
         "createdAt": "2021-03-25T03:20:24.000Z",
         "updatedAt": "2021-11-20T20:14:56.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-np952672": {
+        "authors": [
+          "Shinkyu Chie"
+        ],
+        "identifier": "manga-np952672",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Wakako-Zake",
+        "url": "https://manganato.com/manga-np952672",
+        "image": "https://avt.mkklcdnv6temp.com/47/r/1-1583465583.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64603,
+        "aniId": 86339,
+        "createdAt": "2021-12-14T07:18:35.000Z",
+        "updatedAt": "2021-12-14T07:48:24.000Z",
         "deletedAt": null
       }
     }

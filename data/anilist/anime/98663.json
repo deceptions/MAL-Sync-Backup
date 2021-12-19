@@ -18,7 +18,7 @@
   "category": "movie",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:09.000Z",
-  "updatedAt": "2021-06-17T15:25:42.000Z",
+  "updatedAt": "2021-12-17T15:52:24.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -75,6 +75,25 @@
         "aniId": 98663,
         "createdAt": "2021-02-11T12:41:12.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "koutetsujou-no-kabaneri-movie-2-moeru-inochi": {
+        "identifier": "koutetsujou-no-kabaneri-movie-2-moeru-inochi",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Koutetsujou no Kabaneri Movie 2: Moeru Inochi",
+        "url": "https://gogoanime.cm/category/koutetsujou-no-kabaneri-movie-2-moeru-inochi",
+        "image": "https://gogocdn.net/cover/koutetsujou-no-kabaneri-movie-2-moeru-inochi.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33520,
+        "aniId": 98663,
+        "createdAt": "2021-12-13T09:56:42.000Z",
+        "updatedAt": "2021-12-13T10:18:24.000Z",
         "deletedAt": null
       }
     }

@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-05-20T14:41:06.000Z",
-  "updatedAt": "2021-06-17T13:31:11.000Z",
+  "updatedAt": "2021-12-17T14:08:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 40573,
         "createdAt": "2020-10-12T16:02:37.000Z",
         "updatedAt": "2021-12-02T08:46:46.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sekaiichi_hatsukoi": {
+        "authors": [
+          "NAKAMURA Shungiku"
+        ],
+        "identifier": "sekaiichi_hatsukoi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sekaiichi Hatsukoi",
+        "url": "https://fanfox.net/manga/sekaiichi_hatsukoi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6097/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 10573,
+        "aniId": 40573,
+        "createdAt": "2020-12-23T23:26:27.000Z",
+        "updatedAt": "2021-12-08T15:34:50.000Z",
         "deletedAt": null
       }
     },

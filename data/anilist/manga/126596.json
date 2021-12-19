@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T15:00:04.000Z",
-  "updatedAt": "2021-06-18T11:00:41.000Z",
+  "updatedAt": "2021-12-18T11:21:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,29 @@
         "aniId": 126596,
         "createdAt": "2020-11-21T09:21:31.000Z",
         "updatedAt": "2021-12-08T09:06:22.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jz987282": {
+        "authors": [
+          "Momokuro Miyabi",
+          "Fujiya (Ii)"
+        ],
+        "identifier": "manga-jz987282",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ester De Valonia",
+        "url": "https://manganato.com/manga-jz987282",
+        "image": "https://avt.mkklcdnv6temp.com/41/i/22-1606534612.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131608,
+        "aniId": 126596,
+        "createdAt": "2021-06-09T16:04:16.000Z",
+        "updatedAt": "2021-12-09T17:04:31.000Z",
         "deletedAt": null
       }
     }

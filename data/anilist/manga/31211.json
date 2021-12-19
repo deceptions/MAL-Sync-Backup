@@ -19,7 +19,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:35:56.000Z",
-  "updatedAt": "2021-06-17T09:07:46.000Z",
+  "updatedAt": "2021-12-17T09:43:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -85,6 +85,28 @@
         "aniId": 31211,
         "createdAt": "2021-06-01T19:31:40.000Z",
         "updatedAt": "2021-12-01T20:17:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "me_and_the_devil_blues": {
+        "authors": [
+          "HIRAMOTO Akira"
+        ],
+        "identifier": "me_and_the_devil_blues",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Me and the Devil Blues",
+        "url": "https://fanfox.net/manga/me_and_the_devil_blues/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/619/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1211,
+        "aniId": 31211,
+        "createdAt": "2021-06-07T21:25:08.000Z",
+        "updatedAt": "2021-12-07T22:12:31.000Z",
         "deletedAt": null
       }
     }

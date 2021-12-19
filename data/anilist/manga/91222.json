@@ -23,7 +23,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:51:32.000Z",
-  "updatedAt": "2021-06-17T23:54:30.000Z",
+  "updatedAt": "2021-12-18T00:21:34.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -67,6 +67,28 @@
         "aniId": 91222,
         "createdAt": "2021-04-04T00:08:49.000Z",
         "updatedAt": "2021-11-20T21:17:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ct980176": {
+        "authors": [
+          "Onigunsou"
+        ],
+        "identifier": "manga-ct980176",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mononogatari",
+        "url": "https://manganato.com/manga-ct980176",
+        "image": "https://avt.mkklcdnv6temp.com/18/z/17-1583495943.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70663,
+        "aniId": 91222,
+        "createdAt": "2021-06-08T06:53:44.000Z",
+        "updatedAt": "2021-12-08T08:08:00.000Z",
         "deletedAt": null
       }
     }

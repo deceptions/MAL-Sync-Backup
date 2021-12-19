@@ -45,6 +45,50 @@
         "updatedAt": "2021-12-04T18:26:11.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-te970939": {
+        "authors": [
+          "Ayuko"
+        ],
+        "identifier": "manga-te970939",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kimi To Yuriika",
+        "url": "https://manganato.com/manga-te970939",
+        "image": "https://avt.mkklcdnv6temp.com/36/d/13-1583489034.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93550,
+        "aniId": 96159,
+        "createdAt": "2021-12-12T19:04:51.000Z",
+        "updatedAt": "2021-12-12T19:33:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kimi_to_yuriika": {
+        "authors": [
+          "Ayuko"
+        ],
+        "identifier": "kimi_to_yuriika",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kimi to Yuriika",
+        "url": "https://fanfox.net/manga/kimi_to_yuriika/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18983/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93550,
+        "aniId": 96159,
+        "createdAt": "2021-12-13T09:03:48.000Z",
+        "updatedAt": "2021-12-13T09:33:42.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

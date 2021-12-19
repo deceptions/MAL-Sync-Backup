@@ -11,13 +11,30 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 142773,
   "createdAt": "2021-11-18T11:15:05.000Z",
-  "updatedAt": "2021-11-18T11:15:05.000Z",
+  "updatedAt": "2021-12-15T21:44:08.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "进化狂潮"
+    ],
+    "externalLinks": [],
+    "authors": [],
+    "id": 142773,
+    "malId": null,
+    "type": "manga",
+    "title": "Jin Hua Kuang Chao",
+    "url": "https://anilist.co/manga/142773",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/default.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-15T13:48:35.000Z",
+    "updatedAt": "2021-12-15T13:48:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

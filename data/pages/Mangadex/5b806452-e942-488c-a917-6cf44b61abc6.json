@@ -18,10 +18,15 @@
   "updatedAt": "2021-12-05T00:20:11.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%98%A5%E3%81%AE%E5%91%AA%E3%81%84"
+      }
+    ],
     "altTitle": [
-      "Curse of Spring",
       "Haru's Curse",
+      "Curse of Spring",
       "春の呪い"
     ],
     "authors": [
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:46:44.000Z",
-    "updatedAt": "2021-06-17T12:29:38.000Z",
+    "updatedAt": "2021-12-17T12:51:25.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -58,7 +63,7 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:54:54.000Z",
-    "updatedAt": "2021-06-18T01:58:24.000Z",
+    "updatedAt": "2021-12-18T02:24:29.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/102060/Haru_no_Noroi"

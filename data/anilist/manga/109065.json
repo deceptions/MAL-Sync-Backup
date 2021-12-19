@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-02T10:00:51.000Z",
-  "updatedAt": "2021-06-18T06:00:24.000Z",
+  "updatedAt": "2021-12-18T06:23:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 109065,
         "createdAt": "2021-02-15T07:35:44.000Z",
         "updatedAt": "2021-12-08T12:35:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ki988165": {
+        "authors": [
+          "Kondou Shouma"
+        ],
+        "identifier": "manga-ki988165",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ah... And Mm... Are All She Says",
+        "url": "https://manganato.com/manga-ki988165",
+        "image": "https://avt.mkklcdnv6temp.com/27/n/23-1613752306.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 134595,
+        "aniId": 109065,
+        "createdAt": "2021-06-11T17:09:14.000Z",
+        "updatedAt": "2021-12-11T18:03:53.000Z",
         "deletedAt": null
       }
     }

@@ -21,7 +21,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:46:52.000Z",
-  "updatedAt": "2021-06-17T18:00:04.000Z",
+  "updatedAt": "2021-12-17T18:34:35.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,28 @@
         "aniId": 55250,
         "createdAt": "2020-10-12T16:04:03.000Z",
         "updatedAt": "2021-12-02T18:47:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-voynich-hotel": {
+        "authors": [
+          "DOUMAN Seiman"
+        ],
+        "identifier": "the-voynich-hotel",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Voynich Hotel",
+        "url": "https://mangasee123.com/manga/The-Voynich-Hotel",
+        "image": "https://cover.nep.li/cover/The-Voynich-Hotel.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 25250,
+        "aniId": 55250,
+        "createdAt": "2021-01-28T03:14:19.000Z",
+        "updatedAt": "2021-12-10T08:04:31.000Z",
         "deletedAt": null
       }
     }

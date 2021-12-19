@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:08.000Z",
-  "updatedAt": "2021-11-03T12:37:41.000Z",
+  "updatedAt": "2021-12-14T10:19:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -44,6 +44,28 @@
         "aniId": 101857,
         "createdAt": "2020-10-12T16:08:30.000Z",
         "updatedAt": "2021-12-04T10:52:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jj986918": {
+        "authors": [
+          "Akatsuki"
+        ],
+        "identifier": "manga-jj986918",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sister To Vampire",
+        "url": "https://manganato.com/manga-jj986918",
+        "image": "https://avt.mkklcdnv6temp.com/26/i/22-1602062903.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108081,
+        "aniId": 101857,
+        "createdAt": "2021-12-14T10:19:26.000Z",
+        "updatedAt": "2021-12-14T10:48:24.000Z",
         "deletedAt": null
       }
     }

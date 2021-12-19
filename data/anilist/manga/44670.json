@@ -20,7 +20,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:43:40.000Z",
-  "updatedAt": "2021-06-17T15:02:13.000Z",
+  "updatedAt": "2021-12-17T15:38:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,28 @@
         "aniId": 44670,
         "createdAt": "2020-10-12T16:08:48.000Z",
         "updatedAt": "2021-12-04T13:21:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kb952410": {
+        "authors": [
+          "Atto"
+        ],
+        "identifier": "manga-kb952410",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Koakuma Meringue",
+        "url": "https://manganato.com/manga-kb952410",
+        "image": "https://avt.mkklcdnv6temp.com/38/i/1-1583465204.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14670,
+        "aniId": 44670,
+        "createdAt": "2021-06-11T09:39:16.000Z",
+        "updatedAt": "2021-12-11T10:33:43.000Z",
         "deletedAt": null
       }
     },

@@ -19,7 +19,16 @@
   "updatedAt": "2021-12-02T12:17:57.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://daioh.dengeki.com/contents/evergreen/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%90%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3_%28%E6%BC%AB%E7%94%BB%29"
+      }
+    ],
     "altTitle": [
       "Evergreen",
       "エバーグリーン"
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:42.000Z",
-    "updatedAt": "2021-06-16T07:57:54.000Z",
+    "updatedAt": "2021-12-16T08:18:46.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -58,7 +67,7 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:47:40.000Z",
-    "updatedAt": "2021-06-17T18:46:21.000Z",
+    "updatedAt": "2021-12-17T19:07:54.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/30595/Ever_Green"

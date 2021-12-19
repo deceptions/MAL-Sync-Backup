@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://comic.naver.com/webtoon/list.nhn?titleId=597480"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4_%EC%A7%AD%EC%AA%BC%EB%A1%AC"
+    }
+  ],
   "altTitle": [
     "Salty Studio",
     "스튜디오 짭조롬"
@@ -15,7 +24,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:24.000Z",
-  "updatedAt": "2021-07-23T00:34:02.000Z",
+  "updatedAt": "2021-12-12T07:04:01.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +68,28 @@
         "aniId": 86112,
         "createdAt": "2021-08-04T16:50:08.000Z",
         "updatedAt": "2021-08-04T17:17:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "studio_salty": {
+        "authors": [
+          "Omyo"
+        ],
+        "identifier": "studio_salty",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Studio Salty",
+        "url": "https://fanfox.net/manga/studio_salty/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13492/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 96113,
+        "aniId": 86112,
+        "createdAt": "2021-12-12T07:03:50.000Z",
+        "updatedAt": "2021-12-12T07:33:41.000Z",
         "deletedAt": null
       }
     }

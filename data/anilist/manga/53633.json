@@ -20,7 +20,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:46:38.000Z",
-  "updatedAt": "2021-06-17T17:35:00.000Z",
+  "updatedAt": "2021-12-17T18:09:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -108,6 +108,28 @@
         "aniId": 53633,
         "createdAt": "2021-04-28T07:51:21.000Z",
         "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qs952975": {
+        "authors": [
+          "Kaitou Reiji"
+        ],
+        "identifier": "manga-qs952975",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Unbreakable Machine Doll.",
+        "url": "https://manganato.com/manga-qs952975",
+        "image": "https://avt.mkklcdnv6temp.com/7/o/2-1583465984.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 23633,
+        "aniId": 53633,
+        "createdAt": "2021-06-08T06:21:16.000Z",
+        "updatedAt": "2021-12-08T07:41:51.000Z",
         "deletedAt": null
       }
     }

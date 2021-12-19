@@ -11,13 +11,50 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 134533,
+  "aniId": 128316,
   "createdAt": "2021-12-08T00:04:12.000Z",
-  "updatedAt": "2021-12-08T00:04:12.000Z",
+  "updatedAt": "2021-12-12T16:33:41.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "ストラテジックラバーズ"
+    ],
+    "authors": [
+      "Sanshoku, Amido."
+    ],
+    "id": 134533,
+    "type": "manga",
+    "title": "Strategic Lovers",
+    "url": "https://myanimelist.net/manga/134533/Strategic_Lovers",
+    "image": "https://cdn.myanimelist.net/images/manga/2/247858.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-03-11T00:39:20.000Z",
+    "updatedAt": "2021-12-01T16:24:17.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ストラテジック ラバーズ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Amido Sanshoku"
+    ],
+    "id": 128316,
+    "malId": 134533,
+    "type": "manga",
+    "title": "Strategic Lovers",
+    "url": "https://anilist.co/manga/128316",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128316-zLfqbFk73coV.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-05-26T03:08:17.000Z",
+    "updatedAt": "2021-12-13T09:57:40.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/134533/Strategic_Lovers"
 }

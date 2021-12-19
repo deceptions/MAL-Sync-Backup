@@ -14,7 +14,27 @@
   "category": "ona",
   "hentai": false,
   "createdAt": "2021-06-07T20:03:57.000Z",
-  "updatedAt": "2021-06-17T18:14:02.000Z",
+  "updatedAt": "2021-12-15T11:18:55.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "nitian-xieshen": {
+        "identifier": "nitian-xieshen",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Nitian Xieshen",
+        "url": "https://gogoanime.cm/category/nitian-xieshen",
+        "image": "https://gogocdn.net/cover/nitian-xieshen.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 131073,
+        "createdAt": "2021-12-15T10:48:25.000Z",
+        "updatedAt": "2021-12-15T11:18:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }
