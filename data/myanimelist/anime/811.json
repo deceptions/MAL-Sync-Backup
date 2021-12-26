@@ -33,7 +33,7 @@
   "hentai": false,
   "anidbId": 3706,
   "createdAt": "2020-10-12T15:38:08.000Z",
-  "updatedAt": "2021-09-30T17:04:05.000Z",
+  "updatedAt": "2021-12-21T15:22:48.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -107,6 +107,23 @@
         "aniId": 811,
         "createdAt": "2021-09-27T20:03:14.000Z",
         "updatedAt": "2021-09-27T20:33:02.000Z",
+        "deletedAt": null
+      },
+      "is-pure": {
+        "identifier": "is-pure",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "i\"s Pure",
+        "url": "https://gogoanime.cm/category/is-pure",
+        "image": "https://gogocdn.net/images/anime/I/i-s-pure.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 811,
+        "aniId": 811,
+        "createdAt": "2021-12-21T15:22:38.000Z",
+        "updatedAt": "2021-12-21T15:51:45.000Z",
         "deletedAt": null
       }
     }

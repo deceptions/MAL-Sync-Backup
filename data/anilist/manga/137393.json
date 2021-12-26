@@ -17,5 +17,28 @@
   "createdAt": "2021-08-03T12:47:39.000Z",
   "updatedAt": "2021-08-03T12:47:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "usagi_chan_de_cue": {
+        "authors": [
+          "SANO Takashi"
+        ],
+        "identifier": "usagi_chan_de_cue",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Usagi-chan de Cue!!",
+        "url": "https://fanfox.net/manga/usagi_chan_de_cue/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/10634/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 136255,
+        "aniId": 137393,
+        "createdAt": "2021-12-21T09:21:59.000Z",
+        "updatedAt": "2021-12-21T09:51:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

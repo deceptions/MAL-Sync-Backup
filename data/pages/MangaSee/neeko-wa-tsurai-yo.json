@@ -11,13 +11,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 110953,
+  "aniId": 100494,
   "createdAt": "2021-01-07T09:35:20.000Z",
-  "updatedAt": "2021-07-07T10:00:53.000Z",
+  "updatedAt": "2021-12-22T14:51:46.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "It's Tough Being Neetko",
+      "ニー子はつらいよ"
+    ],
+    "authors": [
+      "Aldehyde"
+    ],
+    "id": 110953,
+    "type": "manga",
+    "title": "Neeko wa Tsurai yo",
+    "url": "https://myanimelist.net/manga/110953/Neeko_wa_Tsurai_yo",
+    "image": "https://cdn.myanimelist.net/images/manga/2/208224.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:20.000Z",
+    "updatedAt": "2021-12-05T23:47:06.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ニー子はつらいよ",
+      "Neeko wa Tsuraiyo",
+      "Niiko wa Tsurai yo",
+      "It's Tough Being Neeko"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Aldehyde"
+    ],
+    "id": 100494,
+    "malId": 110953,
+    "type": "manga",
+    "title": "Neeko wa Tsurai yo",
+    "url": "https://anilist.co/manga/100494",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx100494-CFGaajGY1MEf.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:56:17.000Z",
+    "updatedAt": "2021-12-18T03:24:19.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/110953/Neeko_wa_Tsurai_yo"
 }

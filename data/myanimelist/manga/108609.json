@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:09.000Z",
-  "updatedAt": "2021-10-17T15:59:06.000Z",
+  "updatedAt": "2021-12-23T18:52:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -61,6 +61,28 @@
         "aniId": 100054,
         "createdAt": "2021-03-09T06:40:45.000Z",
         "updatedAt": "2021-11-20T19:45:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-es981475": {
+        "authors": [
+          "Sanada Makoto"
+        ],
+        "identifier": "manga-es981475",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Satsuriku No Tenshi: Episode.0",
+        "url": "https://readmanganato.com/manga-es981475",
+        "image": "https://avt.mkklcdnv6temp.com/16/e/18-1583497719.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108609,
+        "aniId": 100054,
+        "createdAt": "2021-12-23T18:51:56.000Z",
+        "updatedAt": "2021-12-23T19:21:46.000Z",
         "deletedAt": null
       }
     }

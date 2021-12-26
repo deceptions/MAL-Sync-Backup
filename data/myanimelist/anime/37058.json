@@ -19,7 +19,46 @@
   "hentai": false,
   "anidbId": 13687,
   "createdAt": "2021-06-21T20:16:14.000Z",
-  "updatedAt": "2021-10-03T20:37:04.000Z",
+  "updatedAt": "2021-12-19T08:49:07.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "ojjpy": {
+        "identifier": "ojjpy",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Jian Wangchao 2",
+        "url": "https://9anime.to/watch/sword-dynasty-2.ojjpy",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/fb/fb5136f312e6402ec173758698dcbd21.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37058,
+        "aniId": 104553,
+        "createdAt": "2021-12-19T08:49:06.000Z",
+        "updatedAt": "2021-12-19T09:18:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "jian-wangchao-2": {
+        "identifier": "jian-wangchao-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Jian Wangchao 2",
+        "url": "https://gogoanime.cm/category/jian-wangchao-2",
+        "image": "https://gogocdn.net/cover/jian-wangchao-2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37058,
+        "aniId": 104553,
+        "createdAt": "2021-12-19T12:19:16.000Z",
+        "updatedAt": "2021-12-19T12:48:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

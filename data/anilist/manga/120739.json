@@ -6,10 +6,10 @@
   ],
   "externalLinks": [],
   "authors": [
-    "Shota Komatsu"
+    "Shouta Komatsu"
   ],
   "id": 120739,
-  "malId": null,
+  "malId": 132119,
   "type": "manga",
   "title": "Itoyango to Naki",
   "url": "https://anilist.co/manga/120739",
@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-27T18:28:43.000Z",
-  "updatedAt": "2021-06-21T15:53:13.000Z",
+  "updatedAt": "2021-12-21T16:23:26.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "e2ed1966-f67f-4332-ada6-11c889ce1879": {
+        "authors": [
+          "Komatsu Shouta"
+        ],
+        "identifier": "e2ed1966-f67f-4332-ada6-11c889ce1879",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Itoyan Goto Naki",
+        "url": "https://mangadex.org/title/e2ed1966-f67f-4332-ada6-11c889ce1879",
+        "image": "https://uploads.mangadex.org/covers/e2ed1966-f67f-4332-ada6-11c889ce1879/dbd7d421-9f79-4579-97d7-b7d3aeaf2421.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132119,
+        "aniId": 120739,
+        "createdAt": "2021-02-14T03:06:28.000Z",
+        "updatedAt": "2021-12-21T16:51:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

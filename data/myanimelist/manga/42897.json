@@ -51,7 +51,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:16.000Z",
-  "updatedAt": "2021-10-23T14:59:27.000Z",
+  "updatedAt": "2021-12-22T19:53:10.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -108,6 +108,38 @@
         "aniId": 72897,
         "createdAt": "2021-10-23T14:58:36.000Z",
         "updatedAt": "2021-10-23T16:28:24.000Z",
+        "deletedAt": null
+      },
+      "manga-di981343": {
+        "authors": [
+          "Saibara Rieko",
+          "Takahashi Noboru",
+          "Clamp",
+          "Tanaka Keiichi",
+          "Owada Hideki",
+          "Mizushina Takayuki",
+          "Tsuge Aya",
+          "Oshikiri Rensuke",
+          "Murata Hiroyuki",
+          "Koshiba Tetsuya",
+          "Karasuya Satoshi",
+          "Kaitani Shinobu",
+          "Suzuki Masa"
+        ],
+        "identifier": "manga-di981343",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Akagi Zawa... Zawa... Anthology",
+        "url": "https://manganato.com/manga-di981343",
+        "image": "https://avt.mkklcdnv6temp.com/11/h/18-1583497518.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42897,
+        "aniId": 72897,
+        "createdAt": "2021-12-22T19:53:08.000Z",
+        "updatedAt": "2021-12-22T20:21:46.000Z",
         "deletedAt": null
       }
     }

@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 112767,
-  "aniId": null,
+  "aniId": 104673,
   "createdAt": "2020-10-12T16:14:06.000Z",
-  "updatedAt": "2021-12-06T10:18:39.000Z",
+  "updatedAt": "2021-12-25T09:57:34.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -41,6 +41,25 @@
     "updatedAt": "2021-12-06T03:16:40.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ゲームの中にいる！"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Noromu Eguchi"
+    ],
+    "id": 104673,
+    "malId": 112767,
+    "type": "manga",
+    "title": "Game no Naka ni Iru!",
+    "url": "https://anilist.co/manga/104673",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n104673-BtmG4nrAMSBw.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-25T09:27:35.000Z",
+    "updatedAt": "2021-12-25T09:27:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/112767/Game_no_Naka_ni_Iru"
 }

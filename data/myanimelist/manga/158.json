@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E6%82%AA%E9%9C%8A%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+    }
+  ],
   "altTitle": [
     "Ghost Hunt",
     "Akuryou ga Ippai",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:18.000Z",
-  "updatedAt": "2021-08-08T13:09:57.000Z",
+  "updatedAt": "2021-12-20T00:19:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -63,6 +68,29 @@
         "aniId": 30158,
         "createdAt": "2021-08-08T13:09:41.000Z",
         "updatedAt": "2021-08-08T13:39:15.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ghost-hunt": {
+        "authors": [
+          "INADA Shiho",
+          "ONO Fuyumi"
+        ],
+        "identifier": "ghost-hunt",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ghost Hunt",
+        "url": "https://mangasee123.com/manga/Ghost-Hunt",
+        "image": "https://cover.nep.li/cover/Ghost-Hunt.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 158,
+        "aniId": 30158,
+        "createdAt": "2021-12-20T00:19:55.000Z",
+        "updatedAt": "2021-12-20T00:48:35.000Z",
         "deletedAt": null
       }
     }

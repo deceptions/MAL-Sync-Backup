@@ -16,7 +16,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-11-04T04:04:50.000Z",
-  "updatedAt": "2021-11-04T04:04:50.000Z",
+  "updatedAt": "2021-12-21T09:54:19.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "0084a27f-109d-4f35-85fe-ac0ffef18bd5": {
+        "authors": [
+          "Koyo Watanabe",
+          "Kizaki"
+        ],
+        "identifier": "0084a27f-109d-4f35-85fe-ac0ffef18bd5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hagane to Wakaba",
+        "url": "https://mangadex.org/title/0084a27f-109d-4f35-85fe-ac0ffef18bd5",
+        "image": "https://uploads.mangadex.org/covers/0084a27f-109d-4f35-85fe-ac0ffef18bd5/ba6b439f-9a0e-42c4-bada-9010589e1a7c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 136328,
+        "createdAt": "2021-12-21T09:54:19.000Z",
+        "updatedAt": "2021-12-21T09:54:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

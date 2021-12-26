@@ -19,5 +19,28 @@
   "createdAt": "2021-05-20T14:59:00.000Z",
   "updatedAt": "2021-12-18T04:54:47.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-fa983257": {
+        "authors": [
+          "Nagabe"
+        ],
+        "identifier": "manga-fa983257",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Wize Wize Beasts Of The Wizarding Wizdoms",
+        "url": "https://readmanganato.com/manga-fa983257",
+        "image": "https://avt.mkklcdnv6temp.com/31/s/19-1583500345.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123465,
+        "aniId": 104614,
+        "createdAt": "2021-12-19T04:49:37.000Z",
+        "updatedAt": "2021-12-19T05:18:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

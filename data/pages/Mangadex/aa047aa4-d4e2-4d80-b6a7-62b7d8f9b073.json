@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 138344,
-  "aniId": null,
+  "aniId": 113303,
   "createdAt": "2021-03-06T01:50:09.000Z",
-  "updatedAt": "2021-12-08T13:04:48.000Z",
+  "updatedAt": "2021-12-21T15:21:46.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -41,6 +41,25 @@
     "updatedAt": "2021-12-08T13:04:48.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "花と紺青 防大男子に恋しました。"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hachi Nishika"
+    ],
+    "id": 113303,
+    "malId": 138344,
+    "type": "manga",
+    "title": "Hana to Konjou: Boudai Danshi no Koishimashita.",
+    "url": "https://anilist.co/manga/113303",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113303-wpHJ3Su1Itvf.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-11T17:08:19.000Z",
+    "updatedAt": "2021-12-21T15:00:17.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/138344/Hana_to_Konjou__Boudai_Danshi_ni_Koishimashita"
 }

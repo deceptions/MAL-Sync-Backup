@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:18.000Z",
-  "updatedAt": "2021-10-26T00:01:25.000Z",
+  "updatedAt": "2021-12-23T07:53:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,28 @@
         "aniId": 30132,
         "createdAt": "2020-10-12T16:08:07.000Z",
         "updatedAt": "2021-12-04T07:51:12.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "b_t_x": {
+        "authors": [
+          "KURUMADA Masami"
+        ],
+        "identifier": "b_t_x",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "B'T X",
+        "url": "https://fanfox.net/manga/b_t_x/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3245/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 132,
+        "aniId": 30132,
+        "createdAt": "2021-12-23T07:53:11.000Z",
+        "updatedAt": "2021-12-23T08:21:46.000Z",
         "deletedAt": null
       }
     }

@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-06T01:19:49.000Z",
-  "updatedAt": "2021-06-21T13:55:04.000Z",
+  "updatedAt": "2021-12-21T14:24:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 105667,
         "createdAt": "2020-10-12T16:13:57.000Z",
         "updatedAt": "2021-12-06T10:48:42.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "joshi_daisei_ga_goukon_de_onee_san_ni_mochikaerareru_hanashi": {
+        "authors": [
+          "YUKIO Yuki"
+        ],
+        "identifier": "joshi_daisei_ga_goukon_de_onee_san_ni_mochikaerareru_hanashi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Joshi Daisei ga Goukon de Onee-san ni Mochikaerareru Hanashi",
+        "url": "https://fanfox.net/manga/joshi_daisei_ga_goukon_de_onee_san_ni_mochikaerareru_hanashi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28651/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 105667,
+        "createdAt": "2021-06-18T12:54:40.000Z",
+        "updatedAt": "2021-12-18T13:21:50.000Z",
         "deletedAt": null
       }
     }

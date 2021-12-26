@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://morning.moae.jp/lineup/167"
+    }
+  ],
   "altTitle": [
     "Little Flower, she is the cat!",
     "ねこのこはな"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:08.000Z",
-  "updatedAt": "2021-06-21T07:24:57.000Z",
+  "updatedAt": "2021-12-21T07:58:08.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,28 +86,6 @@
         "aniId": 95749,
         "createdAt": "2021-04-19T17:44:27.000Z",
         "updatedAt": "2021-11-20T21:48:16.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-jt987254": {
-        "authors": [
-          "Fujisawa Kamiya"
-        ],
-        "identifier": "manga-jt987254",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Neko No Kohana",
-        "url": "https://manganato.com/manga-jt987254",
-        "image": "https://avt.mkklcdnv6temp.com/40/b/22-1606097060.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 92031,
-        "aniId": 95749,
-        "createdAt": "2021-06-21T07:24:47.000Z",
-        "updatedAt": "2021-06-21T07:50:58.000Z",
         "deletedAt": null
       }
     }

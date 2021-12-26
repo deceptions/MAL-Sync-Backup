@@ -22,5 +22,28 @@
   "createdAt": "2021-12-02T23:46:58.000Z",
   "updatedAt": "2021-12-02T23:46:58.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "e6909948-0a4a-4577-9e64-125837045dec": {
+        "authors": [
+          "Yoshikawa Susumu"
+        ],
+        "identifier": "e6909948-0a4a-4577-9e64-125837045dec",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Heroine-kun",
+        "url": "https://mangadex.org/title/e6909948-0a4a-4577-9e64-125837045dec",
+        "image": "https://uploads.mangadex.org/covers/e6909948-0a4a-4577-9e64-125837045dec/77c106bc-45c4-4b0b-9eb4-fbb93cd3e9f4.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100078,
+        "aniId": null,
+        "createdAt": "2021-12-19T08:49:17.000Z",
+        "updatedAt": "2021-12-19T08:49:17.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

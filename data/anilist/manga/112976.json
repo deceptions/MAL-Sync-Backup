@@ -19,7 +19,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-19T16:32:25.000Z",
-  "updatedAt": "2021-07-19T16:32:25.000Z",
+  "updatedAt": "2021-12-25T10:57:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "798829e5-6c3a-489b-ab48-18c2ae29ef0a": {
+        "authors": [
+          "Osaka Hal"
+        ],
+        "identifier": "798829e5-6c3a-489b-ab48-18c2ae29ef0a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "That Beautiful (Man) is \"Loose\"",
+        "url": "https://mangadex.org/title/798829e5-6c3a-489b-ab48-18c2ae29ef0a",
+        "image": "https://uploads.mangadex.org/covers/798829e5-6c3a-489b-ab48-18c2ae29ef0a/cc71e224-d6e3-484b-9029-9a8f49b1ae87.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 112976,
+        "createdAt": "2021-01-09T08:20:41.000Z",
+        "updatedAt": "2021-12-25T19:51:13.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

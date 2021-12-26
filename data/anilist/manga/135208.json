@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-07T22:20:16.000Z",
-  "updatedAt": "2021-06-21T18:31:32.000Z",
+  "updatedAt": "2021-12-21T19:00:18.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-gw984031": {
+        "authors": [
+          "Xiaojuan Xia"
+        ],
+        "identifier": "manga-gw984031",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Flowers Of Fog",
+        "url": "https://manganato.com/manga-gw984031",
+        "image": "https://avt.mkklcdnv6temp.com/10/x/20-1583501452.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 135208,
+        "createdAt": "2021-06-15T17:27:34.000Z",
+        "updatedAt": "2021-12-15T17:49:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

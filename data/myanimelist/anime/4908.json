@@ -31,7 +31,7 @@
   "hentai": false,
   "anidbId": 6172,
   "createdAt": "2020-10-12T15:38:45.000Z",
-  "updatedAt": "2021-10-01T17:37:44.000Z",
+  "updatedAt": "2021-12-21T15:22:38.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -50,6 +50,25 @@
         "aniId": 4908,
         "createdAt": "2020-10-12T15:49:13.000Z",
         "updatedAt": "2021-05-20T15:21:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bihada-ichizoku": {
+        "identifier": "bihada-ichizoku",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bihada Ichizoku",
+        "url": "https://gogoanime.cm/category/bihada-ichizoku",
+        "image": "https://gogocdn.net/cover/bihada-ichizoku.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 4908,
+        "aniId": 4908,
+        "createdAt": "2021-12-21T15:21:47.000Z",
+        "updatedAt": "2021-12-21T15:51:45.000Z",
         "deletedAt": null
       }
     }

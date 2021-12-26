@@ -20,7 +20,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:29.000Z",
-  "updatedAt": "2021-10-30T23:06:22.000Z",
+  "updatedAt": "2021-12-22T15:21:57.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-zf959062": {
+        "authors": [
+          "Watanabe Michiaki"
+        ],
+        "identifier": "manga-zf959062",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Violinist Of Hameln - Shchelkunchik",
+        "url": "https://manganato.com/manga-zf959062",
+        "image": "https://avt.mkklcdnv6temp.com/49/z/5-1583474095.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10677,
+        "aniId": null,
+        "createdAt": "2021-12-22T15:21:56.000Z",
+        "updatedAt": "2021-12-22T15:21:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

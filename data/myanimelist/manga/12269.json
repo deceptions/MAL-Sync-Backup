@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3!"
+    }
+  ],
   "altTitle": [
     "ハンマーセッション！"
   ],
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:44.000Z",
-  "updatedAt": "2021-07-13T15:21:00.000Z",
+  "updatedAt": "2021-12-20T01:50:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,6 +69,30 @@
         "aniId": 42269,
         "createdAt": "2021-05-31T14:53:09.000Z",
         "updatedAt": "2021-12-01T00:44:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "hammer-session": {
+        "authors": [
+          "KOGANEMARU Yamato",
+          "TANAHASHI Namoshiro",
+          "YATSU Hiroyuki"
+        ],
+        "identifier": "hammer-session",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Hammer Session!",
+        "url": "https://mangasee123.com/manga/Hammer-Session",
+        "image": "https://cover.nep.li/cover/Hammer-Session.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12269,
+        "aniId": 42269,
+        "createdAt": "2021-12-20T01:50:09.000Z",
+        "updatedAt": "2021-12-20T02:18:35.000Z",
         "deletedAt": null
       }
     }

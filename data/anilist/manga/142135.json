@@ -17,5 +17,28 @@
   "createdAt": "2021-11-26T19:35:32.000Z",
   "updatedAt": "2021-11-26T19:35:32.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "71c05dbe-2012-4a7b-bc22-4970b7d0afc4": {
+        "authors": [
+          "Haruka Hano"
+        ],
+        "identifier": "71c05dbe-2012-4a7b-bc22-4970b7d0afc4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ani to Imouto no Shitai Shitai Shitai Koto",
+        "url": "https://mangadex.org/title/71c05dbe-2012-4a7b-bc22-4970b7d0afc4",
+        "image": "https://uploads.mangadex.org/covers/71c05dbe-2012-4a7b-bc22-4970b7d0afc4/7460cbba-31fc-483e-897c-d976f4e0bd80.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 142135,
+        "createdAt": "2021-12-25T02:27:55.000Z",
+        "updatedAt": "2021-12-25T02:27:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

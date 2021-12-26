@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.square-enix.com/jp/magazine/top/introduction/detail/9784757518308.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Final_fantasy_12"
+    }
+  ],
   "altTitle": [
     "FFXII",
     "Final Fantasy 12",
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:25.000Z",
-  "updatedAt": "2021-09-13T22:05:02.000Z",
+  "updatedAt": "2021-12-22T01:22:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +47,28 @@
         "aniId": 40002,
         "createdAt": "2020-10-12T16:02:49.000Z",
         "updatedAt": "2021-12-02T09:48:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "final_fantasy_xii": {
+        "authors": [
+          "AMOU Gin"
+        ],
+        "identifier": "final_fantasy_xii",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Final Fantasy XII",
+        "url": "https://fanfox.net/manga/final_fantasy_xii/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6742/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10002,
+        "aniId": 40002,
+        "createdAt": "2021-12-22T01:21:48.000Z",
+        "updatedAt": "2021-12-22T01:51:46.000Z",
         "deletedAt": null
       }
     }

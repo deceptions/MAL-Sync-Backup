@@ -15,7 +15,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-10-29T00:46:07.000Z",
-  "updatedAt": "2021-10-29T00:46:07.000Z",
+  "updatedAt": "2021-12-23T11:52:37.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "c83a3b98-35c7-4f39-a4f6-a602915806a9": {
+        "authors": [
+          "Taino Nikke"
+        ],
+        "identifier": "c83a3b98-35c7-4f39-a4f6-a602915806a9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kiss Shite Sugar-kun!",
+        "url": "https://mangadex.org/title/c83a3b98-35c7-4f39-a4f6-a602915806a9",
+        "image": "https://uploads.mangadex.org/covers/c83a3b98-35c7-4f39-a4f6-a602915806a9/ad77d51d-f91d-47ce-8dbd-6626b8f43fc6.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139246,
+        "aniId": null,
+        "createdAt": "2021-12-25T19:57:56.000Z",
+        "updatedAt": "2021-12-25T19:57:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

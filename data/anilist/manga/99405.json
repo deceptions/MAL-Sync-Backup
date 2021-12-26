@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-01T08:22:55.000Z",
-  "updatedAt": "2021-06-21T13:28:35.000Z",
+  "updatedAt": "2021-12-21T13:56:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,28 @@
         "aniId": 99405,
         "createdAt": "2020-10-12T16:09:52.000Z",
         "updatedAt": "2021-12-04T22:17:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-uy971833": {
+        "authors": [
+          "Sangha"
+        ],
+        "identifier": "manga-uy971833",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "A Bitch And A Punk",
+        "url": "https://manganato.com/manga-uy971833",
+        "image": "https://avt.mkklcdnv6temp.com/2/x/14-1583489790.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 99405,
+        "createdAt": "2021-06-18T17:51:00.000Z",
+        "updatedAt": "2021-12-18T18:20:22.000Z",
         "deletedAt": null
       }
     }

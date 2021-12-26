@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%A1%E3%81%93%E3%81%9F%E3%82%93%E3%80%81%E3%81%93%E3%82%8F%E3%82%8C%E3%82%8B"
+    }
+  ],
   "altTitle": [
     "ちこたん、こわれる"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:09.000Z",
-  "updatedAt": "2021-06-21T07:42:20.000Z",
+  "updatedAt": "2021-12-21T07:58:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,28 +85,6 @@
         "aniId": 99773,
         "createdAt": "2021-03-22T02:04:43.000Z",
         "updatedAt": "2021-11-20T20:14:55.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-mh952616": {
-        "authors": [
-          "Imai Yuu"
-        ],
-        "identifier": "manga-mh952616",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Chikotan, Kowareru",
-        "url": "https://manganato.com/manga-mh952616",
-        "image": "https://avt.mkklcdnv6temp.com/45/t/1-1583465507.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 92194,
-        "aniId": 99773,
-        "createdAt": "2021-06-21T07:42:10.000Z",
-        "updatedAt": "2021-06-21T07:50:58.000Z",
         "deletedAt": null
       }
     }

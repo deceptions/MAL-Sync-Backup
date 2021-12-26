@@ -42,6 +42,28 @@
         "updatedAt": "2021-12-05T20:48:29.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "aiiro_ningyo": {
+        "authors": [
+          "Mira"
+        ],
+        "identifier": "aiiro_ningyo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Aiiro Ningyo",
+        "url": "https://fanfox.net/manga/aiiro_ningyo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18179/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95525,
+        "aniId": 103891,
+        "createdAt": "2021-06-18T12:53:58.000Z",
+        "updatedAt": "2021-12-18T13:49:09.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

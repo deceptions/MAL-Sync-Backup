@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:02.000Z",
-  "updatedAt": "2021-11-13T09:45:19.000Z",
+  "updatedAt": "2021-12-20T18:19:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,28 @@
         "aniId": 95179,
         "createdAt": "2020-10-12T16:09:02.000Z",
         "updatedAt": "2021-12-04T14:55:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kami-to-yobareta-kyuuketsuki": {
+        "authors": [
+          "SAKURAI Umi"
+        ],
+        "identifier": "kami-to-yobareta-kyuuketsuki",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kami to Yobareta Kyuuketsuki",
+        "url": "https://mangasee123.com/manga/Kami-To-Yobareta-Kyuuketsuki",
+        "image": "https://cover.nep.li/cover/Kami-To-Yobareta-Kyuuketsuki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90035,
+        "aniId": 95179,
+        "createdAt": "2021-12-20T18:19:27.000Z",
+        "updatedAt": "2021-12-20T18:48:54.000Z",
         "deletedAt": null
       }
     }

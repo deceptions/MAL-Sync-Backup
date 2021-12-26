@@ -5,19 +5,45 @@
   "identifier": "010abcb5-c705-4dcb-a51d-49b2c518b673",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Gyaru Gamer Homeraretai",
+  "title": "Gyaru Gamer ni Homeraretai",
   "url": "https://mangadex.org/title/010abcb5-c705-4dcb-a51d-49b2c518b673",
   "image": "https://uploads.mangadex.org/covers/010abcb5-c705-4dcb-a51d-49b2c518b673/be050028-1145-4c7d-b724-da6d5e30baa2.png",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 2,
+  "malId": 141584,
   "aniId": 128260,
   "createdAt": "2020-12-17T15:26:01.000Z",
-  "updatedAt": "2021-11-01T23:05:54.000Z",
+  "updatedAt": "2021-12-22T14:36:32.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.webnewtype.com/contents/gyaruhome/"
+      }
+    ],
+    "altTitle": [
+      "I Want to Be Praised by Gal Gamer.",
+      "I Want to Be Praised by a Gal Gamer!",
+      "Gyaru Gamer ni Homeraretai",
+      "ギャルゲーマーに褒められたい"
+    ],
+    "authors": [
+      "Geshumaro"
+    ],
+    "id": 141584,
+    "type": "manga",
+    "title": "Gal Gamer ni Homeraretai",
+    "url": "https://myanimelist.net/manga/141584/Gal_Gamer_ni_Homeraretai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/252612.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-11-21T07:13:29.000Z",
+    "updatedAt": "2021-12-22T08:22:57.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "ギャルゲーマーに褒められたい",
@@ -40,5 +66,5 @@
     "updatedAt": "2021-12-09T21:33:39.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/141584/Gal_Gamer_ni_Homeraretai"
 }

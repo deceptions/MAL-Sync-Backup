@@ -29,7 +29,7 @@
   "hentai": false,
   "anidbId": 10281,
   "createdAt": "2020-10-12T15:39:23.000Z",
-  "updatedAt": "2021-10-02T20:34:23.000Z",
+  "updatedAt": "2021-12-20T01:18:58.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -65,6 +65,25 @@
         "aniId": 20548,
         "createdAt": "2020-10-12T15:56:09.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "disk-wars-avengers": {
+        "identifier": "disk-wars-avengers",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Disk Wars: Avengers",
+        "url": "https://gogoanime.cm/category/disk-wars-avengers",
+        "image": "https://gogocdn.net/images/spring/Disk Wars Avengers.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 21013,
+        "aniId": 20548,
+        "createdAt": "2021-12-20T01:18:56.000Z",
+        "updatedAt": "2021-12-20T14:18:45.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-06-08T12:55:21.000Z",
-  "updatedAt": "2021-11-09T06:14:16.000Z",
+  "updatedAt": "2021-12-21T04:51:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-kq987899": {
+        "authors": [
+          "Okmgmk (中山幸)",
+          "Nakayama Miyuki"
+        ],
+        "identifier": "manga-kq987899",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shota Oni",
+        "url": "https://manganato.com/manga-kq987899",
+        "image": "https://avt.mkklcdnv6temp.com/16/p/23-1612194529.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 135251,
+        "createdAt": "2021-06-18T17:21:01.000Z",
+        "updatedAt": "2021-12-18T17:51:21.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

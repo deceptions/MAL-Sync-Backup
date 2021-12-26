@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC_%28%E6%BC%AB%E7%94%BB%29"
+    }
+  ],
   "altTitle": [
     "Masked Rider",
     "仮面ライダー"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:01.000Z",
-  "updatedAt": "2021-06-21T17:45:39.000Z",
+  "updatedAt": "2021-12-21T17:51:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -78,28 +83,6 @@
         "aniId": 34751,
         "createdAt": "2020-10-12T16:18:35.000Z",
         "updatedAt": "2021-12-07T18:47:26.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "kamen-rider": {
-        "authors": [
-          "ISHINOMORI Shotaro"
-        ],
-        "identifier": "kamen-rider",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Kamen Rider",
-        "url": "https://mangasee123.com/manga/Kamen-Rider",
-        "image": "https://cover.nep.li/cover/Kamen-Rider.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 4751,
-        "aniId": 34751,
-        "createdAt": "2021-06-21T17:45:39.000Z",
-        "updatedAt": "2021-06-21T18:14:53.000Z",
         "deletedAt": null
       }
     }

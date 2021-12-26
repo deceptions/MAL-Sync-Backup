@@ -16,5 +16,28 @@
   "createdAt": "2021-12-06T17:17:54.000Z",
   "updatedAt": "2021-12-06T17:17:54.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "8979aead-3271-471f-8947-4b134ae43bc1": {
+        "authors": [
+          "Serino Yuna"
+        ],
+        "identifier": "8979aead-3271-471f-8947-4b134ae43bc1",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "CLOSE PLAY",
+        "url": "https://mangadex.org/title/8979aead-3271-471f-8947-4b134ae43bc1",
+        "image": "https://uploads.mangadex.org/covers/8979aead-3271-471f-8947-4b134ae43bc1/112f565e-ad60-4732-8097-1adc601bac4d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 105759,
+        "aniId": null,
+        "createdAt": "2021-12-25T20:27:34.000Z",
+        "updatedAt": "2021-12-25T20:27:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

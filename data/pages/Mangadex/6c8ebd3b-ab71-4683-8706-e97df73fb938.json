@@ -11,13 +11,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 142585,
+  "aniId": 142603,
   "createdAt": "2021-12-11T01:03:39.000Z",
-  "updatedAt": "2021-12-11T01:03:39.000Z",
+  "updatedAt": "2021-12-19T19:18:36.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://web-ace.jp/shonenace/contents/560/"
+      }
+    ],
+    "altTitle": [
+      "The Woman Who Messes with My Emotions",
+      "情緒をめちゃくちゃにしてくる女"
+    ],
+    "authors": [
+      "Semimaru"
+    ],
+    "id": 142585,
+    "type": "manga",
+    "title": "Joucho wo Mechakucha ni Shitekuru Onna",
+    "url": "https://myanimelist.net/manga/142585/Joucho_wo_Mechakucha_ni_Shitekuru_Onna",
+    "image": "https://cdn.myanimelist.net/images/manga/3/253490.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-19T06:19:27.000Z",
+    "updatedAt": "2021-12-19T06:19:27.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "情緒をめちゃくちゃにしてくる女",
+      "The Woman Who Messes with My Emotions",
+      "A Woman Who Will Mess Up My Emotions"
+    ],
+    "externalLinks": [],
+    "authors": [
+      " semimaru"
+    ],
+    "id": 142603,
+    "malId": 142585,
+    "type": "manga",
+    "title": "Joucho wo Mechakuchani Shitekuru Onna",
+    "url": "https://anilist.co/manga/142603",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142603-iZAtTW9huU5H.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-11T21:33:52.000Z",
+    "updatedAt": "2021-12-19T18:18:36.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/142585/Joucho_wo_Mechakucha_ni_Shitekuru_Onna"
 }

@@ -12,14 +12,19 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 2,
+  "actor": null,
   "malId": 131070,
   "aniId": 125619,
   "createdAt": "2021-01-06T15:07:54.000Z",
-  "updatedAt": "2021-07-18T11:37:29.000Z",
+  "updatedAt": "2021-12-24T09:51:59.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://shonen-sirius.com/series/w_sirius/isekaikansen/"
+      }
+    ],
     "altTitle": [
       "ウイルス転生から始まる異世界感染物語"
     ],
@@ -35,11 +40,12 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-04-28T14:19:40.000Z",
-    "updatedAt": "2021-07-18T05:02:25.000Z",
+    "updatedAt": "2021-12-24T09:52:38.000Z",
     "deletedAt": null
   },
   "Anilist": {
     "altTitle": [
+      "It’s That Reincarnated-as-a-Virus Story",
       "ウイルス転生から始まる異世界感染物語"
     ],
     "externalLinks": [],
@@ -56,7 +62,7 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-22T14:13:40.000Z",
-    "updatedAt": "2021-07-20T11:17:06.000Z",
+    "updatedAt": "2021-12-22T23:51:47.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/131070/Virus_Tensei_kara_Hajimaru_Isekai_Kansen_Monogatari"

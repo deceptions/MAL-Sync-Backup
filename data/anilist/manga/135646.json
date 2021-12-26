@@ -18,5 +18,29 @@
   "createdAt": "2021-08-30T07:36:35.000Z",
   "updatedAt": "2021-08-30T07:36:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "091e2824-92ed-4f41-8640-fa5d2dd24f6b": {
+        "authors": [
+          "Handa Hotori",
+          "Yutoto"
+        ],
+        "identifier": "091e2824-92ed-4f41-8640-fa5d2dd24f6b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Murdist: Shikeishuu Kazami Tazuru",
+        "url": "https://mangadex.org/title/091e2824-92ed-4f41-8640-fa5d2dd24f6b",
+        "image": "https://uploads.mangadex.org/covers/091e2824-92ed-4f41-8640-fa5d2dd24f6b/f8668d85-f65d-4ece-b5c5-1f3bd40b24f7.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139953,
+        "aniId": 135646,
+        "createdAt": "2021-12-24T13:27:55.000Z",
+        "updatedAt": "2021-12-24T13:27:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

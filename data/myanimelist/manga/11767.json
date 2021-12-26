@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://go-dessert.jp/kc/sukinayo/index.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A5%BD%E3%81%8D%E3%81%A3%E3%81%A6%E3%81%84%E3%81%84%E3%81%AA%E3%82%88%E3%80%82"
+    }
+  ],
   "altTitle": [
     "Say I Love You.",
     "Sukitte Ii na yo.",
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:39.000Z",
-  "updatedAt": "2021-06-24T01:45:55.000Z",
+  "updatedAt": "2021-12-24T01:51:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,26 +69,6 @@
         "aniId": 41767,
         "createdAt": "2021-01-22T15:04:16.000Z",
         "updatedAt": "2021-11-20T17:45:38.000Z",
-        "deletedAt": null
-      },
-      "sukitte_ii_na_yo": {
-        "authors": [
-          "HAZUKI Kanae"
-        ],
-        "identifier": "sukitte_ii_na_yo",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Suki tte Ii na yo.",
-        "url": "https://fanfox.net/manga/sukitte_ii_na_yo/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/5152/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 11767,
-        "aniId": 41767,
-        "createdAt": "2021-06-24T01:44:53.000Z",
-        "updatedAt": "2021-06-24T02:14:53.000Z",
         "deletedAt": null
       }
     },

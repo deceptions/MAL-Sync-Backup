@@ -40,6 +40,29 @@
         "updatedAt": "2021-12-08T06:08:42.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "blood-rain": {
+        "authors": [
+          "Baek Seung Hoon",
+          "Min"
+        ],
+        "identifier": "blood-rain",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Blood Rain",
+        "url": "https://mangasee123.com/manga/Blood-Rain",
+        "image": "https://cover.nep.li/cover/Blood-Rain.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 117657,
+        "aniId": 99618,
+        "createdAt": "2021-06-16T04:58:02.000Z",
+        "updatedAt": "2021-12-16T05:48:24.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

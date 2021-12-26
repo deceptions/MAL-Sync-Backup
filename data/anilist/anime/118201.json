@@ -15,5 +15,44 @@
   "createdAt": "2021-07-08T14:13:16.000Z",
   "updatedAt": "2021-12-01T07:05:34.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "3rq02": {
+        "identifier": "3rq02",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Zi Chuan",
+        "url": "https://9anime.to/watch/purple-river.3rq02",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/9f/9fe2abf5d82c5e0d3101592b0c5f9823.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44389,
+        "aniId": 118201,
+        "createdAt": "2021-12-21T10:51:57.000Z",
+        "updatedAt": "2021-12-21T11:21:46.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "zi-chuan": {
+        "identifier": "zi-chuan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Zi Chuan",
+        "url": "https://gogoanime.cm/category/zi-chuan",
+        "image": "https://gogocdn.net/cover/zi-chuan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44389,
+        "aniId": 118201,
+        "createdAt": "2021-12-22T08:22:58.000Z",
+        "updatedAt": "2021-12-22T08:51:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

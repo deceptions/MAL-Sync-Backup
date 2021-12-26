@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:49.000Z",
-  "updatedAt": "2021-11-03T02:06:51.000Z",
+  "updatedAt": "2021-12-20T01:19:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 50279,
         "createdAt": "2020-10-12T16:04:33.000Z",
         "updatedAt": "2021-12-02T22:17:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "grape-pine": {
+        "authors": [
+          "FURUKAWA Shiori"
+        ],
+        "identifier": "grape-pine",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Grape Pine",
+        "url": "https://mangasee123.com/manga/Grape-Pine",
+        "image": "https://cover.nep.li/cover/Grape-Pine.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20279,
+        "aniId": 50279,
+        "createdAt": "2021-12-20T01:19:11.000Z",
+        "updatedAt": "2021-12-20T01:48:35.000Z",
         "deletedAt": null
       }
     }

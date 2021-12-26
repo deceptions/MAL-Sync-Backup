@@ -19,5 +19,28 @@
   "createdAt": "2021-11-06T08:04:20.000Z",
   "updatedAt": "2021-11-06T08:04:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-fx982706": {
+        "authors": [
+          "Hazuki Natsu"
+        ],
+        "identifier": "manga-fx982706",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Usotsuki Na Tsugai",
+        "url": "https://manganato.com/manga-fx982706",
+        "image": "https://avt.mkklcdnv6temp.com/38/l/24-1629889327.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 127155,
+        "aniId": 118365,
+        "createdAt": "2021-12-23T22:51:58.000Z",
+        "updatedAt": "2021-12-24T10:57:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

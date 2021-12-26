@@ -20,5 +20,28 @@
   "createdAt": "2021-06-14T03:09:31.000Z",
   "updatedAt": "2021-11-08T18:13:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-kz987408": {
+        "authors": [
+          "Updating"
+        ],
+        "identifier": "manga-kz987408",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Empress Mother",
+        "url": "https://manganato.com/manga-kz987408",
+        "image": "https://avt.mkklcdnv6temp.com/46/n/22-1608223351.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 133031,
+        "createdAt": "2021-05-31T14:53:50.000Z",
+        "updatedAt": "2021-12-14T07:20:15.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

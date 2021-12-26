@@ -19,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:45.000Z",
-  "updatedAt": "2021-11-12T03:44:27.000Z",
+  "updatedAt": "2021-12-19T06:49:26.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,26 +42,6 @@
         "createdAt": "2020-10-12T16:02:32.000Z",
         "updatedAt": "2021-12-02T07:47:27.000Z",
         "deletedAt": null
-      },
-      "2ff2dd5a-2798-4fd4-b090-7a16286f892e": {
-        "authors": [
-          "Srinitybeast"
-        ],
-        "identifier": "2ff2dd5a-2798-4fd4-b090-7a16286f892e",
-        "type": "manga",
-        "page": "Mangadex",
-        "title": "Overdrive",
-        "url": "https://mangadex.org/title/2ff2dd5a-2798-4fd4-b090-7a16286f892e",
-        "image": "https://uploads.mangadex.org/covers/2ff2dd5a-2798-4fd4-b090-7a16286f892e/c620a70c-1e12-4ae1-b6df-f27f885e577f.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 2720,
-        "aniId": 32720,
-        "createdAt": "2020-10-12T16:14:15.000Z",
-        "updatedAt": "2021-12-06T03:48:11.000Z",
-        "deletedAt": null
       }
     },
     "MangaSee": {
@@ -83,6 +63,28 @@
         "aniId": 32720,
         "createdAt": "2021-03-19T10:34:35.000Z",
         "updatedAt": "2021-11-20T19:45:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mm952621": {
+        "authors": [
+          "Yasuda Tsuyoshi"
+        ],
+        "identifier": "manga-mm952621",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Over Drive",
+        "url": "https://manganato.com/manga-mm952621",
+        "image": "https://avt.mkklcdnv6temp.com/45/y/1-1583465514.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2720,
+        "aniId": 32720,
+        "createdAt": "2021-12-19T06:49:25.000Z",
+        "updatedAt": "2021-12-19T07:18:35.000Z",
         "deletedAt": null
       }
     }

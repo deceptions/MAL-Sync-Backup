@@ -22,5 +22,28 @@
   "createdAt": "2021-05-30T10:12:13.000Z",
   "updatedAt": "2021-11-23T21:36:38.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-cq979925": {
+        "authors": [
+          "Leyou Yinghua"
+        ],
+        "identifier": "manga-cq979925",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Supreme Demon",
+        "url": "https://readmanganato.com/manga-cq979925",
+        "image": "https://avt.mkklcdnv6temp.com/9/s/17-1583495613.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 111151,
+        "createdAt": "2021-06-18T22:20:50.000Z",
+        "updatedAt": "2021-12-18T22:48:30.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

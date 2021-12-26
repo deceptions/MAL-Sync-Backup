@@ -23,5 +23,29 @@
   "createdAt": "2020-10-12T15:40:35.000Z",
   "updatedAt": "2021-12-18T14:18:40.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-cn979770": {
+        "authors": [
+          "Takuma Tomomasa",
+          "Mizuno Ryo"
+        ],
+        "identifier": "manga-cn979770",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Lodess-Tou Senki - Haiiro No Majo",
+        "url": "https://manganato.com/manga-cn979770",
+        "image": "https://avt.mkklcdnv6temp.com/4/b/17-1583495407.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1618,
+        "aniId": 31618,
+        "createdAt": "2021-06-18T13:50:49.000Z",
+        "updatedAt": "2021-12-18T14:49:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

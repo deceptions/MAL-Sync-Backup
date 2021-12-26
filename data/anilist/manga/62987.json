@@ -39,6 +39,28 @@
         "updatedAt": "2021-12-02T13:18:58.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "tron_legacy": {
+        "authors": [
+          "WASHIO Naohiro"
+        ],
+        "identifier": "tron_legacy",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tron: Legacy",
+        "url": "https://fanfox.net/manga/tron_legacy/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9676/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 32987,
+        "aniId": 62987,
+        "createdAt": "2021-12-19T17:48:39.000Z",
+        "updatedAt": "2021-12-19T18:18:36.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

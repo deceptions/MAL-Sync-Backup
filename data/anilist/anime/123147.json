@@ -18,5 +18,44 @@
   "createdAt": "2021-07-31T17:21:50.000Z",
   "updatedAt": "2021-07-31T17:21:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "tian-shu-qi-tan": {
+        "identifier": "tian-shu-qi-tan",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tian Shu Qi Tan",
+        "url": "https://gogoanime.cm/category/tian-shu-qi-tan",
+        "image": "https://gogocdn.net/cover/tian-shu-qi-tan.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37228,
+        "aniId": 123147,
+        "createdAt": "2021-12-21T15:23:10.000Z",
+        "updatedAt": "2021-12-21T15:51:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "6llkz": {
+        "identifier": "6llkz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tianshu Qi Tan",
+        "url": "https://9anime.to/watch/legend-of-sealed-book.6llkz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/2/29/2997ad9449d357f19d42d3d1259aaabd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 37228,
+        "aniId": 123147,
+        "createdAt": "2021-12-21T17:22:16.000Z",
+        "updatedAt": "2021-12-21T17:51:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

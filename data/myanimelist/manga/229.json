@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%98%E3%83%83%E3%83%89"
+    }
+  ],
   "altTitle": [
     "Dragon Head",
     "ドラゴンヘッド"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:19.000Z",
-  "updatedAt": "2021-07-24T12:51:56.000Z",
+  "updatedAt": "2021-12-19T03:19:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +86,28 @@
         "aniId": 30229,
         "createdAt": "2021-05-29T13:42:33.000Z",
         "updatedAt": "2021-11-29T14:36:40.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dragon_head": {
+        "authors": [
+          "MOCHIZUKI Minetaro"
+        ],
+        "identifier": "dragon_head",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dragon Head",
+        "url": "https://fanfox.net/manga/dragon_head/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2874/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 229,
+        "aniId": 30229,
+        "createdAt": "2021-12-19T03:19:27.000Z",
+        "updatedAt": "2021-12-19T03:48:35.000Z",
         "deletedAt": null
       }
     }

@@ -27,7 +27,7 @@
   "hentai": false,
   "anidbId": 15576,
   "createdAt": "2020-10-12T15:40:15.000Z",
-  "updatedAt": "2021-10-04T07:33:54.000Z",
+  "updatedAt": "2021-12-20T14:19:39.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -46,6 +46,25 @@
         "aniId": 114555,
         "createdAt": "2020-10-12T15:51:28.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "wan-sheng-jie": {
+        "identifier": "wan-sheng-jie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Wan Sheng Jie",
+        "url": "https://gogoanime.cm/category/wan-sheng-jie",
+        "image": "https://gogocdn.net/cover/wan-sheng-jie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 41611,
+        "aniId": 114555,
+        "createdAt": "2020-10-12T16:02:14.000Z",
+        "updatedAt": "2021-12-21T16:21:45.000Z",
         "deletedAt": null
       }
     }

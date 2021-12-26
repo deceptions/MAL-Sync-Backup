@@ -20,5 +20,28 @@
   "createdAt": "2021-05-23T05:13:31.000Z",
   "updatedAt": "2021-11-22T01:12:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-jk986493": {
+        "authors": [
+          "Kim Chon-Ji"
+        ],
+        "identifier": "manga-jk986493",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Chef Hides His Blessing",
+        "url": "https://readmanganato.com/manga-jk986493",
+        "image": "https://avt.mkklcdnv6temp.com/9/d/22-1599238716.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 126854,
+        "createdAt": "2021-06-17T12:32:48.000Z",
+        "updatedAt": "2021-12-17T12:51:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

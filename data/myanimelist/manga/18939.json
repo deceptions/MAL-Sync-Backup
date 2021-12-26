@@ -93,6 +93,28 @@
         "updatedAt": "2021-12-03T15:50:50.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "yasashii_sekai_no_tsukurikata": {
+        "authors": [
+          "TAKEBA Kumiko"
+        ],
+        "identifier": "yasashii_sekai_no_tsukurikata",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yasashii Sekai no Tsukurikata",
+        "url": "https://fanfox.net/manga/yasashii_sekai_no_tsukurikata/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7373/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 18939,
+        "aniId": 48939,
+        "createdAt": "2021-06-14T02:38:40.000Z",
+        "updatedAt": "2021-12-14T03:18:46.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

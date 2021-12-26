@@ -49,6 +49,29 @@
         "updatedAt": "2021-12-02T21:17:48.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "getter-robo-arc": {
+        "authors": [
+          "ISHIKAWA Ken",
+          "NAGAI Go"
+        ],
+        "identifier": "getter-robo-arc",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Getter Robo Arc",
+        "url": "https://mangasee123.com/manga/Getter-Robo-Arc",
+        "image": "https://cover.nep.li/cover/Getter-Robo-Arc.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15359,
+        "aniId": 45359,
+        "createdAt": "2021-06-14T00:09:35.000Z",
+        "updatedAt": "2021-12-14T00:48:24.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

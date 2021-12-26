@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 132119,
-  "aniId": null,
+  "aniId": 120739,
   "createdAt": "2021-02-14T03:06:28.000Z",
-  "updatedAt": "2021-12-08T12:35:51.000Z",
+  "updatedAt": "2021-12-21T16:51:46.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -41,6 +41,27 @@
     "updatedAt": "2021-12-08T11:34:49.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "いとやんごとなき",
+      "Very Very Toutoi",
+      "達光貴人"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shouta Komatsu"
+    ],
+    "id": 120739,
+    "malId": 132119,
+    "type": "manga",
+    "title": "Itoyango to Naki",
+    "url": "https://anilist.co/manga/120739",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120739-ktW7ZstlYaaj.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-27T18:28:43.000Z",
+    "updatedAt": "2021-12-21T16:23:26.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/132119/Ito_Yangotonaki"
 }

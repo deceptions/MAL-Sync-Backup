@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:48.000Z",
-  "updatedAt": "2021-10-31T13:05:00.000Z",
+  "updatedAt": "2021-12-20T18:19:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,28 @@
         "aniId": 42709,
         "createdAt": "2020-10-12T16:06:28.000Z",
         "updatedAt": "2021-12-03T20:17:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kekkou-kamen": {
+        "authors": [
+          "NAGAI Go"
+        ],
+        "identifier": "kekkou-kamen",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kekkou Kamen",
+        "url": "https://mangasee123.com/manga/Kekkou-Kamen",
+        "image": "https://cover.nep.li/cover/Kekkou-Kamen.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12709,
+        "aniId": 42709,
+        "createdAt": "2021-12-20T18:19:36.000Z",
+        "updatedAt": "2021-12-20T18:48:54.000Z",
         "deletedAt": null
       }
     }

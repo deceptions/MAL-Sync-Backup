@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/2001%E5%A4%9C%E7%89%A9%E8%AA%9E"
+    }
+  ],
   "altTitle": [
     "2001 Nights",
     "2001夜物語"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:17.000Z",
-  "updatedAt": "2021-06-21T16:47:02.000Z",
+  "updatedAt": "2021-12-21T16:52:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,28 +42,6 @@
         "aniId": 30067,
         "createdAt": "2020-10-12T16:11:31.000Z",
         "updatedAt": "2021-12-05T09:24:31.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-pn960670": {
-        "authors": [
-          "Hoshino Yukinobu"
-        ],
-        "identifier": "manga-pn960670",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "2001 Nights",
-        "url": "https://readmanganato.com/manga-pn960670",
-        "image": "https://avt.mkklcdnv6temp.com/10/h/7-1583476682.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 67,
-        "aniId": 30067,
-        "createdAt": "2021-06-21T16:46:52.000Z",
-        "updatedAt": "2021-06-21T17:14:51.000Z",
         "deletedAt": null
       }
     }

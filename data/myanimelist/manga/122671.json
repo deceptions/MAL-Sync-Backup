@@ -22,5 +22,28 @@
   "createdAt": "2020-10-27T05:12:42.000Z",
   "updatedAt": "2021-12-18T03:18:58.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "my-father-is-a-unicorn": {
+        "authors": [
+          "SUZUKI Monaka"
+        ],
+        "identifier": "my-father-is-a-unicorn",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "My Father is a Unicorn",
+        "url": "https://mangasee123.com/manga/My-Father-is-a-Unicorn",
+        "image": "https://cover.nep.li/cover/My-Father-is-a-Unicorn.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122671,
+        "aniId": null,
+        "createdAt": "2021-06-18T02:51:16.000Z",
+        "updatedAt": "2021-12-18T03:18:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

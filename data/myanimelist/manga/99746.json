@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/BLAZBLUE"
+    }
+  ],
   "altTitle": [
     "BlazBlue VH",
     "BLAZBLUE VARIABLE HEART"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:34.000Z",
-  "updatedAt": "2021-06-22T03:15:18.000Z",
+  "updatedAt": "2021-12-22T03:22:17.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,29 +45,6 @@
         "aniId": 97705,
         "createdAt": "2020-10-12T16:10:05.000Z",
         "updatedAt": "2021-12-04T22:19:29.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "blazblue---variable-heart": {
-        "authors": [
-          "MORI Toshimichi",
-          "SUMERAGI"
-        ],
-        "identifier": "blazblue---variable-heart",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "BlazBlue - Variable Heart",
-        "url": "https://mangasee123.com/manga/Blazblue---Variable-Heart",
-        "image": "https://cover.nep.li/cover/Blazblue---Variable-Heart.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 99746,
-        "aniId": 97705,
-        "createdAt": "2021-06-22T03:15:17.000Z",
-        "updatedAt": "2021-06-22T03:44:51.000Z",
         "deletedAt": null
       }
     },

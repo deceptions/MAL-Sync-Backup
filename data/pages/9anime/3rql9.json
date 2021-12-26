@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 42246,
-  "aniId": null,
+  "aniId": 121039,
   "createdAt": "2021-08-15T12:37:30.000Z",
-  "updatedAt": "2021-08-15T12:37:34.000Z",
+  "updatedAt": "2021-12-25T12:27:34.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -36,6 +36,22 @@
     "updatedAt": "2021-10-04T08:08:04.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "S＝13"
+    ],
+    "externalLinks": [],
+    "id": 121039,
+    "malId": 42246,
+    "type": "anime",
+    "title": "S＝13",
+    "url": "https://anilist.co/anime/121039",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121039-mELVhGgmMT6r.png",
+    "category": "movie",
+    "hentai": false,
+    "createdAt": "2021-12-25T11:57:34.000Z",
+    "updatedAt": "2021-12-25T11:57:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/42246/S_13"
 }

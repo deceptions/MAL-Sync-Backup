@@ -22,5 +22,28 @@
   "createdAt": "2020-11-06T15:28:17.000Z",
   "updatedAt": "2021-12-15T11:50:16.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "houchou-mushuku-shoubu-tabi": {
+        "authors": [
+          "TSUCHIYAMA Shigeru"
+        ],
+        "identifier": "houchou-mushuku-shoubu-tabi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Battles Of The Wandering Chef",
+        "url": "https://mangasee123.com/manga/Houchou-Mushuku-Shoubu-Tabi",
+        "image": "https://cover.nep.li/cover/Houchou-Mushuku-Shoubu-Tabi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121279,
+        "aniId": 114846,
+        "createdAt": "2021-06-15T11:27:36.000Z",
+        "updatedAt": "2021-12-15T12:18:24.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

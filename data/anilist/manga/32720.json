@@ -54,11 +54,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
-        "malId": 2720,
+        "actor": 2,
+        "malId": null,
         "aniId": 32720,
         "createdAt": "2020-10-12T16:14:15.000Z",
-        "updatedAt": "2021-12-06T03:48:11.000Z",
+        "updatedAt": "2021-12-19T19:16:34.000Z",
         "deletedAt": null
       }
     },
@@ -81,6 +81,28 @@
         "aniId": 32720,
         "createdAt": "2021-03-19T10:34:35.000Z",
         "updatedAt": "2021-11-20T19:45:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mm952621": {
+        "authors": [
+          "Yasuda Tsuyoshi"
+        ],
+        "identifier": "manga-mm952621",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Over Drive",
+        "url": "https://manganato.com/manga-mm952621",
+        "image": "https://avt.mkklcdnv6temp.com/45/y/1-1583465514.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2720,
+        "aniId": 32720,
+        "createdAt": "2021-12-19T06:49:25.000Z",
+        "updatedAt": "2021-12-19T07:18:35.000Z",
         "deletedAt": null
       }
     }

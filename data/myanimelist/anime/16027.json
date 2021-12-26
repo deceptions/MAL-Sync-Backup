@@ -26,7 +26,46 @@
   "hentai": false,
   "anidbId": 7941,
   "createdAt": "2020-10-12T15:39:16.000Z",
-  "updatedAt": "2021-10-02T16:01:44.000Z",
+  "updatedAt": "2021-12-23T08:53:29.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "yqqx1": {
+        "identifier": "yqqx1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Greek Roman Sinhwa: Olympus Guardian",
+        "url": "https://9anime.to/watch/greek-roman-sinhwa-olympus-guardian.yqqx1",
+        "image": "https://static.bunnycdn.ru/i/cache/images/1/12/12a14a9000fe303e3ded385ca0fea4b5.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16027,
+        "aniId": 16027,
+        "createdAt": "2021-12-23T08:52:37.000Z",
+        "updatedAt": "2021-12-23T09:21:46.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "greek-roman-sinhwa-olympus-guardian": {
+        "identifier": "greek-roman-sinhwa-olympus-guardian",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Greek Roman Sinhwa: Olympus Guardian",
+        "url": "https://gogoanime.cm/category/greek-roman-sinhwa-olympus-guardian",
+        "image": "https://gogocdn.net/cover/greek-roman-sinhwa-olympus-guardian.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16027,
+        "aniId": 16027,
+        "createdAt": "2021-12-24T08:52:17.000Z",
+        "updatedAt": "2021-12-24T09:21:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -50,6 +50,51 @@
         "updatedAt": "2021-12-03T18:19:40.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-mv963656": {
+        "authors": [
+          "Koshigaya Osamu"
+        ],
+        "identifier": "manga-mv963656",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kaidan Tochuu No Big Noise",
+        "url": "https://manganato.com/manga-mv963656",
+        "image": "https://avt.mkklcdnv6temp.com/5/y/9-1583480326.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49969,
+        "aniId": 79969,
+        "createdAt": "2021-06-18T15:51:11.000Z",
+        "updatedAt": "2021-12-18T16:48:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kaidan-tochuu-no-big-noise": {
+        "authors": [
+          "KAMEYA Itsuki",
+          "KOSHIGAYA Osamu"
+        ],
+        "identifier": "kaidan-tochuu-no-big-noise",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kaidan Tochuu no Big Noise",
+        "url": "https://mangasee123.com/manga/Kaidan-Tochuu-No-Big-Noise",
+        "image": "https://cover.nep.li/cover/Kaidan-Tochuu-No-Big-Noise.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49969,
+        "aniId": 79969,
+        "createdAt": "2021-12-20T04:19:04.000Z",
+        "updatedAt": "2021-12-20T04:48:35.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

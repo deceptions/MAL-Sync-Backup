@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:11.000Z",
-  "updatedAt": "2021-11-19T23:44:44.000Z",
+  "updatedAt": "2021-12-21T05:52:47.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 102195,
         "createdAt": "2020-10-12T16:12:02.000Z",
         "updatedAt": "2021-12-05T13:18:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "buchimaru_chaos": {
+        "authors": [
+          "OHNO Tsutomu"
+        ],
+        "identifier": "buchimaru_chaos",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Buchimaru Chaos",
+        "url": "https://fanfox.net/manga/buchimaru_chaos/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27655/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108904,
+        "aniId": 102195,
+        "createdAt": "2021-12-21T05:52:39.000Z",
+        "updatedAt": "2021-12-21T06:21:46.000Z",
         "deletedAt": null
       }
     }

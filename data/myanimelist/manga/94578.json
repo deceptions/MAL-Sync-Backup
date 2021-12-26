@@ -24,5 +24,28 @@
   "createdAt": "2021-05-29T07:43:43.000Z",
   "updatedAt": "2021-11-29T08:07:36.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "fist_of_legend": {
+        "authors": [
+          "LEE Jong-Kyu"
+        ],
+        "identifier": "fist_of_legend",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Fist of Legend",
+        "url": "https://fanfox.net/manga/fist_of_legend/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8947/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94578,
+        "aniId": null,
+        "createdAt": "2021-12-25T19:57:55.000Z",
+        "updatedAt": "2021-12-25T19:57:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

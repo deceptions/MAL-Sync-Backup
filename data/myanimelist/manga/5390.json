@@ -22,7 +22,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-04-28T13:19:41.000Z",
-  "updatedAt": "2021-10-28T13:49:01.000Z",
+  "updatedAt": "2021-12-20T20:19:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-uv961230": {
+        "authors": [
+          "Key"
+        ],
+        "identifier": "manga-uv961230",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Clannad - 4-Koma Manga Theater",
+        "url": "https://readmanganato.com/manga-uv961230",
+        "image": "https://avt.mkklcdnv6temp.com/30/j/7-1583477413.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5390,
+        "aniId": 35390,
+        "createdAt": "2021-12-20T20:18:54.000Z",
+        "updatedAt": "2021-12-20T20:48:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

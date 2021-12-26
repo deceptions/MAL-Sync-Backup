@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://cookie.shueisha.co.jp/story/03.html"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%83%E3%83%89%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%AB"
+    }
+  ],
   "altTitle": [
     "グッドモーニング・キス"
   ],
@@ -14,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:37.000Z",
-  "updatedAt": "2021-09-23T23:15:35.000Z",
+  "updatedAt": "2021-12-23T03:22:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +67,28 @@
         "aniId": 31775,
         "createdAt": "2021-07-28T18:54:16.000Z",
         "updatedAt": "2021-07-28T19:21:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-nz964634": {
+        "authors": [
+          "Takasuka Yue"
+        ],
+        "identifier": "manga-nz964634",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Good Morning Kiss",
+        "url": "https://manganato.com/manga-nz964634",
+        "image": "https://avt.mkklcdnv6temp.com/35/c/9-1583481519.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1775,
+        "aniId": 31775,
+        "createdAt": "2021-12-23T03:22:08.000Z",
+        "updatedAt": "2021-12-23T03:51:46.000Z",
         "deletedAt": null
       }
     }

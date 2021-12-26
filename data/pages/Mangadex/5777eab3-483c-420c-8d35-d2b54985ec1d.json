@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": 111740,
-  "aniId": null,
+  "aniId": 103186,
   "createdAt": "2020-10-12T16:13:16.000Z",
-  "updatedAt": "2021-12-05T20:19:18.000Z",
+  "updatedAt": "2021-12-22T21:34:35.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ヒソカの過去",
+      "Hisoka Origin Story",
+      "Hisoka's Past"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sui Ishida",
+      "Yoshihiro Togashi"
+    ],
+    "id": 103186,
+    "malId": null,
+    "type": "manga",
+    "title": "Hisoka no Kako",
+    "url": "https://anilist.co/manga/103186",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103186-KchtSwVTCJRg.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-05-24T15:38:22.000Z",
+    "updatedAt": "2021-12-21T14:01:38.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

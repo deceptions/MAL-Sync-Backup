@@ -19,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:26.000Z",
-  "updatedAt": "2021-10-30T18:35:40.000Z",
+  "updatedAt": "2021-12-20T03:20:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,28 @@
         "aniId": 40105,
         "createdAt": "2020-10-12T16:04:03.000Z",
         "updatedAt": "2021-12-02T18:47:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "inumarudashi": {
+        "authors": [
+          "OOISHI Kouji"
+        ],
+        "identifier": "inumarudashi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Inumarudashi",
+        "url": "https://mangasee123.com/manga/Inumarudashi",
+        "image": "https://cover.nep.li/cover/Inumarudashi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 10105,
+        "aniId": 40105,
+        "createdAt": "2021-12-20T03:20:31.000Z",
+        "updatedAt": "2021-12-20T03:48:35.000Z",
         "deletedAt": null
       }
     }

@@ -21,5 +21,29 @@
   "createdAt": "2021-09-18T00:10:42.000Z",
   "updatedAt": "2021-12-09T01:03:38.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "6cfc0541-41e2-4f77-8340-971fdc15bacc": {
+        "authors": [
+          "Tika Tika",
+          "Yuya"
+        ],
+        "identifier": "6cfc0541-41e2-4f77-8340-971fdc15bacc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Into the Light Once Again",
+        "url": "https://mangadex.org/title/6cfc0541-41e2-4f77-8340-971fdc15bacc",
+        "image": "https://uploads.mangadex.org/covers/6cfc0541-41e2-4f77-8340-971fdc15bacc/ff34a499-540d-4b3c-aae1-5be48bc2448c.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 139339,
+        "createdAt": "2021-10-12T11:44:59.000Z",
+        "updatedAt": "2021-12-21T13:57:11.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

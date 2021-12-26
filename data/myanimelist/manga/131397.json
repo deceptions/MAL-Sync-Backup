@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://magazine.jp.square-enix.com/mangaup/original/seijonohazuga/"
+    }
+  ],
   "altTitle": [
     "I Was Supposed to Be the Saint, but I Was Robbed the Position, Apparently...",
     "I Was Summoned to Be the Saint, but I Was Robbed of the Position, Apparently",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-29T14:53:25.000Z",
-  "updatedAt": "2021-06-21T18:44:52.000Z",
+  "updatedAt": "2021-12-21T18:52:16.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -85,29 +90,6 @@
         "aniId": 124813,
         "createdAt": "2021-01-23T18:51:19.000Z",
         "updatedAt": "2021-11-20T17:45:38.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-jl987068": {
-        "authors": [
-          "Yoshitaka Hana",
-          "Jisama"
-        ],
-        "identifier": "manga-jl987068",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Seijo No Hazu Ga, Douyara Nottoraremashita",
-        "url": "https://manganato.com/manga-jl987068",
-        "image": "https://avt.mkklcdnv6temp.com/32/m/22-1603767735.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 131397,
-        "aniId": 124813,
-        "createdAt": "2021-06-21T18:44:51.000Z",
-        "updatedAt": "2021-06-21T19:14:51.000Z",
         "deletedAt": null
       }
     }

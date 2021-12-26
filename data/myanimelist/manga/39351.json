@@ -17,7 +17,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:05.000Z",
-  "updatedAt": "2021-11-06T04:34:50.000Z",
+  "updatedAt": "2021-12-20T01:51:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,29 @@
         "aniId": 69351,
         "createdAt": "2020-10-12T16:04:45.000Z",
         "updatedAt": "2021-12-02T23:19:50.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "heart-no-a": {
+        "authors": [
+          "ADACHI Mitsuru",
+          "SAIGA Akira"
+        ],
+        "identifier": "heart-no-a",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Heart no A",
+        "url": "https://mangasee123.com/manga/Heart-No-A",
+        "image": "https://cover.nep.li/cover/Heart-No-A.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39351,
+        "aniId": 69351,
+        "createdAt": "2021-12-20T01:51:30.000Z",
+        "updatedAt": "2021-12-20T02:18:35.000Z",
         "deletedAt": null
       }
     }

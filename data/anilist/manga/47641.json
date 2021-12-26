@@ -84,6 +84,28 @@
         "updatedAt": "2021-12-05T10:20:09.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mitsudomoe": {
+        "authors": [
+          "SAKURAI Norio"
+        ],
+        "identifier": "mitsudomoe",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mitsudomoe",
+        "url": "https://fanfox.net/manga/mitsudomoe/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6987/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 17641,
+        "aniId": 47641,
+        "createdAt": "2021-12-25T14:57:57.000Z",
+        "updatedAt": "2021-12-25T15:27:34.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

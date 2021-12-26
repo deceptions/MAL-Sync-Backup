@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:05.000Z",
-  "updatedAt": "2021-11-15T11:44:13.000Z",
+  "updatedAt": "2021-12-20T13:20:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,28 @@
         "aniId": 35401,
         "createdAt": "2020-10-12T16:13:02.000Z",
         "updatedAt": "2021-12-05T18:50:00.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "ayako": {
+        "authors": [
+          "TEZUKA Osamu"
+        ],
+        "identifier": "ayako",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Ayako",
+        "url": "https://mangasee123.com/manga/Ayako",
+        "image": "https://cover.nep.li/cover/Ayako.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5401,
+        "aniId": 35401,
+        "createdAt": "2021-06-14T01:40:05.000Z",
+        "updatedAt": "2021-12-14T02:18:24.000Z",
         "deletedAt": null
       }
     },

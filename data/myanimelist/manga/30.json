@@ -26,7 +26,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:17.000Z",
-  "updatedAt": "2021-11-17T00:27:33.000Z",
+  "updatedAt": "2021-12-22T13:51:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -112,6 +112,28 @@
         "aniId": 30030,
         "createdAt": "2020-12-19T20:26:09.000Z",
         "updatedAt": "2021-11-20T15:46:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-tj955866": {
+        "authors": [
+          "Hatori Bisco"
+        ],
+        "identifier": "manga-tj955866",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ouran High School Host Club",
+        "url": "https://readmanganato.com/manga-tj955866",
+        "image": "https://avt.mkklcdnv6temp.com/44/e/3-1583469408.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 30,
+        "aniId": 30030,
+        "createdAt": "2021-06-13T20:08:32.000Z",
+        "updatedAt": "2021-12-13T20:48:24.000Z",
         "deletedAt": null
       }
     }

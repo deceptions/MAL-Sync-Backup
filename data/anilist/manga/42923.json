@@ -37,6 +37,28 @@
         "updatedAt": "2021-12-05T09:24:51.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "yui_shop": {
+        "authors": [
+          "YUI Toshiki"
+        ],
+        "identifier": "yui_shop",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yui Shop",
+        "url": "https://fanfox.net/manga/yui_shop/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2699/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12923,
+        "aniId": 42923,
+        "createdAt": "2021-12-19T10:49:29.000Z",
+        "updatedAt": "2021-12-19T11:18:35.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

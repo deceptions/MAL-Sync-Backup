@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:18.000Z",
-  "updatedAt": "2021-11-09T18:14:35.000Z",
+  "updatedAt": "2021-12-21T14:51:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -68,6 +68,29 @@
         "aniId": 73987,
         "createdAt": "2021-11-09T18:13:37.000Z",
         "updatedAt": "2021-11-09T18:43:35.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-sb969836": {
+        "authors": [
+          "Sakurana Haru",
+          "Mizuki Nomura"
+        ],
+        "identifier": "manga-sb969836",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I'm A Royal Tutor In My Sister's Dress",
+        "url": "https://manganato.com/manga-sb969836",
+        "image": "https://avt.mkklcdnv6temp.com/13/d/13-1583488222.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 43987,
+        "aniId": 73987,
+        "createdAt": "2021-12-21T14:51:46.000Z",
+        "updatedAt": "2021-12-21T15:21:46.000Z",
         "deletedAt": null
       }
     }

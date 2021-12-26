@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://comic.naver.com/webtoon/list.nhn?titleId=668723"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%83%81%ED%95%98%EA%B3%A0_%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4"
+    }
+  ],
   "altTitle": [
     "Isanghago Aleumdaun",
     "이상하고 아름다운"
@@ -15,7 +24,7 @@
   "category": "Manhwa",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:26.000Z",
-  "updatedAt": "2021-08-27T21:36:36.000Z",
+  "updatedAt": "2021-12-20T13:19:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,6 +68,28 @@
         "aniId": 99396,
         "createdAt": "2021-06-04T13:50:38.000Z",
         "updatedAt": "2021-12-04T14:56:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "isanghago-aleumdaun": {
+        "authors": [
+          "Honey Bee"
+        ],
+        "identifier": "isanghago-aleumdaun",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Isanghago Aleumdaun",
+        "url": "https://mangasee123.com/manga/Isanghago-Aleumdaun",
+        "image": "https://cover.nep.li/cover/Isanghago-Aleumdaun.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112481,
+        "aniId": 99396,
+        "createdAt": "2021-06-14T18:57:48.000Z",
+        "updatedAt": "2021-12-14T19:48:35.000Z",
         "deletedAt": null
       }
     },

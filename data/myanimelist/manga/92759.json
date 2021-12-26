@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:10.000Z",
-  "updatedAt": "2021-10-31T17:10:56.000Z",
+  "updatedAt": "2021-12-19T23:49:06.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,6 +64,28 @@
         "aniId": 95933,
         "createdAt": "2021-10-31T17:10:46.000Z",
         "updatedAt": "2021-10-31T17:34:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "fudanshi-koukou-seikatsu": {
+        "authors": [
+          "MICHINOKU Atami"
+        ],
+        "identifier": "fudanshi-koukou-seikatsu",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Fudanshi Koukou Seikatsu",
+        "url": "https://mangasee123.com/manga/Fudanshi-Koukou-Seikatsu",
+        "image": "https://cover.nep.li/cover/Fudanshi-Koukou-Seikatsu.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 92759,
+        "aniId": 95933,
+        "createdAt": "2021-12-19T23:49:04.000Z",
+        "updatedAt": "2021-12-20T00:18:35.000Z",
         "deletedAt": null
       }
     }

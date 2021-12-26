@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-10T00:43:18.000Z",
-  "updatedAt": "2021-11-21T01:30:56.000Z",
+  "updatedAt": "2021-12-21T13:21:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,29 @@
         "aniId": 136510,
         "createdAt": "2021-10-13T05:58:45.000Z",
         "updatedAt": "2021-11-21T01:31:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ml990094": {
+        "authors": [
+          "Edoya Pochi",
+          "Enoshima Abyss"
+        ],
+        "identifier": "manga-ml990094",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "What's Under Kamiyama-San's Paper Bag?",
+        "url": "https://manganato.com/manga-ml990094",
+        "image": "https://avt.mkklcdnv6temp.com/9/s/25-1638289780.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 136510,
+        "createdAt": "2021-11-30T17:36:36.000Z",
+        "updatedAt": "2021-12-21T13:34:51.000Z",
         "deletedAt": null
       }
     }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E5%A4%96%E4%BC%9D_THE_BLUE_DESTINY"
+    }
+  ],
   "altTitle": [
     "Mobile Suit Gundam Sidestory: The Blue Destiny",
     "機動戦士ガンダム外伝―THE BLUE DESTINY"
@@ -16,31 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:20.000Z",
-  "updatedAt": "2021-06-22T14:15:54.000Z",
+  "updatedAt": "2021-12-22T14:22:37.000Z",
   "deletedAt": null,
-  "Pages": {
-    "MangaNato": {
-      "manga-ce979861": {
-        "authors": [
-          "Taichi You",
-          "Chiba Tomohiro"
-        ],
-        "identifier": "manga-ce979861",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Kidou Sensei Gundam Gaiden - The Blue Destiny (Taichi You)",
-        "url": "https://manganato.com/manga-ce979861",
-        "image": "https://avt.mkklcdnv6temp.com/7/j/17-1583495525.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 342,
-        "aniId": 30342,
-        "createdAt": "2021-06-22T14:15:52.000Z",
-        "updatedAt": "2021-06-22T14:44:53.000Z",
-        "deletedAt": null
-      }
-    }
-  }
+  "Pages": {}
 }

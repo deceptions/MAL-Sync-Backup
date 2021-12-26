@@ -66,6 +66,28 @@
         "updatedAt": "2021-11-20T18:14:57.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "c_m_b": {
+        "authors": [
+          "KATOU Motohiro"
+        ],
+        "identifier": "c_m_b",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "C.M.B.",
+        "url": "https://fanfox.net/manga/c_m_b/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/7985/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 10318,
+        "aniId": 40318,
+        "createdAt": "2021-06-15T11:28:36.000Z",
+        "updatedAt": "2021-12-15T12:48:25.000Z",
+        "deletedAt": null
+      }
     }
   }
 }
