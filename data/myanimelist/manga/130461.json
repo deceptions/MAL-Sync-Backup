@@ -1,8 +1,18 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://magazine.jp.square-enix.com/mangaup/original/chitosekun/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%AD%B3%E3%81%8F%E3%82%93%E3%81%AF%E3%83%A9%E3%83%A0%E3%83%8D%E7%93%B6%E3%81%AE%E3%81%AA%E3%81%8B"
+    }
+  ],
   "altTitle": [
     "Chiramune",
     "Chitose-kun is Inside a Ramune Bottle",
+    "Chitose Is in the Ramune Bottle",
     "千歳くんはラムネ瓶のなか"
   ],
   "authors": [
@@ -17,7 +27,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-01-01T01:37:21.000Z",
-  "updatedAt": "2021-07-04T03:41:25.000Z",
+  "updatedAt": "2021-12-30T08:53:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -63,6 +73,28 @@
         "aniId": 124700,
         "createdAt": "2021-05-30T04:12:23.000Z",
         "updatedAt": "2021-11-30T05:05:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "chitose_kun_wa_ramune_bin_no_naka": {
+        "authors": [
+          "Hiromu (裕夢)"
+        ],
+        "identifier": "chitose_kun_wa_ramune_bin_no_naka",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Chitose-kun wa Ramune Bin no Naka",
+        "url": "https://fanfox.net/manga/chitose_kun_wa_ramune_bin_no_naka/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/40606/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 130461,
+        "aniId": 124700,
+        "createdAt": "2021-12-30T08:53:48.000Z",
+        "updatedAt": "2021-12-30T09:23:27.000Z",
         "deletedAt": null
       }
     }

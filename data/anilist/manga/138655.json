@@ -20,5 +20,30 @@
   "createdAt": "2021-09-01T06:15:46.000Z",
   "updatedAt": "2021-12-17T11:18:34.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "79428c31-72f5-4fb0-8579-250f7933b2d5": {
+        "authors": [
+          "Purik",
+          "Winter Leaf",
+          "Jeokbal"
+        ],
+        "identifier": "79428c31-72f5-4fb0-8579-250f7933b2d5",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Became the Wife of the Male Lead",
+        "url": "https://mangadex.org/title/79428c31-72f5-4fb0-8579-250f7933b2d5",
+        "image": "https://uploads.mangadex.org/covers/79428c31-72f5-4fb0-8579-250f7933b2d5/f11d8a8f-b106-4f4a-a5fd-cda657fed267.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 138655,
+        "createdAt": "2021-10-20T09:59:07.000Z",
+        "updatedAt": "2022-01-01T21:27:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

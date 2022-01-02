@@ -18,5 +18,28 @@
   "createdAt": "2021-07-24T09:51:34.000Z",
   "updatedAt": "2021-11-28T00:05:33.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "4db9c1e8-243b-4f73-95e8-ea29f632f456": {
+        "authors": [
+          "ma_trii"
+        ],
+        "identifier": "4db9c1e8-243b-4f73-95e8-ea29f632f456",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mabarai-san Hunts Me Down",
+        "url": "https://mangadex.org/title/4db9c1e8-243b-4f73-95e8-ea29f632f456",
+        "image": "https://uploads.mangadex.org/covers/4db9c1e8-243b-4f73-95e8-ea29f632f456/3dabaf8c-0001-462f-8ad1-1d2d1cfc58da.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 141704,
+        "aniId": 137023,
+        "createdAt": "2021-11-07T19:48:52.000Z",
+        "updatedAt": "2021-12-27T11:36:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

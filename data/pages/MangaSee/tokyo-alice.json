@@ -18,10 +18,19 @@
   "updatedAt": "2021-07-30T01:21:45.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kisscomic.com/kc/alice/index.html"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%82%A2%E3%83%AA%E3%82%B9_(%E7%A8%9A%E9%87%8E%E9%B3%A5%E5%AD%90%E3%81%AE%E6%BC%AB%E7%94%BB)"
+      }
+    ],
     "altTitle": [
-      "Tokyo Alice",
       "Toukyou Alice",
+      "Tokyo Alice",
       "東京アリス"
     ],
     "authors": [
@@ -35,7 +44,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:42:18.000Z",
-    "updatedAt": "2021-07-30T00:53:13.000Z",
+    "updatedAt": "2021-12-27T18:24:50.000Z",
     "deletedAt": null
   },
   "Anilist": {

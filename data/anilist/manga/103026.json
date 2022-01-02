@@ -63,6 +63,29 @@
         "updatedAt": "2021-08-14T20:06:59.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "jingai_san_no_yome": {
+        "authors": [
+          "AIKAWA Yuu",
+          "YASAKA Akiwo"
+        ],
+        "identifier": "jingai_san_no_yome",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Jingai-san no Yome",
+        "url": "https://fanfox.net/manga/jingai_san_no_yome/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34948/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111117,
+        "aniId": 103026,
+        "createdAt": "2021-12-29T23:53:31.000Z",
+        "updatedAt": "2021-12-30T00:23:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

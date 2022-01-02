@@ -18,5 +18,29 @@
   "createdAt": "2021-05-25T00:08:18.000Z",
   "updatedAt": "2021-12-24T11:27:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "f29d4785-396a-494e-b48f-47d02f583276": {
+        "authors": [
+          "Type-Moon",
+          "Moriyama Daisuke"
+        ],
+        "identifier": "f29d4785-396a-494e-b48f-47d02f583276",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Fate/Stay Night - Unlimited Blade Works",
+        "url": "https://mangadex.org/title/f29d4785-396a-494e-b48f-47d02f583276",
+        "image": "https://uploads.mangadex.org/covers/f29d4785-396a-494e-b48f-47d02f583276/4a4d7018-2acd-49b1-940b-9e9f7af0010d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 135178,
+        "aniId": 131587,
+        "createdAt": "2021-12-29T12:24:42.000Z",
+        "updatedAt": "2021-12-29T12:24:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

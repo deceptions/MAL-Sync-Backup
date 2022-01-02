@@ -88,6 +88,28 @@
         "updatedAt": "2021-09-21T16:40:44.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "ayako": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "ayako",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ayako",
+        "url": "https://fanfox.net/manga/ayako/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15273/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 5401,
+        "aniId": 35401,
+        "createdAt": "2021-12-28T05:24:20.000Z",
+        "updatedAt": "2021-12-28T05:53:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

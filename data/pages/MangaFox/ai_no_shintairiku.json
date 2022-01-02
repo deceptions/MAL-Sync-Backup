@@ -10,14 +10,55 @@
   "image": "https://fmcdn.mfcdn.net/store/manga/2083/cover.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 3166,
+  "aniId": 33166,
   "createdAt": "2021-12-25T07:27:57.000Z",
-  "updatedAt": "2021-12-25T07:27:57.000Z",
+  "updatedAt": "2021-12-27T11:53:27.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Brave New World of Love",
+      "New Continent's Love",
+      "愛の新大陸"
+    ],
+    "authors": [
+      "Yamada, Nari"
+    ],
+    "id": 3166,
+    "type": "manga",
+    "title": "Ai no Shintairiku",
+    "url": "https://myanimelist.net/manga/3166/Ai_no_Shintairiku",
+    "image": "https://cdn.myanimelist.net/images/manga/2/184819.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:48.000Z",
+    "updatedAt": "2021-12-27T11:28:09.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "愛の新大陸",
+      "Brave New World of Love",
+      "New Continent's Love"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Nari Yamada"
+    ],
+    "id": 33166,
+    "malId": 3166,
+    "type": "manga",
+    "title": "Ai no Shintairiku",
+    "url": "https://anilist.co/manga/33166",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx33166-xcfNKZkYWTyZ.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:38:05.000Z",
+    "updatedAt": "2021-12-17T11:10:17.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/3166/Ai_no_Shintairiku"
 }

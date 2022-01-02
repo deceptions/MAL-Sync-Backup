@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:47.000Z",
-  "updatedAt": "2021-10-31T12:06:01.000Z",
+  "updatedAt": "2021-12-31T02:24:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -45,6 +45,29 @@
         "aniId": 42591,
         "createdAt": "2020-10-12T16:03:27.000Z",
         "updatedAt": "2021-12-02T14:19:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-gk959819": {
+        "authors": [
+          "Obata Takeshi",
+          "Hijikata Shigeru"
+        ],
+        "identifier": "manga-gk959819",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Cyborg Jiichan G",
+        "url": "https://manganato.com/manga-gk959819",
+        "image": "https://avt.mkklcdnv6temp.com/27/z/6-1583475274.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12591,
+        "aniId": 42591,
+        "createdAt": "2021-12-31T02:24:49.000Z",
+        "updatedAt": "2021-12-31T02:53:27.000Z",
         "deletedAt": null
       }
     }

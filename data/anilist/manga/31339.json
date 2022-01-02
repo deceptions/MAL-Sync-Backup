@@ -21,5 +21,28 @@
   "createdAt": "2021-05-20T14:36:43.000Z",
   "updatedAt": "2021-12-17T10:05:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-fk959719": {
+        "authors": [
+          "Ukyou Ayane"
+        ],
+        "identifier": "manga-fk959719",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Desire Climax",
+        "url": "https://manganato.com/manga-fk959719",
+        "image": "https://avt.mkklcdnv6temp.com/24/f/6-1583475139.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1339,
+        "aniId": 31339,
+        "createdAt": "2021-06-22T03:45:23.000Z",
+        "updatedAt": "2021-12-22T04:22:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

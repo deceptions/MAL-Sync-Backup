@@ -131,6 +131,28 @@
         "updatedAt": "2021-12-01T16:24:17.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "silver_spoon": {
+        "authors": [
+          "ARAKAWA Hiromu"
+        ],
+        "identifier": "silver_spoon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Silver Spoon",
+        "url": "https://fanfox.net/manga/silver_spoon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9003/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25096,
+        "aniId": 55096,
+        "createdAt": "2021-12-30T09:53:27.000Z",
+        "updatedAt": "2021-12-30T10:23:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

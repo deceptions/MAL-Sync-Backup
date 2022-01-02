@@ -64,6 +64,50 @@
         "updatedAt": "2021-11-20T18:14:57.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-yv959004": {
+        "authors": [
+          "Hirano Kouta"
+        ],
+        "identifier": "manga-yv959004",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hellsing",
+        "url": "https://manganato.com/manga-yv959004",
+        "image": "https://avt.mkklcdnv6temp.com/47/x/5-1583473765.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 267,
+        "aniId": 30267,
+        "createdAt": "2021-06-21T07:39:31.000Z",
+        "updatedAt": "2021-12-21T07:59:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "hellsing": {
+        "authors": [
+          "HIRANO Kouta"
+        ],
+        "identifier": "hellsing",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hellsing",
+        "url": "https://fanfox.net/manga/hellsing/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/40/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 267,
+        "aniId": 30267,
+        "createdAt": "2021-12-28T05:53:49.000Z",
+        "updatedAt": "2021-12-28T06:23:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -17,5 +17,28 @@
   "createdAt": "2021-06-09T08:04:15.000Z",
   "updatedAt": "2021-12-06T00:16:58.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "tetteleposan": {
+        "authors": [
+          "FUJIMOTO Tatsuki"
+        ],
+        "identifier": "tetteleposan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tetteleposan",
+        "url": "https://fanfox.net/manga/tetteleposan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/40180/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 133945,
+        "createdAt": "2021-12-27T00:57:57.000Z",
+        "updatedAt": "2021-12-27T00:57:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

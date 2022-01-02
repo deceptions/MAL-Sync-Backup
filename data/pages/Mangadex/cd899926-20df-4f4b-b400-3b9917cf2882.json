@@ -12,13 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 127233,
   "createdAt": "2021-10-16T02:58:45.000Z",
-  "updatedAt": "2021-11-22T06:43:39.000Z",
+  "updatedAt": "2022-01-01T21:27:21.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Villainess's Days are Numbered!",
+      "시한부 악녀의 해피엔딩",
+      "Happy Ending for the Time-Limited Villainess",
+      "แฮปปี้เอนดิ้งของนางร้ายจำกัดเวลา"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Harasyo",
+      "Yeoneo",
+      "Ryuho"
+    ],
+    "id": 127233,
+    "malId": null,
+    "type": "manga",
+    "title": "Sihanbu Agnyeoui Happy Ending",
+    "url": "https://anilist.co/manga/127233",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127233-li5TgkfTCISD.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T13:12:58.000Z",
+    "updatedAt": "2021-12-31T18:24:12.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

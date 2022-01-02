@@ -1,9 +1,14 @@
 {
   "altTitle": [
     "STAND BY ME Doraemon",
-    "Stand By Me ドラえもん"
+    "STAND BY ME ドラえもん"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80158156"
+    }
+  ],
   "id": 20515,
   "malId": 21469,
   "type": "anime",
@@ -13,7 +18,7 @@
   "category": "movie",
   "hentai": false,
   "createdAt": "2021-05-20T14:41:28.000Z",
-  "updatedAt": "2021-12-25T02:57:34.000Z",
+  "updatedAt": "2021-12-28T10:23:27.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -68,6 +73,23 @@
         "aniId": 20515,
         "createdAt": "2020-10-29T04:14:48.000Z",
         "updatedAt": "2021-05-20T15:21:56.000Z",
+        "deletedAt": null
+      },
+      "stand-by-me-doraemon-dub": {
+        "identifier": "stand-by-me-doraemon-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Stand By Me Doraemon (Dub)",
+        "url": "https://gogoanime.cm/category/stand-by-me-doraemon-dub",
+        "image": "https://gogocdn.net/cover/stand-by-me-doraemon-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21469,
+        "aniId": 20515,
+        "createdAt": "2021-12-25T05:27:56.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
         "deletedAt": null
       }
     },

@@ -23,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:47.000Z",
-  "updatedAt": "2021-11-21T02:13:20.000Z",
+  "updatedAt": "2021-12-28T15:24:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -89,6 +89,28 @@
         "aniId": 33044,
         "createdAt": "2021-06-17T04:27:38.000Z",
         "updatedAt": "2021-12-17T05:18:46.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pt951776": {
+        "authors": [
+          "Takatsu Karino"
+        ],
+        "identifier": "manga-pt951776",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Working!!",
+        "url": "https://manganato.com/manga-pt951776",
+        "image": "https://avt.mkklcdnv6temp.com/16/l/1-1583464332.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3044,
+        "aniId": 33044,
+        "createdAt": "2021-12-28T15:23:48.000Z",
+        "updatedAt": "2021-12-28T15:53:27.000Z",
         "deletedAt": null
       }
     }

@@ -10,14 +10,54 @@
   "image": "https://avt.mkklcdnv6temp.com/42/x/22-1607150162.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 131568,
+  "aniId": 124007,
   "createdAt": "2021-12-25T18:28:16.000Z",
-  "updatedAt": "2021-12-25T18:28:16.000Z",
+  "updatedAt": "2021-12-27T11:53:27.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Devoting Everything to My Wonderful Youth",
+      "命がけでもたりないのさ"
+    ],
+    "authors": [
+      "Oshiba, Ken"
+    ],
+    "id": 131568,
+    "type": "manga",
+    "title": "Inochigake demo Tarinai no sa",
+    "url": "https://myanimelist.net/manga/131568/Inochigake_demo_Tarinai_no_sa",
+    "image": "https://cdn.myanimelist.net/images/manga/1/239262.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-12-01T21:52:45.000Z",
+    "updatedAt": "2021-12-27T11:25:39.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "命がけでもたりないのさ",
+      "Devoting everything to my wonderful youth",
+      "สาวเกมเมอร์ เหยียบคันเร่งซิ่งสุดเหวี่ยง"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ken Ooshiba"
+    ],
+    "id": 124007,
+    "malId": 131568,
+    "type": "manga",
+    "title": "Inochigake Demo Tarinai no Sa",
+    "url": "https://anilist.co/manga/124007",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx124007-2eiquMptybjA.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T15:00:04.000Z",
+    "updatedAt": "2021-12-18T10:53:01.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/131568/Inochigake_demo_Tarinai_no_sa"
 }

@@ -42,6 +42,29 @@
         "updatedAt": "2021-12-21T20:22:46.000Z",
         "deletedAt": null
       }
+    },
+    "Mangadex": {
+      "0921290d-65cc-4f05-8c98-08c5fd0a8e71": {
+        "authors": [
+          "Go Eunchae",
+          "송예슬"
+        ],
+        "identifier": "0921290d-65cc-4f05-8c98-08c5fd0a8e71",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Honey, I'm Going on Strike",
+        "url": "https://mangadex.org/title/0921290d-65cc-4f05-8c98-08c5fd0a8e71",
+        "image": "https://uploads.mangadex.org/covers/0921290d-65cc-4f05-8c98-08c5fd0a8e71/de69f45d-fc01-4943-bd6d-5f220d008476.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 139958,
+        "createdAt": "2021-11-03T00:35:22.000Z",
+        "updatedAt": "2022-01-01T17:01:39.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

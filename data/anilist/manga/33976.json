@@ -63,6 +63,28 @@
         "updatedAt": "2021-12-06T22:16:51.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "offered": {
+        "authors": [
+          "KOIKE Kazuo"
+        ],
+        "identifier": "offered",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Offered",
+        "url": "https://fanfox.net/manga/offered/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2997/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3976,
+        "aniId": 33976,
+        "createdAt": "2021-12-28T05:24:30.000Z",
+        "updatedAt": "2021-12-28T05:53:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

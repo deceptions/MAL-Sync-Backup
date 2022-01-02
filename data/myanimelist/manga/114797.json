@@ -19,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:36.000Z",
-  "updatedAt": "2021-11-22T06:43:08.000Z",
+  "updatedAt": "2021-12-31T01:53:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,28 @@
         "aniId": 110682,
         "createdAt": "2020-10-12T16:11:47.000Z",
         "updatedAt": "2021-12-05T11:22:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bc979259": {
+        "authors": [
+          "Sigama"
+        ],
+        "identifier": "manga-bc979259",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Organ Divider",
+        "url": "https://manganato.com/manga-bc979259",
+        "image": "https://avt.mkklcdnv6temp.com/34/t/16-1583494718.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 114797,
+        "aniId": 110682,
+        "createdAt": "2021-12-31T01:53:58.000Z",
+        "updatedAt": "2021-12-31T02:23:27.000Z",
         "deletedAt": null
       }
     }

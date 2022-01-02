@@ -25,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:16.000Z",
-  "updatedAt": "2021-11-10T06:45:26.000Z",
+  "updatedAt": "2021-12-27T11:36:50.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -48,6 +48,29 @@
         "aniId": 91126,
         "createdAt": "2020-10-12T16:08:04.000Z",
         "updatedAt": "2021-12-04T07:50:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-le962461": {
+        "authors": [
+          "Morioka Hiroyuki",
+          "Yonemura Kouichirou"
+        ],
+        "identifier": "manga-le962461",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Seikai No Monshou (Yonemura Kouichirou)",
+        "url": "https://manganato.com/manga-le962461",
+        "image": "https://avt.mkklcdnv6temp.com/19/j/8-1583478910.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70189,
+        "aniId": 91126,
+        "createdAt": "2021-12-26T19:57:57.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
         "deletedAt": null
       }
     }

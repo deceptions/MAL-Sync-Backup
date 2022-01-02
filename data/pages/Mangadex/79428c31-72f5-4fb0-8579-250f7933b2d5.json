@@ -13,13 +13,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 138655,
   "createdAt": "2021-10-20T09:59:07.000Z",
-  "updatedAt": "2021-11-29T04:05:32.000Z",
+  "updatedAt": "2022-01-01T21:27:23.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "내 남자주인공의 아내가 되었다",
+      "I Became the Wife of the Male Lead"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gyeourip",
+      "Jeok-Bal",
+      "Pu-Rik"
+    ],
+    "id": 138655,
+    "malId": null,
+    "type": "manga",
+    "title": "Nae Namja Juingongui Anaega Doeeotda",
+    "url": "https://anilist.co/manga/138655",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138655-To2KsL5SUilz.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-01T06:15:46.000Z",
+    "updatedAt": "2021-12-17T11:18:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

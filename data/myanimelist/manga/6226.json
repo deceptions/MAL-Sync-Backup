@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:10.000Z",
-  "updatedAt": "2021-10-29T16:46:58.000Z",
+  "updatedAt": "2021-12-30T11:23:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,28 @@
         "aniId": 36226,
         "createdAt": "2020-10-12T16:04:06.000Z",
         "updatedAt": "2021-12-02T18:48:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-oj966166": {
+        "authors": [
+          "Izumi Yuuji"
+        ],
+        "identifier": "manga-oj966166",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Nuiguru Mix",
+        "url": "https://manganato.com/manga-oj966166",
+        "image": "https://avt.mkklcdnv6temp.com/32/w/10-1583483358.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6226,
+        "aniId": 36226,
+        "createdAt": "2021-12-30T11:23:48.000Z",
+        "updatedAt": "2021-12-30T11:53:27.000Z",
         "deletedAt": null
       }
     }

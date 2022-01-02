@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/H2_%28manga%29"
+    }
+  ],
   "altTitle": [
     "エイチツー"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:29.000Z",
-  "updatedAt": "2021-07-04T15:03:47.000Z",
+  "updatedAt": "2021-12-31T04:54:22.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +63,28 @@
         "aniId": 31014,
         "createdAt": "2021-01-04T14:55:56.000Z",
         "updatedAt": "2021-11-20T16:44:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ky957607": {
+        "authors": [
+          "Adachi Mitsuru"
+        ],
+        "identifier": "manga-ky957607",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "H2",
+        "url": "https://readmanganato.com/manga-ky957607",
+        "image": "https://avt.mkklcdnv6temp.com/1/p/4-1583471882.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1014,
+        "aniId": 31014,
+        "createdAt": "2021-12-31T04:53:27.000Z",
+        "updatedAt": "2021-12-31T05:23:27.000Z",
         "deletedAt": null
       }
     }

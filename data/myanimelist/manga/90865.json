@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:05.000Z",
-  "updatedAt": "2021-11-14T00:44:51.000Z",
+  "updatedAt": "2021-12-30T11:54:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 86322,
         "createdAt": "2020-10-12T16:08:42.000Z",
         "updatedAt": "2021-12-04T12:21:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bh954064": {
+        "authors": [
+          "Takahashi Natsuko"
+        ],
+        "identifier": "manga-bh954064",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shirojishi No Kodomo-Tachi",
+        "url": "https://manganato.com/manga-bh954064",
+        "image": "https://avt.mkklcdnv6temp.com/45/k/2-1583467438.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90865,
+        "aniId": 86322,
+        "createdAt": "2021-12-30T11:54:18.000Z",
+        "updatedAt": "2021-12-30T12:23:27.000Z",
         "deletedAt": null
       }
     }

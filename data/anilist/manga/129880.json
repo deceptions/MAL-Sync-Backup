@@ -18,7 +18,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-19T21:18:32.000Z",
-  "updatedAt": "2021-07-19T21:18:32.000Z",
+  "updatedAt": "2021-12-29T17:54:08.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-li988743": {
+        "authors": [
+          "Yu Ci"
+        ],
+        "identifier": "manga-li988743",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Please, Sleep With Me",
+        "url": "https://manganato.com/manga-li988743",
+        "image": "https://avt.mkklcdnv6temp.com/1/t/23-1617640057.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 129880,
+        "createdAt": "2021-12-29T17:54:08.000Z",
+        "updatedAt": "2022-01-01T17:02:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

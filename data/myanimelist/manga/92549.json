@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%8C%E5%AD%90%E3%81%AE%E5%B8%9D%E5%9C%8B"
+    }
+  ],
   "altTitle": [
     "The Twin Empires",
     "双子の帝國"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:10.000Z",
-  "updatedAt": "2021-06-29T08:52:03.000Z",
+  "updatedAt": "2021-12-29T09:00:19.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,28 +42,6 @@
         "aniId": 95880,
         "createdAt": "2020-10-12T16:09:30.000Z",
         "updatedAt": "2021-12-04T18:25:51.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaSee": {
-      "futago-no-teikoku": {
-        "authors": [
-          "KITOH Mohiro"
-        ],
-        "identifier": "futago-no-teikoku",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "Futago no Teikoku",
-        "url": "https://mangasee123.com/manga/Futago-No-Teikoku",
-        "image": "https://cover.nep.li/cover/Futago-No-Teikoku.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 92549,
-        "aniId": 95880,
-        "createdAt": "2021-06-29T08:51:58.000Z",
-        "updatedAt": "2021-06-29T09:19:24.000Z",
         "deletedAt": null
       }
     }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://magazine.jp.square-enix.com/biggangan/introduction/mememorikun/"
+    }
+  ],
   "altTitle": [
     "Unparalleled Mememori-kun",
     "I Can't Help It, Mememori-kun",
@@ -16,7 +21,52 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-09-03T14:17:07.000Z",
-  "updatedAt": "2021-09-03T14:17:07.000Z",
+  "updatedAt": "2022-01-01T14:23:53.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "fc0a7b86-992e-4126-b30f-ca04811979bf": {
+        "authors": [
+          "Moricocco"
+        ],
+        "identifier": "fc0a7b86-992e-4126-b30f-ca04811979bf",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Unparalleled Mememori-kun",
+        "url": "https://mangadex.org/title/fc0a7b86-992e-4126-b30f-ca04811979bf",
+        "image": "https://uploads.mangadex.org/covers/fc0a7b86-992e-4126-b30f-ca04811979bf/77f5b289-6c73-4fba-bd62-e06cf9e0dd1d.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 139269,
+        "aniId": 125400,
+        "createdAt": "2020-10-24T11:29:01.000Z",
+        "updatedAt": "2022-01-01T17:02:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ja987309": {
+        "authors": [
+          "Moricocco"
+        ],
+        "identifier": "manga-ja987309",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Unparalleled Mememori-Kun",
+        "url": "https://manganato.com/manga-ja987309",
+        "image": "https://avt.mkklcdnv6temp.com/42/k/22-1607138924.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 139269,
+        "aniId": 125400,
+        "createdAt": "2021-06-03T01:31:11.000Z",
+        "updatedAt": "2022-01-01T17:02:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -90,6 +90,28 @@
         "updatedAt": "2021-12-03T14:20:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "usogui": {
+        "authors": [
+          "SAKO Toshio"
+        ],
+        "identifier": "usogui",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Usogui",
+        "url": "https://fanfox.net/manga/usogui/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/4137/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9982,
+        "aniId": 39982,
+        "createdAt": "2022-01-01T21:53:37.000Z",
+        "updatedAt": "2022-01-01T22:23:32.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

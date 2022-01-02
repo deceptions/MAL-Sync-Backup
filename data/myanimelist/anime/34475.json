@@ -14,8 +14,8 @@
     }
   ],
   "altTitle": [
-    "Monster Strike: Rain of Memories",
     "Monster Strike Winter Special",
+    "Monster Strike: Rain of Memories",
     "映画公開スペシャル「レイン・オブ・メモリーズ」"
   ],
   "id": 34475,
@@ -27,7 +27,7 @@
   "hentai": false,
   "anidbId": 11238,
   "createdAt": "2020-10-12T15:39:50.000Z",
-  "updatedAt": "2021-10-03T14:35:04.000Z",
+  "updatedAt": "2021-12-27T18:24:19.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -46,6 +46,25 @@
         "aniId": 98095,
         "createdAt": "2020-10-12T15:54:56.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "monster-strike-rain-of-memories": {
+        "identifier": "monster-strike-rain-of-memories",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Monster Strike: Rain of Memories",
+        "url": "https://gogoanime.cm/category/monster-strike-rain-of-memories",
+        "image": "https://gogocdn.net/cover/monster-strike-rain-of-memories.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 34475,
+        "aniId": 98095,
+        "createdAt": "2021-12-27T18:23:27.000Z",
+        "updatedAt": "2021-12-27T18:53:27.000Z",
         "deletedAt": null
       }
     }

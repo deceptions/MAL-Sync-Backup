@@ -19,7 +19,12 @@
   "updatedAt": "2021-12-04T20:24:20.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://comic-polaris.jp/doukyo/"
+      }
+    ],
     "altTitle": [
       "My Roommate is a Cat",
       "同居人はひざ、時々、頭のうえ。"
@@ -36,19 +41,21 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:46:33.000Z",
-    "updatedAt": "2021-06-29T08:33:37.000Z",
+    "updatedAt": "2021-12-29T09:00:49.000Z",
     "deletedAt": null
   },
   "Anilist": {
     "altTitle": [
       "My Roommate is a Cat",
       "同居人はひざ、時々、頭のうえ。",
-      "นายท่านอยู่บนตักหรือบางทีอยู่บนหัวเรา"
+      "นายท่านอยู่บนตักหรือบางทีอยู่บนหัวเรา",
+      "동거인은 무릎, 때때로, 머리 위"
     ],
     "externalLinks": [],
     "authors": [
       "Tsunami Minatsuki",
-      "As Futatsuya"
+      "As Futatsuya",
+      "Cordelia Suzuki"
     ],
     "id": 97363,
     "malId": 99391,
@@ -59,7 +66,7 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:54:42.000Z",
-    "updatedAt": "2021-12-10T06:33:39.000Z",
+    "updatedAt": "2021-12-27T17:23:28.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/99391/Doukyonin_wa_Hiza_Tokidoki_Atama_no_Ue"

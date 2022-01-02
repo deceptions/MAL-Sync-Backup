@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 113346,
-  "aniId": null,
+  "aniId": 103552,
   "createdAt": "2020-10-12T16:11:31.000Z",
-  "updatedAt": "2021-12-05T10:18:59.000Z",
+  "updatedAt": "2021-12-26T09:57:34.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -39,6 +39,26 @@
     "updatedAt": "2021-12-05T09:48:11.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "春は私をバカにする",
+      "Der Frühling macht mich ganz verrückt"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Chia Teshima"
+    ],
+    "id": 103552,
+    "malId": 113346,
+    "type": "manga",
+    "title": "Haru wa Watashi wo Baka ni Suru",
+    "url": "https://anilist.co/manga/103552",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103552-VbqnAfPpddDm.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-26T09:27:35.000Z",
+    "updatedAt": "2021-12-26T09:27:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/113346/Haru_wa_Watashi_wo_Baka_ni_Suru"
 }

@@ -21,7 +21,7 @@
   "hentai": false,
   "anidbId": 8762,
   "createdAt": "2020-10-12T15:39:10.000Z",
-  "updatedAt": "2021-10-02T11:31:54.000Z",
+  "updatedAt": "2021-12-27T11:41:18.000Z",
   "deletedAt": null,
   "Pages": {
     "animepahe": {
@@ -40,6 +40,25 @@
         "aniId": 12001,
         "createdAt": "2021-06-12T03:38:48.000Z",
         "updatedAt": "2021-06-12T04:08:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "6ll7z": {
+        "identifier": "6ll7z",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ONE PIECE 3D: Gekisou! Trap Coaster",
+        "url": "https://9anime.to/watch/one-piece-3d-gekisou-trap-coaster.6ll7z",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/b7/b7706fda949b714584bcc01c34dd6a31.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12001,
+        "aniId": 12001,
+        "createdAt": "2021-12-24T18:57:55.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
         "deletedAt": null
       }
     }

@@ -40,6 +40,28 @@
         "updatedAt": "2021-12-02T10:47:48.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kami_no_kodomo": {
+        "authors": [
+          "NISHIOKA Kyoudai"
+        ],
+        "identifier": "kami_no_kodomo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kami no Kodomo",
+        "url": "https://fanfox.net/manga/kami_no_kodomo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9710/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 24808,
+        "aniId": 54808,
+        "createdAt": "2021-12-29T08:53:50.000Z",
+        "updatedAt": "2021-12-29T09:23:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

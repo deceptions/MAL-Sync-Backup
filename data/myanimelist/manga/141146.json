@@ -15,11 +15,34 @@
   "type": "manga",
   "title": "Little Hands",
   "url": "https://myanimelist.net/manga/141146/Little_Hands",
-  "image": "https://cdn.myanimelist.net/images/manga/3/251252.jpg",
+  "image": "https://cdn.myanimelist.net/images/manga/3/252480.jpg",
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-11-11T15:45:09.000Z",
-  "updatedAt": "2021-11-11T15:45:09.000Z",
+  "updatedAt": "2021-12-28T11:53:27.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "c8eeba12-a4b2-4ff9-b974-8178ef3232f7": {
+        "authors": [
+          "Hosokawa Shoya"
+        ],
+        "identifier": "c8eeba12-a4b2-4ff9-b974-8178ef3232f7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Little Hands",
+        "url": "https://mangadex.org/title/c8eeba12-a4b2-4ff9-b974-8178ef3232f7",
+        "image": "https://uploads.mangadex.org/covers/c8eeba12-a4b2-4ff9-b974-8178ef3232f7/24398ee7-13da-4d9b-abc5-8a76b9d2e21b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141146,
+        "aniId": 140210,
+        "createdAt": "2021-12-29T10:54:08.000Z",
+        "updatedAt": "2021-12-29T10:54:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

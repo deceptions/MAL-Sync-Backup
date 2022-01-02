@@ -16,6 +16,7 @@
   "altTitle": [
     "My Air Raid Shelter",
     "My Bomb Shelter",
+    "Sensou Douwa 4",
     "ぼくの防空壕"
   ],
   "id": 20207,
@@ -27,7 +28,7 @@
   "hentai": false,
   "anidbId": 3567,
   "createdAt": "2021-04-03T17:08:27.000Z",
-  "updatedAt": "2021-10-02T20:01:02.000Z",
+  "updatedAt": "2021-12-27T11:49:38.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -65,6 +66,25 @@
         "aniId": 20207,
         "createdAt": "2021-04-07T11:08:28.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "boku-no-boukuugou": {
+        "identifier": "boku-no-boukuugou",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Boku no Boukuugou",
+        "url": "https://gogoanime.cm/category/boku-no-boukuugou",
+        "image": "https://gogocdn.net/cover/boku-no-boukuugou.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20207,
+        "aniId": 20207,
+        "createdAt": "2021-12-24T18:57:55.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
         "deletedAt": null
       }
     }

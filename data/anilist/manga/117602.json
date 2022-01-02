@@ -15,7 +15,30 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-07-04T02:33:57.000Z",
-  "updatedAt": "2021-09-21T23:10:52.000Z",
+  "updatedAt": "2021-12-31T12:24:10.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "d64a16f5-64ac-4f27-a791-d18d7ea38ffc": {
+        "authors": [
+          "Wakamatsu"
+        ],
+        "identifier": "d64a16f5-64ac-4f27-a791-d18d7ea38ffc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kangoku Zemi Kanshu ni Zettai Fukujuu o Shiirarete",
+        "url": "https://mangadex.org/title/d64a16f5-64ac-4f27-a791-d18d7ea38ffc",
+        "image": "https://uploads.mangadex.org/covers/d64a16f5-64ac-4f27-a791-d18d7ea38ffc/071837b1-f692-444e-8d81-ced996109d33.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 117602,
+        "createdAt": "2020-10-12T16:17:28.000Z",
+        "updatedAt": "2022-01-01T17:03:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

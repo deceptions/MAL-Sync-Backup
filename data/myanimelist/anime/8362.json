@@ -27,7 +27,7 @@
   "hentai": false,
   "anidbId": 4707,
   "createdAt": "2020-10-12T15:38:58.000Z",
-  "updatedAt": "2021-10-02T03:33:44.000Z",
+  "updatedAt": "2021-12-30T22:26:23.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -65,6 +65,25 @@
         "aniId": 8362,
         "createdAt": "2021-01-17T07:02:43.000Z",
         "updatedAt": "2021-05-20T15:21:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "crayon-shin-chan-movie-08-arashi-wo-yobu-jungle": {
+        "identifier": "crayon-shin-chan-movie-08-arashi-wo-yobu-jungle",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Crayon Shin-chan Movie 08: Arashi wo Yobu Jungle",
+        "url": "https://gogoanime.cm/category/crayon-shin-chan-movie-08-arashi-wo-yobu-jungle",
+        "image": "https://gogocdn.net/cover/crayon-shin-chan-movie-08-arashi-wo-yobu-jungle.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8362,
+        "aniId": 8362,
+        "createdAt": "2021-12-30T22:26:22.000Z",
+        "updatedAt": "2021-12-30T22:53:27.000Z",
         "deletedAt": null
       }
     }

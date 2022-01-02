@@ -19,5 +19,29 @@
   "createdAt": "2021-08-31T11:36:43.000Z",
   "updatedAt": "2021-12-23T02:51:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "de53dc3b-9306-4f37-a5b1-ec9f8726a968": {
+        "authors": [
+          "Asahina Kiyo",
+          "ChiyoTokei"
+        ],
+        "identifier": "de53dc3b-9306-4f37-a5b1-ec9f8726a968",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shinigami no hatsukoi ~Botsuraku Kazoku no Reijou wa Ai wo Shiranai Shinigami ni Totsugu~",
+        "url": "https://mangadex.org/title/de53dc3b-9306-4f37-a5b1-ec9f8726a968",
+        "image": "https://uploads.mangadex.org/covers/de53dc3b-9306-4f37-a5b1-ec9f8726a968/68cd7b26-ba11-4021-a198-3a5ca1d643cb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 138607,
+        "createdAt": "2022-01-01T22:24:34.000Z",
+        "updatedAt": "2022-01-01T22:24:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

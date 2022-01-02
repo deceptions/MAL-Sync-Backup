@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:13.000Z",
-  "updatedAt": "2021-11-09T23:44:15.000Z",
+  "updatedAt": "2021-12-31T00:23:48.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,28 @@
         "aniId": 90766,
         "createdAt": "2020-10-12T16:09:45.000Z",
         "updatedAt": "2021-12-04T19:50:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sankaku_mado_no_sotogawa_wa_yoru": {
+        "authors": [
+          "YAMASHITA Tomoko"
+        ],
+        "identifier": "sankaku_mado_no_sotogawa_wa_yoru",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sankaku Mado no Sotogawa wa Yoru",
+        "url": "https://fanfox.net/manga/sankaku_mado_no_sotogawa_wa_yoru/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/33332/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68025,
+        "aniId": 90766,
+        "createdAt": "2021-12-31T00:23:40.000Z",
+        "updatedAt": "2021-12-31T00:53:27.000Z",
         "deletedAt": null
       }
     }

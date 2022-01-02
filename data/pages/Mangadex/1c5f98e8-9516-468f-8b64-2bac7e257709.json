@@ -12,13 +12,35 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 111748,
   "createdAt": "2020-10-12T16:17:50.000Z",
-  "updatedAt": "2021-11-23T21:35:59.000Z",
+  "updatedAt": "2022-01-01T17:02:28.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "My Kingdom",
+      "작은 전쟁",
+      "Silent War"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tharchog",
+      "Yanse"
+    ],
+    "id": 111748,
+    "malId": null,
+    "type": "manga",
+    "title": "Jageun Jeonjaeng",
+    "url": "https://anilist.co/manga/111748",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b111748-qH02zPlFVsEZ.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-05-21T04:12:57.000Z",
+    "updatedAt": "2021-12-22T11:22:48.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

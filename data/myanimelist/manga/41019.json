@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:08.000Z",
-  "updatedAt": "2021-09-30T17:11:24.000Z",
+  "updatedAt": "2021-12-27T11:45:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,29 @@
         "aniId": 71019,
         "createdAt": "2020-10-12T16:06:23.000Z",
         "updatedAt": "2021-12-03T19:46:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "kouya-no-koi": {
+        "authors": [
+          "SAKURABA Kazuki",
+          "TAKAHASHI Mako"
+        ],
+        "identifier": "kouya-no-koi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kouya no Koi",
+        "url": "https://mangasee123.com/manga/Kouya-No-Koi",
+        "image": "https://cover.nep.li/cover/Kouya-No-Koi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41019,
+        "aniId": 71019,
+        "createdAt": "2021-12-26T04:58:15.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
         "deletedAt": null
       }
     }

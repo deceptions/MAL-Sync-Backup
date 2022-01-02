@@ -46,15 +46,20 @@
     "hentai": false,
     "anidbId": 10253,
     "createdAt": "2020-10-12T15:39:24.000Z",
-    "updatedAt": "2021-10-02T21:04:36.000Z",
+    "updatedAt": "2021-12-27T11:42:58.000Z",
     "deletedAt": null
   },
   "Anilist": {
     "altTitle": [
       "STAND BY ME Doraemon",
-      "Stand By Me ドラえもん"
+      "STAND BY ME ドラえもん"
     ],
-    "externalLinks": [],
+    "externalLinks": [
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/80158156"
+      }
+    ],
     "id": 20515,
     "malId": 21469,
     "type": "anime",
@@ -64,7 +69,7 @@
     "category": "movie",
     "hentai": false,
     "createdAt": "2021-05-20T14:41:28.000Z",
-    "updatedAt": "2021-12-25T02:57:34.000Z",
+    "updatedAt": "2021-12-28T10:23:27.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon"

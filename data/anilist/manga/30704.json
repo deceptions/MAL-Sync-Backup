@@ -84,6 +84,28 @@
         "updatedAt": "2021-12-13T03:03:42.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "trigun_maximum": {
+        "authors": [
+          "NIGHTOW Yasuhiro"
+        ],
+        "identifier": "trigun_maximum",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Trigun MAXIMUM",
+        "url": "https://fanfox.net/manga/trigun_maximum/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/75/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 704,
+        "aniId": 30704,
+        "createdAt": "2021-12-28T05:53:41.000Z",
+        "updatedAt": "2021-12-28T06:23:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -7,14 +7,55 @@
   "image": "https://static.bunnycdn.ru/i/cache/images/b/b7/b7706fda949b714584bcc01c34dd6a31.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 12001,
+  "aniId": 12001,
   "createdAt": "2021-12-24T18:57:55.000Z",
-  "updatedAt": "2021-12-24T18:57:55.000Z",
+  "updatedAt": "2021-12-27T11:53:27.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.toei-anim.co.jp/news/detail/99/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8762"
+      }
+    ],
+    "altTitle": [
+      "ONE PIECE 3D 激走! トラップコースター"
+    ],
+    "id": 12001,
+    "type": "anime",
+    "title": "One Piece 3D: Gekisou! Trap Coaster",
+    "url": "https://myanimelist.net/anime/12001/One_Piece_3D__Gekisou_Trap_Coaster",
+    "image": "https://cdn.myanimelist.net/images/anime/4/33839.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "anidbId": 8762,
+    "createdAt": "2020-10-12T15:39:10.000Z",
+    "updatedAt": "2021-12-27T11:41:18.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ONE PIECE 3D 激走! トラップコースター"
+    ],
+    "externalLinks": [],
+    "id": 12001,
+    "malId": 12001,
+    "type": "anime",
+    "title": "ONE PIECE 3D: Gekisou! Trap Coaster",
+    "url": "https://anilist.co/anime/12001",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx12001-XX0NNNfaKZ3e.jpg",
+    "category": "movie",
+    "hentai": false,
+    "createdAt": "2021-05-27T10:28:42.000Z",
+    "updatedAt": "2021-12-01T10:35:35.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/12001/One_Piece_3D__Gekisou_Trap_Coaster"
 }

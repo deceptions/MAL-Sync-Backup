@@ -11,13 +11,53 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 108974,
+  "aniId": 102030,
   "createdAt": "2021-10-04T08:01:02.000Z",
-  "updatedAt": "2021-11-25T13:35:41.000Z",
+  "updatedAt": "2021-12-27T11:37:37.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "Serenade of the minus temperature.",
+      "マイナス温度のセレナーデ"
+    ],
+    "authors": [
+      "Ichikawa, Natsuwo"
+    ],
+    "id": 108974,
+    "type": "manga",
+    "title": "Minus Ondo no Serenade",
+    "url": "https://myanimelist.net/manga/108974/Minus_Ondo_no_Serenade",
+    "image": "https://cdn.myanimelist.net/images/manga/2/204608.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:11.000Z",
+    "updatedAt": "2021-11-30T02:06:09.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "マイナス温度のセレナーデ",
+      "Minus Temperature Serenade",
+      "Serenade of the Minus Temperature"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Natsuo Ichikawa"
+    ],
+    "id": 102030,
+    "malId": 108974,
+    "type": "manga",
+    "title": "Minus Ondo No Serenade",
+    "url": "https://anilist.co/manga/102030",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx102030-PrrWQh28CznJ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:56:04.000Z",
+    "updatedAt": "2021-12-18T04:18:35.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/108974/Minus_Ondo_no_Serenade"
 }

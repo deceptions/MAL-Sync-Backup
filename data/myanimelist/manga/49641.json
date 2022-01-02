@@ -44,6 +44,28 @@
         "updatedAt": "2021-12-03T18:49:40.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "ghost_walker": {
+        "authors": [
+          "SAKURA Megumi"
+        ],
+        "identifier": "ghost_walker",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ghost Walker",
+        "url": "https://fanfox.net/manga/ghost_walker/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/12223/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49641,
+        "aniId": 79641,
+        "createdAt": "2021-12-26T18:27:55.000Z",
+        "updatedAt": "2021-12-26T18:57:34.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

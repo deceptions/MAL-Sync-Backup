@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:41.000Z",
-  "updatedAt": "2021-10-12T12:14:45.000Z",
+  "updatedAt": "2022-01-02T00:54:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,28 @@
         "aniId": 81583,
         "createdAt": "2020-10-12T16:06:23.000Z",
         "updatedAt": "2021-12-03T19:46:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mw963479": {
+        "authors": [
+          "Ikeda Takashi"
+        ],
+        "identifier": "manga-mw963479",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "34-Sai Mushoku-San",
+        "url": "https://manganato.com/manga-mw963479",
+        "image": "https://avt.mkklcdnv6temp.com/50/d/8-1583480099.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 51583,
+        "aniId": null,
+        "createdAt": "2022-01-02T00:54:24.000Z",
+        "updatedAt": "2022-01-02T00:54:43.000Z",
         "deletedAt": null
       }
     }

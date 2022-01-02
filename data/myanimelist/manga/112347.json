@@ -19,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:25.000Z",
-  "updatedAt": "2021-11-29T01:36:02.000Z",
+  "updatedAt": "2021-12-31T11:56:20.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -85,6 +85,28 @@
         "aniId": 102215,
         "createdAt": "2021-05-29T01:12:33.000Z",
         "updatedAt": "2021-11-29T02:07:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "cigarette_cherry": {
+        "authors": [
+          "KAWAKAMI Daishirou"
+        ],
+        "identifier": "cigarette_cherry",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Cigarette & Cherry",
+        "url": "https://fanfox.net/manga/cigarette_cherry/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27310/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 112347,
+        "aniId": 102215,
+        "createdAt": "2021-06-21T07:50:58.000Z",
+        "updatedAt": "2021-12-21T08:26:27.000Z",
         "deletedAt": null
       }
     }

@@ -32,5 +32,43 @@
   "createdAt": "2021-12-23T00:51:47.000Z",
   "updatedAt": "2021-12-25T14:57:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "59572cb8-f1a6-4034-b5a1-8c72c2146ce6": {
+        "authors": [
+          "Type-Moon",
+          "Ashida Yuri",
+          "Takahara Yuu",
+          "Mameneko No. 2",
+          "Yuri Ashida",
+          "nAkuta",
+          "Hoshino Makoto",
+          "nipi",
+          "Takenashi Eri",
+          "Azami Masurao",
+          "Gonta",
+          "furu",
+          "uhanako",
+          "Royst",
+          "Ryousuke",
+          "metarogu"
+        ],
+        "identifier": "59572cb8-f1a6-4034-b5a1-8c72c2146ce6",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsukihime -A piece of blue glass moon- Comic Anthology",
+        "url": "https://mangadex.org/title/59572cb8-f1a6-4034-b5a1-8c72c2146ce6",
+        "image": "https://uploads.mangadex.org/covers/59572cb8-f1a6-4034-b5a1-8c72c2146ce6/137b1ec9-aab6-40ed-beb6-ffe316bd6a59.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 142992,
+        "createdAt": "2021-12-29T22:23:39.000Z",
+        "updatedAt": "2021-12-29T22:23:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

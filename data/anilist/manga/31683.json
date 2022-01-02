@@ -112,6 +112,28 @@
         "updatedAt": "2021-07-06T20:59:51.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "samurai_executioner": {
+        "authors": [
+          "Kazuo Koike"
+        ],
+        "identifier": "samurai_executioner",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Samurai Executioner",
+        "url": "https://fanfox.net/manga/samurai_executioner/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/758/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1683,
+        "aniId": 31683,
+        "createdAt": "2021-12-26T02:57:57.000Z",
+        "updatedAt": "2021-12-26T03:27:34.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

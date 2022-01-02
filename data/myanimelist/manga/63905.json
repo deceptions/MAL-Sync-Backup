@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:05.000Z",
-  "updatedAt": "2021-10-08T07:33:00.000Z",
+  "updatedAt": "2021-12-27T11:41:58.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,28 @@
         "aniId": 89878,
         "createdAt": "2020-10-12T16:06:59.000Z",
         "updatedAt": "2021-12-03T23:46:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "koi-nashi-ai-nashi": {
+        "authors": [
+          "TSUJITA Ririko"
+        ],
+        "identifier": "koi-nashi-ai-nashi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Koi Nashi Ai Nashi",
+        "url": "https://mangasee123.com/manga/Koi-Nashi-Ai-Nashi",
+        "image": "https://cover.nep.li/cover/Koi-Nashi-Ai-Nashi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 63905,
+        "aniId": 89878,
+        "createdAt": "2021-12-26T04:58:09.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
         "deletedAt": null
       }
     }

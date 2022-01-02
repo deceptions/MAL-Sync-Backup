@@ -46,26 +46,50 @@
         "deletedAt": null
       }
     },
-    "MangaFox": {
-      "santa_rikuei_yuu": {
+    "MangaSee": {
+      "heroic-chronicles-of-the-three-continents": {
         "authors": [
-          "SAKURAGI Sakura (桜木桜)",
+          "KAMIYA Yuu",
+          "SAKURAGI Sakura",
           "SHIBANO Kaito"
         ],
-        "identifier": "santa_rikuei_yuu",
+        "identifier": "heroic-chronicles-of-the-three-continents",
         "type": "manga",
-        "page": "MangaFox",
-        "title": "Santa Rikuei Yuu",
-        "url": "https://fanfox.net/manga/santa_rikuei_yuu/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/36701/cover.jpg",
+        "page": "MangaSee",
+        "title": "Heroic Chronicles of the Three Continents",
+        "url": "https://mangasee123.com/manga/Heroic-Chronicles-of-the-Three-Continents",
+        "image": "https://cover.nep.li/cover/Heroic-Chronicles-of-the-Three-Continents.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": null,
+        "actor": 2,
         "malId": 123455,
         "aniId": 127307,
-        "createdAt": "2021-06-30T09:51:11.000Z",
-        "updatedAt": "2021-06-30T10:20:01.000Z",
+        "createdAt": "2021-02-16T05:36:06.000Z",
+        "updatedAt": "2021-12-23T14:51:47.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kp987372": {
+        "authors": [
+          "Kamiya Yuu",
+          "Sakuragi Sakura"
+        ],
+        "identifier": "manga-kp987372",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Heroic Chronicles Of The Three Continents",
+        "url": "https://manganato.com/manga-kp987372",
+        "image": "https://avt.mkklcdnv6temp.com/45/c/22-1607750387.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 123455,
+        "aniId": 127307,
+        "createdAt": "2021-05-29T01:42:43.000Z",
+        "updatedAt": "2021-12-21T17:52:07.000Z",
         "deletedAt": null
       }
     }

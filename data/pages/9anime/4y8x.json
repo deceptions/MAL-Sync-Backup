@@ -7,14 +7,60 @@
   "image": "https://static.bunnycdn.ru/i/cache/images/5/5c/5c2e286ec4ef80169dbe5d36e2c39547.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 47410,
+  "aniId": 132634,
   "createdAt": "2021-12-25T02:58:25.000Z",
-  "updatedAt": "2021-12-25T02:58:25.000Z",
+  "updatedAt": "2021-12-27T11:53:27.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16380"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24123"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Initial_D_episodes#Initial_D:_Battle_Stage_3_(2021)"
+      }
+    ],
+    "altTitle": [
+      "Initial D Battle Stage 3",
+      "INITIAL D BATTLE STAGE 3"
+    ],
+    "id": 47410,
+    "type": "anime",
+    "title": "Initial D Battle Stage 3",
+    "url": "https://myanimelist.net/anime/47410/Initial_D_Battle_Stage_3",
+    "image": "https://cdn.myanimelist.net/images/anime/1236/113306.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "anidbId": 16380,
+    "createdAt": "2021-08-20T07:38:43.000Z",
+    "updatedAt": "2021-12-27T11:33:21.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "頭文字〈イニシャル〉D BATTLE STAGE 3 "
+    ],
+    "externalLinks": [],
+    "id": 132634,
+    "malId": 47410,
+    "type": "anime",
+    "title": "Initial D BATTLE STAGE 3",
+    "url": "https://anilist.co/anime/132634",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132634-ePR2y63z2sZO.jpg",
+    "category": "ova",
+    "hentai": false,
+    "createdAt": "2021-06-04T06:18:57.000Z",
+    "updatedAt": "2021-08-24T23:06:33.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/47410/Initial_D_Battle_Stage_3"
 }

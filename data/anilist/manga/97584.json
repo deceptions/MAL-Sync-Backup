@@ -43,6 +43,50 @@
         "updatedAt": "2021-12-04T22:18:57.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-ue972113": {
+        "authors": [
+          "Shimura Takako"
+        ],
+        "identifier": "manga-ue972113",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Sayonara, Otoko No Ko",
+        "url": "https://manganato.com/manga-ue972113",
+        "image": "https://avt.mkklcdnv6temp.com/8/g/14-1583490005.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100737,
+        "aniId": 97584,
+        "createdAt": "2021-12-26T19:28:39.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "sayonara_otoko_no_ko": {
+        "authors": [
+          "SHIMURA Takako"
+        ],
+        "identifier": "sayonara_otoko_no_ko",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Sayonara, Otoko no Ko",
+        "url": "https://fanfox.net/manga/sayonara_otoko_no_ko/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20921/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 100737,
+        "aniId": 97584,
+        "createdAt": "2021-12-27T08:57:58.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

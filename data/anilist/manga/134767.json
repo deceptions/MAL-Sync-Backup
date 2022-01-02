@@ -17,5 +17,28 @@
   "createdAt": "2021-08-07T21:24:40.000Z",
   "updatedAt": "2021-11-15T18:27:02.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "marginal_taylor": {
+        "authors": [
+          "limlim"
+        ],
+        "identifier": "marginal_taylor",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Marginal Taylor",
+        "url": "https://fanfox.net/manga/marginal_taylor/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/40659/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141873,
+        "aniId": 134767,
+        "createdAt": "2021-12-28T22:23:29.000Z",
+        "updatedAt": "2021-12-28T22:53:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

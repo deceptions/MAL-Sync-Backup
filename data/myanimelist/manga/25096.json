@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://websunday.net/rensai/ginsaji/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E9%8A%80%E3%81%AE%E5%8C%99_Silver_Spoon"
+    }
+  ],
   "altTitle": [
     "Silver Spoon",
     "銀の匙 Silver Spoon"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:16.000Z",
-  "updatedAt": "2021-09-22T02:11:10.000Z",
+  "updatedAt": "2021-12-30T09:53:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -121,6 +130,28 @@
         "aniId": 55096,
         "createdAt": "2021-06-01T15:35:30.000Z",
         "updatedAt": "2021-12-01T16:24:17.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "silver_spoon": {
+        "authors": [
+          "ARAKAWA Hiromu"
+        ],
+        "identifier": "silver_spoon",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Silver Spoon",
+        "url": "https://fanfox.net/manga/silver_spoon/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/9003/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25096,
+        "aniId": 55096,
+        "createdAt": "2021-12-30T09:53:27.000Z",
+        "updatedAt": "2021-12-30T10:23:27.000Z",
         "deletedAt": null
       }
     }

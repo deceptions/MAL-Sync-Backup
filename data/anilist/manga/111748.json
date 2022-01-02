@@ -20,5 +20,29 @@
   "createdAt": "2021-05-21T04:12:57.000Z",
   "updatedAt": "2021-12-22T11:22:48.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "1c5f98e8-9516-468f-8b64-2bac7e257709": {
+        "authors": [
+          "Tharchog",
+          "Yansae"
+        ],
+        "identifier": "1c5f98e8-9516-468f-8b64-2bac7e257709",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Silent War",
+        "url": "https://mangadex.org/title/1c5f98e8-9516-468f-8b64-2bac7e257709",
+        "image": "https://uploads.mangadex.org/covers/1c5f98e8-9516-468f-8b64-2bac7e257709/ded33bc7-7445-4e9b-a451-c82c4ee4f7a5.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 111748,
+        "createdAt": "2020-10-12T16:17:50.000Z",
+        "updatedAt": "2022-01-01T17:02:28.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

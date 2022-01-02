@@ -19,5 +19,53 @@
   "createdAt": "2021-12-24T11:57:35.000Z",
   "updatedAt": "2021-12-24T11:57:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-mx990132": {
+        "authors": [
+          "스튜디오M",
+          "해무극",
+          "김상록"
+        ],
+        "identifier": "manga-mx990132",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Maxed Out Leveling",
+        "url": "https://manganato.com/manga-mx990132",
+        "image": "https://avt.mkklcdnv6temp.com/11/n/25-1638634092.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 143059,
+        "createdAt": "2021-12-04T16:46:05.000Z",
+        "updatedAt": "2021-12-27T11:38:01.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "maxed-out-leveling": {
+        "authors": [
+          "Hae Mugeuk",
+          "Kim Sang-rok"
+        ],
+        "identifier": "maxed-out-leveling",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Maxed Out Leveling",
+        "url": "https://mangasee123.com/manga/Maxed-Out-Leveling",
+        "image": "https://cover.nep.li/cover/Maxed-Out-Leveling.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 143059,
+        "createdAt": "2021-12-07T18:47:26.000Z",
+        "updatedAt": "2021-12-27T11:37:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

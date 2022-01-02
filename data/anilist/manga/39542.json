@@ -84,6 +84,28 @@
         "updatedAt": "2021-11-17T18:44:03.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mei_no_naisho": {
+        "authors": [
+          "KUSAKA Shiroi"
+        ],
+        "identifier": "mei_no_naisho",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mei no Naisho",
+        "url": "https://fanfox.net/manga/mei_no_naisho/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/3933/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 9542,
+        "aniId": 39542,
+        "createdAt": "2021-12-30T07:54:22.000Z",
+        "updatedAt": "2021-12-30T08:23:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:48.000Z",
-  "updatedAt": "2021-11-06T02:34:21.000Z",
+  "updatedAt": "2021-12-27T11:28:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 33166,
         "createdAt": "2020-10-12T16:04:58.000Z",
         "updatedAt": "2021-12-03T09:47:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ai_no_shintairiku": {
+        "authors": [
+          "YAMADA Nari"
+        ],
+        "identifier": "ai_no_shintairiku",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ai no Shintairiku",
+        "url": "https://fanfox.net/manga/ai_no_shintairiku/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2083/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3166,
+        "aniId": 33166,
+        "createdAt": "2021-12-25T07:27:57.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
         "deletedAt": null
       }
     }

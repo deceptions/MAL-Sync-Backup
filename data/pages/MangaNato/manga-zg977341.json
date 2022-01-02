@@ -10,14 +10,53 @@
   "image": "https://avt.mkklcdnv6temp.com/41/d/15-1583493143.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 108782,
+  "aniId": 99778,
   "createdAt": "2021-12-24T15:27:55.000Z",
-  "updatedAt": "2021-12-24T15:27:55.000Z",
+  "updatedAt": "2021-12-27T11:53:27.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "ワルツ"
+    ],
+    "authors": [
+      "Oshimi, Shuuzou"
+    ],
+    "id": 108782,
+    "type": "manga",
+    "title": "Waltz",
+    "url": "https://myanimelist.net/manga/108782/Waltz",
+    "image": "https://cdn.myanimelist.net/images/manga/2/199265.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:47:10.000Z",
+    "updatedAt": "2021-12-27T11:31:21.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Waltz",
+      "ワルツ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Shuuzou Oshimi",
+      "Molly Rabbitt"
+    ],
+    "id": 99778,
+    "malId": 108782,
+    "type": "manga",
+    "title": "Waltz",
+    "url": "https://anilist.co/manga/99778",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx99778-r2oXUkLXtzgt.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:56:00.000Z",
+    "updatedAt": "2021-12-18T02:57:46.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/108782/Waltz"
 }

@@ -32,5 +32,44 @@
   "createdAt": "2021-12-02T09:17:48.000Z",
   "updatedAt": "2021-12-02T09:17:48.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "eiga-daisuki-pompo-san-movie": {
+        "identifier": "eiga-daisuki-pompo-san-movie",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Eiga Daisuki Pompo-san (Movie)",
+        "url": "https://gogoanime.cm/category/eiga-daisuki-pompo-san-movie",
+        "image": "https://gogocdn.net/cover/eiga-daisuki-pompo-san-movie.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41361,
+        "aniId": 99900,
+        "createdAt": "2021-12-27T09:58:07.000Z",
+        "updatedAt": "2021-12-27T10:27:34.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "yyvx": {
+        "identifier": "yyvx",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Eiga Daisuki Pompo-san",
+        "url": "https://9anime.to/watch/pompo-the-cinephile.yyvx",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/c7/c7bf562867c11d034fd30607306926f9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 41361,
+        "aniId": 99900,
+        "createdAt": "2021-12-27T09:58:37.000Z",
+        "updatedAt": "2021-12-27T10:27:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

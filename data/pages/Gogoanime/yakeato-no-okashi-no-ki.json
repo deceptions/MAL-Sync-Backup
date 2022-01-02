@@ -7,14 +7,61 @@
   "image": "https://gogocdn.net/cover/yakeato-no-okashi-no-ki.png",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 15815,
+  "aniId": 15815,
   "createdAt": "2021-12-24T20:57:56.000Z",
-  "updatedAt": "2021-12-24T20:57:56.000Z",
+  "updatedAt": "2021-12-27T11:53:27.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.shin-ei-animation.jp/sensoudouwashu/modules/okashi/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6760"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%84%BC%E8%B7%A1%E3%81%AE%E3%80%81%E3%81%8A%E8%8F%93%E5%AD%90%E3%81%AE%E6%9C%A8"
+      }
+    ],
+    "altTitle": [
+      "Sensou Douwa 5",
+      "Burning, Candy Tree",
+      "焼跡の, お菓子の木"
+    ],
+    "id": 15815,
+    "type": "anime",
+    "title": "Yakeato no, Okashi no Ki",
+    "url": "https://myanimelist.net/anime/15815/Yakeato_no_Okashi_no_Ki",
+    "image": "https://cdn.myanimelist.net/images/anime/9/42867.jpg",
+    "category": "Special",
+    "hentai": false,
+    "anidbId": 6760,
+    "createdAt": "2021-01-05T04:56:52.000Z",
+    "updatedAt": "2021-12-27T11:29:19.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "焼跡の"
+    ],
+    "externalLinks": [],
+    "id": 15815,
+    "malId": 15815,
+    "type": "anime",
+    "title": "Yakeato no, Okashi no Ki",
+    "url": "https://anilist.co/anime/15815",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15815.jpg",
+    "category": "special",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:40:22.000Z",
+    "updatedAt": "2021-12-17T13:53:35.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/15815/Yakeato_no_Okashi_no_Ki"
 }

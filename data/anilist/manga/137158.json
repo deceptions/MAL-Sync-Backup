@@ -64,6 +64,51 @@
         "updatedAt": "2021-10-13T21:28:45.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-mj990344": {
+        "authors": [
+          "Azuma Kyoutarou",
+          "Nakamaru Yosuke"
+        ],
+        "identifier": "manga-mj990344",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tenkaichi - Nihon Saikyou Bugeisha Ketteisen",
+        "url": "https://manganato.com/manga-mj990344",
+        "image": "https://avt.mkklcdnv6temp.com/20/o/25-1640941940.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139395,
+        "aniId": 137158,
+        "createdAt": "2021-12-31T09:53:41.000Z",
+        "updatedAt": "2021-12-31T10:23:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "tenkaichi_nihon_saikyou_bugeisha_ketteisen": {
+        "authors": [
+          "NAKAMARU Yosuke"
+        ],
+        "identifier": "tenkaichi_nihon_saikyou_bugeisha_ketteisen",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
+        "url": "https://fanfox.net/manga/tenkaichi_nihon_saikyou_bugeisha_ketteisen/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39508/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139395,
+        "aniId": 137158,
+        "createdAt": "2021-12-31T11:56:12.000Z",
+        "updatedAt": "2021-12-31T12:23:29.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

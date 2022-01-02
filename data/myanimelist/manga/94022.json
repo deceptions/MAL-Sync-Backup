@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:19.000Z",
-  "updatedAt": "2021-11-15T02:14:15.000Z",
+  "updatedAt": "2021-12-29T04:54:49.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 106552,
         "createdAt": "2021-11-26T04:07:16.000Z",
         "updatedAt": "2021-11-26T09:35:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kyuusai_no_hi": {
+        "authors": [
+          "NISHIOKA Kyoudai"
+        ],
+        "identifier": "kyuusai_no_hi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kyuusai no Hi",
+        "url": "https://fanfox.net/manga/kyuusai_no_hi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31155/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 94022,
+        "aniId": 106552,
+        "createdAt": "2021-12-29T04:54:41.000Z",
+        "updatedAt": "2021-12-29T05:23:27.000Z",
         "deletedAt": null
       }
     }

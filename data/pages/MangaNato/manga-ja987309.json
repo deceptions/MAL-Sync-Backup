@@ -11,13 +11,38 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
-  "malId": null,
+  "actor": 2,
+  "malId": 139269,
   "aniId": 125400,
   "createdAt": "2021-06-03T01:31:11.000Z",
-  "updatedAt": "2021-08-07T21:35:41.000Z",
+  "updatedAt": "2022-01-01T17:02:32.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://magazine.jp.square-enix.com/biggangan/introduction/mememorikun/"
+      }
+    ],
+    "altTitle": [
+      "Unparalleled Mememori-kun",
+      "I Can't Help It, Mememori-kun",
+      "目々盛くんには敵わない"
+    ],
+    "authors": [
+      "Moricocco"
+    ],
+    "id": 139269,
+    "type": "manga",
+    "title": "Mememori-kun ni wa Kanawanai",
+    "url": "https://myanimelist.net/manga/139269/Mememori-kun_ni_wa_Kanawanai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/249072.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-09-03T14:17:07.000Z",
+    "updatedAt": "2022-01-01T14:23:53.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "目々盛くんには敵わない",
@@ -40,5 +65,5 @@
     "updatedAt": "2021-09-06T19:34:30.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/139269/Mememori-kun_ni_wa_Kanawanai"
 }

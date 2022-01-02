@@ -91,6 +91,28 @@
         "updatedAt": "2021-09-16T07:10:42.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "takemitsu_zamurai": {
+        "authors": [
+          "EIFUKU Issei"
+        ],
+        "identifier": "takemitsu_zamurai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Takemitsu Zamurai",
+        "url": "https://fanfox.net/manga/takemitsu_zamurai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6751/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 15306,
+        "aniId": 45306,
+        "createdAt": "2021-12-28T07:23:38.000Z",
+        "updatedAt": "2021-12-28T07:53:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

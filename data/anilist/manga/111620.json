@@ -66,6 +66,28 @@
         "updatedAt": "2021-10-16T07:58:45.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "rust_eater_bisco": {
+        "authors": [
+          "Shinji Cobkubo"
+        ],
+        "identifier": "rust_eater_bisco",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Rust-Eater Bisco",
+        "url": "https://fanfox.net/manga/rust_eater_bisco/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30615/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119373,
+        "aniId": 111620,
+        "createdAt": "2022-01-01T19:23:34.000Z",
+        "updatedAt": "2022-01-01T19:53:32.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

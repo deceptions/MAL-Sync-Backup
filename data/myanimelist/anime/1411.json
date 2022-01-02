@@ -22,7 +22,7 @@
   "hentai": false,
   "anidbId": 547,
   "createdAt": "2020-10-12T15:38:16.000Z",
-  "updatedAt": "2021-09-30T22:05:13.000Z",
+  "updatedAt": "2021-12-31T11:24:31.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -77,6 +77,42 @@
         "aniId": 1411,
         "createdAt": "2020-10-12T15:58:13.000Z",
         "updatedAt": "2021-05-20T15:21:53.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "knights-of-ramune": {
+        "identifier": "knights-of-ramune",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Knights of Ramune",
+        "url": "https://gogoanime.cm/category/knights-of-ramune",
+        "image": "https://gogocdn.net/images/anime/K/Knights-of-Ramune.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1411,
+        "aniId": 1411,
+        "createdAt": "2021-12-31T11:24:22.000Z",
+        "updatedAt": "2021-12-31T11:53:29.000Z",
+        "deletedAt": null
+      },
+      "vs-knight-lamune-40-fresh": {
+        "identifier": "vs-knight-lamune-40-fresh",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "VS Knight Lamune & 40 Fresh",
+        "url": "https://gogoanime.cm/category/vs-knight-lamune-40-fresh",
+        "image": "https://gogocdn.net/cover/vs-knight-lamune-40-fresh.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1411,
+        "aniId": 1411,
+        "createdAt": "2021-12-31T11:24:32.000Z",
+        "updatedAt": "2021-12-31T11:53:29.000Z",
         "deletedAt": null
       }
     }

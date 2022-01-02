@@ -17,5 +17,44 @@
   "createdAt": "2021-05-20T23:42:57.000Z",
   "updatedAt": "2021-08-10T01:09:16.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "tunshi-xingkong-2nd-season": {
+        "identifier": "tunshi-xingkong-2nd-season",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tunshi Xingkong 2nd Season",
+        "url": "https://gogoanime.cm/category/tunshi-xingkong-2nd-season",
+        "image": "https://gogocdn.net/cover/tunshi-xingkong-2nd-season.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49571,
+        "aniId": 134283,
+        "createdAt": "2021-12-29T08:24:19.000Z",
+        "updatedAt": "2021-12-29T08:53:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "2o280": {
+        "identifier": "2o280",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tunshi Xingkong: Zhuanzhi Lingyun",
+        "url": "https://9anime.to/watch/swallowed-star-2nd-season.2o280",
+        "image": "https://static.bunnycdn.ru/i/cache/images/7/76/7660fc8417943ec6430f379f54161328.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 49571,
+        "aniId": 134283,
+        "createdAt": "2021-12-29T14:23:57.000Z",
+        "updatedAt": "2022-01-01T17:23:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

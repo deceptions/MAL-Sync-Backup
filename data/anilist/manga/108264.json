@@ -19,5 +19,28 @@
   "createdAt": "2021-10-17T06:28:45.000Z",
   "updatedAt": "2021-11-28T05:05:33.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "2fd5ad01-d052-4591-96d0-1c5685a68d82": {
+        "authors": [
+          "Amida Muku"
+        ],
+        "identifier": "2fd5ad01-d052-4591-96d0-1c5685a68d82",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Meshinuma",
+        "url": "https://mangadex.org/title/2fd5ad01-d052-4591-96d0-1c5685a68d82",
+        "image": "https://uploads.mangadex.org/covers/2fd5ad01-d052-4591-96d0-1c5685a68d82/36ebe82d-4ea0-4ae7-9eb2-5e21156f5148.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 108264,
+        "createdAt": "2021-12-26T20:27:56.000Z",
+        "updatedAt": "2021-12-26T20:27:56.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

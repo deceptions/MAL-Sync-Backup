@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:55.000Z",
-  "updatedAt": "2021-10-23T07:58:36.000Z",
+  "updatedAt": "2021-12-28T18:55:38.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -68,6 +68,28 @@
         "aniId": 98147,
         "createdAt": "2021-01-28T19:19:03.000Z",
         "updatedAt": "2021-11-20T18:14:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-xm974821": {
+        "authors": [
+          "Hiroshi Noda"
+        ],
+        "identifier": "manga-xm974821",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Mermaid Princess's Guilty Meal",
+        "url": "https://manganato.com/manga-xm974821",
+        "image": "https://avt.mkklcdnv6temp.com/49/y/14-1583491471.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 103953,
+        "aniId": 98147,
+        "createdAt": "2021-06-21T17:16:04.000Z",
+        "updatedAt": "2021-12-21T17:52:07.000Z",
         "deletedAt": null
       }
     },

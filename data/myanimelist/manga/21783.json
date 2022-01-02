@@ -17,5 +17,28 @@
   "createdAt": "2021-06-21T16:45:33.000Z",
   "updatedAt": "2021-12-21T16:54:07.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ed982112": {
+        "authors": [
+          "Jun Fudo"
+        ],
+        "identifier": "manga-ed982112",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Bikings",
+        "url": "https://manganato.com/manga-ed982112",
+        "image": "https://avt.mkklcdnv6temp.com/39/p/18-1583498633.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 21783,
+        "aniId": null,
+        "createdAt": "2021-06-21T16:45:25.000Z",
+        "updatedAt": "2021-12-21T16:54:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

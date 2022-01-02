@@ -11,13 +11,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 137005,
+  "aniId": 130238,
   "createdAt": "2021-02-26T16:55:53.000Z",
-  "updatedAt": "2021-12-08T12:09:41.000Z",
+  "updatedAt": "2022-01-01T17:23:32.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://mangacross.jp/comics/otonagal/"
+      }
+    ],
+    "altTitle": [
+      "Boku no Seito wa Otona Gyaru",
+      "僕の生徒はオトナギャル"
+    ],
+    "authors": [
+      "Ikoma, You"
+    ],
+    "id": 137005,
+    "type": "manga",
+    "title": "Boku no Seito wa Otona Gal",
+    "url": "https://myanimelist.net/manga/137005/Boku_no_Seito_wa_Otona_Gal",
+    "image": "https://cdn.myanimelist.net/images/manga/1/250326.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-30T05:24:19.000Z",
+    "updatedAt": "2021-12-30T05:24:19.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "僕の生徒はオトナギャル",
+      "Boku no Seito wa Otona Gyaru"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "You Ikoma"
+    ],
+    "id": 130238,
+    "malId": 137005,
+    "type": "manga",
+    "title": "Boku no Seito wa Otona Gal",
+    "url": "https://anilist.co/manga/130238",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130238-uzNeESuxfWmo.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-02T03:46:06.000Z",
+    "updatedAt": "2021-12-02T03:46:06.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/137005/Boku_no_Seito_wa_Otona_Gal"
 }

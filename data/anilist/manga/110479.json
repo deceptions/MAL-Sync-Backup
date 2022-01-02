@@ -18,5 +18,28 @@
   "createdAt": "2021-08-22T15:16:17.000Z",
   "updatedAt": "2021-08-22T15:16:17.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-cs979375": {
+        "authors": [
+          "Haruo Suso"
+        ],
+        "identifier": "manga-cs979375",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mayonaka No High Heels",
+        "url": "https://manganato.com/manga-cs979375",
+        "image": "https://avt.mkklcdnv6temp.com/39/c/16-1583494869.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126428,
+        "aniId": 110479,
+        "createdAt": "2021-12-28T02:23:39.000Z",
+        "updatedAt": "2021-12-28T02:53:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

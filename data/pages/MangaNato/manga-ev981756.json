@@ -15,13 +15,18 @@
   "malId": 120899,
   "aniId": 111341,
   "createdAt": "2021-06-26T13:49:46.000Z",
-  "updatedAt": "2021-06-26T14:19:19.000Z",
+  "updatedAt": "2021-12-26T14:27:56.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://bslogcomic.com/ookami/index.html"
+      }
+    ],
     "altTitle": [
-      "Princess of the Wolf Lord",
       "The Wolf Lord's Lady",
+      "Princess of the Wolf Lord",
       "狼領主のお嬢様"
     ],
     "authors": [
@@ -36,7 +41,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:48:05.000Z",
-    "updatedAt": "2021-06-26T13:50:13.000Z",
+    "updatedAt": "2021-12-27T12:23:58.000Z",
     "deletedAt": null
   },
   "Anilist": {

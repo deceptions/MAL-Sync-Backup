@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 129579,
   "createdAt": "2021-05-29T03:45:58.000Z",
-  "updatedAt": "2021-11-26T11:35:32.000Z",
+  "updatedAt": "2021-12-28T16:35:29.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "의원, 다시 살다",
+      "Doctor’s Rebirth"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tae-sun",
+      "Do-Bin"
+    ],
+    "id": 129579,
+    "malId": null,
+    "type": "manga",
+    "title": "Uiwon, Dasi Salda",
+    "url": "https://anilist.co/manga/129579",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b129579-4CjDJYnWI8el.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T14:12:59.000Z",
+    "updatedAt": "2021-12-14T00:18:45.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

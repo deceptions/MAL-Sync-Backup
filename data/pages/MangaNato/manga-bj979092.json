@@ -11,13 +11,57 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 124272,
+  "aniId": 102738,
   "createdAt": "2021-05-29T01:12:33.000Z",
-  "updatedAt": "2021-11-29T01:36:04.000Z",
+  "updatedAt": "2021-12-28T21:53:27.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.lezhin.com/ko/comic/suicideboy"
+      }
+    ],
+    "altTitle": [
+      "Jasal Sonyeon",
+      "자살 소년"
+    ],
+    "authors": [
+      "Parkgee"
+    ],
+    "id": 124272,
+    "type": "manga",
+    "title": "Suicide Boy",
+    "url": "https://myanimelist.net/manga/124272/Suicide_Boy",
+    "image": "https://cdn.myanimelist.net/images/manga/2/226686.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:48:13.000Z",
+    "updatedAt": "2021-12-28T21:23:39.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Suicide Boy",
+      "자살 소년"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Gee Park"
+    ],
+    "id": 102738,
+    "malId": 124272,
+    "type": "manga",
+    "title": "Jasal Sonyeon",
+    "url": "https://anilist.co/manga/102738",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx102738-sJWf8xlyN6sH.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:04.000Z",
+    "updatedAt": "2021-12-18T04:23:06.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/124272/Suicide_Boy"
 }

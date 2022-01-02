@@ -10,14 +10,81 @@
   "image": "https://avt.mkklcdnv6temp.com/30/k/1-1583464890.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 928,
+  "aniId": 30928,
   "createdAt": "2021-12-24T18:57:55.000Z",
-  "updatedAt": "2021-12-24T18:57:55.000Z",
+  "updatedAt": "2021-12-27T11:53:27.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BCSPECIAL"
+      }
+    ],
+    "altTitle": [
+      "Pokémon Special",
+      "Pokespecial",
+      "Pokemon Adventures",
+      "Pokémon Black and White",
+      "Pocket Monsters Special XY",
+      "Pocket Monsters Special Omega Ruby Alpha Sapphire ORAS",
+      "Pocket Monsters Special Sun Moon",
+      "Pocket Monsters Special Sword and Shield",
+      "Pokémon Adventures",
+      "ポケットモンスターSPECIAL"
+    ],
+    "authors": [
+      "Kusaka, Hidenori",
+      "Yamamoto, Satoshi",
+      "Mato"
+    ],
+    "id": 928,
+    "type": "manga",
+    "title": "Pocket Monsters Special",
+    "url": "https://myanimelist.net/manga/928/Pocket_Monsters_Special",
+    "image": "https://cdn.myanimelist.net/images/manga/1/16458.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:40:28.000Z",
+    "updatedAt": "2021-12-27T11:37:50.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Pokémon Adventures",
+      "ポケットモンスターSPECIAL",
+      "Pokémon Special",
+      "PokéSpe",
+      "Pokemon Special",
+      "Pokémon-eventyrene"
+    ],
+    "externalLinks": [
+      {
+        "site": "VIZ",
+        "url": "https://www.viz.com/read/manga/pokemon-adventures-collector-s-edition-volume-1/product/6237"
+      }
+    ],
+    "authors": [
+      "Hidenori Kusaka",
+      "Satoshi Yamamoto",
+      "Mato",
+      "Stephanie Lanuza",
+      "Vegard Aune"
+    ],
+    "id": 30928,
+    "malId": 928,
+    "type": "manga",
+    "title": "Pocket Monsters SPECIAL",
+    "url": "https://anilist.co/manga/30928",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx30928-RPsTlrXezNsv.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:35:47.000Z",
+    "updatedAt": "2021-09-20T19:10:43.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/928/Pocket_Monsters_Special"
 }

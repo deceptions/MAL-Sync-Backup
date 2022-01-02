@@ -94,6 +94,28 @@
         "updatedAt": "2021-12-02T15:19:08.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "gto_shonan_14_days": {
+        "authors": [
+          "FUJISAWA Tohru"
+        ],
+        "identifier": "gto_shonan_14_days",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "GTO: Shonan 14 Days",
+        "url": "https://fanfox.net/manga/gto_shonan_14_days/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/6099/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 14531,
+        "aniId": 44531,
+        "createdAt": "2021-06-24T10:45:56.000Z",
+        "updatedAt": "2021-12-24T11:27:55.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

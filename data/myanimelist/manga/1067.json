@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%BC%E3%82%B6%E3%83%AC_%E7%A0%B4%E5%A3%8A%E3%81%AE%E5%89%B5%E9%80%A0%E8%80%85"
+    }
+  ],
   "altTitle": [
     "チェーザレ 破壊の創造者"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:29.000Z",
-  "updatedAt": "2021-06-30T03:51:37.000Z",
+  "updatedAt": "2021-12-30T03:54:29.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -60,28 +65,6 @@
         "aniId": 31067,
         "createdAt": "2021-02-12T13:40:52.000Z",
         "updatedAt": "2021-11-20T18:44:25.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-nr952674": {
-        "authors": [
-          "Souryo Fuyumi"
-        ],
-        "identifier": "manga-nr952674",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Cesare",
-        "url": "https://manganato.com/manga-nr952674",
-        "image": "https://avt.mkklcdnv6temp.com/47/t/1-1583465586.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": 1,
-        "malId": 1067,
-        "aniId": 31067,
-        "createdAt": "2021-06-30T03:51:27.000Z",
-        "updatedAt": "2021-06-30T07:50:01.000Z",
         "deletedAt": null
       }
     }

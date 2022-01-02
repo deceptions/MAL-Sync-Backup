@@ -18,5 +18,28 @@
   "createdAt": "2021-05-22T05:42:58.000Z",
   "updatedAt": "2021-11-08T18:43:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "toshishita_no_senpai_hinohara_fuki": {
+        "authors": [
+          "HINOHARA Fuki"
+        ],
+        "identifier": "toshishita_no_senpai_hinohara_fuki",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Toshishita no Senpai (HINOHARA Fuki)",
+        "url": "https://fanfox.net/manga/toshishita_no_senpai_hinohara_fuki/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/40658/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140485,
+        "aniId": 134443,
+        "createdAt": "2021-12-31T10:53:51.000Z",
+        "updatedAt": "2021-12-31T11:23:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

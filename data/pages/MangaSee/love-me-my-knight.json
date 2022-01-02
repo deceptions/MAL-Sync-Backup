@@ -15,10 +15,15 @@
   "malId": 7949,
   "aniId": 37949,
   "createdAt": "2021-06-27T08:19:50.000Z",
-  "updatedAt": "2021-06-27T08:49:19.000Z",
+  "updatedAt": "2021-12-27T08:57:58.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%84%9B%E3%81%97%E3%81%A6%E3%83%8A%E3%82%A4%E3%83%88"
+      }
+    ],
     "altTitle": [
       "Love Me, My Knight",
       "愛してナイト"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:41:16.000Z",
-    "updatedAt": "2021-06-27T08:19:53.000Z",
+    "updatedAt": "2021-12-27T11:33:10.000Z",
     "deletedAt": null
   },
   "Anilist": {

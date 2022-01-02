@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 143241,
   "createdAt": "2021-06-04T00:49:18.000Z",
-  "updatedAt": "2021-12-04T01:18:38.000Z",
+  "updatedAt": "2022-01-01T17:03:02.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Great Divine Master",
+      "万神祖师"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Le Jiang Whenhua",
+      "Zuo Ye Xian Ren",
+      "Yan Zheng",
+      "Qing Yi"
+    ],
+    "id": 143241,
+    "malId": null,
+    "type": "manga",
+    "title": "Wan Shen Zu Shi",
+    "url": "https://anilist.co/manga/143241",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143241-9LXYyiKjqw3Y.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-30T17:23:28.000Z",
+    "updatedAt": "2021-12-30T17:23:28.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

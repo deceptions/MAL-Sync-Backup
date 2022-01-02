@@ -17,5 +17,28 @@
   "createdAt": "2021-10-11T12:08:03.000Z",
   "updatedAt": "2021-11-03T04:04:20.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "c8eeba12-a4b2-4ff9-b974-8178ef3232f7": {
+        "authors": [
+          "Hosokawa Shoya"
+        ],
+        "identifier": "c8eeba12-a4b2-4ff9-b974-8178ef3232f7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Little Hands",
+        "url": "https://mangadex.org/title/c8eeba12-a4b2-4ff9-b974-8178ef3232f7",
+        "image": "https://uploads.mangadex.org/covers/c8eeba12-a4b2-4ff9-b974-8178ef3232f7/24398ee7-13da-4d9b-abc5-8a76b9d2e21b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141146,
+        "aniId": 140210,
+        "createdAt": "2021-12-29T10:54:08.000Z",
+        "updatedAt": "2021-12-29T10:54:08.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

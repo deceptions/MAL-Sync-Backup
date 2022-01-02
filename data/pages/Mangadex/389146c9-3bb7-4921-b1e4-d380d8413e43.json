@@ -1,7 +1,7 @@
 {
   "authors": [
-    "HIZUKI Shihou",
-    "OHITASHI Netsurou"
+    "Hizuki Shihou",
+    "Ohitashi Netsurou"
   ],
   "identifier": "389146c9-3bb7-4921-b1e4-d380d8413e43",
   "type": "manga",
@@ -12,13 +12,39 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 2,
+  "malId": 133648,
   "aniId": null,
   "createdAt": "2020-10-12T16:20:38.000Z",
-  "updatedAt": "2021-10-04T12:30:52.000Z",
+  "updatedAt": "2022-01-01T16:59:47.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-boost.com/series/208"
+      }
+    ],
+    "altTitle": [
+      "The Villainess Became a Commoner",
+      "Lady Villain Fell Into a Common Person",
+      "悪役令嬢、庶民に堕ちる"
+    ],
+    "authors": [
+      "Ohitashi, Netsurou",
+      "Hizuki, Shihou"
+    ],
+    "id": 133648,
+    "type": "manga",
+    "title": "Akuyaku Reijou, Shomin ni Ochiru",
+    "url": "https://myanimelist.net/manga/133648/Akuyaku_Reijou_Shomin_ni_Ochiru",
+    "image": "https://cdn.myanimelist.net/images/manga/1/245358.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-07-07T05:00:03.000Z",
+    "updatedAt": "2022-01-01T14:23:34.000Z",
+    "deletedAt": null
+  },
   "Anilist": null,
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/133648/Akuyaku_Reijou_Shomin_ni_Ochiru"
 }

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://www.comic-valkyrie.com/tadokorosan/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E6%89%80%E3%81%95%E3%82%93"
+    }
+  ],
   "altTitle": [
     "田所さん"
   ],
@@ -14,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:10.000Z",
-  "updatedAt": "2021-06-29T17:20:23.000Z",
+  "updatedAt": "2021-12-29T17:24:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -120,26 +129,6 @@
         "aniId": 110949,
         "createdAt": "2021-05-29T03:14:23.000Z",
         "updatedAt": "2021-11-29T04:07:04.000Z",
-        "deletedAt": null
-      },
-      "manga-fl983346": {
-        "authors": [
-          "Tatsubon"
-        ],
-        "identifier": "manga-fl983346",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Tadokoro-San (Tatsubon)",
-        "url": "https://manganato.com/manga-fl983346",
-        "image": "https://avt.mkklcdnv6temp.com/35/b/19-1583500467.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 123090,
-        "aniId": 110949,
-        "createdAt": "2021-06-29T17:20:13.000Z",
-        "updatedAt": "2021-06-29T17:50:01.000Z",
         "deletedAt": null
       }
     }

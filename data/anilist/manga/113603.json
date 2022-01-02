@@ -19,5 +19,29 @@
   "createdAt": "2021-10-06T20:32:19.000Z",
   "updatedAt": "2021-12-11T14:33:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "bc790a17-12d6-4f5b-92d0-a3af32eb86bc": {
+        "authors": [
+          "Joh Araki",
+          "Nagatomo Kenji"
+        ],
+        "identifier": "bc790a17-12d6-4f5b-92d0-a3af32eb86bc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Champagne",
+        "url": "https://mangadex.org/title/bc790a17-12d6-4f5b-92d0-a3af32eb86bc",
+        "image": "https://uploads.mangadex.org/covers/bc790a17-12d6-4f5b-92d0-a3af32eb86bc/df855ab0-89aa-4253-9ae8-0d8bac28c4eb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 113959,
+        "aniId": 113603,
+        "createdAt": "2021-12-28T06:23:27.000Z",
+        "updatedAt": "2021-12-28T06:53:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

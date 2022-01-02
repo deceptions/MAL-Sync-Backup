@@ -65,6 +65,28 @@
         "updatedAt": "2021-12-15T01:19:25.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "the_rapeman": {
+        "authors": [
+          "AISAKI Keiko"
+        ],
+        "identifier": "the_rapeman",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "The Rapeman",
+        "url": "https://fanfox.net/manga/the_rapeman/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31051/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 8506,
+        "aniId": 38506,
+        "createdAt": "2021-06-21T07:27:50.000Z",
+        "updatedAt": "2021-12-21T07:59:58.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

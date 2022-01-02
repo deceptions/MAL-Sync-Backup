@@ -18,5 +18,28 @@
   "createdAt": "2021-06-23T00:46:04.000Z",
   "updatedAt": "2021-12-23T00:51:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-fe983087": {
+        "authors": [
+          "Kaiyuan Comic"
+        ],
+        "identifier": "manga-fe983087",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Romance With My Boss",
+        "url": "https://readmanganato.com/manga-fe983087",
+        "image": "https://avt.mkklcdnv6temp.com/25/o/19-1583500116.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 109550,
+        "createdAt": "2021-06-23T00:46:04.000Z",
+        "updatedAt": "2021-12-23T00:51:46.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

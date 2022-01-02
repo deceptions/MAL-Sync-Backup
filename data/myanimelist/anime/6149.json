@@ -18,8 +18,8 @@
     }
   ],
   "altTitle": [
-    "Little Miss Maruko",
     "Maruko-chan",
+    "Little Miss Maruko",
     "ちびまる子ちゃん"
   ],
   "id": 6149,
@@ -31,7 +31,46 @@
   "hentai": false,
   "anidbId": 1842,
   "createdAt": "2020-10-12T15:38:50.000Z",
-  "updatedAt": "2021-10-01T21:36:14.000Z",
+  "updatedAt": "2021-12-27T11:33:01.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "7jj5y": {
+        "identifier": "7jj5y",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Chibi Maruko-chan (1995) (Dub)",
+        "url": "https://9anime.to/watch/little-miss-maruko-dub.7jj5y",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/40/4057f12bfa7f529f26e5c3616efd2295.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6149,
+        "aniId": 6149,
+        "createdAt": "2021-12-26T20:28:26.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "chibi-maruko-chan-1995-dub": {
+        "identifier": "chibi-maruko-chan-1995-dub",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Chibi Maruko-chan (1995) (Dub)",
+        "url": "https://gogoanime.cm/category/chibi-maruko-chan-1995-dub",
+        "image": "https://gogocdn.net/cover/chibi-maruko-chan-1995-dub.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6149,
+        "aniId": 6149,
+        "createdAt": "2021-12-31T18:56:02.000Z",
+        "updatedAt": "2021-12-31T19:23:29.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

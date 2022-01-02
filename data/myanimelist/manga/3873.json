@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:54.000Z",
-  "updatedAt": "2021-11-14T07:43:50.000Z",
+  "updatedAt": "2021-12-31T04:23:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,6 +64,28 @@
         "aniId": 33873,
         "createdAt": "2021-05-31T21:53:06.000Z",
         "updatedAt": "2021-12-01T00:44:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "orochi": {
+        "authors": [
+          "UMEZU Kazuo"
+        ],
+        "identifier": "orochi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Orochi",
+        "url": "https://fanfox.net/manga/orochi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5967/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3873,
+        "aniId": 33873,
+        "createdAt": "2021-12-31T04:23:40.000Z",
+        "updatedAt": "2021-12-31T04:53:27.000Z",
         "deletedAt": null
       }
     }

@@ -19,7 +19,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-10-13T00:00:25.000Z",
-  "updatedAt": "2021-11-26T02:05:42.000Z",
+  "updatedAt": "2021-12-27T11:30:19.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "dc22d3e5-96fe-4f3f-b8ed-a4e61fa62006": {
+        "authors": [
+          "Agasa Reiji"
+        ],
+        "identifier": "dc22d3e5-96fe-4f3f-b8ed-a4e61fa62006",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kami no Manimani",
+        "url": "https://mangadex.org/title/dc22d3e5-96fe-4f3f-b8ed-a4e61fa62006",
+        "image": "https://uploads.mangadex.org/covers/dc22d3e5-96fe-4f3f-b8ed-a4e61fa62006/9f93fddc-a6c8-4aff-8d7e-cf4e77b2be10.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139762,
+        "aniId": 137266,
+        "createdAt": "2021-12-26T09:27:55.000Z",
+        "updatedAt": "2021-12-27T11:30:19.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

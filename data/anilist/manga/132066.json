@@ -39,6 +39,28 @@
         "updatedAt": "2021-12-05T15:46:27.000Z",
         "deletedAt": null
       }
+    },
+    "Mangadex": {
+      "fd37e322-3032-4fa4-89d9-f22d7f43c27c": {
+        "authors": [
+          "Itou Amu"
+        ],
+        "identifier": "fd37e322-3032-4fa4-89d9-f22d7f43c27c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Even If I'm Not Fifteen.",
+        "url": "https://mangadex.org/title/fd37e322-3032-4fa4-89d9-f22d7f43c27c",
+        "image": "https://uploads.mangadex.org/covers/fd37e322-3032-4fa4-89d9-f22d7f43c27c/33a2541b-fe09-447e-bf81-2cb948445bfa.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 142423,
+        "aniId": 132066,
+        "createdAt": "2021-10-13T21:28:56.000Z",
+        "updatedAt": "2021-12-28T15:31:25.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 93860,
-  "aniId": null,
+  "aniId": 143198,
   "createdAt": "2020-10-12T16:08:55.000Z",
-  "updatedAt": "2021-12-04T13:54:11.000Z",
+  "updatedAt": "2021-12-29T09:23:27.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -41,6 +41,25 @@
     "updatedAt": "2021-11-15T00:14:37.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "少女回路"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kimuchi Yokohama"
+    ],
+    "id": 143198,
+    "malId": 93860,
+    "type": "manga",
+    "title": "Shoujo Kairo",
+    "url": "https://anilist.co/manga/143198",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b143198-4hEwPY0JE01j.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-29T08:53:28.000Z",
+    "updatedAt": "2021-12-29T08:53:28.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/93860/Shoujo_Kairo"
 }

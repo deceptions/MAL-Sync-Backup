@@ -7,14 +7,64 @@
   "image": "https://gogocdn.net/cover/boku-no-boukuugou.png",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 20207,
+  "aniId": 20207,
   "createdAt": "2021-12-24T18:57:55.000Z",
-  "updatedAt": "2021-12-24T18:57:55.000Z",
+  "updatedAt": "2021-12-27T11:53:27.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.shin-ei-animation.jp/sensoudouwashu/modules/bokugo/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3567"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6498"
+      }
+    ],
+    "altTitle": [
+      "My Air Raid Shelter",
+      "My Bomb Shelter",
+      "Sensou Douwa 4",
+      "ぼくの防空壕"
+    ],
+    "id": 20207,
+    "type": "anime",
+    "title": "Boku no Boukuugou",
+    "url": "https://myanimelist.net/anime/20207/Boku_no_Boukuugou",
+    "image": "https://cdn.myanimelist.net/images/anime/11/53783.jpg",
+    "category": "Special",
+    "hentai": false,
+    "anidbId": 3567,
+    "createdAt": "2021-04-03T17:08:27.000Z",
+    "updatedAt": "2021-12-27T11:49:38.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ぼくの防空壕",
+      "My Air Raid Shelter",
+      "My Bomb Shelter"
+    ],
+    "externalLinks": [],
+    "id": 20207,
+    "malId": 20207,
+    "type": "anime",
+    "title": "Boku no Boukuugou",
+    "url": "https://anilist.co/anime/20207",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20207.jpg",
+    "category": "special",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:40:37.000Z",
+    "updatedAt": "2021-12-17T14:22:45.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/20207/Boku_no_Boukuugou"
 }

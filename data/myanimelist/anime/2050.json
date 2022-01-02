@@ -26,7 +26,7 @@
   "hentai": false,
   "anidbId": 2980,
   "createdAt": "2020-10-12T15:38:25.000Z",
-  "updatedAt": "2021-10-01T03:35:44.000Z",
+  "updatedAt": "2021-12-27T11:46:38.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -45,6 +45,25 @@
         "aniId": 2050,
         "createdAt": "2020-10-12T15:51:11.000Z",
         "updatedAt": "2021-05-20T15:21:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "honoo-no-tenkousei": {
+        "identifier": "honoo-no-tenkousei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Honoo no Tenkousei",
+        "url": "https://gogoanime.cm/category/honoo-no-tenkousei",
+        "image": "https://gogocdn.net/cover/honoo-no-tenkousei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2050,
+        "aniId": 2050,
+        "createdAt": "2021-12-27T07:57:56.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
         "deletedAt": null
       }
     }

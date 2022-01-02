@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%82%A8%E3%83%AB%E3%83%A1%E3%83%AD%E3%82%A4II%E4%B8%96%E3%81%AE%E4%BA%8B%E4%BB%B6%E7%B0%BF"
+    }
+  ],
   "altTitle": [
     "Lord El-Melloi II Case Files",
     "ロード・エルメロイⅡ世の事件簿"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:06.000Z",
-  "updatedAt": "2021-06-29T07:19:46.000Z",
+  "updatedAt": "2021-12-29T07:23:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -87,29 +92,6 @@
         "aniId": 103075,
         "createdAt": "2021-03-21T00:36:22.000Z",
         "updatedAt": "2021-11-20T19:45:18.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-ci979517": {
-        "authors": [
-          "Type-Moon",
-          "Sanda Makoto"
-        ],
-        "identifier": "manga-ci979517",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Lord El-Melloi Ii-Sei No Jikenbo",
-        "url": "https://readmanganato.com/manga-ci979517",
-        "image": "https://avt.mkklcdnv6temp.com/44/l/16-1583495068.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 107551,
-        "aniId": 103075,
-        "createdAt": "2021-06-29T07:19:41.000Z",
-        "updatedAt": "2021-06-29T07:49:24.000Z",
         "deletedAt": null
       }
     }

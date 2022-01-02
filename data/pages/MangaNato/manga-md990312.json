@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 143099,
   "createdAt": "2021-12-22T06:51:56.000Z",
-  "updatedAt": "2021-12-22T06:51:56.000Z",
+  "updatedAt": "2021-12-27T18:44:20.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "영원한 너의 거짓말",
+      "Your Eternal Lies",
+      "Yeongwonhan Neoui Geojismal "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Jeonhuchi",
+      "Kkomak",
+      "Meong"
+    ],
+    "id": 143099,
+    "malId": null,
+    "type": "manga",
+    "title": "Yeongwonhan Neoui Geojinmal",
+    "url": "https://anilist.co/manga/143099",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143099-N3sD29ifXknt.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-26T13:57:35.000Z",
+    "updatedAt": "2021-12-26T13:57:35.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -18,12 +18,17 @@
   "updatedAt": "2021-11-20T19:45:15.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%81%93%E3%82%8C%E3%81%AF%E3%82%BE%E3%83%B3%E3%83%93%E3%81%A7%E3%81%99%E3%81%8B%3F"
+      }
+    ],
     "altTitle": [
-      "Is this a Zombie?",
       "Kore wa Zonbi desu ka?",
       "Kore wa Zombie desuka?",
       "KoreZom",
+      "Is this a Zombie?",
       "これはゾンビですか?"
     ],
     "authors": [
@@ -38,7 +43,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:42:57.000Z",
-    "updatedAt": "2021-07-12T16:46:02.000Z",
+    "updatedAt": "2021-12-30T00:24:19.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -7,14 +7,71 @@
   "image": "https://gogocdn.net/cover/papillon-rose.png",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 3112,
+  "aniId": 3112,
   "createdAt": "2021-12-25T18:28:17.000Z",
-  "updatedAt": "2021-12-25T18:28:17.000Z",
+  "updatedAt": "2021-12-27T11:53:27.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.ayaya.co.jp/"
+      },
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3996"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6010"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Papillon_rose"
+      }
+    ],
+    "altTitle": [
+      "Papillon Rose: New Season",
+      "Papillon Rose",
+      "パピヨンローゼ"
+    ],
+    "id": 3112,
+    "type": "anime",
+    "title": "Papillon Rose",
+    "url": "https://myanimelist.net/anime/3112/Papillon_Rose",
+    "image": "https://cdn.myanimelist.net/images/anime/7/21126.jpg",
+    "category": "TV",
+    "hentai": false,
+    "anidbId": 3996,
+    "createdAt": "2020-10-12T15:38:35.000Z",
+    "updatedAt": "2021-12-27T11:45:48.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "パピヨンローゼ",
+      "Papillon Rose: New Season"
+    ],
+    "externalLinks": [
+      {
+        "site": "Hidive",
+        "url": "https://www.hidive.com/tv/papillon-rose"
+      }
+    ],
+    "id": 3112,
+    "malId": 3112,
+    "type": "anime",
+    "title": "Papillon Rose",
+    "url": "https://anilist.co/anime/3112",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3112.jpg",
+    "category": "tv",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:36:34.000Z",
+    "updatedAt": "2021-12-17T10:52:04.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/3112/Papillon_Rose"
 }

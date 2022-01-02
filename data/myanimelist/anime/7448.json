@@ -26,7 +26,27 @@
   "hentai": false,
   "anidbId": 9338,
   "createdAt": "2020-10-12T15:38:55.000Z",
-  "updatedAt": "2021-10-02T01:09:06.000Z",
+  "updatedAt": "2021-12-27T11:42:38.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "lll0q": {
+        "identifier": "lll0q",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Pacusi",
+        "url": "https://9anime.to/watch/pacusi.lll0q",
+        "image": "https://static.bunnycdn.ru/i/cache/images/c/cf/cf7bfde0dbd7aa6a75aa256a81c26cb1.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 7448,
+        "aniId": null,
+        "createdAt": "2021-12-26T16:28:25.000Z",
+        "updatedAt": "2021-12-27T11:42:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

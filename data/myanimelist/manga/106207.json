@@ -1,5 +1,5 @@
 {
-  "externalLinks": null,
+  "externalLinks": [],
   "altTitle": [
     "Red Hood"
   ],
@@ -14,7 +14,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:02.000Z",
-  "updatedAt": "2021-06-29T10:09:35.000Z",
+  "updatedAt": "2021-12-29T10:31:19.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "9ce6ad17-e3ce-4250-935e-ae13d4e8ee6d": {
+        "authors": [
+          "Haji"
+        ],
+        "identifier": "9ce6ad17-e3ce-4250-935e-ae13d4e8ee6d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Red Hood",
+        "url": "https://mangadex.org/title/9ce6ad17-e3ce-4250-935e-ae13d4e8ee6d",
+        "image": "https://uploads.mangadex.org/covers/9ce6ad17-e3ce-4250-935e-ae13d4e8ee6d/29dfccb8-85f1-4122-be71-21a254d4e8dd.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 106207,
+        "aniId": 105954,
+        "createdAt": "2021-06-29T10:09:28.000Z",
+        "updatedAt": "2022-01-01T17:03:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

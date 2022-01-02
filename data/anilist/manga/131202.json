@@ -19,5 +19,28 @@
   "createdAt": "2021-05-27T11:28:43.000Z",
   "updatedAt": "2021-07-07T08:59:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "479e9d44-8385-454f-8eaf-08b621cfe844": {
+        "authors": [
+          "Aoi Mamoru"
+        ],
+        "identifier": "479e9d44-8385-454f-8eaf-08b621cfe844",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Koi no Hajimari",
+        "url": "https://mangadex.org/title/479e9d44-8385-454f-8eaf-08b621cfe844",
+        "image": "https://uploads.mangadex.org/covers/479e9d44-8385-454f-8eaf-08b621cfe844/96ce0a81-c9f9-4f2d-bacc-8d9d2cad731f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 138476,
+        "aniId": 131202,
+        "createdAt": "2020-11-28T18:31:30.000Z",
+        "updatedAt": "2021-12-27T18:53:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

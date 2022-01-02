@@ -25,7 +25,32 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-10-10T19:08:05.000Z",
-  "updatedAt": "2021-10-10T19:08:05.000Z",
+  "updatedAt": "2021-12-28T12:23:28.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "3b30406d-4add-4fa6-b6b1-69a13b347fe7": {
+        "authors": [
+          "Mizutani Kengo",
+          "Kuraishi Yuu",
+          "Inabe Kazu"
+        ],
+        "identifier": "3b30406d-4add-4fa6-b6b1-69a13b347fe7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Shokuryou Jinrui Re: Starving Re:velation",
+        "url": "https://mangadex.org/title/3b30406d-4add-4fa6-b6b1-69a13b347fe7",
+        "image": "https://uploads.mangadex.org/covers/3b30406d-4add-4fa6-b6b1-69a13b347fe7/3f7f73fb-58b2-40af-8841-dcbf7df7ec86.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 139693,
+        "aniId": null,
+        "createdAt": "2021-12-28T12:23:27.000Z",
+        "updatedAt": "2021-12-28T15:31:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:39.000Z",
-  "updatedAt": "2021-11-22T14:13:17.000Z",
+  "updatedAt": "2021-12-31T19:53:51.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,28 @@
         "aniId": 105958,
         "createdAt": "2020-10-12T16:10:32.000Z",
         "updatedAt": "2021-12-05T09:21:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hc984359": {
+        "authors": [
+          "Gotou Yuuki"
+        ],
+        "identifier": "manga-hc984359",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Koi Ni Wazurai",
+        "url": "https://manganato.com/manga-hc984359",
+        "image": "https://avt.mkklcdnv6temp.com/23/e/20-1583501915.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 115682,
+        "aniId": 105958,
+        "createdAt": "2021-12-31T19:53:40.000Z",
+        "updatedAt": "2021-12-31T20:23:29.000Z",
         "deletedAt": null
       }
     }

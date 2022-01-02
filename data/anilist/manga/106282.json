@@ -65,6 +65,28 @@
         "updatedAt": "2021-10-04T22:02:17.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "kono_ai_wa_itan": {
+        "authors": [
+          "MORIYAMA Ena"
+        ],
+        "identifier": "kono_ai_wa_itan",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kono Ai Wa, Itan.",
+        "url": "https://fanfox.net/manga/kono_ai_wa_itan/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31118/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 106198,
+        "aniId": 106282,
+        "createdAt": "2021-12-29T01:55:03.000Z",
+        "updatedAt": "2021-12-29T02:23:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

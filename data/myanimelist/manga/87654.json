@@ -19,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:55.000Z",
-  "updatedAt": "2021-11-13T02:16:31.000Z",
+  "updatedAt": "2021-12-28T04:54:39.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,28 @@
         "aniId": 94427,
         "createdAt": "2020-10-12T16:16:08.000Z",
         "updatedAt": "2021-12-06T20:17:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ef981914": {
+        "authors": [
+          "Hidebu Takahashi"
+        ],
+        "identifier": "manga-ef981914",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Stigmata - Seikon Sousa",
+        "url": "https://manganato.com/manga-ef981914",
+        "image": "https://avt.mkklcdnv6temp.com/32/i/18-1583498337.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87654,
+        "aniId": 94427,
+        "createdAt": "2021-12-28T04:54:38.000Z",
+        "updatedAt": "2021-12-28T05:23:27.000Z",
         "deletedAt": null
       }
     }

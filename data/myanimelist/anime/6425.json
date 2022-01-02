@@ -30,7 +30,7 @@
   "hentai": false,
   "anidbId": 6552,
   "createdAt": "2020-10-12T15:38:51.000Z",
-  "updatedAt": "2021-10-01T22:31:44.000Z",
+  "updatedAt": "2021-12-27T11:33:40.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -68,6 +68,23 @@
         "aniId": 6425,
         "createdAt": "2020-11-07T06:58:49.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      },
+      "weiss-survive": {
+        "identifier": "weiss-survive",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Weiss Survive",
+        "url": "https://gogoanime.cm/category/weiss-survive",
+        "image": "https://gogocdn.net/images/anime/W/weiss-survive.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6425,
+        "aniId": 6425,
+        "createdAt": "2021-12-26T19:57:56.000Z",
+        "updatedAt": "2021-12-27T11:53:27.000Z",
         "deletedAt": null
       }
     }

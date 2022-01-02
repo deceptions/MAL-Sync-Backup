@@ -18,11 +18,20 @@
   "updatedAt": "2021-11-20T20:14:55.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.square-enix.co.jp/magazine/yg/introduction/sekirei/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%AD%E3%83%AC%E3%82%A4_%28%E6%BC%AB%E7%94%BB%29"
+      }
+    ],
     "altTitle": [
-      "Sekirei",
       "Sekirei: Kanojo no Inai 365-nichi no Koto",
       "Sekirei: About 365 Days Without a Girlfriend",
+      "Sekirei",
       "セキレイ"
     ],
     "authors": [
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:27.000Z",
-    "updatedAt": "2021-06-29T10:12:00.000Z",
+    "updatedAt": "2021-12-29T10:24:38.000Z",
     "deletedAt": null
   },
   "Anilist": {

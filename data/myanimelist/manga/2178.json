@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%9A%B4%E5%90%9B%E3%83%86%E3%82%A3%E3%83%A9%E3%83%8E%E3%81%95%E3%82%93"
+    }
+  ],
   "altTitle": [
     "Miss T-REX Heart",
     "暴君ティラノさん"
@@ -16,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:41.000Z",
-  "updatedAt": "2021-06-29T10:08:44.000Z",
+  "updatedAt": "2021-12-29T10:25:09.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,28 +44,6 @@
         "aniId": 32178,
         "createdAt": "2020-10-12T16:03:39.000Z",
         "updatedAt": "2021-12-02T15:49:23.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-zy956481": {
-        "authors": [
-          "Manabe Jouji"
-        ],
-        "identifier": "manga-zy956481",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Boukun Tyrano-San",
-        "url": "https://manganato.com/manga-zy956481",
-        "image": "https://avt.mkklcdnv6temp.com/17/c/4-1583470367.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 2178,
-        "aniId": 32178,
-        "createdAt": "2021-06-29T10:08:35.000Z",
-        "updatedAt": "2021-06-29T10:19:24.000Z",
         "deletedAt": null
       }
     }

@@ -11,13 +11,58 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 138476,
+  "aniId": 131202,
   "createdAt": "2020-11-28T18:31:30.000Z",
-  "updatedAt": "2021-12-08T08:07:10.000Z",
+  "updatedAt": "2021-12-27T18:53:27.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://betsufure.net/comics/1000037401.html"
+      }
+    ],
+    "altTitle": [
+      "The Start of My Story",
+      "恋のはじまり"
+    ],
+    "authors": [
+      "Aoi, Mamoru"
+    ],
+    "id": 138476,
+    "type": "manga",
+    "title": "Koi no Hajimari",
+    "url": "https://myanimelist.net/manga/138476/Koi_no_Hajimari",
+    "image": "https://cdn.myanimelist.net/images/manga/2/247773.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-27T11:43:28.000Z",
+    "updatedAt": "2021-12-27T11:43:28.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "恋のはじまり",
+      "Beginning of Love",
+      "The Start of My Story"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Mamoru Aoi"
+    ],
+    "id": 131202,
+    "malId": 138476,
+    "type": "manga",
+    "title": "Koi no Hajimari",
+    "url": "https://anilist.co/manga/131202",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131202-u46cve3qR66f.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-27T11:28:43.000Z",
+    "updatedAt": "2021-07-07T08:59:52.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/138476/Koi_no_Hajimari"
 }

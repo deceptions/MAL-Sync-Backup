@@ -24,7 +24,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:35:21.000Z",
-  "updatedAt": "2021-06-30T16:50:04.000Z",
+  "updatedAt": "2021-12-30T16:54:18.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -72,6 +72,29 @@
         "aniId": 30027,
         "createdAt": "2021-04-29T14:18:32.000Z",
         "updatedAt": "2021-11-20T22:22:04.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ps967327": {
+        "authors": [
+          "Clamp",
+          "Ohkawa Ageha"
+        ],
+        "identifier": "manga-ps967327",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "X/1999",
+        "url": "https://manganato.com/manga-ps967327",
+        "image": "https://avt.mkklcdnv6temp.com/21/f/11-1583484782.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 27,
+        "aniId": 30027,
+        "createdAt": "2021-06-21T16:47:32.000Z",
+        "updatedAt": "2021-12-21T17:22:38.000Z",
         "deletedAt": null
       }
     }

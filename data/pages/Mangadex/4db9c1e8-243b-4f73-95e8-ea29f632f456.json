@@ -1,23 +1,68 @@
 {
   "authors": [
-    "Ma Torii"
+    "ma_trii"
   ],
   "identifier": "4db9c1e8-243b-4f73-95e8-ea29f632f456",
   "type": "manga",
   "page": "Mangadex",
-  "title": "Mabarai-san Hunt Me Down",
+  "title": "Mabarai-san Hunts Me Down",
   "url": "https://mangadex.org/title/4db9c1e8-243b-4f73-95e8-ea29f632f456",
   "image": "https://uploads.mangadex.org/covers/4db9c1e8-243b-4f73-95e8-ea29f632f456/3dabaf8c-0001-462f-8ad1-1d2d1cfc58da.jpg",
   "hentai": false,
   "sticky": false,
   "active": true,
   "actor": 1,
-  "malId": null,
-  "aniId": null,
+  "malId": 141704,
+  "aniId": 137023,
   "createdAt": "2021-11-07T19:48:52.000Z",
-  "updatedAt": "2021-11-07T22:46:08.000Z",
+  "updatedAt": "2021-12-27T11:36:53.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_AP01202381010000_68"
+      }
+    ],
+    "altTitle": [
+      "Mabarai-san Hunts Me Down",
+      "Mabarai Hunt Me Down",
+      "魔祓井さんは僕を狩りたい"
+    ],
+    "authors": [
+      "Torii, Ma"
+    ],
+    "id": 141704,
+    "type": "manga",
+    "title": "Mabarai-san wa Boku wo Karitai",
+    "url": "https://myanimelist.net/manga/141704/Mabarai-san_wa_Boku_wo_Karitai",
+    "image": "https://cdn.myanimelist.net/images/manga/2/252219.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-12-27T11:34:40.000Z",
+    "updatedAt": "2021-12-27T11:34:40.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "魔祓井さんは僕を狩りたい",
+      "Mabarai-san Hunts Me Down"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Maa Torii"
+    ],
+    "id": 137023,
+    "malId": 141704,
+    "type": "manga",
+    "title": "Mabarai-san wa Boku wo Karitai",
+    "url": "https://anilist.co/manga/137023",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b137023-CRgPvhn8BM3N.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-24T09:51:34.000Z",
+    "updatedAt": "2021-11-28T00:05:33.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/141704/Mabarai-san_wa_Boku_wo_Karitai"
 }

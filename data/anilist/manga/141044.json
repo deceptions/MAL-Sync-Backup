@@ -20,5 +20,29 @@
   "createdAt": "2021-11-02T05:34:20.000Z",
   "updatedAt": "2021-12-24T21:27:55.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "22c844da-1122-4ab3-b726-e7d4b7114254": {
+        "authors": [
+          "Kinugasa Shougo",
+          "Shia Sasane"
+        ],
+        "identifier": "22c844da-1122-4ab3-b726-e7d4b7114254",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen",
+        "url": "https://mangadex.org/title/22c844da-1122-4ab3-b726-e7d4b7114254",
+        "image": "https://uploads.mangadex.org/covers/22c844da-1122-4ab3-b726-e7d4b7114254/b75bd62d-0694-4ae8-94bf-a602567918ab.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 142246,
+        "aniId": 141044,
+        "createdAt": "2021-12-29T18:55:22.000Z",
+        "updatedAt": "2021-12-29T18:55:22.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

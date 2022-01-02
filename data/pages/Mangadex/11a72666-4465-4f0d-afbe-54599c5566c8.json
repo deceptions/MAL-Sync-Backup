@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 116027,
-  "aniId": null,
+  "aniId": 106934,
   "createdAt": "2020-10-12T16:12:57.000Z",
-  "updatedAt": "2021-12-05T18:20:37.000Z",
+  "updatedAt": "2021-12-31T09:53:30.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -39,6 +39,25 @@
     "updatedAt": "2021-12-05T18:19:47.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "死都調布"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Saitou Junichirou"
+    ],
+    "id": 106934,
+    "malId": 116027,
+    "type": "manga",
+    "title": "Shit Chofu",
+    "url": "https://anilist.co/manga/106934",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx106934-hHG7k3KdbOls.jpg",
+    "category": "manga",
+    "hentai": true,
+    "createdAt": "2021-12-31T09:23:30.000Z",
+    "updatedAt": "2021-12-31T09:23:30.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/116027/Shito_Choufu"
 }

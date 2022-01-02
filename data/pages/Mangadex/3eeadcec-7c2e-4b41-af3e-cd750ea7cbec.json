@@ -12,13 +12,54 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 79951,
+  "aniId": 92931,
   "createdAt": "2020-10-12T16:17:18.000Z",
-  "updatedAt": "2021-12-07T06:48:04.000Z",
+  "updatedAt": "2022-01-01T21:27:13.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "The Metamorphosis",
+      "変身"
+    ],
+    "authors": [
+      "Kafka, Franz",
+      "Variety Art Works"
+    ],
+    "id": 79951,
+    "type": "manga",
+    "title": "Henshin",
+    "url": "https://myanimelist.net/manga/79951/Henshin",
+    "image": "https://cdn.myanimelist.net/images/manga/1/138463.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2022-01-01T21:27:11.000Z",
+    "updatedAt": "2022-01-01T21:27:11.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "The Metamorphosis",
+      "変身"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Variety Art Works",
+      "Franz Kafka"
+    ],
+    "id": 92931,
+    "malId": 79951,
+    "type": "manga",
+    "title": "Henshin",
+    "url": "https://anilist.co/manga/92931",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/n92931-pYlWO1hPsp02.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-23T06:12:58.000Z",
+    "updatedAt": "2021-12-30T13:23:37.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/79951/Henshin"
 }

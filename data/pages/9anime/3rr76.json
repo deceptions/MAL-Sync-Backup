@@ -9,12 +9,53 @@
   "sticky": false,
   "active": true,
   "actor": 2,
-  "malId": null,
-  "aniId": null,
+  "malId": 49847,
+  "aniId": 139348,
   "createdAt": "2021-10-16T16:28:45.000Z",
-  "updatedAt": "2021-10-16T17:13:22.000Z",
+  "updatedAt": "2021-12-27T18:53:27.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://www.bilibili.com/bangumi/media/md139952"
+      }
+    ],
+    "altTitle": [
+      "Adorable Food Goddess",
+      "Cinderella Chef",
+      "萌妻食神 第二季"
+    ],
+    "id": 49847,
+    "type": "anime",
+    "title": "Meng Qi Shi Shen 2nd Season",
+    "url": "https://myanimelist.net/anime/49847/Meng_Qi_Shi_Shen_2nd_Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1084/117772.jpg",
+    "category": "ONA",
+    "hentai": false,
+    "anidbId": null,
+    "createdAt": "2021-10-30T17:04:50.000Z",
+    "updatedAt": "2021-12-27T11:43:18.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Cinderella Chef 2",
+      "萌妻食神之再结良缘",
+      "Adorable Food Goddess 2"
+    ],
+    "externalLinks": [],
+    "id": 139348,
+    "malId": 49847,
+    "type": "anime",
+    "title": "Meng Qi Shi Shen: Zaijie Liangyuan",
+    "url": "https://anilist.co/anime/139348",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139348-dJIuB4syx3lU.png",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2021-09-17T14:10:42.000Z",
+    "updatedAt": "2021-10-09T18:02:20.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/49847/Meng_Qi_Shi_Shen_2nd_Season"
 }

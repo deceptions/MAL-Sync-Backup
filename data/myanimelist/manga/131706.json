@@ -19,5 +19,29 @@
   "createdAt": "2021-06-21T07:23:05.000Z",
   "updatedAt": "2021-08-19T13:37:37.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-je987187": {
+        "authors": [
+          "Gotouge Koyoharu",
+          "Hirano Ryouji"
+        ],
+        "identifier": "manga-je987187",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kimetsu No Yaiba: Rengoku Kyoujurou Gaiden",
+        "url": "https://readmanganato.com/manga-je987187",
+        "image": "https://avt.mkklcdnv6temp.com/37/e/22-1605177083.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131706,
+        "aniId": 126445,
+        "createdAt": "2021-06-21T07:22:54.000Z",
+        "updatedAt": "2021-12-21T07:59:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

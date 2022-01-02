@@ -7,14 +7,59 @@
   "image": "https://gogocdn.net/cover/jigoku-sensei-nube-movie.png",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 8208,
+  "aniId": 8208,
   "createdAt": "2021-12-24T18:57:55.000Z",
-  "updatedAt": "2021-12-24T18:57:55.000Z",
+  "updatedAt": "2021-12-27T11:53:27.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2101"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3695"
+      }
+    ],
+    "altTitle": [
+      "Jigoku Sensei Nube (1996)",
+      "Hell Teacher Nube",
+      "地獄先生ぬ〜べ〜"
+    ],
+    "id": 8208,
+    "type": "anime",
+    "title": "Jigoku Sensei Nube (Movie)",
+    "url": "https://myanimelist.net/anime/8208/Jigoku_Sensei_Nube_Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/13/21280.jpg",
+    "category": "Movie",
+    "hentai": false,
+    "anidbId": 2101,
+    "createdAt": "2020-10-12T15:38:58.000Z",
+    "updatedAt": "2021-12-27T11:43:58.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Hell Teacher Nube",
+      "地獄先生ぬ〜べ〜",
+      "Jigoku Sensei Nube (1996)"
+    ],
+    "externalLinks": [],
+    "id": 8208,
+    "malId": 8208,
+    "type": "anime",
+    "title": "Jigoku Sensei Nube (Movie)",
+    "url": "https://anilist.co/anime/8208",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8208.jpg",
+    "category": "movie",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:38:55.000Z",
+    "updatedAt": "2021-12-17T12:28:25.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/8208/Jigoku_Sensei_Nube_Movie"
 }

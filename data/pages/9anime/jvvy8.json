@@ -7,14 +7,63 @@
   "image": "https://static.bunnycdn.ru/i/cache/images/2/27/27cee188f4ada5a0ecaad45d89676ba7.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
-  "malId": null,
-  "aniId": null,
+  "malId": 11221,
+  "aniId": 11221,
   "createdAt": "2021-12-25T10:58:35.000Z",
-  "updatedAt": "2021-12-25T10:58:35.000Z",
+  "updatedAt": "2021-12-27T11:53:27.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "animedb",
+        "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4161"
+      },
+      {
+        "site": "animenewsnetwork",
+        "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=893"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/街角のメルヘン"
+      }
+    ],
+    "altTitle": [
+      "Machikado no Meruhen",
+      "Radio City Fantasy: Machikado no Märchen",
+      "Radio City Fantasy 街角のメルヘン"
+    ],
+    "id": 11221,
+    "type": "anime",
+    "title": "Machikado no Märchen",
+    "url": "https://myanimelist.net/anime/11221/Machikado_no_Märchen",
+    "image": "https://cdn.myanimelist.net/images/anime/10/31057.jpg",
+    "category": "OVA",
+    "hentai": false,
+    "anidbId": 4161,
+    "createdAt": "2021-12-27T11:42:18.000Z",
+    "updatedAt": "2021-12-27T11:42:18.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Radio City Fantasy 街角のメルヘン",
+      "Machikado no Meruhen",
+      "Radio City Fantasy: Machikado no Märchen"
+    ],
+    "externalLinks": [],
+    "id": 11221,
+    "malId": 11221,
+    "type": "anime",
+    "title": "Machikado no Märchen",
+    "url": "https://anilist.co/anime/11221",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11221.jpg",
+    "category": "ova",
+    "hentai": false,
+    "createdAt": "2021-05-22T09:42:57.000Z",
+    "updatedAt": "2021-12-17T13:22:21.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/anime/11221/Machikado_no_Märchen"
 }

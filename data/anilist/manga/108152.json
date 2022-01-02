@@ -17,7 +17,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-21T09:12:57.000Z",
-  "updatedAt": "2021-11-27T09:35:33.000Z",
+  "updatedAt": "2021-12-31T03:53:28.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,29 @@
         "aniId": 108152,
         "createdAt": "2020-10-12T16:15:10.000Z",
         "updatedAt": "2021-09-22T00:10:48.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "release-that-witch": {
+        "authors": [
+          "Dr Woodman",
+          "Er Mu"
+        ],
+        "identifier": "release-that-witch",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Release That Witch",
+        "url": "https://mangasee123.com/manga/Release-That-Witch",
+        "image": "https://cover.nep.li/cover/Release-That-Witch.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 108152,
+        "createdAt": "2021-01-02T09:49:32.000Z",
+        "updatedAt": "2022-01-01T21:27:10.000Z",
         "deletedAt": null
       }
     },
