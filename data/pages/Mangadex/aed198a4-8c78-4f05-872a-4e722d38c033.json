@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 142204,
   "createdAt": "2021-11-27T14:05:54.000Z",
-  "updatedAt": "2021-11-27T14:06:04.000Z",
+  "updatedAt": "2022-01-07T16:31:39.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ノーゲームノーライフ第二章東部連合編",
+      "No Game No Life: Part 2 - Eastern Union Arc"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ryu Naitou",
+      "Yuu Kamiya",
+      "Yuu Kamiya"
+    ],
+    "id": 142204,
+    "malId": null,
+    "type": "manga",
+    "title": "No Game No Life: Dai-2 Shou - Toubu Rengou-hen",
+    "url": "https://anilist.co/manga/142204",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b142204-A9nLbIA4TTWJ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-01T00:05:35.000Z",
+    "updatedAt": "2022-01-01T08:53:33.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

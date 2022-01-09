@@ -15,12 +15,17 @@
   "malId": 127120,
   "aniId": 107321,
   "createdAt": "2021-05-28T15:24:39.000Z",
-  "updatedAt": "2021-07-04T03:34:55.000Z",
+  "updatedAt": "2022-01-04T03:53:45.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://afternoon.kodansha.co.jp/c/wondance/"
+      }
+    ],
     "altTitle": [
-      "ワンダンス"
+      "ワンダンス"
     ],
     "authors": [
       "Coffee"
@@ -33,17 +38,15 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:48:22.000Z",
-    "updatedAt": "2021-07-04T03:35:06.000Z",
+    "updatedAt": "2022-01-04T03:53:35.000Z",
     "deletedAt": null
   },
   "Anilist": {
     "altTitle": [
       "Wandance",
       "ワンダンス",
-      "Won Dance",
       "Wonda",
-      "One Dance",
-      "WanDansu"
+      "One Dance"
     ],
     "externalLinks": [],
     "authors": [
@@ -58,7 +61,7 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-05-20T14:59:18.000Z",
-    "updatedAt": "2021-12-31T08:23:39.000Z",
+    "updatedAt": "2022-01-05T22:47:52.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/127120/Wondance"

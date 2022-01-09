@@ -8,11 +8,11 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": 1,
+  "actor": null,
   "malId": 41946,
   "aniId": 118465,
   "createdAt": "2020-10-12T15:49:42.000Z",
-  "updatedAt": "2021-10-15T08:58:44.000Z",
+  "updatedAt": "2022-01-08T00:48:14.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -54,7 +54,16 @@
       "World's End Harem",
       "終末のハーレム"
     ],
-    "externalLinks": [],
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/worlds-end-harem"
+      },
+      {
+        "site": "Vrv",
+        "url": "https://vrv.co/series/G24H1N3XV/Worlds-End-Harem"
+      }
+    ],
     "id": 118465,
     "malId": 41946,
     "type": "anime",
@@ -64,7 +73,7 @@
     "category": "tv",
     "hentai": false,
     "createdAt": "2021-05-20T14:46:06.000Z",
-    "updatedAt": "2021-09-30T17:30:52.000Z",
+    "updatedAt": "2022-01-07T23:47:52.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/anime/41946/Shuumatsu_no_Harem"

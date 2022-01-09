@@ -15,10 +15,15 @@
   "malId": 19256,
   "aniId": 49256,
   "createdAt": "2021-07-03T20:04:08.000Z",
-  "updatedAt": "2021-07-03T20:33:57.000Z",
+  "updatedAt": "2022-01-03T20:49:35.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E9%AB%98%E6%A0%A1%E7%90%83%E5%85%90%E3%82%B6%E3%83%AF%E3%81%95%E3%82%93"
+      }
+    ],
     "altTitle": [
       "Koukou Kyuji Zawa-san",
       "School Baseball's Mr. Zawa",
@@ -35,7 +40,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:42:43.000Z",
-    "updatedAt": "2021-07-03T20:04:27.000Z",
+    "updatedAt": "2022-01-03T20:24:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

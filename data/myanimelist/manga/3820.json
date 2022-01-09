@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:54.000Z",
-  "updatedAt": "2021-11-16T21:57:02.000Z",
+  "updatedAt": "2022-01-07T23:17:52.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 33820,
         "createdAt": "2020-10-12T16:02:44.000Z",
         "updatedAt": "2021-12-02T09:17:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-mi957817": {
+        "authors": [
+          "Yuuki Ryou"
+        ],
+        "identifier": "manga-mi957817",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Shinigami Lovers",
+        "url": "https://manganato.com/manga-mi957817",
+        "image": "https://avt.mkklcdnv6temp.com/5/v/5-1583472082.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3820,
+        "aniId": 33820,
+        "createdAt": "2022-01-07T23:17:51.000Z",
+        "updatedAt": "2022-01-07T23:47:51.000Z",
         "deletedAt": null
       }
     }

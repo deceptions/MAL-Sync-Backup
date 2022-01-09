@@ -1,10 +1,19 @@
 {
   "altTitle": [
-    "Orient",
+    "ORIENT",
     "オリエント",
     "2 สิงห์ พลิกตำนานพิฆาตอสูร"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/orient"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/GVDHX8PMM/ORIENT"
+    }
+  ],
   "id": 128034,
   "malId": 45560,
   "type": "anime",
@@ -14,7 +23,46 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-06-14T07:27:33.000Z",
-  "updatedAt": "2021-11-12T09:43:35.000Z",
+  "updatedAt": "2022-01-08T13:47:54.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "orient": {
+        "identifier": "orient",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Orient",
+        "url": "https://gogoanime.cm/category/orient",
+        "image": "https://gogocdn.net/cover/orient.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45560,
+        "aniId": 128034,
+        "createdAt": "2022-01-05T15:48:02.000Z",
+        "updatedAt": "2022-01-05T16:17:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "wllk": {
+        "identifier": "wllk",
+        "type": "anime",
+        "page": "9anime",
+        "title": "ORIENT",
+        "url": "https://9anime.to/watch/orient.wllk",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/96/96d0b40bf6794a807f10420ee1b43e24.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45560,
+        "aniId": 128034,
+        "createdAt": "2022-01-05T16:17:52.000Z",
+        "updatedAt": "2022-01-05T16:47:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

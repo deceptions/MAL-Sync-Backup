@@ -24,5 +24,29 @@
   "createdAt": "2021-10-10T20:38:05.000Z",
   "updatedAt": "2021-12-20T18:19:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "fc18c0a3-dbd4-4f0f-88af-105cc6990b55": {
+        "authors": [
+          "HENO Natsuko",
+          "Fuyukusa Momo"
+        ],
+        "identifier": "fc18c0a3-dbd4-4f0f-88af-105cc6990b55",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Moto Akuyaku Reijo Makimodotta node Ouji-sama kara Tousou Shiyou to Omoimasu!",
+        "url": "https://mangadex.org/title/fc18c0a3-dbd4-4f0f-88af-105cc6990b55",
+        "image": "https://uploads.mangadex.org/covers/fc18c0a3-dbd4-4f0f-88af-105cc6990b55/f2e5340e-b689-49c0-9ff5-2f69789db341.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 139948,
+        "aniId": 133387,
+        "createdAt": "2021-10-12T11:46:54.000Z",
+        "updatedAt": "2022-01-08T16:49:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

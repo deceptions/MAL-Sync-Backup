@@ -24,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:13.000Z",
-  "updatedAt": "2021-11-14T20:15:15.000Z",
+  "updatedAt": "2022-01-04T19:18:21.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -47,6 +47,28 @@
         "aniId": 102950,
         "createdAt": "2020-10-12T16:09:00.000Z",
         "updatedAt": "2021-12-04T14:55:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bv979030": {
+        "authors": [
+          "Eya Osamu"
+        ],
+        "identifier": "manga-bv979030",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kuubo Ibuki",
+        "url": "https://manganato.com/manga-bv979030",
+        "image": "https://avt.mkklcdnv6temp.com/26/d/16-1583494409.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 93497,
+        "aniId": 102950,
+        "createdAt": "2022-01-04T19:18:02.000Z",
+        "updatedAt": "2022-01-04T19:47:51.000Z",
         "deletedAt": null
       }
     }

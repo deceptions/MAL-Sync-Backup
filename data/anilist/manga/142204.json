@@ -20,5 +20,29 @@
   "createdAt": "2021-12-01T00:05:35.000Z",
   "updatedAt": "2022-01-01T08:53:33.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "aed198a4-8c78-4f05-872a-4e722d38c033": {
+        "authors": [
+          "Kamiya Yuu",
+          "Naitou Ryu"
+        ],
+        "identifier": "aed198a4-8c78-4f05-872a-4e722d38c033",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "No Game No Life Part 2: Eastern Union Arc",
+        "url": "https://mangadex.org/title/aed198a4-8c78-4f05-872a-4e722d38c033",
+        "image": "https://uploads.mangadex.org/covers/aed198a4-8c78-4f05-872a-4e722d38c033/0a8c03ee-ec1b-4646-bc03-a258871902b6.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 142204,
+        "createdAt": "2021-11-27T14:05:54.000Z",
+        "updatedAt": "2022-01-07T16:31:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

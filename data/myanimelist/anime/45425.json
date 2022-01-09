@@ -28,5 +28,44 @@
   "createdAt": "2021-12-18T16:20:32.000Z",
   "updatedAt": "2021-12-18T16:20:32.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "slow-loop": {
+        "identifier": "slow-loop",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Slow Loop",
+        "url": "https://gogoanime.cm/category/slow-loop",
+        "image": "https://gogocdn.net/cover/slow-loop.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45425,
+        "aniId": 127549,
+        "createdAt": "2022-01-07T14:48:05.000Z",
+        "updatedAt": "2022-01-07T15:17:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "p9nj": {
+        "identifier": "p9nj",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Slow Loop",
+        "url": "https://9anime.to/watch/slow-loop.p9nj",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/84/848a22940c28939d713c6486a79ef888.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45425,
+        "aniId": 127549,
+        "createdAt": "2022-01-07T15:20:14.000Z",
+        "updatedAt": "2022-01-07T15:47:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

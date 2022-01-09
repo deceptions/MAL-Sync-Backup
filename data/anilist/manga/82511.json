@@ -21,5 +21,28 @@
   "createdAt": "2021-05-30T02:12:13.000Z",
   "updatedAt": "2021-12-17T21:32:46.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "ada113d9-04ea-42d0-8425-57891eaa02da": {
+        "authors": [
+          "Warashibe"
+        ],
+        "identifier": "ada113d9-04ea-42d0-8425-57891eaa02da",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Class YoMaid",
+        "url": "https://mangadex.org/title/ada113d9-04ea-42d0-8425-57891eaa02da",
+        "image": "https://uploads.mangadex.org/covers/ada113d9-04ea-42d0-8425-57891eaa02da/1eceaef0-eab0-44a9-95c7-56b20724ff5d.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 52511,
+        "aniId": 82511,
+        "createdAt": "2022-01-05T18:18:52.000Z",
+        "updatedAt": "2022-01-05T18:47:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

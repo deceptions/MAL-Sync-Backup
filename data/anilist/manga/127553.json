@@ -18,7 +18,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-08-03T04:17:39.000Z",
-  "updatedAt": "2021-08-03T04:17:39.000Z",
+  "updatedAt": "2022-01-08T04:19:34.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ie985839": {
+        "authors": [
+          "Lin Youqing (林幼清)"
+        ],
+        "identifier": "manga-ie985839",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Monster's Entertainment Guide",
+        "url": "https://manganato.com/manga-ie985839",
+        "image": "https://avt.mkklcdnv6temp.com/32/y/21-1593663696.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 127553,
+        "createdAt": "2022-01-08T04:19:34.000Z",
+        "updatedAt": "2022-01-08T04:19:34.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

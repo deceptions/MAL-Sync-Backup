@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:37.000Z",
-  "updatedAt": "2021-10-27T05:01:34.000Z",
+  "updatedAt": "2022-01-02T08:53:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,50 @@
         "aniId": 31748,
         "createdAt": "2020-10-12T16:04:34.000Z",
         "updatedAt": "2021-12-02T22:18:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ka961735": {
+        "authors": [
+          "Ikeno Koi"
+        ],
+        "identifier": "manga-ka961735",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tokimeki Tonight",
+        "url": "https://manganato.com/manga-ka961735",
+        "image": "https://avt.mkklcdnv6temp.com/48/j/7-1583478114.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1748,
+        "aniId": 31748,
+        "createdAt": "2022-01-02T08:53:32.000Z",
+        "updatedAt": "2022-01-02T09:23:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "tokimeki-tonight": {
+        "authors": [
+          "IKENO Koi"
+        ],
+        "identifier": "tokimeki-tonight",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Tokimeki Tonight",
+        "url": "https://mangasee123.com/manga/Tokimeki-Tonight",
+        "image": "https://cover.nep.li/cover/Tokimeki-Tonight.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1748,
+        "aniId": 31748,
+        "createdAt": "2022-01-02T11:24:13.000Z",
+        "updatedAt": "2022-01-02T11:53:32.000Z",
         "deletedAt": null
       }
     }

@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:43.000Z",
-  "updatedAt": "2021-11-05T02:34:51.000Z",
+  "updatedAt": "2022-01-08T08:18:14.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 61445,
         "createdAt": "2020-10-12T16:03:14.000Z",
         "updatedAt": "2021-12-02T12:47:07.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-qr967374": {
+        "authors": [
+          "Ha Il Gwon"
+        ],
+        "identifier": "manga-qr967374",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Water Cube",
+        "url": "https://manganato.com/manga-qr967374",
+        "image": "https://avt.mkklcdnv6temp.com/23/a/11-1583484848.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 31445,
+        "aniId": 61445,
+        "createdAt": "2022-01-08T08:18:05.000Z",
+        "updatedAt": "2022-01-08T08:47:53.000Z",
         "deletedAt": null
       }
     }

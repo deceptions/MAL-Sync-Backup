@@ -5,17 +5,26 @@
     "Akebi-chan no Serafuku",
     "Akebi's School Uniform"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/akebis-sailor-uniform/"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://crunchyroll.com/series/GDKHZEW97"
+    }
+  ],
   "id": 131548,
   "malId": 48553,
   "type": "anime",
   "title": "Akebi-chan no Sailor Fuku",
   "url": "https://anilist.co/anime/131548",
-  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131548-6CGvipzTWhX0.jpg",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131548-gc2z64TGWIH6.jpg",
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-20T14:46:16.000Z",
-  "updatedAt": "2021-12-21T17:21:46.000Z",
+  "updatedAt": "2022-01-08T13:47:54.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -34,6 +43,25 @@
         "aniId": 131548,
         "createdAt": "2021-03-28T16:24:19.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "akebi-chan-no-sailor-fuku": {
+        "identifier": "akebi-chan-no-sailor-fuku",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Akebi-chan no Sailor-fuku",
+        "url": "https://gogoanime.cm/category/akebi-chan-no-sailor-fuku",
+        "image": "https://gogocdn.net/cover/akebi-chan-no-sailor-fuku.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48553,
+        "aniId": 131548,
+        "createdAt": "2022-01-08T18:18:37.000Z",
+        "updatedAt": "2022-01-08T18:47:54.000Z",
         "deletedAt": null
       }
     }

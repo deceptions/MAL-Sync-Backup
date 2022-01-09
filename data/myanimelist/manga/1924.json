@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:39.000Z",
-  "updatedAt": "2021-11-10T17:43:38.000Z",
+  "updatedAt": "2022-01-09T00:48:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -64,6 +64,28 @@
         "aniId": 31924,
         "createdAt": "2021-05-10T17:43:32.000Z",
         "updatedAt": "2021-11-20T22:49:06.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pb958110": {
+        "authors": [
+          "Nakajima Rei"
+        ],
+        "identifier": "manga-pb958110",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Inumimi",
+        "url": "https://manganato.com/manga-pb958110",
+        "image": "https://avt.mkklcdnv6temp.com/16/e/5-1583472474.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 1924,
+        "aniId": 31924,
+        "createdAt": "2022-01-09T00:47:57.000Z",
+        "updatedAt": "2022-01-09T01:17:54.000Z",
         "deletedAt": null
       }
     }

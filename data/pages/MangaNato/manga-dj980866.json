@@ -15,10 +15,19 @@
   "malId": 66293,
   "aniId": 90378,
   "createdAt": "2021-07-03T23:33:58.000Z",
-  "updatedAt": "2021-07-04T00:03:57.000Z",
+  "updatedAt": "2022-01-04T00:18:34.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://kc.kodansha.co.jp/content/top.php/1000006141"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E7%A9%BA%E6%89%8B%E5%B0%8F%E5%85%AC%E5%AD%90%E7%89%A9%E8%AA%9E"
+      }
+    ],
     "altTitle": [
       "空手小公子物語"
     ],
@@ -33,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:09.000Z",
-    "updatedAt": "2021-07-03T23:34:08.000Z",
+    "updatedAt": "2022-01-03T23:49:35.000Z",
     "deletedAt": null
   },
   "Anilist": {

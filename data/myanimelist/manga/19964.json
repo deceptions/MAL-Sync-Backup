@@ -25,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:46.000Z",
-  "updatedAt": "2021-11-03T00:35:52.000Z",
+  "updatedAt": "2022-01-06T03:48:12.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -51,6 +51,32 @@
         "aniId": 49964,
         "createdAt": "2020-10-12T16:05:34.000Z",
         "updatedAt": "2021-12-03T13:50:09.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-op965924": {
+        "authors": [
+          "Masaki Souko",
+          "Minazuki Ren",
+          "Sakou Watari",
+          "Sugata Uri",
+          "Yoshino Mari"
+        ],
+        "identifier": "manga-op965924",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "S-Kei Kareshi Zukan!",
+        "url": "https://manganato.com/manga-op965924",
+        "image": "https://avt.mkklcdnv6temp.com/24/k/10-1583483053.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 19964,
+        "aniId": 49964,
+        "createdAt": "2022-01-06T03:48:12.000Z",
+        "updatedAt": "2022-01-06T04:17:51.000Z",
         "deletedAt": null
       }
     }

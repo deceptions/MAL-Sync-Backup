@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 30438,
-  "aniId": null,
+  "aniId": 143305,
   "createdAt": "2020-12-09T14:34:32.000Z",
-  "updatedAt": "2020-12-09T14:34:32.000Z",
+  "updatedAt": "2022-01-03T06:53:32.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -36,6 +36,24 @@
     "updatedAt": "2021-10-03T05:04:30.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "MILPOM★ Pilot",
+      "MILPOM★ Pilot",
+      "みるぽん★ パイロット映像"
+    ],
+    "externalLinks": [],
+    "id": 143305,
+    "malId": 30438,
+    "type": "anime",
+    "title": "MILPOM★ Pilot",
+    "url": "https://anilist.co/anime/143305",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143305-AvXLUAOm8irX.jpg",
+    "category": "ona",
+    "hentai": false,
+    "createdAt": "2022-01-03T06:23:32.000Z",
+    "updatedAt": "2022-01-03T06:23:32.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/30438/MILPOM★_Pilot"
 }

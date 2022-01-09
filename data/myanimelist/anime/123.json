@@ -18,9 +18,9 @@
     }
   ],
   "altTitle": [
-    "Mysterious Play",
     "Fushigi Yugi",
     "Curious Play",
+    "Mysterious Play",
     "ふしぎ遊戯"
   ],
   "id": 123,
@@ -32,7 +32,7 @@
   "hentai": false,
   "anidbId": 87,
   "createdAt": "2020-10-12T15:37:59.000Z",
-  "updatedAt": "2021-09-30T11:01:42.000Z",
+  "updatedAt": "2022-01-04T06:18:53.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -123,6 +123,25 @@
         "aniId": 123,
         "createdAt": "2021-02-11T18:40:52.000Z",
         "updatedAt": "2021-05-20T15:25:21.000Z",
+        "deletedAt": null
+      }
+    },
+    "Twistmoe": {
+      "fushigi-yuugi": {
+        "identifier": "fushigi-yuugi",
+        "type": "anime",
+        "page": "Twistmoe",
+        "title": "Fushigi Yuugi",
+        "url": "https://twist.moe/a/fushigi-yuugi/1",
+        "image": null,
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123,
+        "aniId": 123,
+        "createdAt": "2022-01-04T06:18:35.000Z",
+        "updatedAt": "2022-01-04T06:48:23.000Z",
         "deletedAt": null
       }
     }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://seiga.nicovideo.jp/comic/33512"
+    }
+  ],
   "altTitle": [
     "うさみさんは構われたい!"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:02.000Z",
-  "updatedAt": "2021-09-24T01:15:46.000Z",
+  "updatedAt": "2022-01-02T14:53:44.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +63,28 @@
         "aniId": 106706,
         "createdAt": "2021-05-29T18:43:55.000Z",
         "updatedAt": "2021-11-29T19:36:13.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "usami_san_wa_kamawaretai": {
+        "authors": [
+          "HIBARU Shunsuke"
+        ],
+        "identifier": "usami_san_wa_kamawaretai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Usami-san wa Kamawaretai!",
+        "url": "https://fanfox.net/manga/usami_san_wa_kamawaretai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/40669/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 120078,
+        "aniId": 106706,
+        "createdAt": "2022-01-02T14:53:43.000Z",
+        "updatedAt": "2022-01-02T15:23:32.000Z",
         "deletedAt": null
       }
     }

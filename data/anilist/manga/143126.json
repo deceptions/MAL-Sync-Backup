@@ -18,5 +18,28 @@
   "createdAt": "2021-12-27T21:23:28.000Z",
   "updatedAt": "2021-12-27T21:23:28.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "d34d1603-caea-4be7-b7fb-a4b01d93824d": {
+        "authors": [
+          "Anzo Kunko"
+        ],
+        "identifier": "d34d1603-caea-4be7-b7fb-a4b01d93824d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I Want To Teach My Cheeky Female Kouhai A Lesson",
+        "url": "https://mangadex.org/title/d34d1603-caea-4be7-b7fb-a4b01d93824d",
+        "image": "https://uploads.mangadex.org/covers/d34d1603-caea-4be7-b7fb-a4b01d93824d/a3b77391-67b4-4816-8adc-f35c0c8ffa9e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 143126,
+        "createdAt": "2021-12-04T20:16:06.000Z",
+        "updatedAt": "2022-01-07T16:31:20.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

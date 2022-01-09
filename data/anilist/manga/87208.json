@@ -115,6 +115,28 @@
         "updatedAt": "2021-08-14T20:36:59.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "shimanami_tasogare": {
+        "authors": [
+          "KAMATANI Yuuki"
+        ],
+        "identifier": "shimanami_tasogare",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Shimanami Tasogare",
+        "url": "https://fanfox.net/manga/shimanami_tasogare/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/19283/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 97244,
+        "aniId": 87208,
+        "createdAt": "2022-01-07T00:48:47.000Z",
+        "updatedAt": "2022-01-07T01:17:51.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

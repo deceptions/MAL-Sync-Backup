@@ -65,6 +65,50 @@
         "updatedAt": "2021-09-20T19:40:42.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-jn986970": {
+        "authors": [
+          "Sumimori Sai"
+        ],
+        "identifier": "manga-jn986970",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ore No Kantei Skill Ga Cheat Sugite",
+        "url": "https://manganato.com/manga-jn986970",
+        "image": "https://avt.mkklcdnv6temp.com/28/k/22-1602995709.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 134942,
+        "aniId": 129122,
+        "createdAt": "2021-06-29T08:35:06.000Z",
+        "updatedAt": "2021-12-29T09:25:08.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ore_no_kantei_skill_ga_cheat_sugite": {
+        "authors": [
+          "SUMIMORI Sai"
+        ],
+        "identifier": "ore_no_kantei_skill_ga_cheat_sugite",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ore no Kantei Skill ga Cheat Sugite",
+        "url": "https://fanfox.net/manga/ore_no_kantei_skill_ga_cheat_sugite/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36150/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 134942,
+        "aniId": 129122,
+        "createdAt": "2021-06-29T13:20:35.000Z",
+        "updatedAt": "2021-12-29T13:53:48.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

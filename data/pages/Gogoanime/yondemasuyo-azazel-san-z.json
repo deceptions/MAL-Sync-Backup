@@ -10,9 +10,9 @@
   "active": true,
   "actor": 2,
   "malId": 16241,
-  "aniId": 7762,
+  "aniId": 16241,
   "createdAt": "2020-10-12T16:02:18.000Z",
-  "updatedAt": "2021-12-27T18:44:19.000Z",
+  "updatedAt": "2022-01-02T16:53:32.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -52,19 +52,27 @@
   },
   "Anilist": {
     "altTitle": [
-      "よんでますよ、アザゼルさん。"
+      "You're Being Summoned, Azazel Z",
+      "よんでますよ、アザゼルさん。Z",
+      "Yondemasu yo",
+      "Azazel-san. 2nd Season"
     ],
-    "externalLinks": [],
-    "id": 7762,
-    "malId": 7762,
+    "externalLinks": [
+      {
+        "site": "Funimation",
+        "url": "https://www.funimation.com/shows/youre-being-summoned-azazel/"
+      }
+    ],
+    "id": 16241,
+    "malId": 16241,
     "type": "anime",
-    "title": "Yondemasu yo, Azazel-san.",
-    "url": "https://anilist.co/anime/7762",
-    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7762.jpg",
-    "category": "ova",
+    "title": "Yondemasu yo, Azazel-san. Z",
+    "url": "https://anilist.co/anime/16241",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16241.jpg",
+    "category": "tv_short",
     "hentai": false,
-    "createdAt": "2021-05-20T14:38:52.000Z",
-    "updatedAt": "2021-12-17T12:25:45.000Z",
+    "createdAt": "2021-05-20T14:40:23.000Z",
+    "updatedAt": "2021-12-17T13:54:56.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/anime/16241/Yondemasu_yo_Azazel-san_Z"

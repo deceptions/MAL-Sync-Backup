@@ -84,6 +84,28 @@
         "deletedAt": null
       }
     },
+    "MangaSee": {
+      "fullmetal-alchemist": {
+        "authors": [
+          "ARAKAWA Hiromu"
+        ],
+        "identifier": "fullmetal-alchemist",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Fullmetal Alchemist",
+        "url": "https://mangasee123.com/manga/Fullmetal-Alchemist",
+        "image": "https://cover.nep.li/cover/Fullmetal-Alchemist.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 25,
+        "aniId": 30025,
+        "createdAt": "2020-12-28T05:52:59.000Z",
+        "updatedAt": "2021-12-29T09:02:39.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaFox": {
       "fullmetal_alchemist": {
         "authors": [
@@ -103,26 +125,6 @@
         "aniId": 30025,
         "createdAt": "2021-02-10T13:41:01.000Z",
         "updatedAt": "2021-11-20T18:44:25.000Z",
-        "deletedAt": null
-      },
-      "full_metal_alchemist": {
-        "authors": [
-          "ARAKAWA Hiromu"
-        ],
-        "identifier": "full_metal_alchemist",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "FullMetal Alchemist",
-        "url": "https://fanfox.net/manga/full_metal_alchemist/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/32/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 25,
-        "aniId": 30025,
-        "createdAt": "2021-03-03T04:50:19.000Z",
-        "updatedAt": "2021-07-08T07:13:29.000Z",
         "deletedAt": null
       }
     },

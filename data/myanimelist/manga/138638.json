@@ -24,5 +24,26 @@
   "createdAt": "2021-10-02T00:32:43.000Z",
   "updatedAt": "2022-01-01T01:23:30.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "ffae8d53-9870-4fdf-9247-02567f87f982": {
+        "authors": [],
+        "identifier": "ffae8d53-9870-4fdf-9247-02567f87f982",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Who Decided That I Can’t Do Romantic Comedy in Reality?",
+        "url": "https://mangadex.org/title/ffae8d53-9870-4fdf-9247-02567f87f982",
+        "image": "https://uploads.mangadex.org/covers/ffae8d53-9870-4fdf-9247-02567f87f982/4eeaadbd-ca42-41bf-9f19-2af3937e17b6.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 138638,
+        "aniId": 136285,
+        "createdAt": "2021-07-08T06:44:01.000Z",
+        "updatedAt": "2022-01-08T16:50:06.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

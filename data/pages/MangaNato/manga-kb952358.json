@@ -15,10 +15,15 @@
   "malId": 52587,
   "aniId": 82587,
   "createdAt": "2021-07-03T15:33:56.000Z",
-  "updatedAt": "2021-07-03T16:03:56.000Z",
+  "updatedAt": "2022-01-03T16:23:32.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://betsuma.shueisha.co.jp/lineup/harukiyo.html"
+      }
+    ],
     "altTitle": [
       "Koharu-chan and Kiyosiro",
       "ハル×キヨ"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:44:43.000Z",
-    "updatedAt": "2021-07-03T15:33:59.000Z",
+    "updatedAt": "2022-01-03T15:54:23.000Z",
     "deletedAt": null
   },
   "Anilist": {

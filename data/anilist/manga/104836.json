@@ -39,6 +39,28 @@
         "updatedAt": "2021-12-04T20:23:41.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "astroid": {
+        "authors": [
+          "KOIKE Keiichi"
+        ],
+        "identifier": "astroid",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "ASTROID",
+        "url": "https://fanfox.net/manga/astroid/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/20129/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 102752,
+        "aniId": 104836,
+        "createdAt": "2022-01-02T15:23:43.000Z",
+        "updatedAt": "2022-01-02T15:53:32.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

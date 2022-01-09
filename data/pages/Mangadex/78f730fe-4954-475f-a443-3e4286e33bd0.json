@@ -12,13 +12,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 122952,
   "createdAt": "2020-10-12T16:21:13.000Z",
-  "updatedAt": "2021-11-23T05:05:48.000Z",
+  "updatedAt": "2022-01-05T14:17:16.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "負けヒロインを勝たせたい",
+      "I want to lose the heroine "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tei Ashigaki",
+      "Michiru Nakayama "
+    ],
+    "id": 122952,
+    "malId": null,
+    "type": "manga",
+    "title": "Make Heroine wo Katasetai!!",
+    "url": "https://anilist.co/manga/122952",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx122952-ngzqDxv2IsOb.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-06-07T06:49:00.000Z",
+    "updatedAt": "2022-01-05T03:47:52.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

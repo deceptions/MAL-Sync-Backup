@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 143347,
   "createdAt": "2021-05-28T20:53:54.000Z",
-  "updatedAt": "2021-11-28T21:08:16.000Z",
+  "updatedAt": "2022-01-05T14:17:17.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Nine-star Technique",
+      "九星霸体诀"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Zha Ya Gongzuoshi",
+      "Pingfan Moshushi"
+    ],
+    "id": 143347,
+    "malId": null,
+    "type": "manga",
+    "title": "Jiu Xing Ba Ti Jue",
+    "url": "https://anilist.co/manga/143347",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143347-ASiy9ObmlHzK.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2022-01-04T19:17:52.000Z",
+    "updatedAt": "2022-01-04T19:17:52.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

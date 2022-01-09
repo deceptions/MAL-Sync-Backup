@@ -1,7 +1,13 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "https://magazine.jp.square-enix.com/joker/series/miyazensan/"
+    }
+  ],
   "altTitle": [
     "Ochikazuki ni Naritai Manga",
+    "Miss Miyazen Would Love to Get Closer to You",
     "お近づきになりたい宮膳さん"
   ],
   "authors": [
@@ -15,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:48:19.000Z",
-  "updatedAt": "2021-07-08T03:44:11.000Z",
+  "updatedAt": "2022-01-08T03:48:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,28 +43,6 @@
         "aniId": 128997,
         "createdAt": "2020-10-12T16:21:10.000Z",
         "updatedAt": "2021-12-08T07:11:11.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "ochikazuki_ni_naritai_miyazen_san": {
-        "authors": [
-          "Akitaka"
-        ],
-        "identifier": "ochikazuki_ni_naritai_miyazen_san",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Ochikazuki ni naritai Miyazen-san",
-        "url": "https://fanfox.net/manga/ochikazuki_ni_naritai_miyazen_san/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/35452/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 125256,
-        "aniId": 128997,
-        "createdAt": "2021-07-08T03:44:02.000Z",
-        "updatedAt": "2021-07-08T04:13:16.000Z",
         "deletedAt": null
       }
     },

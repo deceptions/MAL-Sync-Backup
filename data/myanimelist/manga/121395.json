@@ -65,6 +65,28 @@
         "updatedAt": "2021-11-29T12:36:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "franken_fran_frantic": {
+        "authors": [
+          "KIGITSU Katsuhisa"
+        ],
+        "identifier": "franken_fran_frantic",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Franken Fran Frantic",
+        "url": "https://fanfox.net/manga/franken_fran_frantic/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31572/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 121395,
+        "aniId": 108262,
+        "createdAt": "2021-06-28T23:21:36.000Z",
+        "updatedAt": "2021-12-28T23:53:27.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

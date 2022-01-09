@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:47.000Z",
-  "updatedAt": "2021-10-27T21:17:19.000Z",
+  "updatedAt": "2022-01-02T15:55:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -36,6 +36,28 @@
         "aniId": 32996,
         "createdAt": "2020-10-12T16:05:02.000Z",
         "updatedAt": "2021-12-03T09:48:26.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "missing_piece": {
+        "authors": [
+          "Nakajo Hisaya"
+        ],
+        "identifier": "missing_piece",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Missing Piece",
+        "url": "https://fanfox.net/manga/missing_piece/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/1765/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 2996,
+        "aniId": 32996,
+        "createdAt": "2022-01-02T15:54:57.000Z",
+        "updatedAt": "2022-01-02T16:23:32.000Z",
         "deletedAt": null
       }
     }

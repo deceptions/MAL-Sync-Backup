@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:49.000Z",
-  "updatedAt": "2021-10-31T14:34:51.000Z",
+  "updatedAt": "2022-01-04T17:18:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,28 @@
         "aniId": 43042,
         "createdAt": "2020-10-12T16:06:01.000Z",
         "updatedAt": "2021-12-03T16:50:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-po966449": {
+        "authors": [
+          "Sakura Naoki"
+        ],
+        "identifier": "manga-po966449",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Layton Kyouju To Yukai Na Jiken",
+        "url": "https://manganato.com/manga-po966449",
+        "image": "https://avt.mkklcdnv6temp.com/42/e/10-1583483692.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 13042,
+        "aniId": 43042,
+        "createdAt": "2022-01-04T17:18:44.000Z",
+        "updatedAt": "2022-01-04T17:48:23.000Z",
         "deletedAt": null
       }
     }

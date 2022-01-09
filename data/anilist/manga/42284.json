@@ -63,6 +63,28 @@
         "updatedAt": "2021-11-20T21:17:17.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hoshi_no_furu_machi": {
+        "authors": [
+          "HARA Hidenori"
+        ],
+        "identifier": "hoshi_no_furu_machi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hoshi no Furu Machi",
+        "url": "https://fanfox.net/manga/hoshi_no_furu_machi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/5304/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12284,
+        "aniId": 42284,
+        "createdAt": "2022-01-07T04:47:54.000Z",
+        "updatedAt": "2022-01-07T05:17:51.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

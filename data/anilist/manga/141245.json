@@ -19,5 +19,28 @@
   "createdAt": "2021-11-07T05:34:35.000Z",
   "updatedAt": "2021-12-15T05:18:44.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a6b7f9e1-11d8-4a76-ac77-7c37baf24be0": {
+        "authors": [
+          "Iwatobi Neko"
+        ],
+        "identifier": "a6b7f9e1-11d8-4a76-ac77-7c37baf24be0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Toumei Otoko to Ningen Onna ~Sonouchi Fuufu ni Naru Futari~",
+        "url": "https://mangadex.org/title/a6b7f9e1-11d8-4a76-ac77-7c37baf24be0",
+        "image": "https://uploads.mangadex.org/covers/a6b7f9e1-11d8-4a76-ac77-7c37baf24be0/74610964-dab6-4e8e-ae6b-210bf3f62c2b.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 141245,
+        "createdAt": "2022-01-06T01:48:03.000Z",
+        "updatedAt": "2022-01-06T01:48:03.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

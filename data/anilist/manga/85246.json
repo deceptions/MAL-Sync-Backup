@@ -65,6 +65,28 @@
         "updatedAt": "2021-11-20T20:45:59.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-fk957145": {
+        "authors": [
+          "Kyou Kazuro"
+        ],
+        "identifier": "manga-fk957145",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Himedol!!",
+        "url": "https://manganato.com/manga-fk957145",
+        "image": "https://avt.mkklcdnv6temp.com/36/l/4-1583471185.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 57467,
+        "aniId": 85246,
+        "createdAt": "2021-06-29T10:07:44.000Z",
+        "updatedAt": "2021-12-29T10:32:49.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

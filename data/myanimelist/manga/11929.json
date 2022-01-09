@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9%E4%B8%89%E6%9C%88%E7%B2%BE"
+    }
+  ],
   "altTitle": [
     "東方三月精 Strange and Bright Nature Deity"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:42.000Z",
-  "updatedAt": "2021-07-04T18:30:02.000Z",
+  "updatedAt": "2022-01-04T18:48:42.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -83,28 +88,6 @@
         "aniId": 41929,
         "createdAt": "2021-05-16T03:26:16.000Z",
         "updatedAt": "2021-11-20T22:49:07.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-ij957418": {
-        "authors": [
-          "Zun"
-        ],
-        "identifier": "manga-ij957418",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Touhou Sangetsusei: Strange And Bright Nature Deity",
-        "url": "https://manganato.com/manga-ij957418",
-        "image": "https://avt.mkklcdnv6temp.com/44/p/4-1583471554.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 11929,
-        "aniId": 41929,
-        "createdAt": "2021-07-04T18:29:52.000Z",
-        "updatedAt": "2021-07-04T18:59:50.000Z",
         "deletedAt": null
       }
     }

@@ -33,5 +33,44 @@
   "createdAt": "2021-11-15T20:29:15.000Z",
   "updatedAt": "2021-12-28T06:23:38.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "kenja-no-deshi-wo-nanoru-kenja": {
+        "identifier": "kenja-no-deshi-wo-nanoru-kenja",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Kenja no Deshi wo Nanoru Kenja",
+        "url": "https://gogoanime.cm/category/kenja-no-deshi-wo-nanoru-kenja",
+        "image": "https://gogocdn.net/cover/kenja-no-deshi-wo-nanoru-kenja.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42072,
+        "aniId": 119056,
+        "createdAt": "2022-01-07T19:24:21.000Z",
+        "updatedAt": "2022-01-07T19:47:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "54nm": {
+        "identifier": "54nm",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Kenja no Deshi wo Nanoru Kenja",
+        "url": "https://9anime.to/watch/she-professed-herself-pupil-of-the-wise-man.54nm",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/08/088a0150361e024ac7e9ebd93fcff5ae.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42072,
+        "aniId": 119056,
+        "createdAt": "2022-01-07T23:49:13.000Z",
+        "updatedAt": "2022-01-08T00:17:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

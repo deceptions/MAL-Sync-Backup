@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:24.000Z",
-  "updatedAt": "2021-10-14T04:58:56.000Z",
+  "updatedAt": "2022-01-08T10:48:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 103560,
         "createdAt": "2021-10-14T04:58:54.000Z",
         "updatedAt": "2021-10-14T05:28:45.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "dame_na_kanojo_wa_amaetai": {
+        "authors": [
+          "YOSHIDA Morohe"
+        ],
+        "identifier": "dame_na_kanojo_wa_amaetai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dame na Kanojo wa Amaetai",
+        "url": "https://fanfox.net/manga/dame_na_kanojo_wa_amaetai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28794/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111940,
+        "aniId": 103560,
+        "createdAt": "2022-01-08T10:48:09.000Z",
+        "updatedAt": "2022-01-08T11:17:53.000Z",
         "deletedAt": null
       }
     }

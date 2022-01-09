@@ -21,5 +21,28 @@
   "createdAt": "2021-05-24T15:38:22.000Z",
   "updatedAt": "2021-12-17T20:02:09.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "05db0167-3adf-4227-a31f-2125b535ac56": {
+        "authors": [
+          "Tana"
+        ],
+        "identifier": "05db0167-3adf-4227-a31f-2125b535ac56",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Oyomesama Honey Days",
+        "url": "https://mangadex.org/title/05db0167-3adf-4227-a31f-2125b535ac56",
+        "image": "https://uploads.mangadex.org/covers/05db0167-3adf-4227-a31f-2125b535ac56/c83fd142-bdee-4185-9cd1-7a886fea2c69.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 38691,
+        "aniId": 68691,
+        "createdAt": "2022-01-08T22:48:05.000Z",
+        "updatedAt": "2022-01-08T23:17:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

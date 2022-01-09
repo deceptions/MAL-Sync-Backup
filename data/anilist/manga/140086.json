@@ -17,5 +17,28 @@
   "createdAt": "2021-10-08T03:32:19.000Z",
   "updatedAt": "2021-11-07T19:20:08.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "3e3bf0c2-e547-4f43-92e0-8e9894f31d6a": {
+        "authors": [
+          "Han Kakusai"
+        ],
+        "identifier": "3e3bf0c2-e547-4f43-92e0-8e9894f31d6a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Black Butterfly",
+        "url": "https://mangadex.org/title/3e3bf0c2-e547-4f43-92e0-8e9894f31d6a",
+        "image": "https://uploads.mangadex.org/covers/3e3bf0c2-e547-4f43-92e0-8e9894f31d6a/ed407e64-b219-40a3-a676-4bff3e42448b.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 140086,
+        "createdAt": "2022-01-08T05:17:54.000Z",
+        "updatedAt": "2022-01-08T05:17:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -11,13 +11,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 143373,
   "createdAt": "2021-07-04T08:30:01.000Z",
-  "updatedAt": "2021-07-04T08:30:21.000Z",
+  "updatedAt": "2022-01-06T19:25:19.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Legendary Beasts Animal Hospital",
+      "접경지역의 동물병원",
+      "An Animal Hospital in the Border Area",
+      "An Animal Hospital Near The Border Area"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hari",
+      "Man-Dal",
+      "Pal-Ho Choi"
+    ],
+    "id": 143373,
+    "malId": null,
+    "type": "manga",
+    "title": "Jeopgyeongjiyeogui Dongmul Byeongwon",
+    "url": "https://anilist.co/manga/143373",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143373-cMt7wGZiszwJ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2022-01-05T10:47:52.000Z",
+    "updatedAt": "2022-01-05T10:47:52.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

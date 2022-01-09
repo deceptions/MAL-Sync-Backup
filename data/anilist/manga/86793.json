@@ -89,6 +89,28 @@
         "updatedAt": "2021-12-02T02:16:48.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "father_and_son": {
+        "authors": [
+          "Uchiko"
+        ],
+        "identifier": "father_and_son",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Father and Son",
+        "url": "https://fanfox.net/manga/father_and_son/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15923/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 76813,
+        "aniId": 86793,
+        "createdAt": "2021-06-29T08:30:47.000Z",
+        "updatedAt": "2021-12-29T09:02:40.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

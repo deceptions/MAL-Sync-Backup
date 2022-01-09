@@ -20,5 +20,50 @@
   "createdAt": "2021-05-20T14:50:50.000Z",
   "updatedAt": "2021-12-17T23:57:07.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lb963136": {
+        "authors": [
+          "Nakama Asaki"
+        ],
+        "identifier": "manga-lb963136",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kenzen Robo Daimidaier Ogs",
+        "url": "https://manganato.com/manga-lb963136",
+        "image": "https://avt.mkklcdnv6temp.com/39/u/8-1583479692.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64537,
+        "aniId": 89997,
+        "createdAt": "2022-01-02T02:23:42.000Z",
+        "updatedAt": "2022-01-02T02:53:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "kenzen_robo_daimidaier_ogs": {
+        "authors": [
+          "NAKAMA Asaki"
+        ],
+        "identifier": "kenzen_robo_daimidaier_ogs",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Kenzen Robo Daimidaier OGS",
+        "url": "https://fanfox.net/manga/kenzen_robo_daimidaier_ogs/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/13916/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 64537,
+        "aniId": 89997,
+        "createdAt": "2022-01-02T02:24:38.000Z",
+        "updatedAt": "2022-01-02T02:53:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

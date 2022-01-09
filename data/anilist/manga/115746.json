@@ -16,7 +16,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-22T14:12:59.000Z",
-  "updatedAt": "2021-09-06T13:34:33.000Z",
+  "updatedAt": "2022-01-05T05:18:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 115746,
         "createdAt": "2020-10-12T16:14:07.000Z",
         "updatedAt": "2021-12-06T10:49:02.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "wind_sword": {
+        "authors": [
+          "Kim Chul Hyun"
+        ],
+        "identifier": "wind_sword",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Wind Sword",
+        "url": "https://fanfox.net/manga/wind_sword/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28926/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 115746,
+        "createdAt": "2022-01-05T05:18:04.000Z",
+        "updatedAt": "2022-01-05T05:18:04.000Z",
         "deletedAt": null
       }
     }

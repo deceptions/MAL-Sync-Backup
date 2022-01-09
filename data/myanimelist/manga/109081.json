@@ -17,5 +17,29 @@
   "createdAt": "2021-01-01T16:50:50.000Z",
   "updatedAt": "2021-12-31T17:23:50.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "okiraku-onna-madoushi-no-kaitakuki": {
+        "authors": [
+          "SADAKIYO Kazuhiko",
+          "SASAKI Sazameki"
+        ],
+        "identifier": "okiraku-onna-madoushi-no-kaitakuki",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Okiraku Onna Madoushi no Kaitakuki",
+        "url": "https://mangasee123.com/manga/Okiraku-Onna-Madoushi-no-Kaitakuki",
+        "image": "https://cover.nep.li/cover/Okiraku-Onna-Madoushi-no-Kaitakuki.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 109081,
+        "aniId": null,
+        "createdAt": "2021-01-01T16:50:50.000Z",
+        "updatedAt": "2021-12-31T17:24:00.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

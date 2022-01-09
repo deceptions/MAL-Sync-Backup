@@ -23,5 +23,52 @@
   "createdAt": "2021-05-22T02:12:58.000Z",
   "updatedAt": "2021-12-18T11:22:28.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "3fa6b953-b50c-4bec-9b2e-75934c38776a": {
+        "authors": [
+          "Usuikatsura",
+          "Carmilla"
+        ],
+        "identifier": "3fa6b953-b50c-4bec-9b2e-75934c38776a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Tsunderu Moto-Akuyaku Reijo wa Do-S Ouji-sama kara Nigedashitai",
+        "url": "https://mangadex.org/title/3fa6b953-b50c-4bec-9b2e-75934c38776a",
+        "image": "https://uploads.mangadex.org/covers/3fa6b953-b50c-4bec-9b2e-75934c38776a/177d4f67-ad25-48d3-97ea-04650a1f4092.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 134613,
+        "aniId": 127077,
+        "createdAt": "2020-10-12T16:20:57.000Z",
+        "updatedAt": "2022-01-02T16:53:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jv987204": {
+        "authors": [
+          "Usuikatsura",
+          "Carmilla"
+        ],
+        "identifier": "manga-jv987204",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Tsunderu Moto-Akuyaku Reijo Wa Do-S Ouji-Sama Kara Nigedashitai",
+        "url": "https://manganato.com/manga-jv987204",
+        "image": "https://avt.mkklcdnv6temp.com/37/x/22-1605515961.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 134613,
+        "aniId": 127077,
+        "createdAt": "2021-06-01T17:01:18.000Z",
+        "updatedAt": "2022-01-02T19:25:14.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

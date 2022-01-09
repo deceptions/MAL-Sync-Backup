@@ -1,10 +1,15 @@
 {
   "altTitle": [
+    "Girls’ Frontline",
     "ドールズフロントライン",
-    "Girls' Frontline",
     "Shaonü Qianxian"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/girls-frontline/"
+    }
+  ],
   "id": 128828,
   "malId": 46604,
   "type": "anime",
@@ -14,7 +19,46 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-25T14:38:17.000Z",
-  "updatedAt": "2021-10-24T12:30:53.000Z",
+  "updatedAt": "2022-01-07T23:47:51.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "dolls-frontline": {
+        "identifier": "dolls-frontline",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Dolls' Frontline",
+        "url": "https://gogoanime.cm/category/dolls-frontline",
+        "image": "https://gogocdn.net/cover/dolls-frontline.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46604,
+        "aniId": 128828,
+        "createdAt": "2022-01-07T17:49:55.000Z",
+        "updatedAt": "2022-01-07T18:17:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "prkox": {
+        "identifier": "prkox",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Dolls' Frontline",
+        "url": "https://9anime.to/watch/girls-frontline.prkox",
+        "image": "https://static.bunnycdn.ru/i/cache/images/9/9b/9b086b3f4f7b227a665860139be022ac.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 46604,
+        "aniId": 128828,
+        "createdAt": "2022-01-07T18:18:03.000Z",
+        "updatedAt": "2022-01-08T00:23:27.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

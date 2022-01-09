@@ -10,14 +10,35 @@
   "image": "https://avt.mkklcdnv6temp.com/13/u/17-1583495760.jpg",
   "hentai": false,
   "sticky": false,
-  "active": false,
+  "active": true,
   "actor": null,
   "malId": null,
-  "aniId": null,
+  "aniId": 103608,
   "createdAt": "2021-05-29T18:43:56.000Z",
-  "updatedAt": "2021-11-29T19:07:13.000Z",
+  "updatedAt": "2022-01-05T22:49:23.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ぼっち怪物と盲目少女",
+      "Lonely Monster and Blind Girl",
+      "Beauty and the Beast Girl"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Neji"
+    ],
+    "id": 103608,
+    "malId": null,
+    "type": "manga",
+    "title": "Bocchi Kaibutsu to Moumoku Shoujo",
+    "url": "https://anilist.co/manga/103608",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx103608-CaOYFnWesDkD.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:57:01.000Z",
+    "updatedAt": "2021-12-18T01:03:26.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

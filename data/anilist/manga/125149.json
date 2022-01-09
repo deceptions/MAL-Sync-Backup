@@ -18,5 +18,28 @@
   "createdAt": "2021-07-11T00:13:17.000Z",
   "updatedAt": "2021-12-15T05:48:25.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "the-writer-and-his-housekeeper": {
+        "authors": [
+          "NAKATSUKI Kana"
+        ],
+        "identifier": "the-writer-and-his-housekeeper",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Writer and His Housekeeper",
+        "url": "https://mangasee123.com/manga/The-Writer-and-His-Housekeeper",
+        "image": "https://cover.nep.li/cover/The-Writer-and-His-Housekeeper.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 130761,
+        "aniId": 125149,
+        "createdAt": "2021-03-31T22:00:51.000Z",
+        "updatedAt": "2022-01-03T16:53:32.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

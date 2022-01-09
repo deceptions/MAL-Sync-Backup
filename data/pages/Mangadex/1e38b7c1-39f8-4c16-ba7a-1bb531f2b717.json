@@ -13,12 +13,12 @@
   "active": true,
   "actor": null,
   "malId": 118101,
-  "aniId": null,
+  "aniId": 111327,
   "createdAt": "2020-10-12T16:15:28.000Z",
-  "updatedAt": "2021-12-06T14:47:53.000Z",
+  "updatedAt": "2022-01-05T09:47:51.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [],
     "altTitle": [
       "My Sweet Master",
       "ご主人様は王子がお好き"
@@ -34,9 +34,29 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-05-01T13:35:33.000Z",
-    "updatedAt": "2021-07-07T14:02:10.000Z",
+    "updatedAt": "2022-01-07T14:18:42.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ご主人様は王子がお好き",
+      "Goshujinsama wa Ouji ga o Suki"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Akira Yoshio"
+    ],
+    "id": 111327,
+    "malId": 118101,
+    "type": "manga",
+    "title": "Goshujinsama wa Ouji ga Osuki",
+    "url": "https://anilist.co/manga/111327",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx111327-E9ugCk2KWHj2.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2022-01-05T09:18:02.000Z",
+    "updatedAt": "2022-01-05T09:18:02.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/118101/Goshujinsama_wa_Ouji_ga_Osuki"
 }

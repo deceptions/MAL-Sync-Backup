@@ -11,13 +11,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 143377,
   "createdAt": "2021-12-20T22:18:54.000Z",
-  "updatedAt": "2021-12-20T22:18:54.000Z",
+  "updatedAt": "2022-01-05T23:48:17.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "レイトンブラザーズ・ミステリールーム 完全犯罪のパズル"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tellmin Yaminabe"
+    ],
+    "id": 143377,
+    "malId": null,
+    "type": "manga",
+    "title": "Layton Brothers: Mystery Room - Kanzen Hanzai no Puzzle",
+    "url": "https://anilist.co/manga/143377",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143377-tPP3DQuJYmDn.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2022-01-05T23:48:03.000Z",
+    "updatedAt": "2022-01-05T23:48:03.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

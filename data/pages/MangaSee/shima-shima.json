@@ -15,10 +15,15 @@
   "malId": 22817,
   "aniId": 52817,
   "createdAt": "2021-07-03T03:04:13.000Z",
-  "updatedAt": "2021-07-03T03:33:57.000Z",
+  "updatedAt": "2022-01-03T03:53:32.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%9E%E3%82%B7%E3%83%9E_(%E6%BC%AB%E7%94%BB)"
+      }
+    ],
     "altTitle": [
       "Have a Good Night!",
       "シマシマ"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:43:07.000Z",
-    "updatedAt": "2021-07-03T03:04:18.000Z",
+    "updatedAt": "2022-01-03T03:23:33.000Z",
     "deletedAt": null
   },
   "Anilist": {

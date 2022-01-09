@@ -18,9 +18,9 @@
   "active": true,
   "actor": null,
   "malId": 13804,
-  "aniId": null,
+  "aniId": 43804,
   "createdAt": "2022-01-02T00:53:32.000Z",
-  "updatedAt": "2022-01-02T00:54:24.000Z",
+  "updatedAt": "2022-01-02T01:23:32.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -46,6 +46,30 @@
     "updatedAt": "2022-01-02T00:54:24.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "セツナイコイ"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kanae Hazuki",
+      "Sakura Fujisue",
+      "Kumiko Saiki",
+      "Nanako Matsumoto",
+      "Ibuki Haneda",
+      "Tomoko Noguchi"
+    ],
+    "id": 43804,
+    "malId": 13804,
+    "type": "manga",
+    "title": "Setsunai Koi",
+    "url": "https://anilist.co/manga/43804",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/13804.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:42:38.000Z",
+    "updatedAt": "2021-12-17T15:15:02.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/13804/Setsunai_Koi"
 }

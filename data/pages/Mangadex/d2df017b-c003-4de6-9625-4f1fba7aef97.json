@@ -12,13 +12,44 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 1,
+  "malId": 139164,
   "aniId": 121991,
   "createdAt": "2020-10-12T16:19:40.000Z",
-  "updatedAt": "2021-12-08T01:09:44.000Z",
+  "updatedAt": "2022-01-04T19:07:00.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic.naver.com/webtoon/list?titleId=736277&page=9"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ko.wikipedia.org/wiki/%EC%8B%B8%EC%9B%80%EB%8F%85%ED%95%99"
+      }
+    ],
+    "altTitle": [
+      "Ssaumdokak",
+      "How to Fight",
+      "Viral Hit",
+      "싸움독학"
+    ],
+    "authors": [
+      "Kim, Jung-Hyun",
+      "Park, Tae-Jun"
+    ],
+    "id": 139164,
+    "type": "manga",
+    "title": "Viral Hit",
+    "url": "https://myanimelist.net/manga/139164/Viral_Hit",
+    "image": "https://cdn.myanimelist.net/images/manga/1/248716.jpg",
+    "category": "Manhwa",
+    "hentai": false,
+    "createdAt": "2022-01-04T18:19:04.000Z",
+    "updatedAt": "2022-01-04T18:19:04.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "Viral Hit",
@@ -45,5 +76,5 @@
     "updatedAt": "2021-12-19T14:49:58.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/139164/Viral_Hit"
 }

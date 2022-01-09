@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:54.000Z",
-  "updatedAt": "2021-12-04T02:19:26.000Z",
+  "updatedAt": "2022-01-03T19:24:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,28 @@
         "aniId": 85330,
         "createdAt": "2020-10-12T16:07:14.000Z",
         "updatedAt": "2021-12-04T09:17:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-kx962080": {
+        "authors": [
+          "Sakano Keiko"
+        ],
+        "identifier": "manga-kx962080",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kami-Sama X Ore-Sama X Danna-Sama!?",
+        "url": "https://manganato.com/manga-kx962080",
+        "image": "https://avt.mkklcdnv6temp.com/8/n/8-1583478504.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 59147,
+        "aniId": 85330,
+        "createdAt": "2022-01-03T19:24:03.000Z",
+        "updatedAt": "2022-01-03T19:53:32.000Z",
         "deletedAt": null
       }
     }

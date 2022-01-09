@@ -11,13 +11,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 94051,
+  "aniId": 96298,
   "createdAt": "2021-06-27T14:49:40.000Z",
-  "updatedAt": "2021-12-27T14:53:27.000Z",
+  "updatedAt": "2022-01-02T16:53:32.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "私が言うとおりになる"
+    ],
+    "authors": [
+      "Moukon, Icchokusen"
+    ],
+    "id": 94051,
+    "type": "manga",
+    "title": "Watashi ga Iutoori ni Naru",
+    "url": "https://myanimelist.net/manga/94051/Watashi_ga_Iutoori_ni_Naru",
+    "image": "https://cdn.myanimelist.net/images/manga/2/166584.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:46:19.000Z",
+    "updatedAt": "2022-01-02T02:24:35.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "私が言うとおりになる",
+      "My Words Become True",
+      "说变就变"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Icchokusen Moukon"
+    ],
+    "id": 96298,
+    "malId": 94051,
+    "type": "manga",
+    "title": "Watashi ga Iutoori ni Naru",
+    "url": "https://anilist.co/manga/96298",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx96298-OvpS2GgLV1DF.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:53:50.000Z",
+    "updatedAt": "2021-12-18T01:33:19.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/94051/Watashi_ga_Iutoori_ni_Naru"
 }

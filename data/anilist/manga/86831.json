@@ -63,6 +63,28 @@
         "updatedAt": "2021-11-25T01:05:32.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mikako_san": {
+        "authors": [
+          "KYOU Machiko"
+        ],
+        "identifier": "mikako_san",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mikako-san",
+        "url": "https://fanfox.net/manga/mikako_san/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/18553/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 95965,
+        "aniId": 86831,
+        "createdAt": "2022-01-07T00:49:03.000Z",
+        "updatedAt": "2022-01-07T01:17:51.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

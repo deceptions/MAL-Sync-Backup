@@ -17,5 +17,28 @@
   "createdAt": "2021-09-22T01:41:07.000Z",
   "updatedAt": "2021-12-19T14:19:15.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "8870f7b7-d72a-4e9d-826c-430ca0c5313f": {
+        "authors": [
+          "Kusunoki"
+        ],
+        "identifier": "8870f7b7-d72a-4e9d-826c-430ca0c5313f",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "My Yandere Girlfriend Won't Let Me Rest in Peace",
+        "url": "https://mangadex.org/title/8870f7b7-d72a-4e9d-826c-430ca0c5313f",
+        "image": "https://uploads.mangadex.org/covers/8870f7b7-d72a-4e9d-826c-430ca0c5313f/5757dbd6-6545-4797-9c90-73ca10e7bd7c.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 133772,
+        "aniId": null,
+        "createdAt": "2020-10-12T16:21:56.000Z",
+        "updatedAt": "2022-01-08T16:50:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

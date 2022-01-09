@@ -14,9 +14,9 @@
   "active": true,
   "actor": null,
   "malId": 5863,
-  "aniId": null,
+  "aniId": 35863,
   "createdAt": "2020-10-12T16:03:57.000Z",
-  "updatedAt": "2021-12-02T20:16:37.000Z",
+  "updatedAt": "2022-01-02T23:53:32.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -42,6 +42,30 @@
     "updatedAt": "2021-12-02T18:16:17.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Uroboros's Circle",
+      "ウロボロスの輪",
+      "Uroborosu no Rin",
+      "Uroborosu no Wa",
+      "Uroboros' Circle"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Youzaburou Kanari",
+      "Keiko Yamamoto"
+    ],
+    "id": 35863,
+    "malId": 5863,
+    "type": "manga",
+    "title": "Uroboros no Wa",
+    "url": "https://anilist.co/manga/35863",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx35863-CAxSOLBxtx5R.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2022-01-02T23:23:33.000Z",
+    "updatedAt": "2022-01-02T23:23:33.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/5863/Uroboros_no_Wa"
 }

@@ -18,5 +18,28 @@
   "createdAt": "2021-06-17T00:27:35.000Z",
   "updatedAt": "2021-12-21T13:22:27.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-rz969082": {
+        "authors": [
+          "Suzuki Yasushi"
+        ],
+        "identifier": "manga-rz969082",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Goth Cage",
+        "url": "https://manganato.com/manga-rz969082",
+        "image": "https://avt.mkklcdnv6temp.com/35/p/12-1583487161.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 46653,
+        "createdAt": "2022-01-04T07:48:23.000Z",
+        "updatedAt": "2022-01-04T07:48:23.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

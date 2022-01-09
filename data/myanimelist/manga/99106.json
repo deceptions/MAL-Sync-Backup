@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/Fate/Apocrypha"
+    }
+  ],
   "altTitle": [
     "Fate/Apocrypha"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:32.000Z",
-  "updatedAt": "2021-07-08T23:13:53.000Z",
+  "updatedAt": "2022-01-08T23:18:45.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -62,30 +67,6 @@
         "aniId": 87251,
         "createdAt": "2021-03-20T17:35:42.000Z",
         "updatedAt": "2021-11-20T19:45:17.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-ut971528": {
-        "authors": [
-          "Higashide Yuuichirou",
-          "Type-Moon",
-          "Ishida Akira"
-        ],
-        "identifier": "manga-ut971528",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Fate/apocrypha",
-        "url": "https://readmanganato.com/manga-ut971528",
-        "image": "https://avt.mkklcdnv6temp.com/47/h/13-1583489493.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 99106,
-        "aniId": 87251,
-        "createdAt": "2021-07-08T23:13:50.000Z",
-        "updatedAt": "2021-07-08T23:43:17.000Z",
         "deletedAt": null
       }
     }

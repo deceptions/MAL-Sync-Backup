@@ -41,6 +41,29 @@
         "updatedAt": "2021-12-08T01:09:14.000Z",
         "deletedAt": null
       }
+    },
+    "MangaSee": {
+      "slave-b": {
+        "authors": [
+          "Imines",
+          "Park Ji"
+        ],
+        "identifier": "slave-b",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Slave B",
+        "url": "https://mangasee123.com/manga/Slave-B",
+        "image": "https://cover.nep.li/cover/Slave-B.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 118655,
+        "createdAt": "2020-11-10T17:13:43.000Z",
+        "updatedAt": "2021-12-31T12:23:40.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

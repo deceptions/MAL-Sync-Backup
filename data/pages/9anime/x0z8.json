@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 29701,
-  "aniId": null,
+  "aniId": 143304,
   "createdAt": "2020-10-12T15:56:22.000Z",
-  "updatedAt": "2019-10-12T16:02:23.000Z",
+  "updatedAt": "2022-01-03T06:53:32.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -40,6 +40,24 @@
     "updatedAt": "2021-10-03T03:34:23.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "二匹のサンマ（カラー版）",
+      "Deux poissons grillés",
+      "Two Grilled Fish (Colour Version)"
+    ],
+    "externalLinks": [],
+    "id": 143304,
+    "malId": 29701,
+    "type": "anime",
+    "title": "Ni-hiki no Sanma (Colour Version)",
+    "url": "https://anilist.co/anime/143304",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143304-W01joxZ8Exqz.png",
+    "category": "movie",
+    "hentai": false,
+    "createdAt": "2022-01-03T06:23:32.000Z",
+    "updatedAt": "2022-01-03T06:23:32.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/29701/Ni-hiki_no_Sanma_1968"
 }

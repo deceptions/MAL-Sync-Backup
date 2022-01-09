@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%8A%E5%AC%A2%E6%A7%98%E3%81%AF%E3%81%8A%E5%AB%81%E6%A7%98%E3%80%82"
+    }
+  ],
   "altTitle": [
     "The Lady Is a Bride",
     "お嬢様はお嫁様。"
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:57.000Z",
-  "updatedAt": "2021-07-08T14:43:27.000Z",
+  "updatedAt": "2022-01-08T14:48:04.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,28 +64,6 @@
         "aniId": 34192,
         "createdAt": "2021-05-03T09:33:47.000Z",
         "updatedAt": "2021-11-20T22:22:05.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-lo962849": {
-        "authors": [
-          "Hazuki Megumi"
-        ],
-        "identifier": "manga-lo962849",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Ojousama Wa Oyomesama",
-        "url": "https://manganato.com/manga-lo962849",
-        "image": "https://avt.mkklcdnv6temp.com/30/o/8-1583479341.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 4192,
-        "aniId": 34192,
-        "createdAt": "2021-07-08T14:43:17.000Z",
-        "updatedAt": "2021-07-08T15:13:16.000Z",
         "deletedAt": null
       }
     }

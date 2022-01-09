@@ -23,7 +23,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:23.000Z",
-  "updatedAt": "2021-11-21T02:42:59.000Z",
+  "updatedAt": "2022-01-03T19:24:13.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -45,6 +45,28 @@
         "aniId": 102586,
         "createdAt": "2020-10-12T16:13:18.000Z",
         "updatedAt": "2021-12-05T20:48:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-bl979120": {
+        "authors": [
+          "Seizuki Madoka"
+        ],
+        "identifier": "manga-bl979120",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Netsuai Prince - Onii-Chan Wa Kimi Ga Suki",
+        "url": "https://manganato.com/manga-bl979120",
+        "image": "https://avt.mkklcdnv6temp.com/29/p/16-1583494532.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111584,
+        "aniId": 102586,
+        "createdAt": "2022-01-03T19:24:03.000Z",
+        "updatedAt": "2022-01-03T19:53:32.000Z",
         "deletedAt": null
       }
     }

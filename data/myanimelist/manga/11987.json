@@ -17,7 +17,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:43.000Z",
-  "updatedAt": "2021-11-19T13:14:56.000Z",
+  "updatedAt": "2022-01-05T16:50:03.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,6 +39,28 @@
         "aniId": 41987,
         "createdAt": "2020-10-12T16:13:13.000Z",
         "updatedAt": "2021-12-05T19:48:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-jo954871": {
+        "authors": [
+          "Yui Toshiki"
+        ],
+        "identifier": "manga-jo954871",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mai No Heya",
+        "url": "https://manganato.com/manga-jo954871",
+        "image": "https://avt.mkklcdnv6temp.com/20/y/3-1583468497.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 11987,
+        "aniId": 41987,
+        "createdAt": "2022-01-05T16:50:03.000Z",
+        "updatedAt": "2022-01-05T17:17:51.000Z",
         "deletedAt": null
       }
     }

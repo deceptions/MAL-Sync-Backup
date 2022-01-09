@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/X-Kai-"
+    }
+  ],
   "altTitle": [
     "X-Kai-",
     "X-Kai-"
@@ -15,7 +20,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-08-04T13:50:02.000Z",
-  "updatedAt": "2021-08-04T13:50:02.000Z",
+  "updatedAt": "2022-01-03T17:54:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaFox": {
+      "x_kai": {
+        "authors": [
+          "TOHJOH Asami"
+        ],
+        "identifier": "x_kai",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "X Kai",
+        "url": "https://fanfox.net/manga/x_kai/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/929/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 575,
+        "aniId": null,
+        "createdAt": "2022-01-03T17:54:27.000Z",
+        "updatedAt": "2022-01-04T00:12:10.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

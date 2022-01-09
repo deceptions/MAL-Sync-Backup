@@ -42,6 +42,30 @@
         "updatedAt": "2021-12-06T02:18:01.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "hokuto_no_ken_ichigo_aji": {
+        "authors": [
+          "Buronson",
+          "HARA Tetsuo",
+          "KAWATA Yushi"
+        ],
+        "identifier": "hokuto_no_ken_ichigo_aji",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Hokuto no Ken - Ichigo Aji",
+        "url": "https://fanfox.net/manga/hokuto_no_ken_ichigo_aji/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/36569/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 73015,
+        "aniId": 91727,
+        "createdAt": "2021-06-30T15:51:06.000Z",
+        "updatedAt": "2021-12-30T16:23:39.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

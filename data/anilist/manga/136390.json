@@ -26,7 +26,7 @@
     "Kyouko Shimazu"
   ],
   "id": 136390,
-  "malId": null,
+  "malId": 126237,
   "type": "manga",
   "title": "Shimazu Kyouko Ji Senshuu",
   "url": "https://anilist.co/manga/136390",
@@ -34,7 +34,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-05T10:29:51.000Z",
-  "updatedAt": "2021-07-05T10:29:51.000Z",
+  "updatedAt": "2022-01-05T10:49:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaSee": {
+      "kyoko-shimazu-authors-edition": {
+        "authors": [
+          "SHIMAZU Kyoko"
+        ],
+        "identifier": "kyoko-shimazu-authors-edition",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Kyoko Shimazu - Author's Edition",
+        "url": "https://mangasee123.com/manga/Kyoko-Shimazu-Authors-Edition",
+        "image": "https://cover.nep.li/cover/Kyoko-Shimazu-Authors-Edition.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 126237,
+        "aniId": 136390,
+        "createdAt": "2021-07-15T19:34:09.000Z",
+        "updatedAt": "2022-01-05T11:17:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

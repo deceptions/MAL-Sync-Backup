@@ -41,6 +41,28 @@
         "updatedAt": "2021-12-04T09:17:10.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "dream_saga": {
+        "authors": [
+          "TACHIKAWA Megumi"
+        ],
+        "identifier": "dream_saga",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Dream Saga",
+        "url": "https://fanfox.net/manga/dream_saga/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/868/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 306,
+        "aniId": 30306,
+        "createdAt": "2021-07-01T20:20:07.000Z",
+        "updatedAt": "2021-12-31T20:53:40.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

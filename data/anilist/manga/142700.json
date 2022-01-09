@@ -19,5 +19,28 @@
   "createdAt": "2021-12-14T03:18:25.000Z",
   "updatedAt": "2021-12-14T03:48:25.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-id985838": {
+        "authors": [
+          "琪漫文化"
+        ],
+        "identifier": "manga-id985838",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Super Income",
+        "url": "https://manganato.com/manga-id985838",
+        "image": "https://avt.mkklcdnv6temp.com/32/x/21-1593663530.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 142700,
+        "createdAt": "2021-12-28T16:53:38.000Z",
+        "updatedAt": "2022-01-06T19:25:16.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

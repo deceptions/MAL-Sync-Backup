@@ -91,6 +91,28 @@
         "updatedAt": "2021-12-08T08:08:00.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mononogatari": {
+        "authors": [
+          "Onigunsou"
+        ],
+        "identifier": "mononogatari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mononogatari",
+        "url": "https://fanfox.net/manga/mononogatari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/28166/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 70663,
+        "aniId": 91222,
+        "createdAt": "2022-01-04T09:18:26.000Z",
+        "updatedAt": "2022-01-04T09:48:23.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

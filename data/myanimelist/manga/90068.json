@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://comic-walker.com/contents/detail/KDCW_CW01000052010000_68/"
+    }
+  ],
   "altTitle": [
     "REVOLT"
   ],
@@ -15,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:46:02.000Z",
-  "updatedAt": "2021-07-05T19:30:01.000Z",
+  "updatedAt": "2022-01-05T19:48:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,29 +43,6 @@
         "aniId": 86803,
         "createdAt": "2020-10-12T16:08:39.000Z",
         "updatedAt": "2021-12-04T11:54:38.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-hj954744": {
-        "authors": [
-          "Kusaka Shinya",
-          "Takagi Shuuei"
-        ],
-        "identifier": "manga-hj954744",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Revolt",
-        "url": "https://manganato.com/manga-hj954744",
-        "image": "https://avt.mkklcdnv6temp.com/17/m/3-1583468340.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 90068,
-        "aniId": 86803,
-        "createdAt": "2021-07-05T19:29:50.000Z",
-        "updatedAt": "2021-07-05T19:59:52.000Z",
         "deletedAt": null
       }
     }

@@ -11,13 +11,52 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 130761,
+  "aniId": 125149,
   "createdAt": "2021-03-31T22:00:51.000Z",
-  "updatedAt": "2021-09-11T23:34:45.000Z",
+  "updatedAt": "2022-01-03T16:53:32.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [],
+    "altTitle": [
+      "The Writer and His Housekeeper",
+      "小説家さまは、もんもんしたがる"
+    ],
+    "authors": [
+      "Nakatsuki, Kana"
+    ],
+    "id": 130761,
+    "type": "manga",
+    "title": "Shousetsuka-sama wa, Monmon Shitagaru",
+    "url": "https://myanimelist.net/manga/130761/Shousetsuka-sama_wa_Monmon_Shitagaru",
+    "image": "https://cdn.myanimelist.net/images/manga/3/252782.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2022-01-02T21:54:03.000Z",
+    "updatedAt": "2022-01-02T21:54:03.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "The Writer and His Housekeeper",
+      "小説家さまは、もんもんしたがる"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kana Nakatsuki"
+    ],
+    "id": 125149,
+    "malId": 130761,
+    "type": "manga",
+    "title": "Shousetsuka-sama wa, Monmon Shitagaru",
+    "url": "https://anilist.co/manga/125149",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx125149-XHDRCQK1xyHL.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-11T00:13:17.000Z",
+    "updatedAt": "2021-12-15T05:48:25.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/130761/Shousetsuka-sama_wa_Monmon_Shitagaru"
 }

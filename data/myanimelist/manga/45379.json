@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:21.000Z",
-  "updatedAt": "2021-11-28T00:05:43.000Z",
+  "updatedAt": "2022-01-02T04:23:36.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -88,6 +88,28 @@
         "aniId": 75379,
         "createdAt": "2021-04-18T07:44:19.000Z",
         "updatedAt": "2021-11-20T21:48:16.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "walkure_romanze_shoujo_kishi_monogatari": {
+        "authors": [
+          "Ricotta"
+        ],
+        "identifier": "walkure_romanze_shoujo_kishi_monogatari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Walkure Romanze - Shoujo Kishi Monogatari",
+        "url": "https://fanfox.net/manga/walkure_romanze_shoujo_kishi_monogatari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/11327/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 45379,
+        "aniId": 75379,
+        "createdAt": "2022-01-02T04:23:34.000Z",
+        "updatedAt": "2022-01-02T04:53:32.000Z",
         "deletedAt": null
       }
     }

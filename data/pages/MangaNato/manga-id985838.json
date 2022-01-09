@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 142700,
   "createdAt": "2021-12-28T16:53:38.000Z",
-  "updatedAt": "2021-12-28T16:53:48.000Z",
+  "updatedAt": "2022-01-06T19:25:16.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "超级收益宝"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Qiman Wenhua",
+      "Maiou Shi",
+      "Chen Yu"
+    ],
+    "id": 142700,
+    "malId": null,
+    "type": "manga",
+    "title": "Chaoji Shou Yi Bao",
+    "url": "https://anilist.co/manga/142700",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142700-dGHf3xwXGYHn.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-14T03:18:25.000Z",
+    "updatedAt": "2021-12-14T03:48:25.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:48.000Z",
-  "updatedAt": "2021-12-05T00:16:08.000Z",
+  "updatedAt": "2022-01-06T18:19:27.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -86,6 +86,28 @@
         "aniId": 33104,
         "createdAt": "2021-06-04T23:49:49.000Z",
         "updatedAt": "2021-12-05T00:54:11.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "helter_skelter": {
+        "authors": [
+          "OKAZAKI Kyoko"
+        ],
+        "identifier": "helter_skelter",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Helter Skelter",
+        "url": "https://fanfox.net/manga/helter_skelter/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2344/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3104,
+        "aniId": 33104,
+        "createdAt": "2022-01-06T18:19:26.000Z",
+        "updatedAt": "2022-01-06T18:47:51.000Z",
         "deletedAt": null
       }
     }

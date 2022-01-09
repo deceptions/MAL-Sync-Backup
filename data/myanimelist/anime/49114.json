@@ -9,6 +9,10 @@
       "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16367"
     },
     {
+      "site": "animenewsnetwork",
+      "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24741"
+    },
+    {
       "site": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/The_Case_Study_of_Vanitas#Anime"
     }
@@ -24,12 +28,32 @@
   "type": "anime",
   "title": "Vanitas no Karte 2nd Season",
   "url": "https://myanimelist.net/anime/49114/Vanitas_no_Karte_2nd_Season",
-  "image": "https://cdn.myanimelist.net/images/anime/1346/117756.jpg",
+  "image": "https://cdn.myanimelist.net/images/anime/1785/120021.jpg",
   "category": "TV",
   "hentai": false,
   "anidbId": 16367,
   "createdAt": "2021-06-27T17:20:20.000Z",
-  "updatedAt": "2021-12-04T11:17:06.000Z",
+  "updatedAt": "2022-01-07T17:19:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "vanitas-no-carte-part-2": {
+        "identifier": "vanitas-no-carte-part-2",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Vanitas no Carte Part 2",
+        "url": "https://gogoanime.cm/category/vanitas-no-carte-part-2",
+        "image": "https://gogocdn.net/cover/vanitas-no-carte-part-2.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 49114,
+        "aniId": 131646,
+        "createdAt": "2022-01-07T17:19:43.000Z",
+        "updatedAt": "2022-01-08T00:22:59.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

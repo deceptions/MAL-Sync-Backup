@@ -16,5 +16,28 @@
   "createdAt": "2021-12-31T10:54:10.000Z",
   "updatedAt": "2021-12-31T10:54:10.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "b8e49228-6be4-43bb-ac33-39d5edd7390c": {
+        "authors": [
+          "Momose Nao"
+        ],
+        "identifier": "b8e49228-6be4-43bb-ac33-39d5edd7390c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sayonara Manuke Na Yuukaihan San",
+        "url": "https://mangadex.org/title/b8e49228-6be4-43bb-ac33-39d5edd7390c",
+        "image": "https://uploads.mangadex.org/covers/b8e49228-6be4-43bb-ac33-39d5edd7390c/3c9b6c16-ced3-46a6-9e07-798257c9c4f5.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 138957,
+        "aniId": 132313,
+        "createdAt": "2022-01-02T23:25:35.000Z",
+        "updatedAt": "2022-01-02T23:25:35.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

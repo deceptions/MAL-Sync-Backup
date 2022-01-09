@@ -1,9 +1,14 @@
 {
   "altTitle": [
-    "ハコヅメ～交番女子の逆襲～",
-    "Police in a Pod"
+    "Police in a Pod",
+    "ハコヅメ～交番女子の逆襲～"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Funimation",
+      "url": "https://www.funimation.com/shows/police-in-a-pod/"
+    }
+  ],
   "id": 137312,
   "malId": 49519,
   "type": "anime",
@@ -13,7 +18,46 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-08-01T15:17:28.000Z",
-  "updatedAt": "2021-12-05T13:46:06.000Z",
+  "updatedAt": "2022-01-05T14:47:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "hakozume-kouban-joshi-no-gyakushuu": {
+        "identifier": "hakozume-kouban-joshi-no-gyakushuu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Hakozume: Kouban Joshi no Gyakushuu",
+        "url": "https://gogoanime.cm/category/hakozume-kouban-joshi-no-gyakushuu",
+        "image": "https://gogocdn.net/cover/hakozume-kouban-joshi-no-gyakushuu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49519,
+        "aniId": 137312,
+        "createdAt": "2022-01-05T16:17:53.000Z",
+        "updatedAt": "2022-01-05T16:47:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "6lloz": {
+        "identifier": "6lloz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Hakozume: Koban Joshi no Gyakushuu",
+        "url": "https://9anime.to/watch/police-in-a-pod.6lloz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/8/8c/8cde991e7799b425d17f974dea390acf.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49519,
+        "aniId": 137312,
+        "createdAt": "2022-01-05T16:18:03.000Z",
+        "updatedAt": "2022-01-05T16:47:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

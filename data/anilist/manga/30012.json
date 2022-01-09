@@ -20,7 +20,6 @@
     "Drik Sada",
     "Christine Dashiell",
     "Joe Yamazaki",
-    "Anne-Sophie Thévenon",
     "Mark McMurray",
     "Mark McMurray",
     "Evan Waldinger",
@@ -34,7 +33,8 @@
     "Daniel Büchner",
     "Kentarou Kurimoto",
     "Shou Aimoto",
-    "Hitoshi Imoto"
+    "Hitoshi Imoto",
+    "Anne-Sophie Thevenon"
   ],
   "id": 30012,
   "malId": 12,
@@ -45,7 +45,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T14:35:21.000Z",
-  "updatedAt": "2021-08-07T05:17:50.000Z",
+  "updatedAt": "2022-01-02T22:53:33.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -151,6 +151,26 @@
         "aniId": 30012,
         "createdAt": "2020-12-13T10:20:02.000Z",
         "updatedAt": "2021-11-20T15:46:37.000Z",
+        "deletedAt": null
+      },
+      "bleach-color": {
+        "authors": [
+          "KUBO Tite"
+        ],
+        "identifier": "bleach-color",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Bleach - Color",
+        "url": "https://mangasee123.com/manga/Bleach-Color",
+        "image": "https://cover.nep.li/cover/Bleach-Color.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 12,
+        "aniId": 30012,
+        "createdAt": "2021-06-29T10:04:29.000Z",
+        "updatedAt": "2021-12-29T10:32:49.000Z",
         "deletedAt": null
       }
     },

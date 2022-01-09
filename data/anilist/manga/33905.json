@@ -18,5 +18,28 @@
   "createdAt": "2021-05-20T14:38:18.000Z",
   "updatedAt": "2021-12-17T11:38:37.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "b9025a89-7f74-46af-b669-c645cbfb3f84": {
+        "authors": [
+          "Takahashi Yousuke"
+        ],
+        "identifier": "b9025a89-7f74-46af-b669-c645cbfb3f84",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Time Milk Wound the Spring",
+        "url": "https://mangadex.org/title/b9025a89-7f74-46af-b669-c645cbfb3f84",
+        "image": "https://uploads.mangadex.org/covers/b9025a89-7f74-46af-b669-c645cbfb3f84/6f2ced42-9723-47f6-8ac4-fb7081321318.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3905,
+        "aniId": 33905,
+        "createdAt": "2022-01-08T21:18:15.000Z",
+        "updatedAt": "2022-01-08T21:47:54.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

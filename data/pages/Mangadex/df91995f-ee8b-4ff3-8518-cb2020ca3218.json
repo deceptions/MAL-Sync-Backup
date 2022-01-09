@@ -11,13 +11,55 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 141252,
+  "aniId": 140496,
   "createdAt": "2021-10-20T23:42:42.000Z",
-  "updatedAt": "2021-10-27T08:03:02.000Z",
+  "updatedAt": "2022-01-08T01:17:51.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://shonenjumpplus.com/episode/3269754496512155087"
+      }
+    ],
+    "altTitle": [
+      "ライトアゲイン"
+    ],
+    "authors": [
+      "Arisaka, Aco"
+    ],
+    "id": 141252,
+    "type": "manga",
+    "title": "Light Again",
+    "url": "https://myanimelist.net/manga/141252/Light_Again",
+    "image": "https://cdn.myanimelist.net/images/manga/1/251399.jpg",
+    "category": "One-shot",
+    "hentai": false,
+    "createdAt": "2022-01-07T01:48:02.000Z",
+    "updatedAt": "2022-01-07T01:48:02.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "ライトアゲイン"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ako Arisaka"
+    ],
+    "id": 140496,
+    "malId": 141252,
+    "type": "manga",
+    "title": "Light Again",
+    "url": "https://anilist.co/manga/140496",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140496-MNC0alk4YFpt.jpg",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2021-10-21T02:42:51.000Z",
+    "updatedAt": "2021-10-22T07:47:31.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/141252/Light_Again"
 }

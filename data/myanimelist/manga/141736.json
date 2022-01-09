@@ -43,6 +43,48 @@
         "updatedAt": "2021-11-10T15:43:15.000Z",
         "deletedAt": null
       }
+    },
+    "Mangadex": {
+      "bbdaa3a3-ea49-4f12-9e1c-baa452f0830d": {
+        "authors": [
+          "Kasai Nao"
+        ],
+        "identifier": "bbdaa3a3-ea49-4f12-9e1c-baa452f0830d",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ichijou-San Wa Kao Ni Deyasui",
+        "url": "https://mangadex.org/title/bbdaa3a3-ea49-4f12-9e1c-baa452f0830d",
+        "image": "https://uploads.mangadex.org/covers/bbdaa3a3-ea49-4f12-9e1c-baa452f0830d/858caf42-07bb-4ce1-b5e2-1827c786c679.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141736,
+        "aniId": 138830,
+        "createdAt": "2021-10-12T11:44:59.000Z",
+        "updatedAt": "2022-01-03T16:53:32.000Z",
+        "deletedAt": null
+      },
+      "c6694b76-ebf1-4d3a-bffd-a5b372b35b72": {
+        "authors": [
+          "Kasai Nao"
+        ],
+        "identifier": "c6694b76-ebf1-4d3a-bffd-a5b372b35b72",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Ichijou-San Wa Kao Ni Deyasui",
+        "url": "https://mangadex.org/title/c6694b76-ebf1-4d3a-bffd-a5b372b35b72",
+        "image": "https://uploads.mangadex.org/covers/c6694b76-ebf1-4d3a-bffd-a5b372b35b72/b146eb1d-81d0-4b13-8f97-bdb945ed4eb0.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141736,
+        "aniId": 138830,
+        "createdAt": "2022-01-04T03:48:34.000Z",
+        "updatedAt": "2022-01-04T04:18:24.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

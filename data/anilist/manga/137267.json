@@ -17,5 +17,28 @@
   "createdAt": "2021-07-30T20:52:02.000Z",
   "updatedAt": "2021-12-04T19:46:07.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "31e65583-d65d-46c9-b130-0d0230142a17": {
+        "authors": [
+          "Suzuki Sanami"
+        ],
+        "identifier": "31e65583-d65d-46c9-b130-0d0230142a17",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kajiki no Ryourinin",
+        "url": "https://mangadex.org/title/31e65583-d65d-46c9-b130-0d0230142a17",
+        "image": "https://uploads.mangadex.org/covers/31e65583-d65d-46c9-b130-0d0230142a17/4e669308-7578-4540-b777-bd0e8eabe4af.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 140889,
+        "aniId": 137267,
+        "createdAt": "2022-01-05T09:17:51.000Z",
+        "updatedAt": "2022-01-05T09:18:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

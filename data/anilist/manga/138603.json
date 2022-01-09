@@ -17,5 +17,50 @@
   "createdAt": "2021-08-31T10:36:43.000Z",
   "updatedAt": "2021-11-25T00:05:32.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ms990353": {
+        "authors": [
+          "Mokumoku Ren"
+        ],
+        "identifier": "manga-ms990353",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Hikaru Ga Shinda Natsu",
+        "url": "https://manganato.com/manga-ms990353",
+        "image": "https://avt.mkklcdnv6temp.com/20/w/25-1641054811.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141833,
+        "aniId": 138603,
+        "createdAt": "2022-01-02T20:23:42.000Z",
+        "updatedAt": "2022-01-02T20:53:32.000Z",
+        "deletedAt": null
+      }
+    },
+    "Mangadex": {
+      "9e954c6b-7a02-4fd7-986d-6331c0ba95d4": {
+        "authors": [
+          "Mokumoku Ren"
+        ],
+        "identifier": "9e954c6b-7a02-4fd7-986d-6331c0ba95d4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Hikaru ga Shinda Natsu",
+        "url": "https://mangadex.org/title/9e954c6b-7a02-4fd7-986d-6331c0ba95d4",
+        "image": "https://uploads.mangadex.org/covers/9e954c6b-7a02-4fd7-986d-6331c0ba95d4/eb80e4de-e383-44c6-8c4e-c1d194b6df83.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 141833,
+        "aniId": 138603,
+        "createdAt": "2022-01-08T08:18:15.000Z",
+        "updatedAt": "2022-01-08T08:47:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -18,7 +18,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:51.000Z",
-  "updatedAt": "2021-10-28T04:47:49.000Z",
+  "updatedAt": "2022-01-03T18:23:43.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,28 @@
         "aniId": 33443,
         "createdAt": "2020-10-12T16:05:28.000Z",
         "updatedAt": "2021-12-03T13:17:37.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-hw959879": {
+        "authors": [
+          "Hattori Mitsuru"
+        ],
+        "identifier": "manga-hw959879",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Concerto",
+        "url": "https://manganato.com/manga-hw959879",
+        "image": "https://avt.mkklcdnv6temp.com/30/h/6-1583475353.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 3443,
+        "aniId": 33443,
+        "createdAt": "2022-01-03T18:23:42.000Z",
+        "updatedAt": "2022-01-03T18:53:32.000Z",
         "deletedAt": null
       }
     }

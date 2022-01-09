@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 51583,
-  "aniId": null,
+  "aniId": 81583,
   "createdAt": "2022-01-02T00:54:24.000Z",
-  "updatedAt": "2022-01-02T00:54:43.000Z",
+  "updatedAt": "2022-01-02T01:23:32.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -42,6 +42,27 @@
     "updatedAt": "2022-01-02T00:54:43.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "34歳無職さん",
+      "Ms. Unemployed 34 Year Old",
+      "34 Sai Mushokusan"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Takashi Ikeda"
+    ],
+    "id": 81583,
+    "malId": 51583,
+    "type": "manga",
+    "title": "34-sai Mushoku-san",
+    "url": "https://anilist.co/manga/81583",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/51583.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:49:51.000Z",
+    "updatedAt": "2021-12-17T21:29:16.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/51583/34-sai_Mushoku-san"
 }

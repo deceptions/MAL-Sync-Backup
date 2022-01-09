@@ -11,13 +11,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 143355,
   "createdAt": "2021-10-15T16:58:45.000Z",
-  "updatedAt": "2021-10-15T16:58:45.000Z",
+  "updatedAt": "2022-01-08T00:36:05.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "万人之上"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Bo Yi Dongman",
+      "Lingbei Feng",
+      "Yuan Tong",
+      "La Lian"
+    ],
+    "id": 143355,
+    "malId": null,
+    "type": "manga",
+    "title": "Wan Ren Zhi Shang",
+    "url": "https://anilist.co/manga/143355",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143355-3buN5OEAKv2h.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2022-01-05T03:47:53.000Z",
+    "updatedAt": "2022-01-05T03:47:53.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

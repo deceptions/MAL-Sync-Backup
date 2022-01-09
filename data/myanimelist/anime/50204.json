@@ -33,5 +33,44 @@
   "createdAt": "2021-12-31T10:54:04.000Z",
   "updatedAt": "2021-12-31T10:54:04.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "tokyo-24-ku": {
+        "identifier": "tokyo-24-ku",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tokyo 24-ku",
+        "url": "https://gogoanime.cm/category/tokyo-24-ku",
+        "image": "https://gogocdn.net/cover/tokyo-24-ku.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50204,
+        "aniId": 140643,
+        "createdAt": "2022-01-05T17:18:03.000Z",
+        "updatedAt": "2022-01-05T17:47:51.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "m22jz": {
+        "identifier": "m22jz",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Tokyo 24-ku",
+        "url": "https://9anime.to/watch/tokyo-24th-ward.m22jz",
+        "image": "https://static.bunnycdn.ru/i/cache/images/6/6d/6d4c3d6c9d63f6ecd86b36ea9934ea98.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 50204,
+        "aniId": 140643,
+        "createdAt": "2022-01-05T18:18:40.000Z",
+        "updatedAt": "2022-01-05T18:47:51.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

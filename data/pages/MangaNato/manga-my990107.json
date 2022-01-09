@@ -11,13 +11,61 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 2,
+  "malId": 123959,
+  "aniId": 115455,
   "createdAt": "2021-12-02T16:48:09.000Z",
-  "updatedAt": "2021-12-02T17:16:36.000Z",
+  "updatedAt": "2022-01-05T16:04:37.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-gardo.com/episode/10834108156666515482"
+      }
+    ],
+    "altTitle": [
+      "I have a slow living in different world (I wish)",
+      "異世界でスローライフを（願望）"
+    ],
+    "authors": [
+      "Nagayori",
+      "Shige"
+    ],
+    "id": 123959,
+    "type": "manga",
+    "title": "Isekai de Slow Life wo (Ganbou)",
+    "url": "https://myanimelist.net/manga/123959/Isekai_de_Slow_Life_wo_Ganbou",
+    "image": "https://cdn.myanimelist.net/images/manga/1/231057.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:48:12.000Z",
+    "updatedAt": "2021-12-18T19:48:41.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "Slow Life In Another World (I Wish!)",
+      "異世界でスローライフを（願望）",
+      "I Have a Slow Living in Different World (I Wish)  "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Nagayori",
+      "Shige",
+      "Ouka"
+    ],
+    "id": 115455,
+    "malId": 123959,
+    "type": "manga",
+    "title": "Isekai de Slow Life wo (Ganbou)",
+    "url": "https://anilist.co/manga/115455",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115455-c5SeyvqkNrAA.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:01.000Z",
+    "updatedAt": "2021-12-18T08:24:26.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/123959/Isekai_de_Slow_Life_wo_Ganbou"
 }

@@ -14,7 +14,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-06-07T17:05:53.000Z",
-  "updatedAt": "2021-11-04T05:05:09.000Z",
+  "updatedAt": "2022-01-04T19:48:32.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -58,6 +58,28 @@
         "aniId": 116938,
         "createdAt": "2021-11-04T05:04:50.000Z",
         "updatedAt": "2021-11-04T05:34:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "irohani_hoero": {
+        "authors": [
+          "YOKOYAMA Kouji"
+        ],
+        "identifier": "irohani_hoero",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Irohani hoERO!",
+        "url": "https://fanfox.net/manga/irohani_hoero/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/39679/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 131118,
+        "aniId": 116938,
+        "createdAt": "2022-01-04T19:48:24.000Z",
+        "updatedAt": "2022-01-04T20:17:51.000Z",
         "deletedAt": null
       }
     }

@@ -10,9 +10,9 @@
   "active": true,
   "actor": null,
   "malId": 33176,
-  "aniId": null,
+  "aniId": 143390,
   "createdAt": "2020-10-12T15:54:55.000Z",
-  "updatedAt": "2019-10-12T16:02:23.000Z",
+  "updatedAt": "2022-01-06T02:17:51.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -41,6 +41,23 @@
     "updatedAt": "2021-10-03T11:07:44.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ニャンコス Hello! Our Brilliant Future",
+      "Nyankosu"
+    ],
+    "externalLinks": [],
+    "id": 143390,
+    "malId": 33176,
+    "type": "anime",
+    "title": "Nyancos: Hello! Our Brilliant Future",
+    "url": "https://anilist.co/anime/143390",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143390-AwWOuLYoZO3A.jpg",
+    "category": "ova",
+    "hentai": false,
+    "createdAt": "2022-01-06T01:47:51.000Z",
+    "updatedAt": "2022-01-06T01:47:51.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/anime/33176/Nyancos__Hello_Our_Brilliant_Future"
 }

@@ -1,23 +1,49 @@
 {
   "authors": [
-    "Cha Sohee"
+    "포알카",
+    "Cha Sohee",
+    "화솜"
   ],
   "identifier": "2b3ca0e3-4d7f-4f45-9b2e-ccfa51caddec",
   "type": "manga",
   "page": "Mangadex",
-  "title": "The Princess is Evil",
+  "title": "The Wicked Little Princess",
   "url": "https://mangadex.org/title/2b3ca0e3-4d7f-4f45-9b2e-ccfa51caddec",
-  "image": "",
+  "image": "https://uploads.mangadex.org/covers/2b3ca0e3-4d7f-4f45-9b2e-ccfa51caddec/2ebf12a9-b568-4287-a465-546907bbca36.png",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 136053,
   "createdAt": "2021-07-08T03:15:09.000Z",
-  "updatedAt": "2021-07-08T03:15:09.000Z",
+  "updatedAt": "2022-01-08T16:50:03.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Wicked Little Princess",
+      "황녀님이 사악하셔",
+      "The Princess Is Evil"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "So-Hui Cha",
+      "Hwa-Som",
+      "Polka",
+      "Jinagadeon Salam"
+    ],
+    "id": 136053,
+    "malId": null,
+    "type": "manga",
+    "title": "Hwangnyeonimi Saakasyeo",
+    "url": "https://anilist.co/manga/136053",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136053-30YEmNBTxTzd.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-24T20:14:54.000Z",
+    "updatedAt": "2022-01-08T03:48:34.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }
