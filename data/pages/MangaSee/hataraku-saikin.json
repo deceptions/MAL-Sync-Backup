@@ -19,10 +19,19 @@
   "updatedAt": "2021-11-20T17:15:26.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://nakayosi.kodansha.co.jp/manga/131/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%9F%E3%82%89%E3%81%8F%E7%B4%B0%E8%83%9E"
+      }
+    ],
     "altTitle": [
-      "Cells at Work: Bacteria!",
       "Bacteria at Work",
+      "Cells at Work: Bacteria!",
       "はたらく細菌"
     ],
     "authors": [
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:47:13.000Z",
-    "updatedAt": "2021-07-09T14:13:20.000Z",
+    "updatedAt": "2022-01-09T14:18:09.000Z",
     "deletedAt": null
   },
   "Anilist": {

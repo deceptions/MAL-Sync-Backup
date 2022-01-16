@@ -21,5 +21,29 @@
   "createdAt": "2021-06-12T20:08:19.000Z",
   "updatedAt": "2022-01-08T17:18:05.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-nk990367": {
+        "authors": [
+          "Ugak (우각)",
+          "Ryu Keum Cheol"
+        ],
+        "identifier": "manga-nk990367",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Martial Artist Lee Gwak",
+        "url": "https://manganato.com/manga-nk990367",
+        "image": "https://avt.mkklcdnv6temp.com/21/m/25-1641312387.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 135464,
+        "createdAt": "2022-01-04T17:49:24.000Z",
+        "updatedAt": "2022-01-10T10:37:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

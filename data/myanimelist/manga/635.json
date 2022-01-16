@@ -1,9 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%AF%E7%88%B5%E3%82%AB%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+    }
+  ],
   "altTitle": [
-    "Godchild",
     "Nichiyoubi no Solomon Grundy",
     "Hakushaku Cain Series",
+    "Godchild",
     "ゴッド チャイルド"
   ],
   "authors": [
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:40:24.000Z",
-  "updatedAt": "2021-07-28T05:51:59.000Z",
+  "updatedAt": "2022-01-10T05:48:30.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -81,6 +86,28 @@
         "aniId": 30635,
         "createdAt": "2021-07-28T05:51:56.000Z",
         "updatedAt": "2021-07-28T06:21:36.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "god_child": {
+        "authors": [
+          "YUKI Kaori"
+        ],
+        "identifier": "god_child",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "God Child",
+        "url": "https://fanfox.net/manga/god_child/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2498/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 635,
+        "aniId": 30635,
+        "createdAt": "2022-01-10T05:48:21.000Z",
+        "updatedAt": "2022-01-10T06:17:58.000Z",
         "deletedAt": null
       }
     }

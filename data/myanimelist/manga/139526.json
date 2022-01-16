@@ -23,5 +23,29 @@
   "createdAt": "2021-12-27T19:54:28.000Z",
   "updatedAt": "2021-12-27T19:54:28.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "5ba801b6-91fa-4aa4-b28a-28f789712b2c": {
+        "authors": [
+          "Kamishiro Kyousuke",
+          "Higuchi Mei"
+        ],
+        "identifier": "5ba801b6-91fa-4aa4-b28a-28f789712b2c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "I'll answer, your mystery.",
+        "url": "https://mangadex.org/title/5ba801b6-91fa-4aa4-b28a-28f789712b2c",
+        "image": "https://uploads.mangadex.org/covers/5ba801b6-91fa-4aa4-b28a-28f789712b2c/9cb63788-5965-438c-ab47-e615a0a099e2.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139526,
+        "aniId": 137154,
+        "createdAt": "2022-01-13T10:41:41.000Z",
+        "updatedAt": "2022-01-13T10:41:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

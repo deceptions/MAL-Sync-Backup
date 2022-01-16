@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 130169,
-  "aniId": null,
+  "aniId": 115174,
   "createdAt": "2021-11-11T16:45:51.000Z",
-  "updatedAt": "2021-11-11T16:45:58.000Z",
+  "updatedAt": "2022-01-15T09:41:45.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -37,6 +37,27 @@
     "updatedAt": "2022-01-06T05:21:03.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Walking Cat: A Cat’s-Eye-View of the Zombie Apocalypse",
+      "ウォーキング・キャット"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Tomo Kitaoka",
+      "Caleb Cook"
+    ],
+    "id": 115174,
+    "malId": 130169,
+    "type": "manga",
+    "title": "Walking Cat",
+    "url": "https://anilist.co/manga/115174",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115174-UBuzMPWgRWi8.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2022-01-15T09:11:46.000Z",
+    "updatedAt": "2022-01-15T09:11:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/130169/Walking_Cat"
 }

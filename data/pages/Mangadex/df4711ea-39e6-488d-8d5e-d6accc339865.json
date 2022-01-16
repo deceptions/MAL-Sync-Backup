@@ -13,12 +13,17 @@
   "active": true,
   "actor": 1,
   "malId": 134335,
-  "aniId": null,
+  "aniId": 127341,
   "createdAt": "2020-10-12T16:18:05.000Z",
-  "updatedAt": "2021-07-13T14:27:49.000Z",
+  "updatedAt": "2022-01-12T08:11:39.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_AM21201313010000_68/"
+      }
+    ],
     "altTitle": [
       "Toho Project Fan Fictions: The Gensokyo of Humans",
       "東方Project二次創作シリーズ 人間たちの幻想郷"
@@ -34,9 +39,30 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-07-13T09:15:11.000Z",
-    "updatedAt": "2021-07-13T09:15:11.000Z",
+    "updatedAt": "2022-01-13T09:43:12.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "人間たちの幻想郷",
+      "Touhou: The Gensokyo of Humans  "
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Junya Oota",
+      "Ashiyama"
+    ],
+    "id": 127341,
+    "malId": 134335,
+    "type": "manga",
+    "title": "Ningentachi no Gensokyo",
+    "url": "https://anilist.co/manga/127341",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx127341-hfLwRVDUWjdZ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-12T07:15:01.000Z",
+    "updatedAt": "2022-01-12T07:42:43.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/134335/Touhou_Project_Niji_Sousaku_Series__Ningen-tachi_no_Gensoukyou"
 }

@@ -89,6 +89,28 @@
         "updatedAt": "2021-08-03T23:17:29.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mao": {
+        "authors": [
+          "TAKAHASHI Rumiko"
+        ],
+        "identifier": "mao",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "MAO",
+        "url": "https://fanfox.net/manga/mao/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/30503/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 119588,
+        "aniId": 106102,
+        "createdAt": "2022-01-14T00:12:45.000Z",
+        "updatedAt": "2022-01-14T00:41:42.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

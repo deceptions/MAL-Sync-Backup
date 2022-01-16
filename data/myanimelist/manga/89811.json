@@ -14,7 +14,30 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-12-10T22:05:00.000Z",
-  "updatedAt": "2021-12-10T22:05:00.000Z",
+  "updatedAt": "2022-01-10T00:18:09.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "c0eb5f3f-3be5-48cd-9899-6cca6b13007b": {
+        "authors": [
+          "Shoji Hiroyuki"
+        ],
+        "identifier": "c0eb5f3f-3be5-48cd-9899-6cca6b13007b",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sokubakuai ~Kareshi wo Hikikomoraseru 100 no Houhou~",
+        "url": "https://mangadex.org/title/c0eb5f3f-3be5-48cd-9899-6cca6b13007b",
+        "image": "https://uploads.mangadex.org/covers/c0eb5f3f-3be5-48cd-9899-6cca6b13007b/ae87c028-f08c-4a3f-b27b-fe4c9d35aaa9.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 89811,
+        "aniId": 95127,
+        "createdAt": "2022-01-10T23:11:49.000Z",
+        "updatedAt": "2022-01-10T23:11:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 16074,
-  "aniId": null,
+  "aniId": 46074,
   "createdAt": "2022-01-01T18:23:32.000Z",
-  "updatedAt": "2022-01-01T18:23:32.000Z",
+  "updatedAt": "2022-01-16T00:41:45.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -37,6 +37,26 @@
     "updatedAt": "2022-01-01T17:23:33.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "恋とセンチメンタリズム",
+      "Aa Da Kou Da to iu Yori mo"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Aoi Hashimoto"
+    ],
+    "id": 46074,
+    "malId": 16074,
+    "type": "manga",
+    "title": "Koi to Sentimentalism",
+    "url": "https://anilist.co/manga/46074",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/16074.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2022-01-16T00:11:56.000Z",
+    "updatedAt": "2022-01-16T00:11:56.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/16074/Koi_to_Sentimentalism"
 }

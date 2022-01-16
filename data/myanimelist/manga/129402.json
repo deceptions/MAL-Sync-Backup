@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-03-16T16:33:33.000Z",
-  "updatedAt": "2021-12-01T12:54:01.000Z",
+  "updatedAt": "2022-01-13T17:42:33.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -43,6 +43,28 @@
         "aniId": 132508,
         "createdAt": "2020-10-12T16:21:14.000Z",
         "updatedAt": "2021-12-18T13:18:29.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-lz988534": {
+        "authors": [
+          "戦記暗転"
+        ],
+        "identifier": "manga-lz988534",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Ane Ga Kensei De Imouto Ga Kenja De",
+        "url": "https://manganato.com/manga-lz988534",
+        "image": "https://avt.mkklcdnv6temp.com/42/t/23-1615910219.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 129402,
+        "aniId": 132508,
+        "createdAt": "2021-05-29T09:44:04.000Z",
+        "updatedAt": "2022-01-13T19:41:42.000Z",
         "deletedAt": null
       }
     }

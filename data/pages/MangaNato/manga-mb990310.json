@@ -11,13 +11,36 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 143804,
   "createdAt": "2021-12-22T13:51:46.000Z",
-  "updatedAt": "2021-12-22T13:51:46.000Z",
+  "updatedAt": "2022-01-13T19:20:21.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Preventing the Making of a Tyrant",
+      "폭군의 흑화를 막는 법",
+      "怎样阻止皇帝的黑化"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "YUL",
+      "Yeo-On Han",
+      "Iro"
+    ],
+    "id": 143804,
+    "malId": null,
+    "type": "manga",
+    "title": "Pokgunui Heukwareul Mangneun Beop",
+    "url": "https://anilist.co/manga/143804",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143804-IclJw8NfaQ1t.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2022-01-13T16:11:53.000Z",
+    "updatedAt": "2022-01-15T00:11:46.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

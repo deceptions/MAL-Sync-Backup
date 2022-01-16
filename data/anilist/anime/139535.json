@@ -13,7 +13,27 @@
   "category": "ona",
   "hentai": false,
   "createdAt": "2021-09-23T00:40:49.000Z",
-  "updatedAt": "2021-09-23T00:40:49.000Z",
+  "updatedAt": "2022-01-15T13:42:37.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "devour-eternity": {
+        "identifier": "devour-eternity",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Devour Eternity",
+        "url": "https://gogoanime.cm/category/devour-eternity",
+        "image": "https://gogocdn.net/cover/devour-eternity.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 139535,
+        "createdAt": "2022-01-15T05:41:46.000Z",
+        "updatedAt": "2022-01-15T13:42:37.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

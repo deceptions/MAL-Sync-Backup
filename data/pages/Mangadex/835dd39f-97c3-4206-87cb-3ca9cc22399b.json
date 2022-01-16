@@ -21,12 +21,20 @@
   "updatedAt": "2021-12-03T22:21:29.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.famitsu.com/comic_clear/se_sg_pandora/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/STEINS;GATE"
+      }
+    ],
     "altTitle": [
       "Steins",
       "Gate: Pandora of Eternal Return",
-      "STEINS",
-      "GATE 永劫回帰のパンドラ"
+      "STEINS;GATE 永劫回帰のパンドラ"
     ],
     "authors": [
       "Takimoto, Masashi",
@@ -40,7 +48,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:44:55.000Z",
-    "updatedAt": "2021-07-10T22:43:32.000Z",
+    "updatedAt": "2022-01-10T23:11:49.000Z",
     "deletedAt": null
   },
   "Anilist": {

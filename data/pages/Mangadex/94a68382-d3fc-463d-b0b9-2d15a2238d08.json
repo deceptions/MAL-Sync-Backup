@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 126384,
-  "aniId": null,
+  "aniId": 117444,
   "createdAt": "2020-10-12T16:20:14.000Z",
-  "updatedAt": "2021-12-08T00:39:11.000Z",
+  "updatedAt": "2022-01-12T09:41:39.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -37,6 +37,25 @@
     "updatedAt": "2021-12-08T00:04:33.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "奈落の仔"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Taisei Tsujita"
+    ],
+    "id": 117444,
+    "malId": 126384,
+    "type": "manga",
+    "title": "Naraku no Ko",
+    "url": "https://anilist.co/manga/117444",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117444-seDQpyelK8tf.png",
+    "category": "one_shot",
+    "hentai": false,
+    "createdAt": "2022-01-12T09:11:40.000Z",
+    "updatedAt": "2022-01-12T09:11:40.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/126384/Naraku_no_Ko"
 }

@@ -41,6 +41,28 @@
         "updatedAt": "2021-12-07T07:52:25.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "tyra_cera": {
+        "authors": [
+          "Ichikawa Hiro"
+        ],
+        "identifier": "tyra_cera",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Tyra & Cera",
+        "url": "https://fanfox.net/manga/tyra_cera/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31059/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 129492,
+        "aniId": 110809,
+        "createdAt": "2021-07-08T03:43:31.000Z",
+        "updatedAt": "2022-01-08T07:18:53.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

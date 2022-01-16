@@ -17,5 +17,28 @@
   "createdAt": "2021-06-06T21:18:58.000Z",
   "updatedAt": "2021-11-26T07:35:32.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "14ee6296-cd0c-4b3e-87c2-e2825efbbfbc": {
+        "authors": [
+          "Asanori"
+        ],
+        "identifier": "14ee6296-cd0c-4b3e-87c2-e2825efbbfbc",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Watashi wo Misete, Ore wo Mite",
+        "url": "https://mangadex.org/title/14ee6296-cd0c-4b3e-87c2-e2825efbbfbc",
+        "image": "https://uploads.mangadex.org/covers/14ee6296-cd0c-4b3e-87c2-e2825efbbfbc/f8a144fd-3d79-4386-bff9-01cf6de6bc45.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 138904,
+        "aniId": 131175,
+        "createdAt": "2021-03-18T10:32:57.000Z",
+        "updatedAt": "2022-01-13T19:41:42.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

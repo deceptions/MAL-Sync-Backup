@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 112508,
-  "aniId": null,
+  "aniId": 143837,
   "createdAt": "2020-10-12T16:11:14.000Z",
-  "updatedAt": "2021-12-05T06:50:11.000Z",
+  "updatedAt": "2022-01-13T23:11:42.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -41,6 +41,25 @@
     "updatedAt": "2021-11-21T11:42:48.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "トーキョーゲーム"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Hiromi Aoyama"
+    ],
+    "id": 143837,
+    "malId": 112508,
+    "type": "manga",
+    "title": "Tokyo Game",
+    "url": "https://anilist.co/manga/143837",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143837-328BVbYlnRpz.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2022-01-13T22:41:43.000Z",
+    "updatedAt": "2022-01-13T22:41:43.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/112508/Tokyo_Game"
 }

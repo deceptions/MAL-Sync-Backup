@@ -20,5 +20,44 @@
   "createdAt": "2021-09-30T11:30:52.000Z",
   "updatedAt": "2022-01-07T23:47:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "tribe-nine": {
+        "identifier": "tribe-nine",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Tribe Nine",
+        "url": "https://gogoanime.cm/category/tribe-nine",
+        "image": "https://gogocdn.net/cover/tribe-nine.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49969,
+        "aniId": 139804,
+        "createdAt": "2022-01-10T14:11:40.000Z",
+        "updatedAt": "2022-01-10T14:41:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "w11xo": {
+        "identifier": "w11xo",
+        "type": "anime",
+        "page": "9anime",
+        "title": "TRIBE NINE",
+        "url": "https://9anime.to/watch/tribe-nine.w11xo",
+        "image": "https://static.bunnycdn.ru/i/cache/images/4/46/4678a486b410db40380e6593047a9b16.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49969,
+        "aniId": 139804,
+        "createdAt": "2022-01-10T14:12:10.000Z",
+        "updatedAt": "2022-01-10T14:41:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

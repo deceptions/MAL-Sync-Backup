@@ -1,6 +1,6 @@
 {
   "authors": [
-    "Ryoe Tsukimura",
+    "Tsukimura Ryoe",
     "Fukuda Ikumi"
   ],
   "identifier": "a4f9c8dc-e09a-401e-8c71-feb4deed1ba9",
@@ -8,17 +8,37 @@
   "page": "Mangadex",
   "title": "Dobaku no Hana",
   "url": "https://mangadex.org/title/a4f9c8dc-e09a-401e-8c71-feb4deed1ba9",
-  "image": "https://uploads.mangadex.org/covers/a4f9c8dc-e09a-401e-8c71-feb4deed1ba9/94ff97bd-8d4c-4018-adc4-5fee1f41f13e.jpg",
+  "image": "https://uploads.mangadex.org/covers/a4f9c8dc-e09a-401e-8c71-feb4deed1ba9/64bd6b26-1b70-4ea2-9209-8367aa2e64e8.png",
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 128769,
   "createdAt": "2021-07-15T07:21:44.000Z",
-  "updatedAt": "2021-07-15T07:21:53.000Z",
+  "updatedAt": "2022-01-15T17:19:43.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "土漠の花"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ikumi Fukuda",
+      "Ryoue Tsukimura"
+    ],
+    "id": 128769,
+    "malId": null,
+    "type": "manga",
+    "title": "Dobaku no Hana",
+    "url": "https://anilist.co/manga/128769",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128769-Qkiypiz8tkwT.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-02T22:45:46.000Z",
+    "updatedAt": "2022-01-15T08:12:39.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -61,6 +61,28 @@
         "updatedAt": "2021-12-08T13:09:10.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "onecha": {
+        "authors": [
+          "NANAKAMADO Anno"
+        ],
+        "identifier": "onecha",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Onecha.",
+        "url": "https://fanfox.net/manga/onecha/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31942/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 122645,
+        "aniId": 108153,
+        "createdAt": "2022-01-15T02:11:47.000Z",
+        "updatedAt": "2022-01-15T02:41:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

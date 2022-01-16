@@ -12,13 +12,65 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 125183,
+  "aniId": 115225,
   "createdAt": "2020-12-28T02:28:04.000Z",
-  "updatedAt": "2021-12-01T03:06:18.000Z",
+  "updatedAt": "2022-01-11T22:41:39.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://dash.shueisha.co.jp/feature/madan/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/魔弾の王と戦姫"
+      }
+    ],
+    "altTitle": [
+      "Madan no Ou to Touren no Yukihime",
+      "Lord Marksman and Michelia",
+      "魔弾の王と凍漣の雪姫〈ミーチェリア〉"
+    ],
+    "authors": [
+      "Kawaguchi, Tsukasa",
+      "Miyatsuki, Itsuka"
+    ],
+    "id": 125183,
+    "type": "manga",
+    "title": "Madan no Ou to Michelia",
+    "url": "https://myanimelist.net/manga/125183/Madan_no_Ou_to_Michelia",
+    "image": "https://cdn.myanimelist.net/images/manga/2/245722.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2021-06-07T17:06:12.000Z",
+    "updatedAt": "2022-01-11T16:12:48.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "魔弾の王と凍漣の雪姫 序章",
+      "Lord Marksman and Michelia: Preface"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "kakao",
+      "Tsukasa Kawaguchi",
+      "Itsuka Miyatsuki"
+    ],
+    "id": 115225,
+    "malId": 125183,
+    "type": "manga",
+    "title": "Madan no Ou to Michelia: Joshou",
+    "url": "https://anilist.co/manga/115225",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx115225-lTmoTSs4eWdy.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-25T02:08:37.000Z",
+    "updatedAt": "2021-08-12T03:09:19.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/125183/Madan_no_Ou_to_Michelia"
 }

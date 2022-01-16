@@ -16,7 +16,7 @@
     "cocorip"
   ],
   "id": 109436,
-  "malId": null,
+  "malId": 140136,
   "type": "manga",
   "title": "Goemul Gongjagui Gyeyang Gongnyeo",
   "url": "https://anilist.co/manga/109436",
@@ -24,7 +24,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-20T20:12:57.000Z",
-  "updatedAt": "2021-12-17T12:18:31.000Z",
+  "updatedAt": "2022-01-11T13:41:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -47,6 +47,51 @@
         "aniId": 109436,
         "createdAt": "2020-10-12T16:15:47.000Z",
         "updatedAt": "2021-10-29T22:15:59.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "the-monster-duchess-and-contract-princess": {
+        "authors": [
+          "Liaran",
+          "Minjack"
+        ],
+        "identifier": "the-monster-duchess-and-contract-princess",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "The Monstrous Duke's Adopted Daughter",
+        "url": "https://mangasee123.com/manga/The-Monster-Duchess-and-Contract-Princess",
+        "image": "https://cover.nep.li/cover/The-Monster-Duchess-and-Contract-Princess.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 109436,
+        "createdAt": "2021-02-07T05:50:03.000Z",
+        "updatedAt": "2022-01-06T22:18:44.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ei981665": {
+        "authors": [
+          "Rialan"
+        ],
+        "identifier": "manga-ei981665",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Monster Duchess And Contract Princess",
+        "url": "https://readmanganato.com/manga-ei981665",
+        "image": "https://avt.mkklcdnv6temp.com/23/i/18-1583498006.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 140136,
+        "aniId": 109436,
+        "createdAt": "2021-06-01T23:31:52.000Z",
+        "updatedAt": "2022-01-11T12:11:57.000Z",
         "deletedAt": null
       }
     }

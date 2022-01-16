@@ -18,7 +18,7 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-05-23T23:08:18.000Z",
-  "updatedAt": "2021-11-21T23:43:18.000Z",
+  "updatedAt": "2022-01-15T11:11:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -40,6 +40,28 @@
         "aniId": 115607,
         "createdAt": "2020-10-12T16:13:24.000Z",
         "updatedAt": "2021-12-05T22:48:30.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "one_of_a_kind_romance": {
+        "authors": [
+          "Doo Boo"
+        ],
+        "identifier": "one_of_a_kind_romance",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "One Of A Kind Romance",
+        "url": "https://fanfox.net/manga/one_of_a_kind_romance/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27765/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 115607,
+        "createdAt": "2022-01-15T11:11:57.000Z",
+        "updatedAt": "2022-01-15T11:11:57.000Z",
         "deletedAt": null
       }
     }

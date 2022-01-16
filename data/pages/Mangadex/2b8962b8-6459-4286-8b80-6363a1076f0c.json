@@ -1,6 +1,6 @@
 {
   "authors": [
-    "KAKERU",
+    "Kakeru",
     "Seguchi Takahiro"
   ],
   "identifier": "2b8962b8-6459-4286-8b80-6363a1076f0c",
@@ -12,13 +12,34 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 116655,
   "createdAt": "2020-12-28T11:53:17.000Z",
-  "updatedAt": "2021-07-11T12:13:17.000Z",
+  "updatedAt": "2022-01-13T22:48:10.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "織津江大志の異世界クリ娘サバイバル日誌",
+      "Taishi Oritsue's Another-World Creature Girls Survival Journal"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Takahiro Seguchi",
+      "KAKERU"
+    ],
+    "id": 116655,
+    "malId": null,
+    "type": "manga",
+    "title": "Oritsue Taishi no Isekai Kuri Musume Survival Nisshi",
+    "url": "https://anilist.co/manga/116655",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116655-WUeYyzHjdt7q.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-11T12:13:17.000Z",
+    "updatedAt": "2022-01-11T13:13:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 123591,
   "createdAt": "2020-10-30T16:40:37.000Z",
-  "updatedAt": "2021-12-08T06:38:42.000Z",
+  "updatedAt": "2022-01-15T17:16:29.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Dジェネシス ダンジョンが出来て３年",
+      "D Genesis: 3 Years after Dungeon Appeared"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "ttl",
+      "Tsuranori Kono",
+      "Miya Taira"
+    ],
+    "id": 123591,
+    "malId": null,
+    "type": "manga",
+    "title": "D Genesis: Dungeon ga Dekite 3-nen",
+    "url": "https://anilist.co/manga/123591",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx123591-jpDI76SJCrg1.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-27T00:06:35.000Z",
+    "updatedAt": "2021-12-26T04:28:26.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

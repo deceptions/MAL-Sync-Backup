@@ -16,7 +16,31 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-09-02T22:45:46.000Z",
-  "updatedAt": "2021-11-23T14:36:28.000Z",
+  "updatedAt": "2022-01-15T08:12:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "a4f9c8dc-e09a-401e-8c71-feb4deed1ba9": {
+        "authors": [
+          "Tsukimura Ryoe",
+          "Fukuda Ikumi"
+        ],
+        "identifier": "a4f9c8dc-e09a-401e-8c71-feb4deed1ba9",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Dobaku no Hana",
+        "url": "https://mangadex.org/title/a4f9c8dc-e09a-401e-8c71-feb4deed1ba9",
+        "image": "https://uploads.mangadex.org/covers/a4f9c8dc-e09a-401e-8c71-feb4deed1ba9/64bd6b26-1b70-4ea2-9209-8367aa2e64e8.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 128769,
+        "createdAt": "2021-07-15T07:21:44.000Z",
+        "updatedAt": "2022-01-15T17:19:43.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

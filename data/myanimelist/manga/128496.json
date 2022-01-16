@@ -48,6 +48,30 @@
         "updatedAt": "2021-12-06T09:43:30.000Z",
         "deletedAt": null
       }
+    },
+    "Mangadex": {
+      "cd6c44ec-4c04-490f-bf5f-bad6995d4514": {
+        "authors": [
+          "Takuma Ishii",
+          "Kikuchi Seiji",
+          "Ogata Shunsuke"
+        ],
+        "identifier": "cd6c44ec-4c04-490f-bf5f-bad6995d4514",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Kenja no Mago SS",
+        "url": "https://mangadex.org/title/cd6c44ec-4c04-490f-bf5f-bad6995d4514",
+        "image": "https://uploads.mangadex.org/covers/cd6c44ec-4c04-490f-bf5f-bad6995d4514/548692d3-6d0d-43eb-b026-afee62255237.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128496,
+        "aniId": 121390,
+        "createdAt": "2022-01-11T18:41:38.000Z",
+        "updatedAt": "2022-01-11T19:11:39.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

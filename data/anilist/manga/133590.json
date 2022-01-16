@@ -18,5 +18,29 @@
   "createdAt": "2021-08-01T20:17:39.000Z",
   "updatedAt": "2021-12-20T16:48:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ib986084": {
+        "authors": [
+          "Iciyuan动漫",
+          "映梦社"
+        ],
+        "identifier": "manga-ib986084",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Super Shared Boyfriend System",
+        "url": "https://readmanganato.com/manga-ib986084",
+        "image": "https://avt.mkklcdnv6temp.com/42/r/21-1596272392.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 133590,
+        "createdAt": "2021-05-29T18:43:45.000Z",
+        "updatedAt": "2022-01-13T22:48:04.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

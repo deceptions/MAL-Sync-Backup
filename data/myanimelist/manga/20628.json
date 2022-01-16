@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%AB%E3%83%9F%E3%81%95%E3%82%93%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+    }
+  ],
   "altTitle": [
     "Ookami-san to Shichinin no Chuugen-tachi",
     "Ookami-san to Shichinin no Chuugentachi",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:42:52.000Z",
-  "updatedAt": "2021-07-24T01:22:49.000Z",
+  "updatedAt": "2022-01-14T04:41:46.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -85,6 +90,28 @@
         "aniId": 50628,
         "createdAt": "2021-07-24T01:22:39.000Z",
         "updatedAt": "2021-07-24T01:51:33.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "ookami_san_to_shichinin_no_nakamatachi": {
+        "authors": [
+          "OKITA Masashi"
+        ],
+        "identifier": "ookami_san_to_shichinin_no_nakamatachi",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Ookami-san to Shichinin no Nakamatachi",
+        "url": "https://fanfox.net/manga/ookami_san_to_shichinin_no_nakamatachi/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/8734/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 20628,
+        "aniId": 50628,
+        "createdAt": "2022-01-14T04:41:44.000Z",
+        "updatedAt": "2022-01-14T05:11:42.000Z",
         "deletedAt": null
       }
     }

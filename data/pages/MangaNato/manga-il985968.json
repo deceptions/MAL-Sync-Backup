@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
+  "actor": 1,
+  "malId": 139832,
   "aniId": 121988,
   "createdAt": "2021-08-23T18:06:45.000Z",
-  "updatedAt": "2021-08-23T18:06:54.000Z",
+  "updatedAt": "2022-01-09T13:54:52.000Z",
   "deletedAt": null,
-  "Mal": null,
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.comic-medu.com/wk/viercasan_vs"
+      }
+    ],
+    "altTitle": [
+      "ヴィールカさんVS"
+    ],
+    "authors": [],
+    "id": 139832,
+    "type": "manga",
+    "title": "Viruka-San Vs",
+    "url": "https://myanimelist.net/manga/139832/Viruka-San_Vs",
+    "image": "https://cdn.myanimelist.net/images/manga/3/249558.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2022-01-09T10:48:19.000Z",
+    "updatedAt": "2022-01-09T10:48:19.000Z",
+    "deletedAt": null
+  },
   "Anilist": {
     "altTitle": [
       "ヴィールカさんVS",
@@ -40,5 +61,5 @@
     "updatedAt": "2021-08-23T18:06:54.000Z",
     "deletedAt": null
   },
-  "malUrl": ""
+  "malUrl": "https://myanimelist.net/manga/139832/Viruka-San_Vs"
 }

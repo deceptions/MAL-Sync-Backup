@@ -25,5 +25,29 @@
   "createdAt": "2021-05-22T10:12:58.000Z",
   "updatedAt": "2021-11-25T20:35:32.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lj988944": {
+        "authors": [
+          "Garin",
+          "Ken"
+        ],
+        "identifier": "manga-lj988944",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "I Will Change The Genre",
+        "url": "https://readmanganato.com/manga-lj988944",
+        "image": "https://avt.mkklcdnv6temp.com/9/r/24-1619669462.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 133038,
+        "createdAt": "2021-05-28T21:24:43.000Z",
+        "updatedAt": "2022-01-08T06:48:02.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

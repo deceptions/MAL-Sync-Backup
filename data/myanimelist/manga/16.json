@@ -67,6 +67,28 @@
         "deletedAt": null
       }
     },
+    "MangaFox": {
+      "love_hina": {
+        "authors": [
+          "AKAMATSU Ken"
+        ],
+        "identifier": "love_hina",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Love Hina",
+        "url": "https://fanfox.net/manga/love_hina/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/108/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 16,
+        "aniId": 30016,
+        "createdAt": "2021-07-05T10:29:50.000Z",
+        "updatedAt": "2022-01-05T11:18:12.000Z",
+        "deletedAt": null
+      }
+    },
     "MangaNato": {
       "manga-cs956801": {
         "authors": [
@@ -85,7 +107,7 @@
         "malId": 16,
         "aniId": 30016,
         "createdAt": "2021-07-10T12:13:29.000Z",
-        "updatedAt": "2021-07-10T12:43:19.000Z",
+        "updatedAt": "2022-01-10T13:12:29.000Z",
         "deletedAt": null
       }
     }

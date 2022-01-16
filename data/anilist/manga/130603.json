@@ -23,5 +23,29 @@
   "createdAt": "2021-05-21T11:12:57.000Z",
   "updatedAt": "2022-01-02T09:54:22.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "97190cb0-91d7-409f-bcb3-f16443f479e4": {
+        "authors": [
+          "Park Tae Joon",
+          "Joo-in Kim"
+        ],
+        "identifier": "97190cb0-91d7-409f-bcb3-f16443f479e4",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Desire Diary",
+        "url": "https://mangadex.org/title/97190cb0-91d7-409f-bcb3-f16443f479e4",
+        "image": "https://uploads.mangadex.org/covers/97190cb0-91d7-409f-bcb3-f16443f479e4/0e0f8fe1-5f45-48b7-a539-17110145e72d.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": null,
+        "aniId": 130603,
+        "createdAt": "2021-01-04T11:57:31.000Z",
+        "updatedAt": "2022-01-15T16:51:44.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -89,6 +89,28 @@
         "updatedAt": "2021-08-25T22:06:33.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "chikyuu_no_houkago": {
+        "authors": [
+          "YOSHITOMI Akihito"
+        ],
+        "identifier": "chikyuu_no_houkago",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Chikyuu no Houkago",
+        "url": "https://fanfox.net/manga/chikyuu_no_houkago/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/15164/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 71363,
+        "aniId": 86227,
+        "createdAt": "2022-01-09T08:18:04.000Z",
+        "updatedAt": "2022-01-09T08:47:58.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

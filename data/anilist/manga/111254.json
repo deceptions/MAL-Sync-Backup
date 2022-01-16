@@ -39,6 +39,28 @@
         "updatedAt": "2021-10-01T13:31:33.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "liberta": {
+        "authors": [
+          "Tatsubon"
+        ],
+        "identifier": "liberta",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Liberta",
+        "url": "https://fanfox.net/manga/liberta/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/31267/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 111254,
+        "createdAt": "2021-07-08T03:15:09.000Z",
+        "updatedAt": "2022-01-08T03:18:53.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

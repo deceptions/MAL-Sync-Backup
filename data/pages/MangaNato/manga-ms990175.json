@@ -11,13 +11,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 143872,
   "createdAt": "2021-12-08T02:05:11.000Z",
-  "updatedAt": "2021-12-08T02:05:11.000Z",
+  "updatedAt": "2022-01-15T17:16:22.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "마른 가지의 라가"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Injeop",
+      "Myuje"
+    ],
+    "id": 143872,
+    "malId": null,
+    "type": "manga",
+    "title": "Mareun Gajiui Raga",
+    "url": "https://anilist.co/manga/143872",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143872-7w4Svf6stbJg.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2022-01-14T18:11:46.000Z",
+    "updatedAt": "2022-01-14T18:41:45.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

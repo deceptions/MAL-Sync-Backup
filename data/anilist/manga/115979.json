@@ -33,7 +33,7 @@
         "page": "Mangadex",
         "title": "Tales of Reincarnation in Maydare",
         "url": "https://mangadex.org/title/9e2707b8-b723-41de-a608-4e4d9ce2f99c",
-        "image": "https://uploads.mangadex.org/covers/9e2707b8-b723-41de-a608-4e4d9ce2f99c/0b65e5fa-b176-4a6c-8a2a-3652a0b14b1b.jpg",
+        "image": "https://uploads.mangadex.org/covers/9e2707b8-b723-41de-a608-4e4d9ce2f99c/d8961bd8-a1ba-433e-87be-7c2f7ce229e8.jpg",
         "hentai": false,
         "sticky": false,
         "active": true,
@@ -41,7 +41,7 @@
         "malId": 124139,
         "aniId": 115979,
         "createdAt": "2020-10-12T16:18:20.000Z",
-        "updatedAt": "2021-07-14T22:50:49.000Z",
+        "updatedAt": "2022-01-14T23:11:45.000Z",
         "deletedAt": null
       }
     },
@@ -88,6 +88,28 @@
         "aniId": 115979,
         "createdAt": "2021-05-29T11:12:33.000Z",
         "updatedAt": "2021-11-29T12:07:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "maydare_tensei_monogatari": {
+        "authors": [
+          "YUUMA Midori"
+        ],
+        "identifier": "maydare_tensei_monogatari",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Maydare Tensei Monogatari",
+        "url": "https://fanfox.net/manga/maydare_tensei_monogatari/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/34225/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 124139,
+        "aniId": 115979,
+        "createdAt": "2021-07-08T09:13:48.000Z",
+        "updatedAt": "2022-01-08T16:18:05.000Z",
         "deletedAt": null
       }
     }

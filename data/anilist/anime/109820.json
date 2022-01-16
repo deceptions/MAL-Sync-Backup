@@ -16,5 +16,44 @@
   "createdAt": "2021-08-12T22:06:59.000Z",
   "updatedAt": "2022-01-04T19:47:51.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "kwol6": {
+        "identifier": "kwol6",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sabiiro no Armor: Reimei",
+        "url": "https://9anime.to/watch/rusted-armors.kwol6",
+        "image": "https://static.bunnycdn.ru/i/cache/images/b/ba/baa373e8c306bee740e61d4296c7f751.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39917,
+        "aniId": 109820,
+        "createdAt": "2022-01-09T16:19:41.000Z",
+        "updatedAt": "2022-01-09T16:47:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sabiiro-no-armor-reimei": {
+        "identifier": "sabiiro-no-armor-reimei",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sabiiro no Armor: Reimei",
+        "url": "https://gogoanime.cm/category/sabiiro-no-armor-reimei",
+        "image": "https://gogocdn.net/cover/sabiiro-no-armor-reimei.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 39917,
+        "aniId": 109820,
+        "createdAt": "2022-01-09T16:21:34.000Z",
+        "updatedAt": "2022-01-09T16:47:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

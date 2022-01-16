@@ -14,9 +14,9 @@
   "active": true,
   "actor": 1,
   "malId": 142429,
-  "aniId": null,
+  "aniId": 142496,
   "createdAt": "2021-12-09T08:04:31.000Z",
-  "updatedAt": "2021-12-13T09:45:47.000Z",
+  "updatedAt": "2022-01-10T16:41:39.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -42,6 +42,26 @@
     "updatedAt": "2021-12-12T21:34:02.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Gate of Nightmares"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yoshinori Matsuoka",
+      "Hiro Mashima"
+    ],
+    "id": 142496,
+    "malId": 142429,
+    "type": "manga",
+    "title": "Gate of Nightmares",
+    "url": "https://anilist.co/manga/142496",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx142496-DMpS8jVykU6q.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-12-08T03:33:38.000Z",
+    "updatedAt": "2022-01-10T16:11:39.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/142429/Gate_of_Nightmares"
 }

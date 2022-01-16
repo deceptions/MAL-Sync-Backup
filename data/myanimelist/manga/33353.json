@@ -61,6 +61,37 @@
         "updatedAt": "2021-12-05T21:19:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "yuri_shoujo": {
+        "authors": [
+          "Chinjaoroosu",
+          "HIDAKA Joo",
+          "HOUJOU Kozu",
+          "INOUE Shinkai",
+          "JYUNAI Kyo",
+          "KIMIKAWA Rui",
+          "KITAO Taki",
+          "MIHARA Gorie",
+          "Miman",
+          "MITOU K"
+        ],
+        "identifier": "yuri_shoujo",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Yuri Shoujo",
+        "url": "https://fanfox.net/manga/yuri_shoujo/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/23325/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 33353,
+        "aniId": 63353,
+        "createdAt": "2021-07-05T10:30:12.000Z",
+        "updatedAt": "2022-01-05T11:18:12.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

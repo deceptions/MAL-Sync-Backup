@@ -30,7 +30,7 @@
   "hentai": false,
   "anidbId": 6493,
   "createdAt": "2020-10-12T15:38:51.000Z",
-  "updatedAt": "2021-10-01T22:03:44.000Z",
+  "updatedAt": "2022-01-12T14:11:49.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -49,6 +49,25 @@
         "aniId": 6281,
         "createdAt": "2020-10-12T15:53:37.000Z",
         "updatedAt": "2021-05-20T15:21:52.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "the-asylum-session": {
+        "identifier": "the-asylum-session",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "The Asylum Session",
+        "url": "https://gogoanime.cm/category/the-asylum-session",
+        "image": "https://gogocdn.net/images/The-Asylum-Session.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 6281,
+        "aniId": 6281,
+        "createdAt": "2022-01-12T14:11:40.000Z",
+        "updatedAt": "2022-01-12T14:41:39.000Z",
         "deletedAt": null
       }
     }

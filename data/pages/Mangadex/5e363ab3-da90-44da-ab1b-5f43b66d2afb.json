@@ -15,10 +15,15 @@
   "malId": 91009,
   "aniId": 95398,
   "createdAt": "2021-07-10T17:43:17.000Z",
-  "updatedAt": "2021-07-10T17:43:36.000Z",
+  "updatedAt": "2022-01-10T18:12:19.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%27%E3%83%A0_%E3%83%9B%E3%83%BC%E3%83%A0"
+      }
+    ],
     "altTitle": [
       "I'm home [アイ'ム ホーム]"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-07-10T17:43:19.000Z",
-    "updatedAt": "2021-07-10T17:43:19.000Z",
+    "updatedAt": "2022-01-10T18:11:59.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -53,7 +58,7 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-07-10T17:43:36.000Z",
-    "updatedAt": "2021-07-10T17:43:36.000Z",
+    "updatedAt": "2022-01-10T18:12:19.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/91009/Im_Home"

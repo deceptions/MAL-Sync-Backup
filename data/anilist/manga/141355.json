@@ -18,5 +18,28 @@
   "createdAt": "2021-11-09T05:13:35.000Z",
   "updatedAt": "2021-12-24T10:21:47.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "57fe3f00-8626-462b-8f75-fce0e6faa6be": {
+        "authors": [
+          "島村 (shimamura)"
+        ],
+        "identifier": "57fe3f00-8626-462b-8f75-fce0e6faa6be",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Waka-chan wa Kyou mo Azatoi",
+        "url": "https://mangadex.org/title/57fe3f00-8626-462b-8f75-fce0e6faa6be",
+        "image": "https://uploads.mangadex.org/covers/57fe3f00-8626-462b-8f75-fce0e6faa6be/bc6aa07e-ccc2-43ff-89ba-36e88a4ea45e.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 141355,
+        "createdAt": "2021-02-11T06:40:38.000Z",
+        "updatedAt": "2022-01-13T22:47:48.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

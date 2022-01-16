@@ -41,6 +41,50 @@
         "updatedAt": "2021-12-05T21:49:38.000Z",
         "deletedAt": null
       }
+    },
+    "MangaNato": {
+      "manga-bb979258": {
+        "authors": [
+          "Utau Aizaki"
+        ],
+        "identifier": "manga-bb979258",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Why Did I Enter The Art Course!?",
+        "url": "https://manganato.com/manga-bb979258",
+        "image": "https://avt.mkklcdnv6temp.com/34/s/16-1583494717.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110130,
+        "aniId": 101612,
+        "createdAt": "2021-07-08T15:43:18.000Z",
+        "updatedAt": "2022-01-08T16:18:05.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "doushite_watashi_ga_bijutsuka_ni": {
+        "authors": [
+          "AIZAKI Utau"
+        ],
+        "identifier": "doushite_watashi_ga_bijutsuka_ni",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Doushite Watashi ga Bijutsuka ni!?",
+        "url": "https://fanfox.net/manga/doushite_watashi_ga_bijutsuka_ni/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27822/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 110130,
+        "aniId": 101612,
+        "createdAt": "2021-07-08T21:43:38.000Z",
+        "updatedAt": "2022-01-08T22:18:15.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

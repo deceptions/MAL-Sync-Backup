@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 143859,
   "createdAt": "2021-12-04T16:18:18.000Z",
-  "updatedAt": "2021-12-04T16:18:18.000Z",
+  "updatedAt": "2022-01-15T16:51:53.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "그 오토메 게임의 배드엔딩"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Cheongwon",
+      "Cheomji",
+      "Nun-Sae Geum"
+    ],
+    "id": 143859,
+    "malId": null,
+    "type": "manga",
+    "title": "Geu Otome Game-ui Bad Ending",
+    "url": "https://anilist.co/manga/143859",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx143859-h5UAkETdLjgx.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2022-01-14T06:41:43.000Z",
+    "updatedAt": "2022-01-14T06:41:43.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

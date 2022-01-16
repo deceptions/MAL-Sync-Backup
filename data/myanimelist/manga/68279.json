@@ -19,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:14.000Z",
-  "updatedAt": "2021-11-03T14:06:21.000Z",
+  "updatedAt": "2022-01-12T12:13:05.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,29 @@
         "aniId": 90821,
         "createdAt": "2020-10-12T16:07:13.000Z",
         "updatedAt": "2021-12-04T01:18:28.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-co954197": {
+        "authors": [
+          "Acquire Corp.",
+          "Mizuta Kenji"
+        ],
+        "identifier": "manga-co954197",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Akiba's Trip",
+        "url": "https://manganato.com/manga-co954197",
+        "image": "https://avt.mkklcdnv6temp.com/49/x/2-1583467622.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 68279,
+        "aniId": 90821,
+        "createdAt": "2022-01-12T12:13:04.000Z",
+        "updatedAt": "2022-01-12T12:41:39.000Z",
         "deletedAt": null
       }
     }

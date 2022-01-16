@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 8649,
-  "aniId": null,
+  "aniId": 38649,
   "createdAt": "2022-01-09T00:49:06.000Z",
-  "updatedAt": "2022-01-09T00:49:16.000Z",
+  "updatedAt": "2022-01-09T01:17:54.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -41,6 +41,30 @@
     "updatedAt": "2022-01-09T00:49:16.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Princess 100%",
+      "姫100％",
+      "Super Girl",
+      "Supergirl",
+      "The Act of the Star Theater",
+      "Going Through the Time"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Michiyo Akaishi"
+    ],
+    "id": 38649,
+    "malId": 8649,
+    "type": "manga",
+    "title": "Hime 100%",
+    "url": "https://anilist.co/manga/38649",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx38649-FdEw6JQMxmtX.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:40:49.000Z",
+    "updatedAt": "2021-11-06T08:04:20.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/8649/Hime_100"
 }

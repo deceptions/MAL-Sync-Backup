@@ -17,5 +17,28 @@
   "createdAt": "2021-06-04T23:18:57.000Z",
   "updatedAt": "2021-08-18T06:07:00.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-ka988257": {
+        "authors": [
+          "Edanaka"
+        ],
+        "identifier": "manga-ka988257",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mukuchi Na Omoi Wa Koi To Naru",
+        "url": "https://manganato.com/manga-ka988257",
+        "image": "https://avt.mkklcdnv6temp.com/31/e/23-1613971585.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139432,
+        "aniId": 129683,
+        "createdAt": "2022-01-15T17:41:45.000Z",
+        "updatedAt": "2022-01-15T18:11:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

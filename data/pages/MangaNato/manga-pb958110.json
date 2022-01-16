@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 1924,
-  "aniId": null,
+  "aniId": 31924,
   "createdAt": "2022-01-09T00:47:57.000Z",
-  "updatedAt": "2022-01-09T00:48:56.000Z",
+  "updatedAt": "2022-01-09T01:17:54.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -42,6 +42,26 @@
     "updatedAt": "2022-01-09T00:48:56.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "いぬみみ",
+      "Inu-mimi"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Rei Nakajima"
+    ],
+    "id": 31924,
+    "malId": 1924,
+    "type": "manga",
+    "title": "Inumimi",
+    "url": "https://anilist.co/manga/31924",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/1924.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:36:56.000Z",
+    "updatedAt": "2021-12-17T10:31:37.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/1924/Inumimi"
 }

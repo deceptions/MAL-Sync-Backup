@@ -20,5 +20,28 @@
   "createdAt": "2021-08-09T21:39:16.000Z",
   "updatedAt": "2022-01-07T21:47:52.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "b2a10de0-914b-44c1-b4ad-b217fd5f36d7": {
+        "authors": [
+          "Furuya Minoru"
+        ],
+        "identifier": "b2a10de0-914b-44c1-b4ad-b217fd5f36d7",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Himeanole",
+        "url": "https://mangadex.org/title/b2a10de0-914b-44c1-b4ad-b217fd5f36d7",
+        "image": "https://uploads.mangadex.org/covers/b2a10de0-914b-44c1-b4ad-b217fd5f36d7/06adfeca-2a88-483a-b440-8f3180df967e.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 56439,
+        "aniId": 88210,
+        "createdAt": "2022-01-10T19:41:49.000Z",
+        "updatedAt": "2022-01-10T19:41:49.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

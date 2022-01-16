@@ -82,6 +82,28 @@
         "updatedAt": "2021-07-28T06:21:36.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "god_child": {
+        "authors": [
+          "YUKI Kaori"
+        ],
+        "identifier": "god_child",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "God Child",
+        "url": "https://fanfox.net/manga/god_child/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/2498/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 635,
+        "aniId": 30635,
+        "createdAt": "2022-01-10T05:48:21.000Z",
+        "updatedAt": "2022-01-10T06:17:58.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

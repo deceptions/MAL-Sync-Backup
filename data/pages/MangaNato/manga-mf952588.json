@@ -15,10 +15,15 @@
   "malId": 1436,
   "aniId": 31436,
   "createdAt": "2021-07-09T01:44:07.000Z",
-  "updatedAt": "2021-07-09T02:43:16.000Z",
+  "updatedAt": "2022-01-09T02:47:54.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%88%E3%83%AD%E3%83%9D%E3%83%AA%E3%82%B9_%28%E6%BC%AB%E7%94%BB%29"
+      }
+    ],
     "altTitle": [
       "Metropolis",
       "メトロポリス"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:33.000Z",
-    "updatedAt": "2021-07-09T02:15:51.000Z",
+    "updatedAt": "2022-01-09T02:18:55.000Z",
     "deletedAt": null
   },
   "Anilist": {

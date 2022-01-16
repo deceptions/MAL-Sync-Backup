@@ -1,5 +1,6 @@
 {
   "authors": [
+    "LIM Dall-Young",
     "Kim Kwang Hyun"
   ],
   "identifier": "05a56be4-26ab-4f50-8fc0-ab8304570258",
@@ -11,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 140527,
   "createdAt": "2021-11-22T03:13:08.000Z",
-  "updatedAt": "2021-11-22T03:13:08.000Z",
+  "updatedAt": "2022-01-13T19:19:17.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ドローイング 最強漫画家はお絵かきスキルで異世界無双する！"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Kwang-Hyun Kim",
+      "Dal-Young Im"
+    ],
+    "id": 140527,
+    "malId": null,
+    "type": "manga",
+    "title": "Drawing: Saikyou Mangaka Wa Oekaki Skill De Isekai Musou Suru! ",
+    "url": "https://anilist.co/manga/140527",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx140527-000bKtzCuzS5.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-11-22T03:12:38.000Z",
+    "updatedAt": "2022-01-12T07:42:43.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

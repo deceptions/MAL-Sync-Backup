@@ -11,13 +11,34 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 120310,
   "createdAt": "2021-05-29T10:42:27.000Z",
-  "updatedAt": "2021-12-23T18:52:08.000Z",
+  "updatedAt": "2022-01-15T17:16:31.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Dragon In My Body",
+      "我身上有条龙",
+      "I Have a Dragon in My Body"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Daoshang Project"
+    ],
+    "id": 120310,
+    "malId": null,
+    "type": "manga",
+    "title": "Wo Shenshang You Tiao Long",
+    "url": "https://anilist.co/manga/120310",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120310-bOhjaciXSZ80.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T04:12:58.000Z",
+    "updatedAt": "2021-12-19T18:48:47.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

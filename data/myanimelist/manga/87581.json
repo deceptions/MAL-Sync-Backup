@@ -21,7 +21,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:55.000Z",
-  "updatedAt": "2021-11-13T02:15:48.000Z",
+  "updatedAt": "2022-01-15T17:44:07.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -44,6 +44,29 @@
         "aniId": 87196,
         "createdAt": "2020-10-12T16:09:29.000Z",
         "updatedAt": "2021-12-04T18:25:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ge984313": {
+        "authors": [
+          "Hanabana Tsubomi",
+          "Type-Moon"
+        ],
+        "identifier": "manga-ge984313",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Type-Moon Gakuen - Chibi Chuki!",
+        "url": "https://manganato.com/manga-ge984313",
+        "image": "https://avt.mkklcdnv6temp.com/21/n/20-1583501852.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 87581,
+        "aniId": 87196,
+        "createdAt": "2022-01-15T17:43:57.000Z",
+        "updatedAt": "2022-01-15T18:11:45.000Z",
         "deletedAt": null
       }
     }

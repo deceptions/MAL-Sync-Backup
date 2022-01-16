@@ -11,13 +11,43 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 116382,
   "createdAt": "2021-05-31T09:20:20.000Z",
-  "updatedAt": "2021-12-18T00:18:25.000Z",
+  "updatedAt": "2022-01-11T12:12:06.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The Villainess Turns the Hourglass",
+      "악녀는 모래시계를 되돌린다",
+      "The Villainess Reverses the Hourglass",
+      "La villana retrocede el reloj de arena",
+      "反派女主的时间沙漏",
+      "悪女は砂時計をひっくり返す",
+      "时光沙漏·逆转命运的少女"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Sansobi",
+      "Dwaeji Cake",
+      "Ju-Hui Lee",
+      "BABARA",
+      "Yu-Sin Kim",
+      "Ttaelkkam"
+    ],
+    "id": 116382,
+    "malId": null,
+    "type": "manga",
+    "title": "Agnyeoneun Molaesigyeleul Doedollinda",
+    "url": "https://anilist.co/manga/116382",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx116382-tIvarheFA3mT.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T16:13:39.000Z",
+    "updatedAt": "2022-01-02T23:54:33.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

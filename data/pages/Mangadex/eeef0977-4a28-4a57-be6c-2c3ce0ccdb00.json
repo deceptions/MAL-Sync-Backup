@@ -12,13 +12,34 @@
   "hentai": true,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 130957,
   "createdAt": "2021-02-07T18:49:57.000Z",
-  "updatedAt": "2022-01-08T18:48:06.000Z",
+  "updatedAt": "2022-01-09T13:53:51.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "悪魔だった君たちへ",
+      "To You We Were Demons"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Misumi Koujou",
+      "Kousuke Nakaritsu"
+    ],
+    "id": 130957,
+    "malId": null,
+    "type": "manga",
+    "title": "Akuma datta Kimitachi e  ",
+    "url": "https://anilist.co/manga/130957",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx130957-xaApx6lFcJKT.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-08T18:44:01.000Z",
+    "updatedAt": "2022-01-08T19:18:37.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

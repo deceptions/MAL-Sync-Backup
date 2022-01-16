@@ -20,5 +20,29 @@
   "createdAt": "2021-05-23T16:38:28.000Z",
   "updatedAt": "2021-12-31T03:25:31.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "615bdf9a-049d-4cd2-9edc-78b66d305c8c": {
+        "authors": [
+          "Donkey Rider(骑驴夫子)",
+          "Berial"
+        ],
+        "identifier": "615bdf9a-049d-4cd2-9edc-78b66d305c8c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Flawless Metropolitan Divine Emperor",
+        "url": "https://mangadex.org/title/615bdf9a-049d-4cd2-9edc-78b66d305c8c",
+        "image": "https://uploads.mangadex.org/covers/615bdf9a-049d-4cd2-9edc-78b66d305c8c/6a7526bf-cd69-48d1-a79c-51cafbdf2871.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 120392,
+        "createdAt": "2020-10-12T16:18:45.000Z",
+        "updatedAt": "2022-01-11T22:27:07.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -18,5 +18,28 @@
   "createdAt": "2021-07-31T15:22:00.000Z",
   "updatedAt": "2021-08-13T06:36:59.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "827a3cbf-6859-4f71-906f-285596becb59": {
+        "authors": [
+          "Takekake Takeya"
+        ],
+        "identifier": "827a3cbf-6859-4f71-906f-285596becb59",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Nido to Jidori Okutte Yannai! ",
+        "url": "https://mangadex.org/title/827a3cbf-6859-4f71-906f-285596becb59",
+        "image": "https://uploads.mangadex.org/covers/827a3cbf-6859-4f71-906f-285596becb59/c17b0f6d-b017-4b4e-8e25-a85536d36a96.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 139400,
+        "aniId": 131238,
+        "createdAt": "2022-01-13T06:41:41.000Z",
+        "updatedAt": "2022-01-13T06:41:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

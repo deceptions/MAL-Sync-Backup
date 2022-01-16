@@ -22,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-11-08T23:43:58.000Z",
-  "updatedAt": "2021-11-29T11:36:05.000Z",
+  "updatedAt": "2022-01-14T19:42:25.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -45,6 +45,29 @@
         "aniId": 119708,
         "createdAt": "2020-10-12T16:19:33.000Z",
         "updatedAt": "2021-12-07T22:35:41.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "oukoku-e-tsuzuku-michi": {
+        "authors": [
+          "ITOU Toshinori",
+          "YUMIZU Kai"
+        ],
+        "identifier": "oukoku-e-tsuzuku-michi",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Oukoku e Tsuzuku Michi",
+        "url": "https://mangasee123.com/manga/Oukoku-e-Tsuzuku-Michi",
+        "image": "https://cover.nep.li/cover/Oukoku-e-Tsuzuku-Michi.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 122925,
+        "aniId": 86443,
+        "createdAt": "2020-12-25T05:56:07.000Z",
+        "updatedAt": "2022-01-15T16:52:45.000Z",
         "deletedAt": null
       }
     },

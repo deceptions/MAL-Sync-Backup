@@ -9,7 +9,7 @@
     "Ashiyama"
   ],
   "id": 127341,
-  "malId": null,
+  "malId": 134335,
   "type": "manga",
   "title": "Ningentachi no Gensokyo",
   "url": "https://anilist.co/manga/127341",
@@ -17,7 +17,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-07-12T07:15:01.000Z",
-  "updatedAt": "2021-07-12T07:15:01.000Z",
+  "updatedAt": "2022-01-12T07:42:43.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "df4711ea-39e6-488d-8d5e-d6accc339865": {
+        "authors": [
+          "Ashiyama Yoshinori"
+        ],
+        "identifier": "df4711ea-39e6-488d-8d5e-d6accc339865",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Touhou ~ The Gensokyo of Humans",
+        "url": "https://mangadex.org/title/df4711ea-39e6-488d-8d5e-d6accc339865",
+        "image": "https://uploads.mangadex.org/covers/df4711ea-39e6-488d-8d5e-d6accc339865/ab6cc95b-9963-43e2-9d61-755d81ff79fb.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 134335,
+        "aniId": 127341,
+        "createdAt": "2020-10-12T16:18:05.000Z",
+        "updatedAt": "2022-01-12T08:11:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

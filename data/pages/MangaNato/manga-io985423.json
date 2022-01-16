@@ -15,10 +15,15 @@
   "malId": 1850,
   "aniId": 31850,
   "createdAt": "2021-07-09T11:15:20.000Z",
-  "updatedAt": "2021-07-09T11:43:16.000Z",
+  "updatedAt": "2022-01-09T11:48:52.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B3%E3%82%AD%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+      }
+    ],
     "altTitle": [
       "Jinki:Extend",
       "ジンキ・エクステンド"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:38.000Z",
-    "updatedAt": "2021-07-09T11:15:29.000Z",
+    "updatedAt": "2022-01-09T11:18:09.000Z",
     "deletedAt": null
   },
   "Anilist": {

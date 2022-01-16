@@ -14,9 +14,9 @@
   "active": true,
   "actor": 1,
   "malId": 139164,
-  "aniId": null,
+  "aniId": 121991,
   "createdAt": "2021-01-12T16:21:31.000Z",
-  "updatedAt": "2022-01-04T19:07:04.000Z",
+  "updatedAt": "2022-01-11T13:11:38.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [
@@ -50,6 +50,31 @@
     "updatedAt": "2022-01-04T18:19:04.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Viral Hit",
+      "싸움독학",
+      "How to Fight",
+      "喧嘩独学",
+      "格鬥實況",
+      "นักสู้ทูปเบอร์"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Jung-Hyun Kim",
+      "Tae-Jun Park"
+    ],
+    "id": 121991,
+    "malId": 139164,
+    "type": "manga",
+    "title": "Ssaumdokak",
+    "url": "https://anilist.co/manga/121991",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b121991-hwrVszteyodi.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-22T01:12:58.000Z",
+    "updatedAt": "2022-01-11T12:42:50.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/139164/Viral_Hit"
 }

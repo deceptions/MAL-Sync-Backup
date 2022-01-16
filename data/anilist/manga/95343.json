@@ -50,6 +50,33 @@
         "updatedAt": "2021-12-04T12:53:28.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "mushishi_gaitanshuu": {
+        "authors": [
+          "ASHINANO Hitoshi",
+          "IMAI Tetsuya",
+          "KUMAKURA Takatoshi",
+          "TOYODA Tetsuya",
+          "URUSHIBARA Yuki",
+          "YOSHIDA Motoi"
+        ],
+        "identifier": "mushishi_gaitanshuu",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mushishi Gaitanshuu",
+        "url": "https://fanfox.net/manga/mushishi_gaitanshuu/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27938/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 90711,
+        "aniId": 95343,
+        "createdAt": "2022-01-15T08:12:28.000Z",
+        "updatedAt": "2022-01-15T08:41:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%82%AC%E3%83%8D%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9"
+    }
+  ],
   "altTitle": [
     "ハリガネサービス"
   ],
@@ -14,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:25.000Z",
-  "updatedAt": "2021-09-27T15:41:58.000Z",
+  "updatedAt": "2022-01-15T18:12:15.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -80,6 +85,29 @@
         "aniId": 86260,
         "createdAt": "2021-09-27T15:41:52.000Z",
         "updatedAt": "2021-09-27T16:03:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ug953363": {
+        "authors": [
+          "Ara Tatsuya",
+          "[Add]"
+        ],
+        "identifier": "manga-ug953363",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Harigane Service",
+        "url": "https://manganato.com/manga-ug953363",
+        "image": "https://avt.mkklcdnv6temp.com/20/r/2-1583466511.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 76835,
+        "aniId": 86260,
+        "createdAt": "2022-01-15T18:11:56.000Z",
+        "updatedAt": "2022-01-15T18:41:45.000Z",
         "deletedAt": null
       }
     }

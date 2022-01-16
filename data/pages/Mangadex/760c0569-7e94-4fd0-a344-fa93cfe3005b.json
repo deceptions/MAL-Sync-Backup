@@ -18,11 +18,20 @@
   "updatedAt": "2021-12-03T09:48:26.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.shojobeat.com/manga/ion/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%B3"
+      }
+    ],
     "altTitle": [
-      "I.O.N",
       "I-O-N",
       "ION",
+      "I.O.N",
       "イ・オ・ン"
     ],
     "authors": [
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:30.000Z",
-    "updatedAt": "2021-07-11T08:43:29.000Z",
+    "updatedAt": "2022-01-11T09:11:39.000Z",
     "deletedAt": null
   },
   "Anilist": {

@@ -16,7 +16,30 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-08-03T03:47:39.000Z",
-  "updatedAt": "2021-12-13T10:00:48.000Z",
+  "updatedAt": "2022-01-12T21:42:01.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lv988678": {
+        "authors": [
+          "Cocotohru"
+        ],
+        "identifier": "manga-lv988678",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "The Timid Succubus And Her Handsome Meal",
+        "url": "https://manganato.com/manga-lv988678",
+        "image": "https://avt.mkklcdnv6temp.com/48/v/23-1617249612.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 137366,
+        "createdAt": "2021-06-04T07:18:57.000Z",
+        "updatedAt": "2022-01-13T19:21:55.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -15,7 +15,30 @@
   "category": "One-shot",
   "hentai": true,
   "createdAt": "2021-11-19T18:47:55.000Z",
-  "updatedAt": "2021-11-19T18:47:55.000Z",
+  "updatedAt": "2022-01-14T19:11:55.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "331a05ce-4094-478d-b168-24d17b4702bd": {
+        "authors": [
+          "Suruga Kuroitsu"
+        ],
+        "identifier": "331a05ce-4094-478d-b168-24d17b4702bd",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mistaken Love",
+        "url": "https://mangadex.org/title/331a05ce-4094-478d-b168-24d17b4702bd",
+        "image": "https://uploads.mangadex.org/covers/331a05ce-4094-478d-b168-24d17b4702bd/8a6b15ae-e39e-4936-80d9-4d8fe80e379e.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 141507,
+        "aniId": null,
+        "createdAt": "2021-01-26T04:42:59.000Z",
+        "updatedAt": "2022-01-15T17:18:57.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

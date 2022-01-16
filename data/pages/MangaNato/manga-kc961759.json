@@ -15,10 +15,19 @@
   "malId": 82987,
   "aniId": 86116,
   "createdAt": "2021-07-09T03:43:52.000Z",
-  "updatedAt": "2021-07-09T04:43:16.000Z",
+  "updatedAt": "2022-01-09T04:48:05.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://websunday.net/rensai/sensou/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/%E6%88%A6%E4%BA%89%E5%8A%87%E5%A0%B4"
+      }
+    ],
     "altTitle": [
       "戦争劇場"
     ],
@@ -33,7 +42,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:45:38.000Z",
-    "updatedAt": "2021-07-09T04:14:56.000Z",
+    "updatedAt": "2022-01-09T04:19:06.000Z",
     "deletedAt": null
   },
   "Anilist": {

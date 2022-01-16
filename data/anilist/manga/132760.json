@@ -20,5 +20,29 @@
   "createdAt": "2021-06-12T21:08:29.000Z",
   "updatedAt": "2022-01-06T16:18:23.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "3747dbbb-63ab-41e4-a389-0a66382840e0": {
+        "authors": [
+          "Tensei Mikami",
+          "Shusuke Hashiito"
+        ],
+        "identifier": "3747dbbb-63ab-41e4-a389-0a66382840e0",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Sword, Tiara and High Heels",
+        "url": "https://mangadex.org/title/3747dbbb-63ab-41e4-a389-0a66382840e0",
+        "image": "https://uploads.mangadex.org/covers/3747dbbb-63ab-41e4-a389-0a66382840e0/128be5c5-7216-42b9-92e5-3663d194b721.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 132760,
+        "createdAt": "2021-01-18T07:02:42.000Z",
+        "updatedAt": "2022-01-13T19:20:26.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

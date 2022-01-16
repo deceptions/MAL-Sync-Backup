@@ -11,13 +11,60 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": null,
-  "aniId": null,
+  "actor": 1,
+  "malId": 124260,
+  "aniId": 113155,
   "createdAt": "2021-06-04T00:19:30.000Z",
-  "updatedAt": "2021-12-04T00:49:29.000Z",
+  "updatedAt": "2022-01-13T23:11:42.000Z",
   "deletedAt": null,
-  "Mal": null,
-  "Anilist": null,
-  "malUrl": ""
+  "Mal": {
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_AM00000015010000_68/"
+      }
+    ],
+    "altTitle": [
+      "False Hero has no Place in This World.",
+      "勇者の代わりに魔王討伐したら手柄を横取りされました"
+    ],
+    "authors": [
+      "Kimiduka, Shou",
+      "Sekijou, Hijiri"
+    ],
+    "id": 124260,
+    "type": "manga",
+    "title": "Yuusha no Kawari ni Maou Toubatsu shitara Tegara wo Yokodori Saremashita",
+    "url": "https://myanimelist.net/manga/124260/Yuusha_no_Kawari_ni_Maou_Toubatsu_shitara_Tegara_wo_Yokodori_Saremashita",
+    "image": "https://cdn.myanimelist.net/images/manga/3/226664.jpg",
+    "category": "Manga",
+    "hentai": false,
+    "createdAt": "2020-10-12T15:48:13.000Z",
+    "updatedAt": "2022-01-12T16:12:00.000Z",
+    "deletedAt": null
+  },
+  "Anilist": {
+    "altTitle": [
+      "勇者の代わりに魔王討伐したら手柄を横取りされました",
+      "False Hero has no Place in This World."
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Yuunara",
+      "Hijiri Sekijou",
+      "Shou Kimizuka"
+    ],
+    "id": 113155,
+    "malId": 124260,
+    "type": "manga",
+    "title": "Yuusha no Kawari ni Maou Toubatsu Shitara Tegara wo Yokodoroi Saremashita",
+    "url": "https://anilist.co/manga/113155",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx113155-e1VftZ55SLHs.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-20T14:59:04.000Z",
+    "updatedAt": "2021-12-18T07:52:05.000Z",
+    "deletedAt": null
+  },
+  "malUrl": "https://myanimelist.net/manga/124260/Yuusha_no_Kawari_ni_Maou_Toubatsu_shitara_Tegara_wo_Yokodori_Saremashita"
 }

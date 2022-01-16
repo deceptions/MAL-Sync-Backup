@@ -88,6 +88,28 @@
         "updatedAt": "2021-12-07T08:19:04.000Z",
         "deletedAt": null
       }
+    },
+    "MangaFox": {
+      "my_broken_mariko": {
+        "authors": [
+          "HIRAKO Waka"
+        ],
+        "identifier": "my_broken_mariko",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "My Broken Mariko",
+        "url": "https://fanfox.net/manga/my_broken_mariko/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/32550/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 123812,
+        "aniId": 112579,
+        "createdAt": "2022-01-14T14:11:47.000Z",
+        "updatedAt": "2022-01-14T14:41:45.000Z",
+        "deletedAt": null
+      }
     }
   }
 }

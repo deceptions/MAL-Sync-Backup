@@ -35,11 +35,11 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
-        "malId": 70259,
+        "actor": 1,
+        "malId": 142765,
         "aniId": 142989,
         "createdAt": "2021-12-22T13:52:07.000Z",
-        "updatedAt": "2021-12-25T21:21:03.000Z",
+        "updatedAt": "2022-01-14T11:10:01.000Z",
         "deletedAt": null
       }
     },
@@ -58,11 +58,33 @@
         "hentai": false,
         "sticky": false,
         "active": true,
-        "actor": 2,
-        "malId": 70259,
+        "actor": 1,
+        "malId": 142765,
         "aniId": 142989,
         "createdAt": "2021-12-31T10:23:36.000Z",
-        "updatedAt": "2022-01-01T21:15:29.000Z",
+        "updatedAt": "2022-01-14T11:10:03.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "mushoku_tensei_depressed_magician": {
+        "authors": [
+          "Rifujin na Magonote"
+        ],
+        "identifier": "mushoku_tensei_depressed_magician",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Mushoku Tensei - Depressed Magician",
+        "url": "https://fanfox.net/manga/mushoku_tensei_depressed_magician/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/40713/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 142765,
+        "aniId": 142989,
+        "createdAt": "2021-12-31T12:53:50.000Z",
+        "updatedAt": "2022-01-14T11:10:09.000Z",
         "deletedAt": null
       }
     }

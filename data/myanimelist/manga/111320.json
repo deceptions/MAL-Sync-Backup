@@ -19,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:22.000Z",
-  "updatedAt": "2021-12-04T09:16:58.000Z",
+  "updatedAt": "2022-01-12T06:12:41.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -63,6 +63,28 @@
         "aniId": 100751,
         "createdAt": "2021-06-04T08:49:38.000Z",
         "updatedAt": "2021-12-04T09:48:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaFox": {
+      "manabi_ikiru_wa_fuufu_no_tsutome": {
+        "authors": [
+          "KOSAME Daizu"
+        ],
+        "identifier": "manabi_ikiru_wa_fuufu_no_tsutome",
+        "type": "manga",
+        "page": "MangaFox",
+        "title": "Manabi Ikiru wa Fuufu no tsutome",
+        "url": "https://fanfox.net/manga/manabi_ikiru_wa_fuufu_no_tsutome/",
+        "image": "https://fmcdn.mfcdn.net/store/manga/27208/cover.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 111320,
+        "aniId": 100751,
+        "createdAt": "2022-01-12T06:11:50.000Z",
+        "updatedAt": "2022-01-12T06:41:39.000Z",
         "deletedAt": null
       }
     }

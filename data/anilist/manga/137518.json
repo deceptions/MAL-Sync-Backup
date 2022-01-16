@@ -18,5 +18,28 @@
   "createdAt": "2021-08-05T07:47:31.000Z",
   "updatedAt": "2021-12-24T16:27:35.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "ff09caa3-a990-4dff-a22f-d33d9be38f1c": {
+        "authors": [
+          "Yaki Tomato"
+        ],
+        "identifier": "ff09caa3-a990-4dff-a22f-d33d9be38f1c",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "300-nen Fuuinsareshi Jaryuu-chan to Tomodachi ni Narimashita",
+        "url": "https://mangadex.org/title/ff09caa3-a990-4dff-a22f-d33d9be38f1c",
+        "image": "https://uploads.mangadex.org/covers/ff09caa3-a990-4dff-a22f-d33d9be38f1c/5dc3a693-5d13-4e0e-801f-e9e6b257e3c3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 134482,
+        "aniId": 137518,
+        "createdAt": "2020-12-12T06:47:54.000Z",
+        "updatedAt": "2022-01-10T10:37:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

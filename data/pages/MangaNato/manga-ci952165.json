@@ -15,15 +15,20 @@
   "malId": 99177,
   "aniId": 86510,
   "createdAt": "2021-06-02T09:31:21.000Z",
-  "updatedAt": "2021-07-09T08:13:17.000Z",
+  "updatedAt": "2022-01-09T08:18:10.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://www.lezhin.com/ko/comic/cartoon_hero"
+      }
+    ],
     "altTitle": [
-      "4 Cut Hero",
       "4-Panel Hero",
       "Four Cut Hero",
       "Cartoon Hero",
+      "4 Cut Hero",
       "4컷용사"
     ],
     "authors": [
@@ -37,7 +42,7 @@
     "category": "Manhwa",
     "hentai": false,
     "createdAt": "2020-10-12T15:46:32.000Z",
-    "updatedAt": "2021-07-09T06:44:08.000Z",
+    "updatedAt": "2022-01-09T06:49:00.000Z",
     "deletedAt": null
   },
   "Anilist": {

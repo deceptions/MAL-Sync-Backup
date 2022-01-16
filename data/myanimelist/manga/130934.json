@@ -24,5 +24,30 @@
   "createdAt": "2022-01-07T16:49:12.000Z",
   "updatedAt": "2022-01-07T16:49:12.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "2fec6641-beb1-4ae9-a32f-204dd06688ac": {
+        "authors": [
+          "Saekisan",
+          " Suzu Yūki",
+          "Wan Shibata"
+        ],
+        "identifier": "2fec6641-beb1-4ae9-a32f-204dd06688ac",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "The Angel Next Door Spoils Me Rotten",
+        "url": "https://mangadex.org/title/2fec6641-beb1-4ae9-a32f-204dd06688ac",
+        "image": "https://uploads.mangadex.org/covers/2fec6641-beb1-4ae9-a32f-204dd06688ac/64a8cc88-df1c-4b63-a7ed-f41c9cfcff7a.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": 130934,
+        "aniId": 122337,
+        "createdAt": "2022-01-05T18:18:40.000Z",
+        "updatedAt": "2022-01-10T10:38:01.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

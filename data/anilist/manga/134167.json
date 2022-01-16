@@ -20,5 +20,29 @@
   "createdAt": "2021-05-23T05:13:00.000Z",
   "updatedAt": "2021-12-21T18:23:56.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-lg989063": {
+        "authors": [
+          "Gyuni",
+          "Soreumidang"
+        ],
+        "identifier": "manga-lg989063",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Follow The Bread Crumbs",
+        "url": "https://readmanganato.com/manga-lg989063",
+        "image": "https://avt.mkklcdnv6temp.com/14/p/24-1621611216.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 134167,
+        "createdAt": "2021-06-02T23:01:32.000Z",
+        "updatedAt": "2022-01-05T10:17:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

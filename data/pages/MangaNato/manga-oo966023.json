@@ -15,10 +15,15 @@
   "malId": 3399,
   "aniId": 33399,
   "createdAt": "2021-07-14T00:50:59.000Z",
-  "updatedAt": "2021-07-14T01:20:49.000Z",
+  "updatedAt": "2022-01-14T01:41:42.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "wikipedia",
+        "url": "http://ja.wikipedia.org/wiki/ぽてまよ"
+      }
+    ],
     "altTitle": [
       "ぽてまよ"
     ],
@@ -33,7 +38,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2020-10-12T15:40:50.000Z",
-    "updatedAt": "2021-07-14T00:51:51.000Z",
+    "updatedAt": "2022-01-14T01:12:34.000Z",
     "deletedAt": null
   },
   "Anilist": {

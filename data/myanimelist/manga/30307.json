@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.square-enix.com/jp/magazine/ganganonline/comic/kitakubu/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E5%B8%B0%E5%AE%85%E9%83%A8%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2"
+    }
+  ],
   "altTitle": [
     "Go-Home Club Activity Minutes",
     "帰宅部活動記録"
@@ -15,7 +24,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:41.000Z",
-  "updatedAt": "2021-07-14T16:22:51.000Z",
+  "updatedAt": "2022-01-14T16:41:56.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -59,28 +68,6 @@
         "aniId": 60307,
         "createdAt": "2021-01-28T16:49:00.000Z",
         "updatedAt": "2021-11-20T18:14:56.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaFox": {
-      "kitakubu_katsudou_kiroku": {
-        "authors": [
-          "Kuroha"
-        ],
-        "identifier": "kitakubu_katsudou_kiroku",
-        "type": "manga",
-        "page": "MangaFox",
-        "title": "Kitakubu Katsudou Kiroku",
-        "url": "https://fanfox.net/manga/kitakubu_katsudou_kiroku/",
-        "image": "https://fmcdn.mfcdn.net/store/manga/12832/cover.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 30307,
-        "aniId": 60307,
-        "createdAt": "2021-07-14T16:22:46.000Z",
-        "updatedAt": "2021-07-14T16:50:49.000Z",
         "deletedAt": null
       }
     },

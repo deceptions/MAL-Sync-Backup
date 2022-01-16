@@ -15,7 +15,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:43:01.000Z",
-  "updatedAt": "2021-11-03T11:06:01.000Z",
+  "updatedAt": "2022-01-11T21:11:40.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -37,6 +37,28 @@
         "aniId": 52257,
         "createdAt": "2020-10-12T16:05:42.000Z",
         "updatedAt": "2021-12-03T14:48:18.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-pn966596": {
+        "authors": [
+          "Tezuka Osamu"
+        ],
+        "identifier": "manga-pn966596",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kenjuu Tenshi",
+        "url": "https://manganato.com/manga-pn966596",
+        "image": "https://avt.mkklcdnv6temp.com/47/p/10-1583483892.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 22257,
+        "aniId": 52257,
+        "createdAt": "2022-01-11T21:11:38.000Z",
+        "updatedAt": "2022-01-11T21:41:39.000Z",
         "deletedAt": null
       }
     }

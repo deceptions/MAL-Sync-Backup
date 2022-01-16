@@ -20,7 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:33.000Z",
-  "updatedAt": "2021-11-07T17:49:57.000Z",
+  "updatedAt": "2022-01-11T01:41:59.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -42,6 +42,28 @@
         "aniId": 79439,
         "createdAt": "2020-10-12T16:06:11.000Z",
         "updatedAt": "2021-12-03T18:18:49.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaSee": {
+      "yonensei": {
+        "authors": [
+          "KIO Shimoku"
+        ],
+        "identifier": "yonensei",
+        "type": "manga",
+        "page": "MangaSee",
+        "title": "Yonensei",
+        "url": "https://mangasee123.com/manga/Yonensei",
+        "image": "https://cover.nep.li/cover/Yonensei.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 49439,
+        "aniId": 79439,
+        "createdAt": "2022-01-11T01:41:58.000Z",
+        "updatedAt": "2022-01-11T02:11:38.000Z",
         "deletedAt": null
       }
     }

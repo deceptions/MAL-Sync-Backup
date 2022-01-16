@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 106694,
-  "aniId": null,
+  "aniId": 136494,
   "createdAt": "2020-10-12T16:10:39.000Z",
-  "updatedAt": "2021-12-05T08:48:09.000Z",
+  "updatedAt": "2022-01-09T17:47:59.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -37,6 +37,26 @@
     "updatedAt": "2021-12-05T03:16:58.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "GUN DRAGON Σ",
+      "Gun Dragon Sigma"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Buichi Terasawa"
+    ],
+    "id": 136494,
+    "malId": 106694,
+    "type": "manga",
+    "title": "Gun Dragon Σ",
+    "url": "https://anilist.co/manga/136494",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b136494-E7Bl3Eo0tBRW.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-09T16:43:18.000Z",
+    "updatedAt": "2022-01-09T17:18:00.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/106694/Gun_Dragon_Σ"
 }

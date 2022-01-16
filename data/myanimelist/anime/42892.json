@@ -32,5 +32,44 @@
   "createdAt": "2021-06-30T12:51:02.000Z",
   "updatedAt": "2022-01-01T21:24:55.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Gogoanime": {
+      "baraou-no-souretsu": {
+        "identifier": "baraou-no-souretsu",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Baraou no Souretsu",
+        "url": "https://gogoanime.cm/category/baraou-no-souretsu",
+        "image": "https://gogocdn.net/cover/baraou-no-souretsu.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42892,
+        "aniId": 124060,
+        "createdAt": "2022-01-09T14:18:11.000Z",
+        "updatedAt": "2022-01-09T14:47:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "9anime": {
+      "7nx1": {
+        "identifier": "7nx1",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Baraou no Souretsu",
+        "url": "https://9anime.to/watch/requiem-of-the-rose-king.7nx1",
+        "image": "https://static.bunnycdn.ru/i/cache/images/e/eb/ebcaf2beeb0aeee2b84b1114e409df2f.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 42892,
+        "aniId": 124060,
+        "createdAt": "2022-01-09T14:48:29.000Z",
+        "updatedAt": "2022-01-09T15:17:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -15,7 +15,30 @@
   "category": "manga",
   "hentai": false,
   "createdAt": "2021-10-22T09:17:31.000Z",
-  "updatedAt": "2021-10-22T09:17:31.000Z",
+  "updatedAt": "2022-01-15T15:41:55.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "032dd9b3-d7b9-4297-89be-ff918c12b2f8": {
+        "authors": [
+          "Ayase Retsu"
+        ],
+        "identifier": "032dd9b3-d7b9-4297-89be-ff918c12b2f8",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "Mitsuru Bocchan wa Bocchi",
+        "url": "https://mangadex.org/title/032dd9b3-d7b9-4297-89be-ff918c12b2f8",
+        "image": "https://uploads.mangadex.org/covers/032dd9b3-d7b9-4297-89be-ff918c12b2f8/8f8df08c-0b72-4ab5-b4ff-f4fb2b16dedd.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": 2,
+        "malId": 139805,
+        "aniId": 108395,
+        "createdAt": "2020-11-19T09:20:44.000Z",
+        "updatedAt": "2022-01-15T17:11:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

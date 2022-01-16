@@ -19,7 +19,31 @@
   "category": "manga",
   "hentai": true,
   "createdAt": "2021-05-25T19:08:18.000Z",
-  "updatedAt": "2021-11-18T09:14:03.000Z",
+  "updatedAt": "2022-01-13T00:12:10.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "d468ab04-8496-44ff-885c-b00f738a4a6a": {
+        "authors": [
+          "JS",
+          "Cave Bear"
+        ],
+        "identifier": "d468ab04-8496-44ff-885c-b00f738a4a6a",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "She Is Young",
+        "url": "https://mangadex.org/title/d468ab04-8496-44ff-885c-b00f738a4a6a",
+        "image": "https://uploads.mangadex.org/covers/d468ab04-8496-44ff-885c-b00f738a4a6a/7de1060a-e12a-4af2-b4c2-7456a0ceb93b.jpg",
+        "hentai": true,
+        "sticky": false,
+        "active": true,
+        "actor": 1,
+        "malId": null,
+        "aniId": 86631,
+        "createdAt": "2020-10-12T16:08:52.000Z",
+        "updatedAt": "2022-01-13T19:20:45.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -18,8 +18,8 @@
     }
   ],
   "altTitle": [
-    "Glitter Force",
     "Smile Pretty Cure!",
+    "Glitter Force",
     "スマイルプリキュア"
   ],
   "id": 12191,
@@ -31,7 +31,7 @@
   "hentai": false,
   "anidbId": 8819,
   "createdAt": "2020-10-12T15:39:10.000Z",
-  "updatedAt": "2021-10-02T11:36:14.000Z",
+  "updatedAt": "2022-01-11T19:12:31.000Z",
   "deletedAt": null,
   "Pages": {
     "9anime": {
@@ -86,6 +86,25 @@
         "aniId": 12191,
         "createdAt": "2020-11-06T21:58:44.000Z",
         "updatedAt": "2021-05-20T15:21:57.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "smile-precure": {
+        "identifier": "smile-precure",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Smile Precure!",
+        "url": "https://gogoanime.cm/category/smile-precure",
+        "image": "https://gogocdn.net/images/anime/S/smile-precure.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 12191,
+        "aniId": 12191,
+        "createdAt": "2022-01-11T19:11:40.000Z",
+        "updatedAt": "2022-01-11T19:41:38.000Z",
         "deletedAt": null
       }
     }

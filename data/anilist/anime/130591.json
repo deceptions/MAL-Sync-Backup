@@ -9,6 +9,14 @@
     {
       "site": "Funimation",
       "url": "https://www.funimation.com/shows/sabikui-bisco/"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/sabikui-bisco"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G79H23V24/SABIKUI-BISCO"
     }
   ],
   "id": 130591,
@@ -20,7 +28,46 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-25T19:08:17.000Z",
-  "updatedAt": "2022-01-07T23:47:52.000Z",
+  "updatedAt": "2022-01-11T00:41:39.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "6llvp": {
+        "identifier": "6llvp",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Sabikui Bisco (Dub)",
+        "url": "https://9anime.to/watch/rust-eater-bisco-dub.6llvp",
+        "image": "https://static.bunnycdn.ru/i/cache/images/1/10/1021774e8e8cc09a40371e9dfab46208.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48414,
+        "aniId": 130591,
+        "createdAt": "2022-01-10T16:12:09.000Z",
+        "updatedAt": "2022-01-10T16:41:38.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "sabikui-bisco": {
+        "identifier": "sabikui-bisco",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Sabikui Bisco",
+        "url": "https://gogoanime.cm/category/sabikui-bisco",
+        "image": "https://gogocdn.net/cover/sabikui-bisco.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 48414,
+        "aniId": 130591,
+        "createdAt": "2022-01-10T18:41:59.000Z",
+        "updatedAt": "2022-01-10T19:11:38.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

@@ -12,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 2,
   "malId": null,
-  "aniId": null,
+  "aniId": 85986,
   "createdAt": "2021-06-02T09:30:51.000Z",
-  "updatedAt": "2021-12-02T09:48:48.000Z",
+  "updatedAt": "2022-01-15T17:19:54.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "仙逆"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ergen",
+      "CAL"
+    ],
+    "id": 85986,
+    "malId": null,
+    "type": "manga",
+    "title": "Xian Ni",
+    "url": "https://anilist.co/manga/85986",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/55986-vkY74zhp8SQ2.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-05-25T08:08:18.000Z",
+    "updatedAt": "2021-12-26T22:58:05.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

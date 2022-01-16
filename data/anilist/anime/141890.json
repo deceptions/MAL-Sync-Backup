@@ -15,5 +15,44 @@
   "createdAt": "2021-12-14T19:48:24.000Z",
   "updatedAt": "2021-12-14T19:48:24.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "w112o": {
+        "identifier": "w112o",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Bing Zhu Qi Hun",
+        "url": "https://9anime.to/watch/the-soul-of-soldier-master.w112o",
+        "image": "https://static.bunnycdn.ru/i/cache/images/f/fa/facd51055cdc71f743d673914a73f402.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 141890,
+        "createdAt": "2022-01-10T16:12:10.000Z",
+        "updatedAt": "2022-01-11T02:42:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "bing-zhu-qi-hun": {
+        "identifier": "bing-zhu-qi-hun",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Bing Zhu Qi Hun",
+        "url": "https://gogoanime.cm/category/bing-zhu-qi-hun",
+        "image": "https://gogocdn.net/cover/bing-zhu-qi-hun.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": null,
+        "aniId": 141890,
+        "createdAt": "2022-01-12T05:41:41.000Z",
+        "updatedAt": "2022-01-12T05:41:41.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

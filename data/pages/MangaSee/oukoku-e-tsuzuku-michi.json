@@ -12,31 +12,37 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
-  "malId": 90866,
+  "actor": 2,
+  "malId": 122925,
   "aniId": 86443,
   "createdAt": "2020-12-25T05:56:07.000Z",
-  "updatedAt": "2021-11-20T16:14:07.000Z",
+  "updatedAt": "2022-01-15T16:52:45.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "https://comic-walker.com/contents/detail/KDCW_MF09000004010000_68/"
+      }
+    ],
     "altTitle": [
-      "Road of the kingdom",
-      "王国へ続く道"
+      "Road to Kingdom",
+      "Oukoku e Tsuzuku Michi: Dorei Kenshi no Nariagari Eiyuutan",
+      "王国へ続く道 奴隷剣士の成り上がり英雄譚〈ハーレムライフ〉"
     ],
     "authors": [
-      "Hikage, Eiji",
-      "Yumizu, Kai"
+      "Yumizu, Kai",
+      "Itou, Toshinori"
     ],
-    "id": 90866,
+    "id": 122925,
     "type": "manga",
-    "title": "Oukoku e Tsuzuku Michi",
-    "url": "https://myanimelist.net/manga/90866/Oukoku_e_Tsuzuku_Michi",
-    "image": "https://cdn.myanimelist.net/images/manga/1/177272.jpg",
-    "category": "Light Novel",
+    "title": "Oukoku e Tsuzuku Michi: Dorei Kenshi no Nariagari Harem Life",
+    "url": "https://myanimelist.net/manga/122925/Oukoku_e_Tsuzuku_Michi__Dorei_Kenshi_no_Nariagari_Harem_Life",
+    "image": "https://cdn.myanimelist.net/images/manga/1/233386.jpg",
+    "category": "Manga",
     "hentai": false,
-    "createdAt": "2020-10-12T15:46:05.000Z",
-    "updatedAt": "2021-07-23T02:03:51.000Z",
+    "createdAt": "2020-11-08T23:43:58.000Z",
+    "updatedAt": "2022-01-14T19:42:25.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -62,5 +68,5 @@
     "updatedAt": "2021-12-17T22:52:06.000Z",
     "deletedAt": null
   },
-  "malUrl": "https://myanimelist.net/manga/90866/Oukoku_e_Tsuzuku_Michi"
+  "malUrl": "https://myanimelist.net/manga/122925/Oukoku_e_Tsuzuku_Michi__Dorei_Kenshi_no_Nariagari_Harem_Life"
 }

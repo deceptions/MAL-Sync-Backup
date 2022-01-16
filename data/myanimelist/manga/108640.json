@@ -28,5 +28,30 @@
   "createdAt": "2021-07-05T11:30:33.000Z",
   "updatedAt": "2022-01-05T11:49:43.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "MangaNato": {
+      "manga-eo951923": {
+        "authors": [
+          "Akizuki Wataru",
+          "Hasegawa Kouji",
+          "Mikage Takashi"
+        ],
+        "identifier": "manga-eo951923",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Mahou Shoujo Lyrical Nanoha - Comic Anthology",
+        "url": "https://manganato.com/manga-eo951923",
+        "image": "https://avt.mkklcdnv6temp.com/21/j/1-1583464538.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 108640,
+        "aniId": null,
+        "createdAt": "2021-07-05T11:30:23.000Z",
+        "updatedAt": "2022-01-05T11:49:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

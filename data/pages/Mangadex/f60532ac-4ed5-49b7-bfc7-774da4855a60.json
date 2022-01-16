@@ -1,6 +1,6 @@
 {
   "authors": [
-    "KOMEYAMA Shiwo"
+    "Komeyama Shiwo"
   ],
   "identifier": "f60532ac-4ed5-49b7-bfc7-774da4855a60",
   "type": "manga",
@@ -15,10 +15,15 @@
   "malId": 99786,
   "aniId": 118689,
   "createdAt": "2021-07-11T15:13:45.000Z",
-  "updatedAt": "2021-07-12T21:15:02.000Z",
+  "updatedAt": "2022-01-12T21:41:50.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://gangan.square-enix.co.jp/introduction/umeidouhiyo/"
+      }
+    ],
     "altTitle": [
       "Hiyo Umeidoh and Master's Ambition.",
       "梅衣堂ひよと旦那様の野望"
@@ -34,7 +39,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-07-11T15:13:51.000Z",
-    "updatedAt": "2021-07-11T15:13:51.000Z",
+    "updatedAt": "2022-01-11T15:41:59.000Z",
     "deletedAt": null
   },
   "Anilist": {
@@ -55,7 +60,7 @@
     "category": "manga",
     "hentai": false,
     "createdAt": "2021-07-12T20:45:02.000Z",
-    "updatedAt": "2021-07-12T20:45:02.000Z",
+    "updatedAt": "2022-01-12T21:11:51.000Z",
     "deletedAt": null
   },
   "malUrl": "https://myanimelist.net/manga/99786/Umeidou_Hiyo_to_Dannasama_no_Yabou"

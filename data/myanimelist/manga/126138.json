@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/本家のヨメ"
+    }
+  ],
   "altTitle": [
     "The Yamada Wife",
     "本家のヨメ"
@@ -15,30 +20,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2021-07-15T19:34:36.000Z",
-  "updatedAt": "2021-07-15T19:34:36.000Z",
+  "updatedAt": "2022-01-15T19:42:56.000Z",
   "deletedAt": null,
-  "Pages": {
-    "MangaSee": {
-      "the-yamada-wife": {
-        "authors": [
-          "OKADA Richi"
-        ],
-        "identifier": "the-yamada-wife",
-        "type": "manga",
-        "page": "MangaSee",
-        "title": "The Yamada Wife",
-        "url": "https://mangasee123.com/manga/The-Yamada-Wife",
-        "image": "https://cover.nep.li/cover/The-Yamada-Wife.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 126138,
-        "aniId": null,
-        "createdAt": "2021-07-15T19:34:29.000Z",
-        "updatedAt": "2021-07-15T19:34:36.000Z",
-        "deletedAt": null
-      }
-    }
-  }
+  "Pages": {}
 }

@@ -1,5 +1,14 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "officialsite",
+      "url": "http://www.muvluv.com/"
+    },
+    {
+      "site": "wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Muv-Luv#Muv-Luv_Unlimited"
+    }
+  ],
   "altTitle": [
     "MuvLuv Unlimited",
     "マブラヴ アンリミテッド"
@@ -16,7 +25,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:41:18.000Z",
-  "updatedAt": "2021-07-15T11:21:10.000Z",
+  "updatedAt": "2022-01-15T11:41:57.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -84,28 +93,6 @@
         "aniId": 38235,
         "createdAt": "2021-04-18T14:44:27.000Z",
         "updatedAt": "2021-11-20T21:48:16.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-nz964882": {
-        "authors": [
-          "Age"
-        ],
-        "identifier": "manga-nz964882",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Muvluv Unlimited",
-        "url": "https://manganato.com/manga-nz964882",
-        "image": "https://avt.mkklcdnv6temp.com/43/t/9-1583481935.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 8235,
-        "aniId": 38235,
-        "createdAt": "2021-07-15T11:21:01.000Z",
-        "updatedAt": "2021-07-15T11:50:51.000Z",
         "deletedAt": null
       }
     }

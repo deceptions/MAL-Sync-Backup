@@ -19,7 +19,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:47:52.000Z",
-  "updatedAt": "2021-11-23T10:06:17.000Z",
+  "updatedAt": "2022-01-10T00:49:00.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -41,6 +41,28 @@
         "aniId": 118961,
         "createdAt": "2020-10-12T16:19:00.000Z",
         "updatedAt": "2021-12-07T21:10:20.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-io985497": {
+        "authors": [
+          "Sakuratani Shū"
+        ],
+        "identifier": "manga-io985497",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "T-Dragon",
+        "url": "https://manganato.com/manga-io985497",
+        "image": "https://avt.mkklcdnv6temp.com/18/i/21-1590379437.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 118002,
+        "aniId": 118961,
+        "createdAt": "2022-01-10T00:48:08.000Z",
+        "updatedAt": "2022-01-10T01:17:58.000Z",
         "deletedAt": null
       }
     }

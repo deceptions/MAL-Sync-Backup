@@ -12,13 +12,33 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 133590,
   "createdAt": "2021-05-29T18:43:45.000Z",
-  "updatedAt": "2021-11-29T19:07:13.000Z",
+  "updatedAt": "2022-01-13T22:48:04.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "Super Boyfriend Sharing System",
+      "超级共享男友系统"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Bing Xia"
+    ],
+    "id": 133590,
+    "malId": null,
+    "type": "manga",
+    "title": "Chaoji Gongxiang Nanyou Xitong",
+    "url": "https://anilist.co/manga/133590",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b133590-2v738QsN7VPE.png",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-08-01T20:17:39.000Z",
+    "updatedAt": "2021-12-20T16:48:45.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

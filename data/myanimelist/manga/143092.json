@@ -17,5 +17,28 @@
   "createdAt": "2022-01-08T11:18:45.000Z",
   "updatedAt": "2022-01-08T11:18:45.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "Mangadex": {
+      "6532bfa8-1a83-47f6-bec2-38fb2444f3e3": {
+        "authors": [
+          "Hamada Kosuke"
+        ],
+        "identifier": "6532bfa8-1a83-47f6-bec2-38fb2444f3e3",
+        "type": "manga",
+        "page": "Mangadex",
+        "title": "re CERVIN",
+        "url": "https://mangadex.org/title/6532bfa8-1a83-47f6-bec2-38fb2444f3e3",
+        "image": "https://uploads.mangadex.org/covers/6532bfa8-1a83-47f6-bec2-38fb2444f3e3/91ed024f-f756-40f6-8acb-47a871aad1d3.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 143092,
+        "aniId": 142706,
+        "createdAt": "2022-01-10T10:11:53.000Z",
+        "updatedAt": "2022-01-10T10:11:53.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

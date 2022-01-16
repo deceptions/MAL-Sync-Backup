@@ -12,13 +12,35 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 131040,
   "createdAt": "2021-02-23T19:55:37.000Z",
-  "updatedAt": "2021-07-12T05:45:04.000Z",
+  "updatedAt": "2022-01-13T19:21:54.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "The King and the Paladin",
+      "국왕과 성기사의 약탈혼",
+      "The Predatory Marriage between King and Paladin"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Ji-Eun Park",
+      "Rin-Bi Lee"
+    ],
+    "id": 131040,
+    "malId": null,
+    "type": "manga",
+    "title": "Gugwanggwa Seonggisaui Yaktalhon",
+    "url": "https://anilist.co/manga/131040",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx131040-2PsuD3Mt7akt.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-06-01T07:22:55.000Z",
+    "updatedAt": "2021-12-18T20:18:56.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

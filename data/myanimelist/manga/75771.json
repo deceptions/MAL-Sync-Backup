@@ -16,7 +16,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:45:23.000Z",
-  "updatedAt": "2021-11-11T01:45:08.000Z",
+  "updatedAt": "2022-01-14T00:11:53.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -38,6 +38,28 @@
         "aniId": 100949,
         "createdAt": "2020-10-12T16:07:40.000Z",
         "updatedAt": "2021-12-04T04:51:19.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ce951639": {
+        "authors": [
+          "Ochazuke Nori"
+        ],
+        "identifier": "manga-ce951639",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Kyoufu Kansen",
+        "url": "https://manganato.com/manga-ce951639",
+        "image": "https://avt.mkklcdnv6temp.com/11/q/1-1583464116.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 75771,
+        "aniId": 100949,
+        "createdAt": "2022-01-14T00:11:45.000Z",
+        "updatedAt": "2022-01-14T00:41:42.000Z",
         "deletedAt": null
       }
     }

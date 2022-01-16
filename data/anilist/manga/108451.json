@@ -73,48 +73,6 @@
         "deletedAt": null
       }
     },
-    "MangaNato": {
-      "manga-eq981451": {
-        "authors": [
-          "Chae Habin"
-        ],
-        "identifier": "manga-eq981451",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "La Dolce Vita Di Adelaide",
-        "url": "https://readmanganato.com/manga-eq981451",
-        "image": "https://avt.mkklcdnv6temp.com/15/g/18-1583497674.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 128927,
-        "aniId": 108451,
-        "createdAt": "2021-07-14T13:51:27.000Z",
-        "updatedAt": "2021-07-14T14:20:49.000Z",
-        "deletedAt": null
-      },
-      "manga-ma990135": {
-        "authors": [
-          "Chae Habin"
-        ],
-        "identifier": "manga-ma990135",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Adelaide",
-        "url": "https://readmanganato.com/manga-ma990135",
-        "image": "https://avt.mkklcdnv6temp.com/11/r/25-1638634954.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 128927,
-        "aniId": 108451,
-        "createdAt": "2021-12-04T17:18:49.000Z",
-        "updatedAt": "2021-12-04T17:46:05.000Z",
-        "deletedAt": null
-      }
-    },
     "MangaFox": {
       "la_dolce_vita_di_adelaide": {
         "authors": [
@@ -134,6 +92,28 @@
         "aniId": 108451,
         "createdAt": "2021-11-25T21:35:32.000Z",
         "updatedAt": "2021-11-25T22:05:31.000Z",
+        "deletedAt": null
+      }
+    },
+    "MangaNato": {
+      "manga-ma990135": {
+        "authors": [
+          "Chae Habin"
+        ],
+        "identifier": "manga-ma990135",
+        "type": "manga",
+        "page": "MangaNato",
+        "title": "Adelaide",
+        "url": "https://readmanganato.com/manga-ma990135",
+        "image": "https://avt.mkklcdnv6temp.com/11/r/25-1638634954.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 128927,
+        "aniId": 108451,
+        "createdAt": "2021-12-04T17:18:49.000Z",
+        "updatedAt": "2021-12-04T17:46:05.000Z",
         "deletedAt": null
       }
     }

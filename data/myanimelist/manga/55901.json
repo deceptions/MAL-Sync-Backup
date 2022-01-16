@@ -1,5 +1,10 @@
 {
-  "externalLinks": null,
+  "externalLinks": [
+    {
+      "site": "wikipedia",
+      "url": "http://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B3%E3%82%A8%E3%82%B3%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%AF"
+    }
+  ],
   "altTitle": [
     "The Wizard of Darkness",
     "Eko Eko Azaraku",
@@ -17,7 +22,7 @@
   "category": "Manga",
   "hentai": false,
   "createdAt": "2020-10-12T15:44:47.000Z",
-  "updatedAt": "2021-07-15T01:21:57.000Z",
+  "updatedAt": "2022-01-15T01:42:37.000Z",
   "deletedAt": null,
   "Pages": {
     "Mangadex": {
@@ -39,28 +44,6 @@
         "aniId": 87212,
         "createdAt": "2020-10-12T16:09:34.000Z",
         "updatedAt": "2021-12-04T18:53:28.000Z",
-        "deletedAt": null
-      }
-    },
-    "MangaNato": {
-      "manga-th970542": {
-        "authors": [
-          "Koga Shinichi"
-        ],
-        "identifier": "manga-th970542",
-        "type": "manga",
-        "page": "MangaNato",
-        "title": "Eko Eko Azaraku",
-        "url": "https://manganato.com/manga-th970542",
-        "image": "https://avt.mkklcdnv6temp.com/29/p/13-1583488799.jpg",
-        "hentai": false,
-        "sticky": false,
-        "active": true,
-        "actor": null,
-        "malId": 55901,
-        "aniId": 87212,
-        "createdAt": "2021-07-15T01:21:54.000Z",
-        "updatedAt": "2021-07-15T01:50:50.000Z",
         "deletedAt": null
       }
     },

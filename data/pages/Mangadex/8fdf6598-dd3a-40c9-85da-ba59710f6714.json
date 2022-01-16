@@ -11,13 +11,32 @@
   "hentai": false,
   "sticky": false,
   "active": true,
-  "actor": null,
+  "actor": 1,
   "malId": null,
-  "aniId": null,
+  "aniId": 101467,
   "createdAt": "2020-10-12T16:09:44.000Z",
-  "updatedAt": "2021-07-11T13:43:28.000Z",
+  "updatedAt": "2022-01-11T22:27:08.000Z",
   "deletedAt": null,
   "Mal": null,
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ヤンキー西宮さんはちょろい"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Takemi Kuramoto"
+    ],
+    "id": 101467,
+    "malId": null,
+    "type": "manga",
+    "title": "Yankee Nishimiya-san wa Choroi",
+    "url": "https://anilist.co/manga/101467",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx101467-g5ezBSqeqmJZ.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-07-11T13:43:29.000Z",
+    "updatedAt": "2022-01-11T14:12:00.000Z",
+    "deletedAt": null
+  },
   "malUrl": ""
 }

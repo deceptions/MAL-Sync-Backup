@@ -13,9 +13,9 @@
   "active": true,
   "actor": null,
   "malId": 125573,
-  "aniId": null,
+  "aniId": 138791,
   "createdAt": "2020-10-12T16:19:01.000Z",
-  "updatedAt": "2021-12-07T21:37:22.000Z",
+  "updatedAt": "2022-01-09T12:17:58.000Z",
   "deletedAt": null,
   "Mal": {
     "externalLinks": [],
@@ -37,6 +37,27 @@
     "updatedAt": "2021-11-25T09:36:13.000Z",
     "deletedAt": null
   },
-  "Anilist": null,
+  "Anilist": {
+    "altTitle": [
+      "ソフィアの円環",
+      "Sophia's Torus",
+      "Le Lien du Destin"
+    ],
+    "externalLinks": [],
+    "authors": [
+      "Rei Yamada"
+    ],
+    "id": 138791,
+    "malId": 125573,
+    "type": "manga",
+    "title": "Sophia no Enkan",
+    "url": "https://anilist.co/manga/138791",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx138791-umIIw1coPlcg.jpg",
+    "category": "manga",
+    "hentai": false,
+    "createdAt": "2021-09-06T03:15:46.000Z",
+    "updatedAt": "2022-01-09T11:47:59.000Z",
+    "deletedAt": null
+  },
   "malUrl": "https://myanimelist.net/manga/125573/Sophia_no_Enkan"
 }

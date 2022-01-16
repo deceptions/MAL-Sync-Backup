@@ -18,10 +18,19 @@
   "updatedAt": "2021-08-23T22:06:33.000Z",
   "deletedAt": null,
   "Mal": {
-    "externalLinks": null,
+    "externalLinks": [
+      {
+        "site": "officialsite",
+        "url": "http://dash.shueisha.co.jp/feature/madan/"
+      },
+      {
+        "site": "wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/魔弾の王と戦姫"
+      }
+    ],
     "altTitle": [
-      "Lord Marksman and Michelia",
       "Madan no Ou to Touren no Yukihime",
+      "Lord Marksman and Michelia",
       "魔弾の王と凍漣の雪姫〈ミーチェリア〉"
     ],
     "authors": [
@@ -36,7 +45,7 @@
     "category": "Manga",
     "hentai": false,
     "createdAt": "2021-06-07T17:06:12.000Z",
-    "updatedAt": "2021-08-23T21:38:24.000Z",
+    "updatedAt": "2022-01-11T16:12:48.000Z",
     "deletedAt": null
   },
   "Anilist": {

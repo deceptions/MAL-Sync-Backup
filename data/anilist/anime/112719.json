@@ -20,5 +20,44 @@
   "createdAt": "2021-05-20T17:12:57.000Z",
   "updatedAt": "2022-01-08T13:17:54.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "3rr4r": {
+        "identifier": "3rr4r",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Futsal Boys!!!!!",
+        "url": "https://9anime.to/watch/futsal-boys.3rr4r",
+        "image": "https://static.bunnycdn.ru/i/cache/images/3/39/39e292d076c2aca2f7fb47930dda5666.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40488,
+        "aniId": 112719,
+        "createdAt": "2022-01-09T15:18:19.000Z",
+        "updatedAt": "2022-01-09T15:47:58.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "futsal-boys": {
+        "identifier": "futsal-boys",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Futsal Boys!!!!!",
+        "url": "https://gogoanime.cm/category/futsal-boys",
+        "image": "https://gogocdn.net/cover/futsal-boys.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 40488,
+        "aniId": 112719,
+        "createdAt": "2022-01-09T15:18:30.000Z",
+        "updatedAt": "2022-01-09T15:47:58.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }

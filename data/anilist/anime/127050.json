@@ -3,7 +3,16 @@
     "Love of Kill",
     "殺し愛"
   ],
-  "externalLinks": [],
+  "externalLinks": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/love-of-kill"
+    },
+    {
+      "site": "Vrv",
+      "url": "https://vrv.co/series/G0XHWM0XW"
+    }
+  ],
   "id": 127050,
   "malId": 44516,
   "type": "anime",
@@ -13,7 +22,46 @@
   "category": "tv",
   "hentai": false,
   "createdAt": "2021-05-23T03:12:58.000Z",
-  "updatedAt": "2021-11-23T22:35:47.000Z",
+  "updatedAt": "2022-01-13T02:41:41.000Z",
   "deletedAt": null,
-  "Pages": {}
+  "Pages": {
+    "9anime": {
+      "9p6n": {
+        "identifier": "9p6n",
+        "type": "anime",
+        "page": "9anime",
+        "title": "Koroshi Ai",
+        "url": "https://9anime.to/watch/love-of-kill.9p6n",
+        "image": "https://static.bunnycdn.ru/i/cache/images/0/0b/0bb0b111db50de2a0939ba866b1114b9.jpg",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44516,
+        "aniId": 127050,
+        "createdAt": "2022-01-12T16:43:00.000Z",
+        "updatedAt": "2022-01-12T17:11:39.000Z",
+        "deletedAt": null
+      }
+    },
+    "Gogoanime": {
+      "koroshi-ai": {
+        "identifier": "koroshi-ai",
+        "type": "anime",
+        "page": "Gogoanime",
+        "title": "Koroshi Ai",
+        "url": "https://gogoanime.cm/category/koroshi-ai",
+        "image": "https://gogocdn.net/cover/koroshi-ai.png",
+        "hentai": false,
+        "sticky": false,
+        "active": true,
+        "actor": null,
+        "malId": 44516,
+        "aniId": 127050,
+        "createdAt": "2022-01-12T16:43:03.000Z",
+        "updatedAt": "2022-01-12T17:11:39.000Z",
+        "deletedAt": null
+      }
+    }
+  }
 }
